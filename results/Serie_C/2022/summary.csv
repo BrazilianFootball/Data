@@ -1,0 +1,207 @@
+Game,Home,Away
+001,Ypiranga / RS,Aparecidense / GO
+002,Botafogo / PB,São José / RS
+003,Atlético / CE,Campinense / PB
+004,ABC / RN,Paysandu / PA
+005,Brasil / RS,Manaus / AM
+006,Altos / PI,Botafogo / SP
+007,Mirassol / SP,Ferroviário / CE
+008,Volta Redonda / RJ,Figueirense / SC
+009,Remo / PA,Vitória / BA
+010,Floresta / CE,Confiança / SE
+011,São José / RS,Volta Redonda / RJ
+012,Campinense / PB,Brasil / RS
+013,Confiança / SE,Ypiranga / RS
+014,Vitória / BA,Floresta / CE
+015,Botafogo / SP,Botafogo / PB
+016,Manaus / AM,Remo / PA
+017,Figueirense / SC,Altos / PI
+018,Aparecidense / GO,Mirassol / SP
+019,Ferroviário / CE,ABC / RN
+020,Paysandu / PA,Atlético / CE
+021,Ypiranga / RS,Vitória / BA
+022,Botafogo / PB,Confiança / SE
+023,Atlético / CE,Ferroviário / CE
+024,ABC / RN,Campinense / PB
+025,Brasil / RS,Botafogo / SP
+026,Manaus / AM,Aparecidense / GO
+027,Mirassol / SP,Paysandu / PA
+028,Volta Redonda / RJ,Altos / PI
+029,Remo / PA,São José / RS
+030,Floresta / CE,Figueirense / SC
+031,São José / RS,Brasil / RS
+032,Campinense / PB,Aparecidense / GO
+033,Confiança / SE,Remo / PA
+034,Vitória / BA,Manaus / AM
+035,Botafogo / SP,Floresta / CE
+036,Altos / PI,ABC / RN
+037,Figueirense / SC,Mirassol / SP
+038,Volta Redonda / RJ,Atlético / CE
+039,Ferroviário / CE,Botafogo / PB
+040,Paysandu / PA,Ypiranga / RS
+041,Ypiranga / RS,Floresta / CE
+042,Botafogo / PB,Altos / PI
+043,Atlético / CE,Figueirense / SC
+044,ABC / RN,Volta Redonda / RJ
+045,Brasil / RS,Remo / PA
+046,Manaus / AM,Confiança / SE
+047,Mirassol / SP,Campinense / PB
+048,Aparecidense / GO,Vitória / BA
+049,Ferroviário / CE,São José / RS
+050,Paysandu / PA,Botafogo / SP
+051,São José / RS,Paysandu / PA
+052,Campinense / PB,Ypiranga / RS
+053,Confiança / SE,Ferroviário / CE
+054,Vitória / BA,Botafogo / PB
+055,Botafogo / SP,ABC / RN
+056,Altos / PI,Atlético / CE
+057,Figueirense / SC,Aparecidense / GO
+058,Volta Redonda / RJ,Brasil / RS
+059,Remo / PA,Mirassol / SP
+060,Floresta / CE,Manaus / AM
+061,Ypiranga / RS,Remo / PA
+062,Botafogo / PB,Campinense / PB
+063,Atlético / CE,ABC / RN
+064,Vitória / BA,Confiança / SE
+065,Brasil / RS,Figueirense / SC
+066,Manaus / AM,São José / RS
+067,Mirassol / SP,Altos / PI
+068,Aparecidense / GO,Floresta / CE
+069,Ferroviário / CE,Botafogo / SP
+070,Paysandu / PA,Volta Redonda / RJ
+071,São José / RS,Atlético / CE
+072,Campinense / PB,Vitória / BA
+073,Confiança / SE,Aparecidense / GO
+074,ABC / RN,Brasil / RS
+075,Botafogo / SP,Mirassol / SP
+076,Altos / PI,Ypiranga / RS
+077,Figueirense / SC,Ferroviário / CE
+078,Volta Redonda / RJ,Botafogo / PB
+079,Remo / PA,Floresta / CE
+080,Paysandu / PA,Manaus / AM
+081,Ypiranga / RS,Figueirense / SC
+082,Botafogo / PB,ABC / RN
+083,Confiança / SE,Botafogo / SP
+084,Vitória / BA,Volta Redonda / RJ
+085,Ferroviário / CE,Paysandu / PA
+086,Manaus / AM,Altos / PI
+087,Mirassol / SP,Brasil / RS
+088,Aparecidense / GO,São José / RS
+089,Remo / PA,Campinense / PB
+090,Floresta / CE,Atlético / CE
+091,São José / RS,Floresta / CE
+092,Campinense / PB,Manaus / AM
+093,Atlético / CE,Vitória / BA
+094,ABC / RN,Mirassol / SP
+095,Brasil / RS,Ypiranga / RS
+096,Botafogo / SP,Aparecidense / GO
+097,Figueirense / SC,Confiança / SE
+098,Volta Redonda / RJ,Remo / PA
+099,Altos / PI,Ferroviário / CE
+100,Paysandu / PA,Botafogo / PB
+101,Ypiranga / RS,ABC / RN
+102,Botafogo / PB,Atlético / CE
+103,Confiança / SE,Campinense / PB
+104,Vitória / BA,Botafogo / SP
+105,Brasil / RS,Ferroviário / CE
+106,Manaus / AM,Figueirense / SC
+107,Mirassol / SP,São José / RS
+108,Aparecidense / GO,Paysandu / PA
+109,Remo / PA,Altos / PI
+110,Floresta / CE,Volta Redonda / RJ
+111,São José / RS,Campinense / PB
+112,Botafogo / PB,Mirassol / SP
+113,Atlético / CE,Ypiranga / RS
+114,ABC / RN,Confiança / SE
+115,Botafogo / SP,Manaus / AM
+116,Altos / PI,Vitória / BA
+117,Figueirense / SC,Remo / PA
+118,Volta Redonda / RJ,Aparecidense / GO
+119,Ferroviário / CE,Floresta / CE
+120,Paysandu / PA,Brasil / RS
+121,Ypiranga / RS,São José / RS
+122,Campinense / PB,Botafogo / SP
+123,Confiança / SE,Volta Redonda / RJ
+124,Vitória / BA,Figueirense / SC
+125,Brasil / RS,Botafogo / PB
+126,Manaus / AM,Ferroviário / CE
+127,Mirassol / SP,Atlético / CE
+128,Aparecidense / GO,ABC / RN
+129,Remo / PA,Paysandu / PA
+130,Floresta / CE,Altos / PI
+131,São José / RS,Vitória / BA
+132,Botafogo / PB,Floresta / CE
+133,Atlético / CE,Remo / PA
+134,ABC / RN,Manaus / AM
+135,Botafogo / SP,Ypiranga / RS
+136,Altos / PI,Brasil / RS
+137,Figueirense / SC,Campinense / PB
+138,Volta Redonda / RJ,Mirassol / SP
+139,Ferroviário / CE,Aparecidense / GO
+140,Paysandu / PA,Confiança / SE
+141,Ypiranga / RS,Botafogo / PB
+142,Campinense / PB,Ferroviário / CE
+143,Confiança / SE,São José / RS
+144,Vitória / BA,Paysandu / PA
+145,Brasil / RS,Atlético / CE
+146,Manaus / AM,Volta Redonda / RJ
+147,Figueirense / SC,Botafogo / SP
+148,Aparecidense / GO,Altos / PI
+149,Remo / PA,ABC / RN
+150,Floresta / CE,Mirassol / SP
+151,São José / RS,Botafogo / SP
+152,Botafogo / PB,Remo / PA
+153,Atlético / CE,Manaus / AM
+154,ABC / RN,Floresta / CE
+155,Brasil / RS,Aparecidense / GO
+156,Altos / PI,Campinense / PB
+157,Mirassol / SP,Confiança / SE
+158,Volta Redonda / RJ,Ypiranga / RS
+159,Ferroviário / CE,Vitória / BA
+160,Paysandu / PA,Figueirense / SC
+161,Ypiranga / RS,Mirassol / SP
+162,Campinense / PB,Paysandu / PA
+163,Confiança / SE,Altos / PI
+164,Vitória / BA,ABC / RN
+165,Botafogo / SP,Volta Redonda / RJ
+166,Manaus / AM,Botafogo / PB
+167,Figueirense / SC,São José / RS
+168,Aparecidense / GO,Atlético / CE
+169,Remo / PA,Ferroviário / CE
+170,Floresta / CE,Brasil / RS
+171,Ypiranga / RS,Manaus / AM
+172,Botafogo / PB,Figueirense / SC
+173,Atlético / CE,Botafogo / SP
+174,ABC / RN,São José / RS
+175,Brasil / RS,Confiança / SE
+176,Altos / PI,Paysandu / PA
+177,Mirassol / SP,Vitória / BA
+178,Volta Redonda / RJ,Ferroviário / CE
+179,Remo / PA,Aparecidense / GO
+180,Floresta / CE,Campinense / PB
+181,São José / RS,Altos / PI
+182,Campinense / PB,Volta Redonda / RJ
+183,Confiança / SE,Atlético / CE
+184,Vitória / BA,Brasil / RS
+185,Botafogo / SP,Remo / PA
+186,Manaus / AM,Mirassol / SP
+187,Figueirense / SC,ABC / RN
+188,Aparecidense / GO,Botafogo / PB
+189,Ferroviário / CE,Ypiranga / RS
+190,Paysandu / PA,Floresta / CE
+191,ABC / RN,Figueirense / SC
+192,Aparecidense / GO,Mirassol / SP
+193,Vitória / BA,Paysandu / PA
+194,Botafogo / SP,Volta Redonda / RJ
+195,Paysandu / PA,ABC / RN
+196,Mirassol / SP,Botafogo / SP
+197,Figueirense / SC,Vitória / BA
+198,Volta Redonda / RJ,Aparecidense / GO
+199,Figueirense / SC,Paysandu / PA
+200,Volta Redonda / RJ,Mirassol / SP
+201,Aparecidense / GO,Botafogo / SP
+202,Vitória / BA,ABC / RN
+203,ABC / RN,Vitória / BA
+204,Mirassol / SP,Volta Redonda / RJ
+205,Paysandu / PA,Figueirense / SC
+206,Botafogo / SP,Aparecidense / GO

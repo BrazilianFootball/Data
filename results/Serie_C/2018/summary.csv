@@ -1,0 +1,195 @@
+Game,Home,Away
+001,Náutico / PE,Santa Cruz / PE
+002,Globo / RN,ABC / RN
+003,Atlético / AC,Remo / PA
+004,Salgueiro / PE,Botafogo / PB
+005,Juazeirense / BA,Confiança / SE
+006,Botafogo / SP,Red Bull Bragantino / SP
+007,Operário / PR,Volta Redonda / RJ
+008,Tupi / MG,Tombense / MG
+009,Cuiabá / MT,Luverdense / MT
+010,Joinville / SC,Ypiranga / RS
+011,Santa Cruz / PE,Atlético / AC
+012,ABC / RN,Juazeirense / BA
+013,Remo / PA,Globo / RN
+014,Botafogo / PB,Náutico / PE
+015,Confiança / SE,Salgueiro / PE
+016,Red Bull Bragantino / SP,Tupi / MG
+017,Volta Redonda / RJ,Cuiabá / MT
+018,Tombense / MG,Joinville / SC
+019,Luverdense / MT,Botafogo / SP
+020,Ypiranga / RS,Operário / PR
+021,Santa Cruz / PE,ABC / RN
+022,Globo / RN,Salgueiro / PE
+023,Atlético / AC,Náutico / PE
+024,Botafogo / PB,Confiança / SE
+025,Juazeirense / BA,Remo / PA
+026,Botafogo / SP,Cuiabá / MT
+027,Volta Redonda / RJ,Ypiranga / RS
+028,Tupi / MG,Operário / PR
+029,Luverdense / MT,Tombense / MG
+030,Joinville / SC,Red Bull Bragantino / SP
+031,Náutico / PE,Confiança / SE
+032,ABC / RN,Botafogo / PB
+033,Remo / PA,Santa Cruz / PE
+034,Salgueiro / PE,Atlético / AC
+035,Juazeirense / BA,Globo / RN
+036,Botafogo / SP,Volta Redonda / RJ
+037,Operário / PR,Joinville / SC
+038,Tombense / MG,Red Bull Bragantino / SP
+039,Cuiabá / MT,Tupi / MG
+040,Ypiranga / RS,Luverdense / MT
+041,Náutico / PE,Salgueiro / PE
+042,Globo / RN,Santa Cruz / PE
+043,Atlético / AC,Juazeirense / BA
+044,Botafogo / PB,Remo / PA
+045,Confiança / SE,ABC / RN
+046,Red Bull Bragantino / SP,Ypiranga / RS
+047,Operário / PR,Tombense / MG
+048,Tupi / MG,Botafogo / SP
+049,Luverdense / MT,Volta Redonda / RJ
+050,Joinville / SC,Cuiabá / MT
+051,Santa Cruz / PE,Botafogo / PB
+052,Globo / RN,Atlético / AC
+053,Remo / PA,Confiança / SE
+054,Salgueiro / PE,ABC / RN
+055,Juazeirense / BA,Náutico / PE
+056,Botafogo / SP,Joinville / SC
+057,Volta Redonda / RJ,Red Bull Bragantino / SP
+058,Tupi / MG,Luverdense / MT
+059,Cuiabá / MT,Operário / PR
+060,Ypiranga / RS,Tombense / MG
+061,Náutico / PE,Globo / RN
+062,ABC / RN,Remo / PA
+063,Atlético / AC,Botafogo / PB
+064,Salgueiro / PE,Juazeirense / BA
+065,Confiança / SE,Santa Cruz / PE
+066,Red Bull Bragantino / SP,Luverdense / MT
+067,Operário / PR,Botafogo / SP
+068,Tombense / MG,Volta Redonda / RJ
+069,Cuiabá / MT,Ypiranga / RS
+070,Joinville / SC,Tupi / MG
+071,Santa Cruz / PE,Juazeirense / BA
+072,ABC / RN,Náutico / PE
+073,Remo / PA,Salgueiro / PE
+074,Botafogo / PB,Globo / RN
+075,Confiança / SE,Atlético / AC
+076,Red Bull Bragantino / SP,Operário / PR
+077,Volta Redonda / RJ,Tupi / MG
+078,Tombense / MG,Cuiabá / MT
+079,Luverdense / MT,Joinville / SC
+080,Ypiranga / RS,Botafogo / SP
+081,Náutico / PE,Remo / PA
+082,Globo / RN,Confiança / SE
+083,Atlético / AC,ABC / RN
+084,Salgueiro / PE,Santa Cruz / PE
+085,Juazeirense / BA,Botafogo / PB
+086,Botafogo / SP,Tombense / MG
+087,Operário / PR,Luverdense / MT
+088,Tupi / MG,Ypiranga / RS
+089,Cuiabá / MT,Red Bull Bragantino / SP
+090,Joinville / SC,Volta Redonda / RJ
+091,Botafogo / PB,Salgueiro / PE
+092,Confiança / SE,Juazeirense / BA
+093,Red Bull Bragantino / SP,Botafogo / SP
+094,Volta Redonda / RJ,Operário / PR
+095,Tombense / MG,Tupi / MG
+096,Luverdense / MT,Cuiabá / MT
+097,Ypiranga / RS,Joinville / SC
+098,ABC / RN,Globo / RN
+099,Remo / PA,Atlético / AC
+100,Santa Cruz / PE,Náutico / PE
+101,Tupi / MG,Red Bull Bragantino / SP
+102,Cuiabá / MT,Volta Redonda / RJ
+103,Botafogo / SP,Luverdense / MT
+104,Salgueiro / PE,Confiança / SE
+105,Juazeirense / BA,ABC / RN
+106,Náutico / PE,Botafogo / PB
+107,Operário / PR,Ypiranga / RS
+108,Joinville / SC,Tombense / MG
+109,Atlético / AC,Santa Cruz / PE
+110,Globo / RN,Remo / PA
+111,Náutico / PE,Atlético / AC
+112,Confiança / SE,Botafogo / PB
+113,Red Bull Bragantino / SP,Joinville / SC
+114,Tombense / MG,Luverdense / MT
+115,Remo / PA,Juazeirense / BA
+116,Salgueiro / PE,Globo / RN
+117,Operário / PR,Tupi / MG
+118,Cuiabá / MT,Botafogo / SP
+119,Ypiranga / RS,Volta Redonda / RJ
+120,ABC / RN,Santa Cruz / PE
+121,Tupi / MG,Cuiabá / MT
+122,Red Bull Bragantino / SP,Tombense / MG
+123,Volta Redonda / RJ,Botafogo / SP
+124,Luverdense / MT,Ypiranga / RS
+125,Confiança / SE,Náutico / PE
+126,Globo / RN,Juazeirense / BA
+127,Joinville / SC,Operário / PR
+128,Santa Cruz / PE,Remo / PA
+129,Atlético / AC,Salgueiro / PE
+130,Botafogo / PB,ABC / RN
+131,Tombense / MG,Operário / PR
+132,Ypiranga / RS,Red Bull Bragantino / SP
+133,ABC / RN,Confiança / SE
+134,Juazeirense / BA,Atlético / AC
+135,Volta Redonda / RJ,Luverdense / MT
+136,Botafogo / SP,Tupi / MG
+137,Cuiabá / MT,Joinville / SC
+138,Remo / PA,Botafogo / PB
+139,Santa Cruz / PE,Globo / RN
+140,Salgueiro / PE,Náutico / PE
+141,Tombense / MG,Ypiranga / RS
+142,Náutico / PE,Juazeirense / BA
+143,Red Bull Bragantino / SP,Volta Redonda / RJ
+144,Botafogo / PB,Santa Cruz / PE
+145,Operário / PR,Cuiabá / MT
+146,Joinville / SC,Botafogo / SP
+147,ABC / RN,Salgueiro / PE
+148,Luverdense / MT,Tupi / MG
+149,Atlético / AC,Globo / RN
+150,Confiança / SE,Remo / PA
+151,Globo / RN,Náutico / PE
+152,Juazeirense / BA,Salgueiro / PE
+153,Tupi / MG,Joinville / SC
+154,Volta Redonda / RJ,Tombense / MG
+155,Luverdense / MT,Red Bull Bragantino / SP
+156,Santa Cruz / PE,Confiança / SE
+157,Ypiranga / RS,Cuiabá / MT
+158,Remo / PA,ABC / RN
+159,Botafogo / PB,Atlético / AC
+160,Botafogo / SP,Operário / PR
+161,Tupi / MG,Volta Redonda / RJ
+162,Náutico / PE,ABC / RN
+163,Operário / PR,Red Bull Bragantino / SP
+164,Joinville / SC,Luverdense / MT
+165,Botafogo / SP,Ypiranga / RS
+166,Cuiabá / MT,Tombense / MG
+167,Globo / RN,Botafogo / PB
+168,Atlético / AC,Confiança / SE
+169,Juazeirense / BA,Santa Cruz / PE
+170,Salgueiro / PE,Remo / PA
+171,Red Bull Bragantino / SP,Cuiabá / MT
+172,Volta Redonda / RJ,Joinville / SC
+173,Tombense / MG,Botafogo / SP
+174,Luverdense / MT,Operário / PR
+175,Ypiranga / RS,Tupi / MG
+176,Santa Cruz / PE,Salgueiro / PE
+177,ABC / RN,Atlético / AC
+178,Remo / PA,Náutico / PE
+179,Botafogo / PB,Juazeirense / BA
+180,Confiança / SE,Globo / RN
+181,Red Bull Bragantino / SP,Náutico / PE
+182,Santa Cruz / PE,Operário / PR
+183,Botafogo / PB,Botafogo / SP
+184,Cuiabá / MT,Atlético / AC
+185,Operário / PR,Santa Cruz / PE
+186,Náutico / PE,Red Bull Bragantino / SP
+187,Botafogo / SP,Botafogo / PB
+188,Atlético / AC,Cuiabá / MT
+189,Red Bull Bragantino / SP,Operário / PR
+190,Cuiabá / MT,Botafogo / SP
+191,Botafogo / SP,Cuiabá / MT
+192,Operário / PR,Red Bull Bragantino / SP
+193,Operário / PR,Cuiabá / MT
+194,Cuiabá / MT,Operário / PR

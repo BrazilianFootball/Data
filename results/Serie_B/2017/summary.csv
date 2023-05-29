@@ -1,0 +1,381 @@
+Game,Home,Away
+001,ABC / RN,Paraná / PR
+002,Náutico / PE,América / MG
+003,Criciúma / SC,Santa Cruz / PE
+004,Goiás / GO,Figueirense / SC
+005,Guarani / SP,Brasil / RS
+006,Juventude / RS,Luverdense / MT
+007,Londrina / PR,Internacional / RS
+008,Boa / MG,Vila Nova / GO
+009,Paysandu / PA,Oeste / SP
+010,CRB / AL,Ceará / CE
+011,Ceará / CE,Boa / MG
+012,Santa Cruz / PE,Guarani / SP
+013,Figueirense / SC,Náutico / PE
+014,Vila Nova / GO,Juventude / RS
+015,Oeste / SP,Criciúma / SC
+016,Brasil / RS,Londrina / PR
+017,Paraná / PR,Paysandu / PA
+018,América / MG,Goiás / GO
+019,Luverdense / MT,CRB / AL
+020,Internacional / RS,ABC / RN
+021,ABC / RN,Vila Nova / GO
+022,Náutico / PE,Ceará / CE
+023,Criciúma / SC,América / MG
+024,Goiás / GO,Brasil / RS
+025,Guarani / SP,Figueirense / SC
+026,Juventude / RS,Paraná / PR
+027,Londrina / PR,Luverdense / MT
+028,Boa / MG,Oeste / SP
+029,Paysandu / PA,Internacional / RS
+030,CRB / AL,Santa Cruz / PE
+031,Ceará / CE,Londrina / PR
+032,Santa Cruz / PE,ABC / RN
+033,Figueirense / SC,Boa / MG
+034,Vila Nova / GO,Guarani / SP
+035,Oeste / SP,CRB / AL
+036,Brasil / RS,Náutico / PE
+037,Paraná / PR,Goiás / GO
+038,América / MG,Paysandu / PA
+039,Luverdense / MT,Criciúma / SC
+040,Internacional / RS,Juventude / RS
+041,ABC / RN,Paysandu / PA
+042,Náutico / PE,Oeste / SP
+043,Figueirense / SC,Internacional / RS
+044,Goiás / GO,Santa Cruz / PE
+045,Guarani / SP,Boa / MG
+046,Juventude / RS,Criciúma / SC
+047,Londrina / PR,Paraná / PR
+048,América / MG,Ceará / CE
+049,Luverdense / MT,Vila Nova / GO
+050,CRB / AL,Brasil / RS
+051,ABC / RN,Figueirense / SC
+052,Santa Cruz / PE,Londrina / PR
+053,Criciúma / SC,CRB / AL
+054,Vila Nova / GO,América / MG
+055,Oeste / SP,Luverdense / MT
+056,Brasil / RS,Ceará / CE
+057,Paraná / PR,Guarani / SP
+058,Boa / MG,Juventude / RS
+059,Paysandu / PA,Goiás / GO
+060,Internacional / RS,Náutico / PE
+061,Ceará / CE,Santa Cruz / PE
+062,Náutico / PE,Paraná / PR
+063,Figueirense / SC,Criciúma / SC
+064,Goiás / GO,Boa / MG
+065,Guarani / SP,Paysandu / PA
+066,Juventude / RS,ABC / RN
+067,Londrina / PR,Oeste / SP
+068,América / MG,Internacional / RS
+069,Luverdense / MT,Brasil / RS
+070,CRB / AL,Vila Nova / GO
+071,Ceará / CE,Luverdense / MT
+072,Santa Cruz / PE,Internacional / RS
+073,Criciúma / SC,Guarani / SP
+074,Goiás / GO,ABC / RN
+075,Oeste / SP,América / MG
+076,Brasil / RS,Vila Nova / GO
+077,Paraná / PR,Figueirense / SC
+078,Boa / MG,Náutico / PE
+079,Paysandu / PA,Juventude / RS
+080,CRB / AL,Londrina / PR
+081,ABC / RN,CRB / AL
+082,Náutico / PE,Goiás / GO
+083,Figueirense / SC,Luverdense / MT
+084,Vila Nova / GO,Ceará / CE
+085,Guarani / SP,Oeste / SP
+086,Juventude / RS,Brasil / RS
+087,Londrina / PR,Criciúma / SC
+088,América / MG,Santa Cruz / PE
+089,Paysandu / PA,Boa / MG
+090,Internacional / RS,Paraná / PR
+091,Ceará / CE,Oeste / SP
+092,Santa Cruz / PE,Figueirense / SC
+093,Criciúma / SC,Paraná / PR
+094,Goiás / GO,Vila Nova / GO
+095,Guarani / SP,Náutico / PE
+096,Brasil / RS,Internacional / RS
+097,Londrina / PR,Juventude / RS
+098,Boa / MG,ABC / RN
+099,Luverdense / MT,América / MG
+100,CRB / AL,Paysandu / PA
+101,ABC / RN,Guarani / SP
+102,Náutico / PE,CRB / AL
+103,Figueirense / SC,Londrina / PR
+104,Vila Nova / GO,Criciúma / SC
+105,Oeste / SP,Santa Cruz / PE
+106,Juventude / RS,Goiás / GO
+107,Paraná / PR,Ceará / CE
+108,América / MG,Brasil / RS
+109,Paysandu / PA,Luverdense / MT
+110,Internacional / RS,Boa / MG
+111,ABC / RN,Náutico / PE
+112,Santa Cruz / PE,Brasil / RS
+113,Figueirense / SC,Ceará / CE
+114,Goiás / GO,Luverdense / MT
+115,Oeste / SP,Vila Nova / GO
+116,Juventude / RS,Guarani / SP
+117,Paraná / PR,América / MG
+118,Boa / MG,CRB / AL
+119,Paysandu / PA,Londrina / PR
+120,Internacional / RS,Criciúma / SC
+121,Ceará / CE,Internacional / RS
+122,Náutico / PE,Juventude / RS
+123,Criciúma / SC,Paysandu / PA
+124,Vila Nova / GO,Paraná / PR
+125,Guarani / SP,Goiás / GO
+126,Brasil / RS,Oeste / SP
+127,Londrina / PR,ABC / RN
+128,América / MG,Boa / MG
+129,Luverdense / MT,Santa Cruz / PE
+130,CRB / AL,Figueirense / SC
+131,Ceará / CE,Juventude / RS
+132,Náutico / PE,Santa Cruz / PE
+133,Criciúma / SC,Goiás / GO
+134,Vila Nova / GO,Paysandu / PA
+135,Oeste / SP,Paraná / PR
+136,Brasil / RS,Figueirense / SC
+137,Londrina / PR,Boa / MG
+138,América / MG,Guarani / SP
+139,Luverdense / MT,ABC / RN
+140,CRB / AL,Internacional / RS
+141,ABC / RN,América / MG
+142,Santa Cruz / PE,Vila Nova / GO
+143,Figueirense / SC,Oeste / SP
+144,Goiás / GO,Londrina / PR
+145,Guarani / SP,Ceará / CE
+146,Juventude / RS,CRB / AL
+147,Paraná / PR,Brasil / RS
+148,Boa / MG,Criciúma / SC
+149,Paysandu / PA,Náutico / PE
+150,Internacional / RS,Luverdense / MT
+151,Ceará / CE,Goiás / GO
+152,Santa Cruz / PE,Boa / MG
+153,Criciúma / SC,ABC / RN
+154,Vila Nova / GO,Internacional / RS
+155,Oeste / SP,Juventude / RS
+156,Brasil / RS,Paysandu / PA
+157,Londrina / PR,Náutico / PE
+158,América / MG,Figueirense / SC
+159,Luverdense / MT,Paraná / PR
+160,CRB / AL,Guarani / SP
+161,ABC / RN,Brasil / RS
+162,Náutico / PE,Criciúma / SC
+163,Figueirense / SC,Vila Nova / GO
+164,Goiás / GO,CRB / AL
+165,Guarani / SP,Londrina / PR
+166,Juventude / RS,América / MG
+167,Paraná / PR,Santa Cruz / PE
+168,Boa / MG,Luverdense / MT
+169,Paysandu / PA,Ceará / CE
+170,Internacional / RS,Oeste / SP
+171,Ceará / CE,Criciúma / SC
+172,Santa Cruz / PE,Paysandu / PA
+173,Figueirense / SC,Juventude / RS
+174,Vila Nova / GO,Náutico / PE
+175,Oeste / SP,ABC / RN
+176,Brasil / RS,Boa / MG
+177,Paraná / PR,CRB / AL
+178,América / MG,Londrina / PR
+179,Luverdense / MT,Guarani / SP
+180,Internacional / RS,Goiás / GO
+181,ABC / RN,Ceará / CE
+182,Náutico / PE,Luverdense / MT
+183,Criciúma / SC,Brasil / RS
+184,Goiás / GO,Oeste / SP
+185,Guarani / SP,Internacional / RS
+186,Juventude / RS,Santa Cruz / PE
+187,Londrina / PR,Vila Nova / GO
+188,Boa / MG,Paraná / PR
+189,Paysandu / PA,Figueirense / SC
+190,CRB / AL,América / MG
+191,Santa Cruz / PE,Criciúma / SC
+192,Luverdense / MT,Juventude / RS
+193,Brasil / RS,Guarani / SP
+194,Vila Nova / GO,Boa / MG
+195,América / MG,Náutico / PE
+196,Ceará / CE,CRB / AL
+197,Paraná / PR,ABC / RN
+198,Internacional / RS,Londrina / PR
+199,Oeste / SP,Paysandu / PA
+200,Figueirense / SC,Goiás / GO
+201,Londrina / PR,Brasil / RS
+202,Náutico / PE,Figueirense / SC
+203,Paysandu / PA,Paraná / PR
+204,Criciúma / SC,Oeste / SP
+205,Goiás / GO,América / MG
+206,ABC / RN,Internacional / RS
+207,Guarani / SP,Santa Cruz / PE
+208,Boa / MG,Ceará / CE
+209,CRB / AL,Luverdense / MT
+210,Juventude / RS,Vila Nova / GO
+211,Brasil / RS,Goiás / GO
+212,América / MG,Criciúma / SC
+213,Paraná / PR,Juventude / RS
+214,Vila Nova / GO,ABC / RN
+215,Figueirense / SC,Guarani / SP
+216,Internacional / RS,Paysandu / PA
+217,Ceará / CE,Náutico / PE
+218,Oeste / SP,Boa / MG
+219,Luverdense / MT,Londrina / PR
+220,Santa Cruz / PE,CRB / AL
+221,Guarani / SP,Vila Nova / GO
+222,Goiás / GO,Paraná / PR
+223,Náutico / PE,Brasil / RS
+224,Boa / MG,Figueirense / SC
+225,Paysandu / PA,América / MG
+226,Criciúma / SC,Luverdense / MT
+227,Juventude / RS,Internacional / RS
+228,Londrina / PR,Ceará / CE
+229,CRB / AL,Oeste / SP
+230,ABC / RN,Santa Cruz / PE
+231,Boa / MG,Guarani / SP
+232,Criciúma / SC,Juventude / RS
+233,Paraná / PR,Londrina / PR
+234,Vila Nova / GO,Luverdense / MT
+235,Ceará / CE,América / MG
+236,Oeste / SP,Náutico / PE
+237,Brasil / RS,CRB / AL
+238,Paysandu / PA,ABC / RN
+239,Internacional / RS,Figueirense / SC
+240,Santa Cruz / PE,Goiás / GO
+241,América / MG,Vila Nova / GO
+242,Guarani / SP,Paraná / PR
+243,Juventude / RS,Boa / MG
+244,Goiás / GO,Paysandu / PA
+245,Náutico / PE,Internacional / RS
+246,Figueirense / SC,ABC / RN
+247,Londrina / PR,Santa Cruz / PE
+248,CRB / AL,Criciúma / SC
+249,Luverdense / MT,Oeste / SP
+250,Ceará / CE,Brasil / RS
+251,Santa Cruz / PE,Ceará / CE
+252,Criciúma / SC,Figueirense / SC
+253,Brasil / RS,Luverdense / MT
+254,Vila Nova / GO,CRB / AL
+255,Oeste / SP,Londrina / PR
+256,Paraná / PR,Náutico / PE
+257,Boa / MG,Goiás / GO
+258,Paysandu / PA,Guarani / SP
+259,Internacional / RS,América / MG
+260,ABC / RN,Juventude / RS
+261,Figueirense / SC,Paraná / PR
+262,Londrina / PR,CRB / AL
+263,ABC / RN,Goiás / GO
+264,Juventude / RS,Paysandu / PA
+265,Internacional / RS,Santa Cruz / PE
+266,Vila Nova / GO,Brasil / RS
+267,América / MG,Oeste / SP
+268,Náutico / PE,Boa / MG
+269,Guarani / SP,Criciúma / SC
+270,Luverdense / MT,Ceará / CE
+271,Ceará / CE,Vila Nova / GO
+272,Paraná / PR,Internacional / RS
+273,Brasil / RS,Juventude / RS
+274,Boa / MG,Paysandu / PA
+275,Goiás / GO,Náutico / PE
+276,CRB / AL,ABC / RN
+277,Criciúma / SC,Londrina / PR
+278,Oeste / SP,Guarani / SP
+279,Santa Cruz / PE,América / MG
+280,Luverdense / MT,Figueirense / SC
+281,Internacional / RS,Brasil / RS
+282,Paysandu / PA,CRB / AL
+283,Paraná / PR,Criciúma / SC
+284,Juventude / RS,Londrina / PR
+285,ABC / RN,Boa / MG
+286,Náutico / PE,Guarani / SP
+287,Figueirense / SC,Santa Cruz / PE
+288,América / MG,Luverdense / MT
+289,Vila Nova / GO,Goiás / GO
+290,Oeste / SP,Ceará / CE
+291,Guarani / SP,ABC / RN
+292,Londrina / PR,Figueirense / SC
+293,Boa / MG,Internacional / RS
+294,Ceará / CE,Paraná / PR
+295,Santa Cruz / PE,Oeste / SP
+296,Criciúma / SC,Vila Nova / GO
+297,Brasil / RS,América / MG
+298,Goiás / GO,Juventude / RS
+299,Luverdense / MT,Paysandu / PA
+300,CRB / AL,Náutico / PE
+301,Guarani / SP,Juventude / RS
+302,Náutico / PE,ABC / RN
+303,CRB / AL,Boa / MG
+304,Ceará / CE,Figueirense / SC
+305,Criciúma / SC,Internacional / RS
+306,Vila Nova / GO,Oeste / SP
+307,Brasil / RS,Santa Cruz / PE
+308,Londrina / PR,Paysandu / PA
+309,América / MG,Paraná / PR
+310,Luverdense / MT,Goiás / GO
+311,Juventude / RS,Náutico / PE
+312,Paraná / PR,Vila Nova / GO
+313,Figueirense / SC,CRB / AL
+314,Oeste / SP,Brasil / RS
+315,Paysandu / PA,Criciúma / SC
+316,Boa / MG,América / MG
+317,Internacional / RS,Ceará / CE
+318,ABC / RN,Londrina / PR
+319,Santa Cruz / PE,Luverdense / MT
+320,Goiás / GO,Guarani / SP
+321,Goiás / GO,Criciúma / SC
+322,Figueirense / SC,Brasil / RS
+323,Juventude / RS,Ceará / CE
+324,ABC / RN,Luverdense / MT
+325,Paysandu / PA,Vila Nova / GO
+326,Guarani / SP,América / MG
+327,Santa Cruz / PE,Náutico / PE
+328,Paraná / PR,Oeste / SP
+329,Boa / MG,Londrina / PR
+330,Internacional / RS,CRB / AL
+331,Ceará / CE,Guarani / SP
+332,Criciúma / SC,Boa / MG
+333,América / MG,ABC / RN
+334,Náutico / PE,Paysandu / PA
+335,Oeste / SP,Figueirense / SC
+336,Brasil / RS,Paraná / PR
+337,Londrina / PR,Goiás / GO
+338,Vila Nova / GO,Santa Cruz / PE
+339,Luverdense / MT,Internacional / RS
+340,CRB / AL,Juventude / RS
+341,Juventude / RS,Oeste / SP
+342,ABC / RN,Criciúma / SC
+343,Paraná / PR,Luverdense / MT
+344,Internacional / RS,Vila Nova / GO
+345,Náutico / PE,Londrina / PR
+346,Goiás / GO,Ceará / CE
+347,Boa / MG,Santa Cruz / PE
+348,Figueirense / SC,América / MG
+349,Paysandu / PA,Brasil / RS
+350,Guarani / SP,CRB / AL
+351,Santa Cruz / PE,Paraná / PR
+352,Criciúma / SC,Náutico / PE
+353,Londrina / PR,Guarani / SP
+354,Vila Nova / GO,Figueirense / SC
+355,Oeste / SP,Internacional / RS
+356,Brasil / RS,ABC / RN
+357,Ceará / CE,Paysandu / PA
+358,América / MG,Juventude / RS
+359,Luverdense / MT,Boa / MG
+360,CRB / AL,Goiás / GO
+361,Guarani / SP,Luverdense / MT
+362,Juventude / RS,Figueirense / SC
+363,CRB / AL,Paraná / PR
+364,Londrina / PR,América / MG
+365,Goiás / GO,Internacional / RS
+366,ABC / RN,Oeste / SP
+367,Náutico / PE,Vila Nova / GO
+368,Boa / MG,Brasil / RS
+369,Paysandu / PA,Santa Cruz / PE
+370,Criciúma / SC,Ceará / CE
+371,Ceará / CE,ABC / RN
+372,Santa Cruz / PE,Juventude / RS
+373,Figueirense / SC,Paysandu / PA
+374,Vila Nova / GO,Londrina / PR
+375,Oeste / SP,Goiás / GO
+376,Brasil / RS,Criciúma / SC
+377,Paraná / PR,Boa / MG
+378,América / MG,CRB / AL
+379,Luverdense / MT,Náutico / PE
+380,Internacional / RS,Guarani / SP

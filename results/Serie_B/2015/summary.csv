@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Paraná / PR,Ceará / CE
+002,Atlético / GO,Boa / MG
+003,Paysandu / PA,Botafogo / RJ
+004,Mogi Mirim / SP,Criciúma / SC
+005,Vitória / BA,Sampaio Corrêa / MA
+006,Macaé / RJ,Santa Cruz / PE
+007,América / MG,Bahia / BA
+008,Náutico / PE,Luverdense / MT
+009,ABC / RN,Oeste / SP
+010,CRB / AL,Red Bull Bragantino / SP
+011,Bahia / BA,Mogi Mirim / SP
+012,Criciúma / SC,ABC / RN
+013,Sampaio Corrêa / MA,Macaé / RJ
+014,Santa Cruz / PE,Paraná / PR
+015,Botafogo / RJ,CRB / AL
+016,Red Bull Bragantino / SP,Paysandu / PA
+017,Boa / MG,Náutico / PE
+018,Oeste / SP,Vitória / BA
+019,Ceará / CE,Atlético / GO
+020,Luverdense / MT,América / MG
+021,Macaé / RJ,Oeste / SP
+022,Náutico / PE,Criciúma / SC
+023,ABC / RN,Luverdense / MT
+024,CRB / AL,Bahia / BA
+025,América / MG,Santa Cruz / PE
+026,Paysandu / PA,Ceará / CE
+027,Atlético / GO,Botafogo / RJ
+028,Paraná / PR,Boa / MG
+029,Vitória / BA,Red Bull Bragantino / SP
+030,Mogi Mirim / SP,Sampaio Corrêa / MA
+031,Ceará / CE,CRB / AL
+032,Santa Cruz / PE,ABC / RN
+033,Red Bull Bragantino / SP,América / MG
+034,Bahia / BA,Paraná / PR
+035,Botafogo / RJ,Vitória / BA
+036,Boa / MG,Paysandu / PA
+037,Sampaio Corrêa / MA,Náutico / PE
+038,Criciúma / SC,Atlético / GO
+039,Luverdense / MT,Macaé / RJ
+040,Oeste / SP,Mogi Mirim / SP
+041,Vitória / BA,Criciúma / SC
+042,Mogi Mirim / SP,Boa / MG
+043,América / MG,Sampaio Corrêa / MA
+044,Paysandu / PA,Santa Cruz / PE
+045,ABC / RN,Red Bull Bragantino / SP
+046,Macaé / RJ,Bahia / BA
+047,Paraná / PR,Botafogo / RJ
+048,Náutico / PE,Ceará / CE
+049,Atlético / GO,Luverdense / MT
+050,CRB / AL,Oeste / SP
+051,Vitória / BA,Atlético / GO
+052,Náutico / PE,América / MG
+053,Botafogo / RJ,Mogi Mirim / SP
+054,Red Bull Bragantino / SP,Bahia / BA
+055,Criciúma / SC,Macaé / RJ
+056,Ceará / CE,Sampaio Corrêa / MA
+057,CRB / AL,ABC / RN
+058,Boa / MG,Oeste / SP
+059,Paysandu / PA,Paraná / PR
+060,Luverdense / MT,Santa Cruz / PE
+061,Paraná / PR,Luverdense / MT
+062,ABC / RN,Paysandu / PA
+063,Oeste / SP,Botafogo / RJ
+064,Macaé / RJ,Red Bull Bragantino / SP
+065,Santa Cruz / PE,Boa / MG
+066,Bahia / BA,Ceará / CE
+067,Mogi Mirim / SP,Vitória / BA
+068,Atlético / GO,Náutico / PE
+069,Sampaio Corrêa / MA,Criciúma / SC
+070,América / MG,CRB / AL
+071,Náutico / PE,Paysandu / PA
+072,Sampaio Corrêa / MA,Bahia / BA
+073,Luverdense / MT,Criciúma / SC
+074,Paraná / PR,Mogi Mirim / SP
+075,Botafogo / RJ,Boa / MG
+076,Vitória / BA,ABC / RN
+077,América / MG,Atlético / GO
+078,Ceará / CE,Santa Cruz / PE
+079,Red Bull Bragantino / SP,Oeste / SP
+080,CRB / AL,Macaé / RJ
+081,Criciúma / SC,América / MG
+082,Paysandu / PA,Vitória / BA
+083,Oeste / SP,Ceará / CE
+084,Boa / MG,Red Bull Bragantino / SP
+085,ABC / RN,Náutico / PE
+086,Macaé / RJ,Botafogo / RJ
+087,Mogi Mirim / SP,CRB / AL
+088,Santa Cruz / PE,Sampaio Corrêa / MA
+089,Bahia / BA,Luverdense / MT
+090,Atlético / GO,Paraná / PR
+091,Paysandu / PA,Atlético / GO
+092,Luverdense / MT,Ceará / CE
+093,Paraná / PR,Criciúma / SC
+094,Botafogo / RJ,Sampaio Corrêa / MA
+095,Vitória / BA,Bahia / BA
+096,Red Bull Bragantino / SP,Santa Cruz / PE
+097,ABC / RN,Macaé / RJ
+098,CRB / AL,Boa / MG
+099,América / MG,Mogi Mirim / SP
+100,Náutico / PE,Oeste / SP
+101,Bahia / BA,Paysandu / PA
+102,Macaé / RJ,América / MG
+103,Mogi Mirim / SP,Náutico / PE
+104,Boa / MG,Vitória / BA
+105,Criciúma / SC,Red Bull Bragantino / SP
+106,Sampaio Corrêa / MA,Luverdense / MT
+107,Atlético / GO,ABC / RN
+108,Oeste / SP,Paraná / PR
+109,Santa Cruz / PE,CRB / AL
+110,Ceará / CE,Botafogo / RJ
+111,Macaé / RJ,Paysandu / PA
+112,Ceará / CE,Criciúma / SC
+113,Atlético / GO,Mogi Mirim / SP
+114,Red Bull Bragantino / SP,Botafogo / RJ
+115,América / MG,ABC / RN
+116,Paraná / PR,Vitória / BA
+117,Sampaio Corrêa / MA,Boa / MG
+118,Náutico / PE,Santa Cruz / PE
+119,CRB / AL,Luverdense / MT
+120,Bahia / BA,Oeste / SP
+121,ABC / RN,Paraná / PR
+122,Mogi Mirim / SP,Macaé / RJ
+123,Vitória / BA,CRB / AL
+124,Luverdense / MT,Red Bull Bragantino / SP
+125,Botafogo / RJ,Náutico / PE
+126,Criciúma / SC,Bahia / BA
+127,Paysandu / PA,Sampaio Corrêa / MA
+128,Santa Cruz / PE,Atlético / GO
+129,Oeste / SP,América / MG
+130,Boa / MG,Ceará / CE
+131,Macaé / RJ,Paraná / PR
+132,Sampaio Corrêa / MA,ABC / RN
+133,América / MG,Boa / MG
+134,Red Bull Bragantino / SP,Atlético / GO
+135,Bahia / BA,Botafogo / RJ
+136,Criciúma / SC,Santa Cruz / PE
+137,Náutico / PE,Vitória / BA
+138,CRB / AL,Paysandu / PA
+139,Ceará / CE,Mogi Mirim / SP
+140,Luverdense / MT,Oeste / SP
+141,Vitória / BA,Macaé / RJ
+142,Mogi Mirim / SP,Red Bull Bragantino / SP
+143,Boa / MG,Luverdense / MT
+144,Paraná / PR,Náutico / PE
+145,Santa Cruz / PE,Bahia / BA
+146,Oeste / SP,Sampaio Corrêa / MA
+147,Paysandu / PA,América / MG
+148,ABC / RN,Ceará / CE
+149,Botafogo / RJ,Criciúma / SC
+150,Atlético / GO,CRB / AL
+151,Boa / MG,Criciúma / SC
+152,Náutico / PE,Macaé / RJ
+153,Paysandu / PA,Mogi Mirim / SP
+154,ABC / RN,Bahia / BA
+155,Botafogo / RJ,Luverdense / MT
+156,Paraná / PR,CRB / AL
+157,Atlético / GO,Sampaio Corrêa / MA
+158,Oeste / SP,Santa Cruz / PE
+159,Vitória / BA,América / MG
+160,Red Bull Bragantino / SP,Ceará / CE
+161,América / MG,Paraná / PR
+162,Sampaio Corrêa / MA,Red Bull Bragantino / SP
+163,Luverdense / MT,Paysandu / PA
+164,Bahia / BA,Boa / MG
+165,Criciúma / SC,Oeste / SP
+166,Santa Cruz / PE,Botafogo / RJ
+167,Ceará / CE,Vitória / BA
+168,CRB / AL,Náutico / PE
+169,Macaé / RJ,Atlético / GO
+170,Mogi Mirim / SP,ABC / RN
+171,Bahia / BA,Náutico / PE
+172,Criciúma / SC,Paysandu / PA
+173,Sampaio Corrêa / MA,CRB / AL
+174,Santa Cruz / PE,Mogi Mirim / SP
+175,Ceará / CE,América / MG
+176,Oeste / SP,Atlético / GO
+177,Luverdense / MT,Vitória / BA
+178,Botafogo / RJ,ABC / RN
+179,Boa / MG,Macaé / RJ
+180,Red Bull Bragantino / SP,Paraná / PR
+181,CRB / AL,Criciúma / SC
+182,Paraná / PR,Sampaio Corrêa / MA
+183,Atlético / GO,Bahia / BA
+184,Vitória / BA,Santa Cruz / PE
+185,Mogi Mirim / SP,Luverdense / MT
+186,América / MG,Botafogo / RJ
+187,Paysandu / PA,Oeste / SP
+188,ABC / RN,Boa / MG
+189,Náutico / PE,Red Bull Bragantino / SP
+190,Macaé / RJ,Ceará / CE
+191,Ceará / CE,Paraná / PR
+192,Criciúma / SC,Mogi Mirim / SP
+193,Bahia / BA,América / MG
+194,Botafogo / RJ,Paysandu / PA
+195,Red Bull Bragantino / SP,CRB / AL
+196,Sampaio Corrêa / MA,Vitória / BA
+197,Luverdense / MT,Náutico / PE
+198,Boa / MG,Atlético / GO
+199,Santa Cruz / PE,Macaé / RJ
+200,Oeste / SP,ABC / RN
+201,Vitória / BA,Oeste / SP
+202,ABC / RN,Criciúma / SC
+203,América / MG,Luverdense / MT
+204,CRB / AL,Botafogo / RJ
+205,Macaé / RJ,Sampaio Corrêa / MA
+206,Mogi Mirim / SP,Bahia / BA
+207,Paraná / PR,Santa Cruz / PE
+208,Paysandu / PA,Red Bull Bragantino / SP
+209,Náutico / PE,Boa / MG
+210,Atlético / GO,Ceará / CE
+211,Criciúma / SC,Náutico / PE
+212,Ceará / CE,Paysandu / PA
+213,Bahia / BA,CRB / AL
+214,Red Bull Bragantino / SP,Vitória / BA
+215,Boa / MG,Paraná / PR
+216,Sampaio Corrêa / MA,Mogi Mirim / SP
+217,Santa Cruz / PE,América / MG
+218,Luverdense / MT,ABC / RN
+219,Botafogo / RJ,Atlético / GO
+220,Oeste / SP,Macaé / RJ
+221,Náutico / PE,Sampaio Corrêa / MA
+222,ABC / RN,Santa Cruz / PE
+223,CRB / AL,Ceará / CE
+224,Atlético / GO,Criciúma / SC
+225,Macaé / RJ,Luverdense / MT
+226,Paraná / PR,Bahia / BA
+227,Vitória / BA,Botafogo / RJ
+228,América / MG,Red Bull Bragantino / SP
+229,Mogi Mirim / SP,Oeste / SP
+230,Paysandu / PA,Boa / MG
+231,Oeste / SP,CRB / AL
+232,Ceará / CE,Náutico / PE
+233,Luverdense / MT,Atlético / GO
+234,Bahia / BA,Macaé / RJ
+235,Botafogo / RJ,Paraná / PR
+236,Red Bull Bragantino / SP,ABC / RN
+237,Boa / MG,Mogi Mirim / SP
+238,Criciúma / SC,Vitória / BA
+239,Sampaio Corrêa / MA,América / MG
+240,Santa Cruz / PE,Paysandu / PA
+241,Bahia / BA,Red Bull Bragantino / SP
+242,Paraná / PR,Paysandu / PA
+243,Oeste / SP,Boa / MG
+244,Mogi Mirim / SP,Botafogo / RJ
+245,América / MG,Náutico / PE
+246,Sampaio Corrêa / MA,Ceará / CE
+247,Santa Cruz / PE,Luverdense / MT
+248,ABC / RN,CRB / AL
+249,Atlético / GO,Vitória / BA
+250,Macaé / RJ,Criciúma / SC
+251,Botafogo / RJ,Oeste / SP
+252,Red Bull Bragantino / SP,Macaé / RJ
+253,Vitória / BA,Mogi Mirim / SP
+254,Criciúma / SC,Sampaio Corrêa / MA
+255,Paysandu / PA,ABC / RN
+256,Náutico / PE,Atlético / GO
+257,Luverdense / MT,Paraná / PR
+258,CRB / AL,América / MG
+259,Ceará / CE,Bahia / BA
+260,Boa / MG,Santa Cruz / PE
+261,ABC / RN,Vitória / BA
+262,Atlético / GO,América / MG
+263,Boa / MG,Botafogo / RJ
+264,Bahia / BA,Sampaio Corrêa / MA
+265,Mogi Mirim / SP,Paraná / PR
+266,Paysandu / PA,Náutico / PE
+267,Santa Cruz / PE,Ceará / CE
+268,Oeste / SP,Red Bull Bragantino / SP
+269,Criciúma / SC,Luverdense / MT
+270,Macaé / RJ,CRB / AL
+271,Botafogo / RJ,Macaé / RJ
+272,Red Bull Bragantino / SP,Boa / MG
+273,América / MG,Criciúma / SC
+274,Vitória / BA,Paysandu / PA
+275,CRB / AL,Mogi Mirim / SP
+276,Sampaio Corrêa / MA,Santa Cruz / PE
+277,Náutico / PE,ABC / RN
+278,Ceará / CE,Oeste / SP
+279,Paraná / PR,Atlético / GO
+280,Luverdense / MT,Bahia / BA
+281,Mogi Mirim / SP,América / MG
+282,Santa Cruz / PE,Red Bull Bragantino / SP
+283,Criciúma / SC,Paraná / PR
+284,Sampaio Corrêa / MA,Botafogo / RJ
+285,Bahia / BA,Vitória / BA
+286,Macaé / RJ,ABC / RN
+287,Boa / MG,CRB / AL
+288,Atlético / GO,Paysandu / PA
+289,Oeste / SP,Náutico / PE
+290,Ceará / CE,Luverdense / MT
+291,Paysandu / PA,Bahia / BA
+292,Red Bull Bragantino / SP,Criciúma / SC
+293,Vitória / BA,Boa / MG
+294,América / MG,Macaé / RJ
+295,Paraná / PR,Oeste / SP
+296,Náutico / PE,Mogi Mirim / SP
+297,ABC / RN,Atlético / GO
+298,CRB / AL,Santa Cruz / PE
+299,Botafogo / RJ,Ceará / CE
+300,Luverdense / MT,Sampaio Corrêa / MA
+301,Botafogo / RJ,Red Bull Bragantino / SP
+302,Boa / MG,Sampaio Corrêa / MA
+303,Vitória / BA,Paraná / PR
+304,Mogi Mirim / SP,Atlético / GO
+305,Criciúma / SC,Ceará / CE
+306,Santa Cruz / PE,Náutico / PE
+307,ABC / RN,América / MG
+308,Oeste / SP,Bahia / BA
+309,Paysandu / PA,Macaé / RJ
+310,Luverdense / MT,CRB / AL
+311,Bahia / BA,Criciúma / SC
+312,América / MG,Oeste / SP
+313,Macaé / RJ,Mogi Mirim / SP
+314,Sampaio Corrêa / MA,Paysandu / PA
+315,Red Bull Bragantino / SP,Luverdense / MT
+316,Náutico / PE,Botafogo / RJ
+317,Atlético / GO,Santa Cruz / PE
+318,CRB / AL,Vitória / BA
+319,Paraná / PR,ABC / RN
+320,Ceará / CE,Boa / MG
+321,Boa / MG,América / MG
+322,Oeste / SP,Luverdense / MT
+323,Santa Cruz / PE,Criciúma / SC
+324,Paraná / PR,Macaé / RJ
+325,Atlético / GO,Red Bull Bragantino / SP
+326,Vitória / BA,Náutico / PE
+327,Botafogo / RJ,Bahia / BA
+328,Mogi Mirim / SP,Ceará / CE
+329,Paysandu / PA,CRB / AL
+330,ABC / RN,Sampaio Corrêa / MA
+331,Red Bull Bragantino / SP,Mogi Mirim / SP
+332,América / MG,Paysandu / PA
+333,Ceará / CE,ABC / RN
+334,Luverdense / MT,Boa / MG
+335,Criciúma / SC,Botafogo / RJ
+336,Macaé / RJ,Vitória / BA
+337,Bahia / BA,Santa Cruz / PE
+338,Náutico / PE,Paraná / PR
+339,CRB / AL,Atlético / GO
+340,Sampaio Corrêa / MA,Oeste / SP
+341,Macaé / RJ,Náutico / PE
+342,Mogi Mirim / SP,Paysandu / PA
+343,América / MG,Vitória / BA
+344,Criciúma / SC,Boa / MG
+345,Bahia / BA,ABC / RN
+346,Sampaio Corrêa / MA,Atlético / GO
+347,Santa Cruz / PE,Oeste / SP
+348,Ceará / CE,Red Bull Bragantino / SP
+349,Luverdense / MT,Botafogo / RJ
+350,CRB / AL,Paraná / PR
+351,Paysandu / PA,Luverdense / MT
+352,ABC / RN,Mogi Mirim / SP
+353,Oeste / SP,Criciúma / SC
+354,Botafogo / RJ,Santa Cruz / PE
+355,Red Bull Bragantino / SP,Sampaio Corrêa / MA
+356,Boa / MG,Bahia / BA
+357,Paraná / PR,América / MG
+358,Náutico / PE,CRB / AL
+359,Vitória / BA,Ceará / CE
+360,Atlético / GO,Macaé / RJ
+361,Atlético / GO,Oeste / SP
+362,Macaé / RJ,Boa / MG
+363,ABC / RN,Botafogo / RJ
+364,Paysandu / PA,Criciúma / SC
+365,Vitória / BA,Luverdense / MT
+366,Mogi Mirim / SP,Santa Cruz / PE
+367,América / MG,Ceará / CE
+368,Náutico / PE,Bahia / BA
+369,Paraná / PR,Red Bull Bragantino / SP
+370,CRB / AL,Sampaio Corrêa / MA
+371,Boa / MG,ABC / RN
+372,Bahia / BA,Atlético / GO
+373,Botafogo / RJ,América / MG
+374,Red Bull Bragantino / SP,Náutico / PE
+375,Criciúma / SC,CRB / AL
+376,Sampaio Corrêa / MA,Paraná / PR
+377,Santa Cruz / PE,Vitória / BA
+378,Ceará / CE,Macaé / RJ
+379,Luverdense / MT,Mogi Mirim / SP
+380,Oeste / SP,Paysandu / PA

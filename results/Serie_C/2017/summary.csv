@@ -1,0 +1,194 @@
+Game,Home,Away
+001,Moto Club / MA,Sampaio Corrêa / MA
+002,CSA / AL,ASA / AL
+003,Botafogo / PB,Cuiabá / MT
+004,Confiança / SE,Salgueiro / PE
+005,Remo / PA,Fortaleza / CE
+006,Red Bull Bragantino / SP,Botafogo / SP
+007,Volta Redonda / RJ,Macaé / RJ
+008,Tombense / MG,Tupi / MG
+009,Mogi Mirim / SP,São Bento / SP
+010,Ypiranga / RS,Joinville / SC
+011,Sampaio Corrêa / MA,CSA / AL
+012,ASA / AL,Remo / PA
+013,Cuiabá / MT,Confiança / SE
+014,Salgueiro / PE,Moto Club / MA
+015,Fortaleza / CE,Botafogo / PB
+016,Botafogo / SP,Mogi Mirim / SP
+017,Macaé / RJ,Red Bull Bragantino / SP
+018,Tupi / MG,Ypiranga / RS
+019,São Bento / SP,Tombense / MG
+020,Joinville / SC,Volta Redonda / RJ
+021,Moto Club / MA,Confiança / SE
+022,ASA / AL,Sampaio Corrêa / MA
+023,Botafogo / PB,CSA / AL
+024,Salgueiro / PE,Fortaleza / CE
+025,Remo / PA,Cuiabá / MT
+026,Red Bull Bragantino / SP,Ypiranga / RS
+027,Volta Redonda / RJ,Botafogo / SP
+028,Tombense / MG,Mogi Mirim / SP
+029,São Bento / SP,Macaé / RJ
+030,Joinville / SC,Tupi / MG
+031,Sampaio Corrêa / MA,Cuiabá / MT
+032,CSA / AL,Moto Club / MA
+033,Botafogo / PB,Salgueiro / PE
+034,Confiança / SE,Remo / PA
+035,Fortaleza / CE,ASA / AL
+036,Botafogo / SP,Joinville / SC
+037,Volta Redonda / RJ,Tombense / MG
+038,Tupi / MG,São Bento / SP
+039,Mogi Mirim / SP,Red Bull Bragantino / SP
+040,Ypiranga / RS,Macaé / RJ
+041,Moto Club / MA,Botafogo / PB
+042,ASA / AL,Salgueiro / PE
+043,Cuiabá / MT,Fortaleza / CE
+044,Confiança / SE,Sampaio Corrêa / MA
+045,Remo / PA,CSA / AL
+046,Red Bull Bragantino / SP,Volta Redonda / RJ
+047,Macaé / RJ,Tupi / MG
+048,Tombense / MG,Joinville / SC
+049,São Bento / SP,Botafogo / SP
+050,Ypiranga / RS,Mogi Mirim / SP
+051,Moto Club / MA,ASA / AL
+052,CSA / AL,Confiança / SE
+053,Botafogo / PB,Remo / PA
+054,Salgueiro / PE,Cuiabá / MT
+055,Fortaleza / CE,Sampaio Corrêa / MA
+056,Botafogo / SP,Macaé / RJ
+057,Volta Redonda / RJ,Ypiranga / RS
+058,Tombense / MG,Red Bull Bragantino / SP
+059,Mogi Mirim / SP,Tupi / MG
+060,Joinville / SC,São Bento / SP
+061,Sampaio Corrêa / MA,Salgueiro / PE
+062,CSA / AL,Fortaleza / CE
+063,Cuiabá / MT,ASA / AL
+064,Confiança / SE,Botafogo / PB
+065,Remo / PA,Moto Club / MA
+066,Red Bull Bragantino / SP,São Bento / SP
+067,Macaé / RJ,Joinville / SC
+068,Tupi / MG,Botafogo / SP
+069,Mogi Mirim / SP,Volta Redonda / RJ
+070,Ypiranga / RS,Tombense / MG
+071,Sampaio Corrêa / MA,Remo / PA
+072,ASA / AL,Botafogo / PB
+073,Cuiabá / MT,Moto Club / MA
+074,Salgueiro / PE,CSA / AL
+075,Fortaleza / CE,Confiança / SE
+076,Botafogo / SP,Tombense / MG
+077,Macaé / RJ,Mogi Mirim / SP
+078,Tupi / MG,Volta Redonda / RJ
+079,São Bento / SP,Ypiranga / RS
+080,Joinville / SC,Red Bull Bragantino / SP
+081,Moto Club / MA,Fortaleza / CE
+082,CSA / AL,Cuiabá / MT
+083,Botafogo / PB,Sampaio Corrêa / MA
+084,Confiança / SE,ASA / AL
+085,Remo / PA,Salgueiro / PE
+086,Red Bull Bragantino / SP,Tupi / MG
+087,Volta Redonda / RJ,São Bento / SP
+088,Tombense / MG,Macaé / RJ
+089,Mogi Mirim / SP,Joinville / SC
+090,Ypiranga / RS,Botafogo / SP
+091,Sampaio Corrêa / MA,Moto Club / MA
+092,Salgueiro / PE,Confiança / SE
+093,ASA / AL,CSA / AL
+094,Botafogo / SP,Red Bull Bragantino / SP
+095,Macaé / RJ,Volta Redonda / RJ
+096,São Bento / SP,Mogi Mirim / SP
+097,Fortaleza / CE,Remo / PA
+098,Cuiabá / MT,Botafogo / PB
+099,Joinville / SC,Ypiranga / RS
+100,Tupi / MG,Tombense / MG
+101,Moto Club / MA,Salgueiro / PE
+102,Remo / PA,ASA / AL
+103,Tombense / MG,São Bento / SP
+104,Mogi Mirim / SP,Botafogo / SP
+105,Red Bull Bragantino / SP,Macaé / RJ
+106,Volta Redonda / RJ,Joinville / SC
+107,CSA / AL,Sampaio Corrêa / MA
+108,Ypiranga / RS,Tupi / MG
+109,Confiança / SE,Cuiabá / MT
+110,Botafogo / PB,Fortaleza / CE
+111,Cuiabá / MT,Remo / PA
+112,Sampaio Corrêa / MA,ASA / AL
+113,Fortaleza / CE,Salgueiro / PE
+114,Macaé / RJ,São Bento / SP
+115,Mogi Mirim / SP,Tombense / MG
+116,Tupi / MG,Joinville / SC
+117,CSA / AL,Botafogo / PB
+118,Ypiranga / RS,Red Bull Bragantino / SP
+119,Botafogo / SP,Volta Redonda / RJ
+120,Confiança / SE,Moto Club / MA
+121,Moto Club / MA,CSA / AL
+122,Salgueiro / PE,Botafogo / PB
+123,ASA / AL,Fortaleza / CE
+124,Macaé / RJ,Ypiranga / RS
+125,Tombense / MG,Volta Redonda / RJ
+126,Red Bull Bragantino / SP,Mogi Mirim / SP
+127,São Bento / SP,Tupi / MG
+128,Remo / PA,Confiança / SE
+129,Cuiabá / MT,Sampaio Corrêa / MA
+130,Joinville / SC,Botafogo / SP
+131,Sampaio Corrêa / MA,Confiança / SE
+132,Salgueiro / PE,ASA / AL
+133,Volta Redonda / RJ,Red Bull Bragantino / SP
+135,Tupi / MG,Macaé / RJ
+136,Botafogo / PB,Moto Club / MA
+137,Fortaleza / CE,Cuiabá / MT
+138,Joinville / SC,Tombense / MG
+139,Botafogo / SP,São Bento / SP
+140,CSA / AL,Remo / PA
+141,Confiança / SE,CSA / AL
+142,Macaé / RJ,Botafogo / SP
+143,Red Bull Bragantino / SP,Tombense / MG
+144,Tupi / MG,Mogi Mirim / SP
+145,São Bento / SP,Joinville / SC
+146,Sampaio Corrêa / MA,Fortaleza / CE
+147,Ypiranga / RS,Volta Redonda / RJ
+148,ASA / AL,Moto Club / MA
+149,Remo / PA,Botafogo / PB
+150,Cuiabá / MT,Salgueiro / PE
+151,Botafogo / SP,Tupi / MG
+152,Tombense / MG,Ypiranga / RS
+153,São Bento / SP,Red Bull Bragantino / SP
+154,Moto Club / MA,Remo / PA
+155,Salgueiro / PE,Sampaio Corrêa / MA
+156,Joinville / SC,Macaé / RJ
+157,ASA / AL,Cuiabá / MT
+158,Botafogo / PB,Confiança / SE
+159,Volta Redonda / RJ,Mogi Mirim / SP
+160,Fortaleza / CE,CSA / AL
+161,Ypiranga / RS,São Bento / SP
+162,Botafogo / PB,ASA / AL
+163,Tombense / MG,Botafogo / SP
+164,Mogi Mirim / SP,Macaé / RJ
+165,Moto Club / MA,Cuiabá / MT
+166,Red Bull Bragantino / SP,Joinville / SC
+167,Remo / PA,Sampaio Corrêa / MA
+168,Confiança / SE,Fortaleza / CE
+169,Volta Redonda / RJ,Tupi / MG
+170,CSA / AL,Salgueiro / PE
+171,Botafogo / SP,Ypiranga / RS
+172,Macaé / RJ,Tombense / MG
+173,Tupi / MG,Red Bull Bragantino / SP
+174,São Bento / SP,Volta Redonda / RJ
+175,Joinville / SC,Mogi Mirim / SP
+176,Sampaio Corrêa / MA,Botafogo / PB
+177,ASA / AL,Confiança / SE
+178,Cuiabá / MT,CSA / AL
+179,Salgueiro / PE,Remo / PA
+180,Fortaleza / CE,Moto Club / MA
+181,Volta Redonda / RJ,Sampaio Corrêa / MA
+182,Fortaleza / CE,Tupi / MG
+183,Tombense / MG,CSA / AL
+184,Confiança / SE,São Bento / SP
+185,Sampaio Corrêa / MA,Volta Redonda / RJ
+186,Tupi / MG,Fortaleza / CE
+187,CSA / AL,Tombense / MG
+188,São Bento / SP,Confiança / SE
+189,Fortaleza / CE,Sampaio Corrêa / MA
+190,São Bento / SP,CSA / AL
+191,Sampaio Corrêa / MA,Fortaleza / CE
+192,CSA / AL,São Bento / SP
+193,Fortaleza / CE,CSA / AL
+194,CSA / AL,Fortaleza / CE

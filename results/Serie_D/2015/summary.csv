@@ -1,0 +1,191 @@
+Game,Home,Away
+001,Vilhena / RO,Remo / PA
+002,Nautico / RR,Nacional / AM
+003,Guarani / CE,Santos / AP
+004,Ríver / PI,Palmas / TO
+005,Campinense / PB,Globo / RN
+006,Serra Talhada / PE,Colo Colo / BA
+007,Serrano / BA,Central / PE
+008,Estanciano / SE,Treze / PB
+009,Caldense / MG,Rio Branco / ES
+010,Operário / MT,Aparecidense / GO
+011,Crac / GO,Villa Nova / MG
+012,Gama / DF,Botafogo / SP
+013,Resende / RJ,Operário / PR
+014,Ypiranga / RS,Internacional / SC
+015,São Caetano / SP,Lajeadense / RS
+016,Foz do Iguaçu / PR,Volta Redonda / RJ
+017,Remo / PA,Rio Branco / AC
+018,Nacional / AM,Vilhena / RO
+019,Palmas / TO,Imperatriz / MA
+020,Santos / AP,Ríver / PI
+021,Colo Colo / BA,Campinense / PB
+022,Globo / RN,Coruripe / AL
+023,Central / PE,Goianesia / GO
+024,Treze / PB,Serrano / BA
+025,Rio Branco / ES,Comercial / MS
+026,Aparecidense / GO,Caldense / MG
+027,Villa Nova / MG,Duque de Caxias / RJ
+028,Botafogo / SP,Crac / GO
+029,Operário / PR,Red Bull Brasil / SP
+030,Internacional / SC,Resende / RJ
+031,Lajeadense / RS,Metropolitano / SC
+032,Volta Redonda / RJ,São Caetano / SP
+033,Imperatriz / MA,Santos / AP
+034,Vilhena / RO,Nautico / RR
+035,Rio Branco / AC,Nacional / AM
+036,Ríver / PI,Guarani / CE
+037,Campinense / PB,Serra Talhada / PE
+038,Coruripe / AL,Colo Colo / BA
+039,Serrano / BA,Estanciano / SE
+040,Goianesia / GO,Treze / PB
+041,Caldense / MG,Operário / MT
+042,Comercial / MS,Aparecidense / GO
+043,Crac / GO,Gama / DF
+044,Duque de Caxias / RJ,Botafogo / SP
+045,Resende / RJ,Ypiranga / RS
+046,Red Bull Brasil / SP,Internacional / SC
+047,São Caetano / SP,Foz do Iguaçu / PR
+048,Metropolitano / SC,Volta Redonda / RJ
+049,Imperatriz / MA,Ríver / PI
+050,Remo / PA,Nautico / RR
+051,Rio Branco / AC,Vilhena / RO
+052,Palmas / TO,Guarani / CE
+053,Globo / RN,Serra Talhada / PE
+054,Coruripe / AL,Campinense / PB
+055,Central / PE,Estanciano / SE
+056,Goianesia / GO,Serrano / BA
+057,Rio Branco / ES,Operário / MT
+058,Comercial / MS,Caldense / MG
+059,Villa Nova / MG,Gama / DF
+060,Duque de Caxias / RJ,Crac / GO
+061,Operário / PR,Ypiranga / RS
+062,Red Bull Brasil / SP,Resende / RJ
+063,Lajeadense / RS,Foz do Iguaçu / PR
+064,Metropolitano / SC,São Caetano / SP
+065,Nautico / RR,Rio Branco / AC
+066,Nacional / AM,Remo / PA
+067,Guarani / CE,Imperatriz / MA
+068,Santos / AP,Palmas / TO
+069,Serra Talhada / PE,Coruripe / AL
+070,Colo Colo / BA,Globo / RN
+071,Estanciano / SE,Goianesia / GO
+072,Treze / PB,Central / PE
+073,Aparecidense / GO,Rio Branco / ES
+074,Operário / MT,Comercial / MS
+075,Gama / DF,Duque de Caxias / RJ
+076,Botafogo / SP,Villa Nova / MG
+077,Ypiranga / RS,Red Bull Brasil / SP
+078,Internacional / SC,Operário / PR
+079,Foz do Iguaçu / PR,Metropolitano / SC
+080,Volta Redonda / RJ,Lajeadense / RS
+081,Nautico / RR,Remo / PA
+082,Vilhena / RO,Rio Branco / AC
+083,Guarani / CE,Palmas / TO
+084,Ríver / PI,Imperatriz / MA
+085,Serra Talhada / PE,Globo / RN
+086,Campinense / PB,Coruripe / AL
+087,Estanciano / SE,Central / PE
+088,Serrano / BA,Goianesia / GO
+089,Caldense / MG,Comercial / MS
+090,Operário / MT,Rio Branco / ES
+091,Gama / DF,Villa Nova / MG
+092,Crac / GO,Duque de Caxias / RJ
+093,Resende / RJ,Red Bull Brasil / SP
+094,Ypiranga / RS,Operário / PR
+095,Foz do Iguaçu / PR,Lajeadense / RS
+096,São Caetano / SP,Metropolitano / SC
+097,Imperatriz / MA,Guarani / CE
+098,Remo / PA,Nacional / AM
+099,Rio Branco / AC,Nautico / RR
+100,Palmas / TO,Santos / AP
+101,Globo / RN,Colo Colo / BA
+102,Coruripe / AL,Serra Talhada / PE
+103,Central / PE,Treze / PB
+104,Goianesia / GO,Estanciano / SE
+105,Rio Branco / ES,Aparecidense / GO
+106,Villa Nova / MG,Botafogo / SP
+107,Comercial / MS,Operário / MT
+108,Duque de Caxias / RJ,Gama / DF
+109,Operário / PR,Internacional / SC
+110,Red Bull Brasil / SP,Ypiranga / RS
+111,Lajeadense / RS,Volta Redonda / RJ
+112,Metropolitano / SC,Foz do Iguaçu / PR
+113,Nautico / RR,Vilhena / RO
+114,Nacional / AM,Rio Branco / AC
+115,Guarani / CE,Ríver / PI
+116,Santos / AP,Imperatriz / MA
+117,Serra Talhada / PE,Campinense / PB
+118,Colo Colo / BA,Coruripe / AL
+119,Estanciano / SE,Serrano / BA
+120,Treze / PB,Goianesia / GO
+121,Operário / MT,Caldense / MG
+122,Aparecidense / GO,Comercial / MS
+123,Gama / DF,Crac / GO
+124,Botafogo / SP,Duque de Caxias / RJ
+125,Ypiranga / RS,Resende / RJ
+126,Internacional / SC,Red Bull Brasil / SP
+127,Foz do Iguaçu / PR,São Caetano / SP
+128,Volta Redonda / RJ,Metropolitano / SC
+129,Imperatriz / MA,Palmas / TO
+130,Rio Branco / AC,Remo / PA
+131,Vilhena / RO,Nacional / AM
+132,Ríver / PI,Santos / AP
+133,Coruripe / AL,Globo / RN
+134,Campinense / PB,Colo Colo / BA
+135,Goianesia / GO,Central / PE
+136,Serrano / BA,Treze / PB
+137,Comercial / MS,Rio Branco / ES
+138,Caldense / MG,Aparecidense / GO
+139,Duque de Caxias / RJ,Villa Nova / MG
+140,Crac / GO,Botafogo / SP
+141,Red Bull Brasil / SP,Operário / PR
+142,Resende / RJ,Internacional / SC
+143,Metropolitano / SC,Lajeadense / RS
+144,São Caetano / SP,Volta Redonda / RJ
+145,Remo / PA,Vilhena / RO
+146,Nacional / AM,Nautico / RR
+147,Palmas / TO,Ríver / PI
+148,Santos / AP,Guarani / CE
+149,Globo / RN,Campinense / PB
+150,Colo Colo / BA,Serra Talhada / PE
+151,Central / PE,Serrano / BA
+152,Treze / PB,Estanciano / SE
+153,Rio Branco / ES,Caldense / MG
+154,Aparecidense / GO,Operário / MT
+155,Villa Nova / MG,Crac / GO
+156,Botafogo / SP,Gama / DF
+157,Operário / PR,Resende / RJ
+158,Internacional / SC,Ypiranga / RS
+159,Lajeadense / RS,São Caetano / SP
+160,Volta Redonda / RJ,Foz do Iguaçu / PR
+161,Palmas / TO,Remo / PA
+162,Caldense / MG,Rio Branco / ES
+163,Coruripe / AL,São Caetano / SP
+164,Botafogo / SP,Crac / GO
+165,Lajeadense / RS,Central / PE
+166,Rio Branco / AC,Ypiranga / RS
+167,Estanciano / SE,Ríver / PI
+168,Operário / PR,Campinense / PB
+169,Crac / GO,Botafogo / SP
+170,Remo / PA,Palmas / TO
+171,Rio Branco / ES,Caldense / MG
+172,São Caetano / SP,Coruripe / AL
+173,Central / PE,Lajeadense / RS
+174,Ypiranga / RS,Rio Branco / AC
+175,Ríver / PI,Estanciano / SE
+176,Campinense / PB,Operário / PR
+177,Operário / PR,Remo / PA
+178,Botafogo / SP,São Caetano / SP
+179,Ríver / PI,Lajeadense / RS
+180,Caldense / MG,Ypiranga / RS
+181,São Caetano / SP,Botafogo / SP
+182,Ypiranga / RS,Caldense / MG
+183,Remo / PA,Operário / PR
+184,Lajeadense / RS,Ríver / PI
+185,Ríver / PI,Ypiranga / RS
+186,Botafogo / SP,Remo / PA
+187,Ypiranga / RS,Ríver / PI
+188,Remo / PA,Botafogo / SP
+189,Botafogo / SP,Ríver / PI
+190,Ríver / PI,Botafogo / SP

@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Flamengo / RJ,Atlético / MG
+002,Botafogo / RJ,Bahia / BA
+003,Palmeiras / SP,Vasco da Gama / RJ
+004,Santos / SP,Red Bull Red Bull Bragantino / SP
+005,Corinthians / SP,Atlético / GO
+006,Grêmio / RS,Fluminense / RJ
+007,Sport / PE,Ceará / CE
+008,Coritiba / PR,Internacional / RS
+009,Fortaleza / CE,Athletico Paranaense / PR
+010,Goiás / GO,São Paulo / SP
+011,Fluminense / RJ,Palmeiras / SP
+012,Vasco da Gama / RJ,Sport / PE
+013,São Paulo / SP,Fortaleza / CE
+014,Red Bull Red Bull Bragantino / SP,Botafogo / RJ
+015,Atlético / MG,Corinthians / SP
+016,Internacional / RS,Santos / SP
+017,Bahia / BA,Coritiba / PR
+018,Athletico Paranaense / PR,Goiás / GO
+019,Ceará / CE,Grêmio / RS
+020,Atlético / GO,Flamengo / RJ
+021,Fluminense / RJ,Internacional / RS
+022,Vasco da Gama / RJ,São Paulo / SP
+023,Palmeiras / SP,Goiás / GO
+024,Santos / SP,Athletico Paranaense / PR
+025,Atlético / MG,Ceará / CE
+026,Grêmio / RS,Corinthians / SP
+027,Bahia / BA,Red Bull Red Bull Bragantino / SP
+028,Coritiba / PR,Flamengo / RJ
+029,Fortaleza / CE,Botafogo / RJ
+030,Atlético / GO,Sport / PE
+031,Flamengo / RJ,Grêmio / RS
+032,Botafogo / RJ,Atlético / MG
+033,São Paulo / SP,Bahia / BA
+034,Red Bull Red Bull Bragantino / SP,Fluminense / RJ
+035,Corinthians / SP,Coritiba / PR
+036,Internacional / RS,Atlético / GO
+037,Sport / PE,Santos / SP
+038,Athletico Paranaense / PR,Palmeiras / SP
+039,Ceará / CE,Vasco da Gama / RJ
+040,Goiás / GO,Fortaleza / CE
+041,Flamengo / RJ,Botafogo / RJ
+042,Vasco da Gama / RJ,Grêmio / RS
+043,Palmeiras / SP,Santos / SP
+044,Red Bull Red Bull Bragantino / SP,Coritiba / PR
+045,Corinthians / SP,Fortaleza / CE
+046,Internacional / RS,Atlético / MG
+047,Sport / PE,São Paulo / SP
+048,Athletico Paranaense / PR,Fluminense / RJ
+049,Ceará / CE,Bahia / BA
+050,Goiás / GO,Atlético / GO
+051,Fluminense / RJ,Vasco da Gama / RJ
+052,Botafogo / RJ,Internacional / RS
+053,São Paulo / SP,Corinthians / SP
+054,Santos / SP,Flamengo / RJ
+055,Atlético / MG,Athletico Paranaense / PR
+056,Grêmio / RS,Goiás / GO
+057,Bahia / BA,Palmeiras / SP
+058,Coritiba / PR,Sport / PE
+059,Fortaleza / CE,Red Bull Red Bull Bragantino / SP
+060,Atlético / GO,Ceará / CE
+061,Fluminense / RJ,Atlético / GO
+062,Botafogo / RJ,Coritiba / PR
+063,Palmeiras / SP,Internacional / RS
+064,Santos / SP,Vasco da Gama / RJ
+065,Atlético / MG,São Paulo / SP
+066,Grêmio / RS,Sport / PE
+067,Bahia / BA,Flamengo / RJ
+068,Athletico Paranaense / PR,Red Bull Red Bull Bragantino / SP
+069,Ceará / CE,Fortaleza / CE
+070,Goiás / GO,Corinthians / SP
+071,Flamengo / RJ,Fortaleza / CE
+072,Vasco da Gama / RJ,Athletico Paranaense / PR
+073,São Paulo / SP,Fluminense / RJ
+074,Red Bull Red Bull Bragantino / SP,Palmeiras / SP
+075,Corinthians / SP,Botafogo / RJ
+076,Internacional / RS,Bahia / BA
+077,Sport / PE,Goiás / GO
+078,Coritiba / PR,Atlético / MG
+079,Ceará / CE,Santos / SP
+080,Atlético / GO,Grêmio / RS
+081,Fluminense / RJ,Flamengo / RJ
+082,Vasco da Gama / RJ,Atlético / GO
+083,São Paulo / SP,Red Bull Red Bull Bragantino / SP
+084,Santos / SP,Atlético / MG
+085,Corinthians / SP,Palmeiras / SP
+086,Internacional / RS,Ceará / CE
+087,Bahia / BA,Grêmio / RS
+088,Athletico Paranaense / PR,Botafogo / RJ
+089,Fortaleza / CE,Sport / PE
+090,Goiás / GO,Coritiba / PR
+091,Fluminense / RJ,Corinthians / SP
+092,Botafogo / RJ,Vasco da Gama / RJ
+093,Palmeiras / SP,Sport / PE
+094,Santos / SP,São Paulo / SP
+095,Atlético / MG,Red Bull Red Bull Bragantino / SP
+096,Grêmio / RS,Fortaleza / CE
+097,Bahia / BA,Atlético / GO
+098,Athletico Paranaense / PR,Coritiba / PR
+099,Ceará / CE,Flamengo / RJ
+100,Goiás / GO,Internacional / RS
+101,Flamengo / RJ,Goiás / GO
+102,Botafogo / RJ,Santos / SP
+103,São Paulo / SP,Athletico Paranaense / PR
+104,Red Bull Red Bull Bragantino / SP,Ceará / CE
+105,Corinthians / SP,Bahia / BA
+106,Grêmio / RS,Palmeiras / SP
+107,Sport / PE,Fluminense / RJ
+108,Coritiba / PR,Vasco da Gama / RJ
+109,Fortaleza / CE,Internacional / RS
+110,Atlético / GO,Atlético / MG
+111,Fluminense / RJ,Coritiba / PR
+112,Vasco da Gama / RJ,Red Bull Red Bull Bragantino / SP
+113,Palmeiras / SP,Flamengo / RJ
+114,Santos / SP,Fortaleza / CE
+115,Atlético / MG,Grêmio / RS
+116,Internacional / RS,São Paulo / SP
+117,Sport / PE,Corinthians / SP
+118,Athletico Paranaense / PR,Bahia / BA
+119,Ceará / CE,Goiás / GO
+120,Atlético / GO,Botafogo / RJ
+121,Flamengo / RJ,Athletico Paranaense / PR
+122,Botafogo / RJ,Fluminense / RJ
+123,Palmeiras / SP,Ceará / CE
+124,Red Bull Red Bull Bragantino / SP,Corinthians / SP
+125,Atlético / MG,Vasco da Gama / RJ
+126,Grêmio / RS,Internacional / RS
+127,Bahia / BA,Sport / PE
+128,Coritiba / PR,São Paulo / SP
+129,Fortaleza / CE,Atlético / GO
+130,Goiás / GO,Santos / SP
+131,Flamengo / RJ,Sport / PE
+132,Botafogo / RJ,Palmeiras / SP
+133,São Paulo / SP,Atlético / GO
+134,Red Bull Red Bull Bragantino / SP,Internacional / RS
+135,Corinthians / SP,Santos / SP
+136,Grêmio / RS,Coritiba / PR
+137,Bahia / BA,Vasco da Gama / RJ
+138,Athletico Paranaense / PR,Ceará / CE
+139,Fortaleza / CE,Atlético / MG
+140,Goiás / GO,Fluminense / RJ
+141,Fluminense / RJ,Bahia / BA
+142,Vasco da Gama / RJ,Flamengo / RJ
+143,Palmeiras / SP,São Paulo / SP
+144,Santos / SP,Grêmio / RS
+145,Atlético / MG,Goiás / GO
+146,Internacional / RS,Athletico Paranaense / PR
+147,Sport / PE,Botafogo / RJ
+148,Coritiba / PR,Fortaleza / CE
+149,Ceará / CE,Corinthians / SP
+150,Atlético / GO,Red Bull Red Bull Bragantino / SP
+151,Flamengo / RJ,Red Bull Red Bull Bragantino / SP
+152,Vasco da Gama / RJ,Fortaleza / CE
+153,Palmeiras / SP,Coritiba / PR
+154,Santos / SP,Atlético / GO
+155,Atlético / MG,Fluminense / RJ
+156,Grêmio / RS,Botafogo / RJ
+157,Sport / PE,Internacional / RS
+158,Athletico Paranaense / PR,Corinthians / SP
+159,Ceará / CE,São Paulo / SP
+160,Goiás / GO,Bahia / BA
+161,Fluminense / RJ,Ceará / CE
+162,Botafogo / RJ,Goiás / GO
+163,São Paulo / SP,Grêmio / RS
+164,Red Bull Red Bull Bragantino / SP,Sport / PE
+165,Corinthians / SP,Flamengo / RJ
+166,Internacional / RS,Vasco da Gama / RJ
+167,Bahia / BA,Atlético / MG
+168,Coritiba / PR,Santos / SP
+169,Fortaleza / CE,Palmeiras / SP
+170,Atlético / GO,Athletico Paranaense / PR
+171,Fluminense / RJ,Santos / SP
+172,Vasco da Gama / RJ,Corinthians / SP
+173,São Paulo / SP,Botafogo / RJ
+174,Red Bull Red Bull Bragantino / SP,Goiás / GO
+175,Atlético / MG,Sport / PE
+176,Internacional / RS,Flamengo / RJ
+177,Bahia / BA,Fortaleza / CE
+178,Athletico Paranaense / PR,Grêmio / RS
+179,Ceará / CE,Coritiba / PR
+180,Atlético / GO,Palmeiras / SP
+181,Flamengo / RJ,São Paulo / SP
+182,Botafogo / RJ,Ceará / CE
+183,Palmeiras / SP,Atlético / MG
+184,Santos / SP,Bahia / BA
+185,Corinthians / SP,Internacional / RS
+186,Grêmio / RS,Red Bull Red Bull Bragantino / SP
+187,Sport / PE,Athletico Paranaense / PR
+188,Coritiba / PR,Atlético / GO
+189,Fortaleza / CE,Fluminense / RJ
+190,Goiás / GO,Vasco da Gama / RJ
+191,Fluminense / RJ,Grêmio / RS
+192,Vasco da Gama / RJ,Palmeiras / SP
+193,São Paulo / SP,Goiás / GO
+194,Red Bull Red Bull Bragantino / SP,Santos / SP
+195,Atlético / MG,Flamengo / RJ
+196,Internacional / RS,Coritiba / PR
+197,Bahia / BA,Botafogo / RJ
+198,Athletico Paranaense / PR,Fortaleza / CE
+199,Ceará / CE,Sport / PE
+200,Atlético / GO,Corinthians / SP
+201,Flamengo / RJ,Atlético / GO
+202,Botafogo / RJ,Red Bull Red Bull Bragantino / SP
+203,Palmeiras / SP,Fluminense / RJ
+204,Santos / SP,Internacional / RS
+205,Corinthians / SP,Atlético / MG
+206,Grêmio / RS,Ceará / CE
+207,Sport / PE,Vasco da Gama / RJ
+208,Coritiba / PR,Bahia / BA
+209,Fortaleza / CE,São Paulo / SP
+210,Goiás / GO,Athletico Paranaense / PR
+211,Flamengo / RJ,Coritiba / PR
+212,Botafogo / RJ,Fortaleza / CE
+213,São Paulo / SP,Vasco da Gama / RJ
+214,Red Bull Red Bull Bragantino / SP,Bahia / BA
+215,Corinthians / SP,Grêmio / RS
+216,Internacional / RS,Fluminense / RJ
+217,Sport / PE,Atlético / GO
+218,Athletico Paranaense / PR,Santos / SP
+219,Ceará / CE,Atlético / MG
+220,Goiás / GO,Palmeiras / SP
+221,Fluminense / RJ,Red Bull Red Bull Bragantino / SP
+222,Vasco da Gama / RJ,Ceará / CE
+223,Palmeiras / SP,Athletico Paranaense / PR
+224,Santos / SP,Sport / PE
+225,Atlético / MG,Botafogo / RJ
+226,Grêmio / RS,Flamengo / RJ
+227,Bahia / BA,São Paulo / SP
+228,Coritiba / PR,Corinthians / SP
+229,Fortaleza / CE,Goiás / GO
+230,Atlético / GO,Internacional / RS
+231,Fluminense / RJ,Athletico Paranaense / PR
+232,Botafogo / RJ,Flamengo / RJ
+233,São Paulo / SP,Sport / PE
+234,Santos / SP,Palmeiras / SP
+235,Atlético / MG,Internacional / RS
+236,Grêmio / RS,Vasco da Gama / RJ
+237,Bahia / BA,Ceará / CE
+238,Coritiba / PR,Red Bull Red Bull Bragantino / SP
+239,Fortaleza / CE,Corinthians / SP
+240,Atlético / GO,Goiás / GO
+241,Flamengo / RJ,Santos / SP
+242,Vasco da Gama / RJ,Fluminense / RJ
+243,Palmeiras / SP,Bahia / BA
+244,Red Bull Red Bull Bragantino / SP,Fortaleza / CE
+245,Corinthians / SP,São Paulo / SP
+246,Internacional / RS,Botafogo / RJ
+247,Sport / PE,Coritiba / PR
+248,Athletico Paranaense / PR,Atlético / MG
+249,Ceará / CE,Atlético / GO
+250,Goiás / GO,Grêmio / RS
+251,Flamengo / RJ,Bahia / BA
+252,Vasco da Gama / RJ,Santos / SP
+253,São Paulo / SP,Atlético / MG
+254,Red Bull Red Bull Bragantino / SP,Athletico Paranaense / PR
+255,Corinthians / SP,Goiás / GO
+256,Internacional / RS,Palmeiras / SP
+257,Sport / PE,Grêmio / RS
+258,Coritiba / PR,Botafogo / RJ
+259,Fortaleza / CE,Ceará / CE
+260,Atlético / GO,Fluminense / RJ
+261,Fluminense / RJ,São Paulo / SP
+262,Botafogo / RJ,Corinthians / SP
+263,Palmeiras / SP,Red Bull Red Bull Bragantino / SP
+264,Santos / SP,Ceará / CE
+265,Atlético / MG,Coritiba / PR
+266,Grêmio / RS,Atlético / GO
+267,Bahia / BA,Internacional / RS
+268,Athletico Paranaense / PR,Vasco da Gama / RJ
+269,Fortaleza / CE,Flamengo / RJ
+270,Goiás / GO,Sport / PE
+271,Flamengo / RJ,Fluminense / RJ
+272,Botafogo / RJ,Athletico Paranaense / PR
+273,Palmeiras / SP,Corinthians / SP
+274,Red Bull Red Bull Bragantino / SP,São Paulo / SP
+275,Atlético / MG,Santos / SP
+276,Grêmio / RS,Bahia / BA
+277,Sport / PE,Fortaleza / CE
+278,Coritiba / PR,Goiás / GO
+279,Ceará / CE,Internacional / RS
+280,Atlético / GO,Vasco da Gama / RJ
+281,Flamengo / RJ,Ceará / CE
+282,Vasco da Gama / RJ,Botafogo / RJ
+283,São Paulo / SP,Santos / SP
+284,Red Bull Red Bull Bragantino / SP,Atlético / MG
+285,Corinthians / SP,Fluminense / RJ
+286,Internacional / RS,Goiás / GO
+287,Sport / PE,Palmeiras / SP
+288,Coritiba / PR,Athletico Paranaense / PR
+289,Fortaleza / CE,Grêmio / RS
+290,Atlético / GO,Bahia / BA
+291,Fluminense / RJ,Sport / PE
+292,Vasco da Gama / RJ,Coritiba / PR
+293,Palmeiras / SP,Grêmio / RS
+294,Santos / SP,Botafogo / RJ
+295,Atlético / MG,Atlético / GO
+296,Internacional / RS,Fortaleza / CE
+297,Bahia / BA,Corinthians / SP
+298,Athletico Paranaense / PR,São Paulo / SP
+299,Ceará / CE,Red Bull Red Bull Bragantino / SP
+300,Goiás / GO,Flamengo / RJ
+301,Flamengo / RJ,Palmeiras / SP
+302,Botafogo / RJ,Atlético / GO
+303,São Paulo / SP,Internacional / RS
+304,Red Bull Red Bull Bragantino / SP,Vasco da Gama / RJ
+305,Corinthians / SP,Sport / PE
+306,Grêmio / RS,Atlético / MG
+307,Bahia / BA,Athletico Paranaense / PR
+308,Coritiba / PR,Fluminense / RJ
+309,Fortaleza / CE,Santos / SP
+310,Goiás / GO,Ceará / CE
+311,Fluminense / RJ,Botafogo / RJ
+312,Vasco da Gama / RJ,Atlético / MG
+313,São Paulo / SP,Coritiba / PR
+314,Santos / SP,Goiás / GO
+315,Corinthians / SP,Red Bull Red Bull Bragantino / SP
+316,Internacional / RS,Grêmio / RS
+317,Sport / PE,Bahia / BA
+318,Athletico Paranaense / PR,Flamengo / RJ
+319,Ceará / CE,Palmeiras / SP
+320,Atlético / GO,Fortaleza / CE
+321,Fluminense / RJ,Goiás / GO
+322,Vasco da Gama / RJ,Bahia / BA
+323,Palmeiras / SP,Botafogo / RJ
+324,Santos / SP,Corinthians / SP
+325,Atlético / MG,Fortaleza / CE
+326,Internacional / RS,Red Bull Red Bull Bragantino / SP
+327,Sport / PE,Flamengo / RJ
+328,Coritiba / PR,Grêmio / RS
+329,Ceará / CE,Athletico Paranaense / PR
+330,Atlético / GO,São Paulo / SP
+331,Flamengo / RJ,Vasco da Gama / RJ
+332,Botafogo / RJ,Sport / PE
+333,São Paulo / SP,Palmeiras / SP
+334,Red Bull Red Bull Bragantino / SP,Atlético / GO
+335,Corinthians / SP,Ceará / CE
+336,Grêmio / RS,Santos / SP
+337,Bahia / BA,Fluminense / RJ
+338,Athletico Paranaense / PR,Internacional / RS
+339,Fortaleza / CE,Coritiba / PR
+340,Goiás / GO,Atlético / MG
+341,Fluminense / RJ,Atlético / MG
+342,Botafogo / RJ,Grêmio / RS
+343,São Paulo / SP,Ceará / CE
+344,Red Bull Red Bull Bragantino / SP,Flamengo / RJ
+345,Corinthians / SP,Athletico Paranaense / PR
+346,Internacional / RS,Sport / PE
+347,Bahia / BA,Goiás / GO
+348,Coritiba / PR,Palmeiras / SP
+349,Fortaleza / CE,Vasco da Gama / RJ
+350,Atlético / GO,Santos / SP
+351,Flamengo / RJ,Corinthians / SP
+352,Vasco da Gama / RJ,Internacional / RS
+353,Palmeiras / SP,Fortaleza / CE
+354,Santos / SP,Coritiba / PR
+355,Atlético / MG,Bahia / BA
+356,Grêmio / RS,São Paulo / SP
+357,Sport / PE,Red Bull Red Bull Bragantino / SP
+358,Athletico Paranaense / PR,Atlético / GO
+359,Ceará / CE,Fluminense / RJ
+360,Goiás / GO,Botafogo / RJ
+361,Flamengo / RJ,Internacional / RS
+362,Botafogo / RJ,São Paulo / SP
+363,Palmeiras / SP,Atlético / GO
+364,Santos / SP,Fluminense / RJ
+365,Corinthians / SP,Vasco da Gama / RJ
+366,Grêmio / RS,Athletico Paranaense / PR
+367,Sport / PE,Atlético / MG
+368,Coritiba / PR,Ceará / CE
+369,Fortaleza / CE,Bahia / BA
+370,Goiás / GO,Red Bull Red Bull Bragantino / SP
+371,Fluminense / RJ,Fortaleza / CE
+372,Vasco da Gama / RJ,Goiás / GO
+373,São Paulo / SP,Flamengo / RJ
+374,Red Bull Red Bull Bragantino / SP,Grêmio / RS
+375,Atlético / MG,Palmeiras / SP
+376,Internacional / RS,Corinthians / SP
+377,Bahia / BA,Santos / SP
+378,Athletico Paranaense / PR,Sport / PE
+379,Ceará / CE,Botafogo / RJ
+380,Atlético / GO,Coritiba / PR

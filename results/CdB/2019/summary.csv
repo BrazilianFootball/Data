@@ -1,0 +1,121 @@
+Game,Home,Away
+001,Ríver / PI,Fluminense / RJ
+002,Votuporanguense / SP,Ypiranga / RS
+003,Americano / RJ,Londrina / PR
+004,Altos / PI,Santos / SP
+005,Imperatriz / MA,Náutico / PE
+006,Brasiliense / DF,CRB / AL
+007,Brusque / SC,Atlético / GO
+008,Central / PE,Ceará / CE
+009,Bragantino / PA,ASA / AL
+010,São Raimundo / RR,América / MG
+011,Corumbaense / MS,Luverdense / MT
+012,Santa Cruz / RN,Tupi / MG
+013,Atlético / CE,Joinville / SC
+014,São Raimundo / PA,Criciúma / SC
+015,Itabaiana / SE,Paraná / PR
+016,Juazeirense / BA,Vasco da Gama / RJ
+017,Real Desportivo / RO,Avaí / SC
+018,São José / RS,Chapecoense / SC
+019,Ferroviário / CE,Corinthians / SP
+020,Mixto / MT,CSA / AL
+021,Aparecidense / GO,Ponte Preta / SP
+022,Galvez / AC,ABC / RN
+023,Avenida / RS,Guarani / SP
+024,URT / MG,Coritiba / PR
+025,Foz do Iguaçu / PR,Boa / MG
+026,Sobradinho / DF,América / RN
+027,Serra / ES,Remo / PA
+028,Campinense / PB,Botafogo / RJ
+029,Ypiranga / AP,Cuiabá / MT
+030,Palmas / TO,Juventude / RS
+031,Sergipe / SE,Goiás / GO
+032,Tombense / MG,Sport / PE
+033,Operário / MS,Botafogo / PB
+034,Moto Club / MA,Vitória / BA
+035,Manaus / AM,Vila Nova / GO
+036,Rio Branco / AC,Bahia / BA
+037,Tubarão / SC,Brasil / RS
+038,Boavista / RJ,Figueirense / SC
+039,Sinop / MT,Santa Cruz / PE
+040,Fast Clube / AM,Oeste / SP
+041,Londrina / PR,Paraná / PR
+042,Luverdense / MT,Figueirense / SC
+043,Corinthians / SP,Avenida / RS
+044,Santa Cruz / PE,Náutico / PE
+045,Serra / ES,Vasco da Gama / RJ
+046,Criciúma / SC,Oeste / SP
+047,Goiás / GO,CRB / AL
+048,Atlético / CE,Atlético / GO
+049,Bragantino / PA,Aparecidense / GO
+050,Foz do Iguaçu / PR,Ceará / CE
+051,URT / MG,Vila Nova / GO
+052,Botafogo / RJ,Cuiabá / MT
+053,Tombense / MG,Botafogo / PB
+054,Juventude / RS,América / MG
+055,Santa Cruz / RN,Bahia / BA
+056,Fluminense / RJ,Ypiranga / RS
+057,Mixto / MT,Chapecoense / SC
+058,Avaí / SC,Brasil / RS
+059,ABC / RN,Moto Club / MA
+060,Santos / SP,América / RN
+061,Botafogo / PB,Londrina / PR
+062,Ceará / CE,Corinthians / SP
+063,Vasco da Gama / RJ,Avaí / SC
+064,Chapecoense / SC,Criciúma / SC
+065,CRB / AL,Bahia / BA
+066,Luverdense / MT,Fluminense / RJ
+067,ABC / RN,Santa Cruz / PE
+068,Atlético / GO,Santos / SP
+069,Botafogo / RJ,Juventude / RS
+070,Vila Nova / GO,Bragantino / PA
+071,Londrina / PR,Botafogo / PB
+072,Corinthians / SP,Ceará / CE
+073,Bahia / BA,CRB / AL
+074,Fluminense / RJ,Luverdense / MT
+075,Criciúma / SC,Chapecoense / SC
+076,Avaí / SC,Vasco da Gama / RJ
+077,Santa Cruz / PE,ABC / RN
+078,Juventude / RS,Botafogo / RJ
+079,Santos / SP,Atlético / GO
+080,Bragantino / PA,Vila Nova / GO
+081,Santos / SP,Vasco da Gama / RJ
+082,Fluminense / RJ,Santa Cruz / PE
+083,Chapecoense / SC,Corinthians / SP
+084,Bahia / BA,Londrina / PR
+085,Vasco da Gama / RJ,Santos / SP
+086,Corinthians / SP,Chapecoense / SC
+087,Londrina / PR,Bahia / BA
+088,Juventude / RS,Vila Nova / GO
+089,Santa Cruz / PE,Fluminense / RJ
+090,Vila Nova / GO,Juventude / RS
+091,Atlético / MG,Santos / SP
+092,Corinthians / SP,Flamengo / RJ
+093,Fluminense / RJ,Cruzeiro / MG
+094,Fortaleza / CE,Athletico Paranaense / PR
+095,Juventude / RS,Grêmio / RS
+096,Sampaio Corrêa / MA,Palmeiras / SP
+097,São Paulo / SP,Bahia / BA
+098,Internacional / RS,Paysandu / PA
+099,Paysandu / PA,Internacional / RS
+100,Bahia / BA,São Paulo / SP
+101,Palmeiras / SP,Sampaio Corrêa / MA
+102,Grêmio / RS,Juventude / RS
+103,Flamengo / RJ,Corinthians / SP
+104,Athletico Paranaense / PR,Fortaleza / CE
+105,Cruzeiro / MG,Fluminense / RJ
+106,Santos / SP,Atlético / MG
+107,Grêmio / RS,Bahia / BA
+108,Athletico Paranaense / PR,Flamengo / RJ
+109,Palmeiras / SP,Internacional / RS
+110,Cruzeiro / MG,Atlético / MG
+111,Bahia / BA,Grêmio / RS
+112,Atlético / MG,Cruzeiro / MG
+113,Flamengo / RJ,Athletico Paranaense / PR
+114,Internacional / RS,Palmeiras / SP
+115,Cruzeiro / MG,Internacional / RS
+116,Grêmio / RS,Athletico Paranaense / PR
+117,Athletico Paranaense / PR,Grêmio / RS
+118,Internacional / RS,Cruzeiro / MG
+119,Athletico Paranaense / PR,Internacional / RS
+120,Internacional / RS,Athletico Paranaense / PR

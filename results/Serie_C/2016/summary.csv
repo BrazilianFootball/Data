@@ -1,0 +1,195 @@
+Game,Home,Away
+001,América / RN,ABC / RN
+002,Cuiabá / MT,Remo / PA
+003,Fortaleza / CE,Ríver / PI
+004,Salgueiro / PE,Botafogo / PB
+005,ASA / AL,Confiança / SE
+006,Botafogo / SP,Mogi Mirim / SP
+007,Portuguesa / SP,Macaé / RJ
+008,Boa / MG,Tombense / MG
+009,Guarani / SP,Guaratinguetá / SP
+010,Juventude / RS,Ypiranga / RS
+011,ABC / RN,Salgueiro / PE
+012,Remo / PA,ASA / AL
+013,Ríver / PI,América / RN
+014,Botafogo / PB,Cuiabá / MT
+015,Confiança / SE,Fortaleza / CE
+016,Mogi Mirim / SP,Portuguesa / SP
+017,Macaé / RJ,Boa / MG
+018,Tombense / MG,Guarani / SP
+019,Guaratinguetá / SP,Juventude / RS
+020,Ypiranga / RS,Botafogo / SP
+021,América / RN,Fortaleza / CE
+022,Cuiabá / MT,Confiança / SE
+023,Ríver / PI,Remo / PA
+024,Botafogo / PB,ABC / RN
+025,ASA / AL,Salgueiro / PE
+026,Botafogo / SP,Boa / MG
+027,Portuguesa / SP,Ypiranga / RS
+028,Tombense / MG,Macaé / RJ
+029,Guaratinguetá / SP,Mogi Mirim / SP
+030,Juventude / RS,Guarani / SP
+031,ABC / RN,Confiança / SE
+032,Remo / PA,Botafogo / PB
+033,Fortaleza / CE,Cuiabá / MT
+034,Salgueiro / PE,América / RN
+035,ASA / AL,Ríver / PI
+036,Mogi Mirim / SP,Tombense / MG
+037,Portuguesa / SP,Botafogo / SP
+038,Boa / MG,Juventude / RS
+039,Guarani / SP,Macaé / RJ
+040,Ypiranga / RS,Guaratinguetá / SP
+041,América / RN,ASA / AL
+042,Cuiabá / MT,Salgueiro / PE
+043,Fortaleza / CE,ABC / RN
+044,Botafogo / PB,Ríver / PI
+045,Confiança / SE,Remo / PA
+046,Botafogo / SP,Guaratinguetá / SP
+047,Macaé / RJ,Mogi Mirim / SP
+048,Tombense / MG,Ypiranga / RS
+049,Guarani / SP,Boa / MG
+050,Juventude / RS,Portuguesa / SP
+051,América / RN,Botafogo / PB
+052,Remo / PA,ABC / RN
+053,Ríver / PI,Confiança / SE
+054,Salgueiro / PE,Fortaleza / CE
+055,ASA / AL,Cuiabá / MT
+056,Botafogo / SP,Juventude / RS
+057,Portuguesa / SP,Guarani / SP
+058,Boa / MG,Mogi Mirim / SP
+059,Guaratinguetá / SP,Tombense / MG
+060,Ypiranga / RS,Macaé / RJ
+061,ABC / RN,Ríver / PI
+062,Cuiabá / MT,América / RN
+063,Fortaleza / CE,ASA / AL
+064,Salgueiro / PE,Remo / PA
+065,Confiança / SE,Botafogo / PB
+066,Mogi Mirim / SP,Ypiranga / RS
+067,Macaé / RJ,Guaratinguetá / SP
+068,Boa / MG,Portuguesa / SP
+069,Guarani / SP,Botafogo / SP
+070,Juventude / RS,Tombense / MG
+071,ABC / RN,Cuiabá / MT
+072,Remo / PA,Fortaleza / CE
+073,Ríver / PI,Salgueiro / PE
+074,Botafogo / PB,ASA / AL
+075,Confiança / SE,América / RN
+076,Mogi Mirim / SP,Guarani / SP
+077,Macaé / RJ,Juventude / RS
+078,Tombense / MG,Botafogo / SP
+079,Guaratinguetá / SP,Portuguesa / SP
+080,Ypiranga / RS,Boa / MG
+081,América / RN,Remo / PA
+082,Cuiabá / MT,Ríver / PI
+083,Fortaleza / CE,Botafogo / PB
+084,Salgueiro / PE,Confiança / SE
+085,ASA / AL,ABC / RN
+086,Botafogo / SP,Macaé / RJ
+087,Portuguesa / SP,Tombense / MG
+088,Boa / MG,Guaratinguetá / SP
+089,Guarani / SP,Ypiranga / RS
+090,Juventude / RS,Mogi Mirim / SP
+091,ABC / RN,América / RN
+092,Remo / PA,Cuiabá / MT
+093,Ríver / PI,Fortaleza / CE
+094,Botafogo / PB,Salgueiro / PE
+095,Confiança / SE,ASA / AL
+096,Mogi Mirim / SP,Botafogo / SP
+097,Macaé / RJ,Portuguesa / SP
+098,Tombense / MG,Boa / MG
+099,Guaratinguetá / SP,Guarani / SP
+100,Ypiranga / RS,Juventude / RS
+101,América / RN,Ríver / PI
+102,Cuiabá / MT,Botafogo / PB
+103,Fortaleza / CE,Confiança / SE
+104,Salgueiro / PE,ABC / RN
+105,ASA / AL,Remo / PA
+106,Botafogo / SP,Ypiranga / RS
+107,Portuguesa / SP,Mogi Mirim / SP
+108,Boa / MG,Macaé / RJ
+109,Guarani / SP,Tombense / MG
+110,Juventude / RS,Guaratinguetá / SP
+111,ABC / RN,Botafogo / PB
+112,Remo / PA,Ríver / PI
+113,Fortaleza / CE,América / RN
+114,Salgueiro / PE,ASA / AL
+115,Confiança / SE,Cuiabá / MT
+116,Mogi Mirim / SP,Guaratinguetá / SP
+117,Macaé / RJ,Tombense / MG
+118,Boa / MG,Botafogo / SP
+119,Guarani / SP,Juventude / RS
+120,Ypiranga / RS,Portuguesa / SP
+121,América / RN,Salgueiro / PE
+122,Cuiabá / MT,Fortaleza / CE
+123,Ríver / PI,ASA / AL
+124,Botafogo / PB,Remo / PA
+125,Confiança / SE,ABC / RN
+126,Botafogo / SP,Portuguesa / SP
+127,Macaé / RJ,Guarani / SP
+128,Tombense / MG,Mogi Mirim / SP
+129,Guaratinguetá / SP,Ypiranga / RS
+130,Juventude / RS,Boa / MG
+131,ABC / RN,Fortaleza / CE
+132,Remo / PA,Confiança / SE
+133,Ríver / PI,Botafogo / PB
+134,Salgueiro / PE,Cuiabá / MT
+135,ASA / AL,América / RN
+136,Mogi Mirim / SP,Macaé / RJ
+137,Portuguesa / SP,Juventude / RS
+138,Boa / MG,Guarani / SP
+139,Guaratinguetá / SP,Botafogo / SP
+140,Ypiranga / RS,Tombense / MG
+141,ABC / RN,Remo / PA
+142,Cuiabá / MT,ASA / AL
+143,Fortaleza / CE,Salgueiro / PE
+144,Botafogo / PB,América / RN
+145,Confiança / SE,Ríver / PI
+146,Mogi Mirim / SP,Boa / MG
+147,Macaé / RJ,Ypiranga / RS
+148,Tombense / MG,Guaratinguetá / SP
+149,Guarani / SP,Portuguesa / SP
+150,Juventude / RS,Botafogo / SP
+151,América / RN,Cuiabá / MT
+152,Remo / PA,Salgueiro / PE
+153,Ríver / PI,ABC / RN
+154,Botafogo / PB,Confiança / SE
+155,ASA / AL,Fortaleza / CE
+156,Botafogo / SP,Guarani / SP
+157,Portuguesa / SP,Boa / MG
+158,Tombense / MG,Juventude / RS
+159,Guaratinguetá / SP,Macaé / RJ
+160,Ypiranga / RS,Mogi Mirim / SP
+161,América / RN,Confiança / SE
+162,Cuiabá / MT,ABC / RN
+163,Fortaleza / CE,Remo / PA
+164,Salgueiro / PE,Ríver / PI
+165,ASA / AL,Botafogo / PB
+166,Botafogo / SP,Tombense / MG
+167,Portuguesa / SP,Guaratinguetá / SP
+168,Boa / MG,Ypiranga / RS
+169,Guarani / SP,Mogi Mirim / SP
+170,Juventude / RS,Macaé / RJ
+171,ABC / RN,ASA / AL
+172,Remo / PA,América / RN
+173,Ríver / PI,Cuiabá / MT
+174,Botafogo / PB,Fortaleza / CE
+175,Confiança / SE,Salgueiro / PE
+176,Mogi Mirim / SP,Juventude / RS
+177,Macaé / RJ,Botafogo / SP
+178,Tombense / MG,Portuguesa / SP
+179,Guaratinguetá / SP,Boa / MG
+180,Ypiranga / RS,Guarani / SP
+181,Juventude / RS,Fortaleza / CE
+182,Botafogo / PB,Boa / MG
+183,Botafogo / SP,ABC / RN
+184,ASA / AL,Guarani / SP
+185,Fortaleza / CE,Juventude / RS
+186,Boa / MG,Botafogo / PB
+187,ABC / RN,Botafogo / SP
+188,Guarani / SP,ASA / AL
+189,Juventude / RS,Boa / MG
+190,Boa / MG,Juventude / RS
+191,ABC / RN,Guarani / SP
+192,Guarani / SP,ABC / RN
+193,Guarani / SP,Boa / MG
+194,Boa / MG,Guarani / SP

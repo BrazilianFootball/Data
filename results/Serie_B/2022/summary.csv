@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Ponte Preta / SP,Grêmio / RS
+002,CSA / AL,Criciúma / SC
+003,Sport / PE,Sampaio Corrêa / MA
+004,Brusque / SC,Guarani / SP
+005,Novorizontino / SP,CRB / AL
+006,Londrina / PR,Náutico / PE
+007,Vasco da Gama / RJ,Vila Nova / GO
+008,Bahia / BA,Cruzeiro / MG
+009,Tombense / MG,Operário / PR
+010,Chapecoense / SC,Ituano / SP
+011,Guarani / SP,Sport / PE
+012,CRB / AL,Vasco da Gama / RJ
+013,Náutico / PE,Bahia / BA
+014,Criciúma / SC,Londrina / PR
+015,Ituano / SP,CSA / AL
+016,Operário / PR,Ponte Preta / SP
+017,Grêmio / RS,Chapecoense / SC
+018,Sampaio Corrêa / MA,Tombense / MG
+019,Cruzeiro / MG,Brusque / SC
+020,Vila Nova / GO,Novorizontino / SP
+021,Ponte Preta / SP,CRB / AL
+022,CSA / AL,Bahia / BA
+023,Náutico / PE,Operário / PR
+024,Criciúma / SC,Sport / PE
+025,Ituano / SP,Vila Nova / GO
+026,Londrina / PR,Novorizontino / SP
+027,Grêmio / RS,Guarani / SP
+028,Sampaio Corrêa / MA,Brusque / SC
+029,Tombense / MG,Cruzeiro / MG
+030,Chapecoense / SC,Vasco da Gama / RJ
+031,Guarani / SP,Criciúma / SC
+032,CRB / AL,Náutico / PE
+033,Sport / PE,Ituano / SP
+034,Brusque / SC,CSA / AL
+035,Novorizontino / SP,Chapecoense / SC
+036,Operário / PR,Grêmio / RS
+037,Vasco da Gama / RJ,Ponte Preta / SP
+038,Bahia / BA,Sampaio Corrêa / MA
+039,Cruzeiro / MG,Londrina / PR
+040,Vila Nova / GO,Tombense / MG
+041,Ponte Preta / SP,Brusque / SC
+042,CSA / AL,Sport / PE
+043,Náutico / PE,Guarani / SP
+044,Criciúma / SC,Novorizontino / SP
+045,Ituano / SP,Bahia / BA
+046,Londrina / PR,Vila Nova / GO
+047,Grêmio / RS,CRB / AL
+048,Sampaio Corrêa / MA,Operário / PR
+049,Tombense / MG,Vasco da Gama / RJ
+050,Chapecoense / SC,Cruzeiro / MG
+051,Guarani / SP,Ponte Preta / SP
+052,CRB / AL,Sampaio Corrêa / MA
+053,Sport / PE,Tombense / MG
+054,Brusque / SC,Chapecoense / SC
+055,Novorizontino / SP,Ituano / SP
+056,Operário / PR,Criciúma / SC
+057,Vasco da Gama / RJ,CSA / AL
+058,Bahia / BA,Londrina / PR
+059,Cruzeiro / MG,Grêmio / RS
+060,Vila Nova / GO,Náutico / PE
+061,Ponte Preta / SP,Novorizontino / SP
+062,CSA / AL,Operário / PR
+063,Náutico / PE,Cruzeiro / MG
+064,Criciúma / SC,CRB / AL
+065,Ituano / SP,Grêmio / RS
+066,Londrina / PR,Brusque / SC
+067,Vasco da Gama / RJ,Bahia / BA
+068,Sampaio Corrêa / MA,Vila Nova / GO
+069,Tombense / MG,Guarani / SP
+070,Chapecoense / SC,Sport / PE
+071,Guarani / SP,Vasco da Gama / RJ
+072,CRB / AL,Londrina / PR
+073,Náutico / PE,CSA / AL
+074,Brusque / SC,Tombense / MG
+075,Novorizontino / SP,Sport / PE
+076,Operário / PR,Ituano / SP
+077,Grêmio / RS,Criciúma / SC
+078,Bahia / BA,Ponte Preta / SP
+079,Cruzeiro / MG,Sampaio Corrêa / MA
+080,Vila Nova / GO,Chapecoense / SC
+081,Ponte Preta / SP,Chapecoense / SC
+082,CSA / AL,Novorizontino / SP
+083,Sport / PE,CRB / AL
+084,Criciúma / SC,Cruzeiro / MG
+085,Ituano / SP,Náutico / PE
+086,Londrina / PR,Operário / PR
+087,Vasco da Gama / RJ,Brusque / SC
+088,Sampaio Corrêa / MA,Guarani / SP
+089,Tombense / MG,Bahia / BA
+090,Vila Nova / GO,Grêmio / RS
+091,Guarani / SP,Vila Nova / GO
+092,CRB / AL,CSA / AL
+093,Sport / PE,Ponte Preta / SP
+094,Brusque / SC,Náutico / PE
+095,Novorizontino / SP,Sampaio Corrêa / MA
+096,Operário / PR,Cruzeiro / MG
+097,Vasco da Gama / RJ,Grêmio / RS
+098,Bahia / BA,Criciúma / SC
+099,Tombense / MG,Ituano / SP
+100,Chapecoense / SC,Londrina / PR
+101,Guarani / SP,Operário / PR
+102,CSA / AL,Chapecoense / SC
+103,Náutico / PE,Vasco da Gama / RJ
+104,Criciúma / SC,Sampaio Corrêa / MA
+105,Ituano / SP,Ponte Preta / SP
+106,Londrina / PR,Tombense / MG
+107,Grêmio / RS,Novorizontino / SP
+108,Bahia / BA,Sport / PE
+109,Cruzeiro / MG,CRB / AL
+110,Vila Nova / GO,Brusque / SC
+111,Ponte Preta / SP,Londrina / PR
+112,CRB / AL,Vila Nova / GO
+113,Sport / PE,Grêmio / RS
+114,Brusque / SC,Ituano / SP
+115,Novorizontino / SP,Guarani / SP
+116,Operário / PR,Bahia / BA
+117,Vasco da Gama / RJ,Cruzeiro / MG
+118,Sampaio Corrêa / MA,Náutico / PE
+119,Tombense / MG,CSA / AL
+120,Chapecoense / SC,Criciúma / SC
+121,Guarani / SP,CSA / AL
+122,CRB / AL,Ituano / SP
+123,Náutico / PE,Sport / PE
+124,Criciúma / SC,Brusque / SC
+125,Novorizontino / SP,Tombense / MG
+126,Londrina / PR,Vasco da Gama / RJ
+127,Grêmio / RS,Sampaio Corrêa / MA
+128,Bahia / BA,Chapecoense / SC
+129,Cruzeiro / MG,Ponte Preta / SP
+130,Vila Nova / GO,Operário / PR
+131,Ponte Preta / SP,Sampaio Corrêa / MA
+132,CSA / AL,Grêmio / RS
+133,Sport / PE,Brusque / SC
+134,Criciúma / SC,Vila Nova / GO
+135,Ituano / SP,Cruzeiro / MG
+136,Londrina / PR,Guarani / SP
+137,Vasco da Gama / RJ,Operário / PR
+138,Bahia / BA,Novorizontino / SP
+139,Tombense / MG,Náutico / PE
+140,Chapecoense / SC,CRB / AL
+141,Guarani / SP,Ituano / SP
+142,CRB / AL,Tombense / MG
+143,Náutico / PE,Criciúma / SC
+144,Brusque / SC,Bahia / BA
+145,Novorizontino / SP,Vasco da Gama / RJ
+146,Operário / PR,Chapecoense / SC
+147,Grêmio / RS,Londrina / PR
+148,Sampaio Corrêa / MA,CSA / AL
+149,Cruzeiro / MG,Sport / PE
+150,Vila Nova / GO,Ponte Preta / SP
+151,Ponte Preta / SP,Tombense / MG
+152,CRB / AL,Guarani / SP
+153,Náutico / PE,Novorizontino / SP
+154,Brusque / SC,Operário / PR
+155,Ituano / SP,Criciúma / SC
+156,Londrina / PR,CSA / AL
+157,Vasco da Gama / RJ,Sport / PE
+158,Bahia / BA,Grêmio / RS
+159,Cruzeiro / MG,Vila Nova / GO
+160,Chapecoense / SC,Sampaio Corrêa / MA
+161,Guarani / SP,Cruzeiro / MG
+162,CSA / AL,Ponte Preta / SP
+163,Sport / PE,Londrina / PR
+164,Criciúma / SC,Vasco da Gama / RJ
+165,Novorizontino / SP,Brusque / SC
+166,Operário / PR,CRB / AL
+167,Grêmio / RS,Náutico / PE
+168,Sampaio Corrêa / MA,Ituano / SP
+169,Tombense / MG,Chapecoense / SC
+170,Vila Nova / GO,Bahia / BA
+171,Guarani / SP,Bahia / BA
+172,CRB / AL,Brusque / SC
+173,Náutico / PE,Chapecoense / SC
+174,Criciúma / SC,Ponte Preta / SP
+175,Ituano / SP,Londrina / PR
+176,Operário / PR,Sport / PE
+177,Grêmio / RS,Tombense / MG
+178,Sampaio Corrêa / MA,Vasco da Gama / RJ
+179,Cruzeiro / MG,Novorizontino / SP
+180,Vila Nova / GO,CSA / AL
+181,Ponte Preta / SP,Náutico / PE
+182,CSA / AL,Cruzeiro / MG
+183,Sport / PE,Vila Nova / GO
+184,Brusque / SC,Grêmio / RS
+185,Novorizontino / SP,Operário / PR
+186,Londrina / PR,Sampaio Corrêa / MA
+187,Vasco da Gama / RJ,Ituano / SP
+188,Bahia / BA,CRB / AL
+189,Tombense / MG,Criciúma / SC
+190,Chapecoense / SC,Guarani / SP
+191,Guarani / SP,Brusque / SC
+192,CRB / AL,Novorizontino / SP
+193,Náutico / PE,Londrina / PR
+194,Criciúma / SC,CSA / AL
+195,Ituano / SP,Chapecoense / SC
+196,Operário / PR,Tombense / MG
+197,Grêmio / RS,Ponte Preta / SP
+198,Sampaio Corrêa / MA,Sport / PE
+199,Cruzeiro / MG,Bahia / BA
+200,Vila Nova / GO,Vasco da Gama / RJ
+201,Ponte Preta / SP,Operário / PR
+202,CSA / AL,Ituano / SP
+203,Sport / PE,Guarani / SP
+204,Brusque / SC,Cruzeiro / MG
+205,Novorizontino / SP,Vila Nova / GO
+206,Londrina / PR,Criciúma / SC
+207,Vasco da Gama / RJ,CRB / AL
+208,Bahia / BA,Náutico / PE
+209,Tombense / MG,Sampaio Corrêa / MA
+210,Chapecoense / SC,Grêmio / RS
+211,Guarani / SP,Grêmio / RS
+212,CRB / AL,Ponte Preta / SP
+213,Sport / PE,Criciúma / SC
+214,Brusque / SC,Sampaio Corrêa / MA
+215,Novorizontino / SP,Londrina / PR
+216,Operário / PR,Náutico / PE
+217,Vasco da Gama / RJ,Chapecoense / SC
+218,Bahia / BA,CSA / AL
+219,Cruzeiro / MG,Tombense / MG
+220,Vila Nova / GO,Ituano / SP
+221,Ponte Preta / SP,Vasco da Gama / RJ
+222,CSA / AL,Brusque / SC
+223,Náutico / PE,CRB / AL
+224,Criciúma / SC,Guarani / SP
+225,Ituano / SP,Sport / PE
+226,Londrina / PR,Cruzeiro / MG
+227,Grêmio / RS,Operário / PR
+228,Sampaio Corrêa / MA,Bahia / BA
+229,Tombense / MG,Vila Nova / GO
+230,Chapecoense / SC,Novorizontino / SP
+231,Guarani / SP,Náutico / PE
+232,CRB / AL,Grêmio / RS
+233,Sport / PE,CSA / AL
+234,Brusque / SC,Ponte Preta / SP
+235,Novorizontino / SP,Criciúma / SC
+236,Operário / PR,Sampaio Corrêa / MA
+237,Vasco da Gama / RJ,Tombense / MG
+238,Bahia / BA,Ituano / SP
+239,Cruzeiro / MG,Chapecoense / SC
+240,Vila Nova / GO,Londrina / PR
+241,Ponte Preta / SP,Guarani / SP
+242,CSA / AL,Vasco da Gama / RJ
+243,Náutico / PE,Vila Nova / GO
+244,Criciúma / SC,Operário / PR
+245,Ituano / SP,Novorizontino / SP
+246,Londrina / PR,Bahia / BA
+247,Grêmio / RS,Cruzeiro / MG
+248,Sampaio Corrêa / MA,CRB / AL
+249,Tombense / MG,Sport / PE
+250,Chapecoense / SC,Brusque / SC
+251,Guarani / SP,Tombense / MG
+252,CRB / AL,Criciúma / SC
+253,Sport / PE,Chapecoense / SC
+254,Brusque / SC,Londrina / PR
+255,Novorizontino / SP,Ponte Preta / SP
+256,Operário / PR,CSA / AL
+257,Grêmio / RS,Ituano / SP
+258,Bahia / BA,Vasco da Gama / RJ
+259,Cruzeiro / MG,Náutico / PE
+260,Vila Nova / GO,Sampaio Corrêa / MA
+261,Ponte Preta / SP,Bahia / BA
+262,CSA / AL,Náutico / PE
+263,Sport / PE,Novorizontino / SP
+264,Criciúma / SC,Grêmio / RS
+265,Ituano / SP,Operário / PR
+266,Londrina / PR,CRB / AL
+267,Vasco da Gama / RJ,Guarani / SP
+268,Sampaio Corrêa / MA,Cruzeiro / MG
+269,Tombense / MG,Brusque / SC
+270,Chapecoense / SC,Vila Nova / GO
+271,Guarani / SP,Sampaio Corrêa / MA
+272,CRB / AL,Sport / PE
+273,Náutico / PE,Ituano / SP
+274,Brusque / SC,Vasco da Gama / RJ
+275,Novorizontino / SP,CSA / AL
+276,Operário / PR,Londrina / PR
+277,Grêmio / RS,Vila Nova / GO
+278,Bahia / BA,Tombense / MG
+279,Cruzeiro / MG,Criciúma / SC
+280,Chapecoense / SC,Ponte Preta / SP
+281,Ponte Preta / SP,Sport / PE
+282,CSA / AL,CRB / AL
+283,Náutico / PE,Brusque / SC
+284,Criciúma / SC,Bahia / BA
+285,Ituano / SP,Tombense / MG
+286,Londrina / PR,Chapecoense / SC
+287,Grêmio / RS,Vasco da Gama / RJ
+288,Sampaio Corrêa / MA,Novorizontino / SP
+289,Cruzeiro / MG,Operário / PR
+290,Vila Nova / GO,Guarani / SP
+291,Ponte Preta / SP,Ituano / SP
+292,CRB / AL,Cruzeiro / MG
+293,Sport / PE,Bahia / BA
+294,Brusque / SC,Vila Nova / GO
+295,Novorizontino / SP,Grêmio / RS
+296,Operário / PR,Guarani / SP
+297,Vasco da Gama / RJ,Náutico / PE
+298,Sampaio Corrêa / MA,Criciúma / SC
+299,Tombense / MG,Londrina / PR
+300,Chapecoense / SC,CSA / AL
+301,Guarani / SP,Novorizontino / SP
+302,CSA / AL,Tombense / MG
+303,Náutico / PE,Sampaio Corrêa / MA
+304,Criciúma / SC,Chapecoense / SC
+305,Ituano / SP,Brusque / SC
+306,Londrina / PR,Ponte Preta / SP
+307,Grêmio / RS,Sport / PE
+308,Bahia / BA,Operário / PR
+309,Cruzeiro / MG,Vasco da Gama / RJ
+310,Vila Nova / GO,CRB / AL
+311,Ponte Preta / SP,Cruzeiro / MG
+312,CSA / AL,Guarani / SP
+313,Sport / PE,Náutico / PE
+314,Brusque / SC,Criciúma / SC
+315,Ituano / SP,CRB / AL
+316,Operário / PR,Vila Nova / GO
+317,Vasco da Gama / RJ,Londrina / PR
+318,Sampaio Corrêa / MA,Grêmio / RS
+319,Tombense / MG,Novorizontino / SP
+320,Chapecoense / SC,Bahia / BA
+321,Guarani / SP,Londrina / PR
+322,CRB / AL,Chapecoense / SC
+323,Náutico / PE,Tombense / MG
+324,Brusque / SC,Sport / PE
+325,Novorizontino / SP,Bahia / BA
+326,Operário / PR,Vasco da Gama / RJ
+327,Grêmio / RS,CSA / AL
+328,Sampaio Corrêa / MA,Ponte Preta / SP
+329,Cruzeiro / MG,Ituano / SP
+330,Vila Nova / GO,Criciúma / SC
+331,Ponte Preta / SP,Vila Nova / GO
+332,CSA / AL,Sampaio Corrêa / MA
+333,Sport / PE,Cruzeiro / MG
+334,Criciúma / SC,Náutico / PE
+335,Ituano / SP,Guarani / SP
+336,Londrina / PR,Grêmio / RS
+337,Vasco da Gama / RJ,Novorizontino / SP
+338,Bahia / BA,Brusque / SC
+339,Tombense / MG,CRB / AL
+340,Chapecoense / SC,Operário / PR
+341,Guarani / SP,CRB / AL
+342,CSA / AL,Londrina / PR
+343,Sport / PE,Vasco da Gama / RJ
+344,Criciúma / SC,Ituano / SP
+345,Novorizontino / SP,Náutico / PE
+346,Operário / PR,Brusque / SC
+347,Grêmio / RS,Bahia / BA
+348,Sampaio Corrêa / MA,Chapecoense / SC
+349,Tombense / MG,Ponte Preta / SP
+350,Vila Nova / GO,Cruzeiro / MG
+351,Ponte Preta / SP,CSA / AL
+352,CRB / AL,Operário / PR
+353,Náutico / PE,Grêmio / RS
+354,Brusque / SC,Novorizontino / SP
+355,Ituano / SP,Sampaio Corrêa / MA
+356,Londrina / PR,Sport / PE
+357,Vasco da Gama / RJ,Criciúma / SC
+358,Bahia / BA,Vila Nova / GO
+359,Cruzeiro / MG,Guarani / SP
+360,Chapecoense / SC,Tombense / MG
+361,Ponte Preta / SP,Criciúma / SC
+362,CSA / AL,Vila Nova / GO
+363,Sport / PE,Operário / PR
+364,Brusque / SC,CRB / AL
+365,Novorizontino / SP,Cruzeiro / MG
+366,Londrina / PR,Ituano / SP
+367,Vasco da Gama / RJ,Sampaio Corrêa / MA
+368,Bahia / BA,Guarani / SP
+369,Tombense / MG,Grêmio / RS
+370,Chapecoense / SC,Náutico / PE
+371,Guarani / SP,Chapecoense / SC
+372,CRB / AL,Bahia / BA
+373,Náutico / PE,Ponte Preta / SP
+374,Criciúma / SC,Tombense / MG
+375,Ituano / SP,Vasco da Gama / RJ
+376,Operário / PR,Novorizontino / SP
+377,Grêmio / RS,Brusque / SC
+378,Sampaio Corrêa / MA,Londrina / PR
+379,Cruzeiro / MG,CSA / AL
+380,Vila Nova / GO,Sport / PE

@@ -1,0 +1,123 @@
+Game,Home,Away
+001,Águia Negra / MS,Vitória / BA
+002,Campinense / PB,Bahia / BA
+003,Madureira / RJ,Paysandu / PA
+004,4 de Julho / PI,Confiança / SE
+005,Real Brasília / DF,América / RN
+006,Rio Branco / ES,Sampaio Corrêa / MA
+007,Cianorte / PR,Paraná / PR
+008,Juazeirense / BA,Sport / PE
+009,Moto Club / MA,Botafogo / RJ
+010,Ypiranga / AP,Santa Cruz / PE
+011,Uberlândia / MG,Luverdense / MT
+012,São Raimundo / RR,Cruzeiro / MG
+013,Gama / DF,Ponte Preta / SP
+014,Boavista / RJ,Goiás / GO
+015,Murici / AL,Juventude / RS
+016,Sergipe / SE,Cuiabá / MT
+017,Esportivo / RS,Remo / PA
+018,Mirassol / SP,Red Bull Red Bull Bragantino / SP
+019,Juventude / MA,Operário / PR
+020,Picos / PI,Atlético / AC
+021,Goianesia / GO,CRB / AL
+022,Porto Velho / RO,Ferroviário / CE
+023,Nova Mutum / MT,Tombense / MG
+024,Atlético / BA,Vila Nova / GO
+025,Retrô / PE,Brusque / SC
+026,Galvez / AC,Atlético / GO
+027,Caxias / RS,Fortaleza / CE
+028,Rio Branco / ES,ABC / RN
+029,Guarany / CE,CSA / AL
+030,Palmas / TO,Avaí / SC
+031,Castanhal / PA,Volta Redonda / RJ
+032,Santa Cruz / RS,Joinville / SC
+033,Salgueiro / PE,Corinthians / SP
+034,Marília / SP,Criciúma / SC
+035,Treze / PB,América / MG
+036,Jaraguá / GO,Manaus / AM
+037,Cascavel / PR,Figueirense / SC
+038,União de Rondonópolis / MT,Coritiba / PR
+039,Penarol / AM,Ypiranga / RS
+040,Caldense / MG,Vasco da Gama / RJ
+041,Corinthians / SP,Retrô / PE
+042,Luverdense / MT,Red Bull Red Bull Bragantino / SP
+043,Coritiba / PR,Operário / PR
+044,Fortaleza / CE,Ypiranga / RS
+045,Picos / PI,Boavista / RJ
+046,Juazeirense / BA,Volta Redonda / RJ
+047,Vitória / BA,Rio Branco / ES
+048,Bahia / BA,Manaus / AM
+049,Tombense / MG,Vasco da Gama / RJ
+050,Criciúma / SC,Ponte Preta / SP
+051,Vila Nova / GO,Juventude / RS
+052,Cianorte / PR,Santa Cruz / PE
+053,Paysandu / PA,CRB / AL
+054,CSA / AL,Remo / PA
+055,América / MG,Ferroviário / CE
+056,ABC / RN,Botafogo / RJ
+057,América / RN,Cruzeiro / MG
+058,Avaí / SC,Cascavel / PR
+059,4 de Julho / PI,Cuiabá / MT
+060,Joinville / SC,Atlético / GO
+061,Cianorte / PR,Santos / SP
+062,Vila Nova / GO,Bahia / BA
+063,CRB / AL,Palmeiras / SP
+064,4 de Julho / PI,São Paulo / SP
+065,Fluminense / RJ,Red Bull Red Bull Bragantino / SP
+066,Fortaleza / CE,Ceará / CE
+067,Grêmio / RS,Brasiliense / DF
+068,América / MG,Criciúma / SC
+069,Avaí / SC,Athletico Paranaense / PR
+070,Remo / PA,Atlético Mineiro / MG
+071,Corinthians / SP,Atlético / GO
+072,Vitória / BA,Internacional / RS
+073,Cruzeiro / MG,Juazeirense / BA
+074,Chapecoense / SC,ABC / RN
+075,Coritiba / PR,Flamengo / RJ
+076,Boavista / RJ,Vasco da Gama / RJ
+077,Santos / SP,Cianorte / PR
+078,Bahia / BA,Vila Nova / GO
+079,Palmeiras / SP,CRB / AL
+080,São Paulo / SP,4 de Julho / PI
+081,Red Bull Red Bull Bragantino / SP,Fluminense / RJ
+082,Ceará / CE,Fortaleza / CE
+083,Brasiliense / DF,Grêmio / RS
+084,Criciúma / SC,América / MG
+085,Athletico Paranaense / PR,Avaí / SC
+086,Atlético Mineiro / MG,Remo / PA
+087,Atlético / GO,Corinthians / SP
+088,Internacional / RS,Vitória / BA
+089,Juazeirense / BA,Cruzeiro / MG
+090,ABC / RN,Chapecoense / SC
+091,Flamengo / RJ,Coritiba / PR
+092,Vasco da Gama / RJ,Boavista / RJ
+093,São Paulo / SP,Vasco da Gama / RJ
+094,Criciúma / SC,Fluminense / RJ
+095,Vitória / BA,Grêmio / RS
+096,Fortaleza / CE,CRB / AL
+097,Flamengo / RJ,ABC / RN
+098,Athletico Paranaense / PR,Atlético / GO
+099,Atlético Mineiro / MG,Bahia / BA
+100,Santos / SP,Juazeirense / BA
+101,Vasco da Gama / RJ,São Paulo / SP
+102,Fluminense / RJ,Criciúma / SC
+103,Grêmio / RS,Vitória / BA
+104,CRB / AL,Fortaleza / CE
+105,ABC / RN,Flamengo / RJ
+106,Atlético / GO,Athletico Paranaense / PR
+107,Bahia / BA,Atlético Mineiro / MG
+108,Juazeirense / BA,Santos / SP
+109,Athletico Paranaense / PR,Santos / SP
+110,Grêmio / RS,Flamengo / RJ
+111,São Paulo / SP,Fortaleza / CE
+112,Fluminense / RJ,Atlético Mineiro / MG
+113,Santos / SP,Athletico Paranaense / PR
+114,Flamengo / RJ,Grêmio / RS
+115,Fortaleza / CE,São Paulo / SP
+116,Atlético Mineiro / MG,Fluminense / RJ
+117,Athletico Paranaense / PR,Flamengo / RJ
+118,Atlético Mineiro / MG,Fortaleza / CE
+119,Flamengo / RJ,Athletico Paranaense / PR
+120,Fortaleza / CE,Atlético Mineiro / MG
+121,Atlético Mineiro / MG,Athletico Paranaense / PR
+122,Athletico Paranaense / PR,Atlético Mineiro / MG

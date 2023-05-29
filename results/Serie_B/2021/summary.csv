@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Vasco da Gama / RJ,Operário / PR
+002,Vila Nova / GO,Botafogo / RJ
+003,Guarani / SP,Vitória / BA
+004,Náutico / PE,CSA / AL
+005,Brasil / RS,Londrina / PR
+006,CRB / AL,Remo / PA
+007,Coritiba / PR,Avaí / SC
+008,Brusque / SC,Ponte Preta / SP
+009,Confiança / SE,Cruzeiro / MG
+010,Sampaio Corrêa / MA,Goiás / GO
+011,Botafogo / RJ,Coritiba / PR
+012,Goiás / GO,Confiança / SE
+013,Ponte Preta / SP,Vasco da Gama / RJ
+014,Cruzeiro / MG,CRB / AL
+015,Londrina / PR,Brusque / SC
+016,CSA / AL,Sampaio Corrêa / MA
+017,Operário / PR,Guarani / SP
+018,Avaí / SC,Vila Nova / GO
+019,Vitória / BA,Náutico / PE
+020,Remo / PA,Brasil / RS
+021,Botafogo / RJ,Remo / PA
+022,Vila Nova / GO,CSA / AL
+023,Guarani / SP,Náutico / PE
+024,Cruzeiro / MG,Goiás / GO
+025,Brasil / RS,Vasco da Gama / RJ
+026,CRB / AL,Confiança / SE
+027,Coritiba / PR,Londrina / PR
+028,Avaí / SC,Brusque / SC
+029,Vitória / BA,Operário / PR
+030,Sampaio Corrêa / MA,Ponte Preta / SP
+031,Vasco da Gama / RJ,Avaí / SC
+032,Goiás / GO,CRB / AL
+033,Ponte Preta / SP,Cruzeiro / MG
+034,Náutico / PE,Vila Nova / GO
+035,Londrina / PR,Botafogo / RJ
+036,CSA / AL,Guarani / SP
+037,Operário / PR,Sampaio Corrêa / MA
+038,Brusque / SC,Coritiba / PR
+039,Confiança / SE,Brasil / RS
+040,Remo / PA,Vitória / BA
+041,Vasco da Gama / RJ,CRB / AL
+042,Vila Nova / GO,Coritiba / PR
+043,Guarani / SP,Ponte Preta / SP
+044,Náutico / PE,Botafogo / RJ
+045,Brasil / RS,Goiás / GO
+046,CSA / AL,Londrina / PR
+047,Operário / PR,Cruzeiro / MG
+048,Avaí / SC,Remo / PA
+049,Vitória / BA,Brusque / SC
+050,Sampaio Corrêa / MA,Confiança / SE
+051,Botafogo / RJ,CSA / AL
+052,Goiás / GO,Avaí / SC
+053,Ponte Preta / SP,Operário / PR
+054,Cruzeiro / MG,Vasco da Gama / RJ
+055,Londrina / PR,Náutico / PE
+056,CRB / AL,Brasil / RS
+057,Coritiba / PR,Vitória / BA
+058,Brusque / SC,Sampaio Corrêa / MA
+059,Confiança / SE,Vila Nova / GO
+060,Remo / PA,Guarani / SP
+061,Vasco da Gama / RJ,Brusque / SC
+062,Vila Nova / GO,Goiás / GO
+063,Guarani / SP,Coritiba / PR
+064,Náutico / PE,Remo / PA
+065,Brasil / RS,Ponte Preta / SP
+066,CSA / AL,Cruzeiro / MG
+067,Operário / PR,Confiança / SE
+068,Avaí / SC,CRB / AL
+069,Vitória / BA,Londrina / PR
+070,Sampaio Corrêa / MA,Botafogo / RJ
+071,Botafogo / RJ,Vitória / BA
+072,Goiás / GO,Vasco da Gama / RJ
+073,Ponte Preta / SP,CSA / AL
+074,Cruzeiro / MG,Guarani / SP
+075,Londrina / PR,Avaí / SC
+076,CRB / AL,Náutico / PE
+077,Operário / PR,Vila Nova / GO
+078,Brusque / SC,Brasil / RS
+079,Confiança / SE,Coritiba / PR
+080,Remo / PA,Sampaio Corrêa / MA
+081,Vasco da Gama / RJ,Confiança / SE
+082,Vila Nova / GO,Ponte Preta / SP
+083,Guarani / SP,Brusque / SC
+084,Náutico / PE,Operário / PR
+085,Brasil / RS,Cruzeiro / MG
+086,CSA / AL,CRB / AL
+087,Coritiba / PR,Remo / PA
+088,Avaí / SC,Botafogo / RJ
+089,Vitória / BA,Goiás / GO
+090,Sampaio Corrêa / MA,Londrina / PR
+091,Vasco da Gama / RJ,Sampaio Corrêa / MA
+092,Goiás / GO,Náutico / PE
+093,Ponte Preta / SP,Avaí / SC
+094,Cruzeiro / MG,Coritiba / PR
+095,Londrina / PR,Guarani / SP
+096,CRB / AL,Botafogo / RJ
+097,Operário / PR,Brasil / RS
+098,Brusque / SC,CSA / AL
+099,Confiança / SE,Vitória / BA
+100,Remo / PA,Vila Nova / GO
+101,Botafogo / RJ,Cruzeiro / MG
+102,Vila Nova / GO,Brasil / RS
+103,Guarani / SP,CRB / AL
+104,Náutico / PE,Ponte Preta / SP
+105,Londrina / PR,Operário / PR
+106,CSA / AL,Goiás / GO
+107,Coritiba / PR,Vasco da Gama / RJ
+108,Avaí / SC,Confiança / SE
+109,Vitória / BA,Sampaio Corrêa / MA
+110,Remo / PA,Brusque / SC
+111,Vasco da Gama / RJ,Náutico / PE
+112,Goiás / GO,Londrina / PR
+113,Ponte Preta / SP,Remo / PA
+114,Cruzeiro / MG,Avaí / SC
+115,Brasil / RS,Vitória / BA
+116,CRB / AL,Vila Nova / GO
+117,Operário / PR,CSA / AL
+118,Brusque / SC,Botafogo / RJ
+119,Confiança / SE,Guarani / SP
+120,Sampaio Corrêa / MA,Coritiba / PR
+121,Botafogo / RJ,Goiás / GO
+122,Vila Nova / GO,Brusque / SC
+123,Guarani / SP,Sampaio Corrêa / MA
+124,Náutico / PE,Brasil / RS
+125,Londrina / PR,Confiança / SE
+126,CSA / AL,Vasco da Gama / RJ
+127,Coritiba / PR,CRB / AL
+128,Avaí / SC,Operário / PR
+129,Vitória / BA,Ponte Preta / SP
+130,Remo / PA,Cruzeiro / MG
+131,Vasco da Gama / RJ,Guarani / SP
+132,Vila Nova / GO,Cruzeiro / MG
+133,Ponte Preta / SP,Goiás / GO
+134,Náutico / PE,Brusque / SC
+135,Londrina / PR,Remo / PA
+136,CSA / AL,Vitória / BA
+137,Operário / PR,Coritiba / PR
+138,Avaí / SC,Brasil / RS
+139,Confiança / SE,Botafogo / RJ
+140,Sampaio Corrêa / MA,CRB / AL
+141,Botafogo / RJ,Vasco da Gama / RJ
+142,Goiás / GO,Operário / PR
+143,Guarani / SP,Vila Nova / GO
+144,Cruzeiro / MG,Londrina / PR
+145,Brasil / RS,Sampaio Corrêa / MA
+146,CRB / AL,Ponte Preta / SP
+147,Coritiba / PR,Náutico / PE
+148,Brusque / SC,Confiança / SE
+149,Vitória / BA,Avaí / SC
+150,Remo / PA,CSA / AL
+151,Botafogo / RJ,Ponte Preta / SP
+152,Vila Nova / GO,Sampaio Corrêa / MA
+153,Guarani / SP,Brasil / RS
+154,Náutico / PE,Confiança / SE
+155,Londrina / PR,CRB / AL
+156,CSA / AL,Avaí / SC
+157,Coritiba / PR,Goiás / GO
+158,Brusque / SC,Cruzeiro / MG
+159,Vitória / BA,Vasco da Gama / RJ
+160,Remo / PA,Operário / PR
+161,Vasco da Gama / RJ,Vila Nova / GO
+162,Goiás / GO,Remo / PA
+163,Ponte Preta / SP,Londrina / PR
+164,Cruzeiro / MG,Vitória / BA
+165,Brasil / RS,Coritiba / PR
+166,CRB / AL,Brusque / SC
+167,Operário / PR,Botafogo / RJ
+168,Avaí / SC,Guarani / SP
+169,Confiança / SE,CSA / AL
+170,Sampaio Corrêa / MA,Náutico / PE
+171,Botafogo / RJ,Brasil / RS
+172,Goiás / GO,Guarani / SP
+173,Ponte Preta / SP,Confiança / SE
+174,Cruzeiro / MG,Sampaio Corrêa / MA
+175,Londrina / PR,Vila Nova / GO
+176,CSA / AL,Coritiba / PR
+177,Operário / PR,Brusque / SC
+178,Avaí / SC,Náutico / PE
+179,Vitória / BA,CRB / AL
+180,Remo / PA,Vasco da Gama / RJ
+181,Vasco da Gama / RJ,Londrina / PR
+182,Vila Nova / GO,Vitória / BA
+183,Guarani / SP,Botafogo / RJ
+184,Náutico / PE,Cruzeiro / MG
+185,Brasil / RS,CSA / AL
+186,CRB / AL,Operário / PR
+187,Coritiba / PR,Ponte Preta / SP
+188,Brusque / SC,Goiás / GO
+189,Confiança / SE,Remo / PA
+190,Sampaio Corrêa / MA,Avaí / SC
+191,Botafogo / RJ,Vila Nova / GO
+192,Goiás / GO,Sampaio Corrêa / MA
+193,Ponte Preta / SP,Brusque / SC
+194,Cruzeiro / MG,Confiança / SE
+195,Londrina / PR,Brasil / RS
+196,CSA / AL,Náutico / PE
+197,Operário / PR,Vasco da Gama / RJ
+198,Avaí / SC,Coritiba / PR
+199,Vitória / BA,Guarani / SP
+200,Remo / PA,CRB / AL
+201,Vasco da Gama / RJ,Ponte Preta / SP
+202,Vila Nova / GO,Avaí / SC
+203,Guarani / SP,Operário / PR
+204,Náutico / PE,Vitória / BA
+205,Brasil / RS,Remo / PA
+206,CRB / AL,Cruzeiro / MG
+207,Coritiba / PR,Botafogo / RJ
+208,Brusque / SC,Londrina / PR
+209,Confiança / SE,Goiás / GO
+210,Sampaio Corrêa / MA,CSA / AL
+211,Vasco da Gama / RJ,Brasil / RS
+212,Goiás / GO,Cruzeiro / MG
+213,Ponte Preta / SP,Sampaio Corrêa / MA
+214,Náutico / PE,Guarani / SP
+215,Londrina / PR,Coritiba / PR
+216,CSA / AL,Vila Nova / GO
+217,Operário / PR,Vitória / BA
+218,Brusque / SC,Avaí / SC
+219,Confiança / SE,CRB / AL
+220,Remo / PA,Botafogo / RJ
+221,Botafogo / RJ,Londrina / PR
+222,Vila Nova / GO,Náutico / PE
+223,Guarani / SP,CSA / AL
+224,Cruzeiro / MG,Ponte Preta / SP
+225,Brasil / RS,Confiança / SE
+226,CRB / AL,Goiás / GO
+227,Coritiba / PR,Brusque / SC
+228,Avaí / SC,Vasco da Gama / RJ
+229,Vitória / BA,Remo / PA
+230,Sampaio Corrêa / MA,Operário / PR
+231,Botafogo / RJ,Náutico / PE
+232,Goiás / GO,Brasil / RS
+233,Ponte Preta / SP,Guarani / SP
+234,Cruzeiro / MG,Operário / PR
+235,Londrina / PR,CSA / AL
+236,CRB / AL,Vasco da Gama / RJ
+237,Coritiba / PR,Vila Nova / GO
+238,Brusque / SC,Vitória / BA
+239,Confiança / SE,Sampaio Corrêa / MA
+240,Remo / PA,Avaí / SC
+241,Vasco da Gama / RJ,Cruzeiro / MG
+242,Vila Nova / GO,Confiança / SE
+243,Guarani / SP,Remo / PA
+244,Náutico / PE,Londrina / PR
+245,Brasil / RS,CRB / AL
+246,CSA / AL,Botafogo / RJ
+247,Operário / PR,Ponte Preta / SP
+248,Avaí / SC,Goiás / GO
+249,Vitória / BA,Coritiba / PR
+250,Sampaio Corrêa / MA,Brusque / SC
+251,Botafogo / RJ,Sampaio Corrêa / MA
+252,Goiás / GO,Vila Nova / GO
+253,Ponte Preta / SP,Brasil / RS
+254,Cruzeiro / MG,CSA / AL
+255,Londrina / PR,Vitória / BA
+256,CRB / AL,Avaí / SC
+257,Coritiba / PR,Guarani / SP
+258,Brusque / SC,Vasco da Gama / RJ
+259,Confiança / SE,Operário / PR
+260,Remo / PA,Náutico / PE
+261,Vasco da Gama / RJ,Goiás / GO
+262,Vila Nova / GO,Operário / PR
+263,Guarani / SP,Cruzeiro / MG
+264,Náutico / PE,CRB / AL
+265,Brasil / RS,Brusque / SC
+266,CSA / AL,Ponte Preta / SP
+267,Coritiba / PR,Confiança / SE
+268,Avaí / SC,Londrina / PR
+269,Vitória / BA,Botafogo / RJ
+270,Sampaio Corrêa / MA,Remo / PA
+271,Botafogo / RJ,Avaí / SC
+272,Goiás / GO,Vitória / BA
+273,Ponte Preta / SP,Vila Nova / GO
+274,Cruzeiro / MG,Brasil / RS
+275,Londrina / PR,Sampaio Corrêa / MA
+276,CRB / AL,CSA / AL
+277,Operário / PR,Náutico / PE
+278,Brusque / SC,Guarani / SP
+279,Confiança / SE,Vasco da Gama / RJ
+280,Remo / PA,Coritiba / PR
+281,Botafogo / RJ,CRB / AL
+282,Vila Nova / GO,Remo / PA
+283,Guarani / SP,Londrina / PR
+284,Náutico / PE,Goiás / GO
+285,Brasil / RS,Operário / PR
+286,CSA / AL,Brusque / SC
+287,Coritiba / PR,Cruzeiro / MG
+288,Avaí / SC,Ponte Preta / SP
+289,Vitória / BA,Confiança / SE
+290,Sampaio Corrêa / MA,Vasco da Gama / RJ
+291,Vasco da Gama / RJ,Coritiba / PR
+292,Goiás / GO,CSA / AL
+293,Ponte Preta / SP,Náutico / PE
+294,Cruzeiro / MG,Botafogo / RJ
+295,Brasil / RS,Vila Nova / GO
+296,CRB / AL,Guarani / SP
+297,Operário / PR,Londrina / PR
+298,Brusque / SC,Remo / PA
+299,Confiança / SE,Avaí / SC
+300,Sampaio Corrêa / MA,Vitória / BA
+301,Botafogo / RJ,Brusque / SC
+302,Vila Nova / GO,CRB / AL
+303,Guarani / SP,Confiança / SE
+304,Náutico / PE,Vasco da Gama / RJ
+305,Londrina / PR,Goiás / GO
+306,CSA / AL,Operário / PR
+307,Coritiba / PR,Sampaio Corrêa / MA
+308,Avaí / SC,Cruzeiro / MG
+309,Vitória / BA,Brasil / RS
+310,Remo / PA,Ponte Preta / SP
+311,Vasco da Gama / RJ,CSA / AL
+312,Goiás / GO,Botafogo / RJ
+313,Ponte Preta / SP,Vitória / BA
+314,Cruzeiro / MG,Remo / PA
+315,Brasil / RS,Náutico / PE
+316,CRB / AL,Coritiba / PR
+317,Operário / PR,Avaí / SC
+318,Brusque / SC,Vila Nova / GO
+319,Confiança / SE,Londrina / PR
+320,Sampaio Corrêa / MA,Guarani / SP
+321,Botafogo / RJ,Confiança / SE
+322,Goiás / GO,Ponte Preta / SP
+323,Guarani / SP,Vasco da Gama / RJ
+324,Cruzeiro / MG,Vila Nova / GO
+325,Brasil / RS,Avaí / SC
+326,CRB / AL,Sampaio Corrêa / MA
+327,Coritiba / PR,Operário / PR
+328,Brusque / SC,Náutico / PE
+329,Vitória / BA,CSA / AL
+330,Remo / PA,Londrina / PR
+331,Vasco da Gama / RJ,Botafogo / RJ
+332,Vila Nova / GO,Guarani / SP
+333,Ponte Preta / SP,CRB / AL
+334,Náutico / PE,Coritiba / PR
+335,Londrina / PR,Cruzeiro / MG
+336,CSA / AL,Remo / PA
+337,Operário / PR,Goiás / GO
+338,Avaí / SC,Vitória / BA
+339,Confiança / SE,Brusque / SC
+340,Sampaio Corrêa / MA,Brasil / RS
+341,Vasco da Gama / RJ,Vitória / BA
+342,Goiás / GO,Coritiba / PR
+343,Ponte Preta / SP,Botafogo / RJ
+344,Cruzeiro / MG,Brusque / SC
+345,Brasil / RS,Guarani / SP
+346,CRB / AL,Londrina / PR
+347,Operário / PR,Remo / PA
+348,Avaí / SC,CSA / AL
+349,Confiança / SE,Náutico / PE
+350,Sampaio Corrêa / MA,Vila Nova / GO
+351,Botafogo / RJ,Operário / PR
+352,Vila Nova / GO,Vasco da Gama / RJ
+353,Guarani / SP,Avaí / SC
+354,Náutico / PE,Sampaio Corrêa / MA
+355,Londrina / PR,Ponte Preta / SP
+356,CSA / AL,Confiança / SE
+357,Coritiba / PR,Brasil / RS
+358,Brusque / SC,CRB / AL
+359,Vitória / BA,Cruzeiro / MG
+360,Remo / PA,Goiás / GO
+361,Vasco da Gama / RJ,Remo / PA
+362,Vila Nova / GO,Londrina / PR
+363,Guarani / SP,Goiás / GO
+364,Náutico / PE,Avaí / SC
+365,Brasil / RS,Botafogo / RJ
+366,CRB / AL,Vitória / BA
+367,Coritiba / PR,CSA / AL
+368,Brusque / SC,Operário / PR
+369,Confiança / SE,Ponte Preta / SP
+370,Sampaio Corrêa / MA,Cruzeiro / MG
+371,Botafogo / RJ,Guarani / SP
+372,Goiás / GO,Brusque / SC
+373,Ponte Preta / SP,Coritiba / PR
+374,Cruzeiro / MG,Náutico / PE
+375,Londrina / PR,Vasco da Gama / RJ
+376,CSA / AL,Brasil / RS
+377,Operário / PR,CRB / AL
+378,Avaí / SC,Sampaio Corrêa / MA
+379,Vitória / BA,Vila Nova / GO
+380,Remo / PA,Confiança / SE

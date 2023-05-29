@@ -1,0 +1,143 @@
+Game,Home,Away
+003,Remo / PA,Flamengo / RJ
+004,Ceilândia / DF,Ceará / CE
+005,Rio Branco / AC,Internacional / RS
+006,Guarani / CE,Santa Cruz / PE
+007,Cametá / PA,Atlético / GO
+008,Veranópolis / RS,Santo André / SP
+009,Vitória da Conquista / BA,Sport / PE
+010,Parnahyba / PI,ABC / RN
+011,Nacional / AM,Águia de Marabá / PA
+012,Noroeste / SP,Criciúma / SC
+013,Águia Negra / MS,Red Bull Bragantino / SP
+014,Resende / RJ,Caxias / RS
+015,Cianorte / PR,Grêmio Barueri / SP
+016,Brasil / RS,Athletico Paranaense / PR
+017,Bangu / RJ,Ipatinga / MG
+018,Sousa / PB,Coritiba / PR
+019,Itabaiana / SE,Ponte Preta / SP
+020,Campinense / PB,Sampaio Corrêa / MA
+021,Volta Redonda / RJ,Avaí / SC
+022,Gurupi / TO,América / MG
+023,Salgueiro / PE,Boa / MG
+024,Sobradinho / DF,Botafogo / RJ
+025,Fast Clube / AM,CRB / AL
+026,Arapongas / PR,São Caetano / SP
+027,CSA / AL,Cruzeiro / MG
+028,Ji-paraná / RO,América / RN
+029,Naviraiense / MS,Portuguesa / SP
+030,São Raimundo / RR,Paysandu / PA
+031,Flamengo / PI,Santos / SP
+032,Aracruz / ES,Joinville / SC
+033,Crac / GO,Náutico / PE
+034,Tupi / MG,Luverdense / MT
+035,Luziânia / DF,Fortaleza / CE
+036,Confiança / SE,Guarani / SP
+037,Mixto / MT,Vitória / BA
+038,Sao Bernardo / SP,Paraná / PR
+039,Maranhão / MA,Bahia / BA
+040,Santa Cruz / RN,ASA / AL
+041,Oratório / AP,Goiás / GO
+042,Desportiva / ES,Figueirense / SC
+043,Ceará / CE,Ceilândia / DF
+044,Santa Cruz / PE,Guarani / CE
+046,Águia de Marabá / PA,Nacional / AM
+048,Flamengo / RJ,Remo / PA
+049,Sampaio Corrêa / MA,Campinense / PB
+050,Ipatinga / MG,Bangu / RJ
+052,Luverdense / MT,Tupi / MG
+053,Guarani / SP,Confiança / SE
+054,Fortaleza / CE,Luziânia / DF
+056,Náutico / PE,Crac / GO
+057,ASA / AL,Santa Cruz / RN
+058,Avaí / SC,Volta Redonda / RJ
+059,Paraná / PR,Sao Bernardo / SP
+061,CRB / AL,Fast Clube / AM
+063,Botafogo / RJ,Sobradinho / DF
+065,América / MG,Gurupi / TO
+067,Santo André / SP,Veranópolis / RS
+068,Sport / PE,Vitória da Conquista / BA
+069,Vitória / BA,Mixto / MT
+070,Boa / MG,Salgueiro / PE
+071,Criciúma / SC,Noroeste / SP
+074,São Caetano / SP,Arapongas / PR
+075,Caxias / RS,Resende / RJ
+076,Grêmio Barueri / SP,Cianorte / PR
+077,Athletico Paranaense / PR,Brasil / RS
+078,América / RN,Ji-paraná / RO
+079,Portuguesa / SP,Naviraiense / MS
+080,Santos / SP,Flamengo / PI
+082,Joinville / SC,Aracruz / ES
+083,Campinense / PB,Flamengo / RJ
+084,ASA / AL,Ceará / CE
+085,Santa Cruz / PE,Internacional / RS
+086,América / MG,Avaí / SC
+087,Santo André / SP,Goiás / GO
+088,ABC / RN,Sport / PE
+089,Salgueiro / PE,Vitória / BA
+090,Sao Bernardo / SP,Criciúma / SC
+091,Nacional / AM,Coritiba / PR
+092,Red Bull Bragantino / SP,Ponte Preta / SP
+093,CRB / AL,Botafogo / RJ
+094,Arapongas / PR,Figueirense / SC
+095,Resende / RJ,Cruzeiro / MG
+096,Cianorte / PR,Atlético / GO
+097,América / RN,Athletico Paranaense / PR
+098,Naviraiense / MS,Paysandu / PA
+099,Joinville / SC,Santos / SP
+100,Crac / GO,Ipatinga / MG
+101,Luverdense / MT,Bahia / BA
+102,Confiança / SE,Fortaleza / CE
+103,Flamengo / RJ,Campinense / PB
+104,Ceará / CE,ASA / AL
+105,Internacional / RS,Santa Cruz / PE
+106,Avaí / SC,América / MG
+107,Goiás / GO,Santo André / SP
+108,Sport / PE,ABC / RN
+109,Vitória / BA,Salgueiro / PE
+110,Criciúma / SC,Sao Bernardo / SP
+111,Coritiba / PR,Nacional / AM
+113,Botafogo / RJ,CRB / AL
+114,Figueirense / SC,Arapongas / PR
+115,Cruzeiro / MG,Resende / RJ
+118,Paysandu / PA,Naviraiense / MS
+119,Santos / SP,Joinville / SC
+120,Betim / MG,CRAC / GO
+121,Bahia / BA,Luverdense / MT
+122,Fortaleza / CE,Confiança / SE
+123,ASA / AL,Flamengo / RJ
+124,Internacional / RS,América / MG
+125,Goiás / GO,ABC / RN
+126,Salgueiro / PE,Criciúma / SC
+127,Ponte Preta / SP,Nacional / AM
+128,Botafogo / RJ,Figueirense / SC
+129,Cruzeiro / MG,Atlético / GO
+130,Paysandu / PA,Athletico Paranaense / PR
+131,Santos / SP,CRAC / GO
+132,Fortaleza / CE,Luverdense / MT
+133,Flamengo / RJ,ASA / AL
+134,América / MG,Internacional / RS
+135,ABC / RN,Goiás / GO
+136,Criciúma / SC,Salgueiro / PE
+137,Nacional / AM,Ponte Preta / SP
+138,Figueirense / SC,Botafogo / RJ
+139,Atlético / GO,Cruzeiro / MG
+140,Athletico Paranaense / PR,Paysandu / PA
+141,CRAC / GO,Santos / SP
+142,Luverdense / MT,Fortaleza / CE
+143,Luverdense / MT,Corinthians / SP
+144,Santos / SP,Grêmio / RS
+145,Internacional / RS,Salgueiro / PE
+146,Palmeiras / SP,Athletico Paranaense / PR
+147,Fluminense / RJ,Goiás / GO
+148,Nacional / AM,Vasco da Gama / RJ
+149,Botafogo / RJ,Atlético / MG
+150,Cruzeiro / MG,Flamengo / RJ
+151,Corinthians / SP,Luverdense / MT
+152,Grêmio / RS,Santos / SP
+153,Salgueiro / PE,Internacional / RS
+154,Athletico Paranaense / PR,Palmeiras / SP
+155,Goiás / GO,Fluminense / RJ
+156,Vasco da Gama / RJ,Nacional / AM
+157,Atlético / MG,Botafogo / RJ
+158,Flamengo / RJ,Cruzeiro / MG

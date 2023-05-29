@@ -1,0 +1,195 @@
+Game,Home,Away
+001,Botafogo / PB,Treze / PB
+002,Paysandu / PA,Águia de Marabá / PA
+003,ASA / AL,CRB / AL
+004,Salgueiro / PE,Fortaleza / CE
+005,Cuiabá / MT,CRAC / GO
+006,Caxias / RS,Juventude / RS
+007,Madureira / RJ,Duque de Caxias / RJ
+008,Mogi Mirim / SP,Guaratinguetá / SP
+009,Tupi / MG,Macaé / RJ
+010,São Caetano / SP,Guarani / SP
+011,CRB / AL,Paysandu / PA
+012,Águia de Marabá / PA,Salgueiro / PE
+013,CRAC / GO,Botafogo / PB
+014,Treze / PB,ASA / AL
+015,Fortaleza / CE,Cuiabá / MT
+016,Guarani / SP,Madureira / RJ
+017,Juventude / RS,Tupi / MG
+018,Macaé / RJ,São Caetano / SP
+019,Duque de Caxias / RJ,Mogi Mirim / SP
+020,Guaratinguetá / SP,Caxias / RS
+021,Fortaleza / CE,Águia de Marabá / PA
+022,Botafogo / PB,Salgueiro / PE
+023,Paysandu / PA,ASA / AL
+024,CRB / AL,CRAC / GO
+025,Cuiabá / MT,Treze / PB
+026,Caxias / RS,São Caetano / SP
+027,Tupi / MG,Guaratinguetá / SP
+028,Duque de Caxias / RJ,Juventude / RS
+029,Mogi Mirim / SP,Madureira / RJ
+030,Guarani / SP,Macaé / RJ
+031,CRAC / GO,Fortaleza / CE
+032,Águia de Marabá / PA,Treze / PB
+033,Salgueiro / PE,Paysandu / PA
+034,Botafogo / PB,CRB / AL
+035,ASA / AL,Cuiabá / MT
+036,Juventude / RS,Guarani / SP
+037,Madureira / RJ,Macaé / RJ
+038,Tupi / MG,Caxias / RS
+039,São Caetano / SP,Mogi Mirim / SP
+040,Guaratinguetá / SP,Duque de Caxias / RJ
+041,Fortaleza / CE,CRB / AL
+042,Paysandu / PA,Botafogo / PB
+043,ASA / AL,Águia de Marabá / PA
+044,Treze / PB,CRAC / GO
+045,Cuiabá / MT,Salgueiro / PE
+046,Madureira / RJ,São Caetano / SP
+047,Macaé / RJ,Juventude / RS
+048,Guarani / SP,Guaratinguetá / SP
+049,Mogi Mirim / SP,Tupi / MG
+050,Caxias / RS,Duque de Caxias / RJ
+051,Paysandu / PA,Fortaleza / CE
+052,CRAC / GO,Águia de Marabá / PA
+053,Salgueiro / PE,ASA / AL
+054,Botafogo / PB,Cuiabá / MT
+055,CRB / AL,Treze / PB
+056,São Caetano / SP,Juventude / RS
+057,Caxias / RS,Mogi Mirim / SP
+058,Tupi / MG,Madureira / RJ
+059,Duque de Caxias / RJ,Guarani / SP
+060,Guaratinguetá / SP,Macaé / RJ
+061,Águia de Marabá / PA,CRB / AL
+062,ASA / AL,Botafogo / PB
+063,Salgueiro / PE,CRAC / GO
+064,Cuiabá / MT,Paysandu / PA
+065,Treze / PB,Fortaleza / CE
+066,São Caetano / SP,Tupi / MG
+067,Madureira / RJ,Caxias / RS
+068,Juventude / RS,Guaratinguetá / SP
+069,Macaé / RJ,Duque de Caxias / RJ
+070,Mogi Mirim / SP,Guarani / SP
+071,Fortaleza / CE,Botafogo / PB
+072,CRAC / GO,ASA / AL
+073,CRB / AL,Salgueiro / PE
+074,Treze / PB,Paysandu / PA
+075,Águia de Marabá / PA,Cuiabá / MT
+076,Guarani / SP,Caxias / RS
+077,Macaé / RJ,Mogi Mirim / SP
+078,Duque de Caxias / RJ,Tupi / MG
+079,Guaratinguetá / SP,São Caetano / SP
+080,Juventude / RS,Madureira / RJ
+081,Paysandu / PA,CRAC / GO
+082,Salgueiro / PE,Treze / PB
+083,Botafogo / PB,Águia de Marabá / PA
+084,Cuiabá / MT,CRB / AL
+085,ASA / AL,Fortaleza / CE
+086,Madureira / RJ,Guaratinguetá / SP
+087,Caxias / RS,Macaé / RJ
+088,Mogi Mirim / SP,Juventude / RS
+089,São Caetano / SP,Duque de Caxias / RJ
+090,Tupi / MG,Guarani / SP
+091,Águia de Marabá / PA,Paysandu / PA
+092,CRAC / GO,Cuiabá / MT
+093,CRB / AL,ASA / AL
+094,Fortaleza / CE,Salgueiro / PE
+095,Treze / PB,Botafogo / PB
+096,Juventude / RS,Caxias / RS
+097,Macaé / RJ,Tupi / MG
+098,Guarani / SP,São Caetano / SP
+099,Duque de Caxias / RJ,Madureira / RJ
+100,Guaratinguetá / SP,Mogi Mirim / SP
+101,Paysandu / PA,CRB / AL
+102,Cuiabá / MT,Fortaleza / CE
+103,ASA / AL,Treze / PB
+104,Salgueiro / PE,Águia de Marabá / PA
+105,Botafogo / PB,CRAC / GO
+106,Caxias / RS,Guaratinguetá / SP
+107,Tupi / MG,Juventude / RS
+108,São Caetano / SP,Macaé / RJ
+109,Madureira / RJ,Guarani / SP
+110,Mogi Mirim / SP,Duque de Caxias / RJ
+111,Águia de Marabá / PA,Fortaleza / CE
+112,CRAC / GO,CRB / AL
+113,ASA / AL,Paysandu / PA
+114,Salgueiro / PE,Botafogo / PB
+115,Treze / PB,Cuiabá / MT
+116,Juventude / RS,Duque de Caxias / RJ
+117,Macaé / RJ,Guarani / SP
+118,São Caetano / SP,Caxias / RS
+119,Madureira / RJ,Mogi Mirim / SP
+120,Guaratinguetá / SP,Tupi / MG
+121,Paysandu / PA,Salgueiro / PE
+122,Cuiabá / MT,ASA / AL
+123,CRB / AL,Botafogo / PB
+124,Fortaleza / CE,CRAC / GO
+125,Treze / PB,Águia de Marabá / PA
+126,Caxias / RS,Tupi / MG
+127,Macaé / RJ,Madureira / RJ
+128,Guarani / SP,Juventude / RS
+129,Duque de Caxias / RJ,Guaratinguetá / SP
+130,Mogi Mirim / SP,São Caetano / SP
+131,Águia de Marabá / PA,ASA / AL
+132,CRAC / GO,Treze / PB
+133,CRB / AL,Fortaleza / CE
+134,Salgueiro / PE,Cuiabá / MT
+135,Botafogo / PB,Paysandu / PA
+136,Juventude / RS,Macaé / RJ
+137,Tupi / MG,Mogi Mirim / SP
+138,São Caetano / SP,Madureira / RJ
+139,Duque de Caxias / RJ,Caxias / RS
+140,Guaratinguetá / SP,Guarani / SP
+141,Águia de Marabá / PA,CRAC / GO
+142,Cuiabá / MT,Botafogo / PB
+143,ASA / AL,Salgueiro / PE
+144,Fortaleza / CE,Paysandu / PA
+145,Treze / PB,CRB / AL
+146,Juventude / RS,São Caetano / SP
+147,Macaé / RJ,Guaratinguetá / SP
+148,Guarani / SP,Duque de Caxias / RJ
+149,Madureira / RJ,Tupi / MG
+150,Mogi Mirim / SP,Caxias / RS
+151,Paysandu / PA,Cuiabá / MT
+152,CRAC / GO,Salgueiro / PE
+153,CRB / AL,Águia de Marabá / PA
+154,Fortaleza / CE,Treze / PB
+155,Botafogo / PB,ASA / AL
+156,Caxias / RS,Madureira / RJ
+157,Tupi / MG,São Caetano / SP
+158,Guarani / SP,Mogi Mirim / SP
+159,Duque de Caxias / RJ,Macaé / RJ
+160,Guaratinguetá / SP,Juventude / RS
+161,Paysandu / PA,Treze / PB
+162,Cuiabá / MT,Águia de Marabá / PA
+163,ASA / AL,CRAC / GO
+164,Salgueiro / PE,CRB / AL
+165,Botafogo / PB,Fortaleza / CE
+166,Caxias / RS,Guarani / SP
+167,Tupi / MG,Duque de Caxias / RJ
+168,São Caetano / SP,Guaratinguetá / SP
+169,Madureira / RJ,Juventude / RS
+170,Mogi Mirim / SP,Macaé / RJ
+171,Águia de Marabá / PA,Botafogo / PB
+172,CRAC / GO,Paysandu / PA
+173,CRB / AL,Cuiabá / MT
+174,Fortaleza / CE,ASA / AL
+175,Treze / PB,Salgueiro / PE
+176,Juventude / RS,Mogi Mirim / SP
+177,Macaé / RJ,Caxias / RS
+178,Guarani / SP,Tupi / MG
+179,Duque de Caxias / RJ,São Caetano / SP
+180,Guaratinguetá / SP,Madureira / RJ
+181,Macaé / RJ,Fortaleza / CE
+182,Fortaleza / CE,Macaé / RJ
+183,Madureira / RJ,CRB / AL
+184,CRB / AL,Madureira / RJ
+185,Salgueiro / PE,Mogi Mirim / SP
+186,Mogi Mirim / SP,Salgueiro / PE
+187,Paysandu / PA,Tupi / MG
+188,Tupi / MG,Paysandu / PA
+189,Macaé / RJ,CRB / AL
+190,CRB / AL,Macaé / RJ
+191,Paysandu / PA,Mogi Mirim / SP
+192,Mogi Mirim / SP,Paysandu / PA
+193,Macaé / RJ,Paysandu / PA
+194,Paysandu / PA,Macaé / RJ

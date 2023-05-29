@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Palmeiras / SP,Atlético / MG
+002,Chapecoense / SC,Coritiba / PR
+003,Fluminense / RJ,Joinville / SC
+004,São Paulo / SP,Flamengo / RJ
+005,Cruzeiro / MG,Corinthians / SP
+006,Athletico Paranaense / PR,Internacional / RS
+007,Sport / PE,Figueirense / SC
+008,Vasco da Gama / RJ,Goiás / GO
+009,Grêmio / RS,Ponte Preta / SP
+010,Avaí / SC,Santos / SP
+011,Coritiba / PR,Grêmio / RS
+012,Goiás / GO,Athletico Paranaense / PR
+013,Corinthians / SP,Chapecoense / SC
+014,Flamengo / RJ,Sport / PE
+015,Santos / SP,Cruzeiro / MG
+016,Atlético / MG,Fluminense / RJ
+017,Joinville / SC,Palmeiras / SP
+018,Ponte Preta / SP,São Paulo / SP
+019,Internacional / RS,Avaí / SC
+020,Figueirense / SC,Vasco da Gama / RJ
+021,São Paulo / SP,Joinville / SC
+022,Vasco da Gama / RJ,Internacional / RS
+023,Grêmio / RS,Figueirense / SC
+024,Fluminense / RJ,Corinthians / SP
+025,Avaí / SC,Flamengo / RJ
+026,Athletico Paranaense / PR,Atlético / MG
+027,Chapecoense / SC,Santos / SP
+028,Palmeiras / SP,Goiás / GO
+029,Cruzeiro / MG,Ponte Preta / SP
+030,Sport / PE,Coritiba / PR
+031,Ponte Preta / SP,Chapecoense / SC
+032,Coritiba / PR,Avaí / SC
+033,Joinville / SC,Athletico Paranaense / PR
+034,Corinthians / SP,Palmeiras / SP
+035,Internacional / RS,São Paulo / SP
+036,Atlético / MG,Vasco da Gama / RJ
+037,Goiás / GO,Grêmio / RS
+038,Santos / SP,Sport / PE
+039,Flamengo / RJ,Fluminense / RJ
+040,Figueirense / SC,Cruzeiro / MG
+041,Vasco da Gama / RJ,Ponte Preta / SP
+042,Athletico Paranaense / PR,Figueirense / SC
+043,Chapecoense / SC,Joinville / SC
+044,São Paulo / SP,Santos / SP
+045,Grêmio / RS,Corinthians / SP
+046,Cruzeiro / MG,Flamengo / RJ
+047,Avaí / SC,Atlético / MG
+048,Fluminense / RJ,Coritiba / PR
+049,Sport / PE,Goiás / GO
+050,Palmeiras / SP,Internacional / RS
+051,Santos / SP,Ponte Preta / SP
+052,Flamengo / RJ,Chapecoense / SC
+053,Atlético / MG,Cruzeiro / MG
+054,São Paulo / SP,Grêmio / RS
+055,Athletico Paranaense / PR,Vasco da Gama / RJ
+056,Joinville / SC,Corinthians / SP
+057,Fluminense / RJ,Sport / PE
+058,Internacional / RS,Coritiba / PR
+059,Figueirense / SC,Palmeiras / SP
+060,Goiás / GO,Avaí / SC
+061,Atlético / MG,Santos / SP
+062,Corinthians / SP,Internacional / RS
+063,Coritiba / PR,Flamengo / RJ
+064,Chapecoense / SC,São Paulo / SP
+065,Vasco da Gama / RJ,Cruzeiro / MG
+066,Sport / PE,Joinville / SC
+067,Palmeiras / SP,Fluminense / RJ
+068,Ponte Preta / SP,Goiás / GO
+069,Grêmio / RS,Athletico Paranaense / PR
+070,Avaí / SC,Figueirense / SC
+071,Figueirense / SC,Internacional / RS
+072,Santos / SP,Corinthians / SP
+073,Flamengo / RJ,Atlético / MG
+074,Sport / PE,Vasco da Gama / RJ
+075,Grêmio / RS,Palmeiras / SP
+076,Cruzeiro / MG,Chapecoense / SC
+077,São Paulo / SP,Avaí / SC
+078,Athletico Paranaense / PR,Coritiba / PR
+079,Joinville / SC,Goiás / GO
+080,Fluminense / RJ,Ponte Preta / SP
+081,Avaí / SC,Grêmio / RS
+082,Chapecoense / SC,Sport / PE
+083,Corinthians / SP,Figueirense / SC
+084,Palmeiras / SP,São Paulo / SP
+085,Ponte Preta / SP,Athletico Paranaense / PR
+086,Coritiba / PR,Cruzeiro / MG
+087,Goiás / GO,Fluminense / RJ
+088,Vasco da Gama / RJ,Flamengo / RJ
+089,Internacional / RS,Santos / SP
+090,Atlético / MG,Joinville / SC
+091,Vasco da Gama / RJ,Avaí / SC
+092,Sport / PE,Internacional / RS
+093,Palmeiras / SP,Chapecoense / SC
+094,Atlético / MG,Coritiba / PR
+095,Grêmio / RS,Cruzeiro / MG
+096,Athletico Paranaense / PR,São Paulo / SP
+097,Joinville / SC,Flamengo / RJ
+098,Corinthians / SP,Ponte Preta / SP
+099,Figueirense / SC,Goiás / GO
+100,Fluminense / RJ,Santos / SP
+101,Coritiba / PR,Joinville / SC
+102,Chapecoense / SC,Vasco da Gama / RJ
+103,Cruzeiro / MG,Athletico Paranaense / PR
+104,Avaí / SC,Sport / PE
+105,São Paulo / SP,Fluminense / RJ
+106,Santos / SP,Grêmio / RS
+107,Goiás / GO,Corinthians / SP
+108,Ponte Preta / SP,Palmeiras / SP
+109,Flamengo / RJ,Figueirense / SC
+110,Internacional / RS,Atlético / MG
+111,Coritiba / PR,Ponte Preta / SP
+112,Goiás / GO,Santos / SP
+113,Chapecoense / SC,Grêmio / RS
+114,Palmeiras / SP,Avaí / SC
+115,Figueirense / SC,Joinville / SC
+116,Vasco da Gama / RJ,São Paulo / SP
+117,Internacional / RS,Flamengo / RJ
+118,Atlético / MG,Sport / PE
+119,Corinthians / SP,Athletico Paranaense / PR
+120,Fluminense / RJ,Cruzeiro / MG
+121,Santos / SP,Figueirense / SC
+122,Grêmio / RS,Vasco da Gama / RJ
+123,Ponte Preta / SP,Atlético / MG
+124,São Paulo / SP,Coritiba / PR
+125,Flamengo / RJ,Corinthians / SP
+126,Cruzeiro / MG,Goiás / GO
+127,Athletico Paranaense / PR,Fluminense / RJ
+128,Joinville / SC,Internacional / RS
+129,Avaí / SC,Chapecoense / SC
+130,Sport / PE,Palmeiras / SP
+131,Corinthians / SP,Atlético / MG
+132,Internacional / RS,Goiás / GO
+133,Flamengo / RJ,Grêmio / RS
+134,Athletico Paranaense / PR,Chapecoense / SC
+135,Palmeiras / SP,Santos / SP
+136,Fluminense / RJ,Vasco da Gama / RJ
+137,Figueirense / SC,Coritiba / PR
+138,Sport / PE,São Paulo / SP
+139,Cruzeiro / MG,Avaí / SC
+140,Joinville / SC,Ponte Preta / SP
+141,Avaí / SC,Athletico Paranaense / PR
+142,Grêmio / RS,Sport / PE
+143,Atlético / MG,Figueirense / SC
+144,Chapecoense / SC,Fluminense / RJ
+145,Coritiba / PR,Corinthians / SP
+146,Goiás / GO,Flamengo / RJ
+147,São Paulo / SP,Cruzeiro / MG
+148,Ponte Preta / SP,Internacional / RS
+149,Santos / SP,Joinville / SC
+150,Vasco da Gama / RJ,Palmeiras / SP
+151,Corinthians / SP,Vasco da Gama / RJ
+152,Atlético / MG,São Paulo / SP
+153,Fluminense / RJ,Grêmio / RS
+154,Palmeiras / SP,Athletico Paranaense / PR
+155,Coritiba / PR,Goiás / GO
+156,Flamengo / RJ,Santos / SP
+157,Internacional / RS,Chapecoense / SC
+158,Figueirense / SC,Ponte Preta / SP
+159,Joinville / SC,Avaí / SC
+160,Sport / PE,Cruzeiro / MG
+161,Avaí / SC,Fluminense / RJ
+162,Santos / SP,Coritiba / PR
+163,Chapecoense / SC,Figueirense / SC
+164,Athletico Paranaense / PR,Sport / PE
+165,Vasco da Gama / RJ,Joinville / SC
+166,São Paulo / SP,Corinthians / SP
+167,Ponte Preta / SP,Flamengo / RJ
+168,Cruzeiro / MG,Palmeiras / SP
+169,Goiás / GO,Atlético / MG
+170,Grêmio / RS,Internacional / RS
+171,Flamengo / RJ,Athletico Paranaense / PR
+172,Coritiba / PR,Palmeiras / SP
+173,Goiás / GO,Chapecoense / SC
+174,Santos / SP,Vasco da Gama / RJ
+175,Corinthians / SP,Sport / PE
+176,Internacional / RS,Fluminense / RJ
+177,Figueirense / SC,São Paulo / SP
+178,Ponte Preta / SP,Avaí / SC
+179,Joinville / SC,Cruzeiro / MG
+180,Atlético / MG,Grêmio / RS
+181,Vasco da Gama / RJ,Coritiba / PR
+182,Athletico Paranaense / PR,Santos / SP
+183,São Paulo / SP,Goiás / GO
+184,Fluminense / RJ,Figueirense / SC
+185,Grêmio / RS,Joinville / SC
+186,Palmeiras / SP,Flamengo / RJ
+187,Cruzeiro / MG,Internacional / RS
+188,Avaí / SC,Corinthians / SP
+189,Sport / PE,Ponte Preta / SP
+190,Chapecoense / SC,Atlético / MG
+191,Goiás / GO,Vasco da Gama / RJ
+192,Santos / SP,Avaí / SC
+193,Ponte Preta / SP,Grêmio / RS
+194,Coritiba / PR,Chapecoense / SC
+195,Corinthians / SP,Cruzeiro / MG
+196,Joinville / SC,Fluminense / RJ
+197,Flamengo / RJ,São Paulo / SP
+198,Internacional / RS,Athletico Paranaense / PR
+199,Atlético / MG,Palmeiras / SP
+200,Figueirense / SC,Sport / PE
+201,Vasco da Gama / RJ,Figueirense / SC
+202,São Paulo / SP,Ponte Preta / SP
+203,Avaí / SC,Internacional / RS
+204,Grêmio / RS,Coritiba / PR
+205,Fluminense / RJ,Atlético / MG
+206,Sport / PE,Flamengo / RJ
+207,Chapecoense / SC,Corinthians / SP
+208,Palmeiras / SP,Joinville / SC
+209,Cruzeiro / MG,Santos / SP
+210,Athletico Paranaense / PR,Goiás / GO
+211,Internacional / RS,Vasco da Gama / RJ
+212,Joinville / SC,São Paulo / SP
+213,Flamengo / RJ,Avaí / SC
+214,Atlético / MG,Athletico Paranaense / PR
+215,Corinthians / SP,Fluminense / RJ
+216,Coritiba / PR,Sport / PE
+217,Goiás / GO,Palmeiras / SP
+218,Santos / SP,Chapecoense / SC
+219,Ponte Preta / SP,Cruzeiro / MG
+220,Figueirense / SC,Grêmio / RS
+221,São Paulo / SP,Internacional / RS
+222,Vasco da Gama / RJ,Atlético / MG
+223,Athletico Paranaense / PR,Joinville / SC
+224,Cruzeiro / MG,Figueirense / SC
+225,Chapecoense / SC,Ponte Preta / SP
+226,Palmeiras / SP,Corinthians / SP
+227,Fluminense / RJ,Flamengo / RJ
+228,Grêmio / RS,Goiás / GO
+229,Avaí / SC,Coritiba / PR
+230,Sport / PE,Santos / SP
+231,Internacional / RS,Palmeiras / SP
+232,Atlético / MG,Avaí / SC
+233,Figueirense / SC,Athletico Paranaense / PR
+234,Joinville / SC,Chapecoense / SC
+235,Corinthians / SP,Grêmio / RS
+236,Santos / SP,São Paulo / SP
+237,Coritiba / PR,Fluminense / RJ
+238,Ponte Preta / SP,Vasco da Gama / RJ
+239,Goiás / GO,Sport / PE
+240,Flamengo / RJ,Cruzeiro / MG
+241,Coritiba / PR,Internacional / RS
+242,Palmeiras / SP,Figueirense / SC
+243,Corinthians / SP,Joinville / SC
+244,Ponte Preta / SP,Santos / SP
+245,Vasco da Gama / RJ,Athletico Paranaense / PR
+246,Grêmio / RS,São Paulo / SP
+247,Cruzeiro / MG,Atlético / MG
+248,Chapecoense / SC,Flamengo / RJ
+249,Avaí / SC,Goiás / GO
+250,Sport / PE,Fluminense / RJ
+251,Fluminense / RJ,Palmeiras / SP
+252,Joinville / SC,Sport / PE
+253,Figueirense / SC,Avaí / SC
+254,Athletico Paranaense / PR,Grêmio / RS
+255,Santos / SP,Atlético / MG
+256,Internacional / RS,Corinthians / SP
+257,Cruzeiro / MG,Vasco da Gama / RJ
+258,São Paulo / SP,Chapecoense / SC
+259,Goiás / GO,Ponte Preta / SP
+260,Flamengo / RJ,Coritiba / PR
+261,Palmeiras / SP,Grêmio / RS
+262,Ponte Preta / SP,Fluminense / RJ
+263,Internacional / RS,Figueirense / SC
+264,Coritiba / PR,Athletico Paranaense / PR
+265,Corinthians / SP,Santos / SP
+266,Vasco da Gama / RJ,Sport / PE
+267,Atlético / MG,Flamengo / RJ
+268,Avaí / SC,São Paulo / SP
+269,Goiás / GO,Joinville / SC
+270,Chapecoense / SC,Cruzeiro / MG
+271,Fluminense / RJ,Goiás / GO
+272,Grêmio / RS,Avaí / SC
+273,Santos / SP,Internacional / RS
+274,Athletico Paranaense / PR,Ponte Preta / SP
+275,São Paulo / SP,Palmeiras / SP
+276,Flamengo / RJ,Vasco da Gama / RJ
+277,Figueirense / SC,Corinthians / SP
+278,Joinville / SC,Atlético / MG
+279,Sport / PE,Chapecoense / SC
+280,Cruzeiro / MG,Coritiba / PR
+281,Coritiba / PR,Atlético / MG
+282,Internacional / RS,Sport / PE
+283,São Paulo / SP,Athletico Paranaense / PR
+284,Avaí / SC,Vasco da Gama / RJ
+285,Flamengo / RJ,Joinville / SC
+286,Santos / SP,Fluminense / RJ
+287,Ponte Preta / SP,Corinthians / SP
+288,Cruzeiro / MG,Grêmio / RS
+289,Goiás / GO,Figueirense / SC
+290,Chapecoense / SC,Palmeiras / SP
+291,Athletico Paranaense / PR,Cruzeiro / MG
+292,Sport / PE,Avaí / SC
+293,Palmeiras / SP,Ponte Preta / SP
+294,Joinville / SC,Coritiba / PR
+295,Fluminense / RJ,São Paulo / SP
+296,Atlético / MG,Internacional / RS
+297,Figueirense / SC,Flamengo / RJ
+298,Corinthians / SP,Goiás / GO
+299,Vasco da Gama / RJ,Chapecoense / SC
+300,Grêmio / RS,Santos / SP
+301,Flamengo / RJ,Internacional / RS
+302,Ponte Preta / SP,Coritiba / PR
+303,Joinville / SC,Figueirense / SC
+304,Santos / SP,Goiás / GO
+305,Grêmio / RS,Chapecoense / SC
+306,Cruzeiro / MG,Fluminense / RJ
+307,Athletico Paranaense / PR,Corinthians / SP
+308,Sport / PE,Atlético / MG
+309,São Paulo / SP,Vasco da Gama / RJ
+310,Avaí / SC,Palmeiras / SP
+311,Fluminense / RJ,Athletico Paranaense / PR
+312,Figueirense / SC,Santos / SP
+313,Internacional / RS,Joinville / SC
+314,Palmeiras / SP,Sport / PE
+315,Corinthians / SP,Flamengo / RJ
+316,Vasco da Gama / RJ,Grêmio / RS
+317,Coritiba / PR,São Paulo / SP
+318,Chapecoense / SC,Avaí / SC
+319,Goiás / GO,Cruzeiro / MG
+320,Atlético / MG,Ponte Preta / SP
+321,São Paulo / SP,Sport / PE
+322,Avaí / SC,Cruzeiro / MG
+323,Ponte Preta / SP,Joinville / SC
+324,Coritiba / PR,Figueirense / SC
+325,Grêmio / RS,Flamengo / RJ
+326,Atlético / MG,Corinthians / SP
+327,Santos / SP,Palmeiras / SP
+328,Chapecoense / SC,Athletico Paranaense / PR
+329,Vasco da Gama / RJ,Fluminense / RJ
+330,Goiás / GO,Internacional / RS
+331,Internacional / RS,Ponte Preta / SP
+332,Corinthians / SP,Coritiba / PR
+333,Athletico Paranaense / PR,Avaí / SC
+334,Fluminense / RJ,Chapecoense / SC
+335,Palmeiras / SP,Vasco da Gama / RJ
+336,Cruzeiro / MG,São Paulo / SP
+337,Figueirense / SC,Atlético / MG
+338,Flamengo / RJ,Goiás / GO
+339,Sport / PE,Grêmio / RS
+340,Joinville / SC,Santos / SP
+341,Cruzeiro / MG,Sport / PE
+342,Athletico Paranaense / PR,Palmeiras / SP
+343,Goiás / GO,Coritiba / PR
+344,Ponte Preta / SP,Figueirense / SC
+345,Avaí / SC,Joinville / SC
+346,São Paulo / SP,Atlético / MG
+347,Santos / SP,Flamengo / RJ
+348,Vasco da Gama / RJ,Corinthians / SP
+349,Chapecoense / SC,Internacional / RS
+350,Grêmio / RS,Fluminense / RJ
+351,Palmeiras / SP,Cruzeiro / MG
+352,Joinville / SC,Vasco da Gama / RJ
+353,Corinthians / SP,São Paulo / SP
+354,Internacional / RS,Grêmio / RS
+355,Atlético / MG,Goiás / GO
+356,Figueirense / SC,Chapecoense / SC
+357,Flamengo / RJ,Ponte Preta / SP
+358,Sport / PE,Athletico Paranaense / PR
+359,Fluminense / RJ,Avaí / SC
+360,Coritiba / PR,Santos / SP
+361,São Paulo / SP,Figueirense / SC
+362,Fluminense / RJ,Internacional / RS
+363,Avaí / SC,Ponte Preta / SP
+364,Sport / PE,Corinthians / SP
+365,Grêmio / RS,Atlético / MG
+366,Cruzeiro / MG,Joinville / SC
+367,Vasco da Gama / RJ,Santos / SP
+368,Palmeiras / SP,Coritiba / PR
+369,Chapecoense / SC,Goiás / GO
+370,Athletico Paranaense / PR,Flamengo / RJ
+371,Corinthians / SP,Avaí / SC
+372,Santos / SP,Athletico Paranaense / PR
+373,Ponte Preta / SP,Sport / PE
+374,Flamengo / RJ,Palmeiras / SP
+375,Internacional / RS,Cruzeiro / MG
+376,Atlético / MG,Chapecoense / SC
+377,Figueirense / SC,Fluminense / RJ
+378,Coritiba / PR,Vasco da Gama / RJ
+379,Goiás / GO,São Paulo / SP
+380,Joinville / SC,Grêmio / RS

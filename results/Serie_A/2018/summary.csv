@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Cruzeiro / MG,Grêmio / RS
+002,Athletico Paranaense / PR,Chapecoense / SC
+003,América / MG,Sport / PE
+004,Vitória / BA,Flamengo / RJ
+005,Vasco da Gama / RJ,Atlético / MG
+006,Botafogo / RJ,Palmeiras / SP
+007,São Paulo / SP,Paraná / PR
+008,Santos / SP,Ceará / CE
+009,Corinthians / SP,Fluminense / RJ
+010,Internacional / RS,Bahia / BA
+011,Atlético / MG,Vitória / BA
+012,Paraná / PR,Corinthians / SP
+013,Chapecoense / SC,Vasco da Gama / RJ
+014,Bahia / BA,Santos / SP
+015,Fluminense / RJ,Cruzeiro / MG
+016,Flamengo / RJ,América / MG
+017,Ceará / CE,São Paulo / SP
+018,Sport / PE,Botafogo / RJ
+019,Palmeiras / SP,Internacional / RS
+020,Grêmio / RS,Athletico Paranaense / PR
+021,Atlético / MG,Corinthians / SP
+022,Paraná / PR,Sport / PE
+023,América / MG,Vitória / BA
+024,Bahia / BA,Athletico Paranaense / PR
+025,Fluminense / RJ,São Paulo / SP
+026,Botafogo / RJ,Grêmio / RS
+027,Ceará / CE,Flamengo / RJ
+028,Santos / SP,Vasco da Gama / RJ
+029,Palmeiras / SP,Chapecoense / SC
+030,Internacional / RS,Cruzeiro / MG
+031,Cruzeiro / MG,Botafogo / RJ
+032,Athletico Paranaense / PR,Palmeiras / SP
+033,Chapecoense / SC,Paraná / PR
+034,Vitória / BA,Fluminense / RJ
+035,Vasco da Gama / RJ,América / MG
+036,Flamengo / RJ,Internacional / RS
+037,São Paulo / SP,Atlético / MG
+038,Sport / PE,Bahia / BA
+039,Corinthians / SP,Ceará / CE
+040,Grêmio / RS,Santos / SP
+041,Cruzeiro / MG,Sport / PE
+042,Athletico Paranaense / PR,Atlético / MG
+043,Chapecoense / SC,Flamengo / RJ
+044,Bahia / BA,São Paulo / SP
+045,Vasco da Gama / RJ,Vitória / BA
+046,Botafogo / RJ,Fluminense / RJ
+047,Ceará / CE,América / MG
+048,Santos / SP,Paraná / PR
+049,Corinthians / SP,Palmeiras / SP
+050,Grêmio / RS,Internacional / RS
+051,Atlético / MG,Cruzeiro / MG
+052,Paraná / PR,Grêmio / RS
+053,América / MG,Botafogo / RJ
+054,Vitória / BA,Ceará / CE
+055,Fluminense / RJ,Athletico Paranaense / PR
+056,Flamengo / RJ,Vasco da Gama / RJ
+057,São Paulo / SP,Santos / SP
+058,Sport / PE,Corinthians / SP
+059,Palmeiras / SP,Bahia / BA
+060,Internacional / RS,Chapecoense / SC
+061,Atlético / MG,Flamengo / RJ
+062,Paraná / PR,Athletico Paranaense / PR
+063,América / MG,São Paulo / SP
+064,Bahia / BA,Vasco da Gama / RJ
+065,Fluminense / RJ,Chapecoense / SC
+066,Botafogo / RJ,Vitória / BA
+067,Ceará / CE,Grêmio / RS
+068,Santos / SP,Cruzeiro / MG
+069,Palmeiras / SP,Sport / PE
+070,Internacional / RS,Corinthians / SP
+071,Cruzeiro / MG,Palmeiras / SP
+072,Athletico Paranaense / PR,Santos / SP
+073,Chapecoense / SC,Ceará / CE
+074,Vitória / BA,Internacional / RS
+075,Vasco da Gama / RJ,Paraná / PR
+076,Flamengo / RJ,Bahia / BA
+077,São Paulo / SP,Botafogo / RJ
+078,Sport / PE,Atlético / MG
+079,Corinthians / SP,América / MG
+080,Grêmio / RS,Fluminense / RJ
+081,Atlético / MG,Chapecoense / SC
+082,Paraná / PR,Fluminense / RJ
+083,América / MG,Athletico Paranaense / PR
+084,Bahia / BA,Grêmio / RS
+085,Vasco da Gama / RJ,Botafogo / RJ
+086,Flamengo / RJ,Corinthians / SP
+087,Ceará / CE,Cruzeiro / MG
+088,Santos / SP,Vitória / BA
+089,Palmeiras / SP,São Paulo / SP
+090,Internacional / RS,Sport / PE
+091,Cruzeiro / MG,Vasco da Gama / RJ
+092,Paraná / PR,Bahia / BA
+093,América / MG,Atlético / MG
+094,Vitória / BA,Chapecoense / SC
+095,Fluminense / RJ,Flamengo / RJ
+096,Botafogo / RJ,Ceará / CE
+097,São Paulo / SP,Internacional / RS
+098,Sport / PE,Athletico Paranaense / PR
+099,Corinthians / SP,Santos / SP
+100,Grêmio / RS,Palmeiras / SP
+101,Atlético / MG,Fluminense / RJ
+102,Athletico Paranaense / PR,São Paulo / SP
+103,Chapecoense / SC,Cruzeiro / MG
+104,Bahia / BA,Botafogo / RJ
+105,Vasco da Gama / RJ,Sport / PE
+106,Flamengo / RJ,Paraná / PR
+107,Ceará / CE,Palmeiras / SP
+108,Santos / SP,Internacional / RS
+109,Corinthians / SP,Vitória / BA
+110,Grêmio / RS,América / MG
+111,Atlético / MG,Ceará / CE
+112,Paraná / PR,Cruzeiro / MG
+113,América / MG,Chapecoense / SC
+114,Bahia / BA,Corinthians / SP
+115,Fluminense / RJ,Santos / SP
+116,Botafogo / RJ,Athletico Paranaense / PR
+117,São Paulo / SP,Vitória / BA
+118,Sport / PE,Grêmio / RS
+119,Palmeiras / SP,Flamengo / RJ
+120,Internacional / RS,Vasco da Gama / RJ
+121,Cruzeiro / MG,América / MG
+122,Athletico Paranaense / PR,Internacional / RS
+123,Chapecoense / SC,Bahia / BA
+124,Vitória / BA,Paraná / PR
+125,Vasco da Gama / RJ,Fluminense / RJ
+126,Flamengo / RJ,São Paulo / SP
+127,Ceará / CE,Sport / PE
+128,Santos / SP,Palmeiras / SP
+129,Corinthians / SP,Botafogo / RJ
+130,Grêmio / RS,Atlético / MG
+131,Cruzeiro / MG,Athletico Paranaense / PR
+132,Paraná / PR,América / MG
+133,Chapecoense / SC,Santos / SP
+134,Bahia / BA,Vitória / BA
+135,Vasco da Gama / RJ,Grêmio / RS
+136,Flamengo / RJ,Botafogo / RJ
+137,São Paulo / SP,Corinthians / SP
+138,Sport / PE,Fluminense / RJ
+139,Palmeiras / SP,Atlético / MG
+140,Internacional / RS,Ceará / CE
+141,Atlético / MG,Paraná / PR
+142,Athletico Paranaense / PR,Vasco da Gama / RJ
+143,América / MG,Internacional / RS
+144,Vitória / BA,Sport / PE
+145,Fluminense / RJ,Palmeiras / SP
+146,Botafogo / RJ,Chapecoense / SC
+147,Ceará / CE,Bahia / BA
+148,Santos / SP,Flamengo / RJ
+149,Corinthians / SP,Cruzeiro / MG
+150,Grêmio / RS,São Paulo / SP
+151,Cruzeiro / MG,São Paulo / SP
+152,Athletico Paranaense / PR,Vitória / BA
+153,Chapecoense / SC,Grêmio / RS
+154,Bahia / BA,Atlético / MG
+155,Vasco da Gama / RJ,Corinthians / SP
+156,Flamengo / RJ,Sport / PE
+157,Ceará / CE,Fluminense / RJ
+158,Santos / SP,América / MG
+159,Palmeiras / SP,Paraná / PR
+160,Internacional / RS,Botafogo / RJ
+161,Atlético / MG,Internacional / RS
+162,Paraná / PR,Ceará / CE
+163,América / MG,Palmeiras / SP
+164,Vitória / BA,Cruzeiro / MG
+165,Fluminense / RJ,Bahia / BA
+166,Botafogo / RJ,Santos / SP
+167,São Paulo / SP,Vasco da Gama / RJ
+168,Sport / PE,Chapecoense / SC
+169,Corinthians / SP,Athletico Paranaense / PR
+170,Grêmio / RS,Flamengo / RJ
+171,Atlético / MG,Santos / SP
+172,Paraná / PR,Botafogo / RJ
+173,Chapecoense / SC,Corinthians / SP
+174,Bahia / BA,América / MG
+175,Fluminense / RJ,Internacional / RS
+176,Flamengo / RJ,Cruzeiro / MG
+177,Ceará / CE,Athletico Paranaense / PR
+178,Sport / PE,São Paulo / SP
+179,Palmeiras / SP,Vasco da Gama / RJ
+180,Grêmio / RS,Vitória / BA
+181,Cruzeiro / MG,Bahia / BA
+182,Athletico Paranaense / PR,Flamengo / RJ
+183,América / MG,Fluminense / RJ
+184,Vitória / BA,Palmeiras / SP
+185,Vasco da Gama / RJ,Ceará / CE
+186,Botafogo / RJ,Atlético / MG
+187,São Paulo / SP,Chapecoense / SC
+188,Santos / SP,Sport / PE
+189,Corinthians / SP,Grêmio / RS
+190,Internacional / RS,Paraná / PR
+191,Atlético / MG,Vasco da Gama / RJ
+192,Paraná / PR,São Paulo / SP
+193,Chapecoense / SC,Athletico Paranaense / PR
+194,Bahia / BA,Internacional / RS
+195,Fluminense / RJ,Corinthians / SP
+196,Flamengo / RJ,Vitória / BA
+197,Ceará / CE,Santos / SP
+198,Sport / PE,América / MG
+199,Palmeiras / SP,Botafogo / RJ
+200,Grêmio / RS,Cruzeiro / MG
+201,Santos / SP,Bahia / BA
+202,Corinthians / SP,Paraná / PR
+203,Athletico Paranaense / PR,Grêmio / RS
+204,Cruzeiro / MG,Fluminense / RJ
+205,Botafogo / RJ,Sport / PE
+206,São Paulo / SP,Ceará / CE
+207,América / MG,Flamengo / RJ
+208,Vitória / BA,Atlético / MG
+209,Internacional / RS,Palmeiras / SP
+210,Vasco da Gama / RJ,Chapecoense / SC
+211,Vitória / BA,América / MG
+212,Grêmio / RS,Botafogo / RJ
+213,Vasco da Gama / RJ,Santos / SP
+214,Corinthians / SP,Atlético / MG
+215,Flamengo / RJ,Ceará / CE
+216,Athletico Paranaense / PR,Bahia / BA
+217,São Paulo / SP,Fluminense / RJ
+218,Sport / PE,Paraná / PR
+219,Chapecoense / SC,Palmeiras / SP
+220,Cruzeiro / MG,Internacional / RS
+221,Bahia / BA,Sport / PE
+222,Botafogo / RJ,Cruzeiro / MG
+223,Ceará / CE,Corinthians / SP
+224,Paraná / PR,Chapecoense / SC
+225,Palmeiras / SP,Athletico Paranaense / PR
+226,Atlético / MG,São Paulo / SP
+227,Internacional / RS,Flamengo / RJ
+228,Fluminense / RJ,Vitória / BA
+229,América / MG,Vasco da Gama / RJ
+230,Santos / SP,Grêmio / RS
+231,Sport / PE,Cruzeiro / MG
+232,São Paulo / SP,Bahia / BA
+233,Flamengo / RJ,Chapecoense / SC
+234,América / MG,Ceará / CE
+235,Fluminense / RJ,Botafogo / RJ
+236,Palmeiras / SP,Corinthians / SP
+237,Internacional / RS,Grêmio / RS
+238,Vitória / BA,Vasco da Gama / RJ
+239,Paraná / PR,Santos / SP
+240,Atlético / MG,Athletico Paranaense / PR
+241,Ceará / CE,Vitória / BA
+242,Vasco da Gama / RJ,Flamengo / RJ
+243,Botafogo / RJ,América / MG
+244,Cruzeiro / MG,Atlético / MG
+245,Athletico Paranaense / PR,Fluminense / RJ
+246,Bahia / BA,Palmeiras / SP
+247,Santos / SP,São Paulo / SP
+248,Corinthians / SP,Sport / PE
+249,Grêmio / RS,Paraná / PR
+250,Chapecoense / SC,Internacional / RS
+251,São Paulo / SP,América / MG
+252,Flamengo / RJ,Atlético / MG
+253,Vitória / BA,Botafogo / RJ
+254,Grêmio / RS,Ceará / CE
+255,Athletico Paranaense / PR,Paraná / PR
+256,Vasco da Gama / RJ,Bahia / BA
+257,Sport / PE,Palmeiras / SP
+258,Corinthians / SP,Internacional / RS
+259,Cruzeiro / MG,Santos / SP
+260,Chapecoense / SC,Fluminense / RJ
+261,Fluminense / RJ,Grêmio / RS
+262,América / MG,Corinthians / SP
+263,Bahia / BA,Flamengo / RJ
+264,Palmeiras / SP,Cruzeiro / MG
+265,Atlético / MG,Sport / PE
+266,Botafogo / RJ,São Paulo / SP
+267,Santos / SP,Athletico Paranaense / PR
+268,Internacional / RS,Vitória / BA
+269,Ceará / CE,Chapecoense / SC
+270,Paraná / PR,Vasco da Gama / RJ
+271,Sport / PE,Internacional / RS
+272,Corinthians / SP,Flamengo / RJ
+273,Vitória / BA,Santos / SP
+274,Athletico Paranaense / PR,América / MG
+275,Chapecoense / SC,Atlético / MG
+276,São Paulo / SP,Palmeiras / SP
+277,Grêmio / RS,Bahia / BA
+278,Fluminense / RJ,Paraná / PR
+279,Botafogo / RJ,Vasco da Gama / RJ
+280,Cruzeiro / MG,Ceará / CE
+281,Atlético / MG,América / MG
+282,Flamengo / RJ,Fluminense / RJ
+283,Santos / SP,Corinthians / SP
+284,Bahia / BA,Paraná / PR
+285,Chapecoense / SC,Vitória / BA
+286,Vasco da Gama / RJ,Cruzeiro / MG
+287,Palmeiras / SP,Grêmio / RS
+288,Internacional / RS,São Paulo / SP
+289,Athletico Paranaense / PR,Sport / PE
+290,Ceará / CE,Botafogo / RJ
+291,Botafogo / RJ,Bahia / BA
+292,São Paulo / SP,Athletico Paranaense / PR
+293,Sport / PE,Vasco da Gama / RJ
+294,América / MG,Grêmio / RS
+295,Vitória / BA,Corinthians / SP
+296,Fluminense / RJ,Atlético / MG
+297,Palmeiras / SP,Ceará / CE
+298,Cruzeiro / MG,Chapecoense / SC
+299,Paraná / PR,Flamengo / RJ
+300,Internacional / RS,Santos / SP
+301,Vitória / BA,São Paulo / SP
+302,Vasco da Gama / RJ,Internacional / RS
+303,Ceará / CE,Atlético / MG
+304,Santos / SP,Fluminense / RJ
+305,Grêmio / RS,Sport / PE
+306,Corinthians / SP,Bahia / BA
+307,Flamengo / RJ,Palmeiras / SP
+308,Cruzeiro / MG,Paraná / PR
+309,Athletico Paranaense / PR,Botafogo / RJ
+310,Chapecoense / SC,América / MG
+311,São Paulo / SP,Flamengo / RJ
+312,Fluminense / RJ,Vasco da Gama / RJ
+313,Atlético / MG,Grêmio / RS
+314,Paraná / PR,Vitória / BA
+315,América / MG,Cruzeiro / MG
+316,Botafogo / RJ,Corinthians / SP
+317,Bahia / BA,Chapecoense / SC
+318,Palmeiras / SP,Santos / SP
+319,Internacional / RS,Athletico Paranaense / PR
+320,Sport / PE,Ceará / CE
+321,Corinthians / SP,São Paulo / SP
+322,Botafogo / RJ,Flamengo / RJ
+323,Athletico Paranaense / PR,Cruzeiro / MG
+324,América / MG,Paraná / PR
+325,Atlético / MG,Palmeiras / SP
+326,Vitória / BA,Bahia / BA
+327,Santos / SP,Chapecoense / SC
+328,Grêmio / RS,Vasco da Gama / RJ
+329,Fluminense / RJ,Sport / PE
+330,Ceará / CE,Internacional / RS
+331,Vasco da Gama / RJ,Athletico Paranaense / PR
+332,Paraná / PR,Atlético / MG
+333,Bahia / BA,Ceará / CE
+334,Cruzeiro / MG,Corinthians / SP
+335,Sport / PE,Vitória / BA
+336,Palmeiras / SP,Fluminense / RJ
+337,Chapecoense / SC,Botafogo / RJ
+338,Flamengo / RJ,Santos / SP
+339,São Paulo / SP,Grêmio / RS
+340,Internacional / RS,América / MG
+341,Vitória / BA,Athletico Paranaense / PR
+342,Corinthians / SP,Vasco da Gama / RJ
+343,Fluminense / RJ,Ceará / CE
+344,Paraná / PR,Palmeiras / SP
+345,América / MG,Santos / SP
+346,Botafogo / RJ,Internacional / RS
+347,Sport / PE,Flamengo / RJ
+348,São Paulo / SP,Cruzeiro / MG
+349,Grêmio / RS,Chapecoense / SC
+350,Atlético / MG,Bahia / BA
+351,Internacional / RS,Atlético / MG
+352,Santos / SP,Botafogo / RJ
+353,Cruzeiro / MG,Vitória / BA
+354,Athletico Paranaense / PR,Corinthians / SP
+355,Flamengo / RJ,Grêmio / RS
+356,Palmeiras / SP,América / MG
+357,Vasco da Gama / RJ,São Paulo / SP
+358,Chapecoense / SC,Sport / PE
+359,Bahia / BA,Fluminense / RJ
+360,Ceará / CE,Paraná / PR
+361,Santos / SP,Atlético / MG
+362,Cruzeiro / MG,Flamengo / RJ
+363,Vitória / BA,Grêmio / RS
+364,Vasco da Gama / RJ,Palmeiras / SP
+365,Athletico Paranaense / PR,Ceará / CE
+366,América / MG,Bahia / BA
+367,Corinthians / SP,Chapecoense / SC
+368,Internacional / RS,Fluminense / RJ
+369,Botafogo / RJ,Paraná / PR
+370,São Paulo / SP,Sport / PE
+371,Atlético / MG,Botafogo / RJ
+372,Paraná / PR,Internacional / RS
+373,Chapecoense / SC,São Paulo / SP
+374,Bahia / BA,Cruzeiro / MG
+375,Fluminense / RJ,América / MG
+376,Flamengo / RJ,Athletico Paranaense / PR
+377,Ceará / CE,Vasco da Gama / RJ
+378,Sport / PE,Santos / SP
+379,Palmeiras / SP,Vitória / BA
+380,Grêmio / RS,Corinthians / SP

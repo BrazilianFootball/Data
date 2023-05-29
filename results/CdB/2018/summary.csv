@@ -1,0 +1,121 @@
+Game,Home,Away
+001,Vitória da Conquista / BA,Boa / MG
+002,Caxias / RS,Athletico Paranaense / PR
+003,Tubarão / SC,América / RN
+004,Aimoré / RS,Cuiabá / MT
+005,Real Desportivo / RO,Londrina / PR
+006,Boavista / RJ,Internacional / RS
+007,Caldense / MG,Fluminense / RJ
+008,Uberlândia / MG,Ituano / SP
+009,Novo / MS,Salgueiro / PE
+010,Interporto / TO,Juventude / RS
+011,Independente / PA,Sampaio Corrêa / MA
+012,Floresta / CE,Botafogo / PB
+013,Itabaiana / SE,Joinville / SC
+014,Cordino / MA,Náutico / PE
+015,Treze / PB,Figueirense / SC
+016,Madureira / RJ,São Paulo / SP
+017,Fluminense de Feira / BA,Santa Cruz / PE
+018,URT / MG,Paraná / PR
+019,Novo Hamburgo / RS,Paysandu / PA
+020,Nova Iguaçu / RJ,Red Bull Bragantino / SP
+021,Nacional / AM,Ponte Preta / SP
+022,Brasiliense / DF,Oeste / SP
+023,Inter de Limeira / SP,Rio Branco / AC
+024,Aparecidense / GO,Botafogo / RJ
+025,Atlético / ES,Remo / PA
+026,Cianorte / PR,ABC / RN
+027,Ceilândia / DF,Avaí / SC
+028,Corumbaense / MS,ASA / AL
+029,Parnahyba / PI,Coritiba / PR
+030,São Caetano / SP,Criciúma / SC
+031,Globo / RN,Vitória / BA
+032,Santos / AP,Sport / PE
+033,Sinop / MT,Goiás / GO
+034,União de Rondonópolis / MT,CRB / AL
+035,Altos / PI,Atlético / GO
+036,Ferroviário / CE,Confiança / SE
+037,Atlético / AC,Atlético / MG
+038,Brusque / SC,Ceará / CE
+039,Manaus / AM,CSA / AL
+040,São Raimundo / RR,Vila Nova / GO
+041,Vitória / BA,Corumbaense / MS
+042,Fluminense de Feira / BA,Náutico / PE
+043,CSA / AL,São Paulo / SP
+044,Fluminense / RJ,Salgueiro / PE
+045,Sport / PE,Ferroviário / CE
+046,Novo Hamburgo / RS,CRB / AL
+047,Athletico Paranaense / PR,Tubarão / SC
+048,Remo / PA,Internacional / RS
+049,Londrina / PR,Ceará / CE
+050,Criciúma / SC,Cianorte / PR
+051,Red Bull Bragantino / SP,Altos / PI
+052,Figueirense / SC,Oeste / SP
+053,Vila Nova / GO,Joinville / SC
+054,Cuiabá / MT,Aparecidense / GO
+055,Ponte Preta / SP,Inter de Limeira / SP
+056,Botafogo / PB,Atlético / MG
+057,Juventude / RS,Avaí / SC
+058,Goiás / GO,Boa / MG
+059,Uberlândia / MG,Coritiba / PR
+060,Sampaio Corrêa / MA,Paraná / PR
+061,Athletico Paranaense / PR,Ceará / CE
+062,Goiás / GO,Coritiba / PR
+063,Ponte Preta / SP,Sampaio Corrêa / MA
+064,São Paulo / SP,CRB / AL
+065,Red Bull Bragantino / SP,Vitória / BA
+066,Náutico / PE,Cuiabá / MT
+067,Ferroviário / CE,Vila Nova / GO
+068,Figueirense / SC,Atlético / MG
+069,Internacional / RS,Cianorte / PR
+070,Fluminense / RJ,Avaí / SC
+071,Cianorte / PR,Internacional / RS
+072,Coritiba / PR,Goiás / GO
+073,CRB / AL,São Paulo / SP
+074,Cuiabá / MT,Náutico / PE
+075,Atlético / MG,Figueirense / SC
+076,Ceará / CE,Athletico Paranaense / PR
+077,Sampaio Corrêa / MA,Ponte Preta / SP
+078,Vitória / BA,Red Bull Bragantino / SP
+079,Vila Nova / GO,Ferroviário / CE
+080,Avaí / SC,Fluminense / RJ
+081,Athletico Paranaense / PR,São Paulo / SP
+082,Atlético / MG,Ferroviário / CE
+083,Internacional / RS,Vitória / BA
+084,Ponte Preta / SP,Náutico / PE
+085,Avaí / SC,Goiás / GO
+086,Náutico / PE,Ponte Preta / SP
+087,Goiás / GO,Avaí / SC
+088,Vitória / BA,Internacional / RS
+089,Ferroviário / CE,Atlético / MG
+090,São Paulo / SP,Athletico Paranaense / PR
+091,Goiás / GO,Grêmio / RS
+092,Vitória / BA,Corinthians / SP
+093,Atlético / MG,Chapecoense / SC
+094,Ponte Preta / SP,Flamengo / RJ
+095,Athletico Paranaense / PR,Cruzeiro / MG
+096,Bahia / BA,Vasco da Gama / RJ
+097,América / MG,Palmeiras / SP
+098,Santos / SP,Luverdense / MT
+099,Chapecoense / SC,Atlético / MG
+100,Cruzeiro / MG,Athletico Paranaense / PR
+101,Vasco da Gama / RJ,Bahia / BA
+102,Grêmio / RS,Goiás / GO
+103,Corinthians / SP,Vitória / BA
+104,Palmeiras / SP,América / MG
+105,Flamengo / RJ,Ponte Preta / SP
+106,Luverdense / MT,Santos / SP
+107,Santos / SP,Cruzeiro / MG
+108,Corinthians / SP,Chapecoense / SC
+109,Grêmio / RS,Flamengo / RJ
+110,Bahia / BA,Palmeiras / SP
+111,Palmeiras / SP,Bahia / BA
+112,Cruzeiro / MG,Santos / SP
+113,Chapecoense / SC,Corinthians / SP
+114,Flamengo / RJ,Grêmio / RS
+115,Flamengo / RJ,Corinthians / SP
+116,Palmeiras / SP,Cruzeiro / MG
+117,Corinthians / SP,Flamengo / RJ
+118,Cruzeiro / MG,Palmeiras / SP
+119,Cruzeiro / MG,Corinthians / SP
+120,Corinthians / SP,Cruzeiro / MG

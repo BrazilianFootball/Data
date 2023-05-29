@@ -1,0 +1,207 @@
+Game,Home,Away
+001,Manaus / AM,Santa Cruz / PE
+002,Floresta / CE,Jacuipense / BA
+003,Altos / PI,Volta Redonda / RJ
+004,Botafogo / PB,Ferroviário / CE
+005,Tombense / MG,Paysandu / PA
+006,Novorizontino / SP,Figueirense / SC
+007,Oeste / SP,Mirassol / SP
+008,Criciúma / SC,Ituano / SP
+009,Botafogo / SP,São José / RS
+010,Ypiranga / RS,Paraná / PR
+011,Paysandu / PA,Botafogo / PB
+012,Ferroviário / CE,Altos / PI
+013,Jacuipense / BA,Tombense / MG
+014,Santa Cruz / PE,Floresta / CE
+015,Volta Redonda / RJ,Manaus / AM
+016,Mirassol / SP,Ypiranga / RS
+017,Paraná / PR,Botafogo / SP
+018,Figueirense / SC,Oeste / SP
+019,Ituano / SP,Novorizontino / SP
+020,São José / RS,Criciúma / SC
+021,Manaus / AM,Floresta / CE
+022,Ferroviário / CE,Santa Cruz / PE
+023,Jacuipense / BA,Paysandu / PA
+024,Botafogo / PB,Volta Redonda / RJ
+025,Tombense / MG,Altos / PI
+026,Novorizontino / SP,Oeste / SP
+027,Paraná / PR,Figueirense / SC
+028,Criciúma / SC,Ypiranga / RS
+029,Botafogo / SP,Mirassol / SP
+030,São José / RS,Ituano / SP
+031,Paysandu / PA,Volta Redonda / RJ
+032,Floresta / CE,Botafogo / PB
+033,Altos / PI,Manaus / AM
+034,Santa Cruz / PE,Jacuipense / BA
+035,Tombense / MG,Ferroviário / CE
+036,Novorizontino / SP,São José / RS
+037,Oeste / SP,Criciúma / SC
+038,Figueirense / SC,Mirassol / SP
+039,Ituano / SP,Paraná / PR
+040,Ypiranga / RS,Botafogo / SP
+041,Manaus / AM,Tombense / MG
+042,Floresta / CE,Paysandu / PA
+043,Jacuipense / BA,Ferroviário / CE
+044,Botafogo / PB,Altos / PI
+045,Volta Redonda / RJ,Santa Cruz / PE
+046,Mirassol / SP,Ituano / SP
+047,Paraná / PR,São José / RS
+048,Criciúma / SC,Novorizontino / SP
+049,Botafogo / SP,Oeste / SP
+050,Ypiranga / RS,Figueirense / SC
+051,Manaus / AM,Jacuipense / BA
+052,Ferroviário / CE,Volta Redonda / RJ
+053,Altos / PI,Floresta / CE
+054,Santa Cruz / PE,Paysandu / PA
+055,Tombense / MG,Botafogo / PB
+056,Novorizontino / SP,Botafogo / SP
+057,Oeste / SP,Ypiranga / RS
+058,Criciúma / SC,Paraná / PR
+059,Ituano / SP,Figueirense / SC
+060,São José / RS,Mirassol / SP
+061,Paysandu / PA,Ferroviário / CE
+062,Floresta / CE,Tombense / MG
+063,Altos / PI,Santa Cruz / PE
+064,Botafogo / PB,Manaus / AM
+065,Volta Redonda / RJ,Jacuipense / BA
+066,Mirassol / SP,Paraná / PR
+067,Oeste / SP,Ituano / SP
+068,Figueirense / SC,São José / RS
+069,Botafogo / SP,Criciúma / SC
+070,Ypiranga / RS,Novorizontino / SP
+071,Paysandu / PA,Altos / PI
+072,Ferroviário / CE,Manaus / AM
+073,Jacuipense / BA,Botafogo / PB
+074,Santa Cruz / PE,Tombense / MG
+075,Volta Redonda / RJ,Floresta / CE
+076,Mirassol / SP,Criciúma / SC
+077,Paraná / PR,Novorizontino / SP
+078,Figueirense / SC,Botafogo / SP
+079,Ituano / SP,Ypiranga / RS
+080,São José / RS,Oeste / SP
+081,Floresta / CE,Ferroviário / CE
+082,Altos / PI,Jacuipense / BA
+083,Botafogo / PB,Santa Cruz / PE
+084,Tombense / MG,Volta Redonda / RJ
+085,Manaus / AM,Paysandu / PA
+086,Novorizontino / SP,Mirassol / SP
+087,Oeste / SP,Paraná / PR
+088,Criciúma / SC,Figueirense / SC
+089,Botafogo / SP,Ituano / SP
+090,Ypiranga / RS,São José / RS
+091,Paysandu / PA,Tombense / MG
+092,Ferroviário / CE,Botafogo / PB
+093,Jacuipense / BA,Floresta / CE
+094,Santa Cruz / PE,Manaus / AM
+095,Volta Redonda / RJ,Altos / PI
+096,Mirassol / SP,Oeste / SP
+097,Paraná / PR,Ypiranga / RS
+098,Figueirense / SC,Novorizontino / SP
+099,Ituano / SP,Criciúma / SC
+100,São José / RS,Botafogo / SP
+101,Manaus / AM,Volta Redonda / RJ
+102,Floresta / CE,Santa Cruz / PE
+103,Altos / PI,Ferroviário / CE
+104,Botafogo / PB,Paysandu / PA
+105,Tombense / MG,Jacuipense / BA
+106,Novorizontino / SP,Ituano / SP
+107,Oeste / SP,Figueirense / SC
+108,Criciúma / SC,São José / RS
+109,Botafogo / SP,Paraná / PR
+110,Ypiranga / RS,Mirassol / SP
+111,Paysandu / PA,Jacuipense / BA
+112,Floresta / CE,Manaus / AM
+113,Altos / PI,Tombense / MG
+114,Santa Cruz / PE,Ferroviário / CE
+115,Volta Redonda / RJ,Botafogo / PB
+116,Mirassol / SP,Botafogo / SP
+117,Oeste / SP,Novorizontino / SP
+118,Figueirense / SC,Paraná / PR
+119,Ituano / SP,São José / RS
+120,Ypiranga / RS,Criciúma / SC
+121,Manaus / AM,Altos / PI
+122,Ferroviário / CE,Tombense / MG
+123,Jacuipense / BA,Santa Cruz / PE
+124,Botafogo / PB,Floresta / CE
+125,Volta Redonda / RJ,Paysandu / PA
+126,Mirassol / SP,Figueirense / SC
+127,Paraná / PR,Ituano / SP
+128,Criciúma / SC,Oeste / SP
+129,Botafogo / SP,Ypiranga / RS
+130,São José / RS,Novorizontino / SP
+131,Paysandu / PA,Floresta / CE
+132,Ferroviário / CE,Jacuipense / BA
+133,Altos / PI,Botafogo / PB
+134,Santa Cruz / PE,Volta Redonda / RJ
+135,Tombense / MG,Manaus / AM
+136,Novorizontino / SP,Criciúma / SC
+137,Oeste / SP,Botafogo / SP
+138,Figueirense / SC,Ypiranga / RS
+139,Ituano / SP,Mirassol / SP
+140,São José / RS,Paraná / PR
+141,Paysandu / PA,Santa Cruz / PE
+142,Floresta / CE,Altos / PI
+143,Jacuipense / BA,Manaus / AM
+144,Botafogo / PB,Tombense / MG
+145,Volta Redonda / RJ,Ferroviário / CE
+146,Mirassol / SP,São José / RS
+147,Paraná / PR,Criciúma / SC
+148,Figueirense / SC,Ituano / SP
+149,Botafogo / SP,Novorizontino / SP
+150,Ypiranga / RS,Oeste / SP
+151,Manaus / AM,Botafogo / PB
+152,Ferroviário / CE,Paysandu / PA
+153,Jacuipense / BA,Volta Redonda / RJ
+154,Santa Cruz / PE,Altos / PI
+155,Tombense / MG,Floresta / CE
+156,Novorizontino / SP,Ypiranga / RS
+157,Paraná / PR,Mirassol / SP
+158,Criciúma / SC,Botafogo / SP
+159,Ituano / SP,Oeste / SP
+160,São José / RS,Figueirense / SC
+161,Manaus / AM,Ferroviário / CE
+162,Floresta / CE,Volta Redonda / RJ
+163,Altos / PI,Paysandu / PA
+164,Botafogo / PB,Jacuipense / BA
+165,Tombense / MG,Santa Cruz / PE
+166,Novorizontino / SP,Paraná / PR
+167,Oeste / SP,São José / RS
+168,Criciúma / SC,Mirassol / SP
+169,Botafogo / SP,Figueirense / SC
+170,Ypiranga / RS,Ituano / SP
+171,Paysandu / PA,Manaus / AM
+172,Ferroviário / CE,Floresta / CE
+173,Jacuipense / BA,Altos / PI
+174,Santa Cruz / PE,Botafogo / PB
+175,Volta Redonda / RJ,Tombense / MG
+176,Mirassol / SP,Novorizontino / SP
+177,Paraná / PR,Oeste / SP
+178,Figueirense / SC,Criciúma / SC
+179,Ituano / SP,Botafogo / SP
+180,São José / RS,Ypiranga / RS
+181,Botafogo / PB,Ituano / SP
+182,Ypiranga / RS,Tombense / MG
+183,Manaus / AM,Novorizontino / SP
+184,Criciúma / SC,Paysandu / PA
+185,Tombense / MG,Manaus / AM
+186,Novorizontino / SP,Ypiranga / RS
+187,Paysandu / PA,Botafogo / PB
+188,Ituano / SP,Criciúma / SC
+189,Ituano / SP,Paysandu / PA
+190,Criciúma / SC,Botafogo / PB
+191,Manaus / AM,Ypiranga / RS
+192,Tombense / MG,Novorizontino / SP
+193,Paysandu / PA,Ituano / SP
+194,Botafogo / PB,Criciúma / SC
+195,Novorizontino / SP,Tombense / MG
+196,Ypiranga / RS,Manaus / AM
+197,Botafogo / PB,Paysandu / PA
+198,Criciúma / SC,Ituano / SP
+199,Ypiranga / RS,Novorizontino / SP
+200,Manaus / AM,Tombense / MG
+201,Paysandu / PA,Criciúma / SC
+202,Ituano / SP,Botafogo / PB
+203,Novorizontino / SP,Manaus / AM
+204,Tombense / MG,Ypiranga / RS
+205,Tombense / MG,Ituano / SP
+206,Ituano / SP,Tombense / MG

@@ -1,0 +1,207 @@
+Game,Home,Away
+001,Sampaio Corrêa / MA,Brasiliense / DF
+002,Baraúnas / RN,Fortaleza / CE
+003,Águia de Marabá / PA,CRB / AL
+004,Santa Cruz / PE,Luverdense / MT
+005,Cuiabá / MT,Treze / PB
+006,Mogi Mirim / SP,Duque de Caxias / RJ
+007,CRAC / GO,Betim / MG
+008,Madureira / RJ,Guarani / SP
+009,Vila Nova / GO,Grêmio Barueri / SP
+010,Caxias / RS,Macaé / RJ
+011,Fortaleza / CE,Águia de Marabá / PA
+012,CRB / AL,Santa Cruz / PE
+013,Luverdense / MT,Cuiabá / MT
+014,Treze / PB,Sampaio Corrêa / MA
+015,Brasiliense / DF,Baraúnas / RN
+016,Betim / MG,Caxias / RS
+017,Guarani / SP,Mogi Mirim / SP
+018,Grêmio Barueri / SP,CRAC / GO
+019,Macaé / RJ,Madureira / RJ
+020,Duque de Caxias / RJ,Vila Nova / GO
+021,Fortaleza / CE,CRB / AL
+022,Baraúnas / RN,Treze / PB
+023,Águia de Marabá / PA,Sampaio Corrêa / MA
+024,Santa Cruz / PE,Cuiabá / MT
+025,Brasiliense / DF,Luverdense / MT
+026,Mogi Mirim / SP,Vila Nova / GO
+027,CRAC / GO,Madureira / RJ
+028,Grêmio Barueri / SP,Betim / MG
+029,Macaé / RJ,Duque de Caxias / RJ
+030,Caxias / RS,Guarani / SP
+031,Sampaio Corrêa / MA,Baraúnas / RN
+032,CRB / AL,Brasiliense / DF
+033,Luverdense / MT,Treze / PB
+034,Santa Cruz / PE,Fortaleza / CE
+035,Cuiabá / MT,Águia de Marabá / PA
+036,Betim / MG,Macaé / RJ
+037,Guarani / SP,Grêmio Barueri / SP
+038,Madureira / RJ,Duque de Caxias / RJ
+039,Vila Nova / GO,CRAC / GO
+040,Caxias / RS,Mogi Mirim / SP
+041,Sampaio Corrêa / MA,Luverdense / MT
+042,Baraúnas / RN,Cuiabá / MT
+043,Águia de Marabá / PA,Santa Cruz / PE
+044,Treze / PB,CRB / AL
+045,Brasiliense / DF,Fortaleza / CE
+046,Mogi Mirim / SP,Grêmio Barueri / SP
+047,CRAC / GO,Caxias / RS
+048,Madureira / RJ,Vila Nova / GO
+049,Macaé / RJ,Guarani / SP
+050,Duque de Caxias / RJ,Betim / MG
+051,Fortaleza / CE,Treze / PB
+052,CRB / AL,Luverdense / MT
+053,Águia de Marabá / PA,Brasiliense / DF
+054,Santa Cruz / PE,Baraúnas / RN
+055,Cuiabá / MT,Sampaio Corrêa / MA
+056,Mogi Mirim / SP,CRAC / GO
+057,Guarani / SP,Duque de Caxias / RJ
+058,Grêmio Barueri / SP,Macaé / RJ
+059,Vila Nova / GO,Betim / MG
+060,Caxias / RS,Madureira / RJ
+061,Sampaio Corrêa / MA,Santa Cruz / PE
+062,Baraúnas / RN,Águia de Marabá / PA
+063,Luverdense / MT,Fortaleza / CE
+064,Treze / PB,Brasiliense / DF
+065,Cuiabá / MT,CRB / AL
+066,Betim / MG,Guarani / SP
+067,CRAC / GO,Macaé / RJ
+068,Madureira / RJ,Mogi Mirim / SP
+069,Vila Nova / GO,Caxias / RS
+070,Duque de Caxias / RJ,Grêmio Barueri / SP
+071,Fortaleza / CE,Cuiabá / MT
+072,CRB / AL,Sampaio Corrêa / MA
+073,Luverdense / MT,Baraúnas / RN
+074,Treze / PB,Águia de Marabá / PA
+075,Brasiliense / DF,Santa Cruz / PE
+076,Betim / MG,Madureira / RJ
+077,Guarani / SP,Vila Nova / GO
+078,Grêmio Barueri / SP,Caxias / RS
+079,Macaé / RJ,Mogi Mirim / SP
+080,Duque de Caxias / RJ,CRAC / GO
+081,Sampaio Corrêa / MA,Fortaleza / CE
+082,Baraúnas / RN,CRB / AL
+083,Águia de Marabá / PA,Luverdense / MT
+084,Santa Cruz / PE,Treze / PB
+085,Cuiabá / MT,Brasiliense / DF
+086,Mogi Mirim / SP,Betim / MG
+087,CRAC / GO,Guarani / SP
+088,Madureira / RJ,Grêmio Barueri / SP
+089,Vila Nova / GO,Macaé / RJ
+090,Caxias / RS,Duque de Caxias / RJ
+091,Fortaleza / CE,Baraúnas / RN
+092,CRB / AL,Águia de Marabá / PA
+093,Luverdense / MT,Santa Cruz / PE
+094,Treze / PB,Cuiabá / MT
+095,Brasiliense / DF,Sampaio Corrêa / MA
+096,Betim / MG,CRAC / GO
+097,Guarani / SP,Madureira / RJ
+098,Grêmio Barueri / SP,Vila Nova / GO
+099,Macaé / RJ,Caxias / RS
+100,Duque de Caxias / RJ,Mogi Mirim / SP
+101,Sampaio Corrêa / MA,Treze / PB
+102,Baraúnas / RN,Brasiliense / DF
+103,Águia de Marabá / PA,Fortaleza / CE
+104,Santa Cruz / PE,CRB / AL
+105,Cuiabá / MT,Luverdense / MT
+106,Mogi Mirim / SP,Guarani / SP
+107,CRAC / GO,Grêmio Barueri / SP
+108,Madureira / RJ,Macaé / RJ
+109,Vila Nova / GO,Duque de Caxias / RJ
+110,Caxias / RS,Betim / MG
+111,Sampaio Corrêa / MA,Águia de Marabá / PA
+112,CRB / AL,Fortaleza / CE
+113,Luverdense / MT,Brasiliense / DF
+115,Cuiabá / MT,Santa Cruz / PE
+116,Betim / MG,Grêmio Barueri / SP
+117,Guarani / SP,Caxias / RS
+118,Madureira / RJ,CRAC / GO
+119,Vila Nova / GO,Mogi Mirim / SP
+120,Duque de Caxias / RJ,Macaé / RJ
+121,Fortaleza / CE,Santa Cruz / PE
+122,Baraúnas / RN,Sampaio Corrêa / MA
+123,Águia de Marabá / PA,Cuiabá / MT
+124,Treze / PB,Luverdense / MT
+125,Brasiliense / DF,CRB / AL
+126,Mogi Mirim / SP,Caxias / RS
+127,CRAC / GO,Vila Nova / GO
+128,Grêmio Barueri / SP,Guarani / SP
+129,Macaé / RJ,Betim / MG
+130,Duque de Caxias / RJ,Madureira / RJ
+131,Fortaleza / CE,Brasiliense / DF
+132,CRB / AL,Treze / PB
+133,Luverdense / MT,Sampaio Corrêa / MA
+134,Santa Cruz / PE,Águia de Marabá / PA
+135,Cuiabá / MT,Baraúnas / RN
+136,Betim / MG,Duque de Caxias / RJ
+137,Guarani / SP,Macaé / RJ
+138,Grêmio Barueri / SP,Mogi Mirim / SP
+139,Vila Nova / GO,Madureira / RJ
+140,Caxias / RS,CRAC / GO
+141,Sampaio Corrêa / MA,Cuiabá / MT
+142,Baraúnas / RN,Santa Cruz / PE
+143,Luverdense / MT,CRB / AL
+144,Treze / PB,Fortaleza / CE
+145,Brasiliense / DF,Águia de Marabá / PA
+146,Betim / MG,Vila Nova / GO
+147,CRAC / GO,Mogi Mirim / SP
+148,Madureira / RJ,Caxias / RS
+149,Macaé / RJ,Grêmio Barueri / SP
+150,Duque de Caxias / RJ,Guarani / SP
+151,Fortaleza / CE,Luverdense / MT
+152,CRB / AL,Cuiabá / MT
+153,Águia de Marabá / PA,Baraúnas / RN
+154,Santa Cruz / PE,Sampaio Corrêa / MA
+155,Brasiliense / DF,Treze / PB
+156,Mogi Mirim / SP,Madureira / RJ
+157,Guarani / SP,Betim / MG
+158,Grêmio Barueri / SP,Duque de Caxias / RJ
+159,Macaé / RJ,CRAC / GO
+160,Caxias / RS,Vila Nova / GO
+161,Sampaio Corrêa / MA,CRB / AL
+162,Baraúnas / RN,Luverdense / MT
+163,Águia de Marabá / PA,Treze / PB
+164,Santa Cruz / PE,Brasiliense / DF
+165,Cuiabá / MT,Fortaleza / CE
+166,Mogi Mirim / SP,Macaé / RJ
+167,CRAC / GO,Duque de Caxias / RJ
+168,Madureira / RJ,Betim / MG
+169,Vila Nova / GO,Guarani / SP
+170,Caxias / RS,Grêmio Barueri / SP
+171,Fortaleza / CE,Sampaio Corrêa / MA
+172,CRB / AL,Baraúnas / RN
+173,Luverdense / MT,Águia de Marabá / PA
+174,Treze / PB,Santa Cruz / PE
+175,Brasiliense / DF,Cuiabá / MT
+176,Betim / MG,Mogi Mirim / SP
+177,Guarani / SP,CRAC / GO
+178,Grêmio Barueri / SP,Madureira / RJ
+179,Macaé / RJ,Vila Nova / GO
+180,Duque de Caxias / RJ,Caxias / RS
+181,Betim / MG,Santa Cruz / PE
+182,Santa Cruz / PE,Betim / MG
+183,Caxias / RS,Luverdense / MT
+184,Luverdense / MT,Caxias / RS
+185,Treze / PB,Vila Nova / GO
+186,Vila Nova / GO,Treze / PB
+187,Sampaio Corrêa / MA,Macaé / RJ
+188,Macaé / RJ,Sampaio Corrêa / MA
+195,Rio Branco / AC,Fortaleza / CE
+196,Luverdense / MT,Rio Branco / AC
+197,Rio Branco / AC,Baraúnas / RN
+198,Rio Branco / AC,Águia de Marabá / PA
+199,Brasiliense / DF,Rio Branco / AC
+200,Rio Branco / AC,Sampaio Corrêa / MA
+201,Rio Branco / AC,CRB / AL
+202,Santa Cruz / PE,Rio Branco / AC
+203,Rio Branco / AC,Cuiabá / MT
+204,Treze / PB,Rio Branco / AC
+205,Fortaleza / CE,Rio Branco / AC
+206,Rio Branco / AC,Treze / PB
+207,Baraúnas / RN,Rio Branco / AC
+209,Rio Branco / AC,Brasiliense / DF
+210,Rio Branco / AC,Luverdense / MT
+211,CRB / AL,Rio Branco / AC
+212,Cuiabá / MT,Rio Branco / AC
+213,Rio Branco / AC,Santa Cruz / PE
+214,Sampaio Corrêa / MA,Rio Branco / AC

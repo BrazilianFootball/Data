@@ -1,0 +1,379 @@
+Game,Home,Away
+001,Oeste / SP,Avaí / SC
+002,Boa / MG,Chapecoense / SC
+003,Figueirense / SC,América / RN
+004,Joinville / SC,Red Bull Bragantino / SP
+005,Icasa / CE,Sport / PE
+006,ABC / RN,Paraná / PR
+007,Palmeiras / SP,Atlético / GO
+008,São Caetano / SP,Ceará / CE
+009,Guaratinguetá / SP,América / MG
+010,Paysandu / PA,ASA / AL
+011,ASA / AL,Palmeiras / SP
+012,América / MG,Figueirense / SC
+013,Avaí / SC,Guaratinguetá / SP
+014,Chapecoense / SC,Oeste / SP
+015,Ceará / CE,Paysandu / PA
+016,América / RN,Icasa / CE
+017,Paraná / PR,São Caetano / SP
+018,Atlético / GO,Joinville / SC
+019,Red Bull Bragantino / SP,Boa / MG
+020,Sport / PE,ABC / RN
+021,Oeste / SP,Paraná / PR
+022,Boa / MG,Atlético / GO
+023,Figueirense / SC,Sport / PE
+024,Joinville / SC,ASA / AL
+025,Icasa / CE,Avaí / SC
+026,ABC / RN,Ceará / CE
+027,Palmeiras / SP,América / MG
+028,São Caetano / SP,Chapecoense / SC
+029,Red Bull Bragantino / SP,Guaratinguetá / SP
+030,Paysandu / PA,América / RN
+031,Oeste / SP,Ceará / CE
+032,Boa / MG,ASA / AL
+033,Figueirense / SC,Chapecoense / SC
+034,Joinville / SC,América / RN
+035,Icasa / CE,América / MG
+036,ABC / RN,Red Bull Bragantino / SP
+037,Palmeiras / SP,Avaí / SC
+038,São Caetano / SP,Atlético / GO
+039,Guaratinguetá / SP,Sport / PE
+040,Paysandu / PA,Paraná / PR
+041,ASA / AL,Icasa / CE
+042,América / MG,Oeste / SP
+043,Avaí / SC,Joinville / SC
+044,Chapecoense / SC,ABC / RN
+045,Ceará / CE,Boa / MG
+046,América / RN,Guaratinguetá / SP
+047,Paraná / PR,Figueirense / SC
+048,Atlético / GO,Paysandu / PA
+049,Red Bull Bragantino / SP,São Caetano / SP
+050,Sport / PE,Palmeiras / SP
+051,Oeste / SP,São Caetano / SP
+052,Boa / MG,ABC / RN
+053,Avaí / SC,América / MG
+054,Chapecoense / SC,Paysandu / PA
+055,Ceará / CE,Figueirense / SC
+056,América / RN,Palmeiras / SP
+057,Paraná / PR,ASA / AL
+058,Atlético / GO,Icasa / CE
+059,Guaratinguetá / SP,Joinville / SC
+060,Sport / PE,Red Bull Bragantino / SP
+061,ASA / AL,Chapecoense / SC
+062,América / MG,Paraná / PR
+063,Figueirense / SC,Boa / MG
+064,Joinville / SC,Sport / PE
+065,Icasa / CE,Ceará / CE
+066,ABC / RN,Atlético / GO
+067,Palmeiras / SP,Oeste / SP
+068,São Caetano / SP,Avaí / SC
+069,Red Bull Bragantino / SP,América / RN
+070,Paysandu / PA,Guaratinguetá / SP
+071,Oeste / SP,Boa / MG
+072,América / MG,Red Bull Bragantino / SP
+073,Avaí / SC,Paraná / PR
+074,Joinville / SC,Chapecoense / SC
+075,Ceará / CE,ASA / AL
+076,América / RN,Sport / PE
+077,Palmeiras / SP,ABC / RN
+078,Atlético / GO,Figueirense / SC
+079,Guaratinguetá / SP,Icasa / CE
+080,Paysandu / PA,São Caetano / SP
+081,ASA / AL,Atlético / GO
+082,Boa / MG,Paysandu / PA
+083,Figueirense / SC,Palmeiras / SP
+084,Chapecoense / SC,América / MG
+085,Icasa / CE,Oeste / SP
+086,ABC / RN,Joinville / SC
+087,Paraná / PR,América / RN
+088,São Caetano / SP,Guaratinguetá / SP
+089,Red Bull Bragantino / SP,Ceará / CE
+090,Sport / PE,Avaí / SC
+091,ASA / AL,Red Bull Bragantino / SP
+092,Boa / MG,América / MG
+093,Figueirense / SC,São Caetano / SP
+094,Chapecoense / SC,Avaí / SC
+095,Icasa / CE,Joinville / SC
+096,ABC / RN,Paysandu / PA
+097,Paraná / PR,Ceará / CE
+098,Atlético / GO,América / RN
+099,Guaratinguetá / SP,Palmeiras / SP
+100,Sport / PE,Oeste / SP
+101,Oeste / SP,Guaratinguetá / SP
+102,América / MG,Sport / PE
+103,Avaí / SC,Atlético / GO
+104,Joinville / SC,Boa / MG
+105,Ceará / CE,Chapecoense / SC
+106,América / RN,ASA / AL
+107,Palmeiras / SP,Icasa / CE
+108,São Caetano / SP,ABC / RN
+109,Red Bull Bragantino / SP,Paraná / PR
+110,Paysandu / PA,Figueirense / SC
+111,Oeste / SP,ASA / AL
+112,América / MG,Ceará / CE
+113,Avaí / SC,Paysandu / PA
+114,Joinville / SC,Figueirense / SC
+115,Icasa / CE,São Caetano / SP
+116,América / RN,Boa / MG
+117,Palmeiras / SP,Red Bull Bragantino / SP
+118,Atlético / GO,Paraná / PR
+119,Guaratinguetá / SP,ABC / RN
+120,Sport / PE,Chapecoense / SC
+121,ASA / AL,Sport / PE
+122,Boa / MG,Guaratinguetá / SP
+123,Figueirense / SC,Icasa / CE
+124,Chapecoense / SC,Atlético / GO
+125,Ceará / CE,América / RN
+126,ABC / RN,Oeste / SP
+127,Paraná / PR,Joinville / SC
+128,São Caetano / SP,Palmeiras / SP
+129,Red Bull Bragantino / SP,Avaí / SC
+130,Paysandu / PA,América / MG
+131,ASA / AL,América / MG
+132,Boa / MG,Icasa / CE
+133,Figueirense / SC,Avaí / SC
+134,Chapecoense / SC,Guaratinguetá / SP
+135,Ceará / CE,Atlético / GO
+136,América / RN,ABC / RN
+137,Palmeiras / SP,Paraná / PR
+138,São Caetano / SP,Sport / PE
+139,Red Bull Bragantino / SP,Oeste / SP
+140,Paysandu / PA,Joinville / SC
+141,Oeste / SP,Paysandu / PA
+142,América / MG,São Caetano / SP
+143,Avaí / SC,ASA / AL
+144,Joinville / SC,Palmeiras / SP
+145,Icasa / CE,ABC / RN
+146,América / RN,Chapecoense / SC
+147,Paraná / PR,Boa / MG
+148,Atlético / GO,Red Bull Bragantino / SP
+149,Guaratinguetá / SP,Figueirense / SC
+150,Sport / PE,Ceará / CE
+151,Oeste / SP,Joinville / SC
+153,Avaí / SC,Ceará / CE
+154,Chapecoense / SC,Paraná / PR
+155,Icasa / CE,Red Bull Bragantino / SP
+156,ABC / RN,Figueirense / SC
+157,Palmeiras / SP,Paysandu / PA
+158,São Caetano / SP,Boa / MG
+159,Guaratinguetá / SP,ASA / AL
+160,Sport / PE,Atlético / GO
+161,ASA / AL,ABC / RN
+162,Boa / MG,Palmeiras / SP
+163,Figueirense / SC,Oeste / SP
+164,Joinville / SC,São Caetano / SP
+165,Ceará / CE,Guaratinguetá / SP
+166,América / RN,Avaí / SC
+167,Paraná / PR,Sport / PE
+168,Atlético / GO,América / MG
+169,Red Bull Bragantino / SP,Chapecoense / SC
+170,Paysandu / PA,Icasa / CE
+171,ASA / AL,Figueirense / SC
+172,América / MG,Joinville / SC
+173,Avaí / SC,ABC / RN
+174,Chapecoense / SC,Icasa / CE
+175,Ceará / CE,Palmeiras / SP
+176,América / RN,São Caetano / SP
+177,Paraná / PR,Guaratinguetá / SP
+178,Atlético / GO,Oeste / SP
+179,Red Bull Bragantino / SP,Paysandu / PA
+180,Sport / PE,Boa / MG
+181,Oeste / SP,América / RN
+182,Boa / MG,Avaí / SC
+183,Figueirense / SC,Red Bull Bragantino / SP
+184,Joinville / SC,Ceará / CE
+185,Icasa / CE,Paraná / PR
+186,ABC / RN,América / MG
+187,Palmeiras / SP,Chapecoense / SC
+188,São Caetano / SP,ASA / AL
+189,Guaratinguetá / SP,Atlético / GO
+190,Paysandu / PA,Sport / PE
+191,ASA / AL,Paysandu / PA
+192,América / MG,Guaratinguetá / SP
+193,Avaí / SC,Oeste / SP
+194,Chapecoense / SC,Boa / MG
+195,Ceará / CE,São Caetano / SP
+196,América / RN,Figueirense / SC
+197,Paraná / PR,ABC / RN
+198,Atlético / GO,Palmeiras / SP
+199,Red Bull Bragantino / SP,Joinville / SC
+200,Sport / PE,Icasa / CE
+201,Oeste / SP,Chapecoense / SC
+202,Boa / MG,Red Bull Bragantino / SP
+203,Figueirense / SC,América / MG
+204,Joinville / SC,Atlético / GO
+205,Icasa / CE,América / RN
+206,ABC / RN,Sport / PE
+207,Palmeiras / SP,ASA / AL
+208,São Caetano / SP,Paraná / PR
+209,Guaratinguetá / SP,Avaí / SC
+210,Paysandu / PA,Ceará / CE
+211,ASA / AL,Joinville / SC
+212,América / MG,Palmeiras / SP
+213,Avaí / SC,Icasa / CE
+214,Chapecoense / SC,São Caetano / SP
+215,Ceará / CE,ABC / RN
+216,América / RN,Paysandu / PA
+217,Paraná / PR,Oeste / SP
+218,Atlético / GO,Boa / MG
+219,Guaratinguetá / SP,Red Bull Bragantino / SP
+220,Sport / PE,Figueirense / SC
+221,ASA / AL,Boa / MG
+222,América / MG,Icasa / CE
+223,Avaí / SC,Palmeiras / SP
+224,Chapecoense / SC,Figueirense / SC
+225,Ceará / CE,Oeste / SP
+226,América / RN,Joinville / SC
+227,Paraná / PR,Paysandu / PA
+228,Atlético / GO,São Caetano / SP
+229,Red Bull Bragantino / SP,ABC / RN
+230,Sport / PE,Guaratinguetá / SP
+231,Oeste / SP,América / MG
+232,Boa / MG,Ceará / CE
+233,Figueirense / SC,Paraná / PR
+234,Joinville / SC,Avaí / SC
+235,Icasa / CE,ASA / AL
+236,ABC / RN,Chapecoense / SC
+237,Palmeiras / SP,Sport / PE
+238,São Caetano / SP,Red Bull Bragantino / SP
+239,Guaratinguetá / SP,América / RN
+240,Paysandu / PA,Atlético / GO
+241,ASA / AL,Paraná / PR
+242,América / MG,Avaí / SC
+243,Figueirense / SC,Ceará / CE
+244,Joinville / SC,Guaratinguetá / SP
+245,Icasa / CE,Atlético / GO
+246,ABC / RN,Boa / MG
+247,Palmeiras / SP,América / RN
+248,São Caetano / SP,Oeste / SP
+249,Red Bull Bragantino / SP,Sport / PE
+250,Paysandu / PA,Chapecoense / SC
+251,Oeste / SP,Palmeiras / SP
+252,Boa / MG,Figueirense / SC
+253,Avaí / SC,São Caetano / SP
+254,Chapecoense / SC,ASA / AL
+255,Ceará / CE,Icasa / CE
+256,América / RN,Red Bull Bragantino / SP
+257,Paraná / PR,América / MG
+258,Atlético / GO,ABC / RN
+259,Guaratinguetá / SP,Paysandu / PA
+260,Sport / PE,Joinville / SC
+261,ASA / AL,Ceará / CE
+262,Boa / MG,Oeste / SP
+263,Figueirense / SC,Atlético / GO
+264,Chapecoense / SC,Joinville / SC
+265,Icasa / CE,Guaratinguetá / SP
+266,ABC / RN,Palmeiras / SP
+267,Paraná / PR,Avaí / SC
+268,São Caetano / SP,Paysandu / PA
+269,Red Bull Bragantino / SP,América / MG
+270,Sport / PE,América / RN
+271,Oeste / SP,Icasa / CE
+272,América / MG,Chapecoense / SC
+273,Avaí / SC,Sport / PE
+274,Joinville / SC,ABC / RN
+275,Ceará / CE,Red Bull Bragantino / SP
+276,América / RN,Paraná / PR
+277,Palmeiras / SP,Figueirense / SC
+278,Atlético / GO,ASA / AL
+279,Guaratinguetá / SP,São Caetano / SP
+280,Paysandu / PA,Boa / MG
+281,Oeste / SP,Sport / PE
+282,América / MG,Boa / MG
+283,Avaí / SC,Chapecoense / SC
+284,Joinville / SC,Icasa / CE
+285,Ceará / CE,Paraná / PR
+286,América / RN,Atlético / GO
+287,Palmeiras / SP,Guaratinguetá / SP
+288,São Caetano / SP,Figueirense / SC
+289,Red Bull Bragantino / SP,ASA / AL
+290,Paysandu / PA,ABC / RN
+291,ASA / AL,América / RN
+292,Boa / MG,Joinville / SC
+293,Figueirense / SC,Paysandu / PA
+294,Chapecoense / SC,Ceará / CE
+295,Icasa / CE,Palmeiras / SP
+296,ABC / RN,São Caetano / SP
+297,Paraná / PR,Red Bull Bragantino / SP
+298,Atlético / GO,Avaí / SC
+299,Guaratinguetá / SP,Oeste / SP
+300,Sport / PE,América / MG
+301,ASA / AL,Oeste / SP
+302,Boa / MG,América / RN
+303,Figueirense / SC,Joinville / SC
+304,Chapecoense / SC,Sport / PE
+305,Ceará / CE,América / MG
+306,ABC / RN,Guaratinguetá / SP
+307,Paraná / PR,Atlético / GO
+308,São Caetano / SP,Icasa / CE
+309,Red Bull Bragantino / SP,Palmeiras / SP
+310,Paysandu / PA,Avaí / SC
+311,Oeste / SP,ABC / RN
+312,América / MG,Paysandu / PA
+313,Avaí / SC,Red Bull Bragantino / SP
+314,Joinville / SC,Paraná / PR
+315,Icasa / CE,Figueirense / SC
+316,América / RN,Ceará / CE
+317,Palmeiras / SP,São Caetano / SP
+318,Atlético / GO,Chapecoense / SC
+319,Guaratinguetá / SP,Boa / MG
+320,Sport / PE,ASA / AL
+321,Oeste / SP,Red Bull Bragantino / SP
+322,América / MG,ASA / AL
+323,Avaí / SC,Figueirense / SC
+324,Joinville / SC,Paysandu / PA
+325,Icasa / CE,Boa / MG
+326,ABC / RN,América / RN
+327,Paraná / PR,Palmeiras / SP
+328,Atlético / GO,Ceará / CE
+329,Guaratinguetá / SP,Chapecoense / SC
+330,Sport / PE,São Caetano / SP
+331,ASA / AL,Avaí / SC
+332,Boa / MG,Paraná / PR
+333,Figueirense / SC,Guaratinguetá / SP
+334,Chapecoense / SC,América / RN
+335,Ceará / CE,Sport / PE
+336,ABC / RN,Icasa / CE
+337,Palmeiras / SP,Joinville / SC
+338,São Caetano / SP,América / MG
+339,Red Bull Bragantino / SP,Atlético / GO
+340,Paysandu / PA,Oeste / SP
+341,ASA / AL,Guaratinguetá / SP
+342,Boa / MG,São Caetano / SP
+343,Figueirense / SC,ABC / RN
+344,Joinville / SC,Oeste / SP
+345,Ceará / CE,Avaí / SC
+347,Paraná / PR,Chapecoense / SC
+348,Atlético / GO,Sport / PE
+349,Red Bull Bragantino / SP,Icasa / CE
+350,Paysandu / PA,Palmeiras / SP
+351,Oeste / SP,Figueirense / SC
+352,América / MG,Atlético / GO
+353,Avaí / SC,América / RN
+354,Chapecoense / SC,Red Bull Bragantino / SP
+355,Icasa / CE,Paysandu / PA
+356,ABC / RN,ASA / AL
+357,Palmeiras / SP,Boa / MG
+358,São Caetano / SP,Joinville / SC
+359,Guaratinguetá / SP,Ceará / CE
+360,Sport / PE,Paraná / PR
+361,Oeste / SP,Atlético / GO
+362,Boa / MG,Sport / PE
+363,Figueirense / SC,ASA / AL
+364,Joinville / SC,América / MG
+365,Icasa / CE,Chapecoense / SC
+366,ABC / RN,Avaí / SC
+367,Palmeiras / SP,Ceará / CE
+368,São Caetano / SP,América / RN
+369,Guaratinguetá / SP,Paraná / PR
+370,Paysandu / PA,Red Bull Bragantino / SP
+371,ASA / AL,São Caetano / SP
+372,América / MG,ABC / RN
+373,Avaí / SC,Boa / MG
+374,Chapecoense / SC,Palmeiras / SP
+375,Ceará / CE,Joinville / SC
+376,América / RN,Oeste / SP
+377,Paraná / PR,Icasa / CE
+378,Atlético / GO,Guaratinguetá / SP
+379,Red Bull Bragantino / SP,Figueirense / SC
+380,Sport / PE,Paysandu / PA

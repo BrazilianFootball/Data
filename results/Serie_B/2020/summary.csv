@@ -1,0 +1,380 @@
+Game,Home,Away
+001,Cruzeiro / MG,Botafogo / SP
+002,Avaí / SC,Náutico / PE
+003,CSA / AL,Guarani / SP
+004,Ponte Preta / SP,América / MG
+005,Oeste / SP,Chapecoense / SC
+006,Operário / PR,Figueirense / SC
+007,Juventude / RS,CRB / AL
+008,Vitória / BA,Sampaio Corrêa / MA
+009,Confiança / SE,Paraná / PR
+010,Cuiabá / MT,Brasil / RS
+011,América / MG,Cuiabá / MT
+012,Figueirense / SC,Vitória / BA
+013,CRB / AL,Oeste / SP
+014,Guarani / SP,Cruzeiro / MG
+015,Botafogo / SP,Confiança / SE
+016,Paraná / PR,Avaí / SC
+017,Brasil / RS,Ponte Preta / SP
+018,Náutico / PE,Operário / PR
+019,Sampaio Corrêa / MA,Juventude / RS
+020,Chapecoense / SC,CSA / AL
+021,América / MG,Operário / PR
+022,Figueirense / SC,Cruzeiro / MG
+023,CSA / AL,Cuiabá / MT
+024,Ponte Preta / SP,Vitória / BA
+025,Botafogo / SP,Guarani / SP
+026,Paraná / PR,Juventude / RS
+027,Brasil / RS,Oeste / SP
+028,Náutico / PE,CRB / AL
+029,Confiança / SE,Avaí / SC
+030,Chapecoense / SC,Sampaio Corrêa / MA
+031,Cruzeiro / MG,Chapecoense / SC
+032,Avaí / SC,Botafogo / SP
+033,CRB / AL,Brasil / RS
+034,Guarani / SP,Paraná / PR
+035,Oeste / SP,Ponte Preta / SP
+036,Operário / PR,CSA / AL
+037,Juventude / RS,América / MG
+038,Vitória / BA,Náutico / PE
+039,Sampaio Corrêa / MA,Figueirense / SC
+040,Cuiabá / MT,Confiança / SE
+041,América / MG,Oeste / SP
+042,Avaí / SC,Cuiabá / MT
+043,CRB / AL,Vitória / BA
+044,Ponte Preta / SP,CSA / AL
+045,Botafogo / SP,Figueirense / SC
+046,Paraná / PR,Operário / PR
+047,Brasil / RS,Sampaio Corrêa / MA
+048,Náutico / PE,Juventude / RS
+049,Confiança / SE,Cruzeiro / MG
+050,Chapecoense / SC,Guarani / SP
+051,Cruzeiro / MG,América / MG
+052,Figueirense / SC,Confiança / SE
+053,CSA / AL,CRB / AL
+054,Guarani / SP,Náutico / PE
+055,Oeste / SP,Avaí / SC
+056,Operário / PR,Brasil / RS
+057,Juventude / RS,Botafogo / SP
+058,Vitória / BA,Paraná / PR
+059,Sampaio Corrêa / MA,Ponte Preta / SP
+060,Cuiabá / MT,Chapecoense / SC
+061,América / MG,CSA / AL
+062,Avaí / SC,Operário / PR
+063,CRB / AL,Sampaio Corrêa / MA
+064,Guarani / SP,Oeste / SP
+065,Botafogo / SP,Cuiabá / MT
+066,Paraná / PR,Ponte Preta / SP
+067,Brasil / RS,Cruzeiro / MG
+068,Náutico / PE,Figueirense / SC
+069,Confiança / SE,Vitória / BA
+070,Chapecoense / SC,Juventude / RS
+071,Cruzeiro / MG,CRB / AL
+072,Figueirense / SC,Paraná / PR
+073,CSA / AL,Confiança / SE
+074,Ponte Preta / SP,Botafogo / SP
+075,Oeste / SP,Juventude / RS
+076,Operário / PR,Guarani / SP
+077,Brasil / RS,Náutico / PE
+078,Vitória / BA,Cuiabá / MT
+079,Sampaio Corrêa / MA,América / MG
+080,Chapecoense / SC,Avaí / SC
+081,Cruzeiro / MG,Vitória / BA
+082,Avaí / SC,Ponte Preta / SP
+083,CRB / AL,Chapecoense / SC
+084,Guarani / SP,Brasil / RS
+085,Oeste / SP,CSA / AL
+086,Paraná / PR,América / MG
+087,Juventude / RS,Confiança / SE
+088,Náutico / PE,Botafogo / SP
+089,Sampaio Corrêa / MA,Operário / PR
+090,Cuiabá / MT,Figueirense / SC
+091,América / MG,Figueirense / SC
+092,Avaí / SC,Sampaio Corrêa / MA
+093,CSA / AL,Cruzeiro / MG
+094,Ponte Preta / SP,Operário / PR
+095,Botafogo / SP,Brasil / RS
+096,Paraná / PR,CRB / AL
+097,Juventude / RS,Vitória / BA
+098,Náutico / PE,Chapecoense / SC
+099,Confiança / SE,Guarani / SP
+100,Cuiabá / MT,Oeste / SP
+101,Cruzeiro / MG,Avaí / SC
+102,Figueirense / SC,Guarani / SP
+103,CSA / AL,Juventude / RS
+104,Ponte Preta / SP,Confiança / SE
+105,Botafogo / SP,CRB / AL
+106,Operário / PR,Cuiabá / MT
+107,Brasil / RS,Paraná / PR
+108,Vitória / BA,Oeste / SP
+109,Sampaio Corrêa / MA,Náutico / PE
+110,Chapecoense / SC,América / MG
+111,Cruzeiro / MG,Ponte Preta / SP
+112,Avaí / SC,Figueirense / SC
+113,CRB / AL,América / MG
+114,Guarani / SP,Sampaio Corrêa / MA
+115,Oeste / SP,Botafogo / SP
+116,Paraná / PR,Chapecoense / SC
+117,Juventude / RS,Operário / PR
+118,Vitória / BA,CSA / AL
+119,Confiança / SE,Brasil / RS
+120,Cuiabá / MT,Náutico / PE
+121,América / MG,Guarani / SP
+122,Figueirense / SC,Oeste / SP
+123,CRB / AL,Avaí / SC
+124,Ponte Preta / SP,Juventude / RS
+125,Botafogo / SP,Paraná / PR
+126,Operário / PR,Vitória / BA
+127,Brasil / RS,Chapecoense / SC
+128,Náutico / PE,Confiança / SE
+129,Sampaio Corrêa / MA,CSA / AL
+130,Cuiabá / MT,Cruzeiro / MG
+131,Cruzeiro / MG,Sampaio Corrêa / MA
+132,Avaí / SC,Brasil / RS
+133,CSA / AL,Figueirense / SC
+134,Ponte Preta / SP,Guarani / SP
+136,Paraná / PR,Náutico / PE
+137,Juventude / RS,Cuiabá / MT
+138,Vitória / BA,América / MG
+139,Confiança / SE,CRB / AL
+140,Chapecoense / SC,Botafogo / SP
+141,América / MG,Náutico / PE
+142,Figueirense / SC,Chapecoense / SC
+143,CSA / AL,Paraná / PR
+144,Guarani / SP,CRB / AL
+145,Oeste / SP,Cruzeiro / MG
+146,Operário / PR,Confiança / SE
+147,Juventude / RS,Brasil / RS
+148,Vitória / BA,Avaí / SC
+149,Sampaio Corrêa / MA,Botafogo / SP
+150,Cuiabá / MT,Ponte Preta / SP
+151,Cruzeiro / MG,Juventude / RS
+152,Avaí / SC,CSA / AL
+153,CRB / AL,Operário / PR
+154,Guarani / SP,Cuiabá / MT
+155,Botafogo / SP,América / MG
+156,Paraná / PR,Sampaio Corrêa / MA
+157,Brasil / RS,Figueirense / SC
+158,Náutico / PE,Ponte Preta / SP
+159,Confiança / SE,Oeste / SP
+160,Chapecoense / SC,Vitória / BA
+161,América / MG,Brasil / RS
+162,Figueirense / SC,CRB / AL
+163,CSA / AL,Botafogo / SP
+164,Ponte Preta / SP,Chapecoense / SC
+165,Oeste / SP,Náutico / PE
+166,Operário / PR,Cruzeiro / MG
+167,Juventude / RS,Avaí / SC
+168,Vitória / BA,Guarani / SP
+169,Sampaio Corrêa / MA,Confiança / SE
+170,Cuiabá / MT,Paraná / PR
+171,América / MG,Confiança / SE
+172,Figueirense / SC,Juventude / RS
+173,CRB / AL,Ponte Preta / SP
+174,Guarani / SP,Avaí / SC
+175,Botafogo / SP,Vitória / BA
+176,Paraná / PR,Oeste / SP
+177,Brasil / RS,CSA / AL
+178,Náutico / PE,Cruzeiro / MG
+179,Sampaio Corrêa / MA,Cuiabá / MT
+180,Chapecoense / SC,Operário / PR
+181,Cruzeiro / MG,Paraná / PR
+182,Avaí / SC,América / MG
+183,CSA / AL,Náutico / PE
+184,Ponte Preta / SP,Figueirense / SC
+185,Oeste / SP,Sampaio Corrêa / MA
+186,Operário / PR,Botafogo / SP
+187,Juventude / RS,Guarani / SP
+188,Vitória / BA,Brasil / RS
+189,Confiança / SE,Chapecoense / SC
+190,Cuiabá / MT,CRB / AL
+191,América / MG,Ponte Preta / SP
+192,Figueirense / SC,Operário / PR
+193,CRB / AL,Juventude / RS
+194,Guarani / SP,CSA / AL
+195,Botafogo / SP,Cruzeiro / MG
+196,Paraná / PR,Confiança / SE
+197,Brasil / RS,Cuiabá / MT
+198,Náutico / PE,Avaí / SC
+199,Sampaio Corrêa / MA,Vitória / BA
+200,Chapecoense / SC,Oeste / SP
+201,Cruzeiro / MG,Guarani / SP
+202,Avaí / SC,Paraná / PR
+203,CSA / AL,Chapecoense / SC
+204,Ponte Preta / SP,Brasil / RS
+205,Oeste / SP,CRB / AL
+206,Operário / PR,Náutico / PE
+207,Juventude / RS,Sampaio Corrêa / MA
+208,Vitória / BA,Figueirense / SC
+209,Confiança / SE,Botafogo / SP
+210,Cuiabá / MT,América / MG
+211,Cruzeiro / MG,Figueirense / SC
+212,Avaí / SC,Confiança / SE
+213,CRB / AL,Náutico / PE
+214,Guarani / SP,Botafogo / SP
+215,Oeste / SP,Brasil / RS
+216,Operário / PR,América / MG
+217,Juventude / RS,Paraná / PR
+218,Vitória / BA,Ponte Preta / SP
+219,Sampaio Corrêa / MA,Chapecoense / SC
+220,Cuiabá / MT,CSA / AL
+221,América / MG,Juventude / RS
+222,Figueirense / SC,Sampaio Corrêa / MA
+223,CSA / AL,Operário / PR
+224,Ponte Preta / SP,Oeste / SP
+225,Botafogo / SP,Avaí / SC
+226,Paraná / PR,Guarani / SP
+227,Brasil / RS,CRB / AL
+228,Náutico / PE,Vitória / BA
+229,Confiança / SE,Cuiabá / MT
+230,Chapecoense / SC,Cruzeiro / MG
+231,Cruzeiro / MG,Confiança / SE
+232,Figueirense / SC,Botafogo / SP
+233,CSA / AL,Ponte Preta / SP
+234,Guarani / SP,Chapecoense / SC
+235,Oeste / SP,América / MG
+236,Operário / PR,Paraná / PR
+237,Juventude / RS,Náutico / PE
+238,Vitória / BA,CRB / AL
+239,Sampaio Corrêa / MA,Brasil / RS
+240,Cuiabá / MT,Avaí / SC
+241,América / MG,Cruzeiro / MG
+242,Avaí / SC,Oeste / SP
+243,CRB / AL,CSA / AL
+244,Ponte Preta / SP,Sampaio Corrêa / MA
+245,Botafogo / SP,Juventude / RS
+246,Paraná / PR,Vitória / BA
+247,Brasil / RS,Operário / PR
+248,Náutico / PE,Guarani / SP
+249,Confiança / SE,Figueirense / SC
+250,Chapecoense / SC,Cuiabá / MT
+251,Cruzeiro / MG,Brasil / RS
+252,Figueirense / SC,Náutico / PE
+253,CSA / AL,América / MG
+254,Ponte Preta / SP,Paraná / PR
+255,Oeste / SP,Guarani / SP
+256,Operário / PR,Avaí / SC
+257,Juventude / RS,Chapecoense / SC
+258,Vitória / BA,Confiança / SE
+259,Sampaio Corrêa / MA,CRB / AL
+260,Cuiabá / MT,Botafogo / SP
+261,América / MG,Sampaio Corrêa / MA
+262,Avaí / SC,Chapecoense / SC
+263,CRB / AL,Cruzeiro / MG
+264,Guarani / SP,Operário / PR
+265,Botafogo / SP,Ponte Preta / SP
+266,Paraná / PR,Figueirense / SC
+267,Juventude / RS,Oeste / SP
+268,Náutico / PE,Brasil / RS
+269,Confiança / SE,CSA / AL
+270,Cuiabá / MT,Vitória / BA
+271,América / MG,Paraná / PR
+272,Figueirense / SC,Cuiabá / MT
+273,CSA / AL,Oeste / SP
+274,Ponte Preta / SP,Avaí / SC
+275,Botafogo / SP,Náutico / PE
+276,Operário / PR,Sampaio Corrêa / MA
+277,Brasil / RS,Guarani / SP
+278,Vitória / BA,Cruzeiro / MG
+279,Confiança / SE,Juventude / RS
+280,Chapecoense / SC,CRB / AL
+281,Cruzeiro / MG,CSA / AL
+282,Figueirense / SC,América / MG
+283,CRB / AL,Paraná / PR
+284,Guarani / SP,Confiança / SE
+285,Oeste / SP,Cuiabá / MT
+286,Operário / PR,Ponte Preta / SP
+287,Brasil / RS,Botafogo / SP
+288,Vitória / BA,Juventude / RS
+289,Sampaio Corrêa / MA,Avaí / SC
+290,Chapecoense / SC,Náutico / PE
+291,América / MG,Chapecoense / SC
+292,Avaí / SC,Cruzeiro / MG
+293,CRB / AL,Botafogo / SP
+294,Guarani / SP,Figueirense / SC
+295,Oeste / SP,Vitória / BA
+296,Paraná / PR,Brasil / RS
+297,Juventude / RS,CSA / AL
+298,Náutico / PE,Sampaio Corrêa / MA
+299,Confiança / SE,Ponte Preta / SP
+300,Cuiabá / MT,Operário / PR
+301,América / MG,CRB / AL
+302,Figueirense / SC,Avaí / SC
+303,CSA / AL,Vitória / BA
+304,Ponte Preta / SP,Cruzeiro / MG
+305,Botafogo / SP,Oeste / SP
+306,Operário / PR,Juventude / RS
+307,Brasil / RS,Confiança / SE
+308,Náutico / PE,Cuiabá / MT
+309,Sampaio Corrêa / MA,Guarani / SP
+310,Chapecoense / SC,Paraná / PR
+311,Cruzeiro / MG,Cuiabá / MT
+312,Avaí / SC,CRB / AL
+313,CSA / AL,Sampaio Corrêa / MA
+314,Guarani / SP,América / MG
+315,Oeste / SP,Figueirense / SC
+316,Paraná / PR,Botafogo / SP
+317,Juventude / RS,Ponte Preta / SP
+318,Vitória / BA,Operário / PR
+319,Confiança / SE,Náutico / PE
+320,Chapecoense / SC,Brasil / RS
+321,América / MG,Vitória / BA
+322,Figueirense / SC,CSA / AL
+323,CRB / AL,Confiança / SE
+324,Guarani / SP,Ponte Preta / SP
+325,Botafogo / SP,Chapecoense / SC
+326,Operário / PR,Oeste / SP
+327,Brasil / RS,Avaí / SC
+328,Náutico / PE,Paraná / PR
+329,Sampaio Corrêa / MA,Cruzeiro / MG
+330,Cuiabá / MT,Juventude / RS
+331,Cruzeiro / MG,Oeste / SP
+332,Avaí / SC,Vitória / BA
+333,CRB / AL,Guarani / SP
+334,Ponte Preta / SP,Cuiabá / MT
+335,Botafogo / SP,Sampaio Corrêa / MA
+336,Paraná / PR,CSA / AL
+337,Brasil / RS,Juventude / RS
+338,Náutico / PE,América / MG
+339,Confiança / SE,Operário / PR
+340,Chapecoense / SC,Figueirense / SC
+341,América / MG,Botafogo / SP
+342,Figueirense / SC,Brasil / RS
+343,CSA / AL,Avaí / SC
+344,Ponte Preta / SP,Náutico / PE
+345,Oeste / SP,Confiança / SE
+346,Operário / PR,CRB / AL
+347,Juventude / RS,Cruzeiro / MG
+348,Vitória / BA,Chapecoense / SC
+349,Sampaio Corrêa / MA,Paraná / PR
+350,Cuiabá / MT,Guarani / SP
+351,Cruzeiro / MG,Operário / PR
+352,Avaí / SC,Juventude / RS
+353,CRB / AL,Figueirense / SC
+354,Guarani / SP,Vitória / BA
+355,Botafogo / SP,CSA / AL
+356,Paraná / PR,Cuiabá / MT
+357,Brasil / RS,América / MG
+358,Náutico / PE,Oeste / SP
+359,Confiança / SE,Sampaio Corrêa / MA
+360,Chapecoense / SC,Ponte Preta / SP
+361,Cruzeiro / MG,Náutico / PE
+362,Avaí / SC,Guarani / SP
+363,CSA / AL,Brasil / RS
+364,Ponte Preta / SP,CRB / AL
+365,Oeste / SP,Paraná / PR
+366,Operário / PR,Chapecoense / SC
+367,Juventude / RS,Figueirense / SC
+368,Vitória / BA,Botafogo / SP
+369,Confiança / SE,América / MG
+370,Cuiabá / MT,Sampaio Corrêa / MA
+371,América / MG,Avaí / SC
+372,Figueirense / SC,Ponte Preta / SP
+373,CRB / AL,Cuiabá / MT
+374,Guarani / SP,Juventude / RS
+375,Botafogo / SP,Operário / PR
+376,Paraná / PR,Cruzeiro / MG
+377,Brasil / RS,Vitória / BA
+378,Náutico / PE,CSA / AL
+379,Sampaio Corrêa / MA,Oeste / SP
+380,Chapecoense / SC,Confiança / SE

@@ -1,0 +1,195 @@
+Game,Home,Away
+001,ABC / RN,Náutico / PE
+002,Imperatriz / MA,Globo / RN
+003,Santa Cruz / PE,Treze / PB
+004,Botafogo / PB,Ferroviário / CE
+005,Confiança / SE,Sampaio Corrêa / MA
+006,Luverdense / MT,Juventude / RS
+007,Remo / PA,Boa / MG
+008,Tombense / MG,São José / RS
+009,Ypiranga / RS,Paysandu / PA
+010,Volta Redonda / RJ,Atlético / AC
+011,Globo / RN,Confiança / SE
+012,Sampaio Corrêa / MA,Botafogo / PB
+013,Náutico / PE,Imperatriz / MA
+014,Treze / PB,ABC / RN
+015,Ferroviário / CE,Santa Cruz / PE
+016,Atlético / AC,Ypiranga / RS
+017,Paysandu / PA,Tombense / MG
+018,Boa / MG,Volta Redonda / RJ
+019,Juventude / RS,Remo / PA
+020,São José / RS,Luverdense / MT
+021,Globo / RN,Sampaio Corrêa / MA
+022,Imperatriz / MA,Treze / PB
+023,Náutico / PE,Ferroviário / CE
+024,Botafogo / PB,Santa Cruz / PE
+025,Confiança / SE,ABC / RN
+026,Luverdense / MT,Remo / PA
+027,Paysandu / PA,Juventude / RS
+028,Boa / MG,Atlético / AC
+029,Ypiranga / RS,São José / RS
+030,Volta Redonda / RJ,Tombense / MG
+031,ABC / RN,Botafogo / PB
+032,Imperatriz / MA,Confiança / SE
+033,Santa Cruz / PE,Sampaio Corrêa / MA
+034,Treze / PB,Náutico / PE
+035,Ferroviário / CE,Globo / RN
+036,Atlético / AC,São José / RS
+037,Remo / PA,Ypiranga / RS
+038,Tombense / MG,Luverdense / MT
+039,Juventude / RS,Boa / MG
+040,Volta Redonda / RJ,Paysandu / PA
+041,Globo / RN,Treze / PB
+042,Sampaio Corrêa / MA,Ferroviário / CE
+043,Santa Cruz / PE,ABC / RN
+044,Botafogo / PB,Imperatriz / MA
+045,Confiança / SE,Náutico / PE
+046,Luverdense / MT,Volta Redonda / RJ
+047,Remo / PA,Atlético / AC
+048,Boa / MG,Paysandu / PA
+049,Ypiranga / RS,Tombense / MG
+050,São José / RS,Juventude / RS
+051,ABC / RN,Ferroviário / CE
+052,Imperatriz / MA,Santa Cruz / PE
+053,Náutico / PE,Globo / RN
+054,Treze / PB,Sampaio Corrêa / MA
+055,Confiança / SE,Botafogo / PB
+056,Luverdense / MT,Boa / MG
+057,Paysandu / PA,São José / RS
+058,Tombense / MG,Remo / PA
+059,Juventude / RS,Atlético / AC
+060,Volta Redonda / RJ,Ypiranga / RS
+061,ABC / RN,Imperatriz / MA
+062,Sampaio Corrêa / MA,Náutico / PE
+063,Santa Cruz / PE,Confiança / SE
+064,Botafogo / PB,Globo / RN
+065,Ferroviário / CE,Treze / PB
+066,Atlético / AC,Paysandu / PA
+067,Remo / PA,Volta Redonda / RJ
+068,Tombense / MG,Juventude / RS
+069,Ypiranga / RS,Luverdense / MT
+070,São José / RS,Boa / MG
+071,Globo / RN,Santa Cruz / PE
+072,Sampaio Corrêa / MA,ABC / RN
+073,Náutico / PE,Botafogo / PB
+074,Treze / PB,Confiança / SE
+075,Ferroviário / CE,Imperatriz / MA
+076,Atlético / AC,Tombense / MG
+077,Paysandu / PA,Luverdense / MT
+078,Boa / MG,Ypiranga / RS
+079,Juventude / RS,Volta Redonda / RJ
+080,São José / RS,Remo / PA
+081,ABC / RN,Globo / RN
+082,Imperatriz / MA,Sampaio Corrêa / MA
+083,Santa Cruz / PE,Náutico / PE
+084,Botafogo / PB,Treze / PB
+085,Confiança / SE,Ferroviário / CE
+086,Luverdense / MT,Atlético / AC
+087,Remo / PA,Paysandu / PA
+088,Tombense / MG,Boa / MG
+089,Ypiranga / RS,Juventude / RS
+090,Volta Redonda / RJ,São José / RS
+091,Globo / RN,Imperatriz / MA
+092,Sampaio Corrêa / MA,Confiança / SE
+093,Náutico / PE,ABC / RN
+094,Treze / PB,Santa Cruz / PE
+095,Ferroviário / CE,Botafogo / PB
+096,Atlético / AC,Volta Redonda / RJ
+097,Paysandu / PA,Ypiranga / RS
+098,Boa / MG,Remo / PA
+099,Juventude / RS,Luverdense / MT
+100,São José / RS,Tombense / MG
+101,ABC / RN,Treze / PB
+102,Imperatriz / MA,Náutico / PE
+103,Santa Cruz / PE,Ferroviário / CE
+104,Botafogo / PB,Sampaio Corrêa / MA
+105,Confiança / SE,Globo / RN
+106,Luverdense / MT,São José / RS
+107,Remo / PA,Juventude / RS
+108,Tombense / MG,Paysandu / PA
+109,Ypiranga / RS,Atlético / AC
+110,Volta Redonda / RJ,Boa / MG
+111,ABC / RN,Confiança / SE
+112,Sampaio Corrêa / MA,Globo / RN
+113,Santa Cruz / PE,Botafogo / PB
+114,Treze / PB,Imperatriz / MA
+115,Ferroviário / CE,Náutico / PE
+116,Atlético / AC,Boa / MG
+117,Remo / PA,Luverdense / MT
+118,Tombense / MG,Volta Redonda / RJ
+119,Juventude / RS,Paysandu / PA
+120,São José / RS,Ypiranga / RS
+121,Globo / RN,Ferroviário / CE
+122,Sampaio Corrêa / MA,Santa Cruz / PE
+123,Náutico / PE,Treze / PB
+124,Botafogo / PB,ABC / RN
+125,Confiança / SE,Imperatriz / MA
+126,Luverdense / MT,Tombense / MG
+127,Paysandu / PA,Volta Redonda / RJ
+128,Boa / MG,Juventude / RS
+129,Ypiranga / RS,Remo / PA
+130,São José / RS,Atlético / AC
+131,ABC / RN,Santa Cruz / PE
+132,Imperatriz / MA,Botafogo / PB
+133,Náutico / PE,Confiança / SE
+134,Treze / PB,Globo / RN
+135,Ferroviário / CE,Sampaio Corrêa / MA
+136,Atlético / AC,Remo / PA
+137,Paysandu / PA,Boa / MG
+138,Tombense / MG,Ypiranga / RS
+139,Juventude / RS,São José / RS
+140,Volta Redonda / RJ,Luverdense / MT
+141,Globo / RN,Náutico / PE
+142,Sampaio Corrêa / MA,Treze / PB
+143,Santa Cruz / PE,Imperatriz / MA
+144,Botafogo / PB,Confiança / SE
+145,Ferroviário / CE,ABC / RN
+146,Atlético / AC,Juventude / RS
+147,Remo / PA,Tombense / MG
+148,Boa / MG,Luverdense / MT
+149,Ypiranga / RS,Volta Redonda / RJ
+150,São José / RS,Paysandu / PA
+151,Globo / RN,Botafogo / PB
+152,Imperatriz / MA,ABC / RN
+153,Náutico / PE,Sampaio Corrêa / MA
+154,Treze / PB,Ferroviário / CE
+155,Confiança / SE,Santa Cruz / PE
+156,Luverdense / MT,Ypiranga / RS
+157,Paysandu / PA,Atlético / AC
+158,Boa / MG,São José / RS
+159,Juventude / RS,Tombense / MG
+160,Volta Redonda / RJ,Remo / PA
+161,ABC / RN,Sampaio Corrêa / MA
+162,Imperatriz / MA,Ferroviário / CE
+163,Santa Cruz / PE,Globo / RN
+164,Botafogo / PB,Náutico / PE
+165,Confiança / SE,Treze / PB
+166,Luverdense / MT,Paysandu / PA
+167,Remo / PA,São José / RS
+168,Tombense / MG,Atlético / AC
+169,Ypiranga / RS,Boa / MG
+170,Volta Redonda / RJ,Juventude / RS
+171,Globo / RN,ABC / RN
+172,Sampaio Corrêa / MA,Imperatriz / MA
+173,Náutico / PE,Santa Cruz / PE
+174,Treze / PB,Botafogo / PB
+175,Ferroviário / CE,Confiança / SE
+176,Atlético / AC,Luverdense / MT
+177,Paysandu / PA,Remo / PA
+178,Boa / MG,Tombense / MG
+179,Juventude / RS,Ypiranga / RS
+180,São José / RS,Volta Redonda / RJ
+181,Paysandu / PA,Náutico / PE
+182,Imperatriz / MA,Juventude / RS
+183,Confiança / SE,Ypiranga / RS
+184,São José / RS,Sampaio Corrêa / MA
+185,Náutico / PE,Paysandu / PA
+186,Juventude / RS,Imperatriz / MA
+187,Ypiranga / RS,Confiança / SE
+188,Sampaio Corrêa / MA,São José / RS
+189,Confiança / SE,Sampaio Corrêa / MA
+190,Juventude / RS,Náutico / PE
+191,Sampaio Corrêa / MA,Confiança / SE
+192,Náutico / PE,Juventude / RS
+193,Náutico / PE,Sampaio Corrêa / MA
+194,Sampaio Corrêa / MA,Náutico / PE

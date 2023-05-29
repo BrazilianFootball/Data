@@ -1,0 +1,188 @@
+Game,Home,Away
+002,Nautico / RR,Nacional / AM
+003,Paragominas / PA,Genus / RO
+004,Nacional / AM,Plácido de Castro / AC
+005,Plácido de Castro / AC,Nautico / RR
+006,Genus / RO,Nacional / AM
+007,Paragominas / PA,Nautico / RR
+008,Genus / RO,Plácido de Castro / AC
+009,Nautico / RR,Genus / RO
+010,Nacional / AM,Paragominas / PA
+011,Nautico / RR,Paragominas / PA
+012,Plácido de Castro / AC,Genus / RO
+013,Paragominas / PA,Nacional / AM
+014,Genus / RO,Nautico / RR
+015,Nautico / RR,Plácido de Castro / AC
+016,Nacional / AM,Genus / RO
+017,Genus / RO,Paragominas / PA
+018,Plácido de Castro / AC,Nacional / AM
+019,Paragominas / PA,Plácido de Castro / AC
+020,Nacional / AM,Nautico / RR
+021,Salgueiro / PE,Parnahyba / PI
+022,Gurupi / TO,Maranhão / MA
+023,Parnahyba / PI,Ypiranga / AP
+024,Maranhão / MA,Salgueiro / PE
+025,Salgueiro / PE,Gurupi / TO
+027,Parnahyba / PI,Gurupi / TO
+028,Ypiranga / AP,Salgueiro / PE
+030,Maranhão / MA,Parnahyba / PI
+031,Gurupi / TO,Parnahyba / PI
+032,Salgueiro / PE,Ypiranga / AP
+033,Parnahyba / PI,Maranhão / MA
+034,Ypiranga / AP,Gurupi / TO
+035,Gurupi / TO,Salgueiro / PE
+036,Maranhão / MA,Ypiranga / AP
+037,Ypiranga / AP,Parnahyba / PI
+038,Salgueiro / PE,Maranhão / MA
+039,Parnahyba / PI,Salgueiro / PE
+040,Maranhão / MA,Gurupi / TO
+041,Tiradentes / CE,Central / PE
+042,Ypiranga / PE,Guarany / CE
+043,Central / PE,Potiguar / RN
+044,Guarany / CE,Tiradentes / CE
+045,Tiradentes / CE,Ypiranga / PE
+046,Potiguar / RN,Guarany / CE
+047,Central / PE,Ypiranga / PE
+048,Potiguar / RN,Tiradentes / CE
+049,Ypiranga / PE,Potiguar / RN
+050,Guarany / CE,Central / PE
+051,Ypiranga / PE,Central / PE
+052,Tiradentes / CE,Potiguar / RN
+053,Central / PE,Guarany / CE
+054,Potiguar / RN,Ypiranga / PE
+055,Ypiranga / PE,Tiradentes / CE
+056,Guarany / CE,Potiguar / RN
+057,Potiguar / RN,Central / PE
+058,Tiradentes / CE,Guarany / CE
+059,Central / PE,Tiradentes / CE
+060,Guarany / CE,Ypiranga / PE
+061,Sergipe / SE,Vitória da Conquista / BA
+062,Juazeirense / BA,Botafogo / PB
+063,Vitória da Conquista / BA,CSA / AL
+064,Botafogo / PB,Sergipe / SE
+065,Sergipe / SE,Juazeirense / BA
+066,CSA / AL,Botafogo / PB
+067,Vitória da Conquista / BA,Juazeirense / BA
+068,CSA / AL,Sergipe / SE
+069,Juazeirense / BA,CSA / AL
+070,Botafogo / PB,Vitória da Conquista / BA
+071,Juazeirense / BA,Vitória da Conquista / BA
+072,Sergipe / SE,CSA / AL
+073,Vitória da Conquista / BA,Botafogo / PB
+074,CSA / AL,Juazeirense / BA
+075,Juazeirense / BA,Sergipe / SE
+076,Botafogo / PB,CSA / AL
+077,CSA / AL,Vitória da Conquista / BA
+078,Sergipe / SE,Botafogo / PB
+079,Vitória da Conquista / BA,Sergipe / SE
+080,Botafogo / PB,Juazeirense / BA
+081,Mixto / MT,Aparecidense / GO
+082,Goianesia / GO,Águia Negra / MS
+083,Aparecidense / GO,Brasília / DF
+084,Águia Negra / MS,Mixto / MT
+085,Mixto / MT,Goianesia / GO
+086,Brasília / DF,Águia Negra / MS
+087,Aparecidense / GO,Goianesia / GO
+088,Brasília / DF,Mixto / MT
+089,Goianesia / GO,Brasília / DF
+090,Águia Negra / MS,Aparecidense / GO
+091,Goianesia / GO,Aparecidense / GO
+092,Mixto / MT,Brasília / DF
+093,Aparecidense / GO,Águia Negra / MS
+094,Brasília / DF,Goianesia / GO
+095,Goianesia / GO,Mixto / MT
+096,Águia Negra / MS,Brasília / DF
+097,Brasília / DF,Aparecidense / GO
+098,Mixto / MT,Águia Negra / MS
+099,Aparecidense / GO,Mixto / MT
+100,Águia Negra / MS,Goianesia / GO
+101,Araxá / MG,Nova Iguaçu / RJ
+102,Aracruz / ES,Tupi / MG
+103,Nova Iguaçu / RJ,Resende / RJ
+104,Tupi / MG,Araxá / MG
+105,Araxá / MG,Aracruz / ES
+106,Resende / RJ,Tupi / MG
+107,Nova Iguaçu / RJ,Aracruz / ES
+108,Resende / RJ,Araxá / MG
+109,Aracruz / ES,Resende / RJ
+110,Tupi / MG,Nova Iguaçu / RJ
+111,Aracruz / ES,Nova Iguaçu / RJ
+112,Araxá / MG,Resende / RJ
+113,Nova Iguaçu / RJ,Tupi / MG
+114,Resende / RJ,Aracruz / ES
+115,Aracruz / ES,Araxá / MG
+116,Tupi / MG,Resende / RJ
+117,Resende / RJ,Nova Iguaçu / RJ
+118,Araxá / MG,Tupi / MG
+119,Nova Iguaçu / RJ,Araxá / MG
+120,Tupi / MG,Aracruz / ES
+121,Marcílio Dias / SC,Santo André / SP
+122,Penapolense / SP,Juventude / RS
+123,Santo André / SP,Villa Nova / MG
+124,Juventude / RS,Marcílio Dias / SC
+125,Marcílio Dias / SC,Penapolense / SP
+126,Villa Nova / MG,Juventude / RS
+127,Santo André / SP,Penapolense / SP
+128,Villa Nova / MG,Marcílio Dias / SC
+129,Penapolense / SP,Villa Nova / MG
+130,Juventude / RS,Santo André / SP
+131,Penapolense / SP,Santo André / SP
+132,Marcílio Dias / SC,Villa Nova / MG
+133,Santo André / SP,Juventude / RS
+134,Villa Nova / MG,Penapolense / SP
+135,Penapolense / SP,Marcílio Dias / SC
+136,Juventude / RS,Villa Nova / MG
+137,Villa Nova / MG,Santo André / SP
+138,Marcílio Dias / SC,Juventude / RS
+139,Santo André / SP,Marcílio Dias / SC
+140,Juventude / RS,Penapolense / SP
+141,Lajeadense / RS,J. Malucelli / PR
+142,Botafogo / SP,Metropolitano / SC
+143,J. Malucelli / PR,Londrina / PR
+144,Metropolitano / SC,Lajeadense / RS
+145,Lajeadense / RS,Botafogo / SP
+146,Londrina / PR,Metropolitano / SC
+147,J. Malucelli / PR,Botafogo / SP
+148,Londrina / PR,Lajeadense / RS
+149,Botafogo / SP,Londrina / PR
+150,Metropolitano / SC,J. Malucelli / PR
+151,Botafogo / SP,J. Malucelli / PR
+152,Lajeadense / RS,Londrina / PR
+153,J. Malucelli / PR,Metropolitano / SC
+154,Londrina / PR,Botafogo / SP
+155,Botafogo / SP,Lajeadense / RS
+156,Metropolitano / SC,Londrina / PR
+157,Londrina / PR,J. Malucelli / PR
+158,Lajeadense / RS,Metropolitano / SC
+159,J. Malucelli / PR,Lajeadense / RS
+160,Metropolitano / SC,Botafogo / SP
+161,Salgueiro / PE,Nacional / AM
+162,Nacional / AM,Salgueiro / PE
+163,Plácido de Castro / AC,Gurupi / TO
+164,Gurupi / TO,Plácido de Castro / AC
+165,Sergipe / SE,Tiradentes / CE
+166,Tiradentes / CE,Sergipe / SE
+167,Central / PE,Botafogo / PB
+168,Botafogo / PB,Central / PE
+169,Resende / RJ,Mixto / MT
+170,Mixto / MT,Resende / RJ
+171,Aparecidense / GO,Tupi / MG
+172,Tupi / MG,Aparecidense / GO
+173,Londrina / PR,Juventude / RS
+174,Juventude / RS,Londrina / PR
+175,Santo André / SP,Metropolitano / SC
+176,Metropolitano / SC,Santo André / SP
+177,Plácido de Castro / AC,Salgueiro / PE
+178,Salgueiro / PE,Plácido de Castro / AC
+179,Botafogo / PB,Tiradentes / CE
+180,Tiradentes / CE,Botafogo / PB
+181,Mixto / MT,Tupi / MG
+182,Tupi / MG,Mixto / MT
+183,Metropolitano / SC,Juventude / RS
+184,Juventude / RS,Metropolitano / SC
+185,Salgueiro / PE,Botafogo / PB
+186,Botafogo / PB,Salgueiro / PE
+187,Juventude / RS,Tupi / MG
+188,Tupi / MG,Juventude / RS
+189,Juventude / RS,Botafogo / PB
+190,Botafogo / PB,Juventude / RS

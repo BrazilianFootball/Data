@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Ponte Preta / SP,Paysandu / PA
+002,Oeste / SP,CRB / AL
+003,Brasil / RS,São Bento / SP
+004,Figueirense / SC,Juventude / RS
+005,Fortaleza / CE,Guarani / SP
+006,Vila Nova / GO,Avaí / SC
+007,Atlético / GO,Criciúma / SC
+008,CSA / AL,Goiás / GO
+009,Londrina / PR,Boa / MG
+010,Sampaio Corrêa / MA,Coritiba / PR
+011,Guarani / SP,Sampaio Corrêa / MA
+012,São Bento / SP,CSA / AL
+013,Juventude / RS,Oeste / SP
+014,Avaí / SC,Brasil / RS
+015,Criciúma / SC,Ponte Preta / SP
+016,Goiás / GO,Figueirense / SC
+017,Boa / MG,Fortaleza / CE
+018,CRB / AL,Vila Nova / GO
+019,Coritiba / PR,Atlético / GO
+020,Paysandu / PA,Londrina / PR
+021,Ponte Preta / SP,Londrina / PR
+022,São Bento / SP,Goiás / GO
+023,Juventude / RS,Avaí / SC
+024,Figueirense / SC,Boa / MG
+025,Fortaleza / CE,CRB / AL
+026,Vila Nova / GO,Sampaio Corrêa / MA
+027,Atlético / GO,Guarani / SP
+028,CSA / AL,Oeste / SP
+029,Coritiba / PR,Criciúma / SC
+030,Paysandu / PA,Brasil / RS
+031,Guarani / SP,Ponte Preta / SP
+032,Oeste / SP,Coritiba / PR
+033,Brasil / RS,Figueirense / SC
+034,Avaí / SC,São Bento / SP
+035,Criciúma / SC,CSA / AL
+036,Goiás / GO,Vila Nova / GO
+037,Boa / MG,Juventude / RS
+038,CRB / AL,Atlético / GO
+039,Londrina / PR,Fortaleza / CE
+040,Sampaio Corrêa / MA,Paysandu / PA
+041,Guarani / SP,Criciúma / SC
+042,São Bento / SP,Oeste / SP
+043,Juventude / RS,Paysandu / PA
+044,Figueirense / SC,Avaí / SC
+045,Fortaleza / CE,Goiás / GO
+046,Vila Nova / GO,Ponte Preta / SP
+047,Atlético / GO,Londrina / PR
+048,CSA / AL,Boa / MG
+049,Coritiba / PR,Brasil / RS
+050,Sampaio Corrêa / MA,CRB / AL
+051,Ponte Preta / SP,Atlético / GO
+052,Oeste / SP,Vila Nova / GO
+053,Brasil / RS,Sampaio Corrêa / MA
+054,Figueirense / SC,Fortaleza / CE
+055,Criciúma / SC,Juventude / RS
+056,Goiás / GO,Guarani / SP
+057,Boa / MG,Coritiba / PR
+058,CRB / AL,Avaí / SC
+059,Londrina / PR,CSA / AL
+060,Paysandu / PA,São Bento / SP
+061,Guarani / SP,CRB / AL
+062,São Bento / SP,Juventude / RS
+063,Brasil / RS,Londrina / PR
+064,Avaí / SC,Paysandu / PA
+065,Fortaleza / CE,Criciúma / SC
+066,Goiás / GO,Boa / MG
+067,Atlético / GO,Oeste / SP
+068,CSA / AL,Figueirense / SC
+069,Coritiba / PR,Vila Nova / GO
+070,Sampaio Corrêa / MA,Ponte Preta / SP
+071,Ponte Preta / SP,Oeste / SP
+072,São Bento / SP,Figueirense / SC
+073,Juventude / RS,Guarani / SP
+074,Avaí / SC,Criciúma / SC
+075,Fortaleza / CE,Sampaio Corrêa / MA
+076,Vila Nova / GO,CSA / AL
+077,Atlético / GO,Goiás / GO
+078,CRB / AL,Brasil / RS
+079,Londrina / PR,Coritiba / PR
+080,Paysandu / PA,Boa / MG
+081,Ponte Preta / SP,Goiás / GO
+082,Oeste / SP,Brasil / RS
+083,Juventude / RS,Atlético / GO
+084,Figueirense / SC,Londrina / PR
+085,Criciúma / SC,Paysandu / PA
+086,Vila Nova / GO,Fortaleza / CE
+087,Boa / MG,São Bento / SP
+088,CSA / AL,Guarani / SP
+089,Coritiba / PR,CRB / AL
+090,Sampaio Corrêa / MA,Avaí / SC
+091,Guarani / SP,Vila Nova / GO
+092,São Bento / SP,Fortaleza / CE
+093,Brasil / RS,Ponte Preta / SP
+094,Avaí / SC,Coritiba / PR
+095,Criciúma / SC,Boa / MG
+096,Goiás / GO,Paysandu / PA
+097,Atlético / GO,Figueirense / SC
+098,CSA / AL,CRB / AL
+099,Londrina / PR,Juventude / RS
+100,Sampaio Corrêa / MA,Oeste / SP
+101,Guarani / SP,São Bento / SP
+102,Oeste / SP,Criciúma / SC
+103,Juventude / RS,Coritiba / PR
+104,Figueirense / SC,Sampaio Corrêa / MA
+105,Fortaleza / CE,Brasil / RS
+106,Vila Nova / GO,Atlético / GO
+107,Boa / MG,Avaí / SC
+108,CRB / AL,Ponte Preta / SP
+109,Londrina / PR,Goiás / GO
+110,Paysandu / PA,CSA / AL
+111,Ponte Preta / SP,CSA / AL
+112,São Bento / SP,Londrina / PR
+113,Brasil / RS,Criciúma / SC
+114,Avaí / SC,Guarani / SP
+115,Fortaleza / CE,Oeste / SP
+116,Goiás / GO,Juventude / RS
+117,Boa / MG,Vila Nova / GO
+118,CRB / AL,Paysandu / PA
+119,Coritiba / PR,Figueirense / SC
+120,Sampaio Corrêa / MA,Atlético / GO
+121,Guarani / SP,Boa / MG
+122,Oeste / SP,Avaí / SC
+123,Juventude / RS,Vila Nova / GO
+124,Figueirense / SC,Ponte Preta / SP
+125,Criciúma / SC,São Bento / SP
+126,Goiás / GO,CRB / AL
+127,Atlético / GO,Brasil / RS
+128,CSA / AL,Coritiba / PR
+129,Londrina / PR,Sampaio Corrêa / MA
+130,Paysandu / PA,Fortaleza / CE
+131,Ponte Preta / SP,Fortaleza / CE
+132,Oeste / SP,Guarani / SP
+133,Brasil / RS,CSA / AL
+134,Avaí / SC,Goiás / GO
+135,Criciúma / SC,Figueirense / SC
+136,Vila Nova / GO,Londrina / PR
+137,Atlético / GO,Boa / MG
+138,CRB / AL,São Bento / SP
+139,Coritiba / PR,Paysandu / PA
+140,Sampaio Corrêa / MA,Juventude / RS
+141,Guarani / SP,Coritiba / PR
+142,São Bento / SP,Ponte Preta / SP
+143,Brasil / RS,Juventude / RS
+144,Figueirense / SC,Oeste / SP
+145,Fortaleza / CE,Atlético / GO
+146,Goiás / GO,Criciúma / SC
+147,Boa / MG,CRB / AL
+148,CSA / AL,Sampaio Corrêa / MA
+149,Londrina / PR,Avaí / SC
+150,Paysandu / PA,Vila Nova / GO
+151,Guarani / SP,Figueirense / SC
+152,Oeste / SP,Paysandu / PA
+153,Juventude / RS,CRB / AL
+154,Avaí / SC,Atlético / GO
+155,Criciúma / SC,Londrina / PR
+156,Vila Nova / GO,Brasil / RS
+157,Boa / MG,Ponte Preta / SP
+158,CSA / AL,Fortaleza / CE
+159,Coritiba / PR,São Bento / SP
+160,Sampaio Corrêa / MA,Goiás / GO
+161,Ponte Preta / SP,Juventude / RS
+162,São Bento / SP,Sampaio Corrêa / MA
+163,Brasil / RS,Boa / MG
+164,Figueirense / SC,Vila Nova / GO
+165,Fortaleza / CE,Avaí / SC
+166,Goiás / GO,Coritiba / PR
+167,Atlético / GO,CSA / AL
+168,CRB / AL,Criciúma / SC
+169,Londrina / PR,Oeste / SP
+170,Paysandu / PA,Guarani / SP
+171,Guarani / SP,Brasil / RS
+172,São Bento / SP,Atlético / GO
+173,Juventude / RS,Fortaleza / CE
+174,Avaí / SC,CSA / AL
+175,Criciúma / SC,Vila Nova / GO
+176,Goiás / GO,Oeste / SP
+177,Boa / MG,Sampaio Corrêa / MA
+178,CRB / AL,Londrina / PR
+179,Coritiba / PR,Ponte Preta / SP
+180,Paysandu / PA,Figueirense / SC
+181,Ponte Preta / SP,Avaí / SC
+182,Oeste / SP,Boa / MG
+183,Brasil / RS,Goiás / GO
+184,Figueirense / SC,CRB / AL
+185,Fortaleza / CE,Coritiba / PR
+186,Vila Nova / GO,São Bento / SP
+187,Atlético / GO,Paysandu / PA
+188,CSA / AL,Juventude / RS
+189,Londrina / PR,Guarani / SP
+190,Sampaio Corrêa / MA,Criciúma / SC
+191,Avaí / SC,Vila Nova / GO
+192,Paysandu / PA,Ponte Preta / SP
+193,Goiás / GO,CSA / AL
+194,Boa / MG,Londrina / PR
+195,Coritiba / PR,Sampaio Corrêa / MA
+196,Guarani / SP,Fortaleza / CE
+197,Criciúma / SC,Atlético / GO
+198,CRB / AL,Oeste / SP
+199,Juventude / RS,Figueirense / SC
+200,São Bento / SP,Brasil / RS
+201,Brasil / RS,Avaí / SC
+202,Ponte Preta / SP,Criciúma / SC
+203,Londrina / PR,Paysandu / PA
+204,Vila Nova / GO,CRB / AL
+205,Figueirense / SC,Goiás / GO
+206,Fortaleza / CE,Boa / MG
+207,Atlético / GO,Coritiba / PR
+208,Oeste / SP,Juventude / RS
+209,Sampaio Corrêa / MA,Guarani / SP
+210,CSA / AL,São Bento / SP
+211,Brasil / RS,Paysandu / PA
+212,Avaí / SC,Juventude / RS
+213,Criciúma / SC,Coritiba / PR
+214,Londrina / PR,Ponte Preta / SP
+215,CRB / AL,Fortaleza / CE
+216,Goiás / GO,São Bento / SP
+217,Boa / MG,Figueirense / SC
+218,Guarani / SP,Atlético / GO
+219,Sampaio Corrêa / MA,Vila Nova / GO
+220,Oeste / SP,CSA / AL
+221,Coritiba / PR,Oeste / SP
+222,Figueirense / SC,Brasil / RS
+223,Atlético / GO,CRB / AL
+224,Fortaleza / CE,Londrina / PR
+225,São Bento / SP,Avaí / SC
+226,Paysandu / PA,Sampaio Corrêa / MA
+227,Vila Nova / GO,Goiás / GO
+228,CSA / AL,Criciúma / SC
+229,Ponte Preta / SP,Guarani / SP
+230,Juventude / RS,Boa / MG
+231,Brasil / RS,Coritiba / PR
+232,Criciúma / SC,Guarani / SP
+233,Oeste / SP,São Bento / SP
+234,Ponte Preta / SP,Vila Nova / GO
+235,CRB / AL,Sampaio Corrêa / MA
+236,Avaí / SC,Figueirense / SC
+237,Boa / MG,CSA / AL
+238,Londrina / PR,Atlético / GO
+239,Goiás / GO,Fortaleza / CE
+240,Paysandu / PA,Juventude / RS
+241,Vila Nova / GO,Oeste / SP
+242,Guarani / SP,Goiás / GO
+243,Avaí / SC,CRB / AL
+244,Atlético / GO,Ponte Preta / SP
+245,Coritiba / PR,Boa / MG
+246,São Bento / SP,Paysandu / PA
+247,Juventude / RS,Criciúma / SC
+248,CSA / AL,Londrina / PR
+249,Fortaleza / CE,Figueirense / SC
+250,Sampaio Corrêa / MA,Brasil / RS
+251,Boa / MG,Goiás / GO
+252,CRB / AL,Guarani / SP
+253,Criciúma / SC,Fortaleza / CE
+254,Paysandu / PA,Avaí / SC
+255,Oeste / SP,Atlético / GO
+256,Juventude / RS,São Bento / SP
+257,Londrina / PR,Brasil / RS
+258,Figueirense / SC,CSA / AL
+259,Ponte Preta / SP,Sampaio Corrêa / MA
+260,Vila Nova / GO,Coritiba / PR
+261,CSA / AL,Vila Nova / GO
+262,Guarani / SP,Juventude / RS
+263,Coritiba / PR,Londrina / PR
+264,Figueirense / SC,São Bento / SP
+265,Sampaio Corrêa / MA,Fortaleza / CE
+266,Brasil / RS,CRB / AL
+267,Criciúma / SC,Avaí / SC
+268,Boa / MG,Paysandu / PA
+269,Goiás / GO,Atlético / GO
+270,Oeste / SP,Ponte Preta / SP
+271,Atlético / GO,Juventude / RS
+272,Londrina / PR,Figueirense / SC
+273,Goiás / GO,Ponte Preta / SP
+274,CRB / AL,Coritiba / PR
+275,Paysandu / PA,Criciúma / SC
+276,Brasil / RS,Oeste / SP
+277,Fortaleza / CE,Vila Nova / GO
+278,São Bento / SP,Boa / MG
+279,Guarani / SP,CSA / AL
+280,Avaí / SC,Sampaio Corrêa / MA
+281,Fortaleza / CE,São Bento / SP
+282,Ponte Preta / SP,Brasil / RS
+283,Paysandu / PA,Goiás / GO
+284,Juventude / RS,Londrina / PR
+285,Vila Nova / GO,Guarani / SP
+286,Oeste / SP,Sampaio Corrêa / MA
+287,Figueirense / SC,Atlético / GO
+288,Coritiba / PR,Avaí / SC
+289,CRB / AL,CSA / AL
+290,Boa / MG,Criciúma / SC
+291,Sampaio Corrêa / MA,Figueirense / SC
+292,Criciúma / SC,Oeste / SP
+293,Goiás / GO,Londrina / PR
+294,CSA / AL,Paysandu / PA
+295,São Bento / SP,Guarani / SP
+296,Brasil / RS,Fortaleza / CE
+297,Avaí / SC,Boa / MG
+298,Ponte Preta / SP,CRB / AL
+299,Atlético / GO,Vila Nova / GO
+300,Coritiba / PR,Juventude / RS
+301,Paysandu / PA,CRB / AL
+302,Criciúma / SC,Brasil / RS
+303,Juventude / RS,Goiás / GO
+304,Atlético / GO,Sampaio Corrêa / MA
+305,CSA / AL,Ponte Preta / SP
+306,Guarani / SP,Avaí / SC
+307,Oeste / SP,Fortaleza / CE
+308,Vila Nova / GO,Boa / MG
+309,Figueirense / SC,Coritiba / PR
+310,Londrina / PR,São Bento / SP
+311,Vila Nova / GO,Juventude / RS
+312,Brasil / RS,Atlético / GO
+313,CRB / AL,Goiás / GO
+314,São Bento / SP,Criciúma / SC
+315,Ponte Preta / SP,Figueirense / SC
+316,Avaí / SC,Oeste / SP
+317,Boa / MG,Guarani / SP
+318,Coritiba / PR,CSA / AL
+319,Fortaleza / CE,Paysandu / PA
+320,Sampaio Corrêa / MA,Londrina / PR
+321,CSA / AL,Brasil / RS
+322,Fortaleza / CE,Ponte Preta / SP
+323,Goiás / GO,Avaí / SC
+324,São Bento / SP,CRB / AL
+325,Londrina / PR,Vila Nova / GO
+326,Guarani / SP,Oeste / SP
+327,Boa / MG,Atlético / GO
+328,Figueirense / SC,Criciúma / SC
+329,Paysandu / PA,Coritiba / PR
+330,Juventude / RS,Sampaio Corrêa / MA
+331,Criciúma / SC,Goiás / GO
+332,Juventude / RS,Brasil / RS
+333,Vila Nova / GO,Paysandu / PA
+334,Oeste / SP,Figueirense / SC
+335,Sampaio Corrêa / MA,CSA / AL
+336,Avaí / SC,Londrina / PR
+337,CRB / AL,Boa / MG
+338,Atlético / GO,Fortaleza / CE
+339,Coritiba / PR,Guarani / SP
+340,Ponte Preta / SP,São Bento / SP
+341,Goiás / GO,Sampaio Corrêa / MA
+342,Brasil / RS,Vila Nova / GO
+343,Atlético / GO,Avaí / SC
+344,Londrina / PR,Criciúma / SC
+345,Ponte Preta / SP,Boa / MG
+346,São Bento / SP,Coritiba / PR
+347,Figueirense / SC,Guarani / SP
+348,Fortaleza / CE,CSA / AL
+349,CRB / AL,Juventude / RS
+350,Paysandu / PA,Oeste / SP
+351,Coritiba / PR,Goiás / GO
+352,Juventude / RS,Ponte Preta / SP
+353,Boa / MG,Brasil / RS
+354,Avaí / SC,Fortaleza / CE
+355,Oeste / SP,Londrina / PR
+356,Sampaio Corrêa / MA,São Bento / SP
+357,Vila Nova / GO,Figueirense / SC
+358,Criciúma / SC,CRB / AL
+359,CSA / AL,Atlético / GO
+360,Guarani / SP,Paysandu / PA
+361,Figueirense / SC,Paysandu / PA
+362,Ponte Preta / SP,Coritiba / PR
+363,Fortaleza / CE,Juventude / RS
+364,Atlético / GO,São Bento / SP
+365,Londrina / PR,CRB / AL
+366,Brasil / RS,Guarani / SP
+367,CSA / AL,Avaí / SC
+368,Sampaio Corrêa / MA,Boa / MG
+369,Vila Nova / GO,Criciúma / SC
+370,Oeste / SP,Goiás / GO
+371,Guarani / SP,Londrina / PR
+372,São Bento / SP,Vila Nova / GO
+373,Juventude / RS,CSA / AL
+374,Avaí / SC,Ponte Preta / SP
+375,Criciúma / SC,Sampaio Corrêa / MA
+376,Goiás / GO,Brasil / RS
+377,Boa / MG,Oeste / SP
+378,CRB / AL,Figueirense / SC
+379,Coritiba / PR,Fortaleza / CE
+380,Paysandu / PA,Atlético / GO

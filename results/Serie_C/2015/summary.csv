@@ -1,0 +1,195 @@
+Game,Home,Away
+001,Confiança / SE,ASA / AL
+002,Águia de Marabá / PA,América / RN
+003,Vila Nova / GO,Cuiabá / MT
+004,Botafogo / PB,Salgueiro / PE
+005,Icasa / CE,Fortaleza / CE
+006,Brasil / RS,Juventude / RS
+007,Tombense / MG,Tupi / MG
+008,Londrina / PR,Portuguesa / SP
+009,Caxias / RS,Madureira / RJ
+010,Guaratinguetá / SP,Guarani / SP
+011,Fortaleza / CE,Vila Nova / GO
+012,América / RN,Icasa / CE
+013,ASA / AL,Botafogo / PB
+014,Salgueiro / PE,Águia de Marabá / PA
+015,Cuiabá / MT,Confiança / SE
+016,Madureira / RJ,Tombense / MG
+017,Tupi / MG,Guaratinguetá / SP
+018,Guarani / SP,Londrina / PR
+019,Portuguesa / SP,Brasil / RS
+020,Juventude / RS,Caxias / RS
+021,Águia de Marabá / PA,Vila Nova / GO
+022,Icasa / CE,Salgueiro / PE
+023,ASA / AL,América / RN
+024,Botafogo / PB,Confiança / SE
+025,Cuiabá / MT,Fortaleza / CE
+026,Madureira / RJ,Portuguesa / SP
+027,Guarani / SP,Tupi / MG
+028,Tombense / MG,Caxias / RS
+029,Londrina / PR,Juventude / RS
+030,Brasil / RS,Guaratinguetá / SP
+031,Fortaleza / CE,ASA / AL
+032,Vila Nova / GO,Icasa / CE
+033,Confiança / SE,Águia de Marabá / PA
+034,Botafogo / PB,Cuiabá / MT
+035,América / RN,Salgueiro / PE
+036,Juventude / RS,Guarani / SP
+037,Tupi / MG,Madureira / RJ
+038,Londrina / PR,Tombense / MG
+039,Caxias / RS,Brasil / RS
+040,Guaratinguetá / SP,Portuguesa / SP
+041,Salgueiro / PE,Fortaleza / CE
+042,Vila Nova / GO,América / RN
+043,Águia de Marabá / PA,Botafogo / PB
+044,Icasa / CE,Confiança / SE
+045,ASA / AL,Cuiabá / MT
+046,Madureira / RJ,Juventude / RS
+047,Tombense / MG,Guarani / SP
+048,Guaratinguetá / SP,Caxias / RS
+049,Brasil / RS,Londrina / PR
+050,Portuguesa / SP,Tupi / MG
+051,Águia de Marabá / PA,ASA / AL
+052,Fortaleza / CE,América / RN
+053,Confiança / SE,Vila Nova / GO
+054,Botafogo / PB,Icasa / CE
+055,Cuiabá / MT,Salgueiro / PE
+056,Caxias / RS,Tupi / MG
+057,Guarani / SP,Madureira / RJ
+058,Tombense / MG,Brasil / RS
+059,Londrina / PR,Guaratinguetá / SP
+060,Juventude / RS,Portuguesa / SP
+061,Confiança / SE,Fortaleza / CE
+062,América / RN,Cuiabá / MT
+063,Icasa / CE,Águia de Marabá / PA
+064,Vila Nova / GO,Botafogo / PB
+065,Salgueiro / PE,ASA / AL
+066,Tupi / MG,Juventude / RS
+067,Caxias / RS,Londrina / PR
+068,Guaratinguetá / SP,Tombense / MG
+069,Brasil / RS,Madureira / RJ
+070,Portuguesa / SP,Guarani / SP
+071,Fortaleza / CE,Botafogo / PB
+072,ASA / AL,Icasa / CE
+073,Salgueiro / PE,Vila Nova / GO
+074,América / RN,Confiança / SE
+075,Cuiabá / MT,Águia de Marabá / PA
+076,Madureira / RJ,Guaratinguetá / SP
+077,Tupi / MG,Londrina / PR
+078,Portuguesa / SP,Caxias / RS
+079,Guarani / SP,Brasil / RS
+080,Juventude / RS,Tombense / MG
+081,Águia de Marabá / PA,Fortaleza / CE
+082,Icasa / CE,Cuiabá / MT
+083,Vila Nova / GO,ASA / AL
+084,Confiança / SE,Salgueiro / PE
+085,Botafogo / PB,América / RN
+086,Caxias / RS,Guarani / SP
+087,Tombense / MG,Portuguesa / SP
+088,Londrina / PR,Madureira / RJ
+089,Guaratinguetá / SP,Juventude / RS
+090,Brasil / RS,Tupi / MG
+091,Madureira / RJ,Caxias / RS
+092,Tupi / MG,Tombense / MG
+093,Juventude / RS,Brasil / RS
+094,América / RN,Águia de Marabá / PA
+095,Fortaleza / CE,Icasa / CE
+096,Salgueiro / PE,Botafogo / PB
+097,Cuiabá / MT,Vila Nova / GO
+098,ASA / AL,Confiança / SE
+099,Portuguesa / SP,Londrina / PR
+100,Guarani / SP,Guaratinguetá / SP
+101,Tombense / MG,Madureira / RJ
+102,Vila Nova / GO,Fortaleza / CE
+103,Águia de Marabá / PA,Salgueiro / PE
+104,Icasa / CE,América / RN
+105,Confiança / SE,Cuiabá / MT
+106,Botafogo / PB,ASA / AL
+107,Guaratinguetá / SP,Tupi / MG
+108,Londrina / PR,Guarani / SP
+109,Brasil / RS,Portuguesa / SP
+110,Caxias / RS,Juventude / RS
+111,Tupi / MG,Guarani / SP
+112,Caxias / RS,Tombense / MG
+113,Fortaleza / CE,Cuiabá / MT
+114,Vila Nova / GO,Águia de Marabá / PA
+115,Confiança / SE,Botafogo / PB
+116,Salgueiro / PE,Icasa / CE
+117,América / RN,ASA / AL
+118,Guaratinguetá / SP,Brasil / RS
+119,Portuguesa / SP,Madureira / RJ
+120,Juventude / RS,Londrina / PR
+121,Madureira / RJ,Tupi / MG
+122,Tombense / MG,Londrina / PR
+123,Portuguesa / SP,Guaratinguetá / SP
+124,Guarani / SP,Juventude / RS
+125,Águia de Marabá / PA,Confiança / SE
+126,Icasa / CE,Vila Nova / GO
+127,Salgueiro / PE,América / RN
+128,Cuiabá / MT,Botafogo / PB
+129,Brasil / RS,Caxias / RS
+130,ASA / AL,Fortaleza / CE
+131,Juventude / RS,Madureira / RJ
+132,Tupi / MG,Portuguesa / SP
+133,América / RN,Vila Nova / GO
+134,Fortaleza / CE,Salgueiro / PE
+135,Confiança / SE,Icasa / CE
+136,Cuiabá / MT,ASA / AL
+137,Botafogo / PB,Águia de Marabá / PA
+138,Londrina / PR,Brasil / RS
+139,Caxias / RS,Guaratinguetá / SP
+140,Guarani / SP,Tombense / MG
+141,Madureira / RJ,Guarani / SP
+142,Vila Nova / GO,Confiança / SE
+143,Tupi / MG,Caxias / RS
+144,Icasa / CE,Botafogo / PB
+145,ASA / AL,Águia de Marabá / PA
+146,Salgueiro / PE,Cuiabá / MT
+147,América / RN,Fortaleza / CE
+148,Guaratinguetá / SP,Londrina / PR
+149,Portuguesa / SP,Juventude / RS
+150,Brasil / RS,Tombense / MG
+151,Madureira / RJ,Brasil / RS
+152,Tombense / MG,Guaratinguetá / SP
+153,Londrina / PR,Caxias / RS
+154,Águia de Marabá / PA,Icasa / CE
+155,Fortaleza / CE,Confiança / SE
+156,ASA / AL,Salgueiro / PE
+157,Cuiabá / MT,América / RN
+158,Botafogo / PB,Vila Nova / GO
+159,Guarani / SP,Portuguesa / SP
+160,Juventude / RS,Tupi / MG
+161,Vila Nova / GO,Salgueiro / PE
+162,Tombense / MG,Juventude / RS
+163,Brasil / RS,Guarani / SP
+164,Águia de Marabá / PA,Cuiabá / MT
+165,Icasa / CE,ASA / AL
+166,Confiança / SE,América / RN
+167,Botafogo / PB,Fortaleza / CE
+168,Guaratinguetá / SP,Madureira / RJ
+169,Londrina / PR,Tupi / MG
+170,Caxias / RS,Portuguesa / SP
+171,América / RN,Botafogo / PB
+172,Fortaleza / CE,Águia de Marabá / PA
+173,Cuiabá / MT,Icasa / CE
+174,ASA / AL,Vila Nova / GO
+175,Salgueiro / PE,Confiança / SE
+176,Tupi / MG,Brasil / RS
+177,Portuguesa / SP,Tombense / MG
+178,Madureira / RJ,Londrina / PR
+179,Guarani / SP,Caxias / RS
+180,Juventude / RS,Guaratinguetá / SP
+181,Brasil / RS,Fortaleza / CE
+182,Fortaleza / CE,Brasil / RS
+183,Vila Nova / GO,Portuguesa / SP
+184,Portuguesa / SP,Vila Nova / GO
+185,Tupi / MG,ASA / AL
+186,ASA / AL,Tupi / MG
+187,Confiança / SE,Londrina / PR
+188,Londrina / PR,Confiança / SE
+189,Brasil / RS,Vila Nova / GO
+190,Vila Nova / GO,Brasil / RS
+191,Tupi / MG,Londrina / PR
+192,Londrina / PR,Tupi / MG
+193,Londrina / PR,Vila Nova / GO
+194,Vila Nova / GO,Londrina / PR

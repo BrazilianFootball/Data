@@ -1,0 +1,267 @@
+Game,Home,Away
+001,Trem / AP,Atlético / AC
+002,Princesa do Solimões / AM,Real Desportivo / RO
+003,São Raimundo / PA,Gurupi / TO
+004,Bare / RR,Fast Clube / AM
+005,Rio Branco / AC,São Raimundo / RR
+006,Genus / RO,S. Francisco / PA
+007,Tocantins / TO,Altos / PI
+008,Cordino / MA,Santos / AP
+009,Ríver / PI,Guarany / CE
+010,Potiguar / RN,Maranhão / MA
+011,Guarani / CE,América / PE
+012,Parnahyba / PI,Globo / RN
+013,Coruripe / AL,Juazeirense / BA
+014,Sousa / PB,Central / PE
+015,Itabaiana / SE,Fluminense de Feira / BA
+016,Atlético / PE,Campinense / PB
+017,América / RN,Murici / AL
+018,Jacobina / BA,Sergipe / SE
+019,Comercial / MS,Sinop / MT
+020,Ceilândia / DF,Anápolis / GO
+021,União de Rondonópolis / MT,7 de Setembro / MS
+022,Portuguesa / RJ,URT / MG
+023,Itumbiara / GO,Audax / SP
+024,Villa Nova / MG,Bangu / RJ
+025,Portuguesa / SP,Desportiva / ES
+026,Espirito Santo / ES,Red Bull Brasil / SP
+027,Caldense / MG,Boavista / RJ
+028,Operário / PR,Brusque / SC
+029,XV de Piracicaba / SP,São Paulo / RS
+030,Novo Hamburgo / RS,Sao Bernardo / SP
+031,Internacional / SC,Foz do Iguaçu / PR
+032,Ituano / SP,São José / RS
+033,Metropolitano / SC,PSTC / PR
+034,Aparecidense / GO,Luziânia / DF
+035,Altos / PI,Cordino / MA
+036,Juazeirense / BA,Sousa / PB
+037,Anápolis / GO,Comercial / MS
+038,Luziânia / DF,União de Rondonópolis / MT
+039,Bangu / RJ,Portuguesa / SP
+040,Desportiva / ES,Villa Nova / MG
+041,Boavista / RJ,Espirito Santo / ES
+042,Red Bull Brasil / SP,Caldense / MG
+043,Brusque / SC,XV de Piracicaba / SP
+044,Sao Bernardo / SP,Internacional / SC
+045,São José / RS,Metropolitano / SC
+046,Atlético / AC,Princesa do Solimões / AM
+047,Real Desportivo / RO,Trem / AP
+048,Gurupi / TO,Bare / RR
+049,Fast Clube / AM,São Raimundo / PA
+050,São Raimundo / RR,Genus / RO
+051,S. Francisco / PA,Rio Branco / AC
+052,Santos / AP,Tocantins / TO
+053,Maranhão / MA,Ríver / PI
+054,Guarany / CE,Potiguar / RN
+055,América / PE,Parnahyba / PI
+056,Globo / RN,Guarani / CE
+057,Central / PE,Coruripe / AL
+058,Fluminense de Feira / BA,Atlético / PE
+059,Campinense / PB,Itabaiana / SE
+060,Murici / AL,Jacobina / BA
+061,Sergipe / SE,América / RN
+062,Sinop / MT,Ceilândia / DF
+063,7 de Setembro / MS,Aparecidense / GO
+064,Audax / SP,Portuguesa / RJ
+065,URT / MG,Itumbiara / GO
+066,São Paulo / RS,Operário / PR
+067,Foz do Iguaçu / PR,Novo Hamburgo / RS
+068,PSTC / PR,Ituano / SP
+069,Altos / PI,Santos / AP
+070,Itabaiana / SE,Atlético / PE
+071,Luziânia / DF,7 de Setembro / MS
+072,Espirito Santo / ES,Caldense / MG
+073,Red Bull Brasil / SP,Boavista / RJ
+074,Sao Bernardo / SP,Foz do Iguaçu / PR
+075,Metropolitano / SC,Ituano / SP
+076,Atlético / AC,Real Desportivo / RO
+077,Fast Clube / AM,Gurupi / TO
+078,Bare / RR,São Raimundo / PA
+079,S. Francisco / PA,São Raimundo / RR
+080,Genus / RO,Rio Branco / AC
+081,Tocantins / TO,Cordino / MA
+082,Maranhão / MA,Guarany / CE
+083,Potiguar / RN,Ríver / PI
+084,América / PE,Globo / RN
+085,Guarani / CE,Parnahyba / PI
+086,Central / PE,Juazeirense / BA
+087,Sousa / PB,Coruripe / AL
+088,Fluminense de Feira / BA,Campinense / PB
+089,Murici / AL,Sergipe / SE
+090,América / RN,Jacobina / BA
+091,Sinop / MT,Anápolis / GO
+092,Comercial / MS,Ceilândia / DF
+093,Audax / SP,URT / MG
+094,Itumbiara / GO,Portuguesa / RJ
+095,Bangu / RJ,Desportiva / ES
+096,Villa Nova / MG,Portuguesa / SP
+097,Brusque / SC,São Paulo / RS
+098,Operário / PR,XV de Piracicaba / SP
+099,Novo Hamburgo / RS,Internacional / SC
+100,PSTC / PR,São José / RS
+101,Trem / AP,Princesa do Solimões / AM
+102,Aparecidense / GO,União de Rondonópolis / MT
+103,XV de Piracicaba / SP,Operário / PR
+104,Princesa do Solimões / AM,Trem / AP
+105,Juazeirense / BA,Central / PE
+106,Sergipe / SE,Murici / AL
+107,Ceilândia / DF,Comercial / MS
+108,Anápolis / GO,Sinop / MT
+109,Portuguesa / RJ,Itumbiara / GO
+110,Portuguesa / SP,Villa Nova / MG
+111,Boavista / RJ,Red Bull Brasil / SP
+112,Ituano / SP,Metropolitano / SC
+113,Real Desportivo / RO,Atlético / AC
+114,São Raimundo / PA,Bare / RR
+115,Gurupi / TO,Fast Clube / AM
+116,São Raimundo / RR,S. Francisco / PA
+117,Rio Branco / AC,Genus / RO
+118,Cordino / MA,Tocantins / TO
+119,Santos / AP,Altos / PI
+120,Ríver / PI,Potiguar / RN
+121,Guarany / CE,Maranhão / MA
+122,Parnahyba / PI,Guarani / CE
+123,Globo / RN,América / PE
+124,Coruripe / AL,Sousa / PB
+125,Atlético / PE,Itabaiana / SE
+126,Campinense / PB,Fluminense de Feira / BA
+127,Jacobina / BA,América / RN
+128,7 de Setembro / MS,Luziânia / DF
+129,União de Rondonópolis / MT,Aparecidense / GO
+130,URT / MG,Audax / SP
+131,Desportiva / ES,Bangu / RJ
+132,Caldense / MG,Espirito Santo / ES
+133,São Paulo / RS,Brusque / SC
+134,Internacional / SC,Novo Hamburgo / RS
+135,Foz do Iguaçu / PR,Sao Bernardo / SP
+136,São José / RS,PSTC / PR
+137,XV de Piracicaba / SP,Brusque / SC
+138,Princesa do Solimões / AM,Atlético / AC
+139,Itabaiana / SE,Campinense / PB
+140,Ceilândia / DF,Sinop / MT
+141,Portuguesa / RJ,Audax / SP
+142,Espirito Santo / ES,Boavista / RJ
+143,Ituano / SP,PSTC / PR
+144,Metropolitano / SC,São José / RS
+145,São Raimundo / PA,Fast Clube / AM
+146,Bare / RR,Gurupi / TO
+147,Rio Branco / AC,S. Francisco / PA
+148,Genus / RO,São Raimundo / RR
+149,Cordino / MA,Altos / PI
+150,Tocantins / TO,Santos / AP
+151,Ríver / PI,Maranhão / MA
+152,Potiguar / RN,Guarany / CE
+153,Parnahyba / PI,América / PE
+154,Guarani / CE,Globo / RN
+155,Coruripe / AL,Central / PE
+156,Sousa / PB,Juazeirense / BA
+157,Atlético / PE,Fluminense de Feira / BA
+158,Jacobina / BA,Murici / AL
+159,América / RN,Sergipe / SE
+160,Comercial / MS,Anápolis / GO
+161,União de Rondonópolis / MT,Luziânia / DF
+162,Itumbiara / GO,URT / MG
+163,Villa Nova / MG,Desportiva / ES
+164,Portuguesa / SP,Bangu / RJ
+165,Caldense / MG,Red Bull Brasil / SP
+166,Operário / PR,São Paulo / RS
+167,Internacional / SC,Sao Bernardo / SP
+168,Novo Hamburgo / RS,Foz do Iguaçu / PR
+169,Trem / AP,Real Desportivo / RO
+170,Aparecidense / GO,7 de Setembro / MS
+171,Atlético / AC,Trem / AP
+172,Real Desportivo / RO,Princesa do Solimões / AM
+173,Fast Clube / AM,Bare / RR
+174,Gurupi / TO,São Raimundo / PA
+175,S. Francisco / PA,Genus / RO
+176,São Raimundo / RR,Rio Branco / AC
+177,Altos / PI,Tocantins / TO
+178,Santos / AP,Cordino / MA
+179,Maranhão / MA,Potiguar / RN
+180,Guarany / CE,Ríver / PI
+181,América / PE,Guarani / CE
+182,Globo / RN,Parnahyba / PI
+183,Central / PE,Sousa / PB
+184,Juazeirense / BA,Coruripe / AL
+185,Fluminense de Feira / BA,Itabaiana / SE
+186,Campinense / PB,Atlético / PE
+187,Murici / AL,América / RN
+188,Sergipe / SE,Jacobina / BA
+189,Sinop / MT,Comercial / MS
+190,Anápolis / GO,Ceilândia / DF
+191,Luziânia / DF,Aparecidense / GO
+192,7 de Setembro / MS,União de Rondonópolis / MT
+193,Audax / SP,Itumbiara / GO
+194,URT / MG,Portuguesa / RJ
+195,Bangu / RJ,Villa Nova / MG
+196,Desportiva / ES,Portuguesa / SP
+197,Red Bull Brasil / SP,Espirito Santo / ES
+198,Boavista / RJ,Caldense / MG
+199,Brusque / SC,Operário / PR
+200,São Paulo / RS,XV de Piracicaba / SP
+201,Sao Bernardo / SP,Novo Hamburgo / RS
+202,Foz do Iguaçu / PR,Internacional / SC
+203,PSTC / PR,Metropolitano / SC
+204,São José / RS,Ituano / SP
+205,URT / MG,Portuguesa / RJ
+206,Brusque / SC,São José / RS
+207,Desportiva / ES,Operário / PR
+208,Altos / PI,Santos / AP
+209,Metropolitano / SC,Sao Bernardo / SP
+210,Aparecidense / GO,América / RN
+211,Maranhão / MA,Rio Branco / AC
+212,Sousa / PB,Guarany / CE
+213,Parnahyba / PI,Globo / RN
+214,Jacobina / BA,Juazeirense / BA
+215,Comercial / MS,Ceilândia / DF
+216,Villa Nova / MG,União de Rondonópolis / MT
+217,Espirito Santo / ES,Boavista / RJ
+218,Princesa do Solimões / AM,Gurupi / TO
+219,Campinense / PB,Fluminense de Feira / BA
+220,S. Francisco / PA,Atlético / AC
+221,Boavista / RJ,Espirito Santo / ES
+222,Sao Bernardo / SP,Metropolitano / SC
+223,São José / RS,Brusque / SC
+224,Ceilândia / DF,Comercial / MS
+225,América / RN,Aparecidense / GO
+226,Juazeirense / BA,Jacobina / BA
+227,Atlético / AC,S. Francisco / PA
+228,Portuguesa / RJ,URT / MG
+229,Operário / PR,Desportiva / ES
+230,Fluminense de Feira / BA,Campinense / PB
+231,Santos / AP,Altos / PI
+232,Globo / RN,Parnahyba / PI
+233,Gurupi / TO,Princesa do Solimões / AM
+234,Rio Branco / AC,Maranhão / MA
+235,Guarany / CE,Sousa / PB
+236,União de Rondonópolis / MT,Villa Nova / MG
+237,São José / RS,Sao Bernardo / SP
+238,Ceilândia / DF,América / RN
+239,Espirito Santo / ES,Operário / PR
+240,Maranhão / MA,Santos / AP
+241,Guarany / CE,Globo / RN
+242,Fluminense de Feira / BA,Juazeirense / BA
+243,URT / MG,Villa Nova / MG
+244,Gurupi / TO,Atlético / AC
+245,América / RN,Ceilândia / DF
+246,Sao Bernardo / SP,São José / RS
+247,Juazeirense / BA,Fluminense de Feira / BA
+248,Operário / PR,Espirito Santo / ES
+249,Villa Nova / MG,URT / MG
+250,Santos / AP,Maranhão / MA
+251,Globo / RN,Guarany / CE
+252,Atlético / AC,Gurupi / TO
+253,São José / RS,Atlético / AC
+254,Juazeirense / BA,América / RN
+255,URT / MG,Globo / RN
+256,Maranhão / MA,Operário / PR
+257,Globo / RN,URT / MG
+258,América / RN,Juazeirense / BA
+259,Atlético / AC,São José / RS
+260,Operário / PR,Maranhão / MA
+261,Juazeirense / BA,Globo / RN
+262,Atlético / AC,Operário / PR
+263,Globo / RN,Juazeirense / BA
+264,Operário / PR,Atlético / AC
+265,Globo / RN,Operário / PR
+266,Operário / PR,Globo / RN

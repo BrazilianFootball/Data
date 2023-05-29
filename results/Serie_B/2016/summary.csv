@@ -1,0 +1,381 @@
+Game,Home,Away
+001,Ceará / CE,Paysandu / PA
+002,Bahia / BA,Avaí / SC
+003,Sampaio Corrêa / MA,Vasco da Gama / RJ
+004,Oeste / SP,Atlético / GO
+005,Vila Nova / GO,Red Bull Bragantino / SP
+006,Luverdense / MT,Joinville / SC
+007,Tupi / MG,Goiás / GO
+008,Brasil / RS,Paraná / PR
+009,Londrina / PR,CRB / AL
+010,Criciúma / SC,Náutico / PE
+011,Náutico / PE,Vila Nova / GO
+012,CRB / AL,Ceará / CE
+013,Paysandu / PA,Oeste / SP
+014,Red Bull Bragantino / SP,Luverdense / MT
+015,Goiás / GO,Londrina / PR
+016,Vasco da Gama / RJ,Tupi / MG
+017,Atlético / GO,Brasil / RS
+018,Joinville / SC,Criciúma / SC
+019,Paraná / PR,Bahia / BA
+020,Avaí / SC,Sampaio Corrêa / MA
+021,Ceará / CE,Atlético / GO
+022,Bahia / BA,Joinville / SC
+023,Sampaio Corrêa / MA,Paraná / PR
+024,Oeste / SP,CRB / AL
+025,Vila Nova / GO,Vasco da Gama / RJ
+026,Luverdense / MT,Avaí / SC
+027,Tupi / MG,Paysandu / PA
+028,Brasil / RS,Red Bull Bragantino / SP
+029,Londrina / PR,Náutico / PE
+030,Criciúma / SC,Goiás / GO
+031,Náutico / PE,Sampaio Corrêa / MA
+032,CRB / AL,Criciúma / SC
+033,Paysandu / PA,Luverdense / MT
+034,Red Bull Bragantino / SP,Tupi / MG
+035,Goiás / GO,Brasil / RS
+036,Vasco da Gama / RJ,Bahia / BA
+037,Atlético / GO,Vila Nova / GO
+038,Joinville / SC,Londrina / PR
+039,Paraná / PR,Oeste / SP
+040,Avaí / SC,Ceará / CE
+041,Ceará / CE,Goiás / GO
+042,Bahia / BA,Náutico / PE
+043,Sampaio Corrêa / MA,Red Bull Bragantino / SP
+044,Oeste / SP,Vasco da Gama / RJ
+045,Vila Nova / GO,CRB / AL
+046,Luverdense / MT,Atlético / GO
+047,Tupi / MG,Joinville / SC
+048,Brasil / RS,Paysandu / PA
+049,Londrina / PR,Paraná / PR
+050,Criciúma / SC,Avaí / SC
+051,Náutico / PE,Joinville / SC
+052,Bahia / BA,Paysandu / PA
+053,Sampaio Corrêa / MA,Ceará / CE
+054,Oeste / SP,Criciúma / SC
+055,Vila Nova / GO,Paraná / PR
+056,Vasco da Gama / RJ,Goiás / GO
+057,Atlético / GO,Red Bull Bragantino / SP
+058,Brasil / RS,Luverdense / MT
+059,Londrina / PR,Tupi / MG
+060,Avaí / SC,CRB / AL
+061,Ceará / CE,Londrina / PR
+062,CRB / AL,Sampaio Corrêa / MA
+063,Paysandu / PA,Náutico / PE
+064,Red Bull Bragantino / SP,Avaí / SC
+065,Goiás / GO,Bahia / BA
+066,Luverdense / MT,Vila Nova / GO
+067,Tupi / MG,Oeste / SP
+068,Joinville / SC,Vasco da Gama / RJ
+069,Paraná / PR,Atlético / GO
+070,Criciúma / SC,Brasil / RS
+071,Náutico / PE,Paraná / PR
+072,Bahia / BA,CRB / AL
+073,Sampaio Corrêa / MA,Criciúma / SC
+074,Red Bull Bragantino / SP,Paysandu / PA
+075,Goiás / GO,Oeste / SP
+076,Luverdense / MT,Ceará / CE
+077,Atlético / GO,Vasco da Gama / RJ
+078,Brasil / RS,Tupi / MG
+079,Londrina / PR,Vila Nova / GO
+080,Avaí / SC,Joinville / SC
+081,Ceará / CE,Brasil / RS
+082,CRB / AL,Red Bull Bragantino / SP
+083,Paysandu / PA,Avaí / SC
+084,Oeste / SP,Londrina / PR
+085,Vila Nova / GO,Sampaio Corrêa / MA
+086,Vasco da Gama / RJ,Náutico / PE
+087,Tupi / MG,Luverdense / MT
+088,Joinville / SC,Atlético / GO
+089,Paraná / PR,Goiás / GO
+090,Criciúma / SC,Bahia / BA
+091,Náutico / PE,Red Bull Bragantino / SP
+092,Bahia / BA,Londrina / PR
+093,Sampaio Corrêa / MA,Brasil / RS
+094,Oeste / SP,Vila Nova / GO
+095,Goiás / GO,Avaí / SC
+096,Vasco da Gama / RJ,Paysandu / PA
+097,Atlético / GO,CRB / AL
+098,Joinville / SC,Ceará / CE
+099,Paraná / PR,Luverdense / MT
+100,Criciúma / SC,Tupi / MG
+101,Ceará / CE,Oeste / SP
+102,CRB / AL,Paraná / PR
+103,Paysandu / PA,Joinville / SC
+104,Red Bull Bragantino / SP,Goiás / GO
+105,Vila Nova / GO,Criciúma / SC
+106,Luverdense / MT,Sampaio Corrêa / MA
+107,Tupi / MG,Bahia / BA
+108,Brasil / RS,Náutico / PE
+109,Londrina / PR,Vasco da Gama / RJ
+110,Avaí / SC,Atlético / GO
+111,Ceará / CE,Náutico / PE
+112,CRB / AL,Vasco da Gama / RJ
+113,Paysandu / PA,Atlético / GO
+114,Oeste / SP,Sampaio Corrêa / MA
+115,Vila Nova / GO,Goiás / GO
+116,Luverdense / MT,Londrina / PR
+117,Tupi / MG,Avaí / SC
+118,Brasil / RS,Bahia / BA
+119,Paraná / PR,Joinville / SC
+120,Criciúma / SC,Red Bull Bragantino / SP
+121,Náutico / PE,Luverdense / MT
+122,Bahia / BA,Oeste / SP
+123,Sampaio Corrêa / MA,Tupi / MG
+124,Red Bull Bragantino / SP,Ceará / CE
+125,Goiás / GO,Paysandu / PA
+126,Vasco da Gama / RJ,Paraná / PR
+127,Atlético / GO,Criciúma / SC
+128,Joinville / SC,CRB / AL
+129,Londrina / PR,Brasil / RS
+130,Avaí / SC,Vila Nova / GO
+131,Ceará / CE,Bahia / BA
+132,CRB / AL,Goiás / GO
+133,Sampaio Corrêa / MA,Paysandu / PA
+134,Red Bull Bragantino / SP,Paraná / PR
+135,Vila Nova / GO,Tupi / MG
+136,Luverdense / MT,Oeste / SP
+137,Atlético / GO,Náutico / PE
+138,Brasil / RS,Joinville / SC
+139,Londrina / PR,Criciúma / SC
+140,Avaí / SC,Vasco da Gama / RJ
+141,Náutico / PE,CRB / AL
+142,Bahia / BA,Vila Nova / GO
+143,Paysandu / PA,Londrina / PR
+144,Oeste / SP,Red Bull Bragantino / SP
+145,Goiás / GO,Atlético / GO
+146,Vasco da Gama / RJ,Brasil / RS
+147,Tupi / MG,Ceará / CE
+148,Joinville / SC,Sampaio Corrêa / MA
+149,Paraná / PR,Avaí / SC
+150,Criciúma / SC,Luverdense / MT
+151,Ceará / CE,Criciúma / SC
+152,CRB / AL,Tupi / MG
+153,Sampaio Corrêa / MA,Bahia / BA
+154,Red Bull Bragantino / SP,Joinville / SC
+155,Goiás / GO,Náutico / PE
+156,Luverdense / MT,Vasco da Gama / RJ
+157,Atlético / GO,Londrina / PR
+158,Brasil / RS,Vila Nova / GO
+159,Paraná / PR,Paysandu / PA
+160,Avaí / SC,Oeste / SP
+161,Náutico / PE,Avaí / SC
+162,Bahia / BA,Luverdense / MT
+163,Paysandu / PA,CRB / AL
+164,Oeste / SP,Brasil / RS
+165,Vila Nova / GO,Ceará / CE
+166,Vasco da Gama / RJ,Red Bull Bragantino / SP
+167,Tupi / MG,Atlético / GO
+168,Joinville / SC,Goiás / GO
+169,Londrina / PR,Sampaio Corrêa / MA
+170,Criciúma / SC,Paraná / PR
+171,Náutico / PE,Tupi / MG
+172,CRB / AL,Brasil / RS
+173,Paysandu / PA,Vila Nova / GO
+174,Red Bull Bragantino / SP,Bahia / BA
+175,Goiás / GO,Luverdense / MT
+176,Vasco da Gama / RJ,Criciúma / SC
+177,Atlético / GO,Sampaio Corrêa / MA
+178,Joinville / SC,Oeste / SP
+179,Paraná / PR,Ceará / CE
+180,Avaí / SC,Londrina / PR
+181,Ceará / CE,Vasco da Gama / RJ
+182,Bahia / BA,Atlético / GO
+183,Sampaio Corrêa / MA,Goiás / GO
+184,Oeste / SP,Náutico / PE
+185,Vila Nova / GO,Joinville / SC
+186,Luverdense / MT,CRB / AL
+187,Tupi / MG,Paraná / PR
+188,Brasil / RS,Avaí / SC
+189,Londrina / PR,Red Bull Bragantino / SP
+190,Criciúma / SC,Paysandu / PA
+191,Náutico / PE,Criciúma / SC
+192,CRB / AL,Londrina / PR
+193,Paysandu / PA,Ceará / CE
+194,Red Bull Bragantino / SP,Vila Nova / GO
+195,Goiás / GO,Tupi / MG
+196,Vasco da Gama / RJ,Sampaio Corrêa / MA
+197,Atlético / GO,Oeste / SP
+198,Joinville / SC,Luverdense / MT
+199,Paraná / PR,Brasil / RS
+200,Avaí / SC,Bahia / BA
+201,Ceará / CE,CRB / AL
+202,Bahia / BA,Paraná / PR
+203,Sampaio Corrêa / MA,Avaí / SC
+204,Oeste / SP,Paysandu / PA
+205,Vila Nova / GO,Náutico / PE
+206,Luverdense / MT,Red Bull Bragantino / SP
+207,Tupi / MG,Vasco da Gama / RJ
+208,Brasil / RS,Atlético / GO
+209,Londrina / PR,Goiás / GO
+210,Criciúma / SC,Joinville / SC
+211,Náutico / PE,Londrina / PR
+212,CRB / AL,Oeste / SP
+213,Paysandu / PA,Tupi / MG
+214,Red Bull Bragantino / SP,Brasil / RS
+215,Goiás / GO,Criciúma / SC
+216,Vasco da Gama / RJ,Vila Nova / GO
+217,Atlético / GO,Ceará / CE
+218,Joinville / SC,Bahia / BA
+219,Paraná / PR,Sampaio Corrêa / MA
+220,Avaí / SC,Luverdense / MT
+221,Ceará / CE,Avaí / SC
+222,Bahia / BA,Vasco da Gama / RJ
+223,Sampaio Corrêa / MA,Náutico / PE
+224,Oeste / SP,Paraná / PR
+225,Vila Nova / GO,Atlético / GO
+226,Luverdense / MT,Paysandu / PA
+227,Tupi / MG,Red Bull Bragantino / SP
+228,Brasil / RS,Goiás / GO
+229,Londrina / PR,Joinville / SC
+230,Criciúma / SC,CRB / AL
+231,Náutico / PE,Bahia / BA
+232,CRB / AL,Vila Nova / GO
+233,Paysandu / PA,Brasil / RS
+234,Red Bull Bragantino / SP,Sampaio Corrêa / MA
+235,Goiás / GO,Ceará / CE
+236,Vasco da Gama / RJ,Oeste / SP
+237,Atlético / GO,Luverdense / MT
+238,Joinville / SC,Tupi / MG
+239,Paraná / PR,Londrina / PR
+240,Avaí / SC,Criciúma / SC
+241,Ceará / CE,Sampaio Corrêa / MA
+242,CRB / AL,Avaí / SC
+243,Paysandu / PA,Bahia / BA
+244,Red Bull Bragantino / SP,Atlético / GO
+245,Goiás / GO,Vasco da Gama / RJ
+246,Luverdense / MT,Brasil / RS
+247,Tupi / MG,Londrina / PR
+248,Joinville / SC,Náutico / PE
+249,Paraná / PR,Vila Nova / GO
+250,Criciúma / SC,Oeste / SP
+251,Náutico / PE,Paysandu / PA
+252,Bahia / BA,Goiás / GO
+253,Sampaio Corrêa / MA,CRB / AL
+254,Oeste / SP,Tupi / MG
+255,Vila Nova / GO,Luverdense / MT
+256,Vasco da Gama / RJ,Joinville / SC
+257,Atlético / GO,Paraná / PR
+258,Brasil / RS,Criciúma / SC
+259,Londrina / PR,Ceará / CE
+260,Avaí / SC,Red Bull Bragantino / SP
+261,Ceará / CE,Luverdense / MT
+262,CRB / AL,Bahia / BA
+263,Paysandu / PA,Red Bull Bragantino / SP
+264,Oeste / SP,Goiás / GO
+265,Vila Nova / GO,Londrina / PR
+266,Vasco da Gama / RJ,Atlético / GO
+267,Tupi / MG,Brasil / RS
+268,Joinville / SC,Avaí / SC
+269,Paraná / PR,Náutico / PE
+270,Criciúma / SC,Sampaio Corrêa / MA
+271,Náutico / PE,Vasco da Gama / RJ
+272,Bahia / BA,Criciúma / SC
+273,Sampaio Corrêa / MA,Vila Nova / GO
+274,Red Bull Bragantino / SP,CRB / AL
+275,Goiás / GO,Paraná / PR
+276,Luverdense / MT,Tupi / MG
+277,Atlético / GO,Joinville / SC
+278,Brasil / RS,Ceará / CE
+279,Londrina / PR,Oeste / SP
+280,Avaí / SC,Paysandu / PA
+281,Ceará / CE,Joinville / SC
+282,CRB / AL,Atlético / GO
+283,Paysandu / PA,Vasco da Gama / RJ
+284,Red Bull Bragantino / SP,Náutico / PE
+285,Vila Nova / GO,Oeste / SP
+286,Luverdense / MT,Paraná / PR
+287,Tupi / MG,Criciúma / SC
+288,Brasil / RS,Sampaio Corrêa / MA
+289,Londrina / PR,Bahia / BA
+290,Avaí / SC,Goiás / GO
+291,Náutico / PE,Brasil / RS
+292,Bahia / BA,Tupi / MG
+293,Sampaio Corrêa / MA,Luverdense / MT
+294,Oeste / SP,Ceará / CE
+295,Goiás / GO,Red Bull Bragantino / SP
+296,Vasco da Gama / RJ,Londrina / PR
+297,Atlético / GO,Avaí / SC
+298,Joinville / SC,Paysandu / PA
+299,Paraná / PR,CRB / AL
+300,Criciúma / SC,Vila Nova / GO
+301,Náutico / PE,Ceará / CE
+302,Bahia / BA,Brasil / RS
+303,Sampaio Corrêa / MA,Oeste / SP
+304,Red Bull Bragantino / SP,Criciúma / SC
+305,Goiás / GO,Vila Nova / GO
+306,Vasco da Gama / RJ,CRB / AL
+307,Atlético / GO,Paysandu / PA
+308,Joinville / SC,Paraná / PR
+309,Londrina / PR,Luverdense / MT
+310,Avaí / SC,Tupi / MG
+311,Ceará / CE,Red Bull Bragantino / SP
+312,CRB / AL,Joinville / SC
+313,Paysandu / PA,Goiás / GO
+314,Oeste / SP,Bahia / BA
+315,Vila Nova / GO,Avaí / SC
+316,Luverdense / MT,Náutico / PE
+317,Tupi / MG,Sampaio Corrêa / MA
+318,Brasil / RS,Londrina / PR
+319,Paraná / PR,Vasco da Gama / RJ
+320,Criciúma / SC,Atlético / GO
+321,Náutico / PE,Atlético / GO
+322,Bahia / BA,Ceará / CE
+323,Paysandu / PA,Sampaio Corrêa / MA
+324,Oeste / SP,Luverdense / MT
+325,Goiás / GO,CRB / AL
+326,Vasco da Gama / RJ,Avaí / SC
+327,Tupi / MG,Vila Nova / GO
+328,Joinville / SC,Brasil / RS
+329,Paraná / PR,Red Bull Bragantino / SP
+330,Criciúma / SC,Londrina / PR
+331,Ceará / CE,Tupi / MG
+332,CRB / AL,Náutico / PE
+333,Sampaio Corrêa / MA,Joinville / SC
+334,Red Bull Bragantino / SP,Oeste / SP
+335,Vila Nova / GO,Bahia / BA
+336,Luverdense / MT,Criciúma / SC
+337,Atlético / GO,Goiás / GO
+338,Brasil / RS,Vasco da Gama / RJ
+339,Londrina / PR,Paysandu / PA
+340,Avaí / SC,Paraná / PR
+341,Náutico / PE,Goiás / GO
+342,Bahia / BA,Sampaio Corrêa / MA
+343,Paysandu / PA,Paraná / PR
+344,Oeste / SP,Avaí / SC
+345,Vila Nova / GO,Brasil / RS
+346,Vasco da Gama / RJ,Luverdense / MT
+347,Tupi / MG,CRB / AL
+348,Joinville / SC,Red Bull Bragantino / SP
+349,Londrina / PR,Atlético / GO
+350,Criciúma / SC,Ceará / CE
+351,Ceará / CE,Vila Nova / GO
+352,CRB / AL,Paysandu / PA
+353,Sampaio Corrêa / MA,Londrina / PR
+354,Red Bull Bragantino / SP,Vasco da Gama / RJ
+355,Goiás / GO,Joinville / SC
+356,Luverdense / MT,Bahia / BA
+357,Atlético / GO,Tupi / MG
+358,Brasil / RS,Oeste / SP
+359,Paraná / PR,Criciúma / SC
+360,Avaí / SC,Náutico / PE
+361,Ceará / CE,Paraná / PR
+362,Bahia / BA,Red Bull Bragantino / SP
+363,Sampaio Corrêa / MA,Atlético / GO
+364,Oeste / SP,Joinville / SC
+365,Vila Nova / GO,Paysandu / PA
+366,Luverdense / MT,Goiás / GO
+367,Tupi / MG,Náutico / PE
+368,Brasil / RS,CRB / AL
+369,Londrina / PR,Avaí / SC
+370,Criciúma / SC,Vasco da Gama / RJ
+371,Náutico / PE,Oeste / SP
+372,CRB / AL,Luverdense / MT
+373,Paysandu / PA,Criciúma / SC
+374,Red Bull Bragantino / SP,Londrina / PR
+375,Goiás / GO,Sampaio Corrêa / MA
+376,Vasco da Gama / RJ,Ceará / CE
+377,Atlético / GO,Bahia / BA
+378,Joinville / SC,Vila Nova / GO
+379,Paraná / PR,Tupi / MG
+380,Avaí / SC,Brasil / RS

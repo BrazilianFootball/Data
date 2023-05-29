@@ -1,0 +1,380 @@
+Game,Home,Away
+001,Guarani / SP,Figueirense / SC
+002,Botafogo / SP,Vitória / BA
+003,São Bento / SP,Atlético / GO
+004,Vila Nova / GO,Paraná / PR
+005,Coritiba / PR,Ponte Preta / SP
+006,Operário / PR,América / MG
+007,Criciúma / SC,Cuiabá / MT
+008,Brasil / RS,Red Bull Bragantino / SP
+009,Sport / PE,Oeste / SP
+010,CRB / AL,Londrina / PR
+011,Ponte Preta / SP,Criciúma / SC
+012,Red Bull Bragantino / SP,Sport / PE
+013,Oeste / SP,Guarani / SP
+014,Atlético / GO,Coritiba / PR
+015,Paraná / PR,CRB / AL
+016,Londrina / PR,Brasil / RS
+017,Figueirense / SC,São Bento / SP
+018,América / MG,Botafogo / SP
+019,Vitória / BA,Vila Nova / GO
+020,Cuiabá / MT,Operário / PR
+021,Guarani / SP,Vitória / BA
+022,Red Bull Bragantino / SP,Atlético / GO
+023,São Bento / SP,Botafogo / SP
+024,Vila Nova / GO,Ponte Preta / SP
+025,Coritiba / PR,Londrina / PR
+026,Operário / PR,Oeste / SP
+027,Criciúma / SC,América / MG
+028,Brasil / RS,CRB / AL
+029,Sport / PE,Figueirense / SC
+030,Cuiabá / MT,Paraná / PR
+031,Ponte Preta / SP,Operário / PR
+032,Botafogo / SP,Vila Nova / GO
+033,Oeste / SP,Cuiabá / MT
+034,Atlético / GO,Criciúma / SC
+035,Paraná / PR,Guarani / SP
+036,Londrina / PR,Red Bull Bragantino / SP
+037,Figueirense / SC,Brasil / RS
+038,América / MG,Sport / PE
+039,Vitória / BA,São Bento / SP
+040,CRB / AL,Coritiba / PR
+041,Ponte Preta / SP,Paraná / PR
+042,Red Bull Bragantino / SP,Figueirense / SC
+043,São Bento / SP,Oeste / SP
+044,Atlético / GO,Vitória / BA
+045,Coritiba / PR,Cuiabá / MT
+046,Operário / PR,Botafogo / SP
+047,Criciúma / SC,Guarani / SP
+048,Brasil / RS,América / MG
+049,Sport / PE,Londrina / PR
+050,CRB / AL,Vila Nova / GO
+051,Guarani / SP,Brasil / RS
+052,Botafogo / SP,Criciúma / SC
+053,São Bento / SP,CRB / AL
+054,Vila Nova / GO,Londrina / PR
+055,Paraná / PR,Oeste / SP
+056,Operário / PR,Sport / PE
+057,Figueirense / SC,Atlético / GO
+058,América / MG,Coritiba / PR
+059,Vitória / BA,Red Bull Bragantino / SP
+060,Cuiabá / MT,Ponte Preta / SP
+061,Ponte Preta / SP,Botafogo / SP
+062,Red Bull Bragantino / SP,São Bento / SP
+063,Oeste / SP,Figueirense / SC
+064,Atlético / GO,Guarani / SP
+065,Coritiba / PR,Paraná / PR
+066,Londrina / PR,Cuiabá / MT
+067,Criciúma / SC,Vila Nova / GO
+068,Brasil / RS,Operário / PR
+069,Sport / PE,Vitória / BA
+070,CRB / AL,América / MG
+071,Guarani / SP,Coritiba / PR
+072,Red Bull Bragantino / SP,América / MG
+073,Oeste / SP,Vitória / BA
+074,Vila Nova / GO,São Bento / SP
+075,Paraná / PR,Operário / PR
+076,Londrina / PR,Ponte Preta / SP
+077,Figueirense / SC,Botafogo / SP
+078,Brasil / RS,Criciúma / SC
+079,Sport / PE,CRB / AL
+080,Cuiabá / MT,Atlético / GO
+081,Ponte Preta / SP,Oeste / SP
+082,Botafogo / SP,Brasil / RS
+083,São Bento / SP,Sport / PE
+084,Atlético / GO,Vila Nova / GO
+085,Paraná / PR,Red Bull Bragantino / SP
+086,Operário / PR,Londrina / PR
+087,Criciúma / SC,Coritiba / PR
+088,América / MG,Figueirense / SC
+089,Vitória / BA,Cuiabá / MT
+090,CRB / AL,Guarani / SP
+091,Ponte Preta / SP,Atlético / GO
+092,Botafogo / SP,Guarani / SP
+093,Oeste / SP,Red Bull Bragantino / SP
+094,Vila Nova / GO,América / MG
+095,Coritiba / PR,São Bento / SP
+096,Operário / PR,CRB / AL
+097,Figueirense / SC,Londrina / PR
+098,Brasil / RS,Paraná / PR
+099,Vitória / BA,Criciúma / SC
+100,Cuiabá / MT,Sport / PE
+101,Guarani / SP,Cuiabá / MT
+102,Red Bull Bragantino / SP,Ponte Preta / SP
+103,São Bento / SP,Operário / PR
+104,Atlético / GO,Botafogo / SP
+105,Coritiba / PR,Vila Nova / GO
+106,Londrina / PR,Vitória / BA
+107,Figueirense / SC,Paraná / PR
+108,América / MG,Oeste / SP
+109,Sport / PE,Brasil / RS
+110,CRB / AL,Criciúma / SC
+111,Guarani / SP,São Bento / SP
+112,Botafogo / SP,CRB / AL
+113,Oeste / SP,Londrina / PR
+114,Vila Nova / GO,Red Bull Bragantino / SP
+115,Paraná / PR,Sport / PE
+116,Operário / PR,Coritiba / PR
+117,Criciúma / SC,Figueirense / SC
+118,América / MG,Atlético / GO
+119,Vitória / BA,Ponte Preta / SP
+120,Cuiabá / MT,Brasil / RS
+121,Ponte Preta / SP,América / MG
+122,Red Bull Bragantino / SP,Cuiabá / MT
+123,São Bento / SP,Criciúma / SC
+124,Atlético / GO,Operário / PR
+125,Coritiba / PR,Botafogo / SP
+126,Londrina / PR,Paraná / PR
+127,Figueirense / SC,Vitória / BA
+128,Brasil / RS,Vila Nova / GO
+129,Sport / PE,Guarani / SP
+130,CRB / AL,Oeste / SP
+131,Guarani / SP,Red Bull Bragantino / SP
+132,Botafogo / SP,Oeste / SP
+133,São Bento / SP,Ponte Preta / SP
+134,Vila Nova / GO,Figueirense / SC
+135,Paraná / PR,América / MG
+136,Londrina / PR,Atlético / GO
+137,Criciúma / SC,Operário / PR
+138,Brasil / RS,Vitória / BA
+139,Sport / PE,Coritiba / PR
+140,CRB / AL,Cuiabá / MT
+141,Ponte Preta / SP,Guarani / SP
+142,Red Bull Bragantino / SP,Botafogo / SP
+143,Oeste / SP,Brasil / RS
+144,Atlético / GO,CRB / AL
+145,Coritiba / PR,Figueirense / SC
+146,Operário / PR,Vila Nova / GO
+147,Criciúma / SC,Sport / PE
+148,América / MG,Londrina / PR
+149,Vitória / BA,Paraná / PR
+150,Cuiabá / MT,São Bento / SP
+151,Guarani / SP,Vila Nova / GO
+152,Red Bull Bragantino / SP,Operário / PR
+153,São Bento / SP,Paraná / PR
+154,Atlético / GO,Oeste / SP
+155,Coritiba / PR,Brasil / RS
+156,Londrina / PR,Criciúma / SC
+157,Figueirense / SC,Ponte Preta / SP
+158,América / MG,Cuiabá / MT
+159,Sport / PE,Botafogo / SP
+160,CRB / AL,Vitória / BA
+161,Ponte Preta / SP,CRB / AL
+162,Botafogo / SP,Londrina / PR
+163,Oeste / SP,Coritiba / PR
+164,Vila Nova / GO,Sport / PE
+165,Paraná / PR,Atlético / GO
+166,Operário / PR,Guarani / SP
+167,Criciúma / SC,Red Bull Bragantino / SP
+168,Brasil / RS,São Bento / SP
+169,Vitória / BA,América / MG
+171,Ponte Preta / SP,Sport / PE
+172,Red Bull Bragantino / SP,Coritiba / PR
+173,Oeste / SP,Vila Nova / GO
+174,Atlético / GO,Brasil / RS
+175,Paraná / PR,Criciúma / SC
+176,Londrina / PR,São Bento / SP
+177,Figueirense / SC,CRB / AL
+178,América / MG,Guarani / SP
+179,Vitória / BA,Operário / PR
+180,Cuiabá / MT,Botafogo / SP
+181,Guarani / SP,Londrina / PR
+182,Botafogo / SP,Paraná / PR
+183,São Bento / SP,América / MG
+184,Vila Nova / GO,Cuiabá / MT
+185,Coritiba / PR,Vitória / BA
+186,Operário / PR,Figueirense / SC
+187,Criciúma / SC,Oeste / SP
+188,Brasil / RS,Ponte Preta / SP
+189,Sport / PE,Atlético / GO
+190,CRB / AL,Red Bull Bragantino / SP
+191,Ponte Preta / SP,Coritiba / PR
+192,Red Bull Bragantino / SP,Brasil / RS
+193,Oeste / SP,Sport / PE
+194,Atlético / GO,São Bento / SP
+195,Paraná / PR,Vila Nova / GO
+196,Londrina / PR,CRB / AL
+197,Figueirense / SC,Guarani / SP
+198,América / MG,Operário / PR
+199,Vitória / BA,Botafogo / SP
+200,Cuiabá / MT,Criciúma / SC
+201,Guarani / SP,Oeste / SP
+202,Botafogo / SP,América / MG
+203,São Bento / SP,Figueirense / SC
+204,Vila Nova / GO,Vitória / BA
+205,Coritiba / PR,Atlético / GO
+206,Operário / PR,Cuiabá / MT
+207,Criciúma / SC,Ponte Preta / SP
+208,Brasil / RS,Londrina / PR
+209,Sport / PE,Red Bull Bragantino / SP
+210,CRB / AL,Paraná / PR
+211,Ponte Preta / SP,Vila Nova / GO
+212,Botafogo / SP,São Bento / SP
+213,Oeste / SP,Operário / PR
+214,Atlético / GO,Red Bull Bragantino / SP
+215,Paraná / PR,Cuiabá / MT
+216,Londrina / PR,Coritiba / PR
+217,Figueirense / SC,Sport / PE
+218,América / MG,Criciúma / SC
+219,Vitória / BA,Guarani / SP
+220,CRB / AL,Brasil / RS
+221,Guarani / SP,Paraná / PR
+222,Red Bull Bragantino / SP,Londrina / PR
+223,São Bento / SP,Vitória / BA
+224,Vila Nova / GO,Botafogo / SP
+225,Coritiba / PR,CRB / AL
+226,Operário / PR,Ponte Preta / SP
+227,Criciúma / SC,Atlético / GO
+228,Brasil / RS,Figueirense / SC
+229,Sport / PE,América / MG
+230,Cuiabá / MT,Oeste / SP
+231,Guarani / SP,Criciúma / SC
+232,Botafogo / SP,Operário / PR
+233,Oeste / SP,São Bento / SP
+234,Vila Nova / GO,CRB / AL
+235,Paraná / PR,Ponte Preta / SP
+236,Londrina / PR,Sport / PE
+237,Figueirense / SC,Red Bull Bragantino / SP
+238,América / MG,Brasil / RS
+239,Vitória / BA,Atlético / GO
+240,Cuiabá / MT,Coritiba / PR
+241,Ponte Preta / SP,Cuiabá / MT
+242,Red Bull Bragantino / SP,Vitória / BA
+243,Oeste / SP,Paraná / PR
+244,Atlético / GO,Figueirense / SC
+245,Coritiba / PR,América / MG
+246,Londrina / PR,Vila Nova / GO
+247,Criciúma / SC,Botafogo / SP
+248,Brasil / RS,Guarani / SP
+249,Sport / PE,Operário / PR
+250,CRB / AL,São Bento / SP
+251,Guarani / SP,Atlético / GO
+252,Botafogo / SP,Ponte Preta / SP
+253,São Bento / SP,Red Bull Bragantino / SP
+254,Vila Nova / GO,Criciúma / SC
+255,Paraná / PR,Coritiba / PR
+256,Operário / PR,Brasil / RS
+257,Figueirense / SC,Oeste / SP
+258,América / MG,CRB / AL
+259,Vitória / BA,Sport / PE
+260,Cuiabá / MT,Londrina / PR
+261,Ponte Preta / SP,Londrina / PR
+262,Botafogo / SP,Figueirense / SC
+263,São Bento / SP,Vila Nova / GO
+264,Atlético / GO,Cuiabá / MT
+265,Coritiba / PR,Guarani / SP
+266,Operário / PR,Paraná / PR
+267,Criciúma / SC,Brasil / RS
+268,América / MG,Red Bull Bragantino / SP
+269,Vitória / BA,Oeste / SP
+270,CRB / AL,Sport / PE
+271,Guarani / SP,CRB / AL
+272,Red Bull Bragantino / SP,Paraná / PR
+273,Oeste / SP,Ponte Preta / SP
+274,Vila Nova / GO,Atlético / GO
+275,Coritiba / PR,Criciúma / SC
+276,Londrina / PR,Operário / PR
+277,Figueirense / SC,América / MG
+278,Brasil / RS,Botafogo / SP
+279,Sport / PE,São Bento / SP
+280,Cuiabá / MT,Vitória / BA
+281,Guarani / SP,Botafogo / SP
+282,Red Bull Bragantino / SP,Oeste / SP
+283,São Bento / SP,Coritiba / PR
+284,Atlético / GO,Ponte Preta / SP
+285,Paraná / PR,Brasil / RS
+286,Londrina / PR,Figueirense / SC
+287,Criciúma / SC,Vitória / BA
+288,América / MG,Vila Nova / GO
+289,Sport / PE,Cuiabá / MT
+290,CRB / AL,Operário / PR
+291,Ponte Preta / SP,Red Bull Bragantino / SP
+292,Botafogo / SP,Atlético / GO
+293,Oeste / SP,América / MG
+294,Vila Nova / GO,Coritiba / PR
+295,Paraná / PR,Figueirense / SC
+296,Operário / PR,São Bento / SP
+297,Criciúma / SC,CRB / AL
+298,Brasil / RS,Sport / PE
+299,Vitória / BA,Londrina / PR
+300,Cuiabá / MT,Guarani / SP
+301,Ponte Preta / SP,Vitória / BA
+302,Red Bull Bragantino / SP,Vila Nova / GO
+303,São Bento / SP,Guarani / SP
+304,Atlético / GO,América / MG
+305,Coritiba / PR,Operário / PR
+306,Londrina / PR,Oeste / SP
+307,Figueirense / SC,Criciúma / SC
+308,Brasil / RS,Cuiabá / MT
+309,Sport / PE,Paraná / PR
+310,CRB / AL,Botafogo / SP
+311,Guarani / SP,Sport / PE
+312,Botafogo / SP,Coritiba / PR
+313,Oeste / SP,CRB / AL
+314,Vila Nova / GO,Brasil / RS
+315,Paraná / PR,Londrina / PR
+316,Operário / PR,Atlético / GO
+317,Criciúma / SC,São Bento / SP
+318,América / MG,Ponte Preta / SP
+319,Vitória / BA,Figueirense / SC
+320,Cuiabá / MT,Red Bull Bragantino / SP
+321,Ponte Preta / SP,São Bento / SP
+322,Red Bull Bragantino / SP,Guarani / SP
+323,Oeste / SP,Botafogo / SP
+324,Atlético / GO,Londrina / PR
+325,Coritiba / PR,Sport / PE
+326,Operário / PR,Criciúma / SC
+327,Figueirense / SC,Vila Nova / GO
+328,América / MG,Paraná / PR
+329,Vitória / BA,Brasil / RS
+330,Cuiabá / MT,CRB / AL
+331,Guarani / SP,Ponte Preta / SP
+332,Botafogo / SP,Red Bull Bragantino / SP
+333,São Bento / SP,Cuiabá / MT
+334,Vila Nova / GO,Operário / PR
+335,Paraná / PR,Vitória / BA
+336,Londrina / PR,América / MG
+337,Figueirense / SC,Coritiba / PR
+338,Brasil / RS,Oeste / SP
+339,Sport / PE,Criciúma / SC
+340,CRB / AL,Atlético / GO
+341,Ponte Preta / SP,Figueirense / SC
+342,Botafogo / SP,Sport / PE
+343,Oeste / SP,Atlético / GO
+344,Vila Nova / GO,Guarani / SP
+345,Paraná / PR,São Bento / SP
+346,Operário / PR,Red Bull Bragantino / SP
+347,Criciúma / SC,Londrina / PR
+348,Brasil / RS,Coritiba / PR
+349,Vitória / BA,CRB / AL
+350,Cuiabá / MT,América / MG
+351,Guarani / SP,Operário / PR
+352,Red Bull Bragantino / SP,Criciúma / SC
+353,São Bento / SP,Brasil / RS
+354,Atlético / GO,Paraná / PR
+355,Coritiba / PR,Oeste / SP
+356,Londrina / PR,Botafogo / SP
+357,Figueirense / SC,Cuiabá / MT
+358,América / MG,Vitória / BA
+359,Sport / PE,Vila Nova / GO
+360,CRB / AL,Ponte Preta / SP
+361,Guarani / SP,América / MG
+362,Botafogo / SP,Cuiabá / MT
+363,São Bento / SP,Londrina / PR
+364,Vila Nova / GO,Oeste / SP
+365,Coritiba / PR,Red Bull Bragantino / SP
+366,Operário / PR,Vitória / BA
+367,Criciúma / SC,Paraná / PR
+368,Brasil / RS,Atlético / GO
+369,Sport / PE,Ponte Preta / SP
+370,CRB / AL,Figueirense / SC
+371,Ponte Preta / SP,Brasil / RS
+372,Red Bull Bragantino / SP,CRB / AL
+373,Oeste / SP,Criciúma / SC
+374,Atlético / GO,Sport / PE
+375,Paraná / PR,Botafogo / SP
+376,Londrina / PR,Guarani / SP
+377,Figueirense / SC,Operário / PR
+378,América / MG,São Bento / SP
+379,Vitória / BA,Coritiba / PR
+380,Cuiabá / MT,Vila Nova / GO

@@ -1,0 +1,206 @@
+Game,Home,Away
+001,Paysandu / PA,Santa Cruz / PE
+002,Treze / PB,Imperatriz / MA
+003,Manaus / AM,Vila Nova / GO
+004,Ferroviário / CE,Botafogo / PB
+005,Jacuipense / BA,Remo / PA
+006,São José / RS,São Bento / SP
+007,Brusque / SC,Ypiranga / RS
+008,Ituano / SP,Tombense / MG
+009,Boa / MG,Volta Redonda / RJ
+010,Londrina / PR,Criciúma / SC
+011,Remo / PA,Ferroviário / CE
+012,Botafogo / PB,Manaus / AM
+013,Imperatriz / MA,Jacuipense / BA
+014,Santa Cruz / PE,Treze / PB
+015,Vila Nova / GO,Paysandu / PA
+016,Ypiranga / RS,Londrina / PR
+017,Criciúma / SC,Boa / MG
+018,São Bento / SP,Brusque / SC
+019,Tombense / MG,São José / RS
+020,Volta Redonda / RJ,Ituano / SP
+021,Paysandu / PA,Treze / PB
+022,Botafogo / PB,Santa Cruz / PE
+023,Imperatriz / MA,Remo / PA
+024,Ferroviário / CE,Vila Nova / GO
+025,Jacuipense / BA,Manaus / AM
+026,São José / RS,Brusque / SC
+027,Criciúma / SC,São Bento / SP
+028,Ituano / SP,Londrina / PR
+029,Boa / MG,Ypiranga / RS
+030,Volta Redonda / RJ,Tombense / MG
+031,Remo / PA,Vila Nova / GO
+032,Treze / PB,Ferroviário / CE
+033,Manaus / AM,Paysandu / PA
+034,Santa Cruz / PE,Imperatriz / MA
+035,Jacuipense / BA,Botafogo / PB
+036,São José / RS,Volta Redonda / RJ
+037,Brusque / SC,Ituano / SP
+038,São Bento / SP,Ypiranga / RS
+039,Tombense / MG,Criciúma / SC
+040,Londrina / PR,Boa / MG
+041,Paysandu / PA,Jacuipense / BA
+042,Treze / PB,Remo / PA
+043,Imperatriz / MA,Botafogo / PB
+044,Ferroviário / CE,Manaus / AM
+045,Vila Nova / GO,Santa Cruz / PE
+046,Ypiranga / RS,Tombense / MG
+047,Criciúma / SC,Volta Redonda / RJ
+048,Ituano / SP,São José / RS
+049,Boa / MG,Brusque / SC
+050,Londrina / PR,São Bento / SP
+051,Paysandu / PA,Imperatriz / MA
+052,Botafogo / PB,Vila Nova / GO
+053,Manaus / AM,Treze / PB
+054,Santa Cruz / PE,Remo / PA
+055,Jacuipense / BA,Ferroviário / CE
+056,São José / RS,Boa / MG
+057,Brusque / SC,Londrina / PR
+058,Ituano / SP,Criciúma / SC
+059,Tombense / MG,São Bento / SP
+060,Volta Redonda / RJ,Ypiranga / RS
+061,Remo / PA,Botafogo / PB
+062,Treze / PB,Jacuipense / BA
+063,Manaus / AM,Santa Cruz / PE
+064,Ferroviário / CE,Paysandu / PA
+065,Vila Nova / GO,Imperatriz / MA
+066,Ypiranga / RS,Criciúma / SC
+067,Brusque / SC,Tombense / MG
+068,São Bento / SP,Volta Redonda / RJ
+069,Boa / MG,Ituano / SP
+070,Londrina / PR,São José / RS
+071,Remo / PA,Manaus / AM
+072,Botafogo / PB,Paysandu / PA
+073,Imperatriz / MA,Ferroviário / CE
+074,Santa Cruz / PE,Jacuipense / BA
+075,Vila Nova / GO,Treze / PB
+076,Ypiranga / RS,Ituano / SP
+077,Criciúma / SC,São José / RS
+078,São Bento / SP,Boa / MG
+079,Tombense / MG,Londrina / PR
+080,Volta Redonda / RJ,Brusque / SC
+081,Treze / PB,Botafogo / PB
+082,Manaus / AM,Imperatriz / MA
+083,Ferroviário / CE,Santa Cruz / PE
+084,Jacuipense / BA,Vila Nova / GO
+085,Paysandu / PA,Remo / PA
+086,São José / RS,Ypiranga / RS
+087,Brusque / SC,Criciúma / SC
+088,Ituano / SP,São Bento / SP
+089,Boa / MG,Tombense / MG
+090,Londrina / PR,Volta Redonda / RJ
+091,Remo / PA,Jacuipense / BA
+092,Botafogo / PB,Ferroviário / CE
+093,Imperatriz / MA,Treze / PB
+094,Santa Cruz / PE,Paysandu / PA
+095,Vila Nova / GO,Manaus / AM
+096,Ypiranga / RS,Brusque / SC
+097,Criciúma / SC,Londrina / PR
+098,São Bento / SP,São José / RS
+099,Tombense / MG,Ituano / SP
+100,Volta Redonda / RJ,Boa / MG
+101,Paysandu / PA,Vila Nova / GO
+102,Treze / PB,Santa Cruz / PE
+103,Manaus / AM,Botafogo / PB
+104,Ferroviário / CE,Remo / PA
+105,Jacuipense / BA,Imperatriz / MA
+106,São José / RS,Tombense / MG
+107,Brusque / SC,São Bento / SP
+108,Ituano / SP,Volta Redonda / RJ
+109,Boa / MG,Criciúma / SC
+110,Londrina / PR,Ypiranga / RS
+111,Remo / PA,Imperatriz / MA
+112,Treze / PB,Paysandu / PA
+113,Manaus / AM,Jacuipense / BA
+114,Santa Cruz / PE,Botafogo / PB
+115,Vila Nova / GO,Ferroviário / CE
+116,Ypiranga / RS,Boa / MG
+117,Brusque / SC,São José / RS
+118,São Bento / SP,Criciúma / SC
+119,Tombense / MG,Volta Redonda / RJ
+120,Londrina / PR,Ituano / SP
+121,Paysandu / PA,Manaus / AM
+122,Botafogo / PB,Jacuipense / BA
+123,Imperatriz / MA,Santa Cruz / PE
+124,Ferroviário / CE,Treze / PB
+125,Vila Nova / GO,Remo / PA
+126,Ypiranga / RS,São Bento / SP
+127,Criciúma / SC,Tombense / MG
+128,Ituano / SP,Brusque / SC
+129,Boa / MG,Londrina / PR
+130,Volta Redonda / RJ,São José / RS
+131,Remo / PA,Treze / PB
+132,Botafogo / PB,Imperatriz / MA
+133,Manaus / AM,Ferroviário / CE
+134,Santa Cruz / PE,Vila Nova / GO
+135,Jacuipense / BA,Paysandu / PA
+136,São José / RS,Ituano / SP
+137,Brusque / SC,Boa / MG
+138,São Bento / SP,Londrina / PR
+139,Tombense / MG,Ypiranga / RS
+140,Volta Redonda / RJ,Criciúma / SC
+141,Remo / PA,Santa Cruz / PE
+142,Treze / PB,Manaus / AM
+143,Imperatriz / MA,Paysandu / PA
+144,Ferroviário / CE,Jacuipense / BA
+145,Vila Nova / GO,Botafogo / PB
+146,Ypiranga / RS,Volta Redonda / RJ
+147,Criciúma / SC,Ituano / SP
+148,São Bento / SP,Tombense / MG
+149,Boa / MG,São José / RS
+150,Londrina / PR,Brusque / SC
+151,Paysandu / PA,Ferroviário / CE
+152,Botafogo / PB,Remo / PA
+153,Imperatriz / MA,Vila Nova / GO
+154,Santa Cruz / PE,Manaus / AM
+155,Jacuipense / BA,Treze / PB
+156,São José / RS,Londrina / PR
+157,Criciúma / SC,Ypiranga / RS
+158,Ituano / SP,Boa / MG
+159,Tombense / MG,Brusque / SC
+160,Volta Redonda / RJ,São Bento / SP
+161,Paysandu / PA,Botafogo / PB
+162,Treze / PB,Vila Nova / GO
+163,Manaus / AM,Remo / PA
+164,Ferroviário / CE,Imperatriz / MA
+165,Jacuipense / BA,Santa Cruz / PE
+166,São José / RS,Criciúma / SC
+167,Brusque / SC,Volta Redonda / RJ
+168,Ituano / SP,Ypiranga / RS
+169,Boa / MG,São Bento / SP
+170,Londrina / PR,Tombense / MG
+171,Remo / PA,Paysandu / PA
+172,Botafogo / PB,Treze / PB
+174,Santa Cruz / PE,Ferroviário / CE
+175,Vila Nova / GO,Jacuipense / BA
+176,Ypiranga / RS,São José / RS
+177,Criciúma / SC,Brusque / SC
+178,São Bento / SP,Ituano / SP
+179,Tombense / MG,Boa / MG
+180,Volta Redonda / RJ,Londrina / PR
+181,Brusque / SC,Santa Cruz / PE
+182,Vila Nova / GO,Ituano / SP
+183,Paysandu / PA,Ypiranga / RS
+184,Londrina / PR,Remo / PA
+185,Santa Cruz / PE,Vila Nova / GO
+186,Ituano / SP,Brusque / SC
+187,Ypiranga / RS,Londrina / PR
+188,Remo / PA,Paysandu / PA
+189,Ituano / SP,Santa Cruz / PE
+190,Brusque / SC,Vila Nova / GO
+191,Remo / PA,Ypiranga / RS
+192,Paysandu / PA,Londrina / PR
+193,Santa Cruz / PE,Ituano / SP
+194,Vila Nova / GO,Brusque / SC
+195,Ypiranga / RS,Remo / PA
+196,Londrina / PR,Paysandu / PA
+197,Vila Nova / GO,Santa Cruz / PE
+198,Brusque / SC,Ituano / SP
+199,Londrina / PR,Ypiranga / RS
+200,Paysandu / PA,Remo / PA
+201,Santa Cruz / PE,Brusque / SC
+202,Ituano / SP,Vila Nova / GO
+203,Ypiranga / RS,Paysandu / PA
+204,Remo / PA,Londrina / PR
+205,Vila Nova / GO,Remo / PA
+206,Remo / PA,Vila Nova / GO
