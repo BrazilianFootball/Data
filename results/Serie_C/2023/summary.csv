@@ -1,0 +1,55 @@
+Game,Home,Away
+001,São José / RS,Floresta / CE
+002,Paysandu / PA,Aparecidense / GO
+003,Sao Bernardo / SP,Remo / PA
+004,América / RN,Ypiranga / RS
+005,Volta Redonda / RJ,Pouso Alegre / MG
+006,CSA / AL,Confiança / SE
+007,Botafogo / PB,Operário / PR
+008,Altos / PI,Figueirense / SC
+009,Manaus / AM,Náutico / PE
+010,Brusque / SC,Amazonas / AM
+011,Ypiranga / RS,CSA / AL
+012,Remo / PA,Botafogo / PB
+013,Operário / PR,Manaus / AM
+014,Náutico / PE,São José / RS
+015,Pouso Alegre / MG,Brusque / SC
+016,Confiança / SE,Altos / PI
+017,Floresta / CE,Volta Redonda / RJ
+018,Aparecidense / GO,Sao Bernardo / SP
+019,Figueirense / SC,Paysandu / PA
+020,Amazonas / AM,América / RN
+021,Ypiranga / RS,Paysandu / PA
+022,Remo / PA,Amazonas / AM
+023,Operário / PR,São José / RS
+024,América / RN,Botafogo / PB
+025,Pouso Alegre / MG,Sao Bernardo / SP
+026,Confiança / SE,Figueirense / SC
+027,Floresta / CE,CSA / AL
+028,Aparecidense / GO,Náutico / PE
+029,Manaus / AM,Altos / PI
+030,Brusque / SC,Volta Redonda / RJ
+031,São José / RS,Remo / PA
+032,Paysandu / PA,Manaus / AM
+033,Sao Bernardo / SP,Confiança / SE
+034,Náutico / PE,Floresta / CE
+035,Volta Redonda / RJ,América / RN
+036,CSA / AL,Brusque / SC
+037,Botafogo / PB,Pouso Alegre / MG
+038,Altos / PI,Ypiranga / RS
+039,Figueirense / SC,Aparecidense / GO
+040,Amazonas / AM,Operário / PR
+041,Ypiranga / RS,Manaus / AM
+042,Remo / PA,Confiança / SE
+043,Operário / PR,Pouso Alegre / MG
+044,Náutico / PE,América / RN
+045,Volta Redonda / RJ,Paysandu / PA
+046,CSA / AL,Sao Bernardo / SP
+047,Floresta / CE,Amazonas / AM
+048,Aparecidense / GO,Altos / PI
+049,Figueirense / SC,Botafogo / PB
+050,Brusque / SC,São José / RS
+054,América / RN,Operário / PR
+055,Pouso Alegre / MG,Náutico / PE
+058,Altos / PI,CSA / AL
+059,Manaus / AM,Volta Redonda / RJ

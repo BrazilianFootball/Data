@@ -24,17 +24,17 @@ if __name__ == '__main__':
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Scraping] - Beginning docket scraping.\n')
         
         start_scrape = time()
-        n = len(glob('*/*/CSVs/*.csv'))
-        max_time = 30
+        n = len(glob('../*/*/*/CSVs/*.csv'))
+        max_time = 60
         added = 0
         it = 1
         k = 0
         while n != k:
-            files = glob('*/*/*/CSVs/*.csv')
+            files = glob('../*/*/*/CSVs/*.csv')
             k = len(files)
             if it == 1: scrape(competitions, min_year, max_year, files, max_time, cleaning = cleaning)
             else: scrape(competitions, min_year, max_year, files, max_time / 2, cleaning = cleaning)
-            n = len(glob('*/*/*/CSVs/*.csv'))
+            n = len(glob('../*/*/*/CSVs/*.csv'))
             added += n - k
             it += 1
         

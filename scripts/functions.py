@@ -152,7 +152,7 @@ def catch_players(text):
         if 'T(g)' in goalkeeper: continue
         text = text.replace(goalkeeper[-10:], goalkeeper[-10:].replace('TP', 'T(g)P'))
     
-    players = re.findall('(\d+\D+[P|A|)|T|R]\s*\d{6})', text)
+    players = re.findall('\n(\d+.+[P|A|)|T|R]\s*\d{6})', text)
     for i in range(len(players)):
         if i > 0 and 'T(g)' in players[i]: club = club_2
         players[i] = [players[i], club]
@@ -183,7 +183,7 @@ def treat_game_players(players, home, away):
     for player in players:
         player, club = player
         numbers = re.findall('\d+', player)
-        shirt, cod = numbers
+        shirt, cod = numbers[0], numbers[-1]
         game_players[club][shirt] = cod
         
     return game_players
@@ -428,6 +428,7 @@ def treat_change(change, home, away):
     if 'CRAC / GO' in [home, away] and club == 'Crac': return 'CRAC / GO', time, player_in, player_out
     if 'Sampaio Corrêa / MA' in [home, away] and club == 'Sampaio Correa': return 'Sampaio Corrêa / MA', time, player_in, player_out
     if 'Águia de Marabá / PA' in [home, away] and club == 'Aguia': return 'Águia de Marabá / PA', time, player_in, player_out
+    if 'Maringá / PR' in [home, away] and club == 'Maringá Sa': return 'Maringá / PR', time, player_in, player_out
     
     return club, time, player_in, player_out
     

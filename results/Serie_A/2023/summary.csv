@@ -1,0 +1,85 @@
+Game,Home,Away
+001,Flamengo / RJ,Coritiba / PR
+002,Botafogo / RJ,São Paulo / SP
+003,Palmeiras / SP,Cuiabá / MT
+004,Corinthians / SP,Cruzeiro / MG
+005,Red Bull Red Bull Bragantino / SP,Bahia / BA
+006,Atlético Mineiro / MG,Vasco da Gama / RJ
+007,Grêmio / RS,Santos / SP
+008,Athletico Paranaense / PR,Goiás / GO
+009,Fortaleza / CE,Internacional / RS
+010,América / MG,Fluminense / RJ
+011,Fluminense / RJ,Athletico Paranaense / PR
+012,Vasco da Gama / RJ,Palmeiras / SP
+013,São Paulo / SP,América / MG
+014,Santos / SP,Atlético Mineiro / MG
+015,Goiás / GO,Corinthians / SP
+016,Cruzeiro / MG,Grêmio / RS
+017,Internacional / RS,Flamengo / RJ
+018,Coritiba / PR,Fortaleza / CE
+019,Bahia / BA,Botafogo / RJ
+020,Cuiabá / MT,Red Bull Red Bull Bragantino / SP
+021,Flamengo / RJ,Botafogo / RJ
+022,Vasco da Gama / RJ,Bahia / BA
+023,Palmeiras / SP,Corinthians / SP
+024,Santos / SP,América / MG
+025,Red Bull Red Bull Bragantino / SP,Cruzeiro / MG
+026,Atlético Mineiro / MG,Athletico Paranaense / PR
+027,Internacional / RS,Goiás / GO
+028,Coritiba / PR,São Paulo / SP
+029,Fortaleza / CE,Fluminense / RJ
+030,Cuiabá / MT,Grêmio / RS
+031,Fluminense / RJ,Vasco da Gama / RJ
+032,Botafogo / RJ,Atlético Mineiro / MG
+033,São Paulo / SP,Internacional / RS
+034,Corinthians / SP,Fortaleza / CE
+035,Goiás / GO,Palmeiras / SP
+036,Cruzeiro / MG,Santos / SP
+037,Grêmio / RS,Red Bull Red Bull Bragantino / SP
+038,Athletico Paranaense / PR,Flamengo / RJ
+039,Bahia / BA,Coritiba / PR
+040,América / MG,Cuiabá / MT
+041,Flamengo / RJ,Goiás / GO
+042,Botafogo / RJ,Corinthians / SP
+043,Palmeiras / SP,Grêmio / RS
+044,Santos / SP,Bahia / BA
+045,Red Bull Red Bull Bragantino / SP,América / MG
+046,Cruzeiro / MG,Fluminense / RJ
+047,Internacional / RS,Athletico Paranaense / PR
+048,Coritiba / PR,Vasco da Gama / RJ
+049,Fortaleza / CE,São Paulo / SP
+050,Cuiabá / MT,Atlético Mineiro / MG
+051,Fluminense / RJ,Cuiabá / MT
+052,Vasco da Gama / RJ,Santos / SP
+053,Palmeiras / SP,Red Bull Red Bull Bragantino / SP
+054,Corinthians / SP,São Paulo / SP
+055,Goiás / GO,Botafogo / RJ
+056,Atlético Mineiro / MG,Internacional / RS
+057,Grêmio / RS,Fortaleza / CE
+058,Athletico Paranaense / PR,Coritiba / PR
+059,Bahia / BA,Flamengo / RJ
+060,América / MG,Cruzeiro / MG
+061,Flamengo / RJ,Corinthians / SP
+062,Botafogo / RJ,Fluminense / RJ
+063,São Paulo / SP,Vasco da Gama / RJ
+064,Santos / SP,Palmeiras / SP
+065,Red Bull Red Bull Bragantino / SP,Athletico Paranaense / PR
+066,Cruzeiro / MG,Cuiabá / MT
+067,Grêmio / RS,Internacional / RS
+068,Coritiba / PR,Atlético Mineiro / MG
+069,Bahia / BA,Goiás / GO
+070,América / MG,Fortaleza / CE
+071,Flamengo / RJ,Cruzeiro / MG
+072,Botafogo / RJ,América / MG
+073,São Paulo / SP,Goiás / GO
+074,Corinthians / SP,Fluminense / RJ
+075,Red Bull Red Bull Bragantino / SP,Santos / SP
+076,Atlético Mineiro / MG,Palmeiras / SP
+077,Internacional / RS,Bahia / BA
+078,Athletico Paranaense / PR,Grêmio / RS
+079,Fortaleza / CE,Vasco da Gama / RJ
+080,Cuiabá / MT,Coritiba / PR
+086,Cruzeiro / MG,Atlético Mineiro / MG
+088,Athletico Paranaense / PR,Botafogo / RJ
+089,Fortaleza / CE,Bahia / BA
+090,América / MG,Corinthians / SP
