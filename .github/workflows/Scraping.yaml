@@ -1,0 +1,45 @@
+run-name: Updates
+
+on:
+  schedule:
+    - cron: "3 6 * * *"
+
+jobs:
+  Scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+      
+      - name: Configure repo
+        run: |
+          git config --global user.name 'IgorMichels'
+          git config --global user.email 'igorxadrezbr@gmail.com'
+          git pull
+      
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      
+      - name: Execute scraping
+        run: |
+          cd Scrape/
+          cd scripts/
+          python main.py -s -a
+          cd ../
+          cd ../
+                
+      - name: Commit changes
+        run: |
+          git add *
+          git commit -m "Automated update"
+          git push
+
