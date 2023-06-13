@@ -87,10 +87,33 @@ Game,Home,Away
 088,Chapecoense / SC,Sampaio Corrêa / MA
 089,Tombense / MG,Guarani / SP
 090,CRB / AL,Juventude / RS
+091,Guarani / SP,CRB / AL
 092,Vila Nova / GO,Sampaio Corrêa / MA
 093,Criciúma / SC,Atlético / GO
 094,Botafogo / SP,Tombense / MG
 095,Mirassol / SP,Ponte Preta / SP
 096,Vitória / BA,Ituano / SP
+097,Ceará / CE,Chapecoense / SC
 098,Juventude / RS,Avaí / SC
+099,Londrina / PR,Sport / PE
 100,ABC / RN,Novorizontino / SP
+101,Ponte Preta / SP,ABC / RN
+102,Atlético / GO,Ceará / CE
+103,Criciúma / SC,Juventude / RS
+104,Botafogo / SP,Ituano / SP
+105,Novorizontino / SP,Guarani / SP
+106,Sport / PE,Avaí / SC
+107,Sampaio Corrêa / MA,Londrina / PR
+108,Chapecoense / SC,Vila Nova / GO
+109,Tombense / MG,Vitória / BA
+110,CRB / AL,Mirassol / SP
+111,Ponte Preta / SP,Sport / PE
+112,Vila Nova / GO,Guarani / SP
+113,Avaí / SC,Botafogo / SP
+114,Ituano / SP,Atlético / GO
+115,Novorizontino / SP,Sampaio Corrêa / MA
+116,Vitória / BA,Criciúma / SC
+117,Ceará / CE,CRB / AL
+118,Juventude / RS,Tombense / MG
+119,Londrina / PR,Mirassol / SP
+120,ABC / RN,Chapecoense / SC

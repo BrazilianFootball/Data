@@ -49,7 +49,33 @@ Game,Home,Away
 048,Aparecidense / GO,Altos / PI
 049,Figueirense / SC,Botafogo / PB
 050,Brusque / SC,São José / RS
+051,Ypiranga / RS,Aparecidense / GO
+052,Paysandu / PA,São José / RS
+053,Sao Bernardo / SP,Figueirense / SC
 054,América / RN,Operário / PR
 055,Pouso Alegre / MG,Náutico / PE
+056,Confiança / SE,Amazonas / AM
+057,Botafogo / PB,Floresta / CE
 058,Altos / PI,CSA / AL
 059,Manaus / AM,Volta Redonda / RJ
+060,Brusque / SC,Remo / PA
+061,São José / RS,Altos / PI
+062,Remo / PA,América / RN
+063,Operário / PR,Paysandu / PA
+064,Náutico / PE,Volta Redonda / RJ
+065,Pouso Alegre / MG,Confiança / SE
+066,CSA / AL,Manaus / AM
+067,Floresta / CE,Sao Bernardo / SP
+068,Aparecidense / GO,Brusque / SC
+069,Figueirense / SC,Ypiranga / RS
+070,Amazonas / AM,Botafogo / PB
+071,Ypiranga / RS,São José / RS
+072,Paysandu / PA,Sao Bernardo / SP
+073,Operário / PR,CSA / AL
+074,América / RN,Brusque / SC
+075,Volta Redonda / RJ,Botafogo / PB
+076,Confiança / SE,Náutico / PE
+077,Floresta / CE,Altos / PI
+078,Aparecidense / GO,Remo / PA
+079,Figueirense / SC,Pouso Alegre / MG
+080,Amazonas / AM,Manaus / AM

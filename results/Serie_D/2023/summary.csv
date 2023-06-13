@@ -127,11 +127,20 @@ Game,Home,Away
 126,Caxias / RS,Brasil / RS
 127,Hercilio Luz / SC,Camboriu / SC
 128,Concordia Atlético Clube / SC,Sãojoseense / PR
+129,Tuna Luso / PA,Aguia de Maraba / PA
+130,Sao Francisco / AC,Humaitá / AC
+131,Trem / AP,Princesa do Solimões / AM
+132,Nacional / AM,São Raimundo / RR
 133,Atlético / CE,Ferroviário / CE
+134,Caucaia / CE,Tocantinópolis / TO
 135,Maranhão / MA,Fluminense / PI
+136,Parnahyba / PI,Cordino / MA
 137,Campinense / PB,Nacional / PB
 138,Santa Cruz / PE,Sousa / PB
+139,Pacajus / CE,Potiguar / RN
+140,Globo / RN,Iguatu / CE
 141,Atlético / BA,Bahia de Feira / BA
+142,Jacuipense / BA,Retrô / PE
 143,Cruzeiro / AL,Sergipe / SE
 144,Falcon / SE,ASA / AL
 145,Brasiliense / DF,Ceilândia / DF
@@ -141,8 +150,76 @@ Game,Home,Away
 149,Resende / RJ,Nova Iguaçu / RJ
 150,Portuguesa / RJ,Santo André / SP
 151,Vitória / ES,Atlhetic Ce / MG
+152,Ec Democrata / MG,Real Noroeste / ES
 153,Inter de Limeira / SP,XV de Piracicaba / SP
 154,Ferroviária / SP,Crac / GO
 155,Atlético Patrocinense / MG,Maringá / PR
 156,Cascavel / PR,Operário / MS
+157,Brasil / RS,Aimoré / RS
+158,Novo Hamburgo / RS,Caxias / RS
+159,Concordia Atlético Clube / SC,Hercilio Luz / SC
 160,Sãojoseense / PR,Camboriu / SC
+161,Aguia de Maraba / PA,Nacional / AM
+162,Princesa do Solimões / AM,Humaitá / AC
+163,Sao Francisco / AC,Trem / AP
+164,São Raimundo / RR,Tuna Luso / PA
+165,Ferroviário / CE,Parnahyba / PI
+166,Fluminense / PI,Tocantinópolis / TO
+167,Caucaia / CE,Maranhão / MA
+168,Cordino / MA,Atlético / CE
+169,Nacional / PB,Globo / RN
+170,Potiguar / RN,Sousa / PB
+171,Santa Cruz / PE,Pacajus / CE
+172,Iguatu / CE,Campinense / PB
+173,Bahia de Feira / BA,Falcon / SE
+174,Sergipe / SE,Retrô / PE
+175,Jacuipense / BA,Cruzeiro / AL
+176,ASA / AL,Atlético / BA
+177,Ceilândia / DF,Anápolis / GO
+178,Ipora / GO,Real Ariquemes / RO
+179,Interporto / TO,Operário Ceov / MT
+180,União de Rondonópolis / MT,Brasiliense / DF
+181,Nova Iguaçu / RJ,Ec Democrata / MG
+182,Atlhetic Ce / MG,Santo André / SP
+183,Portuguesa / RJ,Vitória / ES
+184,Real Noroeste / ES,Resende / RJ
+185,XV de Piracicaba / SP,Cascavel / PR
+186,Maringá / PR,Crac / GO
+187,Ferroviária / SP,Atlético Patrocinense / MG
+188,Operário / MS,Inter de Limeira / SP
+189,Aimoré / RS,Sãojoseense / PR
+190,Hercilio Luz / SC,Caxias / RS
+191,Novo Hamburgo / RS,Concordia Atlético Clube / SC
+192,Camboriu / SC,Brasil / RS
+193,Trem / AP,Aguia de Maraba / PA
+194,Humaitá / AC,São Raimundo / RR
+195,Nacional / AM,Sao Francisco / AC
+196,Tuna Luso / PA,Princesa do Solimões / AM
+197,Maranhão / MA,Ferroviário / CE
+198,Tocantinópolis / TO,Cordino / MA
+199,Parnahyba / PI,Caucaia / CE
+200,Atlético / CE,Fluminense / PI
+201,Pacajus / CE,Nacional / PB
+202,Sousa / PB,Iguatu / CE
+203,Globo / RN,Santa Cruz / PE
+204,Campinense / PB,Potiguar / RN
+205,Cruzeiro / AL,Bahia de Feira / BA
+206,Retrô / PE,ASA / AL
+207,Falcon / SE,Jacuipense / BA
+208,Atlético / BA,Sergipe / SE
+209,Operário Ceov / MT,Ceilândia / DF
+210,Real Ariquemes / RO,União de Rondonópolis / MT
+211,Anápolis / GO,Interporto / TO
+212,Brasiliense / DF,Ipora / GO
+213,Vitória / ES,Nova Iguaçu / RJ
+214,Santo André / SP,Real Noroeste / ES
+215,Ec Democrata / MG,Portuguesa / RJ
+216,Resende / RJ,Atlhetic Ce / MG
+217,Atlético Patrocinense / MG,XV de Piracicaba / SP
+218,Crac / GO,Operário / MS
+219,Cascavel / PR,Ferroviária / SP
+220,Inter de Limeira / SP,Maringá / PR
+221,Concordia Atlético Clube / SC,Aimoré / RS
+222,Caxias / RS,Camboriu / SC
+223,Sãojoseense / PR,Novo Hamburgo / RS
+224,Brasil / RS,Hercilio Luz / SC
