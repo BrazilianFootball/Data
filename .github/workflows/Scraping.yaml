@@ -31,10 +31,8 @@ jobs:
       
       - name: Execute scraping
         run: |
-          cd Scrape/
           cd scripts/
           python main.py -s -a
-          cd ../
           cd ../
                 
       - name: Commit changes
