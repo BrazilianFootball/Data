@@ -1,4 +1,5 @@
 from datetime import datetime
+from time import time
 from scrape import *
 import sys
 import os
@@ -9,16 +10,16 @@ if __name__ == '__main__':
     if now.strftime('%d') == '01': min_year = 2013
     else: min_year = int(now.strftime('%Y'))
     max_year = int(now.strftime('%Y'))
-    competitions = [('CdB', '424'),
-                    ('Serie_A', '142'),
-                    ('Serie_B', '242'),
-                    ('Serie_C', '342'),
-                    ('Serie_D', '542')]
+    competitions = [('CdB',     '424', 180),
+                    ('Serie_A', '142', 380),
+                    ('Serie_B', '242', 380),
+                    ('Serie_C', '342', 214),
+                    ('Serie_D', '542', 518)]
     
-    if '-a' in sys.argv: cleaning = False
-    else: cleaning = True
+    if '--c' in sys.argv: cleaning = True
+    else: cleaning = False
     
-    if '-s' in sys.argv or len(sys.argv) == 1:
+    if '--s' in sys.argv or len(sys.argv) == 1:
         make_directories(competitions, min_year, max_year)
         with open('../auxiliary/scrape.log', 'a') as f:
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Scraping] - Beginning docket scraping.\n')
@@ -45,7 +46,7 @@ if __name__ == '__main__':
             elif added == 1: f.write('                                   [INFO] 1 docket added.\n')
             else: f.write(f'                                   [INFO] {added} dockets addeds.\n')
             
-        if added > 0 or '-e' in sys.argv:
+        if added > 0 or '--t' in sys.argv:
             start_extract = time()
             with open('../auxiliary/scrape.log', 'a') as f:
                 f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Extract]  - Beginning info extract.\n')
@@ -77,7 +78,7 @@ if __name__ == '__main__':
                   'Nothing to add.',
                   sep = '\n')
     
-    elif '-e' in sys.argv:
+    elif '--t' in sys.argv:
         start_extract = time()
         with open('../auxiliary/scrape.log', 'a') as f:
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Extract]  - Beginning info extract.\n')
