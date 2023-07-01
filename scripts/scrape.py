@@ -11,6 +11,15 @@ import os
 from PyPDF2 import *
 
 def make_directories(competitions, min_year, max_year):
+    '''
+    Creates directories for storing PDF and CSV files for each competition and year.
+    
+    Args:
+        competitions (list): A list of competition names and codes in the format [(name, code)].
+        min_year (int): The minimum year.
+        max_year (int): The maximum year.
+    '''
+
     for competition in competitions:
         name, cod = competition
         if name not in os.listdir(): os.mkdir(name)
@@ -26,6 +35,17 @@ def make_directories(competitions, min_year, max_year):
         os.chdir('..')
 
 def extract_games(competition, cod, year, n_max, files):
+    '''
+    Extracts games data from PDF files and saves them as PDF and CSV files.
+    
+    Args:
+        competition (str): The name of the competition.
+        cod (str): The code of the competition.
+        year (int): The year of the games.
+        n_max (int): The maximum number of games.
+        files (list): A list of existing file paths.
+    '''
+
     count_end = 0
     for game in range(1, n_max + 1):
         if count_end == 10: break
@@ -60,9 +80,31 @@ def extract_games(competition, cod, year, n_max, files):
         except: pass
 
 def get_pdf(url):
+    '''
+    Retrieves the content of a PDF file from the specified URL.
+    
+    Args:
+        url (str): The URL of the PDF file.
+    
+    Returns:
+        bytes: The content of the PDF file.
+    '''
+
     return requests.get(url).content
 
 def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = True):
+    '''
+    Scrapes games data from websites and saves them as PDF and CSV files.
+    
+    Args:
+        competitions (list): A list of competition names and codes in the format [(name, code)].
+        min_year (int): The minimum year.
+        max_year (int): The maximum year.
+        files (list): A list of existing file paths.
+        max_time (int): The maximum time (in seconds) to wait for each scraping process. Defaults to 600 seconds.
+        cleaning (bool): Flag indicating whether to clear the console output before scraping. Defaults to True.
+    '''
+
     with open('../auxiliary/number_of_games.json', 'r') as f: n_games = json.load(f)
     errors = {}
     for competition in competitions:
@@ -79,6 +121,19 @@ def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = T
             p.terminate()
 
 def extract(competitions, min_year, max_year, cleaning = True):
+    '''
+    Extracts game data from CSV files and generates summary files for each competition and year.
+    
+    Args:
+        competitions (list): A list of competition names and codes in the format [(name, code)].
+        min_year (int): The minimum year.
+        max_year (int): The maximum year.
+        cleaning (bool): Flag indicating whether to clear the console output before extracting. Defaults to True.
+    
+    Returns:
+        int: The total number of extraction failures.
+    '''
+
     with open('../auxiliary/number_of_games.json', 'r') as f: n_games = json.load(f)
     with open('../auxiliary/exceptions.json', 'r') as f: exceptions = json.load(f)
 
@@ -176,9 +231,15 @@ def extract(competitions, min_year, max_year, cleaning = True):
     return cont_fail
 
 def catch_squads(competitions, min_year, max_year, cleaning = True):
-    erros = []
-    with open('../auxiliary/number_of_games.json', 'r') as f: n_games = json.load(f)
-    with open('../auxiliary/exceptions.json', 'r') as f: exceptions = json.load(f)
+    '''
+    Updates the lineups data for each game in the specified competitions and years.
+    
+    Args:
+        competitions (list): A list of competition names and codes in the format [(name, code)].
+        min_year (int): The minimum year.
+        max_year (int): The maximum year.
+        cleaning (bool): Flag indicating whether to clear the console output before updating lineups. Defaults to True.
+    '''
 
     model = {'Mandante' : [],
              'Visitante' : [],
@@ -206,9 +267,6 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 home = games[game]['Mandante']
                 away = games[game]['Visitante']
                 players = games[game]['Jogadores']
-                #print()
-                #print(games[game]['Jogadores'])
-                #print(competition, game)
                 if players[0][1] == players[-1][1]: continue
                 
                 game_players = treat_game_players(players, home, away)

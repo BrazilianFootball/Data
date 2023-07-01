@@ -2,9 +2,23 @@ import re
 import os
 
 def clear():
+    '''
+    Clears the console screen.
+    '''
+
     os.system('clear')
 
 def treat_time(time_string):
+    '''
+    Parses the time string and returns the corresponding time in minutes.
+
+    Args:
+        time_string (str): The time string in the format 'HH' or 'HH+T' or '2T'.
+
+    Returns:
+        int: The time in minutes.
+    '''
+
     time = 0
     if '2T' in time_string: time += 45
     if '+' in time_string: time += 45
@@ -13,6 +27,16 @@ def treat_time(time_string):
     return time
 
 def treat_club(club):
+    '''
+    Formats the club name by removing unnecessary words and characters.
+
+    Args:
+        club (str): The club name.
+
+    Returns:
+        str: The formatted club name.
+    '''
+
     club = club.replace('Saf ', '')
     club = club.replace('S.a.f ', '')
     club = club.replace('S.A.F ', '')
@@ -108,6 +132,16 @@ def treat_club(club):
     return club
     
 def treat_round_35_sB(club):
+    '''
+    Treats the club name specifically for round 35 of Campeonato Brasileiro - Série B in 2013.
+
+    Args:
+        club (str): The club name.
+
+    Returns:
+        str: The treated club name.
+    '''
+
     club = treat_club(club)
     club = club.replace('A.s.a. /  ', 'ASA / AL')
     club = club.replace('Avaí / ', 'Avaí / SC')
@@ -133,17 +167,47 @@ def treat_round_35_sB(club):
     return club
     
 def catch_teams(text):
+    '''
+    Extracts the names of the teams from the given text.
+
+    Args:
+        text (str): The text containing the team names.
+
+    Returns:
+        list: A list of tuples containing the home and away team names.
+    '''
+
     if 'Campeonato: Campeonato Brasileiro - Série B / 2013 Rodada: 35 ' in text: text = treat_round_35_sB(text)
     else: text = treat_club(text)
     return re.findall('Jogo:\s*([a-zA-Z0-9À-ÿ\s\.\-]+\s*\/\s*[A-Z]{2})\s*X\s*([a-zA-Z0-9À-ÿ\s\.\-]+\s*\/\s*[A-Z]{2})', text)
 
 def final_result(text):
+    '''
+    Extracts the final result of the match from the given text.
+
+    Args:
+        text (str): The text containing the match result.
+
+    Returns:
+        list: A list of strings representing the final result.
+    '''
+
     result = re.findall('Resultado\s*Final:\s*(\d+\s*[xX]\s*\d+)', text)
     if len(result) == 0: result = re.findall('Resultado\s*do\s*2º\s*Tempo:\s*(\d+\s*[xX]\s*\d+)', text)
     
     return result
 
 def catch_players(text):
+    '''
+    Extracts the players' information from the given text.
+
+    Args:
+        text (str): The text containing the players' information.
+
+    Returns:
+        list: A list of tuples containing the player's information and the corresponding club.
+    '''
+
     club_1, club_2 = catch_teams(text)[0]
     club = club_1
     text = text[text.find('Relação de Jogadores'):text.find('Comissão Técnica')]
@@ -179,6 +243,18 @@ def catch_players(text):
     return players
     
 def treat_game_players(players, home, away):
+    '''
+    Processes the list of players and their clubs to create a dictionary of game players.
+
+    Args:
+        players (list): A list of tuples representing players and their clubs.
+        home (str): The home team's club name.
+        away (str): The away team's club name.
+
+    Returns:
+        dict: A dictionary containing the game players, organized by club.
+    '''
+
     game_players = {home : {}, away : {}}
     for player in players:
         player, club = player
@@ -189,6 +265,16 @@ def treat_game_players(players, home, away):
     return game_players
 
 def catch_goals(text):
+    '''
+    Extracts the goal information from the given text.
+
+    Args:
+        text (str): The text containing the goal information.
+
+    Returns:
+        list: A list of goal strings.
+    '''
+
     result = final_result(text)
     text = text[text.find('Gols'):text.find('Cartões Amarelos')]
     if len(result) == 0: return []
@@ -247,6 +333,18 @@ def catch_goals(text):
     return goals
     
 def treat_goal(goal, home, away):
+    '''
+    Processes a single goal string and determines the time and scoring team.
+
+    Args:
+        goal (str): The goal string to be processed.
+        home (str): The home team's club name.
+        away (str): The away team's club name.
+
+    Returns:
+        tuple: A tuple containing the time (str) and scoring team (str).
+    '''
+
     if ' / ' not in goal:
         if ' /' in goal: goal = goal.replace(' /', ' / ')
         elif '/ ' in goal: goal = goal.replace('/ ', ' / ')
@@ -373,12 +471,35 @@ def treat_goal(goal, home, away):
     return time, goal
     
 def treat_game_goals(goals, home, away):
+    '''
+    Treats the game goals list by applying the treat_goal function to each goal.
+    Sorts the goals list based on the time of each goal.
+    
+    Args:
+        goals (list): A list of goals in the format [time, player].
+        home (str): The name of the home team.
+        away (str): The name of the away team.
+    
+    Returns:
+        list: The treated and sorted goals list.
+    '''
+    
     for i in range(len(goals)): goals[i] = treat_goal(goals[i], home, away)
     goals = sorted(goals, key = lambda x : x[0])
     
     return goals
     
 def find_changes(text):
+    '''
+    Finds and extracts the substitutions from the given text.
+    
+    Args:
+        text (str): The text containing the substitutions.
+    
+    Returns:
+        list: A list of substitution strings.
+    '''
+
     text = text[text.find('Substituições'):]
     text = treat_club(text)
     regex  = '\d{2}:\d{2}\s*\dT[a-zA-ZÀ-ÿ\-\.\s]+\/[A-Z]{2}\s*'
@@ -394,6 +515,18 @@ def find_changes(text):
     return subs
     
 def treat_change(change, home, away):
+    '''
+    Treats a single substitution change string by extracting relevant information.
+    
+    Args:
+        change (str): The substitution change string.
+        home (str): The name of the home team.
+        away (str): The name of the away team.
+    
+    Returns:
+        tuple: A tuple containing the treated substitution information in the format (club, time, player_in, player_out).
+    '''
+
     if ' / ' not in change:
         if ' /' in change: change = change.replace(' /', ' / ')
         elif '/ ' in change: change = change.replace('/ ', ' / ')
@@ -433,6 +566,19 @@ def treat_change(change, home, away):
     return club, time, player_in, player_out
     
 def treat_game_changes(changes, home, away):
+    '''
+    Treats the game changes list by applying the treat_change function to each change.
+    Sorts the changes list based on the time of each change.
+    
+    Args:
+        changes (list): A list of substitution changes.
+        home (str): The name of the home team.
+        away (str): The name of the away team.
+    
+    Returns:
+        list: The treated and sorted changes list.
+    '''
+    
     for i in range(len(changes)): changes[i] = treat_change(changes[i], home, away)
     changes = sorted(changes, key = lambda x : x[1])    
     return changes
