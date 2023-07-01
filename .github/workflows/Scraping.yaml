@@ -33,12 +33,11 @@ jobs:
       - name: Execute scraping
         run: |
           cd scripts/
-          python main.py -s -a
+          python main.py --s
           cd ../
                 
       - name: Commit changes
         run: |
-          git add auxiliary/scrape.log
           git add *
           git commit -m "Automated update"
           git push
