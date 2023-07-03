@@ -319,15 +319,23 @@ Game,Home,Away
 318,Caxias / RS,Novo Hamburgo / RS
 319,Hercilio Luz / SC,Concordia Atlético Clube / SC
 320,Camboriu / SC,Sãojoseense / PR
+321,Sao Francisco / AC,Aguia de Maraba / PA
 322,Tuna Luso / PA,Humaitá / AC
 323,São Raimundo / RR,Princesa do Solimões / AM
 324,Nacional / AM,Trem / AP
+325,Caucaia / CE,Ferroviário / CE
 326,Atlético / CE,Tocantinópolis / TO
 327,Cordino / MA,Fluminense / PI
+328,Parnahyba / PI,Maranhão / MA
 329,Santa Cruz / PE,Nacional / PB
 331,Iguatu / CE,Potiguar / RN
+332,Globo / RN,Pacajus / CE
+333,Jacuipense / BA,Bahia de Feira / BA
 334,Atlético / BA,Retrô / PE
 335,ASA / AL,Sergipe / SE
+336,Falcon / SE,Cruzeiro / AL
+337,Interporto / TO,Ceilândia / DF
+338,Brasiliense / DF,Real Ariquemes / RO
 339,União de Rondonópolis / MT,Ipora / GO
 340,Anápolis / GO,Operário Ceov / MT
 341,Portuguesa / RJ,Nova Iguaçu / RJ
@@ -336,5 +344,8 @@ Game,Home,Away
 345,Ferroviária / SP,XV de Piracicaba / SP
 346,Inter de Limeira / SP,Crac / GO
 347,Operário / MS,Maringá / PR
+348,Cascavel / PR,Atlético Patrocinense / MG
+349,Novo Hamburgo / RS,Aimoré / RS
+350,Brasil / RS,Caxias / RS
 351,Camboriu / SC,Hercilio Luz / SC
 352,Sãojoseense / PR,Concordia Atlético Clube / SC
