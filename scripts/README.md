@@ -18,3 +18,8 @@ python main.py --s
 
 - The --s argument indicates that the script will try to extract data from the CBF's page. If there are new documents, all the information will be processed. If you want to process all documents, even if there are no new ones, you can pass the --t argument along with the --s argument.
 - If you want to clean the terminal output while running the script, you can pass the --c argument.
+
+## Overview
+
+An overview of all scraping process can be seen on image below
+![plot](scrape_flowchart.png)
