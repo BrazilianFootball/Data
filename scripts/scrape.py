@@ -306,7 +306,6 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                                 if team == home: squads[game][changes_breaks - 1]['Placar'][0] += 1
                                 else: squads[game][changes_breaks - 1]['Placar'][1] += 1
                                 
-                   
                         if i == len(changes) - 1:
                             squads[game][changes_breaks]['Tempo'] = 90 - time
                             for goal in goals:
