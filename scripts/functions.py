@@ -524,24 +524,24 @@ def treat_event(event, home, away):
 
     raise NotImplementedError(f'Couldn\'t parse event {event} in game between {home} and {away}')
     
-def treat_game_goals(goals, home, away):
+def treat_game_events(events, home, away):
     '''
-    Treats the game goals list by applying the treat_event function to each goal.
-    Sorts the goals list based on the time of each goal.
+    Treats the game events list by applying the treat_event function to each event.
+    Sorts the events list based on the time of each event.
     
     Args:
-        goals (list): A list of goals in the format [time, player].
+        events (list): A list of events in the string format.
         home (str): The name of the home team.
         away (str): The name of the away team.
     
     Returns:
-        list: The treated and sorted goals list.
+        list: The treated and sorted events list.
     '''
     
-    for i in range(len(goals)): goals[i] = treat_event(goals[i], home, away)
-    goals = sorted(goals, key = lambda x : x[0])
+    for i in range(len(events)): events[i] = treat_event(events[i], home, away)
+    events = sorted(events, key = lambda x : x[0])
     
-    return goals
+    return events
     
 def find_changes(text):
     '''
