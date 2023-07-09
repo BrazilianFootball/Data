@@ -3,7 +3,7 @@ Game,Home,Away
 002,Botafogo / RJ,São Paulo / SP
 003,Palmeiras / SP,Cuiabá / MT
 004,Corinthians / SP,Cruzeiro / MG
-005,Red Bull Red Bull Bragantino / SP,Bahia / BA
+005,Red Bull Bragantino / SP,Bahia / BA
 006,Atlético Mineiro / MG,Vasco da Gama / RJ
 007,Grêmio / RS,Santos / SP
 008,Athletico Paranaense / PR,Goiás / GO
@@ -18,12 +18,12 @@ Game,Home,Away
 017,Internacional / RS,Flamengo / RJ
 018,Coritiba / PR,Fortaleza / CE
 019,Bahia / BA,Botafogo / RJ
-020,Cuiabá / MT,Red Bull Red Bull Bragantino / SP
+020,Cuiabá / MT,Red Bull Bragantino / SP
 021,Flamengo / RJ,Botafogo / RJ
 022,Vasco da Gama / RJ,Bahia / BA
 023,Palmeiras / SP,Corinthians / SP
 024,Santos / SP,América / MG
-025,Red Bull Red Bull Bragantino / SP,Cruzeiro / MG
+025,Red Bull Bragantino / SP,Cruzeiro / MG
 026,Atlético Mineiro / MG,Athletico Paranaense / PR
 027,Internacional / RS,Goiás / GO
 028,Coritiba / PR,São Paulo / SP
@@ -35,7 +35,7 @@ Game,Home,Away
 034,Corinthians / SP,Fortaleza / CE
 035,Goiás / GO,Palmeiras / SP
 036,Cruzeiro / MG,Santos / SP
-037,Grêmio / RS,Red Bull Red Bull Bragantino / SP
+037,Grêmio / RS,Red Bull Bragantino / SP
 038,Athletico Paranaense / PR,Flamengo / RJ
 039,Bahia / BA,Coritiba / PR
 040,América / MG,Cuiabá / MT
@@ -43,7 +43,7 @@ Game,Home,Away
 042,Botafogo / RJ,Corinthians / SP
 043,Palmeiras / SP,Grêmio / RS
 044,Santos / SP,Bahia / BA
-045,Red Bull Red Bull Bragantino / SP,América / MG
+045,Red Bull Bragantino / SP,América / MG
 046,Cruzeiro / MG,Fluminense / RJ
 047,Internacional / RS,Athletico Paranaense / PR
 048,Coritiba / PR,Vasco da Gama / RJ
@@ -51,7 +51,7 @@ Game,Home,Away
 050,Cuiabá / MT,Atlético Mineiro / MG
 051,Fluminense / RJ,Cuiabá / MT
 052,Vasco da Gama / RJ,Santos / SP
-053,Palmeiras / SP,Red Bull Red Bull Bragantino / SP
+053,Palmeiras / SP,Red Bull Bragantino / SP
 054,Corinthians / SP,São Paulo / SP
 055,Goiás / GO,Botafogo / RJ
 056,Atlético Mineiro / MG,Internacional / RS
@@ -63,7 +63,7 @@ Game,Home,Away
 062,Botafogo / RJ,Fluminense / RJ
 063,São Paulo / SP,Vasco da Gama / RJ
 064,Santos / SP,Palmeiras / SP
-065,Red Bull Red Bull Bragantino / SP,Athletico Paranaense / PR
+065,Red Bull Bragantino / SP,Athletico Paranaense / PR
 066,Cruzeiro / MG,Cuiabá / MT
 067,Grêmio / RS,Internacional / RS
 068,Coritiba / PR,Atlético Mineiro / MG
@@ -73,13 +73,13 @@ Game,Home,Away
 072,Botafogo / RJ,América / MG
 073,São Paulo / SP,Goiás / GO
 074,Corinthians / SP,Fluminense / RJ
-075,Red Bull Red Bull Bragantino / SP,Santos / SP
+075,Red Bull Bragantino / SP,Santos / SP
 076,Atlético Mineiro / MG,Palmeiras / SP
 077,Internacional / RS,Bahia / BA
 078,Athletico Paranaense / PR,Grêmio / RS
 079,Fortaleza / CE,Vasco da Gama / RJ
 080,Cuiabá / MT,Coritiba / PR
-081,Fluminense / RJ,Red Bull Red Bull Bragantino / SP
+081,Fluminense / RJ,Red Bull Bragantino / SP
 082,Vasco da Gama / RJ,Flamengo / RJ
 083,Palmeiras / SP,Coritiba / PR
 084,Santos / SP,Internacional / RS
@@ -94,7 +94,7 @@ Game,Home,Away
 093,São Paulo / SP,Palmeiras / SP
 094,Corinthians / SP,Cuiabá / MT
 095,Goiás / GO,Fluminense / RJ
-096,Atlético Mineiro / MG,Red Bull Red Bull Bragantino / SP
+096,Atlético Mineiro / MG,Red Bull Bragantino / SP
 097,Internacional / RS,Vasco da Gama / RJ
 098,Coritiba / PR,Santos / SP
 099,Bahia / BA,Cruzeiro / MG
@@ -103,7 +103,7 @@ Game,Home,Away
 102,Vasco da Gama / RJ,Goiás / GO
 103,São Paulo / SP,Athletico Paranaense / PR
 104,Santos / SP,Corinthians / SP
-105,Red Bull Red Bull Bragantino / SP,Flamengo / RJ
+105,Red Bull Bragantino / SP,Flamengo / RJ
 106,Cruzeiro / MG,Fortaleza / CE
 107,Grêmio / RS,América / MG
 108,Coritiba / PR,Internacional / RS
@@ -113,7 +113,7 @@ Game,Home,Away
 112,Vasco da Gama / RJ,Cuiabá / MT
 113,Palmeiras / SP,Botafogo / RJ
 114,Santos / SP,Flamengo / RJ
-115,Red Bull Red Bull Bragantino / SP,Goiás / GO
+115,Red Bull Bragantino / SP,Goiás / GO
 116,Cruzeiro / MG,São Paulo / SP
 117,Grêmio / RS,Coritiba / PR
 118,Athletico Paranaense / PR,Corinthians / SP
@@ -122,10 +122,16 @@ Game,Home,Away
 121,Flamengo / RJ,Fortaleza / CE
 122,Botafogo / RJ,Vasco da Gama / RJ
 123,São Paulo / SP,Fluminense / RJ
-124,Corinthians / SP,Red Bull Red Bull Bragantino / SP
+124,Corinthians / SP,Red Bull Bragantino / SP
 125,Goiás / GO,Coritiba / PR
 126,Atlético Mineiro / MG,América / MG
 127,Internacional / RS,Cruzeiro / MG
 128,Athletico Paranaense / PR,Palmeiras / SP
 129,Bahia / BA,Grêmio / RS
 130,Cuiabá / MT,Santos / SP
+132,Vasco da Gama / RJ,Cruzeiro / MG
+133,Palmeiras / SP,Flamengo / RJ
+134,Santos / SP,Goiás / GO
+136,Atlético Mineiro / MG,Corinthians / SP
+138,Coritiba / PR,América / MG
+140,Cuiabá / MT,Bahia / BA

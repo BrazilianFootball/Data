@@ -16,7 +16,7 @@ Game,Home,Away
 015,Murici / AL,Juventude / RS
 016,Sergipe / SE,Cuiabá / MT
 017,Esportivo / RS,Remo / PA
-018,Mirassol / SP,Red Bull Red Bull Bragantino / SP
+018,Mirassol / SP,Red Bull Bragantino / SP
 019,Juventude / MA,Operário / PR
 020,Picos / PI,Atlético / AC
 021,Goianesia / GO,CRB / AL
@@ -26,7 +26,7 @@ Game,Home,Away
 025,Retrô / PE,Brusque / SC
 026,Galvez / AC,Atlético / GO
 027,Caxias / RS,Fortaleza / CE
-028,Rio Branco / ES,ABC / RN
+028,Rio Branco - VN / ES,ABC / RN
 029,Guarany / CE,CSA / AL
 030,Palmas / TO,Avaí / SC
 031,Castanhal / PA,Volta Redonda / RJ
@@ -40,7 +40,7 @@ Game,Home,Away
 039,Penarol / AM,Ypiranga / RS
 040,Caldense / MG,Vasco da Gama / RJ
 041,Corinthians / SP,Retrô / PE
-042,Luverdense / MT,Red Bull Red Bull Bragantino / SP
+042,Luverdense / MT,Red Bull Bragantino / SP
 043,Coritiba / PR,Operário / PR
 044,Fortaleza / CE,Ypiranga / RS
 045,Picos / PI,Boavista / RJ
@@ -63,7 +63,7 @@ Game,Home,Away
 062,Vila Nova / GO,Bahia / BA
 063,CRB / AL,Palmeiras / SP
 064,4 de Julho / PI,São Paulo / SP
-065,Fluminense / RJ,Red Bull Red Bull Bragantino / SP
+065,Fluminense / RJ,Red Bull Bragantino / SP
 066,Fortaleza / CE,Ceará / CE
 067,Grêmio / RS,Brasiliense / DF
 068,América / MG,Criciúma / SC
@@ -79,7 +79,7 @@ Game,Home,Away
 078,Bahia / BA,Vila Nova / GO
 079,Palmeiras / SP,CRB / AL
 080,São Paulo / SP,4 de Julho / PI
-081,Red Bull Red Bull Bragantino / SP,Fluminense / RJ
+081,Red Bull Bragantino / SP,Fluminense / RJ
 082,Ceará / CE,Fortaleza / CE
 083,Brasiliense / DF,Grêmio / RS
 084,Criciúma / SC,América / MG

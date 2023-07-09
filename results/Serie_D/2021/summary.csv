@@ -290,59 +290,59 @@ Game,Home,Away
 289,Rio Branco / ES,Caldense / MG
 290,Boa / MG,Águia Negra / MS
 291,Ferroviária / SP,Uberlândia / MG
-292,Atlético Patrocinense / MG,Rio Branco / ES
+292,Atlético Patrocinense / MG,Rio Branco - VN / ES
 293,Uberlândia / MG,Rio Branco / ES
 294,Águia Negra / MS,Atlético Patrocinense / MG
 295,Caldense / MG,Ferroviária / SP
-296,Rio Branco / ES,Boa / MG
+296,Rio Branco - VN / ES,Boa / MG
 297,Rio Branco / ES,Águia Negra / MS
-298,Ferroviária / SP,Rio Branco / ES
+298,Ferroviária / SP,Rio Branco - VN / ES
 299,Boa / MG,Caldense / MG
 300,Uberlândia / MG,Atlético Patrocinense / MG
 301,Rio Branco / ES,Ferroviária / SP
-302,Águia Negra / MS,Rio Branco / ES
+302,Águia Negra / MS,Rio Branco - VN / ES
 303,Caldense / MG,Uberlândia / MG
 304,Atlético Patrocinense / MG,Boa / MG
-305,Rio Branco / ES,Rio Branco / ES
+305,Rio Branco - VN / ES,Rio Branco / ES
 306,Ferroviária / SP,Águia Negra / MS
 307,Atlético Patrocinense / MG,Caldense / MG
 308,Boa / MG,Uberlândia / MG
 309,Rio Branco / ES,Boa / MG
 310,Caldense / MG,Águia Negra / MS
 311,Ferroviária / SP,Atlético Patrocinense / MG
-312,Uberlândia / MG,Rio Branco / ES
+312,Uberlândia / MG,Rio Branco - VN / ES
 313,Atlético Patrocinense / MG,Rio Branco / ES
 314,Águia Negra / MS,Uberlândia / MG
 315,Boa / MG,Ferroviária / SP
-316,Rio Branco / ES,Caldense / MG
+316,Rio Branco - VN / ES,Caldense / MG
 317,Rio Branco / ES,Atlético Patrocinense / MG
 318,Uberlândia / MG,Águia Negra / MS
 319,Ferroviária / SP,Boa / MG
-320,Caldense / MG,Rio Branco / ES
+320,Caldense / MG,Rio Branco - VN / ES
 321,Boa / MG,Rio Branco / ES
 322,Águia Negra / MS,Caldense / MG
 323,Atlético Patrocinense / MG,Ferroviária / SP
-324,Rio Branco / ES,Uberlândia / MG
-325,Rio Branco / ES,Rio Branco / ES
+324,Rio Branco - VN / ES,Uberlândia / MG
+325,Rio Branco / ES,Rio Branco - VN / ES
 326,Águia Negra / MS,Ferroviária / SP
 327,Caldense / MG,Atlético Patrocinense / MG
 328,Uberlândia / MG,Boa / MG
 329,Ferroviária / SP,Rio Branco / ES
-330,Rio Branco / ES,Águia Negra / MS
+330,Rio Branco - VN / ES,Águia Negra / MS
 331,Uberlândia / MG,Caldense / MG
 332,Boa / MG,Atlético Patrocinense / MG
 333,Águia Negra / MS,Rio Branco / ES
-334,Rio Branco / ES,Ferroviária / SP
+334,Rio Branco - VN / ES,Ferroviária / SP
 335,Caldense / MG,Boa / MG
 336,Atlético Patrocinense / MG,Uberlândia / MG
 337,Rio Branco / ES,Uberlândia / MG
 338,Atlético Patrocinense / MG,Águia Negra / MS
 339,Ferroviária / SP,Caldense / MG
-340,Boa / MG,Rio Branco / ES
+340,Boa / MG,Rio Branco - VN / ES
 341,Caldense / MG,Rio Branco / ES
 342,Águia Negra / MS,Boa / MG
 343,Uberlândia / MG,Ferroviária / SP
-344,Rio Branco / ES,Atlético Patrocinense / MG
+344,Rio Branco - VN / ES,Atlético Patrocinense / MG
 345,Bangu / RJ,Santo André / SP
 346,Portuguesa / SP,Cianorte / PR
 347,Boavista / RJ,São Bento / SP
@@ -400,59 +400,59 @@ Game,Home,Away
 399,São Bento / SP,Boavista / RJ
 400,Madureira / RJ,Inter de Limeira / SP
 401,Aimoré / RS,Marcílio Dias / SC
-402,Rio Branco / PR,Esportivo / RS
+402,Rio Branco Sport Club / PR,Esportivo / RS
 403,Cascavel / PR,Joinville / SC
 404,Juventus / SC,Caxias / RS
 405,Joinville / SC,Aimoré / RS
 406,Esportivo / RS,Juventus / SC
 407,Marcílio Dias / SC,Cascavel / PR
-408,Caxias / RS,Rio Branco / PR
+408,Caxias / RS,Rio Branco Sport Club / PR
 409,Aimoré / RS,Esportivo / RS
 410,Cascavel / PR,Caxias / RS
-411,Rio Branco / PR,Marcílio Dias / SC
+411,Rio Branco Sport Club / PR,Marcílio Dias / SC
 412,Joinville / SC,Juventus / SC
 413,Aimoré / RS,Cascavel / PR
 414,Esportivo / RS,Caxias / RS
 415,Marcílio Dias / SC,Joinville / SC
-416,Juventus / SC,Rio Branco / PR
+416,Juventus / SC,Rio Branco Sport Club / PR
 417,Caxias / RS,Aimoré / RS
 418,Cascavel / PR,Esportivo / RS
 419,Juventus / SC,Marcílio Dias / SC
-420,Rio Branco / PR,Joinville / SC
-421,Aimoré / RS,Rio Branco / PR
+420,Rio Branco Sport Club / PR,Joinville / SC
+421,Aimoré / RS,Rio Branco Sport Club / PR
 422,Marcílio Dias / SC,Esportivo / RS
 423,Cascavel / PR,Juventus / SC
 424,Joinville / SC,Caxias / RS
 425,Juventus / SC,Aimoré / RS
 426,Esportivo / RS,Joinville / SC
-427,Rio Branco / PR,Cascavel / PR
+427,Rio Branco Sport Club / PR,Cascavel / PR
 428,Caxias / RS,Marcílio Dias / SC
 429,Aimoré / RS,Juventus / SC
 430,Joinville / SC,Esportivo / RS
-431,Cascavel / PR,Rio Branco / PR
+431,Cascavel / PR,Rio Branco Sport Club / PR
 432,Marcílio Dias / SC,Caxias / RS
-433,Rio Branco / PR,Aimoré / RS
+433,Rio Branco Sport Club / PR,Aimoré / RS
 434,Esportivo / RS,Marcílio Dias / SC
 435,Juventus / SC,Cascavel / PR
 436,Caxias / RS,Joinville / SC
 437,Aimoré / RS,Caxias / RS
 438,Esportivo / RS,Cascavel / PR
 439,Marcílio Dias / SC,Juventus / SC
-440,Joinville / SC,Rio Branco / PR
+440,Joinville / SC,Rio Branco Sport Club / PR
 441,Cascavel / PR,Aimoré / RS
 442,Caxias / RS,Esportivo / RS
 443,Joinville / SC,Marcílio Dias / SC
-444,Rio Branco / PR,Juventus / SC
+444,Rio Branco Sport Club / PR,Juventus / SC
 445,Esportivo / RS,Aimoré / RS
 446,Caxias / RS,Cascavel / PR
-447,Marcílio Dias / SC,Rio Branco / PR
+447,Marcílio Dias / SC,Rio Branco Sport Club / PR
 448,Juventus / SC,Joinville / SC
 449,Aimoré / RS,Joinville / SC
 450,Juventus / SC,Esportivo / RS
 451,Cascavel / PR,Marcílio Dias / SC
-452,Rio Branco / PR,Caxias / RS
+452,Rio Branco Sport Club / PR,Caxias / RS
 453,Marcílio Dias / SC,Aimoré / RS
-454,Esportivo / RS,Rio Branco / PR
+454,Esportivo / RS,Rio Branco Sport Club / PR
 455,Joinville / SC,Cascavel / PR
 456,Caxias / RS,Juventus / SC
 457,Moto Club / MA,Castanhal / PA

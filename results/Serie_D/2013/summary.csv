@@ -1,4 +1,5 @@
 Game,Home,Away
+001,Plácido de Castro / AC,Paragominas / PA
 002,Nautico / RR,Nacional / AM
 003,Paragominas / PA,Genus / RO
 004,Nacional / AM,Plácido de Castro / AC
@@ -23,8 +24,10 @@ Game,Home,Away
 023,Parnahyba / PI,Ypiranga / AP
 024,Maranhão / MA,Salgueiro / PE
 025,Salgueiro / PE,Gurupi / TO
+026,Ypiranga / AP,Maranhão / MA
 027,Parnahyba / PI,Gurupi / TO
 028,Ypiranga / AP,Salgueiro / PE
+029,Gurupi / TO,Ypiranga / AP
 030,Maranhão / MA,Parnahyba / PI
 031,Gurupi / TO,Parnahyba / PI
 032,Salgueiro / PE,Ypiranga / AP
