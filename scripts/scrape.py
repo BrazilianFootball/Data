@@ -271,7 +271,19 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 
                 game_players = treat_game_players(players, home, away)
                 changes = treat_game_changes(games[game]['Changes'], home, away)
-                goals = treat_game_goals(games[game]['Goals'], home, away)
+                goals = treat_game_events(games[game]['Goals'], home, away)
+                red_cards = treat_game_events(games[game]['Red cards'], home, away)
+                yellow_cards = treat_game_events(games[game]['Yellow cards'], home, away)
+                if len(red_cards) > 0:
+                    for i, red_card in enumerate(red_cards):
+                        red_card = list(red_card)
+                        club = red_card.pop()
+                        red_card.insert(0, club)
+                        red_card.insert(2, '')
+                        red_cards[i] = tuple(red_card)
+
+                changes += red_cards
+                changes = sorted(changes, key = lambda x : x[1])
                 squads[game] = {}
                 squads[game][0] = deepcopy(model)
                 for player in players:
@@ -288,17 +300,23 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                     old_away = deepcopy(squads[game][changes_breaks]['Away'])
                     
                     club, time, player_in, player_out = change
-                    player_in = game_players[club][player_in]
+                    player_in = game_players[club][player_in] if player_in != '' else ''
                     player_out = game_players[club][player_out]
                     if time != actual_minute:
                         changes_breaks += 1
                         squads[game][changes_breaks] = deepcopy(squads[game][changes_breaks - 1])
                         if club == home:
-                            old_home.remove(player_out)
-                            old_home.append(player_in)
+                            if player_in != '':
+                                old_home.remove(player_out)
+                                old_home.append(player_in)
+                            elif player_out in old_home:
+                                old_home.remove(player_out)
                         else:
-                            old_away.remove(player_out)
-                            old_away.append(player_in)
+                            if player_in != '':
+                                old_away.remove(player_out)
+                                old_away.append(player_in)
+                            elif player_out in old_away:
+                                old_away.remove(player_out)
                         
                         squads[game][changes_breaks]['Home'] = deepcopy(old_home)
                         squads[game][changes_breaks]['Away'] = deepcopy(old_away)
@@ -319,11 +337,17 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                     
                     else:
                         if club == home:
-                            old_home.remove(player_out)
-                            old_home.append(player_in)
+                            if player_in != '':
+                                old_home.remove(player_out)
+                                old_home.append(player_in)
+                            elif player_out in old_home:
+                                old_home.remove(player_out)
                         else:
-                            old_away.remove(player_out)
-                            old_away.append(player_in)
+                            if player_in != '':
+                                old_away.remove(player_out)
+                                old_away.append(player_in)
+                            elif player_out in old_away:
+                                old_away.remove(player_out)
                         
                         squads[game][changes_breaks]['Home'] = deepcopy(old_home)
                         squads[game][changes_breaks]['Away'] = deepcopy(old_away)
