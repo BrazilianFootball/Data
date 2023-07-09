@@ -11,8 +11,6 @@ This repository is organized in three main folders:
 
 ### Know problems
 
-#### We'll fix:
- - Sometimes dockets show wrong data and this fact crash the program. We'll look for this program and will generate an exception, saving the docket and the problem on a info log.
-
 #### Won't fix:
+ - The added time info of each game isn't catch. All events occurred in added time are considered as occurred in the last minute of correspondent game half.
  - Despite saving the docket and the problem on a info log, we won't fix that information.
