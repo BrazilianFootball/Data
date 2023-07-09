@@ -107,6 +107,7 @@
 
 -------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 2023-07-09 18:53:07 [Scraping] - Beginning docket scraping.
 2023-07-09 18:56:51 [Scraping] - Docket scraping complete.
                                    [INFO] 39 dockets addeds.
@@ -115,6 +116,16 @@
                                    [INFO] Sucess!
 2023-07-09 18:57:06 [Lineups]  - Beginning lineups treatment.
 2023-07-09 18:57:14 [Lineups]  - Lineups complete.
+=======
+2023-07-09 21:15:14 [Scraping] - Beginning docket scraping.
+2023-07-09 21:18:09 [Scraping] - Docket scraping complete.
+                                   [INFO] 34 dockets addeds.
+2023-07-09 21:18:09 [Extract]  - Beginning info extract.
+2023-07-09 21:18:10 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2023-07-09 21:18:10 [Lineups]  - Beginning lineups treatment.
+2023-07-09 21:18:11 [Lineups]  - Lineups complete.
+>>>>>>> 47c64bc12c558986b6029934c5bb8fa5b622324b
 
 -------------------------------------------------------------------------------------
 
