@@ -241,10 +241,9 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
         cleaning (bool): Flag indicating whether to clear the console output before updating lineups. Defaults to True.
     '''
 
-    model = {'Home' : [],
-             'Away' : [],
-             'Time' : 0,
-             'Score' : [0, 0]}
+    model = {'Home' : {'Squad' : [], 'Cards' : [], 'Goals': []},
+             'Away' : {'Squad' : [], 'Cards' : [], 'Goals': []},
+             'Time' : 0}
 
     for competition in competitions:
         competition = competition[0]
@@ -262,6 +261,7 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
             with open(f'../results/{competition}/{year}/games.json') as f: games = json.load(f)
             
             for game in games:
+                print(competition, year, game)
                 if games[game] == {}: continue
 
                 home = games[game]['Home']
@@ -289,16 +289,14 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 for player in players:
                     if player[1] == home: game_club = 'Home'
                     else: game_club = 'Away'
-                    if len(squads[game][0][game_club]) == 11: continue
+                    if len(squads[game][0][game_club]['Squad']) == 11: continue
                     cod = re.findall('\d{6}', player[0])[0]
-                    squads[game][0][game_club].append(cod)
+                    squads[game][0][game_club]['Squad'].append(cod)
                     
                 actual_minute = 0
                 changes_breaks = 0
                 for i, change in enumerate(changes):
-                    old_home = deepcopy(squads[game][changes_breaks]['Home'])
-                    old_away = deepcopy(squads[game][changes_breaks]['Away'])
-                    
+                    print(change, game, competition, year)
                     club, time, player_in, player_out = change
                     player_in = game_players[club][player_in] if player_in != '' else ''
                     player_out = game_players[club][player_out]
@@ -307,50 +305,66 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                         squads[game][changes_breaks] = deepcopy(squads[game][changes_breaks - 1])
                         if club == home:
                             if player_in != '':
-                                old_home.remove(player_out)
-                                old_home.append(player_in)
-                            elif player_out in old_home:
-                                old_home.remove(player_out)
+                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                squads[game][changes_breaks]['Home']['Squad'].append(player_in)
+                            elif player_out in squads[game][changes_breaks]['Home']['Squad']:
+                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
                         else:
                             if player_in != '':
-                                old_away.remove(player_out)
-                                old_away.append(player_in)
-                            elif player_out in old_away:
-                                old_away.remove(player_out)
+                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                squads[game][changes_breaks]['Away']['Squad'].append(player_in)
+                            elif player_out in squads[game][changes_breaks]['Away']['Squad']:
+                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
                         
-                        squads[game][changes_breaks]['Home'] = deepcopy(old_home)
-                        squads[game][changes_breaks]['Away'] = deepcopy(old_away)
                         squads[game][changes_breaks - 1]['Time'] = time - actual_minute
+                        squads[game][changes_breaks]['Home']['Cards'] = list()
+                        squads[game][changes_breaks]['Home']['Goals'] = list()
+                        squads[game][changes_breaks]['Away']['Cards'] = list()
+                        squads[game][changes_breaks]['Away']['Goals'] = list()
                         for goal in goals:
                             minute, player, team = goal
                             if minute > actual_minute and minute <= time:
-                                if team == home: squads[game][changes_breaks - 1]['Score'][0] += 1
-                                else: squads[game][changes_breaks - 1]['Score'][1] += 1
+                                player = game_players[team][player]
+                                if team == home: squads[game][changes_breaks - 1]['Home']['Goals'].append((minute - actual_minute, player))
+                                else: squads[game][changes_breaks - 1]['Away']['Goals'].append((minute - actual_minute, player))
+
+                        for card in yellow_cards:
+                            minute, player, team = card
+                            if minute > actual_minute and minute <= time:
+                                player = game_players[team][player]
+                                if team == home: squads[game][changes_breaks - 1]['Home']['Cards'].append((minute - actual_minute, player))
+                                else: squads[game][changes_breaks - 1]['Away']['Cards'].append((minute - actual_minute, player))
                                 
                         if i == len(changes) - 1:
                             squads[game][changes_breaks]['Time'] = 90 - time
                             for goal in goals:
                                 minute, player, team = goal
                                 if minute > time:
-                                    if team == home: squads[game][changes_breaks]['Score'][0] += 1
-                                    else: squads[game][changes_breaks]['Score'][1] += 1
-                    
+                                    player = game_players[team][player]
+                                    if team == home: squads[game][changes_breaks]['Home']['Goals'].append((90 - time, player))
+                                    else: squads[game][changes_breaks]['Away']['Goals'].append((90 - time, player))
+
+                            for card in yellow_cards:
+                                minute, player, team = card
+                                if minute > time:
+                                    player = game_players[team][player]
+                                    if team == home: squads[game][changes_breaks]['Home']['Cards'].append((90 - time, player))
+                                    else: squads[game][changes_breaks]['Away']['Cards'].append((90 - time, player))
+                                
                     else:
                         if club == home:
                             if player_in != '':
-                                old_home.remove(player_out)
-                                old_home.append(player_in)
-                            elif player_out in old_home:
-                                old_home.remove(player_out)
+                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                squads[game][changes_breaks]['Home']['Squad'].append(player_in)
+                            elif player_out in squads[game][changes_breaks]['Home']['Squad']:
+                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
                         else:
                             if player_in != '':
-                                old_away.remove(player_out)
-                                old_away.append(player_in)
-                            elif player_out in old_away:
-                                old_away.remove(player_out)
+                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                squads[game][changes_breaks]['Away']['Squad'].append(player_in)
+                            elif player_out in squads[game][changes_breaks]['Away']['Squad']:
+                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
                         
-                        squads[game][changes_breaks]['Home'] = deepcopy(old_home)
-                        squads[game][changes_breaks]['Away'] = deepcopy(old_away)
                         if i == len(changes) - 1: squads[game][changes_breaks]['Time'] = 90 - time
                             
                     actual_minute = time
