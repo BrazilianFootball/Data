@@ -7,7 +7,10 @@ import os
 if __name__ == '__main__':
     now = datetime.now()
     os.chdir('../results')
-    if now.strftime('%d') == '01': min_year = 2013
+    if now.strftime('%d') in ['10', '20', '30']:
+        min_year = 2013
+        for file in glob('../results/*/*/*.json'): os.remove(file)
+    
     else: min_year = int(now.strftime('%Y'))
     max_year = int(now.strftime('%Y'))
     competitions = [('CdB',     '424', 180),
