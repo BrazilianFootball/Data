@@ -104,15 +104,12 @@ def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = T
         cleaning (bool): Flag indicating whether to clear the console output before scraping. Defaults to True.
     '''
 
-    errors = {}
     for competition in competitions:
         competition, cod, n_games = competition
-        errors[competition] = {}
         for year in range(min_year, max_year + 1):
             if cleaning: clear()
             print(f'Beggining scrape of {competition.replace("_", " ")} {year}')
             year = str(year)
-            errors[competition][year] = []
             p = Process(target = extract_games, args = (competition, cod, year, n_games, files))
             p.start()
             p.join(max_time)
@@ -134,7 +131,7 @@ def extract(competitions, min_year, max_year, cleaning = True):
 
     with open('../auxiliary/exceptions.json', 'r') as f: exceptions = json.load(f)
 
-    errors = {}
+    errors = list()
     cont_fail = 0
     for competition in competitions:
         competition, n_games = competition[0], competition[2]
@@ -204,30 +201,23 @@ def extract(competitions, min_year, max_year, cleaning = True):
                 except FileNotFoundError: count_end += 1
                 except AssertionError:
                     cont_fail += 1
-                    if not f_club: erro = 'Club'
-                    elif not f_result: erro = 'Result'
-                    elif not f_players: erro = 'Players'
-                    elif not f_goals: erro = 'Goals'
-                    elif not f_changes: erro = 'Changes'
-                    else: erro = 'Not found'
-                    
-                    if competition in errors:
-                        if year in errors[competition]:
-                            errors[competition][year][str(game).zfill(3)] = erro
-                        else:
-                            errors[competition][year] = {}
-                            errors[competition][year][str(game).zfill(3)] = erro
-                    else:
-                        errors[competition] = {}
-                        errors[competition][year] = {}
-                        errors[competition][year][str(game).zfill(3)] = erro
+                    if not f_club: errors.append(f'Error during extracting clubs from game {game} of {year}\'s {competition}.')
+                    elif not f_result: errors.append(f'Error during extracting result from game {game} of {year}\'s {competition}.')
+                    elif not f_players: errors.append(f'Error during extracting players from game {game} of {year}\'s {competition}.')
+                    elif not f_goals: errors.append(f'Error during extracting goals from game {game} of {year}\'s {competition}.')
+                    elif not f_changes: errors.append(f'Error during extracting changes from game {game} of {year}\'s {competition}.')
+                    else: errors.append(f'Error in game {game} of {year}\'s {competition}.')
 
             with open(f'../results/{competition}/{year}/games.json', 'w') as f: json.dump(games, f)
             with open(f'../results/{competition}/{year}/summary.csv', 'w') as f:
                 writer = csv.writer(f)
                 for row in summary: writer.writerow(row)
-                    
-    with open('../results/infos_errors.json', 'w') as f: json.dump(errors, f)
+    
+    if len(errors) > 0:
+        with open('../results/infos_errors_extract.csv', 'w') as f:
+            writer = csv.writer(f)
+            for error in errors: writer.writerow([error])
+    
     return cont_fail
 
 def catch_squads(competitions, min_year, max_year, cleaning = True):
@@ -241,6 +231,7 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
         cleaning (bool): Flag indicating whether to clear the console output before updating lineups. Defaults to True.
     '''
 
+    errors = list()
     model = {'Home' : {'Squad' : [], 'Cards' : [], 'Goals': []},
              'Away' : {'Squad' : [], 'Cards' : [], 'Goals': []},
              'Time' : 0}
@@ -261,7 +252,6 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
             with open(f'../results/{competition}/{year}/games.json') as f: games = json.load(f)
             
             for game in games:
-                print(competition, year, game)
                 if games[game] == {}: continue
 
                 home = games[game]['Home']
@@ -271,9 +261,21 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 
                 game_players = treat_game_players(players, home, away)
                 changes = treat_game_changes(games[game]['Changes'], home, away)
-                goals = treat_game_events(games[game]['Goals'], home, away)
-                red_cards = treat_game_events(games[game]['Red cards'], home, away)
-                yellow_cards = treat_game_events(games[game]['Yellow cards'], home, away)
+                try:
+                    goals = treat_game_events(games[game]['Goals'], home, away)
+                except Exception as e:
+                    errors.append(f'Treating goals: {e}')
+
+                try:
+                    red_cards = treat_game_events(games[game]['Red cards'], home, away)
+                except Exception as e:
+                    errors.append(f'Treating red cards: {e}')
+                
+                try:
+                    yellow_cards = treat_game_events(games[game]['Yellow cards'], home, away)
+                except Exception as e:
+                    errors.append(f'Treating yellow cards: {e}')
+                
                 if len(red_cards) > 0:
                     for i, red_card in enumerate(red_cards):
                         red_card = list(red_card)
@@ -296,7 +298,6 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 actual_minute = 0
                 changes_breaks = 0
                 for i, change in enumerate(changes):
-                    print(change, game, competition, year)
                     club, time, player_in, player_out = change
                     player_in = game_players[club][player_in] if player_in != '' else ''
                     player_out = game_players[club][player_out]
@@ -305,16 +306,28 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                         squads[game][changes_breaks] = deepcopy(squads[game][changes_breaks - 1])
                         if club == home:
                             if player_in != '':
-                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
-                                squads[game][changes_breaks]['Home']['Squad'].append(player_in)
+                                try:
+                                    squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                    squads[game][changes_breaks]['Home']['Squad'].append(player_in)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                             elif player_out in squads[game][changes_breaks]['Home']['Squad']:
-                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                try:
+                                    squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                         else:
                             if player_in != '':
-                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
-                                squads[game][changes_breaks]['Away']['Squad'].append(player_in)
+                                try:
+                                    squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                    squads[game][changes_breaks]['Away']['Squad'].append(player_in)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                             elif player_out in squads[game][changes_breaks]['Away']['Squad']:
-                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                try:
+                                    squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                         
                         squads[game][changes_breaks - 1]['Time'] = time - actual_minute
                         squads[game][changes_breaks]['Home']['Cards'] = list()
@@ -324,14 +337,21 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                         for goal in goals:
                             minute, player, team = goal
                             if minute > actual_minute and minute <= time:
-                                player = game_players[team][player]
+                                if player == '':
+                                    errors.append(f'Not found player whom score goal at {minute}\' on game between {home} and {away} in {year}\'s {competition}')
+                                else:
+                                    try: player = game_players[team][player]
+                                    except KeyError: errors.append(f'Not found player {player} from {team} on game {game} of {year}\'s {competition}')
+
                                 if team == home: squads[game][changes_breaks - 1]['Home']['Goals'].append((minute - actual_minute, player))
                                 else: squads[game][changes_breaks - 1]['Away']['Goals'].append((minute - actual_minute, player))
 
                         for card in yellow_cards:
                             minute, player, team = card
                             if minute > actual_minute and minute <= time:
-                                player = game_players[team][player]
+                                try: player = game_players[team][player]
+                                except KeyError: errors.append(f'Not found player {player} from {team} on game {game} of {year}\'s {competition}')
+                                
                                 if team == home: squads[game][changes_breaks - 1]['Home']['Cards'].append((minute - actual_minute, player))
                                 else: squads[game][changes_breaks - 1]['Away']['Cards'].append((minute - actual_minute, player))
                                 
@@ -340,33 +360,54 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                             for goal in goals:
                                 minute, player, team = goal
                                 if minute > time:
-                                    player = game_players[team][player]
+                                    try: player = game_players[team][player]
+                                    except KeyError: errors.append(f'Not found player {player} from {team} on game {game} of {year}\'s {competition}')
+                                    
                                     if team == home: squads[game][changes_breaks]['Home']['Goals'].append((90 - time, player))
                                     else: squads[game][changes_breaks]['Away']['Goals'].append((90 - time, player))
 
                             for card in yellow_cards:
                                 minute, player, team = card
                                 if minute > time:
-                                    player = game_players[team][player]
+                                    try: player = game_players[team][player]
+                                    except KeyError: errors.append(f'Not found player {player} from {team} on game {game} of {year}\'s {competition}')
+                                    
                                     if team == home: squads[game][changes_breaks]['Home']['Cards'].append((90 - time, player))
                                     else: squads[game][changes_breaks]['Away']['Cards'].append((90 - time, player))
                                 
                     else:
                         if club == home:
                             if player_in != '':
-                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
-                                squads[game][changes_breaks]['Home']['Squad'].append(player_in)
+                                try:
+                                    squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                    squads[game][changes_breaks]['Home']['Squad'].append(player_in)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                             elif player_out in squads[game][changes_breaks]['Home']['Squad']:
-                                squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                try:
+                                    squads[game][changes_breaks]['Home']['Squad'].remove(player_out)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                         else:
                             if player_in != '':
-                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
-                                squads[game][changes_breaks]['Away']['Squad'].append(player_in)
+                                try:
+                                    squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                    squads[game][changes_breaks]['Away']['Squad'].append(player_in)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                             elif player_out in squads[game][changes_breaks]['Away']['Squad']:
-                                squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                try:
+                                    squads[game][changes_breaks]['Away']['Squad'].remove(player_out)
+                                except:
+                                    errors.append(f'Can\'t change player {player_out} because he\'s already out of game {game} of {year}\'s {competition}')
                         
                         if i == len(changes) - 1: squads[game][changes_breaks]['Time'] = 90 - time
                             
                     actual_minute = time
             
             with open(f'../results/{competition}/{year}/squads.json', 'w') as f: json.dump(squads, f)
+
+    if len(errors) > 0:
+        with open('../results/infos_errors_catch.csv', 'w') as f:
+            writer = csv.writer(f)
+            for error in errors: writer.writerow([error])
