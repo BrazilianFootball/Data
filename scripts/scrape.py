@@ -155,16 +155,14 @@ def extract(competitions, min_year, max_year, cleaning = True):
                 if str(game).zfill(3) in exceptions[competition][year]:
                     if exceptions[competition][year][str(game).zfill(3)] != {}:
                         games[str(game).zfill(3)] = exceptions[competition][year][str(game).zfill(3)]
-                        summary.append([str(game).zfill(3), games[str(game).zfill(3)]['Mandante'], games[str(game).zfill(3)]['Visitante']])
+                        summary.append([str(game).zfill(3), games[str(game).zfill(3)]['Home'], games[str(game).zfill(3)]['Away']])
                         
                     continue
                 
                 if count_end == 10: break
                 f_club, f_result, f_players, f_goals, f_changes = False, False, False, False, False
                 try:
-                    with open(f'../results/{competition}/{year}/CSVs/{str(game).zfill(3)}.csv', 'r') as f: data = f.readlines()
-                    text = ''
-                    for row in data: text += row
+                    with open(f'../results/{competition}/{year}/CSVs/{str(game).zfill(3)}.csv', 'r') as f: text = ''.join(f.readlines())
 
                     clubs = catch_teams(text)
                     assert len(clubs) == 1
@@ -187,13 +185,18 @@ def extract(competitions, min_year, max_year, cleaning = True):
                     changes = find_changes(text)
                     assert len(changes) <= 10
                     f_changes = True
+
+                    yellow_cards = catch_yellow_cards(text)
+                    red_cards = catch_red_cards(text)
                 
-                    games[str(game).zfill(3)] = {'Mandante'      : clubs[0][0],
-                                                 'Visitante'     : clubs[0][1],
-                                                 'Resultado'     : result,
-                                                 'Jogadores'     : players,
-                                                 'Gols'          : goals,
-                                                 'Substituições' : changes}
+                    games[str(game).zfill(3)] = {'Home'         : clubs[0][0],
+                                                 'Away'         : clubs[0][1],
+                                                 'Result'       : result,
+                                                 'Players'      : players,
+                                                 'Goals'        : goals,
+                                                 'Changes'      : changes,
+                                                 'Yellow cards' : yellow_cards,
+                                                 'Red cards'    : red_cards}
 
                     count_end = 0
                     summary.append([str(game).zfill(3), clubs[0][0], clubs[0][1]])
@@ -201,12 +204,12 @@ def extract(competitions, min_year, max_year, cleaning = True):
                 except FileNotFoundError: count_end += 1
                 except AssertionError:
                     cont_fail += 1
-                    if not f_club: erro = 'clube'
-                    elif not f_result: erro = 'resultado'
-                    elif not f_players: erro = 'jogadores'
-                    elif not f_goals: erro = 'gols'
-                    elif not f_changes: erro = 'substituições'
-                    else: erro = 'ver'
+                    if not f_club: erro = 'Club'
+                    elif not f_result: erro = 'Result'
+                    elif not f_players: erro = 'Players'
+                    elif not f_goals: erro = 'Goals'
+                    elif not f_changes: erro = 'Changes'
+                    else: erro = 'Not found'
                     
                     if competition in errors:
                         if year in errors[competition]:
@@ -238,10 +241,10 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
         cleaning (bool): Flag indicating whether to clear the console output before updating lineups. Defaults to True.
     '''
 
-    model = {'Mandante' : [],
-             'Visitante' : [],
-             'Tempo' : 0,
-             'Placar' : [0, 0]}
+    model = {'Home' : [],
+             'Away' : [],
+             'Time' : 0,
+             'Score' : [0, 0]}
 
     for competition in competitions:
         competition = competition[0]
@@ -261,19 +264,19 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
             for game in games:
                 if games[game] == {}: continue
 
-                home = games[game]['Mandante']
-                away = games[game]['Visitante']
-                players = games[game]['Jogadores']
+                home = games[game]['Home']
+                away = games[game]['Away']
+                players = games[game]['Players']
                 if players[0][1] == players[-1][1]: continue
                 
                 game_players = treat_game_players(players, home, away)
-                changes = treat_game_changes(games[game]['Substituições'], home, away)
-                goals = treat_game_goals(games[game]['Gols'], home, away)
+                changes = treat_game_changes(games[game]['Changes'], home, away)
+                goals = treat_game_goals(games[game]['Goals'], home, away)
                 squads[game] = {}
                 squads[game][0] = deepcopy(model)
                 for player in players:
-                    if player[1] == home: game_club = 'Mandante'
-                    else: game_club = 'Visitante'
+                    if player[1] == home: game_club = 'Home'
+                    else: game_club = 'Away'
                     if len(squads[game][0][game_club]) == 11: continue
                     cod = re.findall('\d{6}', player[0])[0]
                     squads[game][0][game_club].append(cod)
@@ -281,8 +284,8 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 actual_minute = 0
                 changes_breaks = 0
                 for i, change in enumerate(changes):
-                    old_home = deepcopy(squads[game][changes_breaks]['Mandante'])
-                    old_away = deepcopy(squads[game][changes_breaks]['Visitante'])
+                    old_home = deepcopy(squads[game][changes_breaks]['Home'])
+                    old_away = deepcopy(squads[game][changes_breaks]['Away'])
                     
                     club, time, player_in, player_out = change
                     player_in = game_players[club][player_in]
@@ -297,23 +300,23 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                             old_away.remove(player_out)
                             old_away.append(player_in)
                         
-                        squads[game][changes_breaks]['Mandante'] = deepcopy(old_home)
-                        squads[game][changes_breaks]['Visitante'] = deepcopy(old_away)
-                        squads[game][changes_breaks - 1]['Tempo'] = time - actual_minute
+                        squads[game][changes_breaks]['Home'] = deepcopy(old_home)
+                        squads[game][changes_breaks]['Away'] = deepcopy(old_away)
+                        squads[game][changes_breaks - 1]['Time'] = time - actual_minute
                         for goal in goals:
-                            minute, team = goal
+                            minute, player, team = goal
                             if minute > actual_minute and minute <= time:
-                                if team == home: squads[game][changes_breaks - 1]['Placar'][0] += 1
-                                else: squads[game][changes_breaks - 1]['Placar'][1] += 1
+                                if team == home: squads[game][changes_breaks - 1]['Score'][0] += 1
+                                else: squads[game][changes_breaks - 1]['Score'][1] += 1
                                 
                         if i == len(changes) - 1:
-                            squads[game][changes_breaks]['Tempo'] = 90 - time
+                            squads[game][changes_breaks]['Time'] = 90 - time
                             for goal in goals:
-                                minute, team = goal
+                                minute, player, team = goal
                                 if minute > time:
-                                    if team == home: squads[game][changes_breaks]['Placar'][0] += 1
-                                    else: squads[game][changes_breaks]['Placar'][1] += 1
-                   
+                                    if team == home: squads[game][changes_breaks]['Score'][0] += 1
+                                    else: squads[game][changes_breaks]['Score'][1] += 1
+                    
                     else:
                         if club == home:
                             old_home.remove(player_out)
@@ -322,9 +325,9 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                             old_away.remove(player_out)
                             old_away.append(player_in)
                         
-                        squads[game][changes_breaks]['Mandante'] = deepcopy(old_home)
-                        squads[game][changes_breaks]['Visitante'] = deepcopy(old_away)
-                        if i == len(changes) - 1: squads[game][changes_breaks]['Tempo'] = 90 - time
+                        squads[game][changes_breaks]['Home'] = deepcopy(old_home)
+                        squads[game][changes_breaks]['Away'] = deepcopy(old_away)
+                        if i == len(changes) - 1: squads[game][changes_breaks]['Time'] = 90 - time
                             
                     actual_minute = time
             

@@ -2,10 +2,10 @@
     "Serie_A": {
         "2013": {
     		"098": {
-    			"Mandante": "Atlético / MG",
-    			"Visitante": "Athletico Paranaense / PR",
-				"Resultado": "1 x 2",
-				"Jogadores": [
+    			"Home": "Atlético / MG",
+    			"Away": "Athletico Paranaense / PR",
+				"Result": "1 x 2",
+				"Players": [
 					[
 						"1Victor Victor Leandro Bagy TP156659",
 						"Atlético / MG"
@@ -159,12 +159,12 @@
 						"Athletico Paranaense / PR"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"34:00 2T 11 NR Bernard Anicio Caldeira Duarte Atlético / MG",
 					"40:00 2T 22 NR Everton Cardoso Silva Atlético / PR",
 					"42:00 2T 77 NR Ederson Alves Ribeiro Silva Atlético / PR"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INT Atlético / MG 29 - Michel Macedo Rocha Macha ... 5 - Lucas Pierre Santos Olive ...",
 					"40:00 1TAtlético / MG 19 - Alecsandro Barbosa Felisb ... 7 - Joao Alves de Assis Silva ...",
 					"27:00 2TAtlético / PR 11 - Felipe de Oliveira Silva 10 - Elias Ribeiro de Oliveira ...",
@@ -189,10 +189,10 @@
         "2022": {},
         "2023": {
 			"026": {
-				"Mandante": "Atlético Mineiro / MG",
-				"Visitante": "Athletico Paranaense / PR",
-				"Resultado": "2 X 1",
-				"Jogadores": [
+				"Home": "Atlético Mineiro / MG",
+				"Away": "Athletico Paranaense / PR",
+				"Result": "2 X 1",
+				"Players": [
 					[
 						"22Everson Everson Felipe Marqu ... T(g)P188398",
 						"Atlético Mineiro / MG"
@@ -374,12 +374,12 @@
 						"Athletico Paranaense / PR"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"09:00 1T7NRGivanildo Vieira de Sousa Atlético Mineiro/MG",
 					"38:00 2T7NRGivanildo Vieira de Sousa Atlético Mineiro/MG",
 					"+2 2T9NRVitor Hugo Roque Ferreira Athletico Paranaense/PR"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INTAthletico Paranaense/PR 22 - Madson Ferreira dos Santos 2 - Khellven Douglas Silva Olive...",
 					"45:00 INTAthletico Paranaense/PR 92 - Pablo Felipe Teixeira 35 - Romulo Jose Cardoso da Cruz",
 					"45:00 INTAthletico Paranaense/PR 8 - Vitor Frezarin Bueno 26 - Erick Luis Conrado Carvalho",
@@ -397,10 +397,10 @@
     "Serie_B": {
         "2013": {
             "152": {
-        		"Mandante": "América / MG",
-				"Visitante": "América / RN",
-				"Resultado": "1 x 1",
-				"Jogadores": [
+        		"Home": "América / MG",
+				"Away": "América / RN",
+				"Result": "1 x 1",
+				"Players": [
 								[
 						"1Matheus Matheus Lima Magalhaes TP323643",
 						"América / MG"
@@ -550,11 +550,11 @@
 						"América / RN"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"22:00 1T 7 NR Laercio Gomes Costa América / RN",
 					"45:00 1T 11 CT Jose Osmar Ventura da Paz América / MG"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INT América/RN 16 - Almir Lopes de Luna 6 - Bruno Nascimento Furtado",
 					"10:00 1TAmérica/MG 20 - Kaio Wilker Afonso da Sil ... 11 - Tiago Alves Sales",
 					"16:00 2TAmérica/MG 17 - Renato Escobar Baruffi 7 - Kleber do Amaral Ribeiro",
@@ -564,10 +564,10 @@
 				]
 			},
 			"346": {
-        		"Mandante": "América / RN",
-				"Visitante": "América / MG",
-				"Resultado": "2 x 2",
-				"Jogadores": [
+        		"Home": "América / RN",
+				"Away": "América / MG",
+				"Result": "2 x 2",
+				"Players": [
 					[
 						"1Silvio Silvio Silas da Silv ... TP172168",
 						"América / RN"
@@ -737,13 +737,13 @@
 						"América / MG"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"21:00 1T 10 NR Regis Augusto Salmazzo América/RN",
 					"34:00 1T 11 NR Kleber do Amaral Ribeiro América/MG",
 					"45:00 1T 11 NR Rodrigo Pimpao Viana América/RN",
 					"19:00 2T 19 NR Marcos Assis de Santana América/MG"
 				],
-				"Substituições": [
+				"Changes": [
 					"24:00 1TAmérica/RN 14 - José Antonio Horacio de L ... 4 - Edson Rocha",
 					"29:00 1TAmérica/MG 19 - Marcos Assis de Santana 9 - Tiago Alves Sales",
 					"24:00 2TAmérica/RN 20 - Antonio Givanildo da Silv ... 11 - Rodrigo Pimpao Viana",
@@ -768,10 +768,10 @@
         "2022": {},
         "2023": {
 			"055": {
-				"Mandante": "Novorizontino / SP",
-				"Visitante": "CRB / AL",
-				"Resultado": "0 X 1",
-				"Jogadores": [
+				"Home": "Novorizontino / SP",
+				"Away": "CRB / AL",
+				"Result": "0 X 1",
+				"Players": [
 					[
 						"12Jordi Jordi Martins Almeida T(g)P320196",
 						"Novorizontino / SP"
@@ -949,10 +949,10 @@
 						"CRB / AL"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"17:00 2T10NRRafael Vinicius Carvalho Longuine Crb/AL"
 				],
-				"Substituições": [
+				"Changes": [
 					"17:00 2TNovorizontino/SP 18 - Jenison de Jesus Brito E Brito 4 - Ligger Moreira Malaquias",
 					"17:00 2TNovorizontino/SP 14 - Bruno da Silva Costa 20 - Felipe Marques da Silva",
 					"17:00 2TNovorizontino/SP 16 - Leonardo Santiago Barcelar 11 - Aylon Aylon Darwin Tavella",
@@ -967,10 +967,10 @@
     "Serie_C": {
         "2013": {
         	"114": {
-        		"Mandante": "Treze / PB",
-				"Visitante": "Baraúnas / RN",
-				"Resultado": "1 x 0",
-				"Jogadores": [
+        		"Home": "Treze / PB",
+				"Away": "Baraúnas / RN",
+				"Result": "1 x 0",
+				"Players": [
 					[
 						"1Eder Eder Donizete Duarte ... TP153275",
 						"Treze / PB"
@@ -1124,10 +1124,10 @@
 						"Baraúnas / RN"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"41:00 2T 7 C Thiago Luiz Carlos Marques Lima Treze/PB"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INT Treze 19 - Giancarlo Lopes Rodrigues ... 11 - Tulio Renan Souza Xavier",
 					"45:00 INT Treze 20 - Rafael Batista 8 - Tessio Lucas Ferreira Caj ..."
 				]
@@ -1148,10 +1148,10 @@
         "2019": {},
         "2020": {
         	"173": {
-        		"Mandante": "Imperatriz / MA",
-				"Visitante": "Manaus / AM",
-				"Resultado": "1 x 2",
-				"Jogadores": [
+        		"Home": "Imperatriz / MA",
+				"Away": "Manaus / AM",
+				"Result": "1 x 2",
+				"Players": [
 					[
 						"1Jairo Jairo Lourencon T(g)P316731",
 						"Imperatriz / MA"
@@ -1261,12 +1261,12 @@
 						"Manaus / AM"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"19:00 1T 9 NR Reginaldo Mendes dos Santos Junior Imperatriz/MA",
 					"06:00 2T 26 NR Rennan Fonseca Siqueira Manaus/AM",
 					"07:00 2T 9 NR Paulo Sergio Simionato Manaus/AM"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INT Manaus/AM 11 - Ivanilson Barbosa Chaul 22 - Edvan Franca de Moraes",
 					"45:00 INT Manaus/AM 87 - Gleibson Medeiros da Silva 31 - Jonathan Braga Queiroz",
 					"19:00 2TManaus/AM 12 - Cesar Augusto Paiva Barbosa 55 - Marcio Gama Moreira"
@@ -1280,10 +1280,10 @@
     "Serie_D": {
         "2013": {
         	"001": {
-        		"Mandante": "Plácido de Castro / AC",
-				"Visitante": "Paragominas / PA",
-				"Resultado": "1 x 1",
-				"Jogadores": [
+        		"Home": "Plácido de Castro / AC",
+				"Away": "Paragominas / PA",
+				"Result": "1 x 1",
+				"Players": [
 					[
 						"1Pelingue Robson Ranner de Sou ... TP295257",
 						"Plácido de Castro / AC"
@@ -1429,11 +1429,11 @@
 						"Paragominas / PA"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"28:00 2T 11 NR Sandro da Cunha Carneiro Plácido de Castro",
 					"09:00 2T 9 NR Weller Wilson Pereira Paragominas"
 				],
-				"Substituições": [
+				"Changes": [
 					"12:00 Paragominas 16 - Roselio Pinto Correa 6 - Gilberto Alves Rodrigues  ...",
 					"14:00 Plácido de Castro 13 - Alisson dos Santos Teixei ... 10 - Wellington Jose de Jesus",
 					"20:00 Paragominas 13 - Cristovam Tavares Pinto F ... 8 - Adriano Miranda de Carval ...",
@@ -1442,10 +1442,10 @@
 				]
         	},
         	"026": {
-        		"Mandante": "Ypiranga / AP",
-				"Visitante": "Maranhão / MA",
-				"Resultado": "1 x 0",
-				"Jogadores": [
+        		"Home": "Ypiranga / AP",
+				"Away": "Maranhão / MA",
+				"Result": "1 x 0",
+				"Players": [
 					[
 						"1Flaubert Flaubert Costa Botelho TP157713",
 						"Ypiranga / AP"
@@ -1519,21 +1519,21 @@
 						"Ypiranga / AP"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"00:00 1T 2 NR Edinaldo Malcher de Franca Filho Ypiranga\n",
 					"44:00 1T NR Ypiranga\nNR "
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INT Maranhão 15 - Wellington das Chagas Per ... 6 - Otavio Gomes Teixeira",
 					"30:00 1TMaranhão 16 - Robson Belfort de Carvalh ... 9 - Anselmo Arruda da Silva",
 					"28:00 2TMaranhão 17 - Luiz Henrique Campos 5 - Bruno Luis Morais Ribeiro ..."
 				]
 			},
         	"029": {
-        		"Mandante": "Gurupi / TO",
-				"Visitante": "Ypiranga / AP",
-				"Resultado": "3 x 2",
-				"Jogadores": [
+        		"Home": "Gurupi / TO",
+				"Away": "Ypiranga / AP",
+				"Result": "3 x 2",
+				"Players": [
 					[
 						"1Rafael Rafael de Jesus Mariano TP294558",
 						"Gurupi / TO"
@@ -1599,14 +1599,14 @@
 						"Gurupi / TO"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"05:00 2T 8 NR Antonio Thomaz Santos de Barros Gurupi\n",
 					"16:00 2T 9 NR Armando Garrido dos Santos Ypiranga\n",
 					"19:00 2T 11 NR Ricardo Lopes Pereira Gurupi\n",
 					"34:00 2T 10 NR Lucio Pereira da Silva Gurupi\n",
 					"40:00 2T 11 NR Patrick Jean Teixeira Maia Ypiranga\nNR "
 				],
-				"Substituições": [
+				"Changes": [
 					"17:00 Gurupi 15 - Juscelino Ferreira da Sil ... 4 - Edevaldo Amancio da Silva ...",
 					"19:00 Gurupi 16 - Heder Alves de Sá 9 - Israel Santos Nascimento",
 					"23:00 Ypiranga 17 - Rodrigo Bastos Cardoso 8 - Jose Romeu Tavares de Aqu ...",
@@ -1643,10 +1643,10 @@
         "2014": {},
         "2015": {
         	"016": {
-        		"Mandante": "Vitória da Conquista / BA",
-				"Visitante": "Palmeiras / SP",
-				"Resultado": "1 X 4",
-				"Jogadores": [
+        		"Home": "Vitória da Conquista / BA",
+				"Away": "Palmeiras / SP",
+				"Result": "1 X 4",
+				"Players": [
 					[
 						"1Viafara Julian Ramiro Viafar ... TP185052",
 						"Vitória da Conquista / BA"
@@ -1828,14 +1828,14 @@
 						"Palmeiras / SP"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"18:00 2T 20 NR Romulo Andre Lopes Vitória da Conquista",
 					"20:00 2T 20 NR Agustin Lionel Allione Palmeiras",
 					"34:00 2T 27 NR Robson Michael Signorini Palmeiras",
 					"38:00 2T 7 NR Eduardo Pereira Rodrigues Palmeiras",
 					"13:00 1T 9 PN Jonatan Ezequiel Cristaldo Palmeiras"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INT Vitória da Conquista/BA 20 - Romulo Andre Lopes 10 - Erivelton Freire Cavalcan ...",
 					"15:00 2TVitória da Conquista/BA 18 - Sandro Ricardo Chagas Lim ... 9 - Rafael Fernandes da Silva ...",
 					"18:00 2TPalmeiras/SP 17 - Leandro Marcos Pereira 9 - Jonatan Ezequiel Cristald ...",
@@ -1854,10 +1854,10 @@
         "2022": {},
         "2023": {
 			"039": {
-				"Mandante": "Nova Iguaçu / RJ",
-				"Visitante": "Vitória / BA",
-				"Resultado": "2 X 0",
-				"Jogadores": [
+				"Home": "Nova Iguaçu / RJ",
+				"Away": "Vitória / BA",
+				"Result": "2 X 0",
+				"Players": [
 					[
 						"1Max Anderson Max dos Santos T(g)P173872",
 						"Nova Iguaçu / RJ"
@@ -2031,11 +2031,11 @@
 						"Vitória / BA"
 					]
 				],
-				"Gols": [
+				"Goals": [
 					"37:00 2T13NRMarcio Sergio Farias Duarte Nova Iguaçu/RJ",
 					"24:00 2T5PNLeonardo de Oliveira Silva Nova Iguaçu/RJ"
 				],
-				"Substituições": [
+				"Changes": [
 					"45:00 INTVitória/BA 22 - Santiago Trellez Vivero 9 - Leonardo Gamalho de Souza",
 					"45:00 INTNova Iguaçu/RJ 13 - Marcio Sergio Farias Duarte 3 - Bruno Felipe de Abreu Barbosa",
 					"45:00 INTNova Iguaçu/RJ 22 - Breno de Almeida Mello Santana 10 - Icaro Robert de Souza",
