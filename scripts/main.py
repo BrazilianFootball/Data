@@ -6,9 +6,12 @@ import os
 
 if __name__ == '__main__':
     now = datetime.now()
-    os.chdir('../results')
+    os.chdir('..')
+    if 'results' not in os.listdir(): os.mkdir('results')
+    os.chdir('results')
+
     if now.strftime('%d') == '01':
-        for file in glob('../results/*/*/*.json'): os.remove(file)
+        for file in glob('./processed/*.json'): os.remove(file)
         min_year = 2013
     
     else: min_year = int(now.strftime('%Y'))
@@ -28,19 +31,20 @@ if __name__ == '__main__':
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Scraping] - Beginning docket scraping.\n')
         
         start_scrape = time()
-        n = len(glob('../*/*/*/CSVs/*.csv'))
-        max_time = 60
+        max_time = 300
         added = 0
-        it = 1
-        k = 0
-        while n != k:
-            files = glob('../*/*/*/CSVs/*.csv')
-            k = len(files)
-            if it == 1: scrape(competitions, min_year, max_year, files, max_time, cleaning = cleaning)
-            else: scrape(competitions, min_year, max_year, files, max_time / 2, cleaning = cleaning)
-            n = len(glob('../*/*/*/CSVs/*.csv'))
-            added += n - k
-            it += 1
+        for competition in competitions:
+            n = len(glob(f'./raw/{competition[0]}/*/CSVs/*.csv'))
+            it = 1
+            k = 0
+            while n != k or n == 0:
+                files = glob(f'./raw/{competition[0]}/*/CSVs/*.csv')
+                k = len(files)
+                if it == 1: scrape([competition], min_year, max_year, files, max_time, cleaning = cleaning)
+                else: scrape([competition], min_year, max_year, files, max_time / 2, cleaning = cleaning)
+                n = len(glob(f'./raw/{competition[0]}/*/CSVs/*.csv'))
+                added += n - k
+                it += 1
         
         end_scrape = time()
         with open('../auxiliary/scrape.log', 'a') as f:
