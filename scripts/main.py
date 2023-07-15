@@ -9,19 +9,25 @@ if __name__ == '__main__':
     os.chdir('..')
     if 'results' not in os.listdir(): os.mkdir('results')
     os.chdir('results')
+    competitions = [('CdB',     '424'),
+                    ('Serie_A', '142'),
+                    ('Serie_B', '242'),
+                    ('Serie_C', '342'),
+                    ('Serie_D', '542')]
 
     if now.strftime('%d') == '01':
         for file in glob('./processed/*.json'): os.remove(file)
         min_year = 2013
     
-    else: min_year = int(now.strftime('%Y'))
+    else:
+        min_year = int(now.strftime('%Y'))
+        for year in range(2013, min_year):
+            if len(glob(f'./processed/*{year}*.json')) != 2 * len(competitions):
+                min_year = year
+                sys.argv.append('--t')
+                break
+
     max_year = int(now.strftime('%Y'))
-    competitions = [('CdB',     '424', 180),
-                    ('Serie_A', '142', 380),
-                    ('Serie_B', '242', 380),
-                    ('Serie_C', '342', 214),
-                    ('Serie_D', '542', 518)]
-    
     if '--c' in sys.argv: cleaning = True
     else: cleaning = False
     
