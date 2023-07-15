@@ -19,6 +19,9 @@ def make_directories(competitions, min_year, max_year):
         max_year (int): The maximum year.
     '''
 
+    if 'processed' not in os.listdir(): os.mkdir('processed')
+    if 'raw' not in os.listdir(): os.mkdir('raw')
+    os.chdir('raw')
     for competition in competitions:
         name = competition[0]
         if name not in os.listdir(): os.mkdir(name)
@@ -32,6 +35,7 @@ def make_directories(competitions, min_year, max_year):
             os.chdir('..')
         
         os.chdir('..')
+    os.chdir('..')
 
 def extract_games(competition, cod, year, n_max, files):
     '''
@@ -49,7 +53,7 @@ def extract_games(competition, cod, year, n_max, files):
     for game in range(1, n_max + 1):
         if count_end == 10: break
         try:
-            name = f'../results/{competition}/{year}/PDFs/{str(game).zfill(3)}.pdf'
+            name = f'./raw/{competition}/{year}/PDFs/{str(game).zfill(3)}.pdf'
             if name.replace('PDFs', 'CSVs').replace('pdf', 'csv') in files:
                 count_end = 0
                 continue
@@ -141,11 +145,11 @@ def extract(competitions, min_year, max_year, cleaning = True):
             print(f'Beggining extract of {competition.replace("_", " ")} {year}')
             games = {}
             count_end = 0
-            if f'games.json' in os.listdir(f'../results/{competition}/{year}'):
-                files = glob(f'../results/{competition}/{year}/CSVs/*.csv')
+            if f'{competition}_{year}_games.json' in os.listdir(f'./processed/'):
+                files = glob(f'./raw/{competition}/{year}/CSVs/*.csv')
                 latest_file = max(files, key = os.path.getmtime)
                 mod_time = os.path.getmtime(latest_file)
-                if mod_time < os.path.getmtime(f'../results/{competition}/{year}/games.json'): continue
+                if mod_time < os.path.getmtime(f'./processed/{competition}_{year}_games.json'): continue
             
             summary = [['Game', 'Home', 'Away']]
             for game in range(1, n_games + 1):
@@ -159,7 +163,7 @@ def extract(competitions, min_year, max_year, cleaning = True):
                 if count_end == 10: break
                 f_club, f_result, f_players, f_goals, f_changes = False, False, False, False, False
                 try:
-                    with open(f'../results/{competition}/{year}/CSVs/{str(game).zfill(3)}.csv', 'r') as f: text = ''.join(f.readlines())
+                    with open(f'./raw/{competition}/{year}/CSVs/{str(game).zfill(3)}.csv', 'r') as f: text = ''.join(f.readlines())
 
                     clubs = catch_teams(text)
                     assert len(clubs) == 1
@@ -208,13 +212,13 @@ def extract(competitions, min_year, max_year, cleaning = True):
                     elif not f_changes: errors.append(f'Error during extracting changes from game {game} of {year}\'s {competition}.')
                     else: errors.append(f'Error in game {game} of {year}\'s {competition}.')
 
-            with open(f'../results/{competition}/{year}/games.json', 'w') as f: json.dump(games, f)
-            with open(f'../results/{competition}/{year}/summary.csv', 'w') as f:
+            with open(f'./processed/{competition}_{year}_games.json', 'w') as f: json.dump(games, f)
+            with open(f'./raw/{competition}/{year}/summary.csv', 'w') as f:
                 writer = csv.writer(f)
                 for row in summary: writer.writerow(row)
     
     if len(errors) > 0:
-        with open('../results/infos_errors_extract.csv', 'w') as f:
+        with open('./infos_errors_extract.csv', 'w') as f:
             writer = csv.writer(f)
             for error in errors: writer.writerow([error])
     
@@ -242,14 +246,14 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
             year = str(year)
             if cleaning: clear()
             print(f'Beggining lineups update of {competition.replace("_", " ")} {year}')
-            if f'squads.json' in os.listdir(f'{competition}/{year}'):
-                files = glob(f'../results/{competition}/{year}/CSVs/*.csv')
+            if f'{competition}_{year}_squads.json' in os.listdir(f'processed/'):
+                files = glob(f'./raw/{competition}/{year}/CSVs/*.csv')
                 latest_file = max(files, key = os.path.getmtime)
                 mod_time = os.path.getmtime(latest_file)
-                if mod_time < os.path.getmtime(f'../results/{competition}/{year}/squads.json'): continue
+                if mod_time < os.path.getmtime(f'./processed/{competition}_{year}_squads.json'): continue
 
             squads = {}
-            with open(f'../results/{competition}/{year}/games.json') as f: games = json.load(f)
+            with open(f'./processed/{competition}_{year}_games.json') as f: games = json.load(f)
             
             for game in games:
                 if games[game] == {}: continue
@@ -299,8 +303,10 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                 changes_breaks = 0
                 for i, change in enumerate(changes):
                     club, time, player_in, player_out = change
-                    player_in = game_players[club][player_in] if player_in != '' else ''
-                    player_out = game_players[club][player_out]
+                    try: player_in = game_players[club][player_in] if player_in != '' else ''
+                    except: errors.append(f'Can\'t find player {player_in} of {club} in {game} of {year}\'s {competition}')
+                    try: player_out = game_players[club][player_out]
+                    except: errors.append(f'Can\'t find player {player_out} of {club} in {game} of {year}\'s {competition}')
                     if time != actual_minute:
                         changes_breaks += 1
                         squads[game][changes_breaks] = deepcopy(squads[game][changes_breaks - 1])
@@ -405,9 +411,9 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
                             
                     actual_minute = time
             
-            with open(f'../results/{competition}/{year}/squads.json', 'w') as f: json.dump(squads, f)
+            with open(f'./processed/{competition}_{year}_squads.json', 'w') as f: json.dump(squads, f)
 
     if len(errors) > 0:
-        with open('../results/infos_errors_catch.csv', 'w') as f:
+        with open('./infos_errors_catch.csv', 'w') as f:
             writer = csv.writer(f)
             for error in errors: writer.writerow([error])

@@ -1,170 +1,47 @@
-2023-07-01 22:38:20 [Scraping] - Beginning docket scraping.
-2023-07-01 22:40:41 [Scraping] - Docket scraping complete.
-                                   [INFO] Already up to date.
-
--------------------------------------------------------------------------------------
-
-2023-07-01 23:12:19 [Scraping] - Beginning docket scraping.
-2023-07-01 23:20:23 [Scraping] - Docket scraping complete.
-                                   [INFO] 14 dockets addeds.
-2023-07-01 23:20:23 [Extract]  - Beginning info extract.
-2023-07-01 23:20:24 [Extract]  - Info extract complete.
+2023-07-14 09:57:08 [Scraping] - Beginning docket scraping.
+2023-07-14 12:09:27 [Scraping] - Docket scraping complete.
+                                   [INFO] 15061 dockets addeds.
+2023-07-14 12:09:27 [Extract]  - Beginning info extract.
+2023-07-14 12:09:44 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-01 23:20:24 [Lineups]  - Beginning lineups treatment.
-2023-07-01 23:20:25 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-02 06:25:38 [Scraping] - Beginning docket scraping.
-2023-07-02 06:28:11 [Scraping] - Docket scraping complete.
-                                   [INFO] 11 dockets addeds.
-2023-07-02 06:28:11 [Extract]  - Beginning info extract.
-2023-07-02 06:28:12 [Extract]  - Info extract complete.
+2023-07-14 12:09:44 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:41:17 [Extract]  - Beginning info extract.
+2023-07-15 11:41:17 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-02 06:28:12 [Lineups]  - Beginning lineups treatment.
-2023-07-02 06:28:13 [Lineups]  - Lineups complete.
+2023-07-15 11:41:17 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:41:17 [Lineups]  - Lineups complete.
 
 -------------------------------------------------------------------------------------
 
-2023-07-03 06:27:37 [Scraping] - Beginning docket scraping.
-2023-07-03 06:29:39 [Scraping] - Docket scraping complete.
-                                   [INFO] 22 dockets addeds.
-2023-07-03 06:29:39 [Extract]  - Beginning info extract.
-2023-07-03 06:29:40 [Extract]  - Info extract complete.
+2023-07-15 11:42:12 [Extract]  - Beginning info extract.
+2023-07-15 11:42:12 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-03 06:29:40 [Lineups]  - Beginning lineups treatment.
-2023-07-03 06:29:41 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-04 01:17:37 [Scraping] - Beginning docket scraping.
-2023-07-04 01:19:03 [Scraping] - Docket scraping complete.
-                                   [INFO] 2 dockets addeds.
-2023-07-04 01:19:03 [Extract]  - Beginning info extract.
-2023-07-04 01:19:03 [Extract]  - Info extract complete.
+2023-07-15 11:42:12 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:42:51 [Extract]  - Beginning info extract.
+2023-07-15 11:42:51 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-04 01:19:03 [Lineups]  - Beginning lineups treatment.
-2023-07-04 01:19:04 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-
--------------------------------------------------------------------------------------
-
-
--------------------------------------------------------------------------------------
-
-
--------------------------------------------------------------------------------------
-
-2023-07-04 06:28:02 [Scraping] - Beginning docket scraping.
-2023-07-04 06:29:12 [Scraping] - Docket scraping complete.
-                                   [INFO] 6 dockets addeds.
-2023-07-04 06:29:12 [Extract]  - Beginning info extract.
-2023-07-04 06:29:13 [Extract]  - Info extract complete.
+2023-07-15 11:42:51 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:43:11 [Extract]  - Beginning info extract.
+2023-07-15 11:43:11 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-04 06:29:13 [Lineups]  - Beginning lineups treatment.
-2023-07-04 06:29:14 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-05 06:28:32 [Scraping] - Beginning docket scraping.
-2023-07-05 06:29:34 [Scraping] - Docket scraping complete.
-                                   [INFO] 1 docket added.
-2023-07-05 06:29:34 [Extract]  - Beginning info extract.
-2023-07-05 06:29:35 [Extract]  - Info extract complete.
+2023-07-15 11:43:11 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:44:42 [Extract]  - Beginning info extract.
+2023-07-15 11:44:43 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-05 06:29:35 [Lineups]  - Beginning lineups treatment.
-2023-07-05 06:29:35 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-06 06:28:28 [Scraping] - Beginning docket scraping.
-2023-07-06 06:29:44 [Scraping] - Docket scraping complete.
-                                   [INFO] 4 dockets addeds.
-2023-07-06 06:29:44 [Extract]  - Beginning info extract.
-2023-07-06 06:29:44 [Extract]  - Info extract complete.
+2023-07-15 11:44:43 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:44:55 [Extract]  - Beginning info extract.
+2023-07-15 11:44:55 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-06 06:29:44 [Lineups]  - Beginning lineups treatment.
-2023-07-06 06:29:44 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-07 06:27:36 [Scraping] - Beginning docket scraping.
-2023-07-07 06:28:17 [Scraping] - Docket scraping complete.
-                                   [INFO] Already up to date.
-
--------------------------------------------------------------------------------------
-
-2023-07-08 06:25:12 [Scraping] - Beginning docket scraping.
-2023-07-08 06:26:33 [Scraping] - Docket scraping complete.
-                                   [INFO] 2 dockets addeds.
-2023-07-08 06:26:33 [Extract]  - Beginning info extract.
-2023-07-08 06:26:34 [Extract]  - Info extract complete.
+2023-07-15 11:44:55 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:46:01 [Extract]  - Beginning info extract.
+2023-07-15 11:46:01 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-08 06:26:34 [Lineups]  - Beginning lineups treatment.
-2023-07-08 06:26:34 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-<<<<<<< HEAD
-2023-07-09 18:53:07 [Scraping] - Beginning docket scraping.
-2023-07-09 18:56:51 [Scraping] - Docket scraping complete.
-                                   [INFO] 39 dockets addeds.
-2023-07-09 18:56:51 [Extract]  - Beginning info extract.
-2023-07-09 18:57:06 [Extract]  - Info extract complete.
+2023-07-15 11:46:01 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:47:43 [Extract]  - Beginning info extract.
+2023-07-15 11:47:43 [Extract]  - Info extract complete.
                                    [INFO] Sucess!
-2023-07-09 18:57:06 [Lineups]  - Beginning lineups treatment.
-2023-07-09 18:57:14 [Lineups]  - Lineups complete.
-=======
-2023-07-09 21:15:14 [Scraping] - Beginning docket scraping.
-2023-07-09 21:18:09 [Scraping] - Docket scraping complete.
-                                   [INFO] 34 dockets addeds.
-2023-07-09 21:18:09 [Extract]  - Beginning info extract.
-2023-07-09 21:18:10 [Extract]  - Info extract complete.
-                                   [INFO] Sucess!
-2023-07-09 21:18:10 [Lineups]  - Beginning lineups treatment.
-2023-07-09 21:18:11 [Lineups]  - Lineups complete.
->>>>>>> 47c64bc12c558986b6029934c5bb8fa5b622324b
-
--------------------------------------------------------------------------------------
-
-2023-07-10 06:27:55 [Scraping] - Beginning docket scraping.
-2023-07-10 06:29:25 [Scraping] - Docket scraping complete.
-                                   [INFO] 15 dockets addeds.
-2023-07-10 06:29:25 [Extract]  - Beginning info extract.
-2023-07-10 06:29:26 [Extract]  - Info extract complete.
-                                   [INFO] Sucess!
-2023-07-10 06:29:26 [Lineups]  - Beginning lineups treatment.
-2023-07-10 06:29:27 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-11 06:27:15 [Scraping] - Beginning docket scraping.
-2023-07-11 06:29:02 [Scraping] - Docket scraping complete.
-                                   [INFO] 6 dockets addeds.
-2023-07-11 06:29:02 [Extract]  - Beginning info extract.
-2023-07-11 06:29:03 [Extract]  - Info extract complete.
-                                   [INFO] Sucess!
-2023-07-11 06:29:03 [Lineups]  - Beginning lineups treatment.
-2023-07-11 06:29:03 [Lineups]  - Lineups complete.
-
--------------------------------------------------------------------------------------
-
-2023-07-12 06:26:58 [Scraping] - Beginning docket scraping.
-2023-07-12 06:30:36 [Scraping] - Docket scraping complete.
-                                   [INFO] Already up to date.
-
--------------------------------------------------------------------------------------
-
-2023-07-13 06:27:07 [Scraping] - Beginning docket scraping.
-2023-07-13 06:28:24 [Scraping] - Docket scraping complete.
-                                   [INFO] 2 dockets addeds.
-2023-07-13 06:28:24 [Extract]  - Beginning info extract.
-2023-07-13 06:28:24 [Extract]  - Info extract complete.
-                                   [INFO] Sucess!
-2023-07-13 06:28:24 [Lineups]  - Beginning lineups treatment.
-2023-07-13 06:28:24 [Lineups]  - Lineups complete.
+2023-07-15 11:47:43 [Lineups]  - Beginning lineups treatment.
+2023-07-15 11:47:50 [Lineups]  - Lineups complete.
 
 -------------------------------------------------------------------------------------
 
