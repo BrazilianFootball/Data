@@ -1,3 +1,4 @@
+from py_markdown_table.markdown_table import markdown_table
 from datetime import datetime
 from time import time
 from scrape import *
@@ -9,19 +10,25 @@ if __name__ == '__main__':
     os.chdir('..')
     if 'results' not in os.listdir(): os.mkdir('results')
     os.chdir('results')
+    competitions = [('CdB',     '424'),
+                    ('Serie_A', '142'),
+                    ('Serie_B', '242'),
+                    ('Serie_C', '342'),
+                    ('Serie_D', '542')]
 
     if now.strftime('%d') == '01':
         for file in glob('./processed/*.json'): os.remove(file)
         min_year = 2013
     
-    else: min_year = int(now.strftime('%Y'))
+    else:
+        min_year = int(now.strftime('%Y'))
+        for year in range(2013, min_year):
+            if len(glob(f'./processed/*{year}*.json')) != 2 * len(competitions):
+                min_year = year
+                sys.argv.append('--t')
+                break
+
     max_year = int(now.strftime('%Y'))
-    competitions = [('CdB',     '424', 180),
-                    ('Serie_A', '142', 380),
-                    ('Serie_B', '242', 380),
-                    ('Serie_C', '342', 214),
-                    ('Serie_D', '542', 518)]
-    
     if '--c' in sys.argv: cleaning = True
     else: cleaning = False
     
@@ -107,7 +114,37 @@ if __name__ == '__main__':
         print(f'Extract complete in {end_extract - start_extract:.2f} seconds!',
               f'{cont_fail} games failed.',
               sep = '\n')
-              
+    
+    data = list()
+    for file in sorted(glob('./processed/*games.json')):
+        competition = file.split('/')[-1] \
+            .replace('_games.json', '') \
+            .replace('_', ' ') \
+            .replace('CdB', 'Brazil Cup')
+        
+        *competition, year = competition.split(' ')
+        competition = ' '.join(competition) + f' ({year})'
+        with open(file) as f: games = json.load(f)
+        data.append({'Competition' : competition,
+                     'Real games' : sorted(games.keys())[-1],
+                     'Scraped games' : len(games)
+                    })
+        print(competition, sorted(games.keys())[-1], len(games))
+    
+    markdown = markdown_table(data).set_params(row_sep = 'markdown').get_markdown()
+    markdown = markdown.replace('`', '')
+    with open('../README.md', 'r') as f: readme = f.readlines()
+    if '## Total games\n' in readme:
+        aux = readme.index('## Total games\n')
+        markdown = markdown.split('\n')
+        for i in range(len(markdown)): readme[aux + 2 + i] = markdown[i] + '\n'
+    else:
+        aux = readme.index('### Know problems\n')
+        readme.insert(aux, '## Total games\n\n')
+        readme.insert(aux + 1, markdown + '\n\n')
+
+    with open('../README.md', 'w') as f: f.writelines(readme)
+    
     with open('../auxiliary/scrape.log', 'a') as f:
         f.write('\n')
         f.write('-' * 85 + '\n')

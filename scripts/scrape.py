@@ -14,7 +14,7 @@ def make_directories(competitions, min_year, max_year):
     Creates directories for storing PDF and CSV files for each competition and year.
     
     Args:
-        competitions (list): A list of competition names, codes and number of games in the format [(name, code, n_games)].
+        competitions (list): A list of competition names and codes in the format [(name, code)].
         min_year (int): The minimum year.
         max_year (int): The maximum year.
     '''
@@ -37,7 +37,7 @@ def make_directories(competitions, min_year, max_year):
         os.chdir('..')
     os.chdir('..')
 
-def extract_games(competition, cod, year, n_max, files):
+def extract_games(competition, cod, year, files):
     '''
     Extracts games data from PDF files and saves them as PDF and CSV files.
     
@@ -45,12 +45,13 @@ def extract_games(competition, cod, year, n_max, files):
         competition (str): The name of the competition.
         cod (str): The code of the competition.
         year (int): The year of the games.
-        n_max (int): The maximum number of games.
         files (list): A list of existing file paths.
     '''
 
     count_end = 0
-    for game in range(1, n_max + 1):
+    game = 0
+    while True:
+        game += 1
         if count_end == 10: break
         try:
             name = f'./raw/{competition}/{year}/PDFs/{str(game).zfill(3)}.pdf'
@@ -100,7 +101,7 @@ def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = T
     Scrapes games data from websites and saves them as PDF and CSV files.
     
     Args:
-        competitions (list): A list of competition names, codes and number of games in the format [(name, code, n_games)].
+        competitions (list): A list of competition names and codes in the format [(name, code)].
         min_year (int): The minimum year.
         max_year (int): The maximum year.
         files (list): A list of existing file paths.
@@ -109,12 +110,12 @@ def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = T
     '''
 
     for competition in competitions:
-        competition, cod, n_games = competition
+        competition, cod = competition
         for year in range(min_year, max_year + 1):
             if cleaning: clear()
             print(f'Beggining scrape of {competition.replace("_", " ")} {year}')
             year = str(year)
-            p = Process(target = extract_games, args = (competition, cod, year, n_games, files))
+            p = Process(target = extract_games, args = (competition, cod, year, files))
             p.start()
             p.join(max_time)
             p.terminate()
@@ -124,7 +125,7 @@ def extract(competitions, min_year, max_year, cleaning = True):
     Extracts game data from CSV files and generates summary files for each competition and year.
     
     Args:
-        competitions (list): A list of competition names, codes and number of games in the format [(name, code, n_games)].
+        competitions (list): A list of competition names and codes in the format [(name, code)].
         min_year (int): The minimum year.
         max_year (int): The maximum year.
         cleaning (bool): Flag indicating whether to clear the console output before extracting. Defaults to True.
@@ -138,7 +139,7 @@ def extract(competitions, min_year, max_year, cleaning = True):
     errors = list()
     cont_fail = 0
     for competition in competitions:
-        competition, n_games = competition[0], competition[2]
+        competition = competition[0]
         for year in range(min_year, max_year + 1):
             if cleaning: clear()
             year = str(year)
@@ -152,7 +153,9 @@ def extract(competitions, min_year, max_year, cleaning = True):
                 if mod_time < os.path.getmtime(f'./processed/{competition}_{year}_games.json'): continue
             
             summary = [['Game', 'Home', 'Away']]
-            for game in range(1, n_games + 1):
+            game = 0
+            while True:
+                game += 1
                 if str(game).zfill(3) in exceptions[competition][year]:
                     if exceptions[competition][year][str(game).zfill(3)] != {}:
                         games[str(game).zfill(3)] = exceptions[competition][year][str(game).zfill(3)]
@@ -229,7 +232,7 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
     Updates the lineups data for each game in the specified competitions and years.
     
     Args:
-        competitions (list): A list of competition names, codes and number of games in the format [(name, code, n_games)].
+        competitions (list): A list of competition names and codes in the format [(name, code)].
         min_year (int): The minimum year.
         max_year (int): The maximum year.
         cleaning (bool): Flag indicating whether to clear the console output before updating lineups. Defaults to True.
