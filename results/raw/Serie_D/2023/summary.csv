@@ -384,10 +384,22 @@ Game,Home,Away
 383,Hercilio Luz / SC,Sãojoseense / PR
 384,Concordia Atlético Clube / SC,Camboriu / SC
 385,Aguia de Maraba / PA,São Raimundo / RR
+386,Trem / AP,Humaitá / AC
+387,Sao Francisco / AC,Princesa do Solimões / AM
+388,Nacional / AM,Tuna Luso / PA
+389,Ferroviário / CE,Cordino / MA
+390,Maranhão / MA,Tocantinópolis / TO
+391,Caucaia / CE,Fluminense / PI
 392,Parnahyba / PI,Atlético / CE
+393,Nacional / PB,Iguatu / CE
 394,Pacajus / CE,Sousa / PB
+395,Santa Cruz / PE,Potiguar / RN
+396,Globo / RN,Campinense / PB
 397,Bahia de Feira / BA,ASA / AL
+398,Cruzeiro / AL,Retrô / PE
+399,Jacuipense / BA,Sergipe / SE
 400,Falcon / SE,Atlético / BA
+401,Ceilândia / DF,União de Rondonópolis / MT
 402,Operário Ceov / MT,Real Ariquemes / RO
 403,Interporto / TO,Ipora / GO
 404,Anápolis / GO,Brasiliense / DF
@@ -397,5 +409,8 @@ Game,Home,Away
 409,XV de Piracicaba / SP,Operário / MS
 410,Atlético Patrocinense / MG,Crac / GO
 411,Ferroviária / SP,Maringá / PR
+412,Cascavel / PR,Inter de Limeira / SP
+413,Aimoré / RS,Camboriu / SC
 414,Concordia Atlético Clube / SC,Caxias / RS
+415,Novo Hamburgo / RS,Hercilio Luz / SC
 416,Sãojoseense / PR,Brasil / RS
