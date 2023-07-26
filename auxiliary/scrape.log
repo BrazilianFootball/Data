@@ -183,3 +183,14 @@
 
 -------------------------------------------------------------------------------------
 
+2023-07-26 06:22:47 [Scraping] - Beginning docket scraping.
+2023-07-26 06:23:30 [Scraping] - Docket scraping complete.
+                                   [INFO] 1 docket added.
+2023-07-26 06:23:30 [Extract]  - Beginning info extract.
+2023-07-26 06:23:32 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2023-07-26 06:23:32 [Lineups]  - Beginning lineups treatment.
+2023-07-26 06:23:33 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
