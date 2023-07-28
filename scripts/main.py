@@ -129,7 +129,6 @@ if __name__ == '__main__':
                      'Real games' : sorted(games.keys())[-1],
                      'Scraped games' : len(games)
                     })
-        print(competition, sorted(games.keys())[-1], len(games))
     
     markdown = markdown_table(data).set_params(row_sep = 'markdown').get_markdown()
     markdown = markdown.replace('`', '')
