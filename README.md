@@ -23,7 +23,7 @@ This repository is organized in three main folders:
 |Brazil Cup (2020)|    120   |     120     |
 |Brazil Cup (2021)|    122   |     122     |
 |Brazil Cup (2022)|    122   |     122     |
-|Brazil Cup (2023)|    117   |     117     |
+|Brazil Cup (2023)|    118   |     118     |
 |  Serie A (2013) |    380   |     380     |
 |  Serie A (2014) |    380   |     380     |
 |  Serie A (2015) |    380   |     380     |
