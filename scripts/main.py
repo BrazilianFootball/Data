@@ -38,7 +38,7 @@ if __name__ == '__main__':
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Scraping] - Beginning docket scraping.\n')
         
         start_scrape = time()
-        max_time = 300
+        max_time = 60
         added = 0
         for competition in competitions:
             n = len(glob(f'./raw/{competition[0]}/*/CSVs/*.csv'))
@@ -54,6 +54,7 @@ if __name__ == '__main__':
                 it += 1
         
         end_scrape = time()
+        if end_scrape - start_scrape > max_time: print('Finished due timeout')
         with open('../auxiliary/scrape.log', 'a') as f:
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Scraping] - Docket scraping complete.\n')
             if added == 0: f.write('                                   [INFO] Already up to date.\n')
