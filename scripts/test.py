@@ -17,7 +17,8 @@ def get_public_ip():
 
 def test_docket():
     try:
-        response = requests.get('https://conteudo.cbf.com.br/sumulas/2023/1421se.pdf')
+        response = requests.get('https://conteudo.cbf.com.br/sumulas/2023/1421se.pdf',
+                                verify = False)
         if response.status_code == 200:
             data = response.content
             return data
