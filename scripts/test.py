@@ -21,7 +21,9 @@ def get_public_ip():
 def test_docket():
     try:
         response = requests.get('https://conteudo.cbf.com.br/sumulas/2023/1421se.pdf',
-                                verify = False)
+                                verify = False,
+                                proxies = {'http' : 'http://20.206.106.192:80',
+                                           'https' : 'https://189.79.62.116:8080'})
         if response.status_code == 200:
             data = response.content
             return data
