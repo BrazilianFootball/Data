@@ -94,7 +94,7 @@ def get_pdf(url):
         bytes: The content of the PDF file.
     '''
 
-    return requests.get(url).content
+    return requests.get(url, verify = False).content
 
 def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = True):
     '''
