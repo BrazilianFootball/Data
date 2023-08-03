@@ -100,7 +100,7 @@ def get_pdf(url):
 
     return requests.get(url, verify = False).content
 
-def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = True):
+def scrape(competitions, min_year, max_year, files, max_time = 60, cleaning = True):
     '''
     Scrapes games data from websites and saves them as PDF and CSV files.
     

@@ -47,8 +47,7 @@ if __name__ == '__main__':
             while n != k or n == 0:
                 files = glob(f'./raw/{competition[0]}/*/CSVs/*.csv')
                 k = len(files)
-                if it == 1: scrape([competition], min_year, max_year, files, max_time, cleaning = cleaning)
-                else: scrape([competition], min_year, max_year, files, max_time / 2, cleaning = cleaning)
+                scrape([competition], min_year, max_year, files, max_time, cleaning = cleaning)
                 n = len(glob(f'./raw/{competition[0]}/*/CSVs/*.csv'))
                 added += n - k
                 it += 1
