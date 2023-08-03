@@ -2,12 +2,16 @@ from multiprocessing import Process
 from copy import deepcopy
 from functions import *
 from glob import glob
+from time import time
+import warnings
 import requests
 import json
 import csv
 import os
 
 from PyPDF2 import *
+
+warnings.filterwarnings('ignore')
 
 def make_directories(competitions, min_year, max_year):
     '''
@@ -114,11 +118,15 @@ def scrape(competitions, min_year, max_year, files, max_time = 600, cleaning = T
         for year in range(min_year, max_year + 1):
             if cleaning: clear()
             print(f'Beggining scrape of {competition.replace("_", " ")} {year}')
+            start_scrape = time()
             year = str(year)
             p = Process(target = extract_games, args = (competition, cod, year, files))
             p.start()
             p.join(max_time)
             p.terminate()
+            
+            end_scrape = time()
+            if end_scrape - start_scrape > max_time: print('Finished due timeout')
 
 def extract(competitions, min_year, max_year, cleaning = True):
     '''

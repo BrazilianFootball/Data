@@ -54,7 +54,6 @@ if __name__ == '__main__':
                 it += 1
         
         end_scrape = time()
-        if end_scrape - start_scrape > max_time: print('Finished due timeout')
         with open('../auxiliary/scrape.log', 'a') as f:
             f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} [Scraping] - Docket scraping complete.\n')
             if added == 0: f.write('                                   [INFO] Already up to date.\n')
