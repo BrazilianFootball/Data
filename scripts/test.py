@@ -6,7 +6,10 @@ warnings.filterwarnings('ignore')
 
 def get_public_ip():
     try:
-        response = requests.get('https://api64.ipify.org?format=json')
+        response = requests.get('https://api64.ipify.org?format=json',
+                                verify = False,
+                                headers = {'X-Forwarded-For': '201.162.66.5'},
+                               )
         if response.status_code == 200:
             data = response.json()
             public_ip = data['ip']
@@ -22,7 +25,8 @@ def test_docket():
     try:
         response = requests.get('https://conteudo.cbf.com.br/sumulas/2023/1421se.pdf',
                                 verify = False,
-                                proxies = {'https' : 'https://201.76.218.220:9898'})
+                                headers = {'X-Forwarded-For': '201.162.66.5'},
+                               )
         if response.status_code == 200:
             data = response.content
             return data
