@@ -33,16 +33,16 @@ def test_docket():
         return None
 
 if __name__ == '__main__':
-    #t = time()
-    #public_ip = get_public_ip()
-    #tf = time()
-    #if public_ip:
-    #    print(f'Your public IP address is: {public_ip}')
-    #    print(f'Total time to request: {tf - t:.2f} seconds.')
+    t = time()
+    public_ip = get_public_ip()
+    tf = time()
+    if public_ip:
+        print(f'Your public IP address is: {public_ip}')
+        print(f'Total time to request: {tf - t:.2f} seconds.')
 
     t = time()
     data = test_docket()
     tf = time()
     if data:
-        print(data[:100])
+        print(data)
         print(f'Total time to catch docket: {tf - t:.2f} seconds.')
