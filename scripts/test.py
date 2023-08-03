@@ -22,7 +22,7 @@ def test_docket():
     try:
         response = requests.get('https://conteudo.cbf.com.br/sumulas/2023/1421se.pdf',
                                 verify = False,
-                                proxies = {'http' : 'http://200.185.55.121:9090'})
+                                proxies = {'https' : 'https://201.76.218.220:9898'})
         if response.status_code == 200:
             data = response.content
             return data
