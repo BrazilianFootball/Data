@@ -1,0 +1,58 @@
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Connection denied by Geolocation</title>
+   <style type="text/css">
+     body {
+      font-family: Arial, Helvetica, Verdana, Sans-Serif;
+      font-size: small;
+      font-weight: normal;
+      color: #000000;
+    }
+    div {
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+    }
+    .box {
+      width: 601px;
+      background-color: #F2F2F2;
+      border-left: solid 1px #C2C2C2;
+      border-right: solid 1px #C2C2C2;
+     vertical-align: middle;
+     padding: 20px 10px 20px 10px;
+   }
+   p {
+     text-align: left;
+   }
+   .red {
+     font-weight: bold;
+     color: Red;
+     text-align: center;
+   }
+   .band {
+     height: 20px;
+     color: White;
+     background: #333333;
+     width: 600px;
+     border-left: solid 1px #333333;
+      border-right: solid 1px #333333;
+      padding: 3px 10px 0px 10px;
+    }
+    div#wrap {
+      margin-top: 50px;
+    }
+   </style>
+</head>
+ <body>
+   <div id="wrap">
+     <div class="band"></div>
+     <div class="box" style="word-wrap:break-word;">
+       <p class="red">Connection denied by Geolocation Setting.</p>
+       <p><b> Reason: </b> Blocked country: <font color="red"> United States </font> </p>
+       <p>The connection was denied because this country is blocked in the Geolocation settings.</p>
+       <p>Please contact your administrator for assistance.</p>
+     </div>
+     <div class="band">WatchGuard Technologies, Inc.</div>
+   </div>
+ </body>
+</html>

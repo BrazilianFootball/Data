@@ -240,6 +240,7 @@
 
 -------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 2023-08-04 18:37:07 [Scraping] - Beginning docket scraping.
 2023-08-04 18:37:25 [Scraping] - Docket scraping complete.
                                    [INFO] 7 dockets addeds.
@@ -253,6 +254,10 @@
 
 2023-08-04 18:39:50 [Scraping] - Beginning docket scraping.
 2023-08-04 18:40:00 [Scraping] - Docket scraping complete.
+=======
+2023-08-04 06:37:58 [Scraping] - Beginning docket scraping.
+2023-08-04 06:42:58 [Scraping] - Docket scraping complete.
+>>>>>>> c473957aeaec07f243d030a681b9085cedef8d87
                                    [INFO] Already up to date.
 
 -------------------------------------------------------------------------------------
