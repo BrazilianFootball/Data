@@ -162,11 +162,13 @@ Game,Home,Away
 161,Ponte Preta / SP,Tombense / MG
 162,Atlético / GO,Sport / PE
 163,Criciúma / SC,Guarani / SP
+164,Botafogo / SP,Chapecoense / SC
 165,Mirassol / SP,Ceará / CE
 166,Vitória / BA,Novorizontino / SP
 167,Sampaio Corrêa / MA,Ituano / SP
 168,Juventude / RS,ABC / RN
 169,Londrina / PR,Vila Nova / GO
+170,CRB / AL,Avaí / SC
 171,Ponte Preta / SP,Juventude / RS
 172,Atlético / GO,Mirassol / SP
 173,Avaí / SC,Sampaio Corrêa / MA
@@ -237,3 +239,5 @@ Game,Home,Away
 238,Juventude / RS,Sampaio Corrêa / MA
 239,Londrina / PR,Atlético / GO
 240,ABC / RN,CRB / AL
+243,Criciúma / SC,Vila Nova / GO
+245,Mirassol / SP,Juventude / RS
