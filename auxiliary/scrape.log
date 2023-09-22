@@ -451,3 +451,14 @@
 
 -------------------------------------------------------------------------------------
 
+2023-09-22 08:30:04 [Scraping] - Beginning docket scraping.
+2023-09-22 08:30:35 [Scraping] - Docket scraping complete.
+                                   [INFO] 8 dockets addeds.
+2023-09-22 08:30:35 [Extract]  - Beginning info extract.
+2023-09-22 08:30:35 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2023-09-22 08:30:35 [Lineups]  - Beginning lineups treatment.
+2023-09-22 08:30:36 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
