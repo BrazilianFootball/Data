@@ -90,7 +90,7 @@ def treat_club(club):
     club = club.replace('A.s.a. / AL', 'ASA / AL')
     club = club.replace('América de Natal / RN', 'América / RN')
     club = club.replace('AMÉRICA / RN', 'América / RN')
-    club = club.replace('Atlético / PR', 'Athletico Paranaense / PR')
+    club = club.replace('Atlético / MG', 'Atlético Mineiro / MG')
     club = club.replace('ATLETICO / PR', 'Athletico Paranaense / PR')
     club = club.replace('Atlético / PR', 'Athletico Paranaense / PR')
     club = club.replace('Sobradinho (df) / DF', 'Sobradinho / DF')
@@ -219,7 +219,7 @@ def final_result(text):
     result = re.findall('Resultado\s*Final:\s*(\d+\s*[xX]\s*\d+)', text)
     if len(result) == 0: result = re.findall('Resultado\s*do\s*2º\s*Tempo:\s*(\d+\s*[xX]\s*\d+)', text)
     
-    return result
+    return [r.upper() for r in result]
 
 def catch_players(text):
     '''
