@@ -148,6 +148,7 @@ Game,Home,Away
 147,Internacional / RS,Palmeiras / SP
 148,Athletico Paranaense / PR,Bahia / BA
 149,Fortaleza / CE,Cuiabá / MT
+150,América / MG,Vasco da Gama / RJ
 151,Flamengo / RJ,América / MG
 152,Vasco da Gama / RJ,Athletico Paranaense / PR
 153,Palmeiras / SP,Fortaleza / CE
@@ -230,7 +231,9 @@ Game,Home,Away
 231,Fluminense / RJ,Cruzeiro / MG
 232,Vasco da Gama / RJ,Coritiba / PR
 233,São Paulo / SP,Fortaleza / CE
+234,Corinthians / SP,Botafogo / RJ
 235,Goiás / GO,Flamengo / RJ
+236,Atlético Mineiro / MG,Cuiabá / MT
 237,Grêmio / RS,Palmeiras / SP
 238,Athletico Paranaense / PR,Internacional / RS
 239,Bahia / BA,Santos / SP
