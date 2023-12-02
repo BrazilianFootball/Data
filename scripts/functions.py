@@ -559,7 +559,7 @@ def treat_change(change, home, away):
     if home in change: return home, time, player_in, player_out
     elif away in change: return away, time, player_in, player_out
     
-    club = re.findall('T([a-zA-ZÀ-ÿ\s\.\-]+)\d', change)[0]
+    club = re.findall('T([a-zA-ZÀ-ÿ\s\.\-\/]+)\d', change)[0]
     club = club.replace('.', '').strip()
     if club in home and club not in away: return home, time, player_in, player_out
     elif club not in home and club in away: return away, time, player_in, player_out
