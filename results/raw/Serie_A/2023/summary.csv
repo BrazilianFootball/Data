@@ -239,3 +239,123 @@ Game,Home,Away
 238,Athletico Paranaense / PR,Internacional / RS
 239,Bahia / BA,Santos / SP
 240,América / MG,Red Bull Bragantino / SP
+241,Flamengo / RJ,Bahia / BA
+242,Botafogo / RJ,Goiás / GO
+243,São Paulo / SP,Corinthians / SP
+244,Santos / SP,Vasco da Gama / RJ
+245,Red Bull Bragantino / SP,Palmeiras / SP
+246,Cruzeiro / MG,América / MG
+247,Internacional / RS,Atlético Mineiro / MG
+248,Coritiba / PR,Athletico Paranaense / PR
+249,Fortaleza / CE,Grêmio / RS
+250,Cuiabá / MT,Fluminense / RJ
+251,Fluminense / RJ,Botafogo / RJ
+252,Vasco da Gama / RJ,São Paulo / SP
+253,Palmeiras / SP,Santos / SP
+254,Corinthians / SP,Flamengo / RJ
+255,Goiás / GO,Bahia / BA
+256,Atlético Mineiro / MG,Coritiba / PR
+257,Internacional / RS,Grêmio / RS
+258,Athletico Paranaense / PR,Red Bull Bragantino / SP
+259,Fortaleza / CE,América / MG
+260,Cuiabá / MT,Cruzeiro / MG
+261,Fluminense / RJ,Corinthians / SP
+262,Vasco da Gama / RJ,Fortaleza / CE
+263,Palmeiras / SP,Atlético Mineiro / MG
+264,Santos / SP,Red Bull Bragantino / SP
+265,Goiás / GO,São Paulo / SP
+266,Cruzeiro / MG,Flamengo / RJ
+267,Grêmio / RS,Athletico Paranaense / PR
+268,Coritiba / PR,Cuiabá / MT
+269,Bahia / BA,Internacional / RS
+270,América / MG,Botafogo / RJ
+271,Flamengo / RJ,Vasco da Gama / RJ
+272,Botafogo / RJ,Athletico Paranaense / PR
+273,São Paulo / SP,Grêmio / RS
+274,Corinthians / SP,América / MG
+275,Red Bull Bragantino / SP,Fluminense / RJ
+276,Atlético Mineiro / MG,Cruzeiro / MG
+277,Internacional / RS,Santos / SP
+278,Coritiba / PR,Palmeiras / SP
+279,Bahia / BA,Fortaleza / CE
+280,Cuiabá / MT,Goiás / GO
+281,Fluminense / RJ,Goiás / GO
+282,Vasco da Gama / RJ,Internacional / RS
+283,Palmeiras / SP,São Paulo / SP
+284,Santos / SP,Coritiba / PR
+285,Red Bull Bragantino / SP,Atlético Mineiro / MG
+286,Cruzeiro / MG,Bahia / BA
+287,Grêmio / RS,Flamengo / RJ
+288,Athletico Paranaense / PR,América / MG
+289,Fortaleza / CE,Botafogo / RJ
+290,Cuiabá / MT,Corinthians / SP
+291,Flamengo / RJ,Red Bull Bragantino / SP
+292,Botafogo / RJ,Cuiabá / MT
+293,Palmeiras / SP,Bahia / BA
+294,Corinthians / SP,Santos / SP
+295,Goiás / GO,Vasco da Gama / RJ
+296,Atlético Mineiro / MG,Fluminense / RJ
+297,Internacional / RS,Coritiba / PR
+298,Athletico Paranaense / PR,São Paulo / SP
+299,Fortaleza / CE,Cruzeiro / MG
+300,América / MG,Grêmio / RS
+301,Flamengo / RJ,Santos / SP
+302,Botafogo / RJ,Palmeiras / SP
+303,São Paulo / SP,Cruzeiro / MG
+304,Corinthians / SP,Athletico Paranaense / PR
+305,Goiás / GO,Red Bull Bragantino / SP
+306,Atlético Mineiro / MG,Fortaleza / CE
+307,Internacional / RS,América / MG
+308,Coritiba / PR,Grêmio / RS
+309,Bahia / BA,Fluminense / RJ
+310,Cuiabá / MT,Vasco da Gama / RJ
+311,Fluminense / RJ,São Paulo / SP
+312,Vasco da Gama / RJ,Botafogo / RJ
+313,Palmeiras / SP,Athletico Paranaense / PR
+314,Santos / SP,Cuiabá / MT
+315,Red Bull Bragantino / SP,Corinthians / SP
+316,Cruzeiro / MG,Internacional / RS
+317,Grêmio / RS,Bahia / BA
+318,Coritiba / PR,Goiás / GO
+319,Fortaleza / CE,Flamengo / RJ
+320,América / MG,Atlético Mineiro / MG
+321,Flamengo / RJ,Palmeiras / SP
+322,Botafogo / RJ,Grêmio / RS
+323,São Paulo / SP,Red Bull Bragantino / SP
+324,Corinthians / SP,Atlético Mineiro / MG
+325,Goiás / GO,Santos / SP
+326,Cruzeiro / MG,Vasco da Gama / RJ
+327,Internacional / RS,Fluminense / RJ
+328,Athletico Paranaense / PR,Fortaleza / CE
+329,Bahia / BA,Cuiabá / MT
+330,América / MG,Coritiba / PR
+331,Flamengo / RJ,Fluminense / RJ
+332,Vasco da Gama / RJ,América / MG
+333,Palmeiras / SP,Internacional / RS
+334,Santos / SP,São Paulo / SP
+335,Red Bull Bragantino / SP,Botafogo / RJ
+336,Atlético Mineiro / MG,Goiás / GO
+337,Grêmio / RS,Corinthians / SP
+338,Coritiba / PR,Cruzeiro / MG
+339,Bahia / BA,Athletico Paranaense / PR
+340,Cuiabá / MT,Fortaleza / CE
+341,Fluminense / RJ,Coritiba / PR
+342,Botafogo / RJ,Santos / SP
+343,São Paulo / SP,Cuiabá / MT
+344,Corinthians / SP,Bahia / BA
+345,Goiás / GO,Cruzeiro / MG
+346,Atlético Mineiro / MG,Grêmio / RS
+347,Internacional / RS,Red Bull Bragantino / SP
+348,Athletico Paranaense / PR,Vasco da Gama / RJ
+349,Fortaleza / CE,Palmeiras / SP
+350,América / MG,Flamengo / RJ
+351,Flamengo / RJ,Atlético Mineiro SAF / MG
+352,Vasco da Gama / RJ,Corinthians / SP
+353,Palmeiras / SP,América / MG
+354,Santos / SP,Fluminense / RJ
+355,Red Bull Bragantino / SP,Fortaleza / CE
+356,Cruzeiro / MG,Athletico Paranaense / PR
+357,Grêmio / RS,Goiás / GO
+358,Coritiba / PR,Botafogo / RJ
+359,Bahia / BA,São Paulo / SP
+360,Cuiabá / MT,Internacional / RS

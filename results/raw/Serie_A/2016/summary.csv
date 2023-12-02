@@ -1,7 +1,7 @@
 Game,Home,Away
 001,Palmeiras / SP,Athletico Paranaense / PR
 002,Flamengo / RJ,Sport / PE
-003,Atlético / MG,Santos / SP
+003,Atlético Mineiro / MG,Santos / SP
 004,Coritiba / PR,Cruzeiro / MG
 005,Botafogo / RJ,São Paulo / SP
 006,Santa Cruz / PE,Vitória / BA
@@ -13,7 +13,7 @@ Game,Home,Away
 012,Fluminense / RJ,Santa Cruz / PE
 013,Cruzeiro / MG,Figueirense / SC
 014,Santos / SP,Coritiba / PR
-015,Athletico Paranaense / PR,Atlético / MG
+015,Athletico Paranaense / PR,Atlético Mineiro / MG
 016,Chapecoense / SC,América / MG
 017,São Paulo / SP,Internacional / RS
 018,Grêmio / RS,Flamengo / RJ
@@ -28,13 +28,13 @@ Game,Home,Away
 027,Internacional / RS,Sport / PE
 028,Coritiba / PR,São Paulo / SP
 029,Corinthians / SP,Ponte Preta / SP
-030,Atlético / MG,Grêmio / RS
+030,Atlético Mineiro / MG,Grêmio / RS
 031,Cruzeiro / MG,América / MG
 032,Athletico Paranaense / PR,Figueirense / SC
 033,Chapecoense / SC,Santa Cruz / PE
 034,Ponte Preta / SP,Flamengo / RJ
 035,Sport / PE,Corinthians / SP
-036,Vitória / BA,Atlético / MG
+036,Vitória / BA,Atlético Mineiro / MG
 037,Fluminense / RJ,Botafogo / RJ
 038,São Paulo / SP,Palmeiras / SP
 039,Grêmio / RS,Coritiba / PR
@@ -45,7 +45,7 @@ Game,Home,Away
 044,Figueirense / SC,São Paulo / SP
 045,Santa Cruz / PE,Sport / PE
 046,Corinthians / SP,Santos / SP
-047,Atlético / MG,Fluminense / RJ
+047,Atlético Mineiro / MG,Fluminense / RJ
 048,América / MG,Ponte Preta / SP
 049,Flamengo / RJ,Vitória / BA
 050,Palmeiras / SP,Grêmio / RS
@@ -57,7 +57,7 @@ Game,Home,Away
 056,Santos / SP,Botafogo / RJ
 057,Flamengo / RJ,Palmeiras / SP
 058,Vitória / BA,Internacional / RS
-059,Sport / PE,Atlético / MG
+059,Sport / PE,Atlético Mineiro / MG
 060,Grêmio / RS,Ponte Preta / SP
 061,Ponte Preta / SP,Chapecoense / SC
 062,Internacional / RS,América / MG
@@ -65,7 +65,7 @@ Game,Home,Away
 064,Santa Cruz / PE,Santos / SP
 065,Figueirense / SC,Flamengo / RJ
 066,Fluminense / RJ,Grêmio / RS
-067,Atlético / MG,Cruzeiro / MG
+067,Atlético Mineiro / MG,Cruzeiro / MG
 068,Palmeiras / SP,Corinthians / SP
 069,Coritiba / PR,Sport / PE
 070,Botafogo / RJ,Vitória / BA
@@ -76,14 +76,14 @@ Game,Home,Away
 075,Santa Cruz / PE,Figueirense / SC
 076,São Paulo / SP,Vitória / BA
 077,Cruzeiro / MG,Flamengo / RJ
-078,Internacional / RS,Atlético / MG
+078,Internacional / RS,Atlético Mineiro / MG
 079,Fluminense / RJ,Corinthians / SP
 080,Chapecoense / SC,Grêmio / RS
 081,Athletico Paranaense / PR,Santos / SP
 082,Palmeiras / SP,Santa Cruz / PE
 083,América / MG,Coritiba / PR
 084,Corinthians / SP,Botafogo / RJ
-085,Atlético / MG,Ponte Preta / SP
+085,Atlético Mineiro / MG,Ponte Preta / SP
 086,Vitória / BA,Chapecoense / SC
 087,Flamengo / RJ,São Paulo / SP
 088,Figueirense / SC,Internacional / RS
@@ -95,7 +95,7 @@ Game,Home,Away
 094,Palmeiras / SP,América / MG
 095,Santa Cruz / PE,Flamengo / RJ
 096,Fluminense / RJ,Santos / SP
-097,Atlético / MG,Corinthians / SP
+097,Atlético Mineiro / MG,Corinthians / SP
 098,Grêmio / RS,Vitória / BA
 099,São Paulo / SP,Sport / PE
 100,Coritiba / PR,Internacional / RS
@@ -106,7 +106,7 @@ Game,Home,Away
 105,Santos / SP,São Paulo / SP
 106,Internacional / RS,Botafogo / RJ
 107,Athletico Paranaense / PR,Grêmio / RS
-108,América / MG,Atlético / MG
+108,América / MG,Atlético Mineiro / MG
 109,Figueirense / SC,Coritiba / PR
 110,Sport / PE,Chapecoense / SC
 111,Vitória / BA,Sport / PE
@@ -118,7 +118,7 @@ Game,Home,Away
 117,América / MG,Corinthians / SP
 118,Santa Cruz / PE,Ponte Preta / SP
 119,Palmeiras / SP,Figueirense / SC
-120,Atlético / MG,Botafogo / RJ
+120,Atlético Mineiro / MG,Botafogo / RJ
 121,Fluminense / RJ,Coritiba / PR
 122,Athletico Paranaense / PR,América / MG
 123,Cruzeiro / MG,Vitória / BA
@@ -127,9 +127,9 @@ Game,Home,Away
 126,Botafogo / RJ,Santa Cruz / PE
 127,Corinthians / SP,Flamengo / RJ
 128,Ponte Preta / SP,São Paulo / SP
-129,Figueirense / SC,Atlético / MG
+129,Figueirense / SC,Atlético Mineiro / MG
 130,Sport / PE,Palmeiras / SP
-131,Flamengo / RJ,Atlético / MG
+131,Flamengo / RJ,Atlético Mineiro / MG
 132,Chapecoense / SC,Corinthians / SP
 133,Palmeiras / SP,Santos / SP
 134,Ponte Preta / SP,Sport / PE
@@ -148,10 +148,10 @@ Game,Home,Away
 147,Internacional / RS,Palmeiras / SP
 148,Fluminense / RJ,Cruzeiro / MG
 149,Sport / PE,Grêmio / RS
-150,Atlético / MG,Coritiba / PR
+150,Atlético Mineiro / MG,Coritiba / PR
 151,Corinthians / SP,Figueirense / SC
 152,Santa Cruz / PE,Coritiba / PR
-153,Palmeiras / SP,Atlético / MG
+153,Palmeiras / SP,Atlético Mineiro / MG
 154,Ponte Preta / SP,Internacional / RS
 155,Cruzeiro / MG,Sport / PE
 156,Grêmio / RS,São Paulo / SP
@@ -161,7 +161,7 @@ Game,Home,Away
 160,Flamengo / RJ,América / MG
 161,Figueirense / SC,Vitória / BA
 162,Sport / PE,Athletico Paranaense / PR
-163,Atlético / MG,Santa Cruz / PE
+163,Atlético Mineiro / MG,Santa Cruz / PE
 164,Fluminense / RJ,Ponte Preta / SP
 165,São Paulo / SP,Chapecoense / SC
 166,Santos / SP,Cruzeiro / MG
@@ -169,7 +169,7 @@ Game,Home,Away
 168,Coritiba / PR,Flamengo / RJ
 169,América / MG,Grêmio / RS
 170,Botafogo / RJ,Palmeiras / SP
-171,São Paulo / SP,Atlético / MG
+171,São Paulo / SP,Atlético Mineiro / MG
 172,Cruzeiro / MG,Internacional / RS
 173,Vitória / BA,Coritiba / PR
 174,Fluminense / RJ,Figueirense / SC
@@ -188,13 +188,13 @@ Game,Home,Away
 187,Internacional / RS,Fluminense / RJ
 188,Santa Cruz / PE,São Paulo / SP
 189,Botafogo / RJ,Grêmio / RS
-190,Atlético / MG,Chapecoense / SC
+190,Atlético Mineiro / MG,Chapecoense / SC
 191,Vitória / BA,Santa Cruz / PE
 192,Ponte Preta / SP,Figueirense / SC
 193,Sport / PE,Flamengo / RJ
 194,Fluminense / RJ,América / MG
 195,Grêmio / RS,Corinthians / SP
-196,Santos / SP,Atlético / MG
+196,Santos / SP,Atlético Mineiro / MG
 197,Cruzeiro / MG,Coritiba / PR
 198,São Paulo / SP,Botafogo / RJ
 199,Athletico Paranaense / PR,Palmeiras / SP
@@ -203,7 +203,7 @@ Game,Home,Away
 202,América / MG,Chapecoense / SC
 203,Botafogo / RJ,Sport / PE
 204,Flamengo / RJ,Grêmio / RS
-205,Atlético / MG,Athletico Paranaense / PR
+205,Atlético Mineiro / MG,Athletico Paranaense / PR
 206,Palmeiras / SP,Ponte Preta / SP
 207,Internacional / RS,São Paulo / SP
 208,Santa Cruz / PE,Fluminense / RJ
@@ -214,7 +214,7 @@ Game,Home,Away
 213,Santos / SP,Figueirense / SC
 214,Fluminense / RJ,Palmeiras / SP
 215,São Paulo / SP,Coritiba / PR
-216,Grêmio / RS,Atlético / MG
+216,Grêmio / RS,Atlético Mineiro / MG
 217,Chapecoense / SC,Flamengo / RJ
 218,Vitória / BA,América / MG
 219,Sport / PE,Internacional / RS
@@ -222,7 +222,7 @@ Game,Home,Away
 221,Botafogo / RJ,Fluminense / RJ
 222,Figueirense / SC,Athletico Paranaense / PR
 223,Santa Cruz / PE,Chapecoense / SC
-224,Atlético / MG,Vitória / BA
+224,Atlético Mineiro / MG,Vitória / BA
 225,Flamengo / RJ,Ponte Preta / SP
 226,Palmeiras / SP,São Paulo / SP
 227,Coritiba / PR,Grêmio / RS
@@ -238,7 +238,7 @@ Game,Home,Away
 237,Sport / PE,Santa Cruz / PE
 238,Grêmio / RS,Palmeiras / SP
 239,Ponte Preta / SP,América / MG
-240,Fluminense / RJ,Atlético / MG
+240,Fluminense / RJ,Atlético Mineiro / MG
 241,Botafogo / RJ,Santos / SP
 242,Figueirense / SC,América / MG
 243,Ponte Preta / SP,Grêmio / RS
@@ -246,14 +246,14 @@ Game,Home,Away
 245,Palmeiras / SP,Flamengo / RJ
 246,Coritiba / PR,Corinthians / SP
 247,Fluminense / RJ,Chapecoense / SC
-248,Atlético / MG,Sport / PE
+248,Atlético Mineiro / MG,Sport / PE
 249,Internacional / RS,Vitória / BA
 250,São Paulo / SP,Cruzeiro / MG
 251,Corinthians / SP,Palmeiras / SP
 252,Chapecoense / SC,Ponte Preta / SP
 253,Santos / SP,Santa Cruz / PE
 254,Vitória / BA,Botafogo / RJ
-255,Cruzeiro / MG,Atlético / MG
+255,Cruzeiro / MG,Atlético Mineiro / MG
 256,Grêmio / RS,Fluminense / RJ
 257,Athletico Paranaense / PR,São Paulo / SP
 258,Sport / PE,Coritiba / PR
@@ -268,10 +268,10 @@ Game,Home,Away
 267,Corinthians / SP,Fluminense / RJ
 268,Flamengo / RJ,Cruzeiro / MG
 269,Grêmio / RS,Chapecoense / SC
-270,Atlético / MG,Internacional / RS
+270,Atlético Mineiro / MG,Internacional / RS
 271,Botafogo / RJ,Corinthians / SP
 272,São Paulo / SP,Flamengo / RJ
-273,Ponte Preta / SP,Atlético / MG
+273,Ponte Preta / SP,Atlético Mineiro / MG
 274,Chapecoense / SC,Vitória / BA
 275,Fluminense / RJ,Sport / PE
 276,Cruzeiro / MG,Grêmio / RS
@@ -283,7 +283,7 @@ Game,Home,Away
 282,Athletico Paranaense / PR,Chapecoense / SC
 283,Santos / SP,Fluminense / RJ
 284,Cruzeiro / MG,Ponte Preta / SP
-285,Corinthians / SP,Atlético / MG
+285,Corinthians / SP,Atlético Mineiro / MG
 286,Internacional / RS,Coritiba / PR
 287,Figueirense / SC,Botafogo / RJ
 288,América / MG,Palmeiras / SP
@@ -296,10 +296,10 @@ Game,Home,Away
 295,Palmeiras / SP,Cruzeiro / MG
 296,Santa Cruz / PE,Corinthians / SP
 297,Ponte Preta / SP,Vitória / BA
-298,Atlético / MG,América / MG
+298,Atlético Mineiro / MG,América / MG
 299,Grêmio / RS,Athletico Paranaense / PR
 300,São Paulo / SP,Santos / SP
-301,Botafogo / RJ,Atlético / MG
+301,Botafogo / RJ,Atlético Mineiro / MG
 302,Internacional / RS,Flamengo / RJ
 303,Figueirense / SC,Palmeiras / SP
 304,Athletico Paranaense / PR,Coritiba / PR
@@ -316,13 +316,13 @@ Game,Home,Away
 315,Flamengo / RJ,Corinthians / SP
 316,Palmeiras / SP,Sport / PE
 317,Grêmio / RS,Internacional / RS
-318,Atlético / MG,Figueirense / SC
+318,Atlético Mineiro / MG,Figueirense / SC
 319,Chapecoense / SC,Santos / SP
 320,Coritiba / PR,Fluminense / RJ
 321,Sport / PE,Ponte Preta / SP
 322,Fluminense / RJ,Vitória / BA
 323,Santos / SP,Palmeiras / SP
-324,Atlético / MG,Flamengo / RJ
+324,Atlético Mineiro / MG,Flamengo / RJ
 325,Athletico Paranaense / PR,Cruzeiro / MG
 326,Botafogo / RJ,Coritiba / PR
 327,Internacional / RS,Santa Cruz / PE
@@ -335,7 +335,7 @@ Game,Home,Away
 334,Palmeiras / SP,Internacional / RS
 335,Cruzeiro / MG,Fluminense / RJ
 336,Grêmio / RS,Sport / PE
-337,Coritiba / PR,Atlético / MG
+337,Coritiba / PR,Atlético Mineiro / MG
 338,Chapecoense / SC,Figueirense / SC
 339,Ponte Preta / SP,Santos / SP
 340,Santa Cruz / PE,América / MG
@@ -343,7 +343,7 @@ Game,Home,Away
 342,Fluminense / RJ,Athletico Paranaense / PR
 343,São Paulo / SP,Grêmio / RS
 344,Santos / SP,Vitória / BA
-345,Atlético / MG,Palmeiras / SP
+345,Atlético Mineiro / MG,Palmeiras / SP
 346,Internacional / RS,Ponte Preta / SP
 347,Coritiba / PR,Santa Cruz / PE
 348,Figueirense / SC,Corinthians / SP
@@ -357,14 +357,14 @@ Game,Home,Away
 356,Ponte Preta / SP,Fluminense / RJ
 357,Flamengo / RJ,Coritiba / PR
 358,Chapecoense / SC,São Paulo / SP
-359,Santa Cruz / PE,Atlético / MG
+359,Santa Cruz / PE,Atlético Mineiro / MG
 360,Corinthians / SP,Internacional / RS
 361,Botafogo / RJ,Ponte Preta / SP
 362,América / MG,Sport / PE
 363,Corinthians / SP,Athletico Paranaense / PR
 364,Flamengo / RJ,Santos / SP
 365,Palmeiras / SP,Chapecoense / SC
-366,Atlético / MG,São Paulo / SP
+366,Atlético Mineiro / MG,São Paulo / SP
 367,Internacional / RS,Cruzeiro / MG
 368,Figueirense / SC,Fluminense / RJ
 369,Santa Cruz / PE,Grêmio / RS

@@ -94,12 +94,12 @@ Game,Home,Away
 093,Cruzeiro / MG,Chapecoense / SC
 094,Flamengo / RJ,Atlético / GO
 095,Santa Cruz / PE,Athletico Paranaense / PR
-096,Paraná / PR,Atlético / MG
+096,Paraná / PR,Atlético Mineiro / MG
 097,Grêmio / RS,Fluminense / RJ
 098,Palmeiras / SP,Internacional / RS
 099,Paysandu / PA,Santos / SP
 100,Atlético / GO,Flamengo / RJ
-101,Atlético / MG,Paraná / PR
+101,Atlético Mineiro / MG,Paraná / PR
 102,Athletico Paranaense / PR,Santa Cruz / PE
 103,Fluminense / RJ,Grêmio / RS
 104,Internacional / RS,Palmeiras / SP
@@ -108,8 +108,8 @@ Game,Home,Away
 107,Grêmio / RS,Athletico Paranaense / PR
 108,Palmeiras / SP,Cruzeiro / MG
 109,Flamengo / RJ,Santos / SP
-110,Atlético / MG,Botafogo / RJ
-111,Botafogo / RJ,Atlético / MG
+110,Atlético Mineiro / MG,Botafogo / RJ
+111,Botafogo / RJ,Atlético Mineiro / MG
 112,Santos / SP,Flamengo / RJ
 113,Cruzeiro / MG,Palmeiras / SP
 114,Athletico Paranaense / PR,Grêmio / RS

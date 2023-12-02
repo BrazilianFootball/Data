@@ -205,3 +205,13 @@ Game,Home,Away
 204,São José / RS,Sao Bernardo / SP
 205,Volta Redonda / RJ,Amazonas / AM
 206,Botafogo / PB,Paysandu / PA
+207,São José / RS,Operário / PR
+208,Sao Bernardo / SP,Brusque / SC
+209,Botafogo / PB,Volta Redonda / RJ
+210,Paysandu / PA,Amazonas / AM
+211,Operário / PR,Sao Bernardo / SP
+212,Brusque / SC,São José / RS
+213,Volta Redonda / RJ,Paysandu / PA
+214,Amazonas / AM,Botafogo / PB
+215,Amazonas / AM,Brusque / SC
+216,Brusque / SC,Amazonas / AM
