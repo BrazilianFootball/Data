@@ -553,3 +553,13 @@
 
 -------------------------------------------------------------------------------------
 
+2024-02-23 18:22:05 [Scraping] - Beginning docket scraping.
+2024-02-23 18:22:41 [Scraping] - Docket scraping complete.
+                                   [INFO] 10 dockets addeds.
+2024-02-23 18:22:41 [Extract]  - Beginning info extract.
+2024-02-23 18:23:57 [Scraping] - Beginning docket scraping.
+2024-02-23 18:24:16 [Scraping] - Docket scraping complete.
+                                   [INFO] Already up to date.
+
+-------------------------------------------------------------------------------------
+

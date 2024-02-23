@@ -33,7 +33,6 @@ if __name__ == '__main__':
     else: cleaning = False
     
     if '--s' in sys.argv or len(sys.argv) == 1:
-        min_year = 2023
         if min_year != max_year: print(f'Scraping years of {min_year} to {max_year}')
         else: print(f'Scraping data of {min_year}')
         make_directories(competitions, min_year, max_year)
