@@ -41,6 +41,7 @@ def treat_club(club):
 
     # removing
     club = club.replace('Saf ', '')
+    club = club.replace('SAF ', '')
     club = club.replace('S.a.f ', '')
     club = club.replace('S.A.F ', '')
     club = club.replace('S.a.f. ', '')

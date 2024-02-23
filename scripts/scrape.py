@@ -147,8 +147,10 @@ def extract(competitions, min_year, max_year, cleaning = True):
     errors = list()
     cont_fail = 0
     for competition in competitions:
+        if competition not in exceptions: exceptions[competition] = dict()
         competition = competition[0]
         for year in range(min_year, max_year + 1):
+            if str(year) not in exceptions[competition]: exceptions[competition][str(year)] = dict()
             if cleaning: clear()
             year = str(year)
             print(f'Beggining extract of {competition.replace("_", " ")} {year}')
@@ -156,6 +158,7 @@ def extract(competitions, min_year, max_year, cleaning = True):
             count_end = 0
             if f'{competition}_{year}_games.json' in os.listdir(f'./processed/'):
                 files = glob(f'./raw/{competition}/{year}/CSVs/*.csv')
+                if len(files) == 0: continue
                 latest_file = max(files, key = os.path.getmtime)
                 mod_time = os.path.getmtime(latest_file)
                 if mod_time < os.path.getmtime(f'./processed/{competition}_{year}_games.json'): continue
@@ -224,6 +227,7 @@ def extract(competitions, min_year, max_year, cleaning = True):
                     else: errors.append(f'Error in game {game} of {year}\'s {competition}.')
 
             with open(f'./processed/{competition}_{year}_games.json', 'w') as f: json.dump(games, f)
+            if len(summary) == 1: continue
             with open(f'./raw/{competition}/{year}/summary.csv', 'w') as f:
                 writer = csv.writer(f)
                 for row in summary: writer.writerow(row)
@@ -259,6 +263,7 @@ def catch_squads(competitions, min_year, max_year, cleaning = True):
             print(f'Beggining lineups update of {competition.replace("_", " ")} {year}')
             if f'{competition}_{year}_squads.json' in os.listdir(f'processed/'):
                 files = glob(f'./raw/{competition}/{year}/CSVs/*.csv')
+                if len(files) == 0: continue
                 latest_file = max(files, key = os.path.getmtime)
                 mod_time = os.path.getmtime(latest_file)
                 if mod_time < os.path.getmtime(f'./processed/{competition}_{year}_squads.json'): continue

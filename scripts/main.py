@@ -126,8 +126,9 @@ if __name__ == '__main__':
         *competition, year = competition.split(' ')
         competition = ' '.join(competition) + f' ({year})'
         with open(file) as f: games = json.load(f)
+        if len(games) == 0: continue
         data.append({'Competition' : competition,
-                     'Real games' : sorted(games.keys())[-1],
+                     'Real games' : int(sorted(games.keys())[-1]),
                      'Scraped games' : len(games)
                     })
     
