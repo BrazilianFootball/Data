@@ -24,7 +24,7 @@ This repository is organized in three main folders:
 |Brazil Cup (2021)|    122   |     122     |
 |Brazil Cup (2022)|    122   |     122     |
 |Brazil Cup (2023)|    122   |     122     |
-|Brazil Cup (2024)|    36    |      20     |
+|Brazil Cup (2024)|    55    |      42     |
 |  Serie A (2013) |    380   |     380     |
 |  Serie A (2014) |    380   |     380     |
 |  Serie A (2015) |    380   |     380     |
@@ -72,7 +72,6 @@ This repository is organized in three main folders:
 |  Serie D (2021) |    518   |     518     |
 |  Serie D (2022) |    510   |     510     |
 |  Serie D (2023) |    510   |     510     |
- - Despite saving the docket and the problem on a info log, we won't fix that information.
 
 ## Pre-Commit Setup
 
