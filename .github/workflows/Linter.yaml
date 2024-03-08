@@ -1,0 +1,54 @@
+name: Python Lint
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint:
+    name: Python Lint Check
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8
+
+    - name: Run Lint
+      id: flake8
+      run: |
+        flake8 > flake8_result.txt || true
+
+    - name: Extract issues
+      id: extract_issues
+      run: |
+        cat flake8_result.txt | sed -e 's/\\/\\\\/g' -e 's/\r//g' -e 's/%/%%/g' > flake8_result_cleaned.txt
+        cat flake8_result_cleaned.txt
+
+    - name: Comment on PR
+      if: steps.flake8.outcome == 'success'
+      uses: actions/github-script@v4
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const fs = require('fs');
+          const data = fs.readFileSync('flake8_result_cleaned.txt', 'utf8');
+          if (data.trim() !== '') {
+            const body = '## Lint Issues Found:\n```plaintext\n' + data + '\n```\n';
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
+          }
