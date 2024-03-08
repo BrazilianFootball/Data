@@ -24,27 +24,54 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8
 
+    - name: Get modified files
+      id: get_modified_files
+      uses: dorny/paths-filter@v2
+      with:
+        filters: |
+          **/*.py
+
     - name: Run Lint
       id: flake8
       run: |
-        flake8 > flake8_result.txt || true
-
-    - name: Extract issues
-      id: extract_issues
-      run: |
-        cat flake8_result.txt | sed -e 's/\\/\\\\/g' -e 's/\r//g' -e 's/%/%%/g' > flake8_result_cleaned.txt
-        cat flake8_result_cleaned.txt
+        flake8 ${{ steps.get_modified_files.outputs.paths }} > flake8_result.txt || true
 
     - name: Comment on PR
-      if: steps.flake8.outcome == 'success'
+      if: always()
       uses: actions/github-script@v4
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           const fs = require('fs');
-          const data = fs.readFileSync('flake8_result_cleaned.txt', 'utf8');
-          if (data.trim() !== '') {
-            const body = '## Lint Issues Found:\n```plaintext\n' + data + '\n```\n';
+          const data = fs.readFileSync('flake8_result.txt', 'utf8');
+          const lines = data.trim().split('\n');
+          if (lines.length > 0) {
+            let body = '## Lint Issues Found:\n';
+            let prevLine = '';
+            let suggestionStarted = false;
+            for (const line of lines) {
+              if (line.startsWith('./')) {
+                const parts = line.split(':');
+                const fileName = parts[0];
+                const lineNumber = parts[1];
+                const error = parts.slice(2).join(':');
+                if (prevLine !== fileName) {
+                  body += `\n**${fileName}:**\n`;
+                  prevLine = fileName;
+                  suggestionStarted = false;
+                }
+                if (error.startsWith(' ')) {
+                  if (!suggestionStarted) {
+                    body += '  - Suggestions:\n';
+                    suggestionStarted = true;
+                  }
+                  body += `    - Line ${lineNumber}: ${error.trim()}\n`;
+                } else {
+                  body += `  - Line ${lineNumber}: ${error.trim()}\n`;
+                  suggestionStarted = false;
+                }
+              }
+            }
             github.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
