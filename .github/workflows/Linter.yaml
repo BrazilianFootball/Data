@@ -24,13 +24,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8
 
-    - name: Get modified files
-      id: get_modified_files
-      uses: dorny/paths-filter@v2
-      with:
-        filters: |
-          **/*.py
-
     - name: Run Lint
       id: flake8
       run: |
