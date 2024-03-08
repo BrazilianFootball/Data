@@ -73,3 +73,31 @@ This repository is organized in three main folders:
 |  Serie D (2022) |    510   |     510     |
 |  Serie D (2023) |    510   |     510     |
  - Despite saving the docket and the problem on a info log, we won't fix that information.
+
+## Pre-Commit Setup
+
+This repository includes a pre-commit script that ensures code quality by running linting and formatting checks before committing changes.
+
+### Setup Instructions
+
+Follow these steps to configure the pre-commit hook via command line:
+
+1. Clone the repository and navigate to the directory:
+
+   ```bash
+   git clone <repository-url> && cd <repository-directory>
+   ```
+
+2. Run the setup script:
+
+    ```
+    cp _locally/scripts/pre-commit.sh .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+    ```
+
+This script copies the pre-commit script to .git/hooks/ and sets execution permissions.
+
+3. The pre-commit hook is now configured in your local repository.
+
+After setup, the pre-commit hook will run automatically before each commit. If any issues are found, the commit process will halt, allowing you to fix them before proceeding.
+
+If you encounter any issues or have questions, please refer to the documentation or contact the repository maintainers for assistance.
