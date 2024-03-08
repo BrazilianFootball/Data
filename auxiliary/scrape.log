@@ -661,3 +661,14 @@
 
 -------------------------------------------------------------------------------------
 
+2024-03-08 09:58:07 [Scraping] - Beginning docket scraping.
+2024-03-08 09:58:17 [Scraping] - Docket scraping complete.
+                                   [INFO] 1 docket added.
+2024-03-08 09:58:17 [Extract]  - Beginning info extract.
+2024-03-08 09:58:18 [Extract]  - Info extract complete.
+                                   [INFO] 1 game failed.
+2024-03-08 09:58:18 [Lineups]  - Beginning lineups treatment.
+2024-03-08 09:58:18 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
