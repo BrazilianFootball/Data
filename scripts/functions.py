@@ -406,7 +406,7 @@ def treat_event(event, home, away):
     if 'Guarani / SP' in [home, away] and 'Guarani' in event: return time, player_number, 'Guarani / SP'
     if 'Oeste / SP' in [home, away] and 'Oeste' in event: return time, player_number, 'Oeste / SP'
     if 'Guaratinguetá / SP' in [home, away] and 'Guaratinguetá' in event: return time, player_number, 'Guaratinguetá / SP'
-    if 'Atlético / MG' in [home, away] and 'Atlético' in event: return time, player_number, 'Atlético / MG'
+    if 'Atlético / MG' in [home, away] and 'Atlético' in event: return time, player_number, 'Atlético Mineiro / MG'
     if 'América / MG' in [home, away] and 'América' in event: return time, player_number, 'América / MG'
     if 'Cruzeiro / MG' in [home, away] and 'Cruzeiro' in event: return time, player_number, 'Cruzeiro / MG'
     if 'Villa Nova / MG' in [home, away] and 'Villa Nova' in event: return time, player_number, 'Villa Nova / MG'

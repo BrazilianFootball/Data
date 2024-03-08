@@ -2,89 +2,89 @@
     "Serie_A": {
         "2013": {
     		"098": {
-    			"Home": "Atlético / MG",
+    			"Home": "Atlético Mineiro / MG",
     			"Away": "Athletico Paranaense / PR",
 				"Result": "1 x 2",
 				"Players": [
 					[
 						"1Victor Victor Leandro Bagy TP156659",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"2Marcos Marcos Luis Rocha Aquino TP176390",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"3Leo Silva Leonardo Fabiano da  ... TP137705",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"4Rever Rever Humberto Alves ... TP167509",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"5Lucas Pierre Lucas Pierre Santos  ... TP156034",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"6Junior Cesar Junior Cesar Eduardo ... TP141341",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"7Jo Joao Alves de Assis  ... TP162504",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"9Diego Tard ... Diego Tardelli Martins TP150201",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"11Bernard Bernard Anicio Calde ... TP317567",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"27Luan Luan Madson Gedeao d ... TP298595",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"28Josue Josue Anunciado de O ... TP131212",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"13Rafael Mar ... Rafael Marques Pinto RP150943",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"14Lucas Lucas Candido Silva RP324805",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"19Alecsandro Alecsandro Barbosa F ... RP143465",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"21Claudionor Claudionor Souza de  ... RP302454",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"25Neto Sosthenes Jose Santo ... RP291855",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"29Michel Michel Macedo Rocha  ... RP179288",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"36Jemerson Jemerson de Jesus Na ... RP335312",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"87Giovanni Giovanni Aparecido A ... RP175445",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"12Weverton Weverton Pereira da ... TP169050",
-						"Atlético / MG"
+						"Atlético Mineiro / MG"
 					],
 					[
 						"3Messias Manoel Messias Silva... TP182423",
@@ -160,15 +160,15 @@
 					]
 				],
 				"Goals": [
-					"34:00 2T 11 NR Bernard Anicio Caldeira Duarte Atlético / MG",
+					"34:00 2T 11 NR Bernard Anicio Caldeira Duarte Atlético Mineiro / MG",
 					"40:00 2T 22 NR Everton Cardoso Silva Atlético / PR",
 					"42:00 2T 77 NR Ederson Alves Ribeiro Silva Atlético / PR"
 				],
 				"Changes": [
-					"45:00 INT Atlético / MG 29 - Michel Macedo Rocha Macha ... 5 - Lucas Pierre Santos Olive ...",
-					"40:00 1TAtlético / MG 19 - Alecsandro Barbosa Felisb ... 7 - Joao Alves de Assis Silva ...",
+					"45:00 INT Atlético Mineiro / MG 29 - Michel Macedo Rocha Macha ... 5 - Lucas Pierre Santos Olive ...",
+					"40:00 1TAtlético Mineiro / MG 19 - Alecsandro Barbosa Felisb ... 7 - Joao Alves de Assis Silva ...",
 					"27:00 2TAtlético / PR 11 - Felipe de Oliveira Silva 10 - Elias Ribeiro de Oliveira ...",
-					"28:00 2TAtlético / MG 25 - Sosthenes Jose Santos Sal ... 27 - Luan Madson Gedeao de Pai ...",
+					"28:00 2TAtlético Mineiro / MG 25 - Sosthenes Jose Santos Sal ... 27 - Luan Madson Gedeao de Pai ...",
 					"31:00 2TAtlético / PR 77 - Ederson Alves Ribeiro Sil ... 49 - Guilherme Augusto Alves D ...",
 					"38:00 2TAtlético / PR 31 - Jose Luis dos Santos Pint ... 17 - Bruno Cesar Pereira Silva ..."
 				],
