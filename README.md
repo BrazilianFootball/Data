@@ -101,3 +101,9 @@ This script copies the pre-commit script to .git/hooks/ and sets execution permi
 After setup, the pre-commit hook will run automatically before each commit. If any issues are found, the commit process will halt, allowing you to fix them before proceeding.
 
 If you encounter any issues or have questions, please refer to the documentation or contact the repository maintainers for assistance.
+
+## Know problems
+
+### Won't fix:
+ - The added time info of each game isn't catch. All events occurred in added time are considered as occurred in the last minute of correspondent game half.
+ - Despite saving the docket and the problem on a info log, we won't fix that information.
