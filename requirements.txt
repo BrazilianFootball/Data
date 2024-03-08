@@ -1,3 +1,5 @@
 PyPDF2==3.0.1
 requests==2.30.0
 py-markdown-table==0.4.0
+black==23.11.0
+flake8==7.0.0
