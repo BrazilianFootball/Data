@@ -396,6 +396,8 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                 squads[game] = {}
                 squads[game][0] = deepcopy(model)
                 for player in players:
+                    if player == list():
+                        continue
                     if player[1] == home:
                         game_club = "Home"
                     else:

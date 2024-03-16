@@ -302,6 +302,8 @@ def treat_game_players(players, home, away):
 
     game_players = {home: {}, away: {}}
     for player in players:
+        if player == list():
+            continue
         player, club = player
         numbers = re.findall("\d+", player)
         shirt, cod = numbers[0], numbers[-1]
