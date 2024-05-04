@@ -17,19 +17,19 @@ dag = DAG(
 
 update_repository_task = BashOperator(
     task_id="update_repository",
-    bash_command="cd ../../../../../../../Users/igor.michels/Documents/BrazilianSoccer/Data/ && git pull",
+    bash_command="cd ../../../../../../../Users/igor.michels/Documents/BrazilianFootball/Data/ && git pull",
     dag=dag,
 )
 
 execute_scrape_task = BashOperator(
     task_id="execute_scrape",
-    bash_command="cd ../../../../../../../Users/igor.michels/Documents/BrazilianSoccer/Data/scripts && python main.py --s",
+    bash_command="cd ../../../../../../../Users/igor.michels/Documents/BrazilianFootball/Data/scripts && python main.py --s",
     dag=dag,
 )
 
 commit_results_task = BashOperator(
     task_id="commit_results",
-    bash_command="cd ../../../../../../../Users/igor.michels/Documents/BrazilianSoccer/Data/ && git status && git add auxiliary/ results/ README.md && git commit -m 'Automated update' && git push",
+    bash_command="cd ../../../../../../../Users/igor.michels/Documents/BrazilianFootball/Data/ && git status && git add auxiliary/ results/ README.md && git commit -m 'Automated update' && git push",
     dag=dag,
 )
 
