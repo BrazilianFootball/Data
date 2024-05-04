@@ -9,7 +9,7 @@ default_args = {
 }
 
 dag = DAG(
-    "GitHub_scraping_pipeline",
+    "BrazilianFootballData",
     default_args=default_args,
     schedule_interval="30 12 1 4-12 2,5",
     catchup=False,
