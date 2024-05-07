@@ -706,3 +706,14 @@
 
 -------------------------------------------------------------------------------------
 
+2024-05-07 09:30:54 [Scraping] - Beginning docket scraping.
+2024-05-07 09:31:12 [Scraping] - Docket scraping complete.
+                                   [INFO] 48 dockets addeds.
+2024-05-07 09:31:12 [Extract]  - Beginning info extract.
+2024-05-07 09:31:12 [Extract]  - Info extract complete.
+                                   [INFO] 1 game failed.
+2024-05-07 09:31:12 [Lineups]  - Beginning lineups treatment.
+2024-05-07 09:31:12 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
