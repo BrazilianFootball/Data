@@ -717,3 +717,14 @@
 
 -------------------------------------------------------------------------------------
 
+2024-05-10 09:36:55 [Scraping] - Beginning docket scraping.
+2024-05-10 09:37:19 [Scraping] - Docket scraping complete.
+                                   [INFO] 3 dockets addeds.
+2024-05-10 09:37:19 [Extract]  - Beginning info extract.
+2024-05-10 09:37:19 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2024-05-10 09:37:19 [Lineups]  - Beginning lineups treatment.
+2024-05-10 09:37:19 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
