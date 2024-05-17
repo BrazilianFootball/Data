@@ -48,7 +48,7 @@ This repository is organized in three main folders:
 |  Serie B (2021) |    380   |     380     |
 |  Serie B (2022) |    380   |     380     |
 |  Serie B (2023) |    380   |     380     |
-|  Serie B (2024) |    40    |      40     |
+|  Serie B (2024) |    50    |      50     |
 |  Serie C (2013) |    220   |     213     |
 |  Serie C (2014) |    194   |     194     |
 |  Serie C (2015) |    194   |     194     |
