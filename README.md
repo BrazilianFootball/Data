@@ -48,7 +48,7 @@ This repository is organized in three main folders:
 |  Serie B (2021) |    380   |     380     |
 |  Serie B (2022) |    380   |     380     |
 |  Serie B (2023) |    380   |     380     |
-|  Serie B (2024) |    50    |      50     |
+|  Serie B (2024) |    60    |      59     |
 |  Serie C (2013) |    220   |     213     |
 |  Serie C (2014) |    194   |     194     |
 |  Serie C (2015) |    194   |     194     |
@@ -60,7 +60,7 @@ This repository is organized in three main folders:
 |  Serie C (2021) |    206   |     206     |
 |  Serie C (2022) |    216   |     216     |
 |  Serie C (2023) |    216   |     216     |
-|  Serie C (2024) |    40    |      34     |
+|  Serie C (2024) |    49    |      42     |
 |  Serie D (2013) |    190   |     190     |
 |  Serie D (2014) |    200   |     195     |
 |  Serie D (2015) |    190   |     190     |
@@ -72,7 +72,7 @@ This repository is organized in three main folders:
 |  Serie D (2021) |    518   |     518     |
 |  Serie D (2022) |    510   |     510     |
 |  Serie D (2023) |    510   |     510     |
-|  Serie D (2024) |    96    |      90     |
+|  Serie D (2024) |    128   |     118     |
 ## Pre-Commit Setup
 
 This repository includes a pre-commit script that ensures code quality by running linting and formatting checks before committing changes.
