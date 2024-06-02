@@ -24,6 +24,7 @@ Game,Home,Away
 025,Londrina / PR,CSA / AL
 026,Floresta / CE,Ferroviária / SP
 027,Figueirense / SC,Aparecidense / GO
+028,São José / RS,Volta Redonda / RJ
 029,Sao Bernardo / SP,Ferroviário / CE
 030,Botafogo / PB,Remo / PA
 031,Tombense / MG,Sampaio Corrêa / MA
@@ -31,6 +32,7 @@ Game,Home,Away
 034,Remo / PA,Floresta / CE
 036,ABC / RN,Londrina / PR
 037,Volta Redonda / RJ,Botafogo / PB
+038,Ypiranga / RS,Figueirense / SC
 039,Ferroviária / SP,Náutico / PE
 040,Aparecidense / GO,Sao Bernardo / SP
 041,Athletic / MG,Aparecidense / GO
@@ -41,3 +43,14 @@ Game,Home,Away
 046,Floresta / CE,Figueirense / SC
 047,Volta Redonda / RJ,Náutico / PE
 049,Ferroviária / SP,Confiança / SE
+052,Confiança / SE,ABC / RN
+053,Náutico / PE,Remo / PA
+054,Sampaio Corrêa / MA,Botafogo / PB
+055,Londrina / PR,Volta Redonda / RJ
+056,Floresta / CE,Ferroviário / CE
+057,Figueirense / SC,Ferroviária / SP
+059,Sao Bernardo / SP,CSA / AL
+061,Tombense / MG,Ferroviária / SP
+062,Confiança / SE,Aparecidense / GO
+063,Ferroviário / CE,Londrina / PR
+064,Sampaio Corrêa / MA,Remo / PA
