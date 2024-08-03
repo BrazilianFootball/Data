@@ -360,6 +360,7 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
 
                 home = games[game]["Home"]
                 away = games[game]["Away"]
+                result = games[game]["Result"]
                 players = games[game]["Players"]
                 if players[0][1] == players[-1][1]:
                     continue
@@ -394,6 +395,7 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                 changes += red_cards
                 changes = sorted(changes, key=lambda x: x[1])
                 squads[game] = {}
+                squads[game]["Summary"] = {"Home": home, "Away": away, "Result": result}
                 squads[game][0] = deepcopy(model)
                 for player in players:
                     if player == list():
