@@ -17,6 +17,7 @@ Game,Home,Away
 016,Palmeiras / SP,Internacional / RS
 017,Red Bull Bragantino / SP,Vasco da Gama / RJ
 018,Fortaleza / CE,Cruzeiro / MG
+019,Cuiabá / MT,Vitória / BA
 020,Juventude / RS,Corinthians / SP
 022,Atlético Mineiro / MG,Cruzeiro / MG
 023,Vitória / BA,Bahia / BA
@@ -26,6 +27,7 @@ Game,Home,Away
 027,Red Bull Bragantino / SP,Corinthians / SP
 028,Athletico Paranaense / PR,Internacional / RS
 029,Atlético / GO,São Paulo / SP
+030,Criciúma / SC,Fortaleza / CE
 031,Internacional / RS,Atlético / GO
 032,Cruzeiro / MG,Vitória / BA
 033,Bahia / BA,Grêmio / RS
@@ -43,6 +45,7 @@ Game,Home,Away
 047,Red Bull Bragantino / SP,Flamengo / RJ
 048,Athletico Paranaense / PR,Vasco da Gama / RJ
 049,Cuiabá / MT,Palmeiras / SP
+050,Juventude / RS,Atlético / GO
 053,Bahia / BA,Red Bull Bragantino / SP
 054,Flamengo / RJ,Corinthians / SP
 055,Vasco da Gama / RJ,Vitória / BA
@@ -50,6 +53,7 @@ Game,Home,Away
 057,São Paulo / SP,Fluminense / RJ
 058,Fortaleza / CE,Botafogo / RJ
 059,Atlético / GO,Cruzeiro / MG
+060,Criciúma / SC,Cuiabá / MT
 061,Grêmio / RS,Red Bull Bragantino / SP
 062,Atlético Mineiro / MG,Bahia / BA
 063,Vitória / BA,Atlético / GO
@@ -60,3 +64,125 @@ Game,Home,Away
 068,Fortaleza / CE,Athletico Paranaense / PR
 069,Cuiabá / MT,Internacional / RS
 070,Criciúma / SC,Palmeiras / SP
+071,Internacional / RS,São Paulo / SP
+072,Cruzeiro / MG,Cuiabá / MT
+073,Bahia / BA,Fortaleza / CE
+074,Flamengo / RJ,Grêmio / RS
+075,Botafogo / RJ,Fluminense / RJ
+076,Palmeiras / SP,Vasco da Gama / RJ
+077,Red Bull Bragantino / SP,Atlético Mineiro / MG
+078,Athletico Paranaense / PR,Criciúma / SC
+079,Atlético / GO,Corinthians / SP
+080,Juventude / RS,Vitória / BA
+081,Grêmio / RS,Botafogo / RJ
+082,Atlético Mineiro / MG,Palmeiras / SP
+083,Vitória / BA,Internacional / RS
+084,Fluminense / RJ,Atlético Goianiense / GO
+085,Vasco da Gama / RJ,Cruzeiro / MG
+086,Corinthians / SP,São Paulo / SP
+087,Red Bull Bragantino / SP,Juventude / RS
+088,Athletico Paranaense / PR,Flamengo / RJ
+089,Cuiabá / MT,Fortaleza / CE
+090,Criciúma / SC,Bahia / BA
+091,Internacional / RS,Corinthians / SP
+092,Cruzeiro / MG,Fluminense / RJ
+093,Vitória / BA,Atlético Mineiro / MG
+094,Flamengo / RJ,Bahia / BA
+095,Botafogo / RJ,Athletico Paranaense / PR
+096,Palmeiras / SP,Red Bull Bragantino / SP
+097,São Paulo / SP,Cuiabá / MT
+098,Fortaleza / CE,Grêmio / RS
+099,Atlético Goianiense / GO,Criciúma / SC
+100,Juventude / RS,Vasco da Gama / RJ
+101,Grêmio / RS,Internacional / RS
+102,Atlético Mineiro / MG,Fortaleza / CE
+103,Bahia / BA,Cruzeiro / MG
+104,Fluminense / RJ,Flamengo / RJ
+105,Vasco da Gama / RJ,São Paulo / SP
+106,Palmeiras / SP,Juventude / RS
+107,Red Bull Bragantino / SP,Vitória / BA
+108,Athletico Paranaense / PR,Corinthians / SP
+109,Cuiabá / MT,Atlético Goianiense / GO
+110,Criciúma / SC,Botafogo / RJ
+111,Internacional / RS,Atlético Mineiro / MG
+112,Cruzeiro / MG,Athletico Paranaense / PR
+113,Bahia / BA,Vasco da Gama / RJ
+114,Fluminense / RJ,Vitória / BA
+115,Botafogo / RJ,Red Bull Bragantino / SP
+116,Corinthians / SP,Cuiabá / MT
+117,São Paulo / SP,Criciúma / SC
+118,Fortaleza / CE,Palmeiras / SP
+119,Atlético Goianiense / GO,Grêmio / RS
+120,Juventude / RS,Flamengo / RJ
+121,Grêmio / RS,Fluminense / RJ
+122,Atlético Mineiro / MG,Atlético Goianiense / GO
+123,Vitória / BA,Athletico Paranaense / PR
+124,Flamengo / RJ,Cruzeiro / MG
+125,Vasco da Gama / RJ,Botafogo / RJ
+126,Palmeiras / SP,Corinthians / SP
+127,São Paulo / SP,Bahia / BA
+128,Fortaleza / CE,Juventude / RS
+129,Cuiabá / MT,Red Bull Bragantino / SP
+130,Criciúma / SC,Internacional / RS
+131,Grêmio / RS,Palmeiras / SP
+132,Atlético Mineiro / MG,Flamengo / RJ
+133,Bahia / BA,Juventude / RS
+134,Fluminense / RJ,Internacional / RS
+135,Vasco da Gama / RJ,Fortaleza / CE
+136,Corinthians / SP,Vitória / BA
+137,Red Bull Bragantino / SP,Atlético Goianiense / GO
+138,Athletico Paranaense / PR,São Paulo / SP
+139,Cuiabá / MT,Botafogo / RJ
+140,Criciúma / SC,Cruzeiro / MG
+141,Internacional / RS,Vasco da Gama / RJ
+142,Cruzeiro / MG,Corinthians / SP
+143,Vitória / BA,Criciúma / SC
+144,Flamengo / RJ,Cuiabá / MT
+145,Botafogo / RJ,Atlético Mineiro / MG
+146,Palmeiras / SP,Bahia / BA
+147,São Paulo / SP,Red Bull Bragantino / SP
+148,Fortaleza / CE,Fluminense / RJ
+149,Atlético Goianiense / GO,Athletico Paranaense / PR
+150,Juventude / RS,Grêmio / RS
+151,Grêmio / RS,Cruzeiro / MG
+152,Atlético Mineiro / MG,São Paulo / SP
+153,Vitória / BA,Botafogo / RJ
+154,Flamengo / RJ,Fortaleza / CE
+155,Vasco da Gama / RJ,Corinthians / SP
+156,Palmeiras / SP,Atlético Goianiense / GO
+158,Athletico Paranaense / PR,Bahia / BA
+160,Criciúma / SC,Fluminense / RJ
+162,Cruzeiro / MG,Red Bull Bragantino / SP
+163,Bahia / BA,Cuiabá / MT
+165,Botafogo / RJ,Palmeiras / SP
+166,Corinthians / SP,Criciúma / SC
+167,São Paulo / SP,Grêmio / RS
+168,Fortaleza / CE,Vitória / BA
+169,Atlético Goianiense / GO,Vasco da Gama / RJ
+170,Juventude / RS,Atlético Mineiro / MG
+171,Grêmio / RS,Vitória / BA
+172,Atlético Mineiro / MG,Vasco da Gama / RJ
+173,Bahia / BA,Corinthians / SP
+174,Flamengo / RJ,Criciúma / SC
+175,Botafogo / RJ,Internacional / RS
+176,Palmeiras / SP,Cruzeiro / MG
+177,Red Bull Bragantino / SP,Athletico Paranaense / PR
+178,Fortaleza / CE,Atlético Goianiense / GO
+179,Cuiabá / MT,Fluminense / RJ
+180,Juventude / RS,São Paulo / SP
+182,Cruzeiro / MG,Juventude / RS
+183,Vitória / BA,Flamengo / RJ
+184,Fluminense / RJ,Palmeiras / SP
+186,Corinthians / SP,Grêmio / RS
+187,São Paulo / SP,Botafogo / RJ
+189,Atlético Goianiense / GO,Bahia / BA
+191,Grêmio / RS,Vasco da Gama / RJ
+192,Atlético Mineiro / MG,Corinthians / SP
+193,Bahia / BA,Internacional / RS
+194,Flamengo / RJ,Atlético Goianiense / GO
+195,Botafogo / RJ,Cruzeiro / MG
+196,Palmeiras / SP,Vitória / BA
+197,Red Bull Bragantino / SP,Fluminense / RJ
+198,Fortaleza / CE,São Paulo / SP
+199,Cuiabá / MT,Athletico Paranaense / PR
+200,Juventude / RS,Criciúma / SC

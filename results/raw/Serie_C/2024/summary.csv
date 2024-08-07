@@ -21,6 +21,8 @@ Game,Home,Away
 020,Botafogo / PB,Caxias / RS
 021,Athletic / MG,ABC / RN
 022,Confiança / SE,Tombense / MG
+023,Náutico / PE,Ypiranga / RS
+024,Sampaio Corrêa / MA,Caxias / RS
 025,Londrina / PR,CSA / AL
 026,Floresta / CE,Ferroviária / SP
 027,Figueirense / SC,Aparecidense / GO
@@ -29,7 +31,9 @@ Game,Home,Away
 030,Botafogo / PB,Remo / PA
 031,Tombense / MG,Sampaio Corrêa / MA
 032,CSA / AL,Athletic / MG
+033,Ferroviário / CE,São José / RS
 034,Remo / PA,Floresta / CE
+035,Caxias / RS,Confiança / SE
 036,ABC / RN,Londrina / PR
 037,Volta Redonda / RJ,Botafogo / PB
 038,Ypiranga / RS,Figueirense / SC
@@ -43,13 +47,17 @@ Game,Home,Away
 046,Floresta / CE,Figueirense / SC
 047,Volta Redonda / RJ,Náutico / PE
 049,Ferroviária / SP,Confiança / SE
+050,Botafogo / PB,São José / RS
+051,Tombense / MG,Caxias / RS
 052,Confiança / SE,ABC / RN
 053,Náutico / PE,Remo / PA
 054,Sampaio Corrêa / MA,Botafogo / PB
 055,Londrina / PR,Volta Redonda / RJ
 056,Floresta / CE,Ferroviário / CE
 057,Figueirense / SC,Ferroviária / SP
+058,São José / RS,Athletic / MG
 059,Sao Bernardo / SP,CSA / AL
+060,Aparecidense / GO,Ypiranga / RS
 061,Tombense / MG,Ferroviária / SP
 062,Confiança / SE,Aparecidense / GO
 063,Ferroviário / CE,Londrina / PR
@@ -60,3 +68,83 @@ Game,Home,Away
 068,São José / RS,Náutico / PE
 069,Sao Bernardo / SP,Ypiranga / RS
 070,Botafogo / PB,Athletic / MG
+071,Athletic / MG,Volta Redonda / RJ
+072,CSA / AL,São José / RS
+073,Náutico / PE,Caxias / RS
+074,Remo / PA,Sao Bernardo / SP
+075,Londrina / PR,Sampaio Corrêa / MA
+076,Floresta / CE,Confiança / SE
+077,Figueirense / SC,ABC / RN
+078,Ypiranga / RS,Tombense / MG
+079,Ferroviária / SP,Aparecidense / GO
+080,Botafogo / PB,Ferroviário / CE
+081,Athletic / MG,Ferroviário / CE
+082,CSA / AL,Botafogo / PB
+083,Náutico / PE,Floresta / CE
+084,Remo / PA,Ypiranga / RS
+085,Caxias / RS,Ferroviária / SP
+086,ABC / RN,Volta Redonda / RJ
+087,Figueirense / SC,Confiança / SE
+088,São José / RS,Londrina / PR
+089,Sao Bernardo / SP,Sampaio Corrêa / MA
+090,Aparecidense / GO,Tombense / MG
+091,Tombense / MG,Floresta / CE
+092,Confiança / SE,CSA / AL
+093,Ferroviário / CE,Ferroviária / SP
+094,Sampaio Corrêa / MA,Athletic / MG
+095,Londrina / PR,Botafogo / PB
+096,ABC / RN,Remo / PA
+097,Volta Redonda / RJ,Caxias / RS
+098,São José / RS,Ypiranga / RS
+099,Sao Bernardo / SP,Figueirense / SC
+100,Aparecidense / GO,Náutico / PE
+101,Athletic / MG,Sao Bernardo / SP
+102,CSA / AL,Figueirense / SC
+103,Náutico / PE,Confiança / SE
+104,Remo / PA,Ferroviário / CE
+105,Londrina / PR,Tombense / MG
+106,Floresta / CE,Caxias / RS
+107,Volta Redonda / RJ,Sampaio Corrêa / MA
+108,Ypiranga / RS,ABC / RN
+109,Ferroviária / SP,São José / RS
+110,Botafogo / PB,Aparecidense / GO
+111,Tombense / MG,Náutico / PE
+112,Confiança / SE,Ypiranga / RS
+113,Ferroviário / CE,Volta Redonda / RJ
+114,Sampaio Corrêa / MA,Ferroviária / SP
+115,Caxias / RS,Remo / PA
+116,ABC / RN,CSA / AL
+117,Figueirense / SC,Athletic / MG
+118,São José / RS,Floresta / CE
+119,Sao Bernardo / SP,Botafogo / PB
+120,Aparecidense / GO,Londrina / PR
+121,Athletic / MG,Londrina / PR
+122,CSA / AL,Floresta / CE
+123,Náutico / PE,Figueirense / SC
+124,Sampaio Corrêa / MA,São José / RS
+125,Caxias / RS,Aparecidense / GO
+126,ABC / RN,Tombense / MG
+127,Volta Redonda / RJ,Sao Bernardo / SP
+128,Ypiranga / RS,Ferroviário / CE
+129,Ferroviária / SP,Remo / PA
+130,Botafogo / PB,Confiança / SE
+131,Tombense / MG,Figueirense / SC
+132,Confiança / SE,Ferroviário / CE
+133,Náutico / PE,Athletic / MG
+134,Remo / PA,CSA / AL
+135,Londrina / PR,Caxias / RS
+136,Floresta / CE,Sampaio Corrêa / MA
+137,Volta Redonda / RJ,Ypiranga / RS
+138,São José / RS,Aparecidense / GO
+139,Sao Bernardo / SP,Ferroviária / SP
+140,Botafogo / PB,ABC / RN
+141,Tombense / MG,Athletic / MG
+142,Confiança / SE,Volta Redonda / RJ
+143,Ferroviário / CE,CSA / AL
+144,Sampaio Corrêa / MA,Náutico / PE
+145,Caxias / RS,São José / RS
+146,ABC / RN,Sao Bernardo / SP
+147,Figueirense / SC,Remo / PA
+148,Ypiranga / RS,Botafogo / PB
+149,Ferroviária / SP,Londrina / PR
+150,Aparecidense / GO,Floresta / CE

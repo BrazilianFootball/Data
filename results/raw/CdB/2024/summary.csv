@@ -70,10 +70,12 @@ Game,Home,Away
 069,Aguia de Maraba / PA,São Paulo / SP
 070,Palmeiras / SP,Botafogo / SP
 071,Ypiranga / RS,Athletico Paranaense / PR
+072,Internacional / RS,Juventude / RS
 073,CRB / AL,Ceará / CE
 074,América F.c. / RN,Corinthians / SP
 075,Brusque / SC,Atlético / GO
 076,Atlético Mineiro / MG,Sport / PE
+077,Grêmio / RS,Operário / PR
 078,Criciúma / SC,Bahia / BA
 079,Fluminense / RJ,Sampaio Corrêa / MA
 080,Red Bull Bragantino / SP,Sousa / PB
@@ -83,7 +85,16 @@ Game,Home,Away
 084,Amazonas / AM,Flamengo / RJ
 085,São Paulo / SP,Aguia de Maraba / PA
 086,Botafogo / SP,Palmeiras / SP
+087,Athletico Paranaense / PR,Ypiranga / RS
+088,Juventude / RS,Internacional / RS
 089,Ceará / CE,CRB / AL
 090,Corinthians / SP,América F.c. / RN
 091,Atlético / GO,Brusque / SC
 092,Sport / PE,Atlético Mineiro / MG
+093,Flamengo / RJ,Palmeiras / SP
+094,Atlético Goianiense / GO,Vasco da Gama / RJ
+095,Athletico Paranaense / PR,Red Bull Bragantino / SP
+096,São Paulo / SP,Goiás / GO
+097,CRB / AL,Atlético Mineiro / MG
+098,Botafogo / RJ,Bahia / BA
+099,Corinthians / SP,Grêmio / RS
