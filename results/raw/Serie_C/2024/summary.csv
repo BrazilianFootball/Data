@@ -46,6 +46,7 @@ Game,Home,Away
 045,Londrina / PR,Sao Bernardo / SP
 046,Floresta / CE,Figueirense / SC
 047,Volta Redonda / RJ,Náutico / PE
+048,Ypiranga / RS,Caxias / RS
 049,Ferroviária / SP,Confiança / SE
 050,Botafogo / PB,São José / RS
 051,Tombense / MG,Caxias / RS
@@ -148,3 +149,68 @@ Game,Home,Away
 148,Ypiranga / RS,Botafogo / PB
 149,Ferroviária / SP,Londrina / PR
 150,Aparecidense / GO,Floresta / CE
+151,Athletic / MG,Confiança / SE
+152,CSA / AL,Náutico / PE
+153,Ferroviário / CE,Sampaio Corrêa / MA
+154,Remo / PA,Aparecidense / GO
+155,Londrina / PR,Floresta / CE
+156,ABC / RN,São José / RS
+157,Volta Redonda / RJ,Tombense / MG
+158,Ypiranga / RS,Ferroviária / SP
+159,Sao Bernardo / SP,Caxias / RS
+160,Botafogo / PB,Figueirense / SC
+161,Tombense / MG,CSA / AL
+162,Confiança / SE,Remo / PA
+163,Náutico / PE,Botafogo / PB
+164,Sampaio Corrêa / MA,ABC / RN
+165,Caxias / RS,Ferroviário / CE
+166,Floresta / CE,Ypiranga / RS
+167,Figueirense / SC,Londrina / PR
+168,São José / RS,Sao Bernardo / SP
+169,Ferroviária / SP,Athletic / MG
+170,Aparecidense / GO,Volta Redonda / RJ
+171,Tombense / MG,Botafogo / PB
+172,Confiança / SE,Sao Bernardo / SP
+173,Náutico / PE,Ferroviário / CE
+174,Remo / PA,Londrina / PR
+175,Caxias / RS,ABC / RN
+176,Floresta / CE,Athletic / MG
+177,Figueirense / SC,São José / RS
+178,Ypiranga / RS,Sampaio Corrêa / MA
+179,Ferroviária / SP,Volta Redonda / RJ
+180,Aparecidense / GO,CSA / AL
+181,Athletic / MG,Ypiranga / RS
+182,CSA / AL,Caxias / RS
+183,Ferroviário / CE,Tombense / MG
+184,Sampaio Corrêa / MA,Confiança / SE
+185,Londrina / PR,Náutico / PE
+186,ABC / RN,Aparecidense / GO
+187,Volta Redonda / RJ,Figueirense / SC
+188,São José / RS,Remo / PA
+189,Sao Bernardo / SP,Floresta / CE
+190,Botafogo / PB,Ferroviária / SP
+191,Remo / PA,Botafogo / PB
+192,Volta Redonda / RJ,Sao Bernardo / SP
+193,Londrina / PR,Athletic / MG
+194,Ypiranga / RS,Ferroviária / SP
+195,Botafogo / PB,Volta Redonda / RJ
+196,Sao Bernardo / SP,Remo / PA
+197,Athletic / MG,Ypiranga / RS
+198,Ferroviária / SP,Londrina / PR
+199,Sao Bernardo / SP,Botafogo / PB
+200,Remo / PA,Volta Redonda / RJ
+201,Ferroviária / SP,Athletic / MG
+202,Londrina / PR,Ypiranga / RS
+203,Botafogo / PB,Sao Bernardo / SP
+204,Volta Redonda / RJ,Remo / PA
+205,Athletic / MG,Ferroviária / SP
+206,Ypiranga / RS,Londrina / PR
+207,Volta Redonda / RJ,Botafogo / PB
+208,Remo / PA,Sao Bernardo / SP
+209,Ypiranga / RS,Athletic / MG
+210,Londrina / PR,Ferroviária / SP
+211,Botafogo / PB,Remo / PA
+212,Sao Bernardo / SP,Volta Redonda / RJ
+213,Athletic / MG,Londrina / PR
+214,Ferroviária / SP,Ypiranga / RS
+215,Volta Redonda / RJ,Athletic / MG

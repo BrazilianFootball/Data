@@ -24,7 +24,7 @@ This repository is organized in three main folders:
 |Brazil Cup (2021)|    122   |     122     |
 |Brazil Cup (2022)|    122   |     122     |
 |Brazil Cup (2023)|    122   |     122     |
-|Brazil Cup (2024)|    99    |      99     |
+|Brazil Cup (2024)|    118   |     118     |
 |  Serie A (2013) |    380   |     380     |
 |  Serie A (2014) |    380   |     380     |
 |  Serie A (2015) |    380   |     380     |
@@ -36,7 +36,7 @@ This repository is organized in three main folders:
 |  Serie A (2021) |    380   |     380     |
 |  Serie A (2022) |    380   |     380     |
 |  Serie A (2023) |    380   |     380     |
-|  Serie A (2024) |    200   |     187     |
+|  Serie A (2024) |    290   |     282     |
 |  Serie B (2013) |    380   |     380     |
 |  Serie B (2014) |    380   |     379     |
 |  Serie B (2015) |    380   |     380     |
@@ -48,7 +48,7 @@ This repository is organized in three main folders:
 |  Serie B (2021) |    380   |     380     |
 |  Serie B (2022) |    380   |     380     |
 |  Serie B (2023) |    380   |     380     |
-|  Serie B (2024) |    180   |     177     |
+|  Serie B (2024) |    310   |     307     |
 |  Serie C (2013) |    220   |     213     |
 |  Serie C (2014) |    194   |     194     |
 |  Serie C (2015) |    194   |     194     |
@@ -60,7 +60,7 @@ This repository is organized in three main folders:
 |  Serie C (2021) |    206   |     206     |
 |  Serie C (2022) |    216   |     216     |
 |  Serie C (2023) |    216   |     216     |
-|  Serie C (2024) |    150   |     149     |
+|  Serie C (2024) |    215   |     215     |
 |  Serie D (2013) |    190   |     190     |
 |  Serie D (2014) |    200   |     195     |
 |  Serie D (2015) |    190   |     190     |
@@ -72,7 +72,7 @@ This repository is organized in three main folders:
 |  Serie D (2021) |    518   |     518     |
 |  Serie D (2022) |    510   |     510     |
 |  Serie D (2023) |    510   |     510     |
-|  Serie D (2024) |    464   |     462     |
+|  Serie D (2024) |    510   |     508     |
 ## Pre-Commit Setup
 
 This repository includes a pre-commit script that ensures code quality by running linting and formatting checks before committing changes.

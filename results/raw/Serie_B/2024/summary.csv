@@ -65,6 +65,7 @@ Game,Home,Away
 064,Ituano / SP,Ponte Preta / SP
 065,América / MG,Santos / SP
 066,Avaí / SC,Goiás / GO
+067,CRB / AL,Sport / PE
 068,Coritiba / PR,Operário / PR
 069,Amazonas / AM,Mirassol / SP
 070,Ceará / CE,Chapecoense / SC
@@ -176,3 +177,132 @@ Game,Home,Away
 178,Coritiba / PR,Chapecoense / SC
 179,Paysandu / PA,Gremio Novorizontino - / SP
 180,Sport / PE,Ponte Preta / SP
+181,Vila Nova / GO,Paysandu / PA
+182,Ponte Preta / SP,Avaí / SC
+183,Botafogo / SP,Coritiba / PR
+184,Gremio Novorizontino - / SP,Goiás / GO
+185,Santos / SP,Sport / PE
+186,Chapecoense / SC,Mirassol / SP
+187,Brusque / SC,América / MG
+188,Operário / PR,CRB / AL
+189,Amazonas / AM,Ituano / SP
+190,Ceará / CE,Guarani / SP
+191,Goiás / GO,Ceará / CE
+192,Guarani / SP,Vila Nova / GO
+193,Mirassol / SP,Brusque / SC
+194,Ituano / SP,Chapecoense / SC
+195,América / MG,Botafogo / SP
+196,Avaí / SC,Operário / PR
+197,CRB / AL,Gremio Novorizontino - / SP
+198,Coritiba / PR,Ponte Preta / SP
+199,Paysandu / PA,Santos / SP
+200,Sport / PE,Amazonas / AM
+201,Vila Nova / GO,Sport / PE
+202,Ponte Preta / SP,Goiás / GO
+203,Botafogo / SP,Paysandu / PA
+204,Gremio Novorizontino - / SP,América / MG
+205,Santos / SP,Avaí / SC
+206,Chapecoense / SC,Guarani / SP
+207,Brusque / SC,Coritiba / PR
+208,Operário / PR,Ituano / SP
+209,Amazonas / AM,CRB / AL
+210,Ceará / CE,Mirassol / SP
+211,Goiás / GO,Brusque / SC
+212,Guarani / SP,Santos / SP
+213,Mirassol / SP,Botafogo / SP
+214,Gremio Novorizontino - / SP,Ituano / SP
+215,América / MG,Chapecoense / SC
+216,Avaí / SC,Paysandu / PA
+217,CRB / AL,Ceará / CE
+218,Operário / PR,Vila Nova / GO
+219,Amazonas / AM,Ponte Preta / SP
+221,Vila Nova / GO,América / MG
+222,Ponte Preta / SP,Operário / PR
+223,Botafogo / SP,Guarani / SP
+224,Ituano / SP,Goiás / GO
+225,Santos / SP,Amazonas / AM
+226,Chapecoense / SC,CRB / AL
+227,Brusque / SC,Sport / PE
+228,Coritiba / PR,Avaí / SC
+229,Paysandu / PA,Mirassol / SP
+230,Ceará / CE,Gremio Novorizontino - / SP
+231,Goiás / GO,Paysandu / PA
+232,Guarani / SP,Coritiba / PR
+233,Mirassol / SP,América / MG
+234,Gremio Novorizontino - / SP,Vila Nova / GO
+235,Santos / SP,Ponte Preta / SP
+236,Chapecoense / SC,Botafogo / SP
+237,CRB / AL,Avaí / SC
+238,Operário / PR,Brusque / SC
+239,Amazonas / AM,Ceará / CE
+240,Sport / PE,Ituano / SP
+241,Vila Nova / GO,CRB / AL
+242,Ponte Preta / SP,Chapecoense / SC
+243,Botafogo / SP,Goiás / GO
+244,Ituano / SP,Mirassol / SP
+245,América / MG,Guarani / SP
+246,Avaí / SC,Sport / PE
+247,Brusque / SC,Santos / SP
+248,Coritiba / PR,Gremio Novorizontino - / SP
+249,Paysandu / PA,Amazonas / AM
+250,Ceará / CE,Operário / PR
+251,Goiás / GO,Avaí / SC
+252,Ponte Preta / SP,Ituano / SP
+253,Mirassol / SP,Amazonas / AM
+254,Gremio Novorizontino - / SP,Botafogo / SP
+255,Santos / SP,América / MG
+256,Chapecoense / SC,Ceará / CE
+257,Brusque / SC,Vila Nova / GO
+258,Operário / PR,Coritiba / PR
+259,Paysandu / PA,Guarani / SP
+260,Sport / PE,CRB / AL
+261,Vila Nova / GO,Chapecoense / SC
+262,Guarani / SP,Mirassol / SP
+263,Botafogo / SP,Santos / SP
+264,Gremio Novorizontino - / SP,Brusque / SC
+265,América / MG,Paysandu / PA
+266,Avaí / SC,Ituano / SP
+267,CRB / AL,Ponte Preta / SP
+268,Coritiba / PR,Ceará / CE
+269,Amazonas / AM,Operário / PR
+270,Sport / PE,Goiás / GO
+271,Goiás / GO,Mirassol / SP
+272,Ponte Preta / SP,América / MG
+273,Botafogo / SP,CRB / AL
+274,Ituano / SP,Coritiba / PR
+275,Santos / SP,Gremio Novorizontino - / SP
+276,Chapecoense / SC,Avaí / SC
+277,Brusque / SC,Amazonas / AM
+278,Operário / PR,Guarani / SP
+279,Paysandu / PA,Sport / PE
+280,Ceará / CE,Vila Nova / GO
+281,Vila Nova / GO,Botafogo / SP
+282,Guarani / SP,Avaí / SC
+283,Mirassol / SP,Sport / PE
+284,Gremio Novorizontino - / SP,Ponte Preta / SP
+285,Santos / SP,Operário / PR
+286,Chapecoense / SC,Amazonas / AM
+287,CRB / AL,América / MG
+288,Coritiba / PR,Goiás / GO
+289,Paysandu / PA,Ituano / SP
+290,Ceará / CE,Brusque / SC
+291,Goiás / GO,Santos / SP
+292,Ponte Preta / SP,Botafogo / SP
+293,Mirassol / SP,Vila Nova / GO
+294,Ituano / SP,Guarani / SP
+295,América / MG,Coritiba / PR
+296,Avaí / SC,Brusque / SC
+297,CRB / AL,Paysandu / PA
+298,Operário / PR,Chapecoense / SC
+299,Amazonas / AM,Gremio Novorizontino - / SP
+300,Sport / PE,Ceará / CE
+301,Goiás / GO,Vila Nova / GO
+302,Guarani / SP,CRB / AL
+303,Botafogo / SP,Operário / PR
+304,Gremio Novorizontino - / SP,Sport / PE
+305,Santos / SP,Mirassol / SP
+306,Avaí / SC,América / MG
+307,Brusque / SC,Ituano / SP
+308,Coritiba / PR,Amazonas / AM
+309,Paysandu / PA,Chapecoense / SC
+310,Ceará / CE,Ponte Preta / SP
