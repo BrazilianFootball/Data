@@ -2,6 +2,7 @@ img_files = {
     "America/MG": "Data/images/americamg_bra.png",
     "AthleticoParanaense/PR": "Data/images/atleticopr_bra.png",
     "Atletico/GO": "Data/images/atleticogo_bra.png",
+    "AtleticoGoianiense/GO": "Data/images/atleticogo_bra.png",
     "Atletico/MG": "Data/images/atleticomg_bra.png",
     "AtleticoMineiro/MG": "Data/images/atleticomg_bra.png",
     "Avai/SC": "Data/images/avai_bra.png",
