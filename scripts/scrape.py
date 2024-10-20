@@ -1,6 +1,7 @@
 from multiprocessing import Process
 from copy import deepcopy
 from functions import clear, catch_goals, catch_players, catch_red_cards
+from functions import catch_game_date, catch_game_time, catch_game_stadium
 from functions import catch_teams, catch_yellow_cards, final_result
 from functions import find_changes, treat_game_changes, treat_game_events
 from functions import treat_game_players
@@ -228,6 +229,24 @@ def extract(competitions, min_year, max_year, cleaning=True):
                     ) as f:
                         text = "".join(f.readlines())
 
+                    date = catch_game_date(text)
+                    if len(date) != 0:
+                        date = date[0]
+                    else:
+                        date = ""
+
+                    time = catch_game_time(text)
+                    if len(time) != 0:
+                        time = time[0]
+                    else:
+                        time = ""
+
+                    stadium = catch_game_stadium(text)
+                    if len(stadium) != 0:
+                        stadium = stadium[0]
+                    else:
+                        stadium = ""
+
                     clubs = catch_teams(text)
                     assert len(clubs) == 1
                     f_club = True
@@ -254,6 +273,9 @@ def extract(competitions, min_year, max_year, cleaning=True):
                     red_cards = catch_red_cards(text)
 
                     games[str(game).zfill(3)] = {
+                        "Date": date,
+                        "Time": time,
+                        "Stadium": stadium,
                         "Home": clubs[0][0],
                         "Away": clubs[0][1],
                         "Result": result,
@@ -361,6 +383,9 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                 home = games[game]["Home"]
                 away = games[game]["Away"]
                 result = games[game]["Result"]
+                date = games[game]["Date"]
+                time = games[game]["Time"]
+                stadium = games[game]["Stadium"]
                 players = games[game]["Players"]
                 if players[0][1] == players[-1][1]:
                     continue
@@ -395,7 +420,14 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                 changes += red_cards
                 changes = sorted(changes, key=lambda x: x[1])
                 squads[game] = {}
-                squads[game]["Summary"] = {"Home": home, "Away": away, "Result": result}
+                squads[game]["Summary"] = {
+                    "Home": home,
+                    "Away": away,
+                    "Result": result,
+                    "Date": date,
+                    "Time": time,
+                    "Stadium": stadium,
+                }
                 squads[game][0] = deepcopy(model)
                 for player in players:
                     if player == list():

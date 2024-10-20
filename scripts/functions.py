@@ -200,6 +200,57 @@ def treat_round_35_sB(club):
     return club
 
 
+def catch_game_date(text):
+    """
+    Extracts the game date from the given text.
+
+    Args:
+        text (str): The text containing the game information.
+
+    Returns:
+        str: The game date.
+    """
+
+    return re.findall(
+        r"Data:\s*(\d{2}/\d{2}/\d{4})",
+        text,
+    )
+
+
+def catch_game_time(text):
+    """
+    Extracts the game time from the given text.
+
+    Args:
+        text (str): The text containing the game information.
+
+    Returns:
+        str: The game time.
+    """
+
+    return re.findall(
+        r"Horário:\s*(\d{2}:\d{2})",
+        text,
+    )
+
+
+def catch_game_stadium(text):
+    """
+    Extracts the game stadium from the given text.
+
+    Args:
+        text (str): The text containing the game information.
+
+    Returns:
+        str: The game stadium.
+    """
+
+    return re.findall(
+        r"Estádio:\s*(.+?)(?=\n|$)",
+        text,
+    )
+
+
 def catch_teams(text):
     """
     Extracts the names of the teams from the given text.
