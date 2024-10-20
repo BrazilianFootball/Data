@@ -2,6 +2,9 @@
     "Serie_A": {
         "2013": {
     		"098": {
+				"Date": "31/07/2013",
+				"Time": "19:30",
+				"Stadium": "Estádio Raimundo Sampaio / Belo Horizonte",
     			"Home": "Atlético Mineiro / MG",
     			"Away": "Athletico Paranaense / PR",
 				"Result": "1 x 2",
@@ -199,6 +202,9 @@
         "2022": {},
         "2023": {
 			"026": {
+				"Date": "29/04/2023",
+				"Time": "21:00",
+				"Stadium": "Raimundo Sampaio / Belo Horizonte",
 				"Home": "Atlético Mineiro / MG",
 				"Away": "Athletico Paranaense / PR",
 				"Result": "2 X 1",
@@ -418,11 +424,14 @@
     "Serie_B": {
         "2013": {
             "152": {
+				"Date": "17/08/2013",
+				"Time": "16:20",
+				"Stadium": "Estádio Raimundo Sampaio / Belo Horizonte",
         		"Home": "América / MG",
 				"Away": "América / RN",
 				"Result": "1 x 1",
 				"Players": [
-								[
+					[
 						"1Matheus Matheus Lima Magalhaes TP323643",
 						"América / MG"
 					],
@@ -591,6 +600,9 @@
 				]
 			},
 			"346": {
+				"Date": "12/11/2013",
+				"Time": "21:50",
+				"Stadium": "José Nazareno do Nascimento / Goianinha",
         		"Home": "América / RN",
 				"Away": "América / MG",
 				"Result": "2 x 2",
@@ -805,6 +817,9 @@
         "2022": {},
         "2023": {
 			"055": {
+				"Date": "13/05/2023",
+				"Time": "17:00",
+				"Stadium": "Dr. Jorge Ismael de Biasi / Novo Horizonte",
 				"Home": "Novorizontino / SP",
 				"Away": "CRB / AL",
 				"Result": "0 X 1",
@@ -1012,6 +1027,9 @@
     "Serie_C": {
         "2013": {
         	"114": {
+				"Date": "04/09/2013",
+				"Time": "20:30",
+				"Stadium": "Presidente Vargas / Campina Grande",
         		"Home": "Treze / PB",
 				"Away": "Baraúnas / RN",
 				"Result": "1 x 0",
@@ -1203,6 +1221,9 @@
         "2019": {},
         "2020": {
         	"173": {
+				"Date": "05/12/2020",
+				"Time": "17:00",
+				"Stadium": "Frei Epifânio D´abadia / Imperatriz",
         		"Home": "Imperatriz / MA",
 				"Away": "Manaus / AM",
 				"Result": "1 x 2",
@@ -1344,6 +1365,9 @@
     "Serie_D": {
         "2013": {
         	"001": {
+				"Date": "01/06/2013",
+				"Time": "18:00",
+				"Stadium": "Antonio Aquino Lopes / Rio Branco",
         		"Home": "Plácido de Castro / AC",
 				"Away": "Paragominas / PA",
 				"Result": "1 x 1",
@@ -1514,6 +1538,9 @@
 				]
         	},
         	"026": {
+				"Date": "07/07/2013",
+				"Time": "16:00",
+				"Stadium": "Municipal Glicério de Souza Marques / Macapá",
         		"Home": "Ypiranga / AP",
 				"Away": "Maranhão / MA",
 				"Result": "1 x 0",
@@ -1612,6 +1639,9 @@
 				]
 			},
         	"029": {
+				"Date": "22/07/2013",
+				"Time": "20:15",
+				"Stadium": "Gilberto Resende Rocha / Gurupi",
         		"Home": "Gurupi / TO",
 				"Away": "Ypiranga / AP",
 				"Result": "3 x 2",
@@ -1733,6 +1763,9 @@
         "2014": {},
         "2015": {
         	"016": {
+				"Date": "04/03/2015",
+				"Time": "22:00",
+				"Stadium": "Lomanto Junior / Vitoria da Conquista",
         		"Home": "Vitória da Conquista / BA",
 				"Away": "Palmeiras / SP",
 				"Result": "1 X 4",
@@ -1951,6 +1984,9 @@
         "2022": {},
         "2023": {
 			"039": {
+				"Date": "01/03/2023",
+				"Time": "15:30",
+				"Stadium": "Jânio Moraes / Nova Iguacu",
 				"Home": "Nova Iguaçu / RJ",
 				"Away": "Vitória / BA",
 				"Result": "2 X 0",
@@ -2154,7 +2190,10 @@
 		},
         "2024": {
         	"040": {
-        		"Home": "Ji-paraná / RO",
+				"Date": "29/02/2024",
+				"Time": "21:30",
+				"Stadium": "José de Abreu Bianco / Ji-Parana",
+				"Home": "Ji-paraná / RO",
 				"Away": "Paysandu / PA",
 				"Result": "0 X 0",
 				"Players": [
