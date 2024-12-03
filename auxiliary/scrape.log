@@ -823,3 +823,25 @@
 
 -------------------------------------------------------------------------------------
 
+2024-12-03 09:04:55 [Scraping] - Beginning docket scraping.
+2024-12-03 09:05:53 [Scraping] - Docket scraping complete.
+                                   [INFO] 151 dockets addeds.
+2024-12-03 09:05:53 [Extract]  - Beginning info extract.
+2024-12-03 09:05:55 [Extract]  - Info extract complete.
+                                   [INFO] 6 games failed.
+2024-12-03 09:05:55 [Lineups]  - Beginning lineups treatment.
+2024-12-03 09:05:55 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2024-12-03 09:12:44 [Scraping] - Beginning docket scraping.
+2024-12-03 09:14:24 [Scraping] - Docket scraping complete.
+                                   [INFO] Already up to date.
+2024-12-03 09:14:24 [Extract]  - Beginning info extract.
+2024-12-03 09:14:43 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2024-12-03 09:14:43 [Lineups]  - Beginning lineups treatment.
+2024-12-03 09:14:53 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
