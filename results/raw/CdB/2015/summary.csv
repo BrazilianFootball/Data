@@ -1,159 +1,159 @@
-Game,Home,Away
-001,Atlético / AC,Real Noroeste / ES
-002,Real Noroeste / ES,Atlético / AC
-003,Santo André / SP,Goiás / GO
-004,Luziânia / DF,América / MG
-005,Estrela do Norte / ES,Sampaio Corrêa / MA
-006,Moto Club / MA,Boa / MG
-007,Alecrim / RN,Tupi / MG
-008,Amadense / SE,CRB / AL
-009,São Raimundo / RR,ASA / AL
-010,Brasil / RS,Flamengo / RJ
-011,Vilhena / RO,Ponte Preta / SP
-012,Maringá / PR,Madureira / RJ
-013,Independente / PA,Icasa / CE
-014,Santos / AP,Portuguesa / SP
-015,Murici / AL,Cuiabá / MT
-016,Vitória da Conquista / BA,Palmeiras / SP
-017,Villa Nova / MG,Coritiba / PR
-018,Rio Branco / AC,Vasco da Gama / RJ
-019,Capivariano / SP,Caxias / RS
-020,Cabofriense / RJ,Luverdense / MT
-021,Boavista / RJ,ABC / RN
-022,Londrina / PR,Santos / SP
-023,Remo / PA,Athletico Paranaense / PR
-024,Lajeadense / RS,Red Bull Bragantino / SP
-025,Interporto / TO,Chapecoense / SC
-026,Princesa do Solimões / AM,Figueirense / SC
-027,Real Noroeste / ES,Criciúma / SC
-028,Águia Negra / MS,Paysandu / PA
-031,Cuiabá / MT,Murici / AL
-032,Luverdense / MT,Cabofriense / RJ
-033,Flamengo / RJ,Brasil / RS
-034,Caxias / RS,Capivariano / SP
-035,Icasa / CE,Independente / PA
-038,ABC / RN,Boavista / RJ
-039,Anapolina / GO,Vitória / BA
-040,Ituano / SP,Joinville / SC
-041,Confiança / SE,Ceará / CE
-042,Piauí / PI,Salgueiro / PE
-043,Jacuipense / BA,Paraná / PR
-044,Coruripe / AL,Atlético / GO
-045,Globo / RN,América / RN
-046,Operário / MT,Avaí / SC
-047,Cene / MS,Sport / PE
-048,Botafogo / PB,Botafogo / RJ
-049,Campinense / PB,Grêmio / RS
-050,Figueirense / SC,Princesa do Solimões / AM
-052,Goiás / GO,Santo André / SP
-053,Sampaio Corrêa / MA,Estrela do Norte / ES
-054,Paysandu / PA,Águia Negra / MS
-055,Brasília / DF,Náutico / PE
-056,Ríver / PI,Fortaleza / CE
-057,Nacional / AM,Bahia / BA
-058,Ponte Preta / SP,Vilhena / RO
-060,CRB / AL,Amadense / SE
-062,Athletico Paranaense / PR,Remo / PA
-063,Madureira / RJ,Maringá / PR
-064,Vitória / BA,Anapolina / GO
-065,Avaí / SC,Operário / MT
-066,Náutico / PE,Brasília / DF
-067,Paraná / PR,Jacuipense / BA
-068,Joinville / SC,Ituano / SP
-069,Ceará / CE,Confiança / SE
-071,Boa / MG,Moto Club / MA
-072,Atlético / GO,Coruripe / AL
-073,Vasco da Gama / RJ,Rio Branco / AC
-074,Grêmio / RS,Campinense / PB
-075,Fortaleza / CE,Ríver / PI
-078,Red Bull Bragantino / SP,Lajeadense / RS
-079,Botafogo / RJ,Botafogo / PB
-080,Santos / SP,Londrina / PR
-081,Sport / PE,Cene / MS
-082,Bahia / BA,Nacional / AM
-083,Salgueiro / PE,Flamengo / RJ
-084,Ituano / SP,Portuguesa / SP
-085,Red Bull Bragantino / SP,Criciúma / SC
-086,Portuguesa / SP,Ituano / SP
-087,Tupi / MG,Athletico Paranaense / PR
-088,Sampaio Corrêa / MA,Palmeiras / SP
-089,Capivariano / SP,Botafogo / RJ
-090,Jacuipense / BA,Náutico / PE
-093,Athletico Paranaense / PR,Tupi / MG
-094,Avaí / SC,Figueirense / SC
-095,Fortaleza / CE,Coritiba / PR
-096,Maringá / PR,Santos / SP
-097,Chapecoense / SC,Sport / PE
-098,América / MG,Ceará / CE
-099,Botafogo / RJ,Capivariano / SP
-100,Independente / PA,Goiás / GO
-101,Moto Club / MA,Ponte Preta / SP
-102,América / RN,Atlético / GO
-103,Paysandu / PA,ABC / RN
-104,Palmeiras / SP,Sampaio Corrêa / MA
-105,Luverdense / MT,Bahia / BA
-106,ASA / AL,Vitória / BA
-107,CRB / AL,Grêmio / RS
-108,Goiás / GO,Independente / PA
-109,Cuiabá / MT,Vasco da Gama / RJ
-110,Figueirense / SC,Avaí / SC
-111,Sport / PE,Chapecoense / SC
-113,Coritiba / PR,Fortaleza / CE
-114,Ceará / CE,América / MG
-115,Santos / SP,Maringá / PR
-116,Ponte Preta / SP,Moto Club / MA
-117,Vitória / BA,ASA / AL
-119,ABC / RN,Paysandu / PA
-120,Atlético / GO,América / RN
-121,Vasco da Gama / RJ,Cuiabá / MT
-122,Bahia / BA,Luverdense / MT
-123,Ituano / SP,Goiás / GO
-124,Figueirense / SC,Botafogo / RJ
-125,Sport / PE,Santos / SP
-126,Coritiba / PR,Ponte Preta / SP
-127,Goiás / GO,Ituano / SP
-128,Palmeiras / SP,ASA / AL
-129,Flamengo / RJ,Náutico / PE
-130,Vasco da Gama / RJ,América / RN
-131,Ceará / CE,Tupi / MG
-132,Grêmio / RS,Criciúma / SC
-133,Paysandu / PA,Bahia / BA
-134,Botafogo / RJ,Figueirense / SC
-135,Santos / SP,Sport / PE
-136,ASA / AL,Palmeiras / SP
-137,Náutico / PE,Flamengo / RJ
-138,Ponte Preta / SP,Coritiba / PR
-139,América / RN,Vasco da Gama / RJ
-140,Tupi / MG,Ceará / CE
-141,Criciúma / SC,Grêmio / RS
-142,Bahia / BA,Paysandu / PA
-143,Coritiba / PR,Grêmio / RS
-144,Atlético Mineiro / MG,Figueirense / SC
-145,Palmeiras / SP,Cruzeiro / MG
-146,Flamengo / RJ,Vasco da Gama / RJ
-147,Santos / SP,Corinthians / SP
-148,Internacional / RS,Ituano / SP
-149,Fluminense / RJ,Paysandu / PA
-150,São Paulo / SP,Ceará / CE
-151,Ceará / CE,São Paulo / SP
-152,Paysandu / PA,Fluminense / RJ
-153,Figueirense / SC,Atlético Mineiro / MG
-154,Cruzeiro / MG,Palmeiras / SP
-155,Vasco da Gama / RJ,Flamengo / RJ
-156,Corinthians / SP,Santos / SP
-157,Ituano / SP,Internacional / RS
-158,Grêmio / RS,Coritiba / PR
-159,Figueirense / SC,Santos / SP
-160,Internacional / RS,Palmeiras / SP
-161,Fluminense / RJ,Grêmio / RS
-162,São Paulo / SP,Vasco da Gama / RJ
-163,Vasco da Gama / RJ,São Paulo / SP
-164,Palmeiras / SP,Internacional / RS
-165,Grêmio / RS,Fluminense / RJ
-166,Santos / SP,Figueirense / SC
-167,São Paulo / SP,Santos / SP
-168,Fluminense / RJ,Palmeiras / SP
-169,Santos / SP,São Paulo / SP
-170,Palmeiras / SP,Fluminense / RJ
-171,Santos / SP,Palmeiras / SP
-172,Palmeiras / SP,Santos / SP
+Game,Home,Away,Date,Time,Stadium
+001,Atlético / AC,Real Noroeste / ES,08/02/2015,19:30,Arena da Floresta / Rio Branco
+002,Real Noroeste / ES,Atlético / AC,22/02/2015,16:30,José Olimpio da Rocha / Aguia Branca
+003,Santo André / SP,Goiás / GO,25/02/2015,19:30,Primeiro de Maio / 
+004,Luziânia / DF,América / MG,25/02/2015,19:30,Zequinha Roriz / Luziania
+005,Estrela do Norte / ES,Sampaio Corrêa / MA,25/02/2015,20:30,Mário Monteiro / Cachoeiro de Itapemirim
+006,Moto Club / MA,Boa / MG,25/02/2015,20:30,Governador João Castelo / Sao Luis
+007,Alecrim / RN,Tupi / MG,04/03/2015,20:30,José Nazareno do Nascimento  / Goianinha
+008,Amadense / SE,CRB / AL,25/02/2015,20:30,Estadual Lourival Baptista / Aracaju
+009,São Raimundo / RR,ASA / AL,25/02/2015,21:30,Raimundo Ribeiro de Souza / Boa Vista
+010,Brasil / RS,Flamengo / RJ,25/02/2015,22:00,Bento da Silva Freitas / Pelotas
+011,Vilhena / RO,Ponte Preta / SP,03/03/2015,21:30,Portal da Amazônia / Vilhena
+012,Maringá / PR,Madureira / RJ,05/03/2015,21:30,Willie Davids / Maringa
+013,Independente / PA,Icasa / CE,04/03/2015,19:30,Estádio Antônio Dias / Tucuruí
+014,Santos / AP,Portuguesa / SP,04/03/2015,19:30,Milton de Souza Correia / Macapa
+015,Murici / AL,Cuiabá / MT,04/03/2015,20:30,Estádio José Gomes da Costa / Murici
+016,Vitória da Conquista / BA,Palmeiras / SP,04/03/2015,22:00,Lomanto Junior / Vitoria da Conquista
+017,Villa Nova / MG,Coritiba / PR,04/03/2015,22:00,Castor Cifuentes / Nova Lima
+018,Rio Branco / AC,Vasco da Gama / RJ,01/04/2015,19:30,Arena da Floresta / Rio Branco
+019,Capivariano / SP,Caxias / RS,04/03/2015,19:30,Carlos Colnaghi / Capivari
+020,Cabofriense / RJ,Luverdense / MT,05/03/2015,21:30,Alair Corrêa / Cabo Frio
+021,Boavista / RJ,ABC / RN,04/03/2015,16:00,Eucy Resende de Mendonça / Saquarema
+022,Londrina / PR,Santos / SP,17/03/2015,19:30,Municipal Jacy Scaff / Londrina
+023,Remo / PA,Athletico Paranaense / PR,02/04/2015,21:50,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+024,Lajeadense / RS,Red Bull Bragantino / SP,18/03/2015,19:30,Arena Alviazul / Lajeado
+025,Interporto / TO,Chapecoense / SC,18/03/2015,20:30,General Sampaio / Porto Nacional
+026,Princesa do Solimões / AM,Figueirense / SC,18/03/2015,21:30,Ismael Benigno / Manaus
+027,Real Noroeste / ES,Criciúma / SC,18/03/2015,20:30,José Olimpio da Rocha / Aguia Branca
+028,Águia Negra / MS,Paysandu / PA,18/03/2015,21:30,Ninho da Águia / Rio Brilhante
+031,Cuiabá / MT,Murici / AL,18/03/2015,21:30,Arena Pantanal / Cuiabá
+032,Luverdense / MT,Cabofriense / RJ,18/03/2015,21:30,Passo das Emas / Lucas do Rio Verde
+033,Flamengo / RJ,Brasil / RS,18/03/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+034,Caxias / RS,Capivariano / SP,19/03/2015,19:30,Francisco Stédille / Caxias do Sul
+035,Icasa / CE,Independente / PA,19/03/2015,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+038,ABC / RN,Boavista / RJ,19/03/2015,19:30,Maria Lamas Farache / Natal
+039,Anapolina / GO,Vitória / BA,01/04/2015,19:30,Jonas Duarte / Anápolis
+040,Ituano / SP,Joinville / SC,01/04/2015,19:30,Novelli Junior / Itu
+041,Confiança / SE,Ceará / CE,01/04/2015,22:00,Estadual Lourival Baptista / Aracaju
+042,Piauí / PI,Salgueiro / PE,31/03/2015,20:30,Governador Alberto Tavares Silva / Teresina
+043,Jacuipense / BA,Paraná / PR,01/04/2015,20:30,Eliel Martins / Riachão do Jacuípe
+044,Coruripe / AL,Atlético / GO,01/04/2015,20:30,Gerson Amaral / Coruripe
+045,Globo / RN,América / RN,01/04/2015,20:30,Manoel Dantas Barretto / Ceará-Mirim
+046,Operário / MT,Avaí / SC,01/04/2015,21:30,Arena Pantanal / Cuiabá
+047,Cene / MS,Sport / PE,01/04/2015,22:00,Fredis Saldivar / Dourados
+048,Botafogo / PB,Botafogo / RJ,01/04/2015,22:00,José Américo de Almeida Filho / Joao Pessoa
+049,Campinense / PB,Grêmio / RS,01/04/2015,22:00,Ernani Sátyro / Campina Grande
+050,Figueirense / SC,Princesa do Solimões / AM,01/04/2015,19:30,Orlando Scarpelli / Florianopolis
+052,Goiás / GO,Santo André / SP,01/04/2015,19:30,Serra Dourada / Goiânia
+053,Sampaio Corrêa / MA,Estrela do Norte / ES,01/04/2015,20:30,Governador João Castelo / Sao Luis
+054,Paysandu / PA,Águia Negra / MS,01/04/2015,20:30,Leônidas Sodré de Castro / Belem
+055,Brasília / DF,Náutico / PE,02/04/2015,19:30,Elmo Serejo Farias / Taguatinga
+056,Ríver / PI,Fortaleza / CE,01/04/2015,19:30,Governador Alberto Tavares Silva / Teresina
+057,Nacional / AM,Bahia / BA,02/04/2015,21:50,Ismael Benigno / Manaus
+058,Ponte Preta / SP,Vilhena / RO,02/04/2015,19:30,Moisés Lucarelli / Campinas
+060,CRB / AL,Amadense / SE,02/04/2015,19:30,Rei Pelé / Maceio
+062,Athletico Paranaense / PR,Remo / PA,15/04/2015,19:30,Joaquim Américo Guimarães / Curitiba
+063,Madureira / RJ,Maringá / PR,15/04/2015,15:00,Aniceto Moscoso / Rio de Janeiro
+064,Vitória / BA,Anapolina / GO,14/04/2015,19:30,Manoel Barradas / Salvador
+065,Avaí / SC,Operário / MT,14/04/2015,19:30,Aderbal Ramos da Silva / Florianópolis
+066,Náutico / PE,Brasília / DF,15/04/2015,22:00,Arena Pernambuco / 
+067,Paraná / PR,Jacuipense / BA,23/04/2015,19:30,Durival Britto e Silva / Curitiba
+068,Joinville / SC,Ituano / SP,15/04/2015,19:30,Arena Joinville / Joinville
+069,Ceará / CE,Confiança / SE,15/04/2015,22:00,Presidente Vargas / Fortaleza
+071,Boa / MG,Moto Club / MA,15/04/2015,20:30,Dilzon Melo / Varginha
+072,Atlético / GO,Coruripe / AL,30/04/2015,20:30,Serra Dourada / Goiânia
+073,Vasco da Gama / RJ,Rio Branco / AC,15/04/2015,22:00,São Januário / Rio de Janeiro
+074,Grêmio / RS,Campinense / PB,15/04/2015,22:00,Arena do Grêmio / Porto Alegre
+075,Fortaleza / CE,Ríver / PI,16/04/2015,21:50,Governador Plácido Castelo / Fortaleza
+078,Red Bull Bragantino / SP,Lajeadense / RS,16/04/2015,19:30,Nabi Abi Chedid / Bragança Paulista
+079,Botafogo / RJ,Botafogo / PB,15/04/2015,19:30,Estádio Olímpico João Havelange / Rio de Janeiro
+080,Santos / SP,Londrina / PR,15/04/2015,19:30,Martins Pereira / S.J. Campos
+081,Sport / PE,Cene / MS,16/04/2015,21:50,Adelmar da Costa Carvalho / Recife
+082,Bahia / BA,Nacional / AM,16/04/2015,19:30,Octávio Mangabeira / Salvador
+083,Salgueiro / PE,Flamengo / RJ,22/04/2015,22:00,Cornélio de Barros / Salgueiro
+084,Ituano / SP,Portuguesa / SP,23/04/2015,19:30,Novelli Junior / Itu
+085,Red Bull Bragantino / SP,Criciúma / SC,23/04/2015,21:00,Nabi Abi Chedid / Bragança Paulista
+086,Portuguesa / SP,Ituano / SP,28/04/2015,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
+087,Tupi / MG,Athletico Paranaense / PR,28/04/2015,21:50,Mário Helênio / Juiz de Fora
+088,Sampaio Corrêa / MA,Palmeiras / SP,29/04/2015,22:00,Governador João Castelo / Sao Luis
+089,Capivariano / SP,Botafogo / RJ,29/04/2015,22:00,Carlos Colnaghi / Capivari
+090,Jacuipense / BA,Náutico / PE,30/04/2015,19:30,Eliel Martins / Riachão do Jacuípe
+093,Athletico Paranaense / PR,Tupi / MG,06/05/2015,19:30,Estádio Joaquim Américo Guimarães / Curitiba
+094,Avaí / SC,Figueirense / SC,06/05/2015,22:00,Aderbal Ramos da Silva / Florianópolis
+095,Fortaleza / CE,Coritiba / PR,06/05/2015,19:30,Governador Plácido Castelo / Fortaleza
+096,Maringá / PR,Santos / SP,06/05/2015,22:00,Willie Davids / Maringa
+097,Chapecoense / SC,Sport / PE,06/05/2015,22:00,Regional Indio Condá / Chapecó
+098,América / MG,Ceará / CE,12/05/2015,19:30,Raimundo Sampaio / Belo Horizonte
+099,Botafogo / RJ,Capivariano / SP,06/05/2015,22:00,Estádio Olímpico João Havelange / Rio de Janeiro
+100,Independente / PA,Goiás / GO,07/05/2015,19:30,Antônio Dias / Tucurui
+101,Moto Club / MA,Ponte Preta / SP,07/05/2015,19:30,Governador João Castelo / Sao Luis
+102,América / RN,Atlético / GO,12/05/2015,19:30,Arena das Dunas / Natal
+103,Paysandu / PA,ABC / RN,12/05/2015,19:30,Leônidas Sodré de Castro / Belem
+104,Palmeiras / SP,Sampaio Corrêa / MA,12/05/2015,21:50,Allianz Parque / São Paulo
+105,Luverdense / MT,Bahia / BA,12/05/2015,21:50,Passo das Emas / Lucas do Rio Verde
+106,ASA / AL,Vitória / BA,13/05/2015,19:30,Coaracy da Mata Fonseca / Arapiraca
+107,CRB / AL,Grêmio / RS,13/05/2015,19:30,Rei Pelé / Maceio
+108,Goiás / GO,Independente / PA,13/05/2015,19:30,Serra Dourada / Goiânia
+109,Cuiabá / MT,Vasco da Gama / RJ,13/05/2015,22:00,Arena Pantanal / Cuiabá
+110,Figueirense / SC,Avaí / SC,13/05/2015,22:00,Orlando Scarpelli / Florianopolis
+111,Sport / PE,Chapecoense / SC,13/05/2015,22:00,Adelmar da Costa Carvalho / Recife
+113,Coritiba / PR,Fortaleza / CE,13/05/2015,22:00,Major Antônio do Couto Pereira / Curitiba
+114,Ceará / CE,América / MG,20/05/2015,22:00,Presidente Vargas / Fortaleza
+115,Santos / SP,Maringá / PR,13/05/2015,19:30,Urbano Caldeira / Santos
+116,Ponte Preta / SP,Moto Club / MA,13/05/2015,19:30,Moisés Lucarelli / Campinas
+117,Vitória / BA,ASA / AL,19/05/2015,19:30,Manoel Barradas / Salvador
+119,ABC / RN,Paysandu / PA,19/05/2015,19:30,Maria Lamas Farache / Natal
+120,Atlético / GO,América / RN,20/05/2015,19:30,Serra Dourada / Goiânia
+121,Vasco da Gama / RJ,Cuiabá / MT,20/05/2015,22:00,São Januário / Rio de Janeiro
+122,Bahia / BA,Luverdense / MT,20/05/2015,22:00,Octávio Mangabeira / Salvador
+123,Ituano / SP,Goiás / GO,20/05/2015,19:30,Novelli Junior / Itu
+124,Figueirense / SC,Botafogo / RJ,20/05/2015,19:30,Orlando Scarpelli / Florianopolis
+125,Sport / PE,Santos / SP,20/05/2015,22:00,Adelmar da Costa Carvalho / Recife
+126,Coritiba / PR,Ponte Preta / SP,27/05/2015,19:30,Major Antônio do Couto Pereira / Curitiba
+127,Goiás / GO,Ituano / SP,27/05/2015,19:30,Serra Dourada / Goiânia
+128,Palmeiras / SP,ASA / AL,27/05/2015,22:00,Allianz Parque / São Paulo
+129,Flamengo / RJ,Náutico / PE,27/05/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+130,Vasco da Gama / RJ,América / RN,15/07/2015,21:00,São Januário / Rio de Janeiro
+131,Ceará / CE,Tupi / MG,15/07/2015,19:30,Presidente Vargas / Fortaleza
+132,Grêmio / RS,Criciúma / SC,14/07/2015,21:00,Arena do Grêmio / Porto Alegre
+133,Paysandu / PA,Bahia / BA,15/07/2015,22:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+134,Botafogo / RJ,Figueirense / SC,14/07/2015,21:00,Estádio Olímpico João Havelange / Rio de Janeiro
+135,Santos / SP,Sport / PE,22/07/2015,22:00,Urbano Caldeira / Santos
+136,ASA / AL,Palmeiras / SP,15/07/2015,22:00,Municipal Jacy Scaff / Londrina
+137,Náutico / PE,Flamengo / RJ,15/07/2015,22:00,Arena Pernambuco / São Lourenço da Mata
+138,Ponte Preta / SP,Coritiba / PR,22/07/2015,22:00,Moisés Lucarelli / Campinas
+139,América / RN,Vasco da Gama / RJ,22/07/2015,22:00,Arena das Dunas / Natal
+140,Tupi / MG,Ceará / CE,22/07/2015,19:30,Mário Helênio / Juiz de Fora
+141,Criciúma / SC,Grêmio / RS,21/07/2015,21:00,Heriberto Hulse / Criciuma
+142,Bahia / BA,Paysandu / PA,22/07/2015,19:30,Governador Roberto Santos / Salvador
+143,Coritiba / PR,Grêmio / RS,19/08/2015,19:30,Major Antônio do Couto Pereira / Curitiba
+144,Atlético Mineiro / MG,Figueirense / SC,19/08/2015,19:30,Raimundo Sampaio / Belo Horizonte
+145,Palmeiras / SP,Cruzeiro / MG,19/08/2015,22:00,Allianz Parque / São Paulo
+146,Flamengo / RJ,Vasco da Gama / RJ,19/08/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+147,Santos / SP,Corinthians / SP,19/08/2015,22:00,Urbano Caldeira / Santos
+148,Internacional / RS,Ituano / SP,20/08/2015,19:00,José Pinheiro Borda / Porto Alegre
+149,Fluminense / RJ,Paysandu / PA,20/08/2015,19:00,Jornalista Mario Filho / Rio de Janeiro
+150,São Paulo / SP,Ceará / CE,20/08/2015,21:30,Cícero Pompeu de Toledo / Sao Paulo
+151,Ceará / CE,São Paulo / SP,26/08/2015,19:30,Governador Plácido Castelo / Fortaleza
+152,Paysandu / PA,Fluminense / RJ,26/08/2015,19:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+153,Figueirense / SC,Atlético Mineiro / MG,26/08/2015,19:30,Orlando Scarpelli / Florianopolis
+154,Cruzeiro / MG,Palmeiras / SP,26/08/2015,22:00,Governador Magalhães Pinto / Belo Horizonte
+155,Vasco da Gama / RJ,Flamengo / RJ,26/08/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+156,Corinthians / SP,Santos / SP,26/08/2015,22:00,Arena Corinthians / Itaquera/Sao Paulo
+157,Ituano / SP,Internacional / RS,27/08/2015,20:00,Novelli Junior / Itu
+158,Grêmio / RS,Coritiba / PR,27/08/2015,21:00,Arena do Grêmio / Porto Alegre
+159,Figueirense / SC,Santos / SP,23/09/2015,19:30,Orlando Scarpelli / Florianopolis
+160,Internacional / RS,Palmeiras / SP,23/09/2015,19:30,José Pinheiro Borda / Porto Alegre
+161,Fluminense / RJ,Grêmio / RS,23/09/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+162,São Paulo / SP,Vasco da Gama / RJ,23/09/2015,22:00,Cícero Pompeu de Toledo / Sao Paulo
+163,Vasco da Gama / RJ,São Paulo / SP,30/09/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+164,Palmeiras / SP,Internacional / RS,30/09/2015,22:00,Allianz Parque / São Paulo
+165,Grêmio / RS,Fluminense / RJ,30/09/2015,22:00,Arena do Grêmio / Porto Alegre
+166,Santos / SP,Figueirense / SC,01/10/2015,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+167,São Paulo / SP,Santos / SP,21/10/2015,22:00,Cícero Pompeu de Toledo / Sao Paulo
+168,Fluminense / RJ,Palmeiras / SP,21/10/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+169,Santos / SP,São Paulo / SP,28/10/2015,22:00,Urbano Caldeira / Santos
+170,Palmeiras / SP,Fluminense / RJ,28/10/2015,22:00,Allianz Parque / São Paulo
+171,Santos / SP,Palmeiras / SP,25/11/2015,22:00,Urbano Caldeira / Santos
+172,Palmeiras / SP,Santos / SP,02/12/2015,22:00,Allianz Parque / São Paulo

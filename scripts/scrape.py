@@ -195,7 +195,7 @@ def extract(competitions, min_year, max_year, cleaning=True):
                 ):
                     continue
 
-            summary = [["Game", "Home", "Away"]]
+            summary = [["Game", "Home", "Away", "Date", "Time", "Stadium"]]
             game = 0
             while True:
                 game += 1
@@ -209,6 +209,9 @@ def extract(competitions, min_year, max_year, cleaning=True):
                                 str(game).zfill(3),
                                 games[str(game).zfill(3)]["Home"],
                                 games[str(game).zfill(3)]["Away"],
+                                games[str(game).zfill(3)]["Date"],
+                                games[str(game).zfill(3)]["Time"],
+                                games[str(game).zfill(3)]["Stadium"],
                             ]
                         )
 
@@ -287,7 +290,16 @@ def extract(competitions, min_year, max_year, cleaning=True):
                     }
 
                     count_end = 0
-                    summary.append([str(game).zfill(3), clubs[0][0], clubs[0][1]])
+                    summary.append(
+                        [
+                            str(game).zfill(3),
+                            clubs[0][0],
+                            clubs[0][1],
+                            date,
+                            time,
+                            stadium,
+                        ]
+                    )
 
                 except FileNotFoundError:
                     count_end += 1

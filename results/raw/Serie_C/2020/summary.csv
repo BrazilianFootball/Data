@@ -1,207 +1,207 @@
-Game,Home,Away
-001,Paysandu / PA,Santa Cruz / PE
-002,Treze / PB,Imperatriz / MA
-003,Manaus / AM,Vila Nova / GO
-004,Ferroviário / CE,Botafogo / PB
-005,Jacuipense / BA,Remo / PA
-006,São José / RS,São Bento / SP
-007,Brusque / SC,Ypiranga / RS
-008,Ituano / SP,Tombense / MG
-009,Boa / MG,Volta Redonda / RJ
-010,Londrina / PR,Criciúma / SC
-011,Remo / PA,Ferroviário / CE
-012,Botafogo / PB,Manaus / AM
-013,Imperatriz / MA,Jacuipense / BA
-014,Santa Cruz / PE,Treze / PB
-015,Vila Nova / GO,Paysandu / PA
-016,Ypiranga / RS,Londrina / PR
-017,Criciúma / SC,Boa / MG
-018,São Bento / SP,Brusque / SC
-019,Tombense / MG,São José / RS
-020,Volta Redonda / RJ,Ituano / SP
-021,Paysandu / PA,Treze / PB
-022,Botafogo / PB,Santa Cruz / PE
-023,Imperatriz / MA,Remo / PA
-024,Ferroviário / CE,Vila Nova / GO
-025,Jacuipense / BA,Manaus / AM
-026,São José / RS,Brusque / SC
-027,Criciúma / SC,São Bento / SP
-028,Ituano / SP,Londrina / PR
-029,Boa / MG,Ypiranga / RS
-030,Volta Redonda / RJ,Tombense / MG
-031,Remo / PA,Vila Nova / GO
-032,Treze / PB,Ferroviário / CE
-033,Manaus / AM,Paysandu / PA
-034,Santa Cruz / PE,Imperatriz / MA
-035,Jacuipense / BA,Botafogo / PB
-036,São José / RS,Volta Redonda / RJ
-037,Brusque / SC,Ituano / SP
-038,São Bento / SP,Ypiranga / RS
-039,Tombense / MG,Criciúma / SC
-040,Londrina / PR,Boa / MG
-041,Paysandu / PA,Jacuipense / BA
-042,Treze / PB,Remo / PA
-043,Imperatriz / MA,Botafogo / PB
-044,Ferroviário / CE,Manaus / AM
-045,Vila Nova / GO,Santa Cruz / PE
-046,Ypiranga / RS,Tombense / MG
-047,Criciúma / SC,Volta Redonda / RJ
-048,Ituano / SP,São José / RS
-049,Boa / MG,Brusque / SC
-050,Londrina / PR,São Bento / SP
-051,Paysandu / PA,Imperatriz / MA
-052,Botafogo / PB,Vila Nova / GO
-053,Manaus / AM,Treze / PB
-054,Santa Cruz / PE,Remo / PA
-055,Jacuipense / BA,Ferroviário / CE
-056,São José / RS,Boa / MG
-057,Brusque / SC,Londrina / PR
-058,Ituano / SP,Criciúma / SC
-059,Tombense / MG,São Bento / SP
-060,Volta Redonda / RJ,Ypiranga / RS
-061,Remo / PA,Botafogo / PB
-062,Treze / PB,Jacuipense / BA
-063,Manaus / AM,Santa Cruz / PE
-064,Ferroviário / CE,Paysandu / PA
-065,Vila Nova / GO,Imperatriz / MA
-066,Ypiranga / RS,Criciúma / SC
-067,Brusque / SC,Tombense / MG
-068,São Bento / SP,Volta Redonda / RJ
-069,Boa / MG,Ituano / SP
-070,Londrina / PR,São José / RS
-071,Remo / PA,Manaus / AM
-072,Botafogo / PB,Paysandu / PA
-073,Imperatriz / MA,Ferroviário / CE
-074,Santa Cruz / PE,Jacuipense / BA
-075,Vila Nova / GO,Treze / PB
-076,Ypiranga / RS,Ituano / SP
-077,Criciúma / SC,São José / RS
-078,São Bento / SP,Boa / MG
-079,Tombense / MG,Londrina / PR
-080,Volta Redonda / RJ,Brusque / SC
-081,Treze / PB,Botafogo / PB
-082,Manaus / AM,Imperatriz / MA
-083,Ferroviário / CE,Santa Cruz / PE
-084,Jacuipense / BA,Vila Nova / GO
-085,Paysandu / PA,Remo / PA
-086,São José / RS,Ypiranga / RS
-087,Brusque / SC,Criciúma / SC
-088,Ituano / SP,São Bento / SP
-089,Boa / MG,Tombense / MG
-090,Londrina / PR,Volta Redonda / RJ
-091,Remo / PA,Jacuipense / BA
-092,Botafogo / PB,Ferroviário / CE
-093,Imperatriz / MA,Treze / PB
-094,Santa Cruz / PE,Paysandu / PA
-095,Vila Nova / GO,Manaus / AM
-096,Ypiranga / RS,Brusque / SC
-097,Criciúma / SC,Londrina / PR
-098,São Bento / SP,São José / RS
-099,Tombense / MG,Ituano / SP
-100,Volta Redonda / RJ,Boa / MG
-101,Paysandu / PA,Vila Nova / GO
-102,Treze / PB,Santa Cruz / PE
-103,Manaus / AM,Botafogo / PB
-104,Ferroviário / CE,Remo / PA
-105,Jacuipense / BA,Imperatriz / MA
-106,São José / RS,Tombense / MG
-107,Brusque / SC,São Bento / SP
-108,Ituano / SP,Volta Redonda / RJ
-109,Boa / MG,Criciúma / SC
-110,Londrina / PR,Ypiranga / RS
-111,Remo / PA,Imperatriz / MA
-112,Treze / PB,Paysandu / PA
-113,Manaus / AM,Jacuipense / BA
-114,Santa Cruz / PE,Botafogo / PB
-115,Vila Nova / GO,Ferroviário / CE
-116,Ypiranga / RS,Boa / MG
-117,Brusque / SC,São José / RS
-118,São Bento / SP,Criciúma / SC
-119,Tombense / MG,Volta Redonda / RJ
-120,Londrina / PR,Ituano / SP
-121,Paysandu / PA,Manaus / AM
-122,Botafogo / PB,Jacuipense / BA
-123,Imperatriz / MA,Santa Cruz / PE
-124,Ferroviário / CE,Treze / PB
-125,Vila Nova / GO,Remo / PA
-126,Ypiranga / RS,São Bento / SP
-127,Criciúma / SC,Tombense / MG
-128,Ituano / SP,Brusque / SC
-129,Boa / MG,Londrina / PR
-130,Volta Redonda / RJ,São José / RS
-131,Remo / PA,Treze / PB
-132,Botafogo / PB,Imperatriz / MA
-133,Manaus / AM,Ferroviário / CE
-134,Santa Cruz / PE,Vila Nova / GO
-135,Jacuipense / BA,Paysandu / PA
-136,São José / RS,Ituano / SP
-137,Brusque / SC,Boa / MG
-138,São Bento / SP,Londrina / PR
-139,Tombense / MG,Ypiranga / RS
-140,Volta Redonda / RJ,Criciúma / SC
-141,Remo / PA,Santa Cruz / PE
-142,Treze / PB,Manaus / AM
-143,Imperatriz / MA,Paysandu / PA
-144,Ferroviário / CE,Jacuipense / BA
-145,Vila Nova / GO,Botafogo / PB
-146,Ypiranga / RS,Volta Redonda / RJ
-147,Criciúma / SC,Ituano / SP
-148,São Bento / SP,Tombense / MG
-149,Boa / MG,São José / RS
-150,Londrina / PR,Brusque / SC
-151,Paysandu / PA,Ferroviário / CE
-152,Botafogo / PB,Remo / PA
-153,Imperatriz / MA,Vila Nova / GO
-154,Santa Cruz / PE,Manaus / AM
-155,Jacuipense / BA,Treze / PB
-156,São José / RS,Londrina / PR
-157,Criciúma / SC,Ypiranga / RS
-158,Ituano / SP,Boa / MG
-159,Tombense / MG,Brusque / SC
-160,Volta Redonda / RJ,São Bento / SP
-161,Paysandu / PA,Botafogo / PB
-162,Treze / PB,Vila Nova / GO
-163,Manaus / AM,Remo / PA
-164,Ferroviário / CE,Imperatriz / MA
-165,Jacuipense / BA,Santa Cruz / PE
-166,São José / RS,Criciúma / SC
-167,Brusque / SC,Volta Redonda / RJ
-168,Ituano / SP,Ypiranga / RS
-169,Boa / MG,São Bento / SP
-170,Londrina / PR,Tombense / MG
-171,Remo / PA,Paysandu / PA
-172,Botafogo / PB,Treze / PB
-173,Imperatriz / MA,Manaus / AM
-174,Santa Cruz / PE,Ferroviário / CE
-175,Vila Nova / GO,Jacuipense / BA
-176,Ypiranga / RS,São José / RS
-177,Criciúma / SC,Brusque / SC
-178,São Bento / SP,Ituano / SP
-179,Tombense / MG,Boa / MG
-180,Volta Redonda / RJ,Londrina / PR
-181,Brusque / SC,Santa Cruz / PE
-182,Vila Nova / GO,Ituano / SP
-183,Paysandu / PA,Ypiranga / RS
-184,Londrina / PR,Remo / PA
-185,Santa Cruz / PE,Vila Nova / GO
-186,Ituano / SP,Brusque / SC
-187,Ypiranga / RS,Londrina / PR
-188,Remo / PA,Paysandu / PA
-189,Ituano / SP,Santa Cruz / PE
-190,Brusque / SC,Vila Nova / GO
-191,Remo / PA,Ypiranga / RS
-192,Paysandu / PA,Londrina / PR
-193,Santa Cruz / PE,Ituano / SP
-194,Vila Nova / GO,Brusque / SC
-195,Ypiranga / RS,Remo / PA
-196,Londrina / PR,Paysandu / PA
-197,Vila Nova / GO,Santa Cruz / PE
-198,Brusque / SC,Ituano / SP
-199,Londrina / PR,Ypiranga / RS
-200,Paysandu / PA,Remo / PA
-201,Santa Cruz / PE,Brusque / SC
-202,Ituano / SP,Vila Nova / GO
-203,Ypiranga / RS,Paysandu / PA
-204,Remo / PA,Londrina / PR
-205,Vila Nova / GO,Remo / PA
-206,Remo / PA,Vila Nova / GO
+Game,Home,Away,Date,Time,Stadium
+001,Paysandu / PA,Santa Cruz / PE,08/08/2020,17:00,Leônidas Sobré de Castro / Belem
+002,Treze / PB,Imperatriz / MA,08/10/2020,20:00,Ernani Sátyro / Campina Grande
+003,Manaus / AM,Vila Nova / GO,08/08/2020,19:00,Arena da Amazônia / Manaus
+004,Ferroviário / CE,Botafogo / PB,09/08/2020,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+005,Jacuipense / BA,Remo / PA,09/08/2020,18:00,Eliel Martins / Riachao do Jacuipe
+006,São José / RS,São Bento / SP,08/08/2020,15:00,CT Hélio Dourado / Eldorado do Sul
+007,Brusque / SC,Ypiranga / RS,08/08/2020,17:00,Augusto Bauer / Brusque
+008,Ituano / SP,Tombense / MG,08/08/2020,16:00,José Liberatti / Osasco
+009,Boa / MG,Volta Redonda / RJ,10/08/2020,18:00,Dilzon Luís de Melo / Varginha
+010,Londrina / PR,Criciúma / SC,10/08/2020,20:00,Jacy Scaff / Londrina
+011,Remo / PA,Ferroviário / CE,16/08/2020,18:00,Olímpico do Pará / Belem
+012,Botafogo / PB,Manaus / AM,17/08/2020,20:00,José Américo de Almeida Filho / Joao Pessoa
+013,Imperatriz / MA,Jacuipense / BA,14/10/2020,20:00,Frei Epifânio D´abadia / Imperatriz
+014,Santa Cruz / PE,Treze / PB,18/08/2020,20:00,José do Rêgo Maciel / Recife
+015,Vila Nova / GO,Paysandu / PA,15/08/2020,17:00,Onésio Brasileiro Alvarenga / Goiania
+016,Ypiranga / RS,Londrina / PR,16/08/2020,16:00,Colosso da Lagoa / Erechim
+017,Criciúma / SC,Boa / MG,15/08/2020,19:00,Heriberto Hulse / Criciuma
+018,São Bento / SP,Brusque / SC,13/08/2020,20:00,Walter Ribeiro / Sorocaba
+019,Tombense / MG,São José / RS,15/08/2020,16:00,Antônio Guimarães de Almeida / Tombos
+020,Volta Redonda / RJ,Ituano / SP,17/08/2020,15:30,Luso Brasileiro / Rio de Janeiro
+021,Paysandu / PA,Treze / PB,22/08/2020,19:00,Leônidas Sobré de Castro / Belem
+022,Botafogo / PB,Santa Cruz / PE,23/08/2020,18:00,José Américo de Almeida Filho / Joao Pessoa
+023,Imperatriz / MA,Remo / PA,24/08/2020,20:00,Frei Epifânio D´abadia / Imperatriz
+024,Ferroviário / CE,Vila Nova / GO,22/08/2020,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+025,Jacuipense / BA,Manaus / AM,22/08/2020,15:00,Roberto Santos / Salvador
+026,São José / RS,Brusque / SC,20/08/2020,20:00,Francisco Novelletto Neto / Porto Alegre
+027,Criciúma / SC,São Bento / SP,24/08/2020,20:00,Heriberto Hulse / Criciuma
+028,Ituano / SP,Londrina / PR,23/08/2020,16:00,Novelli Junior / Itu
+029,Boa / MG,Ypiranga / RS,23/08/2020,16:00,Dilzon Luís de Melo / Varginha
+030,Volta Redonda / RJ,Tombense / MG,22/08/2020,15:30,Luso Brasileiro / Rio de Janeiro
+031,Remo / PA,Vila Nova / GO,30/08/2020,18:00,Olímpico do Pará / Belem
+032,Treze / PB,Ferroviário / CE,30/08/2020,20:00,Ernani Sátyro / Campina Grande
+033,Manaus / AM,Paysandu / PA,29/08/2020,19:00,Arena da Amazônia / Manaus
+034,Santa Cruz / PE,Imperatriz / MA,29/08/2020,17:00,José do Rêgo Maciel / Recife
+035,Jacuipense / BA,Botafogo / PB,28/08/2020,20:00,Roberto Santos / Salvador
+036,São José / RS,Volta Redonda / RJ,30/08/2020,16:00,Francisco Novelletto Neto / Porto Alegre
+037,Brusque / SC,Ituano / SP,30/08/2020,16:00,Augusto Bauer / Brusque
+038,São Bento / SP,Ypiranga / RS,02/09/2020,16:00,Walter Ribeiro / Sorocaba
+039,Tombense / MG,Criciúma / SC,30/09/2020,20:00,Antônio Guimarães de Almeida / Tombos
+040,Londrina / PR,Boa / MG,30/08/2020,16:00,Jacy Scaff / Londrina
+041,Paysandu / PA,Jacuipense / BA,09/09/2020,20:00,Leônidas Sobré de Castro / Belem
+042,Treze / PB,Remo / PA,10/09/2020,20:00,Ernani Sátyro / Campina Grande
+043,Imperatriz / MA,Botafogo / PB,05/09/2020,17:00,Frei Epifânio D´abadia / Imperatriz
+044,Ferroviário / CE,Manaus / AM,06/09/2020,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+045,Vila Nova / GO,Santa Cruz / PE,05/09/2020,19:00,Onésio Brasileiro Alvarenga / Goiania
+046,Ypiranga / RS,Tombense / MG,06/09/2020,15:30,Colosso da Lagoa / Erechim
+047,Criciúma / SC,Volta Redonda / RJ,06/09/2020,16:00,Heriberto Hulse / Criciuma
+048,Ituano / SP,São José / RS,05/09/2020,16:00,Novelli Junior / Itu
+049,Boa / MG,Brusque / SC,06/09/2020,16:00,Dilzon Luís de Melo / Varginha
+050,Londrina / PR,São Bento / SP,05/09/2020,16:00,Jacy Scaff / Londrina
+051,Paysandu / PA,Imperatriz / MA,12/09/2020,19:00,Leônidas Sobré de Castro / Belem
+052,Botafogo / PB,Vila Nova / GO,12/09/2020,17:00,José Américo de Almeida Filho / Joao Pessoa
+053,Manaus / AM,Treze / PB,14/09/2020,18:00,Arena da Amazônia / Manaus
+054,Santa Cruz / PE,Remo / PA,13/09/2020,18:00,José do Rêgo Maciel / Recife
+055,Jacuipense / BA,Ferroviário / CE,14/09/2020,20:00,Roberto Santos / Salvador
+056,São José / RS,Boa / MG,12/09/2020,15:00,Francisco Novelletto Neto / Porto Alegre
+057,Brusque / SC,Londrina / PR,01/10/2020,20:00,Augusto Bauer / Brusque
+058,Ituano / SP,Criciúma / SC,11/09/2020,20:00,Novelli Junior / Itu
+059,Tombense / MG,São Bento / SP,12/09/2020,16:00,Antônio Guimarães de Almeida / Tombos
+060,Volta Redonda / RJ,Ypiranga / RS,10/09/2020,15:00,Luso Brasileiro / Rio de Janeiro
+061,Remo / PA,Botafogo / PB,20/09/2020,18:00,Olímpico do Pará / Belem
+062,Treze / PB,Jacuipense / BA,19/09/2020,17:00,Ernani Sátyro / Campina Grande
+063,Manaus / AM,Santa Cruz / PE,19/09/2020,19:00,Arena da Amazônia / Manaus
+064,Ferroviário / CE,Paysandu / PA,20/09/2020,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+065,Vila Nova / GO,Imperatriz / MA,21/09/2020,20:00,Onésio Brasileiro Alvarenga / Goiania
+066,Ypiranga / RS,Criciúma / SC,20/09/2020,16:00,Colosso da Lagoa / Erechim
+067,Brusque / SC,Tombense / MG,20/09/2020,16:00,Augusto Bauer / Brusque
+068,São Bento / SP,Volta Redonda / RJ,19/09/2020,16:00,Walter Ribeiro / Sorocaba
+069,Boa / MG,Ituano / SP,20/09/2020,16:00,Dilzon Luís de Melo / Varginha
+070,Londrina / PR,São José / RS,17/09/2020,20:00,Jacy Scaff / Londrina
+071,Remo / PA,Manaus / AM,27/09/2020,18:00,Olímpico do Pará / Belem
+072,Botafogo / PB,Paysandu / PA,26/09/2020,19:00,José Américo de Almeida Filho / Joao Pessoa
+073,Imperatriz / MA,Ferroviário / CE,26/09/2020,17:00,Frei Epifânio D´abadia / Imperatriz
+074,Santa Cruz / PE,Jacuipense / BA,28/09/2020,20:00,José do Rêgo Maciel / Recife
+075,Vila Nova / GO,Treze / PB,26/09/2020,19:00,Onésio Brasileiro Alvarenga / Goiania
+076,Ypiranga / RS,Ituano / SP,27/09/2020,15:30,Colosso da Lagoa / Erechim
+077,Criciúma / SC,São José / RS,25/09/2020,20:00,Heriberto Hulse / Criciuma
+078,São Bento / SP,Boa / MG,26/09/2020,16:00,Walter Ribeiro / Sorocaba
+079,Tombense / MG,Londrina / PR,27/09/2020,16:00,Antônio Guimarães de Almeida / Tombos
+080,Volta Redonda / RJ,Brusque / SC,27/09/2020,15:00,Luso Brasileiro / Rio de Janeiro
+081,Treze / PB,Botafogo / PB,03/10/2020,17:00,Ernani Sátyro / Campina Grande
+082,Manaus / AM,Imperatriz / MA,03/10/2020,17:00,Arena da Amazônia / Manaus
+083,Ferroviário / CE,Santa Cruz / PE,04/10/2020,15:30,Horácio Domingos de Sousa / Horizonte
+084,Jacuipense / BA,Vila Nova / GO,05/10/2020,20:00,Roberto Santos / Salvador
+085,Paysandu / PA,Remo / PA,03/10/2020,19:00,Olímpico do Pará / Belem
+086,São José / RS,Ypiranga / RS,03/10/2020,15:00,Francisco Novelletto Neto / Porto Alegre
+087,Brusque / SC,Criciúma / SC,05/10/2020,20:00,Augusto Bauer / Brusque
+088,Ituano / SP,São Bento / SP,02/10/2020,20:00,Novelli Junior / Itu
+089,Boa / MG,Tombense / MG,04/10/2020,16:00,Dilzon Luís de Melo / Varginha
+090,Londrina / PR,Volta Redonda / RJ,04/10/2020,16:00,Jacy Scaff / Londrina
+091,Remo / PA,Jacuipense / BA,10/10/2020,19:00,Olímpico do Pará / Belem
+092,Botafogo / PB,Ferroviário / CE,10/10/2020,17:00,José Américo de Almeida Filho / Joao Pessoa
+093,Imperatriz / MA,Treze / PB,11/10/2020,18:00,Frei Epifânio D´abadia / Imperatriz
+094,Santa Cruz / PE,Paysandu / PA,11/10/2020,18:00,José do Rêgo Maciel / Recife
+095,Vila Nova / GO,Manaus / AM,12/10/2020,20:00,Onésio Brasileiro Alvarenga / Goiania
+096,Ypiranga / RS,Brusque / SC,11/10/2020,15:30,Colosso da Lagoa / Erechim
+097,Criciúma / SC,Londrina / PR,11/10/2020,20:00,Heriberto Hulse / Criciuma
+098,São Bento / SP,São José / RS,15/10/2020,20:00,Walter Ribeiro / Sorocaba
+099,Tombense / MG,Ituano / SP,10/10/2020,17:00,Antônio Guimarães de Almeida / Tombos
+100,Volta Redonda / RJ,Boa / MG,10/10/2020,15:00,Luso Brasileiro / Rio de Janeiro
+101,Paysandu / PA,Vila Nova / GO,18/10/2020,18:00,Olímpico do Pará / Belem
+102,Treze / PB,Santa Cruz / PE,17/10/2020,19:00,Ernani Sátyro / Campina Grande
+103,Manaus / AM,Botafogo / PB,19/10/2020,20:00,Arena da Amazônia / Manaus
+104,Ferroviário / CE,Remo / PA,17/10/2020,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+105,Jacuipense / BA,Imperatriz / MA,18/10/2020,16:00,Roberto Santos / Salvador
+106,São José / RS,Tombense / MG,19/10/2020,16:00,Francisco Novelletto Neto / Porto Alegre
+107,Brusque / SC,São Bento / SP,18/10/2020,16:00,Augusto Bauer / Brusque
+108,Ituano / SP,Volta Redonda / RJ,15/10/2020,20:00,Novelli Junior / Itu
+109,Boa / MG,Criciúma / SC,18/10/2020,16:00,Dilzon Luís de Melo / Varginha
+110,Londrina / PR,Ypiranga / RS,18/10/2020,16:00,Jacy Scaff / Londrina
+111,Remo / PA,Imperatriz / MA,24/10/2020,19:00,Olímpico do Pará / Belem
+112,Treze / PB,Paysandu / PA,24/10/2020,17:00,Ernani Sátyro / Campina Grande
+113,Manaus / AM,Jacuipense / BA,24/10/2020,17:00,Arena da Amazônia / Manaus
+114,Santa Cruz / PE,Botafogo / PB,25/10/2020,18:00,José do Rêgo Maciel / Recife
+115,Vila Nova / GO,Ferroviário / CE,26/10/2020,20:00,Onésio Brasileiro Alvarenga / Goiania
+116,Ypiranga / RS,Boa / MG,25/10/2020,15:30,Colosso da Lagoa / Erechim
+117,Brusque / SC,São José / RS,25/10/2020,16:00,Augusto Bauer / Brusque
+118,São Bento / SP,Criciúma / SC,26/10/2020,18:00,Walter Ribeiro / Sorocaba
+119,Tombense / MG,Volta Redonda / RJ,25/10/2020,17:00,Antônio Guimarães de Almeida / Tombos
+120,Londrina / PR,Ituano / SP,25/10/2020,16:00,Jacy Scaff / Londrina
+121,Paysandu / PA,Manaus / AM,31/10/2020,19:00,Olímpico do Pará / Belem
+122,Botafogo / PB,Jacuipense / BA,01/11/2020,18:00,José Américo de Almeida Filho / Joao Pessoa
+123,Imperatriz / MA,Santa Cruz / PE,31/10/2020,17:00,Frei Epifânio D´abadia / Imperatriz
+124,Ferroviário / CE,Treze / PB,01/11/2020,15:30,Horácio Domingos de Sousa / Horizonte
+125,Vila Nova / GO,Remo / PA,01/11/2020,18:00,Onésio Brasileiro Alvarenga / Goiania
+126,Ypiranga / RS,São Bento / SP,01/11/2020,16:30,Colosso da Lagoa / Erechim
+127,Criciúma / SC,Tombense / MG,01/11/2020,16:00,Heriberto Hulse / Criciuma
+128,Ituano / SP,Brusque / SC,29/10/2020,20:00,Novelli Junior / Itu
+129,Boa / MG,Londrina / PR,01/11/2020,16:00,Dilzon Luís de Melo / Varginha
+130,Volta Redonda / RJ,São José / RS,01/11/2020,15:00,Luso Brasileiro / Rio de Janeiro
+131,Remo / PA,Treze / PB,08/11/2020,18:00,Olímpico do Pará / Belem
+132,Botafogo / PB,Imperatriz / MA,07/11/2020,17:00,José Américo de Almeida Filho / Joao Pessoa
+133,Manaus / AM,Ferroviário / CE,07/11/2020,17:00,Arena da Amazônia / Manaus
+134,Santa Cruz / PE,Vila Nova / GO,07/11/2020,19:00,José do Rêgo Maciel / Recife
+135,Jacuipense / BA,Paysandu / PA,08/11/2020,20:00,Roberto Santos / Salvador
+136,São José / RS,Ituano / SP,07/11/2020,15:00,Francisco Novelletto Neto / Porto Alegre
+137,Brusque / SC,Boa / MG,09/11/2020,20:00,Augusto Bauer / Brusque
+138,São Bento / SP,Londrina / PR,07/11/2020,16:00,Walter Ribeiro / Sorocaba
+139,Tombense / MG,Ypiranga / RS,07/11/2020,17:00,Antônio Guimarães de Almeida / Tombos
+140,Volta Redonda / RJ,Criciúma / SC,07/11/2020,15:00,Luso Brasileiro / Rio de Janeiro
+141,Remo / PA,Santa Cruz / PE,13/11/2020,20:00,Olímpico do Pará / Belem
+142,Treze / PB,Manaus / AM,14/11/2020,17:00,Ernani Sátyro / Campina Grande
+143,Imperatriz / MA,Paysandu / PA,16/11/2020,20:00,Frei Epifânio D´abadia / Imperatriz
+144,Ferroviário / CE,Jacuipense / BA,14/11/2020,15:00,Horácio Domingos de Sousa / Horizonte
+145,Vila Nova / GO,Botafogo / PB,16/11/2020,18:00,Onésio Brasileiro Alvarenga / Goiania
+146,Ypiranga / RS,Volta Redonda / RJ,14/11/2020,16:00,Colosso da Lagoa / Erechim
+147,Criciúma / SC,Ituano / SP,14/11/2020,18:00,Heriberto Hulse / Criciuma
+148,São Bento / SP,Tombense / MG,14/11/2020,16:00,Walter Ribeiro / Sorocaba
+149,Boa / MG,São José / RS,16/11/2020,16:00,Dilzon Luís de Melo / Varginha
+150,Londrina / PR,Brusque / SC,14/11/2020,19:00,Jacy Scaff / Londrina
+151,Paysandu / PA,Ferroviário / CE,22/11/2020,18:00,Olímpico do Pará / Belem
+152,Botafogo / PB,Remo / PA,23/11/2020,20:00,José Américo de Almeida Filho / Joao Pessoa
+153,Imperatriz / MA,Vila Nova / GO,21/11/2020,17:00,Frei Epifânio D´abadia / Imperatriz
+154,Santa Cruz / PE,Manaus / AM,21/11/2020,19:00,José do Rêgo Maciel / Recife
+155,Jacuipense / BA,Treze / PB,22/11/2020,20:00,Roberto Santos / Salvador
+156,São José / RS,Londrina / PR,22/11/2020,15:00,Francisco Novelletto Neto / Porto Alegre
+157,Criciúma / SC,Ypiranga / RS,19/11/2020,20:00,Heriberto Hulse / Criciuma
+158,Ituano / SP,Boa / MG,21/11/2020,16:00,Novelli Junior / Itu
+159,Tombense / MG,Brusque / SC,21/11/2020,17:00,Antônio Guimarães de Almeida / Tombos
+160,Volta Redonda / RJ,São Bento / SP,22/11/2020,15:00,Luso Brasileiro / Rio de Janeiro
+161,Paysandu / PA,Botafogo / PB,27/11/2020,20:00,Olímpico do Pará / Belem
+162,Treze / PB,Vila Nova / GO,28/11/2020,17:00,Ernani Sátyro / Campina Grande
+163,Manaus / AM,Remo / PA,28/11/2020,19:00,Arena da Amazônia / Manaus
+164,Ferroviário / CE,Imperatriz / MA,28/11/2020,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+165,Jacuipense / BA,Santa Cruz / PE,30/11/2020,20:00,Roberto Santos / Salvador
+166,São José / RS,Criciúma / SC,28/11/2020,15:00,Francisco Novelletto Neto / Porto Alegre
+167,Brusque / SC,Volta Redonda / RJ,28/11/2020,15:00,Augusto Bauer / Brusque
+168,Ituano / SP,Ypiranga / RS,28/11/2020,16:00,Novelli Junior / Itu
+169,Boa / MG,São Bento / SP,28/11/2020,16:00,Dilzon Luís de Melo / Varginha
+170,Londrina / PR,Tombense / MG,28/11/2020,16:00,Jacy Scaff / Londrina
+171,Remo / PA,Paysandu / PA,05/12/2020,17:00,Olímpico do Pará / Belem
+172,Botafogo / PB,Treze / PB,05/12/2020,17:00,José Américo de Almeida Filho / Joao Pessoa
+173,Imperatriz / MA,Manaus / AM,05/12/2020,17:00,Frei Epifânio D´abadia / Imperatriz
+174,Santa Cruz / PE,Ferroviário / CE,05/12/2020,17:00,José do Rêgo Maciel / Recife
+175,Vila Nova / GO,Jacuipense / BA,05/12/2020,17:00,Olímpico Pedro Ludovico / Goiania
+176,Ypiranga / RS,São José / RS,05/12/2020,19:00,Colosso da Lagoa / Erechim
+177,Criciúma / SC,Brusque / SC,05/12/2020,19:00,Heriberto Hulse / Criciuma
+178,São Bento / SP,Ituano / SP,05/12/2020,19:00,Walter Ribeiro / Sorocaba
+179,Tombense / MG,Boa / MG,05/12/2020,19:00,Antônio Guimarães de Almeida / Tombos
+180,Volta Redonda / RJ,Londrina / PR,05/12/2020,19:00,Luso Brasileiro / Rio de Janeiro
+181,Brusque / SC,Santa Cruz / PE,13/12/2020,20:00,Augusto Bauer / Brusque
+182,Vila Nova / GO,Ituano / SP,14/12/2020,20:00,Olímpico Pedro Ludovico / Goiania
+183,Paysandu / PA,Ypiranga / RS,13/12/2020,18:00,Olímpico do Pará / Belem
+184,Londrina / PR,Remo / PA,12/12/2020,17:00,Jacy Scaff / Londrina
+185,Santa Cruz / PE,Vila Nova / GO,19/12/2020,17:00,José do Rêgo Maciel / Recife
+186,Ituano / SP,Brusque / SC,21/12/2020,20:00,Novelli Junior / Itu
+187,Ypiranga / RS,Londrina / PR,20/12/2020,20:00,Colosso da Lagoa / Erechim
+188,Remo / PA,Paysandu / PA,20/12/2020,18:00,Olímpico do Pará / Belem
+189,Ituano / SP,Santa Cruz / PE,26/12/2020,19:00,Novelli Junior / Itu
+190,Brusque / SC,Vila Nova / GO,26/12/2020,21:00,Augusto Bauer / Brusque
+191,Remo / PA,Ypiranga / RS,27/12/2020,18:00,Olímpico do Pará / Belem
+192,Paysandu / PA,Londrina / PR,26/12/2020,17:00,Olímpico do Pará / Belem
+193,Santa Cruz / PE,Ituano / SP,03/01/2021,18:00,José do Rêgo Maciel / Recife
+194,Vila Nova / GO,Brusque / SC,02/01/2021,17:00,Onésio Brasileiro Alvarenga / Goiania
+195,Ypiranga / RS,Remo / PA,03/01/2021,20:00,Colosso da Lagoa / Erechim
+196,Londrina / PR,Paysandu / PA,04/01/2021,20:00,Jacy Scaff / Londrina
+197,Vila Nova / GO,Santa Cruz / PE,09/01/2021,17:00,Onésio Brasileiro Alvarenga / Goiania
+198,Brusque / SC,Ituano / SP,11/01/2021,20:00,Augusto Bauer / Brusque
+199,Londrina / PR,Ypiranga / RS,10/01/2021,20:00,Jacy Scaff / Londrina
+200,Paysandu / PA,Remo / PA,10/01/2021,18:00,Olímpico do Pará / Belem
+201,Santa Cruz / PE,Brusque / SC,17/01/2021,18:00,José do Rêgo Maciel / Recife
+202,Ituano / SP,Vila Nova / GO,17/01/2021,18:00,Novelli Junior / Itu
+203,Ypiranga / RS,Paysandu / PA,16/01/2021,17:00,Colosso da Lagoa / Erechim
+204,Remo / PA,Londrina / PR,16/01/2021,17:00,Olímpico do Pará / Belem
+205,Vila Nova / GO,Remo / PA,23/01/2021,17:00,Onésio Brasileiro Alvarenga / Goiania
+206,Remo / PA,Vila Nova / GO,30/01/2021,17:00,Olímpico do Pará / Belem

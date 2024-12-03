@@ -1,380 +1,380 @@
-Game,Home,Away
-001,Cruzeiro / MG,Botafogo / SP
-002,Avaí / SC,Náutico / PE
-003,CSA / AL,Guarani / SP
-004,Ponte Preta / SP,América / MG
-005,Oeste / SP,Chapecoense / SC
-006,Operário / PR,Figueirense / SC
-007,Juventude / RS,CRB / AL
-008,Vitória / BA,Sampaio Corrêa / MA
-009,Confiança / SE,Paraná / PR
-010,Cuiabá / MT,Brasil / RS
-011,América / MG,Cuiabá / MT
-012,Figueirense / SC,Vitória / BA
-013,CRB / AL,Oeste / SP
-014,Guarani / SP,Cruzeiro / MG
-015,Botafogo / SP,Confiança / SE
-016,Paraná / PR,Avaí / SC
-017,Brasil / RS,Ponte Preta / SP
-018,Náutico / PE,Operário / PR
-019,Sampaio Corrêa / MA,Juventude / RS
-020,Chapecoense / SC,CSA / AL
-021,América / MG,Operário / PR
-022,Figueirense / SC,Cruzeiro / MG
-023,CSA / AL,Cuiabá / MT
-024,Ponte Preta / SP,Vitória / BA
-025,Botafogo / SP,Guarani / SP
-026,Paraná / PR,Juventude / RS
-027,Brasil / RS,Oeste / SP
-028,Náutico / PE,CRB / AL
-029,Confiança / SE,Avaí / SC
-030,Chapecoense / SC,Sampaio Corrêa / MA
-031,Cruzeiro / MG,Chapecoense / SC
-032,Avaí / SC,Botafogo / SP
-033,CRB / AL,Brasil / RS
-034,Guarani / SP,Paraná / PR
-035,Oeste / SP,Ponte Preta / SP
-036,Operário / PR,CSA / AL
-037,Juventude / RS,América / MG
-038,Vitória / BA,Náutico / PE
-039,Sampaio Corrêa / MA,Figueirense / SC
-040,Cuiabá / MT,Confiança / SE
-041,América / MG,Oeste / SP
-042,Avaí / SC,Cuiabá / MT
-043,CRB / AL,Vitória / BA
-044,Ponte Preta / SP,CSA / AL
-045,Botafogo / SP,Figueirense / SC
-046,Paraná / PR,Operário / PR
-047,Brasil / RS,Sampaio Corrêa / MA
-048,Náutico / PE,Juventude / RS
-049,Confiança / SE,Cruzeiro / MG
-050,Chapecoense / SC,Guarani / SP
-051,Cruzeiro / MG,América / MG
-052,Figueirense / SC,Confiança / SE
-053,CSA / AL,CRB / AL
-054,Guarani / SP,Náutico / PE
-055,Oeste / SP,Avaí / SC
-056,Operário / PR,Brasil / RS
-057,Juventude / RS,Botafogo / SP
-058,Vitória / BA,Paraná / PR
-059,Sampaio Corrêa / MA,Ponte Preta / SP
-060,Cuiabá / MT,Chapecoense / SC
-061,América / MG,CSA / AL
-062,Avaí / SC,Operário / PR
-063,CRB / AL,Sampaio Corrêa / MA
-064,Guarani / SP,Oeste / SP
-065,Botafogo / SP,Cuiabá / MT
-066,Paraná / PR,Ponte Preta / SP
-067,Brasil / RS,Cruzeiro / MG
-068,Náutico / PE,Figueirense / SC
-069,Confiança / SE,Vitória / BA
-070,Chapecoense / SC,Juventude / RS
-071,Cruzeiro / MG,CRB / AL
-072,Figueirense / SC,Paraná / PR
-073,CSA / AL,Confiança / SE
-074,Ponte Preta / SP,Botafogo / SP
-075,Oeste / SP,Juventude / RS
-076,Operário / PR,Guarani / SP
-077,Brasil / RS,Náutico / PE
-078,Vitória / BA,Cuiabá / MT
-079,Sampaio Corrêa / MA,América / MG
-080,Chapecoense / SC,Avaí / SC
-081,Cruzeiro / MG,Vitória / BA
-082,Avaí / SC,Ponte Preta / SP
-083,CRB / AL,Chapecoense / SC
-084,Guarani / SP,Brasil / RS
-085,Oeste / SP,CSA / AL
-086,Paraná / PR,América / MG
-087,Juventude / RS,Confiança / SE
-088,Náutico / PE,Botafogo / SP
-089,Sampaio Corrêa / MA,Operário / PR
-090,Cuiabá / MT,Figueirense / SC
-091,América / MG,Figueirense / SC
-092,Avaí / SC,Sampaio Corrêa / MA
-093,CSA / AL,Cruzeiro / MG
-094,Ponte Preta / SP,Operário / PR
-095,Botafogo / SP,Brasil / RS
-096,Paraná / PR,CRB / AL
-097,Juventude / RS,Vitória / BA
-098,Náutico / PE,Chapecoense / SC
-099,Confiança / SE,Guarani / SP
-100,Cuiabá / MT,Oeste / SP
-101,Cruzeiro / MG,Avaí / SC
-102,Figueirense / SC,Guarani / SP
-103,CSA / AL,Juventude / RS
-104,Ponte Preta / SP,Confiança / SE
-105,Botafogo / SP,CRB / AL
-106,Operário / PR,Cuiabá / MT
-107,Brasil / RS,Paraná / PR
-108,Vitória / BA,Oeste / SP
-109,Sampaio Corrêa / MA,Náutico / PE
-110,Chapecoense / SC,América / MG
-111,Cruzeiro / MG,Ponte Preta / SP
-112,Avaí / SC,Figueirense / SC
-113,CRB / AL,América / MG
-114,Guarani / SP,Sampaio Corrêa / MA
-115,Oeste / SP,Botafogo / SP
-116,Paraná / PR,Chapecoense / SC
-117,Juventude / RS,Operário / PR
-118,Vitória / BA,CSA / AL
-119,Confiança / SE,Brasil / RS
-120,Cuiabá / MT,Náutico / PE
-121,América / MG,Guarani / SP
-122,Figueirense / SC,Oeste / SP
-123,CRB / AL,Avaí / SC
-124,Ponte Preta / SP,Juventude / RS
-125,Botafogo / SP,Paraná / PR
-126,Operário / PR,Vitória / BA
-127,Brasil / RS,Chapecoense / SC
-128,Náutico / PE,Confiança / SE
-129,Sampaio Corrêa / MA,CSA / AL
-130,Cuiabá / MT,Cruzeiro / MG
-131,Cruzeiro / MG,Sampaio Corrêa / MA
-132,Avaí / SC,Brasil / RS
-133,CSA / AL,Figueirense / SC
-134,Ponte Preta / SP,Guarani / SP
-136,Paraná / PR,Náutico / PE
-137,Juventude / RS,Cuiabá / MT
-138,Vitória / BA,América / MG
-139,Confiança / SE,CRB / AL
-140,Chapecoense / SC,Botafogo / SP
-141,América / MG,Náutico / PE
-142,Figueirense / SC,Chapecoense / SC
-143,CSA / AL,Paraná / PR
-144,Guarani / SP,CRB / AL
-145,Oeste / SP,Cruzeiro / MG
-146,Operário / PR,Confiança / SE
-147,Juventude / RS,Brasil / RS
-148,Vitória / BA,Avaí / SC
-149,Sampaio Corrêa / MA,Botafogo / SP
-150,Cuiabá / MT,Ponte Preta / SP
-151,Cruzeiro / MG,Juventude / RS
-152,Avaí / SC,CSA / AL
-153,CRB / AL,Operário / PR
-154,Guarani / SP,Cuiabá / MT
-155,Botafogo / SP,América / MG
-156,Paraná / PR,Sampaio Corrêa / MA
-157,Brasil / RS,Figueirense / SC
-158,Náutico / PE,Ponte Preta / SP
-159,Confiança / SE,Oeste / SP
-160,Chapecoense / SC,Vitória / BA
-161,América / MG,Brasil / RS
-162,Figueirense / SC,CRB / AL
-163,CSA / AL,Botafogo / SP
-164,Ponte Preta / SP,Chapecoense / SC
-165,Oeste / SP,Náutico / PE
-166,Operário / PR,Cruzeiro / MG
-167,Juventude / RS,Avaí / SC
-168,Vitória / BA,Guarani / SP
-169,Sampaio Corrêa / MA,Confiança / SE
-170,Cuiabá / MT,Paraná / PR
-171,América / MG,Confiança / SE
-172,Figueirense / SC,Juventude / RS
-173,CRB / AL,Ponte Preta / SP
-174,Guarani / SP,Avaí / SC
-175,Botafogo / SP,Vitória / BA
-176,Paraná / PR,Oeste / SP
-177,Brasil / RS,CSA / AL
-178,Náutico / PE,Cruzeiro / MG
-179,Sampaio Corrêa / MA,Cuiabá / MT
-180,Chapecoense / SC,Operário / PR
-181,Cruzeiro / MG,Paraná / PR
-182,Avaí / SC,América / MG
-183,CSA / AL,Náutico / PE
-184,Ponte Preta / SP,Figueirense / SC
-185,Oeste / SP,Sampaio Corrêa / MA
-186,Operário / PR,Botafogo / SP
-187,Juventude / RS,Guarani / SP
-188,Vitória / BA,Brasil / RS
-189,Confiança / SE,Chapecoense / SC
-190,Cuiabá / MT,CRB / AL
-191,América / MG,Ponte Preta / SP
-192,Figueirense / SC,Operário / PR
-193,CRB / AL,Juventude / RS
-194,Guarani / SP,CSA / AL
-195,Botafogo / SP,Cruzeiro / MG
-196,Paraná / PR,Confiança / SE
-197,Brasil / RS,Cuiabá / MT
-198,Náutico / PE,Avaí / SC
-199,Sampaio Corrêa / MA,Vitória / BA
-200,Chapecoense / SC,Oeste / SP
-201,Cruzeiro / MG,Guarani / SP
-202,Avaí / SC,Paraná / PR
-203,CSA / AL,Chapecoense / SC
-204,Ponte Preta / SP,Brasil / RS
-205,Oeste / SP,CRB / AL
-206,Operário / PR,Náutico / PE
-207,Juventude / RS,Sampaio Corrêa / MA
-208,Vitória / BA,Figueirense / SC
-209,Confiança / SE,Botafogo / SP
-210,Cuiabá / MT,América / MG
-211,Cruzeiro / MG,Figueirense / SC
-212,Avaí / SC,Confiança / SE
-213,CRB / AL,Náutico / PE
-214,Guarani / SP,Botafogo / SP
-215,Oeste / SP,Brasil / RS
-216,Operário / PR,América / MG
-217,Juventude / RS,Paraná / PR
-218,Vitória / BA,Ponte Preta / SP
-219,Sampaio Corrêa / MA,Chapecoense / SC
-220,Cuiabá / MT,CSA / AL
-221,América / MG,Juventude / RS
-222,Figueirense / SC,Sampaio Corrêa / MA
-223,CSA / AL,Operário / PR
-224,Ponte Preta / SP,Oeste / SP
-225,Botafogo / SP,Avaí / SC
-226,Paraná / PR,Guarani / SP
-227,Brasil / RS,CRB / AL
-228,Náutico / PE,Vitória / BA
-229,Confiança / SE,Cuiabá / MT
-230,Chapecoense / SC,Cruzeiro / MG
-231,Cruzeiro / MG,Confiança / SE
-232,Figueirense / SC,Botafogo / SP
-233,CSA / AL,Ponte Preta / SP
-234,Guarani / SP,Chapecoense / SC
-235,Oeste / SP,América / MG
-236,Operário / PR,Paraná / PR
-237,Juventude / RS,Náutico / PE
-238,Vitória / BA,CRB / AL
-239,Sampaio Corrêa / MA,Brasil / RS
-240,Cuiabá / MT,Avaí / SC
-241,América / MG,Cruzeiro / MG
-242,Avaí / SC,Oeste / SP
-243,CRB / AL,CSA / AL
-244,Ponte Preta / SP,Sampaio Corrêa / MA
-245,Botafogo / SP,Juventude / RS
-246,Paraná / PR,Vitória / BA
-247,Brasil / RS,Operário / PR
-248,Náutico / PE,Guarani / SP
-249,Confiança / SE,Figueirense / SC
-250,Chapecoense / SC,Cuiabá / MT
-251,Cruzeiro / MG,Brasil / RS
-252,Figueirense / SC,Náutico / PE
-253,CSA / AL,América / MG
-254,Ponte Preta / SP,Paraná / PR
-255,Oeste / SP,Guarani / SP
-256,Operário / PR,Avaí / SC
-257,Juventude / RS,Chapecoense / SC
-258,Vitória / BA,Confiança / SE
-259,Sampaio Corrêa / MA,CRB / AL
-260,Cuiabá / MT,Botafogo / SP
-261,América / MG,Sampaio Corrêa / MA
-262,Avaí / SC,Chapecoense / SC
-263,CRB / AL,Cruzeiro / MG
-264,Guarani / SP,Operário / PR
-265,Botafogo / SP,Ponte Preta / SP
-266,Paraná / PR,Figueirense / SC
-267,Juventude / RS,Oeste / SP
-268,Náutico / PE,Brasil / RS
-269,Confiança / SE,CSA / AL
-270,Cuiabá / MT,Vitória / BA
-271,América / MG,Paraná / PR
-272,Figueirense / SC,Cuiabá / MT
-273,CSA / AL,Oeste / SP
-274,Ponte Preta / SP,Avaí / SC
-275,Botafogo / SP,Náutico / PE
-276,Operário / PR,Sampaio Corrêa / MA
-277,Brasil / RS,Guarani / SP
-278,Vitória / BA,Cruzeiro / MG
-279,Confiança / SE,Juventude / RS
-280,Chapecoense / SC,CRB / AL
-281,Cruzeiro / MG,CSA / AL
-282,Figueirense / SC,América / MG
-283,CRB / AL,Paraná / PR
-284,Guarani / SP,Confiança / SE
-285,Oeste / SP,Cuiabá / MT
-286,Operário / PR,Ponte Preta / SP
-287,Brasil / RS,Botafogo / SP
-288,Vitória / BA,Juventude / RS
-289,Sampaio Corrêa / MA,Avaí / SC
-290,Chapecoense / SC,Náutico / PE
-291,América / MG,Chapecoense / SC
-292,Avaí / SC,Cruzeiro / MG
-293,CRB / AL,Botafogo / SP
-294,Guarani / SP,Figueirense / SC
-295,Oeste / SP,Vitória / BA
-296,Paraná / PR,Brasil / RS
-297,Juventude / RS,CSA / AL
-298,Náutico / PE,Sampaio Corrêa / MA
-299,Confiança / SE,Ponte Preta / SP
-300,Cuiabá / MT,Operário / PR
-301,América / MG,CRB / AL
-302,Figueirense / SC,Avaí / SC
-303,CSA / AL,Vitória / BA
-304,Ponte Preta / SP,Cruzeiro / MG
-305,Botafogo / SP,Oeste / SP
-306,Operário / PR,Juventude / RS
-307,Brasil / RS,Confiança / SE
-308,Náutico / PE,Cuiabá / MT
-309,Sampaio Corrêa / MA,Guarani / SP
-310,Chapecoense / SC,Paraná / PR
-311,Cruzeiro / MG,Cuiabá / MT
-312,Avaí / SC,CRB / AL
-313,CSA / AL,Sampaio Corrêa / MA
-314,Guarani / SP,América / MG
-315,Oeste / SP,Figueirense / SC
-316,Paraná / PR,Botafogo / SP
-317,Juventude / RS,Ponte Preta / SP
-318,Vitória / BA,Operário / PR
-319,Confiança / SE,Náutico / PE
-320,Chapecoense / SC,Brasil / RS
-321,América / MG,Vitória / BA
-322,Figueirense / SC,CSA / AL
-323,CRB / AL,Confiança / SE
-324,Guarani / SP,Ponte Preta / SP
-325,Botafogo / SP,Chapecoense / SC
-326,Operário / PR,Oeste / SP
-327,Brasil / RS,Avaí / SC
-328,Náutico / PE,Paraná / PR
-329,Sampaio Corrêa / MA,Cruzeiro / MG
-330,Cuiabá / MT,Juventude / RS
-331,Cruzeiro / MG,Oeste / SP
-332,Avaí / SC,Vitória / BA
-333,CRB / AL,Guarani / SP
-334,Ponte Preta / SP,Cuiabá / MT
-335,Botafogo / SP,Sampaio Corrêa / MA
-336,Paraná / PR,CSA / AL
-337,Brasil / RS,Juventude / RS
-338,Náutico / PE,América / MG
-339,Confiança / SE,Operário / PR
-340,Chapecoense / SC,Figueirense / SC
-341,América / MG,Botafogo / SP
-342,Figueirense / SC,Brasil / RS
-343,CSA / AL,Avaí / SC
-344,Ponte Preta / SP,Náutico / PE
-345,Oeste / SP,Confiança / SE
-346,Operário / PR,CRB / AL
-347,Juventude / RS,Cruzeiro / MG
-348,Vitória / BA,Chapecoense / SC
-349,Sampaio Corrêa / MA,Paraná / PR
-350,Cuiabá / MT,Guarani / SP
-351,Cruzeiro / MG,Operário / PR
-352,Avaí / SC,Juventude / RS
-353,CRB / AL,Figueirense / SC
-354,Guarani / SP,Vitória / BA
-355,Botafogo / SP,CSA / AL
-356,Paraná / PR,Cuiabá / MT
-357,Brasil / RS,América / MG
-358,Náutico / PE,Oeste / SP
-359,Confiança / SE,Sampaio Corrêa / MA
-360,Chapecoense / SC,Ponte Preta / SP
-361,Cruzeiro / MG,Náutico / PE
-362,Avaí / SC,Guarani / SP
-363,CSA / AL,Brasil / RS
-364,Ponte Preta / SP,CRB / AL
-365,Oeste / SP,Paraná / PR
-366,Operário / PR,Chapecoense / SC
-367,Juventude / RS,Figueirense / SC
-368,Vitória / BA,Botafogo / SP
-369,Confiança / SE,América / MG
-370,Cuiabá / MT,Sampaio Corrêa / MA
-371,América / MG,Avaí / SC
-372,Figueirense / SC,Ponte Preta / SP
-373,CRB / AL,Cuiabá / MT
-374,Guarani / SP,Juventude / RS
-375,Botafogo / SP,Operário / PR
-376,Paraná / PR,Cruzeiro / MG
-377,Brasil / RS,Vitória / BA
-378,Náutico / PE,CSA / AL
-379,Sampaio Corrêa / MA,Oeste / SP
-380,Chapecoense / SC,Confiança / SE
+Game,Home,Away,Date,Time,Stadium
+001,Cruzeiro / MG,Botafogo / SP,08/08/2020,19:00,Magalhães Pinto / Belo Horizonte
+002,Avaí / SC,Náutico / PE,08/08/2020,19:00,Aderbal Ramos da Silva / Florianopolis
+003,CSA / AL,Guarani / SP,08/08/2020,21:00,Rei Pelé / Maceio
+004,Ponte Preta / SP,América / MG,08/08/2020,21:00,Oswaldo Teixeira Duarte / Sao Paulo
+005,Oeste / SP,Chapecoense / SC,09/08/2020,11:00,Arena Barueri / Barueri
+006,Operário / PR,Figueirense / SC,08/08/2020,16:00,Germano Kruger / Ponta Grossa
+007,Juventude / RS,CRB / AL,08/08/2020,11:00,Alfredo Jaconi / Caxias do Sul
+008,Vitória / BA,Sampaio Corrêa / MA,08/08/2020,19:00,Manoel Barradas / Salvador
+009,Confiança / SE,Paraná / PR,07/08/2020,21:30,Lourival Baptista / Aracaju
+010,Cuiabá / MT,Brasil / RS,07/08/2020,19:15,Arena Pantanal / Cuiaba
+011,América / MG,Cuiabá / MT,11/08/2020,21:30,Raimundo Sampaio / Belo Horizonte
+012,Figueirense / SC,Vitória / BA,11/08/2020,21:30,Orlando Scarpelli / Florianopolis
+013,CRB / AL,Oeste / SP,12/08/2020,17:00,Rei Pelé / Maceio
+014,Guarani / SP,Cruzeiro / MG,11/08/2020,20:30,Brinco de Ouro da Princesa / Campinas
+015,Botafogo / SP,Confiança / SE,11/08/2020,19:15,Santa Cruz / Ribeirao Preto
+016,Paraná / PR,Avaí / SC,11/08/2020,20:30,Durival Britto e Silva / Curitiba
+017,Brasil / RS,Ponte Preta / SP,11/08/2020,19:15,Bento da Silva Freitas / Pelotas
+018,Náutico / PE,Operário / PR,11/08/2020,21:30,Eládio de Barros Carvalho / Recife
+019,Sampaio Corrêa / MA,Juventude / RS,11/08/2020,19:15,Governador João Castelo / Sao Luis
+020,Chapecoense / SC,CSA / AL,27/10/2020,19:00,Índio Condá / Chapeco
+021,América / MG,Operário / PR,14/08/2020,19:15,Raimundo Sampaio / Belo Horizonte
+022,Figueirense / SC,Cruzeiro / MG,16/08/2020,16:00,Orlando Scarpelli / Florianopolis
+023,CSA / AL,Cuiabá / MT,16/09/2020,19:15,Rei Pelé / Maceio
+024,Ponte Preta / SP,Vitória / BA,14/08/2020,20:30,Moisés Lucarelli / Campinas
+025,Botafogo / SP,Guarani / SP,15/08/2020,11:00,Santa Cruz / Ribeirao Preto
+026,Paraná / PR,Juventude / RS,14/08/2020,21:30,Durival Britto e Silva / Curitiba
+027,Brasil / RS,Oeste / SP,15/08/2020,16:30,Bento da Silva Freitas / Pelotas
+028,Náutico / PE,CRB / AL,15/08/2020,19:00,Eládio de Barros Carvalho / Recife
+029,Confiança / SE,Avaí / SC,15/09/2020,19:15,Lourival Baptista / Aracaju
+030,Chapecoense / SC,Sampaio Corrêa / MA,16/08/2020,11:00,Índio Condá / Chapeco
+031,Cruzeiro / MG,Chapecoense / SC,20/08/2020,21:00,Magalhães Pinto / Belo Horizonte
+032,Avaí / SC,Botafogo / SP,18/08/2020,19:15,Aderbal Ramos da Silva / Florianopolis
+033,CRB / AL,Brasil / RS,18/08/2020,21:30,Rei Pelé / Maceio
+034,Guarani / SP,Paraná / PR,18/08/2020,21:30,Brinco de Ouro da Princesa / Campinas
+035,Oeste / SP,Ponte Preta / SP,18/08/2020,20:30,Oswaldo Teixeira Duarte / Sao Paulo
+036,Operário / PR,CSA / AL,18/08/2020,19:15,Germano Kruger / Ponta Grossa
+037,Juventude / RS,América / MG,17/08/2020,20:00,Alfredo Jaconi / Caxias do Sul
+038,Vitória / BA,Náutico / PE,19/08/2020,21:30,Manoel Barradas / Salvador
+039,Sampaio Corrêa / MA,Figueirense / SC,14/10/2020,16:00,Governador João Castelo / Sao Luis
+040,Cuiabá / MT,Confiança / SE,18/08/2020,21:30,Arena Pantanal / Cuiaba
+041,América / MG,Oeste / SP,21/08/2020,19:15,Raimundo Sampaio / Belo Horizonte
+042,Avaí / SC,Cuiabá / MT,22/08/2020,11:00,Aderbal Ramos da Silva / Florianopolis
+043,CRB / AL,Vitória / BA,22/08/2020,19:00,Rei Pelé / Maceio
+044,Ponte Preta / SP,CSA / AL,21/08/2020,21:30,Moisés Lucarelli / Campinas
+045,Botafogo / SP,Figueirense / SC,22/08/2020,16:30,Santa Cruz / Ribeirao Preto
+046,Paraná / PR,Operário / PR,23/08/2020,11:00,Durival Britto e Silva / Curitiba
+047,Brasil / RS,Sampaio Corrêa / MA,03/11/2020,19:15,Bento da Silva Freitas / Pelotas
+048,Náutico / PE,Juventude / RS,22/08/2020,16:30,Eládio de Barros Carvalho / Recife
+049,Confiança / SE,Cruzeiro / MG,23/08/2020,18:00,Lourival Baptista / Aracaju
+050,Chapecoense / SC,Guarani / SP,24/08/2020,20:00,Índio Condá / Chapeco
+051,Cruzeiro / MG,América / MG,29/08/2020,19:00,Magalhães Pinto / Belo Horizonte
+052,Figueirense / SC,Confiança / SE,29/08/2020,19:00,Orlando Scarpelli / Florianopolis
+053,CSA / AL,CRB / AL,30/08/2020,19:00,Rei Pelé / Maceio
+054,Guarani / SP,Náutico / PE,28/08/2020,21:30,Brinco de Ouro da Princesa / Campinas
+055,Oeste / SP,Avaí / SC,28/08/2020,19:15,Arena Barueri / Barueri
+056,Operário / PR,Brasil / RS,30/08/2020,19:00,Germano Kruger / Ponta Grossa
+057,Juventude / RS,Botafogo / SP,29/08/2020,11:00,Alfredo Jaconi / Caxias do Sul
+058,Vitória / BA,Paraná / PR,29/08/2020,16:30,Manoel Barradas / Salvador
+059,Sampaio Corrêa / MA,Ponte Preta / SP,29/08/2020,21:00,Governador João Castelo / Sao Luis
+060,Cuiabá / MT,Chapecoense / SC,28/08/2020,20:30,Arena Pantanal / Cuiaba
+061,América / MG,CSA / AL,02/09/2020,16:30,Raimundo Sampaio / Belo Horizonte
+062,Avaí / SC,Operário / PR,02/09/2020,16:30,Aderbal Ramos da Silva / Florianopolis
+063,CRB / AL,Sampaio Corrêa / MA,02/09/2020,19:00,Rei Pelé / Maceio
+064,Guarani / SP,Oeste / SP,31/08/2020,20:00,Brinco de Ouro da Princesa / Campinas
+065,Botafogo / SP,Cuiabá / MT,01/09/2020,17:00,Santa Cruz / Ribeirao Preto
+066,Paraná / PR,Ponte Preta / SP,01/09/2020,19:15,Durival Britto e Silva / Curitiba
+067,Brasil / RS,Cruzeiro / MG,02/09/2020,21:30,Bento da Silva Freitas / Pelotas
+068,Náutico / PE,Figueirense / SC,01/09/2020,21:30,Eládio de Barros Carvalho / Recife
+069,Confiança / SE,Vitória / BA,01/09/2020,21:30,Lourival Baptista / Aracaju
+070,Chapecoense / SC,Juventude / RS,01/09/2020,20:30,Índio Condá / Chapeco
+071,Cruzeiro / MG,CRB / AL,07/09/2020,20:00,Magalhães Pinto / Belo Horizonte
+072,Figueirense / SC,Paraná / PR,04/09/2020,19:15,Orlando Scarpelli / Florianopolis
+073,CSA / AL,Confiança / SE,05/09/2020,16:30,Rei Pelé / Maceio
+074,Ponte Preta / SP,Botafogo / SP,04/09/2020,21:30,Moisés Lucarelli / Campinas
+075,Oeste / SP,Juventude / RS,05/09/2020,11:00,Arena Barueri / Barueri
+076,Operário / PR,Guarani / SP,05/09/2020,19:00,Germano Kruger / Ponta Grossa
+077,Brasil / RS,Náutico / PE,05/09/2020,21:00,Bento da Silva Freitas / Pelotas
+078,Vitória / BA,Cuiabá / MT,05/09/2020,16:30,Manoel Barradas / Salvador
+079,Sampaio Corrêa / MA,América / MG,05/09/2020,19:00,Governador João Castelo / Sao Luis
+080,Chapecoense / SC,Avaí / SC,06/09/2020,11:00,Índio Condá / Chapeco
+081,Cruzeiro / MG,Vitória / BA,11/09/2020,21:30,Magalhães Pinto / Belo Horizonte
+082,Avaí / SC,Ponte Preta / SP,11/09/2020,19:15,Aderbal Ramos da Silva / Florianopolis
+083,CRB / AL,Chapecoense / SC,14/10/2020,19:15,Rei Pelé / Maceio
+084,Guarani / SP,Brasil / RS,12/09/2020,11:00,Brinco de Ouro da Princesa / Campinas
+085,Oeste / SP,CSA / AL,13/09/2020,11:00,Arena Barueri / Barueri
+086,Paraná / PR,América / MG,09/09/2020,19:15,Durival Britto e Silva / Curitiba
+087,Juventude / RS,Confiança / SE,08/09/2020,19:15,Alfredo Jaconi / Caxias do Sul
+088,Náutico / PE,Botafogo / SP,12/09/2020,19:00,Eládio de Barros Carvalho / Recife
+089,Sampaio Corrêa / MA,Operário / PR,12/09/2020,16:30,Governador João Castelo / Sao Luis
+090,Cuiabá / MT,Figueirense / SC,08/09/2020,21:30,Arena Pantanal / Cuiaba
+091,América / MG,Figueirense / SC,19/09/2020,16:30,Raimundo Sampaio / Belo Horizonte
+092,Avaí / SC,Sampaio Corrêa / MA,20/09/2020,11:00,Aderbal Ramos da Silva / Florianopolis
+093,CSA / AL,Cruzeiro / MG,19/09/2020,21:00,Rei Pelé / Maceio
+094,Ponte Preta / SP,Operário / PR,19/09/2020,19:00,Moisés Lucarelli / Campinas
+095,Botafogo / SP,Brasil / RS,21/09/2020,20:00,Santa Cruz / Ribeirao Preto
+096,Paraná / PR,CRB / AL,14/09/2020,20:00,Durival Britto e Silva / Curitiba
+097,Juventude / RS,Vitória / BA,14/09/2020,20:00,Alfredo Jaconi / Caxias do Sul
+098,Náutico / PE,Chapecoense / SC,18/09/2020,21:30,Eládio de Barros Carvalho / Recife
+099,Confiança / SE,Guarani / SP,18/09/2020,19:15,Lourival Baptista / Aracaju
+100,Cuiabá / MT,Oeste / SP,19/09/2020,21:00,Arena Pantanal / Cuiaba
+101,Cruzeiro / MG,Avaí / SC,25/09/2020,21:30,Magalhães Pinto / Belo Horizonte
+102,Figueirense / SC,Guarani / SP,26/09/2020,11:00,Orlando Scarpelli / Florianopolis
+103,CSA / AL,Juventude / RS,26/09/2020,16:00,Rei Pelé / Maceio
+104,Ponte Preta / SP,Confiança / SE,27/09/2020,20:30,Moisés Lucarelli / Campinas
+105,Botafogo / SP,CRB / AL,25/09/2020,19:15,Santa Cruz / Ribeirao Preto
+106,Operário / PR,Cuiabá / MT,22/09/2020,20:00,Germano Kruger / Ponta Grossa
+107,Brasil / RS,Paraná / PR,26/09/2020,18:30,Bento da Silva Freitas / Pelotas
+108,Vitória / BA,Oeste / SP,26/09/2020,16:30,Manoel Barradas / Salvador
+109,Sampaio Corrêa / MA,Náutico / PE,17/11/2020,18:00,Governador João Castelo / Sao Luis
+110,Chapecoense / SC,América / MG,25/09/2020,19:15,Índio Condá / Chapeco
+111,Cruzeiro / MG,Ponte Preta / SP,30/09/2020,19:15,Magalhães Pinto / Belo Horizonte
+112,Avaí / SC,Figueirense / SC,29/09/2020,19:15,Aderbal Ramos da Silva / Florianopolis
+113,CRB / AL,América / MG,28/09/2020,20:00,Rei Pelé / Maceio
+114,Guarani / SP,Sampaio Corrêa / MA,29/09/2020,21:30,Brinco de Ouro da Princesa / Campinas
+115,Oeste / SP,Botafogo / SP,29/09/2020,20:30,Arena Barueri / Barueri
+116,Paraná / PR,Chapecoense / SC,29/09/2020,21:30,Durival Britto e Silva / Curitiba
+117,Juventude / RS,Operário / PR,29/09/2020,19:15,Alfredo Jaconi / Caxias do Sul
+118,Vitória / BA,CSA / AL,29/09/2020,19:15,Manoel Barradas / Salvador
+119,Confiança / SE,Brasil / RS,30/09/2020,16:30,Lourival Baptista / Aracaju
+120,Cuiabá / MT,Náutico / PE,29/09/2020,22:30,Arena Pantanal / Cuiaba
+121,América / MG,Guarani / SP,03/10/2020,11:00,Raimundo Sampaio / Belo Horizonte
+122,Figueirense / SC,Oeste / SP,02/10/2020,16:30,Orlando Scarpelli / Florianopolis
+123,CRB / AL,Avaí / SC,02/10/2020,19:15,Rei Pelé / Maceio
+124,Ponte Preta / SP,Juventude / RS,03/10/2020,19:00,Moisés Lucarelli / Campinas
+125,Botafogo / SP,Paraná / PR,02/10/2020,21:30,Santa Cruz / Ribeirao Preto
+126,Operário / PR,Vitória / BA,02/10/2020,19:15,Germano Kruger / Ponta Grossa
+127,Brasil / RS,Chapecoense / SC,03/10/2020,16:30,Bento da Silva Freitas / Pelotas
+128,Náutico / PE,Confiança / SE,03/10/2020,16:00,Eládio de Barros Carvalho / Recife
+129,Sampaio Corrêa / MA,CSA / AL,03/10/2020,16:30,Governador João Castelo / Sao Luis
+130,Cuiabá / MT,Cruzeiro / MG,03/10/2020,22:00,Arena Pantanal / Cuiaba
+131,Cruzeiro / MG,Sampaio Corrêa / MA,08/10/2020,18:30,Magalhães Pinto / Belo Horizonte
+132,Avaí / SC,Brasil / RS,06/10/2020,19:15,Aderbal Ramos da Silva / Florianopolis
+133,CSA / AL,Figueirense / SC,06/10/2020,19:15,Rei Pelé / Maceio
+134,Ponte Preta / SP,Guarani / SP,06/10/2020,21:30,Moisés Lucarelli / Campinas
+136,Paraná / PR,Náutico / PE,06/10/2020,19:15,Durival Britto e Silva / Curitiba
+137,Juventude / RS,Cuiabá / MT,06/10/2020,19:15,Alfredo Jaconi / Caxias do Sul
+138,Vitória / BA,América / MG,06/10/2020,19:15,Manoel Barradas / Salvador
+139,Confiança / SE,CRB / AL,06/10/2020,17:00,Lourival Baptista / Aracaju
+140,Chapecoense / SC,Botafogo / SP,06/10/2020,17:00,Índio Condá / Chapeco
+141,América / MG,Náutico / PE,09/10/2020,19:15,Raimundo Sampaio / Belo Horizonte
+142,Figueirense / SC,Chapecoense / SC,09/10/2020,16:00,Orlando Scarpelli / Florianopolis
+143,CSA / AL,Paraná / PR,10/10/2020,18:30,Rei Pelé / Maceio
+144,Guarani / SP,CRB / AL,10/10/2020,16:30,Brinco de Ouro da Princesa / Campinas
+145,Oeste / SP,Cruzeiro / MG,11/10/2020,16:00,Arena Barueri / Barueri
+146,Operário / PR,Confiança / SE,09/10/2020,16:30,Germano Kruger / Ponta Grossa
+147,Juventude / RS,Brasil / RS,10/10/2020,11:00,Alfredo Jaconi / Caxias do Sul
+148,Vitória / BA,Avaí / SC,10/10/2020,16:00,Manoel Barradas / Salvador
+149,Sampaio Corrêa / MA,Botafogo / SP,11/10/2020,20:30,Governador João Castelo / Sao Luis
+150,Cuiabá / MT,Ponte Preta / SP,09/10/2020,18:30,Arena Pantanal / Cuiaba
+151,Cruzeiro / MG,Juventude / RS,16/10/2020,21:30,Magalhães Pinto / Belo Horizonte
+152,Avaí / SC,CSA / AL,13/10/2020,19:15,Aderbal Ramos da Silva / Florianopolis
+153,CRB / AL,Operário / PR,17/10/2020,18:30,Rei Pelé / Maceio
+154,Guarani / SP,Cuiabá / MT,13/10/2020,21:30,Brinco de Ouro da Princesa / Campinas
+155,Botafogo / SP,América / MG,16/10/2020,19:15,Santa Cruz / Ribeirao Preto
+156,Paraná / PR,Sampaio Corrêa / MA,18/10/2020,20:30,Durival Britto e Silva / Curitiba
+157,Brasil / RS,Figueirense / SC,17/10/2020,18:30,Bento da Silva Freitas / Pelotas
+158,Náutico / PE,Ponte Preta / SP,12/10/2020,20:00,Eládio de Barros Carvalho / Recife
+159,Confiança / SE,Oeste / SP,17/10/2020,16:30,Lourival Baptista / Aracaju
+160,Chapecoense / SC,Vitória / BA,17/10/2020,16:00,Índio Condá / Chapeco
+161,América / MG,Brasil / RS,20/10/2020,16:30,Raimundo Sampaio / Belo Horizonte
+162,Figueirense / SC,CRB / AL,21/10/2020,16:30,Orlando Scarpelli / Florianopolis
+163,CSA / AL,Botafogo / SP,20/10/2020,19:15,Rei Pelé / Maceio
+164,Ponte Preta / SP,Chapecoense / SC,20/10/2020,21:30,Moisés Lucarelli / Campinas
+165,Oeste / SP,Náutico / PE,20/10/2020,19:15,Arena Barueri / Barueri
+166,Operário / PR,Cruzeiro / MG,20/10/2020,21:30,Germano Kruger / Ponta Grossa
+167,Juventude / RS,Avaí / SC,20/10/2020,19:15,Alfredo Jaconi / Caxias do Sul
+168,Vitória / BA,Guarani / SP,22/10/2020,21:30,Manoel Barradas / Salvador
+169,Sampaio Corrêa / MA,Confiança / SE,21/10/2020,19:00,Governador João Castelo / Sao Luis
+170,Cuiabá / MT,Paraná / PR,21/10/2020,19:00,Arena Pantanal / Cuiaba
+171,América / MG,Confiança / SE,24/10/2020,21:00,Raimundo Sampaio / Belo Horizonte
+172,Figueirense / SC,Juventude / RS,25/10/2020,18:15,Orlando Scarpelli / Florianopolis
+173,CRB / AL,Ponte Preta / SP,24/10/2020,16:00,Rei Pelé / Maceio
+174,Guarani / SP,Avaí / SC,25/10/2020,18:15,Brinco de Ouro da Princesa / Campinas
+175,Botafogo / SP,Vitória / BA,25/10/2020,20:30,Santa Cruz / Ribeirao Preto
+176,Paraná / PR,Oeste / SP,26/10/2020,20:00,Durival Britto e Silva / Curitiba
+177,Brasil / RS,CSA / AL,23/10/2020,19:15,Bento da Silva Freitas / Pelotas
+178,Náutico / PE,Cruzeiro / MG,25/10/2020,16:00,Eládio de Barros Carvalho / Recife
+179,Sampaio Corrêa / MA,Cuiabá / MT,24/10/2020,18:30,Governador João Castelo / Sao Luis
+180,Chapecoense / SC,Operário / PR,23/10/2020,21:30,Índio Condá / Chapeco
+181,Cruzeiro / MG,Paraná / PR,30/10/2020,21:30,Magalhães Pinto / Belo Horizonte
+182,Avaí / SC,América / MG,31/10/2020,19:00,Aderbal Ramos da Silva / Florianopolis
+183,CSA / AL,Náutico / PE,31/10/2020,21:00,Rei Pelé / Maceio
+184,Ponte Preta / SP,Figueirense / SC,02/11/2020,17:30,Moisés Lucarelli / Campinas
+185,Oeste / SP,Sampaio Corrêa / MA,31/10/2020,16:30,Arena Barueri / Barueri
+186,Operário / PR,Botafogo / SP,31/10/2020,19:00,Germano Kruger / Ponta Grossa
+187,Juventude / RS,Guarani / SP,01/11/2020,18:15,Alfredo Jaconi / Caxias do Sul
+188,Vitória / BA,Brasil / RS,30/10/2020,19:15,Manoel Barradas / Salvador
+189,Confiança / SE,Chapecoense / SC,31/10/2020,16:30,Lourival Baptista / Aracaju
+190,Cuiabá / MT,CRB / AL,31/10/2020,22:00,Arena Pantanal / Cuiaba
+191,América / MG,Ponte Preta / SP,07/11/2020,18:30,Raimundo Sampaio / Belo Horizonte
+192,Figueirense / SC,Operário / PR,07/11/2020,16:30,Orlando Scarpelli / Florianopolis
+193,CRB / AL,Juventude / RS,08/11/2020,18:15,Rei Pelé / Maceio
+194,Guarani / SP,CSA / AL,06/11/2020,19:15,Brinco de Ouro da Princesa / Campinas
+195,Botafogo / SP,Cruzeiro / MG,06/11/2020,19:15,Santa Cruz / Ribeirao Preto
+196,Paraná / PR,Confiança / SE,06/11/2020,21:30,Durival Britto e Silva / Curitiba
+197,Brasil / RS,Cuiabá / MT,07/11/2020,16:00,Bento da Silva Freitas / Pelotas
+198,Náutico / PE,Avaí / SC,06/11/2020,19:15,Eládio de Barros Carvalho / Recife
+199,Sampaio Corrêa / MA,Vitória / BA,08/11/2020,16:00,Governador João Castelo / Sao Luis
+200,Chapecoense / SC,Oeste / SP,07/11/2020,21:00,Índio Condá / Chapeco
+201,Cruzeiro / MG,Guarani / SP,09/11/2020,20:00,Magalhães Pinto / Belo Horizonte
+202,Avaí / SC,Paraná / PR,13/11/2020,18:30,Aderbal Ramos da Silva / Florianopolis
+203,CSA / AL,Chapecoense / SC,10/11/2020,19:00,Rei Pelé / Maceio
+204,Ponte Preta / SP,Brasil / RS,13/11/2020,16:00,Moisés Lucarelli / Campinas
+205,Oeste / SP,CRB / AL,13/11/2020,19:15,Arena Barueri / Barueri
+206,Operário / PR,Náutico / PE,13/11/2020,16:30,Germano Kruger / Ponta Grossa
+207,Juventude / RS,Sampaio Corrêa / MA,14/11/2020,19:00,Alfredo Jaconi / Caxias do Sul
+208,Vitória / BA,Figueirense / SC,12/11/2020,21:30,Manoel Barradas / Salvador
+209,Confiança / SE,Botafogo / SP,10/11/2020,21:30,Lourival Baptista / Aracaju
+210,Cuiabá / MT,América / MG,14/11/2020,21:30,Arena Pantanal / Cuiaba
+211,Cruzeiro / MG,Figueirense / SC,20/11/2020,21:30,Magalhães Pinto / Belo Horizonte
+212,Avaí / SC,Confiança / SE,20/11/2020,16:30,Aderbal Ramos da Silva / Florianopolis
+213,CRB / AL,Náutico / PE,21/11/2020,19:00,Rei Pelé / Maceio
+214,Guarani / SP,Botafogo / SP,20/11/2020,19:15,Brinco de Ouro da Princesa / Campinas
+215,Oeste / SP,Brasil / RS,21/11/2020,16:30,Arena Barueri / Barueri
+216,Operário / PR,América / MG,21/11/2020,16:30,Germano Kruger / Ponta Grossa
+217,Juventude / RS,Paraná / PR,20/11/2020,19:15,Alfredo Jaconi / Caxias do Sul
+218,Vitória / BA,Ponte Preta / SP,20/11/2020,16:30,Manoel Barradas / Salvador
+219,Sampaio Corrêa / MA,Chapecoense / SC,20/11/2020,19:15,Governador João Castelo / Sao Luis
+220,Cuiabá / MT,CSA / AL,21/11/2020,19:00,Arena Pantanal / Cuiaba
+221,América / MG,Juventude / RS,24/11/2020,21:30,Raimundo Sampaio / Belo Horizonte
+222,Figueirense / SC,Sampaio Corrêa / MA,23/11/2020,17:30,Orlando Scarpelli / Florianopolis
+223,CSA / AL,Operário / PR,24/11/2020,19:15,Rei Pelé / Maceio
+224,Ponte Preta / SP,Oeste / SP,24/11/2020,19:15,Moisés Lucarelli / Campinas
+225,Botafogo / SP,Avaí / SC,23/11/2020,20:00,Santa Cruz / Ribeirao Preto
+226,Paraná / PR,Guarani / SP,24/11/2020,16:30,Durival Britto e Silva / Curitiba
+227,Brasil / RS,CRB / AL,24/11/2020,21:30,Bento da Silva Freitas / Pelotas
+228,Náutico / PE,Vitória / BA,25/11/2020,19:00,Eládio de Barros Carvalho / Recife
+229,Confiança / SE,Cuiabá / MT,24/11/2020,19:15,Lourival Baptista / Aracaju
+230,Chapecoense / SC,Cruzeiro / MG,24/11/2020,21:30,Índio Condá / Chapeco
+231,Cruzeiro / MG,Confiança / SE,27/11/2020,21:30,Magalhães Pinto / Belo Horizonte
+232,Figueirense / SC,Botafogo / SP,26/11/2020,21:30,Orlando Scarpelli / Florianopolis
+233,CSA / AL,Ponte Preta / SP,28/11/2020,16:00,Rei Pelé / Maceio
+234,Guarani / SP,Chapecoense / SC,28/11/2020,21:00,Brinco de Ouro da Princesa / Campinas
+235,Oeste / SP,América / MG,27/11/2020,19:15,Arena Barueri / Barueri
+236,Operário / PR,Paraná / PR,27/11/2020,19:15,Germano Kruger / Ponta Grossa
+237,Juventude / RS,Náutico / PE,28/11/2020,21:00,Alfredo Jaconi / Caxias do Sul
+238,Vitória / BA,CRB / AL,28/11/2020,18:30,Manoel Barradas / Salvador
+239,Sampaio Corrêa / MA,Brasil / RS,27/11/2020,19:15,Governador João Castelo / Sao Luis
+240,Cuiabá / MT,Avaí / SC,27/11/2020,22:30,Arena Pantanal / Cuiaba
+241,América / MG,Cruzeiro / MG,02/12/2020,21:30,Raimundo Sampaio / Belo Horizonte
+242,Avaí / SC,Oeste / SP,30/11/2020,20:00,Aderbal Ramos da Silva / Florianopolis
+243,CRB / AL,CSA / AL,01/12/2020,19:15,Rei Pelé / Maceio
+244,Ponte Preta / SP,Sampaio Corrêa / MA,01/12/2020,21:30,Moisés Lucarelli / Campinas
+245,Botafogo / SP,Juventude / RS,02/12/2020,19:00,Santa Cruz / Ribeirao Preto
+246,Paraná / PR,Vitória / BA,01/12/2020,21:30,Durival Britto e Silva / Curitiba
+247,Brasil / RS,Operário / PR,30/11/2020,17:00,Bento da Silva Freitas / Pelotas
+248,Náutico / PE,Guarani / SP,01/12/2020,19:15,Eládio de Barros Carvalho / Recife
+249,Confiança / SE,Figueirense / SC,01/12/2020,19:15,Lourival Baptista / Aracaju
+250,Chapecoense / SC,Cuiabá / MT,01/12/2020,19:00,Índio Condá / Chapeco
+251,Cruzeiro / MG,Brasil / RS,05/12/2020,21:00,Magalhães Pinto / Belo Horizonte
+252,Figueirense / SC,Náutico / PE,06/12/2020,18:15,Orlando Scarpelli / Florianopolis
+253,CSA / AL,América / MG,05/12/2020,18:30,Rei Pelé / Maceio
+254,Ponte Preta / SP,Paraná / PR,04/12/2020,21:30,Moisés Lucarelli / Campinas
+255,Oeste / SP,Guarani / SP,04/12/2020,16:00,Arena Barueri / Barueri
+256,Operário / PR,Avaí / SC,03/12/2020,21:30,Germano Kruger / Ponta Grossa
+257,Juventude / RS,Chapecoense / SC,05/12/2020,16:00,Alfredo Jaconi / Caxias do Sul
+258,Vitória / BA,Confiança / SE,04/12/2020,19:15,Manoel Barradas / Salvador
+259,Sampaio Corrêa / MA,CRB / AL,05/12/2020,19:00,Governador João Castelo / Sao Luis
+260,Cuiabá / MT,Botafogo / SP,05/12/2020,22:00,Arena Pantanal / Cuiaba
+261,América / MG,Sampaio Corrêa / MA,08/12/2020,19:15,Raimundo Sampaio / Belo Horizonte
+262,Avaí / SC,Chapecoense / SC,08/12/2020,21:30,Aderbal Ramos da Silva / Florianopolis
+263,CRB / AL,Cruzeiro / MG,08/12/2020,21:30,Rei Pelé / Maceio
+264,Guarani / SP,Operário / PR,08/12/2020,16:30,Brinco de Ouro da Princesa / Campinas
+265,Botafogo / SP,Ponte Preta / SP,08/12/2020,19:15,Santa Cruz / Ribeirao Preto
+266,Paraná / PR,Figueirense / SC,09/12/2020,19:15,Durival Britto e Silva / Curitiba
+267,Juventude / RS,Oeste / SP,08/12/2020,16:00,Alfredo Jaconi / Caxias do Sul
+268,Náutico / PE,Brasil / RS,10/12/2020,21:30,Eládio de Barros Carvalho / Recife
+269,Confiança / SE,CSA / AL,08/12/2020,21:30,Lourival Baptista / Aracaju
+270,Cuiabá / MT,Vitória / BA,08/12/2020,21:30,Arena Pantanal / Cuiaba
+271,América / MG,Paraná / PR,12/12/2020,18:30,Raimundo Sampaio / Belo Horizonte
+272,Figueirense / SC,Cuiabá / MT,12/12/2020,16:00,Orlando Scarpelli / Florianopolis
+273,CSA / AL,Oeste / SP,11/12/2020,19:15,Rei Pelé / Maceio
+274,Ponte Preta / SP,Avaí / SC,11/12/2020,19:15,Moisés Lucarelli / Campinas
+275,Botafogo / SP,Náutico / PE,13/12/2020,18:15,Santa Cruz / Ribeirao Preto
+276,Operário / PR,Sampaio Corrêa / MA,11/12/2020,16:00,Germano Kruger / Ponta Grossa
+277,Brasil / RS,Guarani / SP,13/12/2020,20:30,Bento da Silva Freitas / Pelotas
+278,Vitória / BA,Cruzeiro / MG,11/12/2020,21:30,Manoel Barradas / Salvador
+279,Confiança / SE,Juventude / RS,12/12/2020,19:00,Lourival Baptista / Aracaju
+280,Chapecoense / SC,CRB / AL,12/12/2020,21:00,Índio Condá / Chapeco
+281,Cruzeiro / MG,CSA / AL,15/12/2020,21:30,Raimundo Sampaio / Belo Horizonte
+282,Figueirense / SC,América / MG,17/12/2020,19:15,Orlando Scarpelli / Florianopolis
+283,CRB / AL,Paraná / PR,17/12/2020,21:30,Rei Pelé / Maceio
+284,Guarani / SP,Confiança / SE,16/12/2020,19:15,Brinco de Ouro da Princesa / Campinas
+285,Oeste / SP,Cuiabá / MT,15/12/2020,16:00,Arena Barueri / Barueri
+286,Operário / PR,Ponte Preta / SP,14/12/2020,20:00,Germano Kruger / Ponta Grossa
+287,Brasil / RS,Botafogo / SP,16/12/2020,16:30,Bento da Silva Freitas / Pelotas
+288,Vitória / BA,Juventude / RS,15/12/2020,21:30,Manoel Barradas / Salvador
+289,Sampaio Corrêa / MA,Avaí / SC,15/12/2020,19:15,Governador João Castelo / Sao Luis
+290,Chapecoense / SC,Náutico / PE,16/12/2020,19:15,Índio Condá / Chapeco
+291,América / MG,Chapecoense / SC,20/12/2020,16:00,Raimundo Sampaio / Belo Horizonte
+292,Avaí / SC,Cruzeiro / MG,18/12/2020,20:15,Aderbal Ramos da Silva / Florianopolis
+293,CRB / AL,Botafogo / SP,20/12/2020,18:15,Rei Pelé / Maceio
+294,Guarani / SP,Figueirense / SC,20/12/2020,18:15,Brinco de Ouro da Princesa / Campinas
+295,Oeste / SP,Vitória / BA,18/12/2020,16:00,Arena Barueri / Barueri
+296,Paraná / PR,Brasil / RS,21/12/2020,17:30,Durival Britto e Silva / Curitiba
+297,Juventude / RS,CSA / AL,18/12/2020,18:00,Alfredo Jaconi / Caxias do Sul
+298,Náutico / PE,Sampaio Corrêa / MA,19/12/2020,16:30,Eládio de Barros Carvalho / Recife
+299,Confiança / SE,Ponte Preta / SP,19/12/2020,19:00,Lourival Baptista / Aracaju
+300,Cuiabá / MT,Operário / PR,18/12/2020,22:30,Arena Pantanal / Cuiaba
+301,América / MG,CRB / AL,26/12/2020,18:30,Raimundo Sampaio / Belo Horizonte
+302,Figueirense / SC,Avaí / SC,26/12/2020,16:00,Orlando Scarpelli / Florianopolis
+303,CSA / AL,Vitória / BA,22/12/2020,19:15,Rei Pelé / Maceio
+304,Ponte Preta / SP,Cruzeiro / MG,22/12/2020,21:30,Moisés Lucarelli / Campinas
+305,Botafogo / SP,Oeste / SP,23/12/2020,19:15,Santa Cruz / Ribeirao Preto
+306,Operário / PR,Juventude / RS,22/12/2020,16:00,Germano Kruger / Ponta Grossa
+307,Brasil / RS,Confiança / SE,28/12/2020,17:00,Bento da Silva Freitas / Pelotas
+308,Náutico / PE,Cuiabá / MT,22/12/2020,21:30,Eládio de Barros Carvalho / Recife
+309,Sampaio Corrêa / MA,Guarani / SP,23/12/2020,19:00,Governador João Castelo / Sao Luis
+310,Chapecoense / SC,Paraná / PR,28/12/2020,20:00,Índio Condá / Chapeco
+311,Cruzeiro / MG,Cuiabá / MT,29/12/2020,21:30,Raimundo Sampaio / Belo Horizonte
+312,Avaí / SC,CRB / AL,29/12/2020,19:15,Aderbal Ramos da Silva / Florianopolis
+313,CSA / AL,Sampaio Corrêa / MA,02/01/2021,16:30,Rei Pelé / Maceio
+314,Guarani / SP,América / MG,02/01/2021,21:00,Brinco de Ouro da Princesa / Campinas
+315,Oeste / SP,Figueirense / SC,02/01/2021,18:45,Arena Barueri / Barueri
+316,Paraná / PR,Botafogo / SP,04/01/2021,17:00,Durival Britto e Silva / Curitiba
+317,Juventude / RS,Ponte Preta / SP,30/12/2020,17:00,Alfredo Jaconi / Caxias do Sul
+318,Vitória / BA,Operário / PR,03/01/2021,18:15,Manoel Barradas / Salvador
+319,Confiança / SE,Náutico / PE,04/01/2021,20:00,Lourival Baptista / Aracaju
+320,Chapecoense / SC,Brasil / RS,03/01/2021,16:00,Índio Condá / Chapeco
+321,América / MG,Vitória / BA,09/01/2021,19:00,Raimundo Sampaio / Belo Horizonte
+322,Figueirense / SC,CSA / AL,08/01/2021,21:30,Orlando Scarpelli / Florianopolis
+323,CRB / AL,Confiança / SE,08/01/2021,19:15,Rei Pelé / Maceio
+324,Guarani / SP,Ponte Preta / SP,05/01/2021,19:15,Brinco de Ouro da Princesa / Campinas
+325,Botafogo / SP,Chapecoense / SC,09/01/2021,21:00,Santa Cruz / Ribeirao Preto
+326,Operário / PR,Oeste / SP,08/01/2021,19:15,Germano Kruger / Ponta Grossa
+327,Brasil / RS,Avaí / SC,08/01/2021,16:00,Bento da Silva Freitas / Pelotas
+328,Náutico / PE,Paraná / PR,08/01/2021,19:15,Eládio de Barros Carvalho / Recife
+329,Sampaio Corrêa / MA,Cruzeiro / MG,08/01/2021,21:30,Governador João Castelo / Sao Luis
+330,Cuiabá / MT,Juventude / RS,05/01/2021,21:30,Arena Pantanal / Cuiaba
+331,Cruzeiro / MG,Oeste / SP,13/01/2021,21:30,Raimundo Sampaio / Belo Horizonte
+332,Avaí / SC,Vitória / BA,13/01/2021,19:00,Aderbal Ramos da Silva / Florianopolis
+333,CRB / AL,Guarani / SP,11/01/2021,20:00,Rei Pelé / Maceio
+334,Ponte Preta / SP,Cuiabá / MT,11/01/2021,17:30,Moisés Lucarelli / Campinas
+335,Botafogo / SP,Sampaio Corrêa / MA,12/01/2021,19:15,Santa Cruz / Ribeirao Preto
+336,Paraná / PR,CSA / AL,12/01/2021,19:15,Durival Britto e Silva / Curitiba
+337,Brasil / RS,Juventude / RS,12/01/2021,19:15,Bento da Silva Freitas / Pelotas
+338,Náutico / PE,América / MG,12/01/2021,19:15,Eládio de Barros Carvalho / Recife
+339,Confiança / SE,Operário / PR,11/01/2021,20:00,Lourival Baptista / Aracaju
+340,Chapecoense / SC,Figueirense / SC,12/01/2021,21:30,Índio Condá / Chapeco
+341,América / MG,Botafogo / SP,15/01/2021,21:30,Raimundo Sampaio / Belo Horizonte
+342,Figueirense / SC,Brasil / RS,15/01/2021,17:30,Orlando Scarpelli / Florianopolis
+343,CSA / AL,Avaí / SC,16/01/2021,16:30,Rei Pelé / Maceio
+344,Ponte Preta / SP,Náutico / PE,17/01/2021,16:00,Moisés Lucarelli / Campinas
+345,Oeste / SP,Confiança / SE,16/01/2021,21:00,Arena Barueri / Barueri
+346,Operário / PR,CRB / AL,14/01/2021,19:15,Germano Kruger / Ponta Grossa
+347,Juventude / RS,Cruzeiro / MG,16/01/2021,19:00,Alfredo Jaconi / Caxias do Sul
+348,Vitória / BA,Chapecoense / SC,17/01/2021,16:00,Manoel Barradas / Salvador
+349,Sampaio Corrêa / MA,Paraná / PR,15/01/2021,19:15,Governador João Castelo / Sao Luis
+350,Cuiabá / MT,Guarani / SP,14/01/2021,21:30,Arena Pantanal / Cuiaba
+351,Cruzeiro / MG,Operário / PR,20/01/2021,21:30,Raimundo Sampaio / Belo Horizonte
+352,Avaí / SC,Juventude / RS,19/01/2021,19:15,Aderbal Ramos da Silva / Florianopolis
+353,CRB / AL,Figueirense / SC,19/01/2021,19:15,Rei Pelé / Maceio
+354,Guarani / SP,Vitória / BA,20/01/2021,16:00,Brinco de Ouro da Princesa / Campinas
+355,Botafogo / SP,CSA / AL,19/01/2021,19:15,Santa Cruz / Ribeirao Preto
+356,Paraná / PR,Cuiabá / MT,19/01/2021,21:30,Durival Britto e Silva / Curitiba
+357,Brasil / RS,América / MG,19/01/2021,16:00,Bento da Silva Freitas / Pelotas
+358,Náutico / PE,Oeste / SP,20/01/2021,19:15,Eládio de Barros Carvalho / Recife
+359,Confiança / SE,Sampaio Corrêa / MA,19/01/2021,19:15,Lourival Baptista / Aracaju
+360,Chapecoense / SC,Ponte Preta / SP,21/01/2021,17:45,Índio Condá / Chapeco
+361,Cruzeiro / MG,Náutico / PE,24/01/2021,16:00,Raimundo Sampaio / Belo Horizonte
+362,Avaí / SC,Guarani / SP,23/01/2021,18:30,Aderbal Ramos da Silva / Florianopolis
+363,CSA / AL,Brasil / RS,22/01/2021,19:15,Rei Pelé / Maceio
+364,Ponte Preta / SP,CRB / AL,24/01/2021,18:15,Moisés Lucarelli / Campinas
+365,Oeste / SP,Paraná / PR,26/01/2021,19:15,Arena Barueri / Barueri
+366,Operário / PR,Chapecoense / SC,25/01/2021,17:00,Germano Kruger / Ponta Grossa
+367,Juventude / RS,Figueirense / SC,22/01/2021,16:00,Alfredo Jaconi / Caxias do Sul
+368,Vitória / BA,Botafogo / SP,26/01/2021,21:30,Manoel Barradas / Salvador
+369,Confiança / SE,América / MG,23/01/2021,16:15,Lourival Baptista / Aracaju
+370,Cuiabá / MT,Sampaio Corrêa / MA,22/01/2021,21:30,Arena Pantanal / Cuiaba
+371,América / MG,Avaí / SC,29/01/2021,21:30,Raimundo Sampaio / Belo Horizonte
+372,Figueirense / SC,Ponte Preta / SP,29/01/2021,16:00,Orlando Scarpelli / Florianopolis
+373,CRB / AL,Cuiabá / MT,29/01/2021,19:15,Rei Pelé / Maceio
+374,Guarani / SP,Juventude / RS,29/01/2021,21:30,Brinco de Ouro da Princesa / Campinas
+375,Botafogo / SP,Operário / PR,29/01/2021,19:15,Santa Cruz / Ribeirao Preto
+376,Paraná / PR,Cruzeiro / MG,29/01/2021,21:30,Durival Britto e Silva / Curitiba
+377,Brasil / RS,Vitória / BA,29/01/2021,21:30,Bento da Silva Freitas / Pelotas
+378,Náutico / PE,CSA / AL,29/01/2021,21:30,Eládio de Barros Carvalho / Recife
+379,Sampaio Corrêa / MA,Oeste / SP,29/01/2021,17:00,Governador João Castelo / Sao Luis
+380,Chapecoense / SC,Confiança / SE,29/01/2021,21:30,Índio Condá / Chapeco

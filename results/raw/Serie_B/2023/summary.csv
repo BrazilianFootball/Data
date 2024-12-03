@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Guarani / SP,Avaí / SC
-002,Vila Nova / GO,Novorizontino / SP
-003,Criciúma / SC,Tombense / MG
-004,Ituano / SP,Ceará / CE
-005,Mirassol / SP,Chapecoense / SC
-006,Vitória / BA,Ponte Preta / SP
-007,Sampaio Corrêa / MA,Atlético / GO
-008,Juventude / RS,Botafogo / SP
-009,Londrina / PR,ABC / RN
-010,CRB / AL,Sport / PE
-011,Ponte Preta / SP,Criciúma / SC
-012,Atlético / GO,CRB / AL
-013,Avaí / SC,Mirassol / SP
-014,Botafogo / SP,Sampaio Corrêa / MA
-015,Novorizontino / SP,Juventude / RS
-016,Sport / PE,Vila Nova / GO
-017,Ceará / CE,Guarani / SP
-018,Chapecoense / SC,Londrina / PR
-019,Tombense / MG,Ituano / SP
-020,ABC / RN,Vitória / BA
-021,Guarani / SP,Ituano / SP
-022,Vila Nova / GO,Juventude / RS
-023,Criciúma / SC,Avaí / SC
-024,Botafogo / SP,CRB / AL
-025,Novorizontino / SP,Sport / PE
-026,Vitória / BA,Londrina / PR
-027,Sampaio Corrêa / MA,Mirassol / SP
-028,Chapecoense / SC,Ponte Preta / SP
-029,Tombense / MG,Atlético / GO
-030,ABC / RN,Ceará / CE
-031,Ponte Preta / SP,Botafogo / SP
-032,Atlético / GO,Chapecoense / SC
-033,Avaí / SC,Vila Nova / GO
-034,Ituano / SP,ABC / RN
-035,Mirassol / SP,Novorizontino / SP
-036,Sport / PE,Tombense / MG
-037,Ceará / CE,Vitória / BA
-038,Juventude / RS,Guarani / SP
-039,Londrina / PR,Criciúma / SC
-040,CRB / AL,Sampaio Corrêa / MA
-041,Ponte Preta / SP,Ceará / CE
-042,Atlético / GO,Londrina / PR
-043,Criciúma / SC,Ituano / SP
-044,Botafogo / SP,Vitória / BA
-045,Mirassol / SP,Vila Nova / GO
-046,Sport / PE,Guarani / SP
-047,Sampaio Corrêa / MA,Juventude / RS
-048,Chapecoense / SC,Novorizontino / SP
-049,Tombense / MG,Avaí / SC
-050,CRB / AL,ABC / RN
-051,Guarani / SP,Sampaio Corrêa / MA
-052,Vila Nova / GO,Criciúma / SC
-053,Avaí / SC,Chapecoense / SC
-054,Ituano / SP,Sport / PE
-055,Novorizontino / SP,CRB / AL
-056,Vitória / BA,Atlético / GO
-057,Ceará / CE,Tombense / MG
-058,Juventude / RS,Mirassol / SP
-059,Londrina / PR,Ponte Preta / SP
-060,ABC / RN,Botafogo / SP
-061,Ponte Preta / SP,Guarani / SP
-062,Atlético / GO,Avaí / SC
-063,Criciúma / SC,Ceará / CE
-064,Ituano / SP,Novorizontino / SP
-065,Mirassol / SP,Vitória / BA
-066,Sport / PE,Botafogo / SP
-067,Sampaio Corrêa / MA,ABC / RN
-068,Chapecoense / SC,Juventude / RS
-069,Tombense / MG,Londrina / PR
-070,CRB / AL,Vila Nova / GO
-071,Guarani / SP,Chapecoense / SC
-072,Vila Nova / GO,Ituano / SP
-073,Criciúma / SC,Sport / PE
-074,Botafogo / SP,Mirassol / SP
-075,Novorizontino / SP,Avaí / SC
-076,Vitória / BA,CRB / AL
-077,Sampaio Corrêa / MA,Ponte Preta / SP
-078,Juventude / RS,Atlético / GO
-079,Londrina / PR,Ceará / CE
-080,ABC / RN,Tombense / MG
-081,Ponte Preta / SP,Vila Nova / GO
-082,Atlético / GO,Botafogo / SP
-083,Avaí / SC,Vitória / BA
-084,Ituano / SP,Londrina / PR
-085,Mirassol / SP,Criciúma / SC
-086,Sport / PE,ABC / RN
-087,Ceará / CE,Novorizontino / SP
-088,Chapecoense / SC,Sampaio Corrêa / MA
-089,Tombense / MG,Guarani / SP
-090,CRB / AL,Juventude / RS
-091,Guarani / SP,CRB / AL
-092,Vila Nova / GO,Sampaio Corrêa / MA
-093,Criciúma / SC,Atlético / GO
-094,Botafogo / SP,Tombense / MG
-095,Mirassol / SP,Ponte Preta / SP
-096,Vitória / BA,Ituano / SP
-097,Ceará / CE,Chapecoense / SC
-098,Juventude / RS,Avaí / SC
-099,Londrina / PR,Sport / PE
-100,ABC / RN,Novorizontino / SP
-101,Ponte Preta / SP,ABC / RN
-102,Atlético / GO,Ceará / CE
-103,Criciúma / SC,Juventude / RS
-104,Botafogo / SP,Ituano / SP
-105,Novorizontino / SP,Guarani / SP
-106,Sport / PE,Avaí / SC
-107,Sampaio Corrêa / MA,Londrina / PR
-108,Chapecoense / SC,Vila Nova / GO
-109,Tombense / MG,Vitória / BA
-110,CRB / AL,Mirassol / SP
-111,Ponte Preta / SP,Sport / PE
-112,Vila Nova / GO,Guarani / SP
-113,Avaí / SC,Botafogo / SP
-114,Ituano / SP,Atlético / GO
-115,Novorizontino / SP,Sampaio Corrêa / MA
-116,Vitória / BA,Criciúma / SC
-117,Ceará / CE,CRB / AL
-118,Juventude / RS,Tombense / MG
-119,Londrina / PR,Mirassol / SP
-120,ABC / RN,Chapecoense / SC
-121,Guarani / SP,Vitória / BA
-122,Atlético / GO,Ponte Preta / SP
-123,Avaí / SC,Londrina / PR
-124,Botafogo / SP,Vila Nova / GO
-125,Mirassol / SP,ABC / RN
-126,Sport / PE,Juventude / RS
-127,Sampaio Corrêa / MA,Ceará / CE
-128,Chapecoense / SC,Criciúma / SC
-129,Tombense / MG,Novorizontino / SP
-130,CRB / AL,Ituano / SP
-131,Guarani / SP,Mirassol / SP
-132,Vila Nova / GO,Tombense / MG
-133,Criciúma / SC,CRB / AL
-134,Ituano / SP,Ponte Preta / SP
-135,Novorizontino / SP,Botafogo / SP
-136,Vitória / BA,Sampaio Corrêa / MA
-137,Ceará / CE,Avaí / SC
-138,Chapecoense / SC,Sport / PE
-139,Londrina / PR,Juventude / RS
-140,ABC / RN,Atlético / GO
-141,Ponte Preta / SP,Novorizontino / SP
-142,Atlético / GO,Vila Nova / GO
-143,Avaí / SC,ABC / RN
-144,Botafogo / SP,Guarani / SP
-145,Mirassol / SP,Ituano / SP
-146,Sport / PE,Ceará / CE
-147,Sampaio Corrêa / MA,Criciúma / SC
-148,Juventude / RS,Vitória / BA
-149,Tombense / MG,Chapecoense / SC
-150,CRB / AL,Londrina / PR
-151,Guarani / SP,Londrina / PR
-152,Vila Nova / GO,Vitória / BA
-153,Avaí / SC,Ponte Preta / SP
-154,Ituano / SP,Juventude / RS
-155,Novorizontino / SP,Atlético / GO
-156,Sport / PE,Mirassol / SP
-157,Ceará / CE,Botafogo / SP
-158,Chapecoense / SC,CRB / AL
-159,Tombense / MG,Sampaio Corrêa / MA
-160,ABC / RN,Criciúma / SC
-161,Ponte Preta / SP,Tombense / MG
-162,Atlético / GO,Sport / PE
-163,Criciúma / SC,Guarani / SP
-164,Botafogo / SP,Chapecoense / SC
-165,Mirassol / SP,Ceará / CE
-166,Vitória / BA,Novorizontino / SP
-167,Sampaio Corrêa / MA,Ituano / SP
-168,Juventude / RS,ABC / RN
-169,Londrina / PR,Vila Nova / GO
-170,CRB / AL,Avaí / SC
-171,Ponte Preta / SP,Juventude / RS
-172,Atlético / GO,Mirassol / SP
-173,Avaí / SC,Sampaio Corrêa / MA
-174,Botafogo / SP,Criciúma / SC
-175,Novorizontino / SP,Londrina / PR
-176,Sport / PE,Vitória / BA
-177,Ceará / CE,Vila Nova / GO
-178,Chapecoense / SC,Ituano / SP
-179,Tombense / MG,CRB / AL
-180,ABC / RN,Guarani / SP
-181,Guarani / SP,Atlético / GO
-182,Vila Nova / GO,ABC / RN
-183,Criciúma / SC,Novorizontino / SP
-184,Ituano / SP,Avaí / SC
-185,Mirassol / SP,Tombense / MG
-186,Vitória / BA,Chapecoense / SC
-187,Sampaio Corrêa / MA,Sport / PE
-188,Juventude / RS,Ceará / CE
-189,Londrina / PR,Botafogo / SP
-190,CRB / AL,Ponte Preta / SP
-191,Ponte Preta / SP,Vitória / BA
-192,Atlético / GO,Sampaio Corrêa / MA
-193,Avaí / SC,Guarani / SP
-194,Botafogo / SP,Juventude / RS
-195,Novorizontino / SP,Vila Nova / GO
-196,Sport / PE,CRB / AL
-197,Ceará / CE,Ituano / SP
-198,Chapecoense / SC,Mirassol / SP
-199,Tombense / MG,Criciúma / SC
-200,ABC / RN,Londrina / PR
-201,Guarani / SP,Ceará / CE
-202,Vila Nova / GO,Sport / PE
-203,Criciúma / SC,Ponte Preta / SP
-204,Ituano / SP,Tombense / MG
-205,Mirassol / SP,Avaí / SC
-206,Vitória / BA,ABC / RN
-207,Sampaio Corrêa / MA,Botafogo / SP
-208,Juventude / RS,Novorizontino / SP
-209,Londrina / PR,Chapecoense / SC
-210,CRB / AL,Atlético / GO
-211,Ponte Preta / SP,Chapecoense / SC
-212,Atlético / GO,Tombense / MG
-213,Avaí / SC,Criciúma / SC
-214,Ituano / SP,Guarani / SP
-215,Mirassol / SP,Sampaio Corrêa / MA
-216,Sport / PE,Novorizontino / SP
-217,Ceará / CE,ABC / RN
-218,Juventude / RS,Vila Nova / GO
-219,Londrina / PR,Vitória / BA
-220,CRB / AL,Botafogo / SP
-221,Guarani / SP,Juventude / RS
-222,Vila Nova / GO,Avaí / SC
-223,Criciúma / SC,Londrina / PR
-224,Botafogo / SP,Ponte Preta / SP
-225,Novorizontino / SP,Mirassol / SP
-226,Vitória / BA,Ceará / CE
-227,Sampaio Corrêa / MA,CRB / AL
-228,Chapecoense / SC,Atlético / GO
-229,Tombense / MG,Sport / PE
-230,ABC / RN,Ituano / SP
-231,Guarani / SP,Sport / PE
-232,Vila Nova / GO,Mirassol / SP
-233,Avaí / SC,Tombense / MG
-234,Ituano / SP,Criciúma / SC
-235,Novorizontino / SP,Chapecoense / SC
-236,Vitória / BA,Botafogo / SP
-237,Ceará / CE,Ponte Preta / SP
-238,Juventude / RS,Sampaio Corrêa / MA
-239,Londrina / PR,Atlético / GO
-240,ABC / RN,CRB / AL
-241,Ponte Preta / SP,Londrina / PR
-242,Atlético / GO,Vitória / BA
-243,Criciúma / SC,Vila Nova / GO
-244,Botafogo / SP,ABC / RN
-245,Mirassol / SP,Juventude / RS
-246,Sport / PE,Ituano / SP
-247,Sampaio Corrêa / MA,Guarani / SP
-248,Chapecoense / SC,Avaí / SC
-249,Tombense / MG,Ceará / CE
-250,CRB / AL,Novorizontino / SP
-251,Guarani / SP,Ponte Preta / SP
-252,Vila Nova / GO,CRB / AL
-253,Avaí / SC,Atlético / GO
-254,Botafogo / SP,Sport / PE
-255,Novorizontino / SP,Ituano / SP
-256,Vitória / BA,Mirassol / SP
-257,Ceará / CE,Criciúma / SC
-258,Juventude / RS,Chapecoense / SC
-259,Londrina / PR,Tombense / MG
-260,ABC / RN,Sampaio Corrêa / MA
-261,Ponte Preta / SP,Sampaio Corrêa / MA
-262,Atlético / GO,Juventude / RS
-263,Avaí / SC,Novorizontino / SP
-264,Ituano / SP,Vila Nova / GO
-265,Mirassol / SP,Botafogo / SP
-266,Sport / PE,Criciúma / SC
-267,Ceará / CE,Londrina / PR
-268,Chapecoense / SC,Guarani / SP
-269,Tombense / MG,ABC / RN
-270,CRB / AL,Vitória / BA
-271,Guarani / SP,Tombense / MG
-272,Vila Nova / GO,Ponte Preta / SP
-273,Criciúma / SC,Mirassol / SP
-274,Botafogo / SP,Atlético / GO
-275,Novorizontino / SP,Ceará / CE
-276,Vitória / BA,Avaí / SC
-277,Sampaio Corrêa / MA,Chapecoense / SC
-278,Juventude / RS,CRB / AL
-279,Londrina / PR,Ituano / SP
-280,ABC / RN,Sport / PE
-281,Ponte Preta / SP,Mirassol / SP
-282,Atlético / GO,Criciúma / SC
-283,Avaí / SC,Juventude / RS
-284,Ituano / SP,Vitória / BA
-285,Novorizontino / SP,ABC / RN
-286,Sport / PE,Londrina / PR
-287,Sampaio Corrêa / MA,Vila Nova / GO
-288,Chapecoense / SC,Ceará / CE
-289,Tombense / MG,Botafogo / SP
-290,CRB / AL,Guarani / SP
-291,Guarani / SP,Novorizontino / SP
-292,Vila Nova / GO,Chapecoense / SC
-293,Avaí / SC,Sport / PE
-294,Ituano / SP,Botafogo / SP
-295,Mirassol / SP,CRB / AL
-296,Vitória / BA,Tombense / MG
-297,Ceará / CE,Atlético / GO
-298,Juventude / RS,Criciúma / SC
-299,Londrina / PR,Sampaio Corrêa / MA
-300,ABC / RN,Ponte Preta / SP
-301,Guarani / SP,Vila Nova / GO
-302,Atlético / GO,Ituano / SP
-303,Criciúma / SC,Vitória / BA
-304,Botafogo / SP,Avaí / SC
-305,Mirassol / SP,Londrina / PR
-306,Sport / PE,Ponte Preta / SP
-307,Sampaio Corrêa / MA,Novorizontino / SP
-308,Chapecoense / SC,ABC / RN
-309,Tombense / MG,Juventude / RS
-310,CRB / AL,Ceará / CE
-311,Ponte Preta / SP,Atlético / GO
-312,Vila Nova / GO,Botafogo / SP
-313,Criciúma / SC,Chapecoense / SC
-314,Ituano / SP,CRB / AL
-315,Novorizontino / SP,Tombense / MG
-316,Vitória / BA,Guarani / SP
-317,Ceará / CE,Sampaio Corrêa / MA
-318,Juventude / RS,Sport / PE
-319,Londrina / PR,Avaí / SC
-320,ABC / RN,Mirassol / SP
-321,Ponte Preta / SP,Ituano / SP
-322,Atlético / GO,ABC / RN
-323,Avaí / SC,Ceará / CE
-324,Botafogo / SP,Novorizontino / SP
-325,Mirassol / SP,Guarani / SP
-326,Sport / PE,Chapecoense / SC
-327,Sampaio Corrêa / MA,Vitória / BA
-328,Juventude / RS,Londrina / PR
-329,Tombense / MG,Vila Nova / GO
-330,CRB / AL,Criciúma / SC
-331,Guarani / SP,Botafogo / SP
-332,Vila Nova / GO,Atlético / GO
-333,Criciúma / SC,Sampaio Corrêa / MA
-334,Ituano / SP,Mirassol / SP
-335,Novorizontino / SP,Ponte Preta / SP
-336,Vitória / BA,Juventude / RS
-337,Ceará / CE,Sport / PE
-338,Chapecoense / SC,Tombense / MG
-339,Londrina / PR,CRB / AL
-340,ABC / RN,Avaí / SC
-341,Ponte Preta / SP,Avaí / SC
-342,Atlético / GO,Novorizontino / SP
-343,Criciúma / SC,ABC / RN
-344,Botafogo / SP,Ceará / CE
-345,Mirassol / SP,Sport / PE
-346,Vitória / BA,Vila Nova / GO
-347,Sampaio Corrêa / MA,Tombense / MG
-348,Juventude / RS,Ituano / SP
-349,Londrina / PR,Guarani / SP
-350,CRB / AL,Chapecoense / SC
-351,Guarani / SP,Criciúma / SC
-352,Vila Nova / GO,Londrina / PR
-353,Avaí / SC,CRB / AL
-354,Ituano / SP,Sampaio Corrêa / MA
-355,Novorizontino / SP,Vitória / BA
-356,Sport / PE,Atlético / GO
-357,Ceará / CE,Mirassol / SP
-358,Chapecoense / SC,Botafogo / SP
-359,Tombense / MG,Ponte Preta / SP
-360,ABC / RN,Juventude / RS
-361,Guarani / SP,ABC / RN
-362,Vila Nova / GO,Ceará / CE
-363,Criciúma / SC,Botafogo / SP
-364,Ituano / SP,Chapecoense / SC
-365,Mirassol / SP,Atlético / GO
-366,Vitória / BA,Sport / PE
-367,Sampaio Corrêa / MA,Avaí / SC
-368,Juventude / RS,Ponte Preta / SP
-369,Londrina / PR,Novorizontino / SP
-370,CRB / AL,Tombense / MG
-371,Ponte Preta / SP,CRB / AL
-372,Atlético / GO,Guarani / SP
-373,Avaí / SC,Ituano / SP
-374,Botafogo / SP,Londrina / PR
-375,Novorizontino / SP,Criciúma / SC
-376,Sport / PE,Sampaio Corrêa / MA
-377,Ceará / CE,Juventude / RS
-378,Chapecoense / SC,Vitória / BA
-379,Tombense / MG,Mirassol / SP
-380,ABC / RN,Vila Nova / GO
+Game,Home,Away,Date,Time,Stadium
+001,Guarani / SP,Avaí / SC,14/04/2023,19:00,Brinco de Ouro da Princesa / Campinas
+002,Vila Nova / GO,Novorizontino / SP,15/04/2023,16:00,Onésio Brasileiro Alvarenga / Goiania
+003,Criciúma / SC,Tombense / MG,16/04/2023,11:00,Heriberto Hulse / Criciuma
+004,Ituano / SP,Ceará / CE,14/04/2023,21:30,Novelli Junior / Itu
+005,Mirassol / SP,Chapecoense / SC,15/04/2023,17:00,José Maria de Campos Maia / Mirassol
+006,Vitória / BA,Ponte Preta / SP,16/04/2023,18:00,Manoel Barradas / Salvador
+007,Sampaio Corrêa / MA,Atlético / GO,15/04/2023,17:00,Governador João Castelo / Sao Luis
+008,Juventude / RS,Botafogo / SP,15/04/2023,18:15,Alfredo Jaconi / Caxias do Sul
+009,Londrina / PR,ABC / RN,16/04/2023,15:30,Jacy Scaff / Londrina
+010,CRB / AL,Sport / PE,05/07/2023,19:00,Rei Pelé / Maceio
+011,Ponte Preta / SP,Criciúma / SC,21/04/2023,21:30,Moisés Lucarelli / Campinas
+012,Atlético / GO,CRB / AL,21/04/2023,16:30,Antônio Accioly / Goiania
+013,Avaí / SC,Mirassol / SP,22/04/2023,16:00,Aderbal Ramos da Silva / Florianopolis
+014,Botafogo / SP,Sampaio Corrêa / MA,21/04/2023,19:00,Santa Cruz / Ribeirao Preto
+015,Novorizontino / SP,Juventude / RS,22/04/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+016,Sport / PE,Vila Nova / GO,18/06/2023,18:00,Adelmar da Costa Carvalho / Recife
+017,Ceará / CE,Guarani / SP,22/04/2023,18:15,Presidente Vargas / Fortaleza
+018,Chapecoense / SC,Londrina / PR,23/04/2023,15:30,Índio Condá / Chapeco
+019,Tombense / MG,Ituano / SP,22/04/2023,11:00,Soares de Azevedo / Muriae
+020,ABC / RN,Vitória / BA,23/04/2023,18:00,Maria Lamas Farache / Natal
+021,Guarani / SP,Ituano / SP,28/04/2023,21:30,Brinco de Ouro da Princesa / Campinas
+022,Vila Nova / GO,Juventude / RS,30/04/2023,18:15,Onésio Brasileiro Alvarenga / Goiania
+023,Criciúma / SC,Avaí / SC,28/04/2023,19:00,Heriberto Hulse / Criciuma
+024,Botafogo / SP,CRB / AL,29/04/2023,17:00,Santa Cruz / Ribeirao Preto
+025,Novorizontino / SP,Sport / PE,30/04/2023,15:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+026,Vitória / BA,Londrina / PR,28/04/2023,19:00,Manoel Barradas / Salvador
+027,Sampaio Corrêa / MA,Mirassol / SP,29/04/2023,16:00,Governador João Castelo / Sao Luis
+028,Chapecoense / SC,Ponte Preta / SP,29/04/2023,17:00,Índio Condá / Chapeco
+029,Tombense / MG,Atlético / GO,29/04/2023,18:15,Soares de Azevedo / Muriae
+030,ABC / RN,Ceará / CE,30/04/2023,18:00,Maria Lamas Farache / Natal
+031,Ponte Preta / SP,Botafogo / SP,02/05/2023,19:00,Moisés Lucarelli / Campinas
+032,Atlético / GO,Chapecoense / SC,02/05/2023,21:30,Antônio Accioly / Goiania
+033,Avaí / SC,Vila Nova / GO,03/05/2023,21:15,Aderbal Ramos da Silva / Florianopolis
+034,Ituano / SP,ABC / RN,03/05/2023,19:00,Novelli Junior / Itu
+035,Mirassol / SP,Novorizontino / SP,03/05/2023,19:00,José Maria de Campos Maia / Mirassol
+036,Sport / PE,Tombense / MG,10/05/2023,21:30,Adelmar da Costa Carvalho / Recife
+037,Ceará / CE,Vitória / BA,10/05/2023,19:00,Presidente Vargas / Fortaleza
+038,Juventude / RS,Guarani / SP,03/05/2023,19:00,Alfredo Jaconi / Caxias do Sul
+039,Londrina / PR,Criciúma / SC,01/05/2023,16:00,Jacy Scaff / Londrina
+040,CRB / AL,Sampaio Corrêa / MA,02/05/2023,19:00,Rei Pelé / Maceio
+041,Ponte Preta / SP,Ceará / CE,07/05/2023,11:00,Moisés Lucarelli / Campinas
+042,Atlético / GO,Londrina / PR,08/05/2023,20:00,Antônio Accioly / Goiania
+043,Criciúma / SC,Ituano / SP,06/05/2023,16:00,Heriberto Hulse / Criciuma
+044,Botafogo / SP,Vitória / BA,05/05/2023,21:30,Santa Cruz / Ribeirao Preto
+045,Mirassol / SP,Vila Nova / GO,06/05/2023,18:15,José Maria de Campos Maia / Mirassol
+046,Sport / PE,Guarani / SP,07/05/2023,19:00,Adelmar da Costa Carvalho / Recife
+047,Sampaio Corrêa / MA,Juventude / RS,06/05/2023,18:15,Governador João Castelo / Sao Luis
+048,Chapecoense / SC,Novorizontino / SP,06/05/2023,20:30,Índio Condá / Chapeco
+049,Tombense / MG,Avaí / SC,06/05/2023,18:15,Soares de Azevedo / Muriae
+050,CRB / AL,ABC / RN,06/05/2023,20:30,Rei Pelé / Maceio
+051,Guarani / SP,Sampaio Corrêa / MA,13/05/2023,17:00,Brinco de Ouro da Princesa / Campinas
+052,Vila Nova / GO,Criciúma / SC,12/05/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+053,Avaí / SC,Chapecoense / SC,12/05/2023,21:30,Aderbal Ramos da Silva / Florianopolis
+054,Ituano / SP,Sport / PE,14/05/2023,20:30,Novelli Junior / Itu
+055,Novorizontino / SP,CRB / AL,13/05/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+056,Vitória / BA,Atlético / GO,14/05/2023,18:00,Manoel Barradas / Salvador
+057,Ceará / CE,Tombense / MG,13/05/2023,18:15,Presidente Vargas / Fortaleza
+058,Juventude / RS,Mirassol / SP,13/05/2023,16:00,Alfredo Jaconi / Caxias do Sul
+059,Londrina / PR,Ponte Preta / SP,14/05/2023,15:30,Jacy Scaff / Londrina
+060,ABC / RN,Botafogo / SP,14/05/2023,18:00,Maria Lamas Farache / Natal
+061,Ponte Preta / SP,Guarani / SP,21/05/2023,18:00,Moisés Lucarelli / Campinas
+062,Atlético / GO,Avaí / SC,19/05/2023,21:30,Antônio Accioly / Goiania
+063,Criciúma / SC,Ceará / CE,21/05/2023,15:30,Heriberto Hulse / Criciuma
+064,Ituano / SP,Novorizontino / SP,20/05/2023,17:00,Novelli Junior / Itu
+065,Mirassol / SP,Vitória / BA,19/05/2023,19:00,José Maria de Campos Maia / Mirassol
+066,Sport / PE,Botafogo / SP,20/05/2023,16:00,Adelmar da Costa Carvalho / Recife
+067,Sampaio Corrêa / MA,ABC / RN,20/05/2023,17:00,Governador João Castelo / Sao Luis
+068,Chapecoense / SC,Juventude / RS,21/05/2023,11:00,Índio Condá / Chapeco
+069,Tombense / MG,Londrina / PR,19/05/2023,19:00,Soares de Azevedo / Muriae
+070,CRB / AL,Vila Nova / GO,21/05/2023,18:15,Rei Pelé / Maceio
+071,Guarani / SP,Chapecoense / SC,24/05/2023,21:15,Brinco de Ouro da Princesa / Campinas
+072,Vila Nova / GO,Ituano / SP,24/05/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+073,Criciúma / SC,Sport / PE,24/05/2023,21:30,Heriberto Hulse / Criciuma
+074,Botafogo / SP,Mirassol / SP,23/05/2023,19:00,Santa Cruz / Ribeirao Preto
+075,Novorizontino / SP,Avaí / SC,23/05/2023,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+076,Vitória / BA,CRB / AL,24/05/2023,19:00,Manoel Barradas / Salvador
+077,Sampaio Corrêa / MA,Ponte Preta / SP,24/05/2023,21:30,Governador João Castelo / Sao Luis
+078,Juventude / RS,Atlético / GO,24/05/2023,19:00,Alfredo Jaconi / Caxias do Sul
+079,Londrina / PR,Ceará / CE,24/05/2023,19:00,Jacy Scaff / Londrina
+080,ABC / RN,Tombense / MG,23/05/2023,21:30,Maria Lamas Farache / Natal
+081,Ponte Preta / SP,Vila Nova / GO,28/05/2023,11:00,Moisés Lucarelli / Campinas
+082,Atlético / GO,Botafogo / SP,27/05/2023,18:00,Antônio Accioly / Goiania
+083,Avaí / SC,Vitória / BA,27/05/2023,17:30,Aderbal Ramos da Silva / Florianopolis
+084,Ituano / SP,Londrina / PR,27/05/2023,17:00,Novelli Junior / Itu
+085,Mirassol / SP,Criciúma / SC,28/05/2023,15:30,José Maria de Campos Maia / Mirassol
+086,Sport / PE,ABC / RN,28/05/2023,18:00,Adelmar da Costa Carvalho / Recife
+087,Ceará / CE,Novorizontino / SP,28/05/2023,15:30,Governador Plácido Aderaldo Castelo / Fortaleza
+088,Chapecoense / SC,Sampaio Corrêa / MA,29/05/2023,20:00,Índio Condá / Chapeco
+089,Tombense / MG,Guarani / SP,28/05/2023,18:15,Soares de Azevedo / Muriae
+090,CRB / AL,Juventude / RS,27/05/2023,17:00,Rei Pelé / Maceio
+091,Guarani / SP,CRB / AL,04/06/2023,15:30,Brinco de Ouro da Princesa / Campinas
+092,Vila Nova / GO,Sampaio Corrêa / MA,03/06/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+093,Criciúma / SC,Atlético / GO,02/06/2023,21:30,Heriberto Hulse / Criciuma
+094,Botafogo / SP,Tombense / MG,02/06/2023,19:00,Santa Cruz / Ribeirao Preto
+095,Mirassol / SP,Ponte Preta / SP,03/06/2023,17:00,José Maria de Campos Maia / Mirassol
+096,Vitória / BA,Ituano / SP,02/06/2023,21:30,Manoel Barradas / Salvador
+097,Ceará / CE,Chapecoense / SC,05/06/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+098,Juventude / RS,Avaí / SC,03/06/2023,16:00,Alfredo Jaconi / Caxias do Sul
+099,Londrina / PR,Sport / PE,04/06/2023,18:00,Jacy Scaff / Londrina
+100,ABC / RN,Novorizontino / SP,03/06/2023,17:00,Maria Lamas Farache / Natal
+101,Ponte Preta / SP,ABC / RN,06/06/2023,19:00,Moisés Lucarelli / Campinas
+102,Atlético / GO,Ceará / CE,06/06/2023,21:30,Antônio Accioly / Goiania
+103,Criciúma / SC,Juventude / RS,08/06/2023,16:00,Heriberto Hulse / Criciuma
+104,Botafogo / SP,Ituano / SP,06/06/2023,21:30,Santa Cruz / Ribeirao Preto
+105,Novorizontino / SP,Guarani / SP,07/06/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+106,Sport / PE,Avaí / SC,07/06/2023,19:00,Adelmar da Costa Carvalho / Recife
+107,Sampaio Corrêa / MA,Londrina / PR,07/06/2023,19:00,Governador João Castelo / Sao Luis
+108,Chapecoense / SC,Vila Nova / GO,06/06/2023,19:00,Índio Condá / Chapeco
+109,Tombense / MG,Vitória / BA,06/06/2023,19:00,Soares de Azevedo / Muriae
+110,CRB / AL,Mirassol / SP,07/06/2023,21:30,Rei Pelé / Maceio
+111,Ponte Preta / SP,Sport / PE,11/06/2023,11:00,Moisés Lucarelli / Campinas
+112,Vila Nova / GO,Guarani / SP,10/06/2023,16:00,Onésio Brasileiro Alvarenga / Goiania
+113,Avaí / SC,Botafogo / SP,11/06/2023,15:30,Aderbal Ramos da Silva / Florianopolis
+114,Ituano / SP,Atlético / GO,10/06/2023,17:00,Novelli Junior / Itu
+115,Novorizontino / SP,Sampaio Corrêa / MA,10/06/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+116,Vitória / BA,Criciúma / SC,11/06/2023,18:00,Manoel Barradas / Salvador
+117,Ceará / CE,CRB / AL,10/06/2023,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+118,Juventude / RS,Tombense / MG,11/06/2023,18:15,Alfredo Jaconi / Caxias do Sul
+119,Londrina / PR,Mirassol / SP,11/06/2023,11:00,Jacy Scaff / Londrina
+120,ABC / RN,Chapecoense / SC,09/06/2023,21:30,Maria Lamas Farache / Natal
+121,Guarani / SP,Vitória / BA,25/06/2023,18:00,Brinco de Ouro da Princesa / Campinas
+122,Atlético / GO,Ponte Preta / SP,23/06/2023,19:00,Antônio Accioly / Goiania
+123,Avaí / SC,Londrina / PR,24/06/2023,16:00,Aderbal Ramos da Silva / Florianopolis
+124,Botafogo / SP,Vila Nova / GO,24/06/2023,11:00,Santa Cruz / Ribeirao Preto
+125,Mirassol / SP,ABC / RN,25/06/2023,11:00,José Maria de Campos Maia / Mirassol
+126,Sport / PE,Juventude / RS,22/06/2023,21:30,Adelmar da Costa Carvalho / Recife
+127,Sampaio Corrêa / MA,Ceará / CE,25/06/2023,15:30,Governador João Castelo / Sao Luis
+128,Chapecoense / SC,Criciúma / SC,24/06/2023,17:00,Índio Condá / Chapeco
+129,Tombense / MG,Novorizontino / SP,24/06/2023,18:15,Soares de Azevedo / Muriae
+130,CRB / AL,Ituano / SP,21/06/2023,19:00,Rei Pelé / Maceio
+131,Guarani / SP,Mirassol / SP,28/06/2023,21:30,Brinco de Ouro da Princesa / Campinas
+132,Vila Nova / GO,Tombense / MG,27/06/2023,21:30,Onésio Brasileiro Alvarenga / Goiania
+133,Criciúma / SC,CRB / AL,27/06/2023,19:00,Heriberto Hulse / Criciuma
+134,Ituano / SP,Ponte Preta / SP,28/06/2023,21:30,Novelli Junior / Itu
+135,Novorizontino / SP,Botafogo / SP,27/06/2023,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+136,Vitória / BA,Sampaio Corrêa / MA,28/06/2023,21:30,Manoel Barradas / Salvador
+137,Ceará / CE,Avaí / SC,28/06/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+138,Chapecoense / SC,Sport / PE,27/06/2023,19:00,Índio Condá / Chapeco
+139,Londrina / PR,Juventude / RS,28/06/2023,21:30,Jacy Scaff / Londrina
+140,ABC / RN,Atlético / GO,28/06/2023,19:00,Maria Lamas Farache / Natal
+141,Ponte Preta / SP,Novorizontino / SP,02/07/2023,20:30,Moisés Lucarelli / Campinas
+142,Atlético / GO,Vila Nova / GO,01/07/2023,16:00,Antônio Accioly / Goiania
+143,Avaí / SC,ABC / RN,01/07/2023,17:00,Aderbal Ramos da Silva / Florianopolis
+144,Botafogo / SP,Guarani / SP,03/07/2023,20:15,Santa Cruz / Ribeirao Preto
+145,Mirassol / SP,Ituano / SP,03/07/2023,18:00,José Maria de Campos Maia / Mirassol
+146,Sport / PE,Ceará / CE,02/07/2023,18:00,Adelmar da Costa Carvalho / Recife
+147,Sampaio Corrêa / MA,Criciúma / SC,01/07/2023,17:00,Governador João Castelo / Sao Luis
+148,Juventude / RS,Vitória / BA,02/07/2023,15:30,Alfredo Jaconi / Caxias do Sul
+149,Tombense / MG,Chapecoense / SC,30/06/2023,21:30,Soares de Azevedo / Muriae
+150,CRB / AL,Londrina / PR,01/07/2023,18:15,Rei Pelé / Maceio
+151,Guarani / SP,Londrina / PR,08/07/2023,11:00,Brinco de Ouro da Princesa / Campinas
+152,Vila Nova / GO,Vitória / BA,10/07/2023,20:00,Onésio Brasileiro Alvarenga / Goiania
+153,Avaí / SC,Ponte Preta / SP,08/07/2023,17:00,Aderbal Ramos da Silva / Florianopolis
+154,Ituano / SP,Juventude / RS,08/07/2023,17:00,Novelli Junior / Itu
+155,Novorizontino / SP,Atlético / GO,07/07/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+156,Sport / PE,Mirassol / SP,09/07/2023,18:00,Adelmar da Costa Carvalho / Recife
+157,Ceará / CE,Botafogo / SP,07/07/2023,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+158,Chapecoense / SC,CRB / AL,09/07/2023,15:30,Índio Condá / Chapeco
+159,Tombense / MG,Sampaio Corrêa / MA,08/07/2023,18:00,Soares de Azevedo / Muriae
+160,ABC / RN,Criciúma / SC,08/07/2023,15:30,Maria Lamas Farache / Natal
+161,Ponte Preta / SP,Tombense / MG,15/07/2023,17:00,Moisés Lucarelli / Campinas
+162,Atlético / GO,Sport / PE,14/07/2023,21:30,Antônio Accioly / Goiania
+163,Criciúma / SC,Guarani / SP,13/07/2023,20:00,Heriberto Hulse / Criciuma
+164,Botafogo / SP,Chapecoense / SC,23/08/2023,21:30,Santa Cruz / Ribeirao Preto
+165,Mirassol / SP,Ceará / CE,16/07/2023,15:30,José Maria de Campos Maia / Mirassol
+166,Vitória / BA,Novorizontino / SP,16/07/2023,18:00,Manoel Barradas / Salvador
+167,Sampaio Corrêa / MA,Ituano / SP,14/07/2023,21:30,Governador João Castelo / Sao Luis
+168,Juventude / RS,ABC / RN,15/07/2023,11:00,Alfredo Jaconi / Caxias do Sul
+169,Londrina / PR,Vila Nova / GO,15/07/2023,17:00,Jacy Scaff / Londrina
+170,CRB / AL,Avaí / SC,23/08/2023,19:00,Rei Pelé / Maceio
+171,Ponte Preta / SP,Juventude / RS,18/07/2023,21:30,Moisés Lucarelli / Campinas
+172,Atlético / GO,Mirassol / SP,19/07/2023,19:00,Antônio Accioly / Goiania
+173,Avaí / SC,Sampaio Corrêa / MA,19/07/2023,21:30,Aderbal Ramos da Silva / Florianopolis
+174,Botafogo / SP,Criciúma / SC,17/07/2023,20:00,Santa Cruz / Ribeirao Preto
+175,Novorizontino / SP,Londrina / PR,19/07/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+176,Sport / PE,Vitória / BA,19/07/2023,21:30,Adelmar da Costa Carvalho / Recife
+177,Ceará / CE,Vila Nova / GO,19/07/2023,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+178,Chapecoense / SC,Ituano / SP,18/07/2023,19:00,Índio Condá / Chapeco
+179,Tombense / MG,CRB / AL,18/07/2023,18:00,Soares de Azevedo / Muriae
+180,ABC / RN,Guarani / SP,19/07/2023,21:30,Arena das Dunas / Natal
+181,Guarani / SP,Atlético / GO,23/07/2023,11:00,Brinco de Ouro da Princesa / Campinas
+182,Vila Nova / GO,ABC / RN,22/07/2023,17:00,Onésio Brasileiro Alvarenga / Goiania
+183,Criciúma / SC,Novorizontino / SP,22/07/2023,17:00,Heriberto Hulse / Criciuma
+184,Ituano / SP,Avaí / SC,22/07/2023,18:00,Novelli Junior / Itu
+185,Mirassol / SP,Tombense / MG,22/07/2023,15:30,José Maria de Campos Maia / Mirassol
+186,Vitória / BA,Chapecoense / SC,24/07/2023,19:00,Manoel Barradas / Salvador
+187,Sampaio Corrêa / MA,Sport / PE,23/07/2023,18:00,Governador João Castelo / Sao Luis
+188,Juventude / RS,Ceará / CE,23/07/2023,15:30,Alfredo Jaconi / Caxias do Sul
+189,Londrina / PR,Botafogo / SP,24/07/2023,19:00,Jacy Scaff / Londrina
+190,CRB / AL,Ponte Preta / SP,21/07/2023,19:00,Rei Pelé / Maceio
+191,Ponte Preta / SP,Vitória / BA,30/07/2023,18:00,Moisés Lucarelli / Campinas
+192,Atlético / GO,Sampaio Corrêa / MA,29/07/2023,18:00,Antônio Accioly / Goiania
+193,Avaí / SC,Guarani / SP,29/07/2023,17:00,Aderbal Ramos da Silva / Florianopolis
+194,Botafogo / SP,Juventude / RS,29/07/2023,15:30,Francisco Palma Travassos / 
+195,Novorizontino / SP,Vila Nova / GO,30/07/2023,15:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+196,Sport / PE,CRB / AL,28/07/2023,21:30,Adelmar da Costa Carvalho / Recife
+197,Ceará / CE,Ituano / SP,28/07/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+198,Chapecoense / SC,Mirassol / SP,29/07/2023,11:00,Índio Condá / Chapeco
+199,Tombense / MG,Criciúma / SC,30/07/2023,11:00,Soares de Azevedo / Muriae
+200,ABC / RN,Londrina / PR,29/07/2023,17:00,Arena das Dunas / Natal
+201,Guarani / SP,Ceará / CE,02/08/2023,21:30,Brinco de Ouro da Princesa / Campinas
+202,Vila Nova / GO,Sport / PE,04/08/2023,21:30,Onésio Brasileiro Alvarenga / Goiania
+203,Criciúma / SC,Ponte Preta / SP,02/08/2023,19:00,Heriberto Hulse / Criciuma
+204,Ituano / SP,Tombense / MG,02/08/2023,19:00,Novelli Junior / Itu
+205,Mirassol / SP,Avaí / SC,01/08/2023,19:00,José Maria de Campos Maia / Mirassol
+206,Vitória / BA,ABC / RN,02/08/2023,21:30,Manoel Barradas / Salvador
+207,Sampaio Corrêa / MA,Botafogo / SP,01/08/2023,19:00,Governador João Castelo / Sao Luis
+208,Juventude / RS,Novorizontino / SP,02/08/2023,21:30,Alfredo Jaconi / Caxias do Sul
+209,Londrina / PR,Chapecoense / SC,02/08/2023,21:30,Jacy Scaff / Londrina
+210,CRB / AL,Atlético / GO,01/08/2023,21:30,Rei Pelé / Maceio
+211,Ponte Preta / SP,Chapecoense / SC,06/08/2023,15:30,Moisés Lucarelli / Campinas
+212,Atlético / GO,Tombense / MG,07/08/2023,20:00,Antônio Accioly / Goiania
+213,Avaí / SC,Criciúma / SC,05/08/2023,15:30,Aderbal Ramos da Silva / Florianopolis
+214,Ituano / SP,Guarani / SP,05/08/2023,17:00,Novelli Junior / Itu
+215,Mirassol / SP,Sampaio Corrêa / MA,04/08/2023,21:30,José Maria de Campos Maia / Mirassol
+216,Sport / PE,Novorizontino / SP,05/08/2023,18:00,Adelmar da Costa Carvalho / Recife
+217,Ceará / CE,ABC / RN,06/08/2023,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+218,Juventude / RS,Vila Nova / GO,07/08/2023,18:00,Alfredo Jaconi / Caxias do Sul
+219,Londrina / PR,Vitória / BA,07/08/2023,20:00,Jacy Scaff / Londrina
+220,CRB / AL,Botafogo / SP,05/08/2023,17:00,Rei Pelé / Maceio
+221,Guarani / SP,Juventude / RS,13/08/2023,15:45,Brinco de Ouro da Princesa / Campinas
+222,Vila Nova / GO,Avaí / SC,12/08/2023,18:00,Onésio Brasileiro Alvarenga / Goiania
+223,Criciúma / SC,Londrina / PR,12/08/2023,15:30,Heriberto Hulse / Criciuma
+224,Botafogo / SP,Ponte Preta / SP,12/08/2023,17:00,Santa Cruz / Ribeirao Preto
+225,Novorizontino / SP,Mirassol / SP,11/08/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+226,Vitória / BA,Ceará / CE,13/08/2023,18:00,Manoel Barradas / Salvador
+227,Sampaio Corrêa / MA,CRB / AL,12/08/2023,17:00,Governador João Castelo / Sao Luis
+228,Chapecoense / SC,Atlético / GO,13/08/2023,11:00,Índio Condá / Chapeco
+229,Tombense / MG,Sport / PE,11/08/2023,21:30,Soares de Azevedo / Muriae
+230,ABC / RN,Ituano / SP,14/08/2023,20:00,Maria Lamas Farache / Natal
+231,Guarani / SP,Sport / PE,18/08/2023,21:30,Brinco de Ouro da Princesa / Campinas
+232,Vila Nova / GO,Mirassol / SP,17/08/2023,21:30,Onésio Brasileiro Alvarenga / Goiania
+233,Avaí / SC,Tombense / MG,19/08/2023,15:30,Aderbal Ramos da Silva / Florianopolis
+234,Ituano / SP,Criciúma / SC,19/08/2023,17:00,Novelli Junior / Itu
+235,Novorizontino / SP,Chapecoense / SC,20/08/2023,15:45,Dr. Jorge Ismael de Biasi / Novo Horizonte
+236,Vitória / BA,Botafogo / SP,18/08/2023,19:00,Manoel Barradas / Salvador
+237,Ceará / CE,Ponte Preta / SP,20/08/2023,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+238,Juventude / RS,Sampaio Corrêa / MA,19/08/2023,18:00,Alfredo Jaconi / Caxias do Sul
+239,Londrina / PR,Atlético / GO,17/08/2023,19:00,Jacy Scaff / Londrina
+240,ABC / RN,CRB / AL,19/08/2023,17:00,Maria Lamas Farache / Natal
+241,Ponte Preta / SP,Londrina / PR,25/08/2023,19:00,Moisés Lucarelli / Campinas
+242,Atlético / GO,Vitória / BA,27/08/2023,18:00,Antônio Accioly / Goiania
+243,Criciúma / SC,Vila Nova / GO,22/08/2023,21:30,Heriberto Hulse / Criciuma
+244,Botafogo / SP,ABC / RN,28/08/2023,20:00,Santa Cruz / Ribeirao Preto
+245,Mirassol / SP,Juventude / RS,22/08/2023,19:00,José Maria de Campos Maia / Mirassol
+246,Sport / PE,Ituano / SP,25/08/2023,21:30,Adelmar da Costa Carvalho / Recife
+247,Sampaio Corrêa / MA,Guarani / SP,26/08/2023,17:00,Governador João Castelo / Sao Luis
+248,Chapecoense / SC,Avaí / SC,27/08/2023,15:45,Índio Condá / Chapeco
+249,Tombense / MG,Ceará / CE,26/08/2023,17:00,Soares de Azevedo / Muriae
+250,CRB / AL,Novorizontino / SP,26/08/2023,18:00,Rei Pelé / Maceio
+251,Guarani / SP,Ponte Preta / SP,02/09/2023,18:00,Brinco de Ouro da Princesa / Campinas
+252,Vila Nova / GO,CRB / AL,03/09/2023,15:45,Onésio Brasileiro Alvarenga / Goiania
+253,Avaí / SC,Atlético / GO,02/09/2023,15:30,Aderbal Ramos da Silva / Florianopolis
+254,Botafogo / SP,Sport / PE,03/09/2023,18:00,Santa Cruz / Ribeirao Preto
+255,Novorizontino / SP,Ituano / SP,30/08/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+256,Vitória / BA,Mirassol / SP,01/09/2023,19:15,Manoel Barradas / Salvador
+257,Ceará / CE,Criciúma / SC,02/09/2023,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+258,Juventude / RS,Chapecoense / SC,31/08/2023,21:30,Alfredo Jaconi / Caxias do Sul
+259,Londrina / PR,Tombense / MG,01/09/2023,21:30,Jacy Scaff / Londrina
+260,ABC / RN,Sampaio Corrêa / MA,02/09/2023,17:00,Maria Lamas Farache / Natal
+261,Ponte Preta / SP,Sampaio Corrêa / MA,09/09/2023,17:00,Moisés Lucarelli / Campinas
+262,Atlético / GO,Juventude / RS,10/09/2023,15:45,Antônio Accioly / Goiania
+263,Avaí / SC,Novorizontino / SP,11/09/2023,20:30,Aderbal Ramos da Silva / Florianopolis
+264,Ituano / SP,Vila Nova / GO,08/09/2023,18:00,Novelli Junior / Itu
+265,Mirassol / SP,Botafogo / SP,09/09/2023,20:30,José Maria de Campos Maia / Mirassol
+266,Sport / PE,Criciúma / SC,09/09/2023,20:45,Adelmar da Costa Carvalho / Recife
+267,Ceará / CE,Londrina / PR,06/09/2023,21:30,Presidente Vargas / Fortaleza
+268,Chapecoense / SC,Guarani / SP,05/09/2023,21:30,Índio Condá / Chapeco
+269,Tombense / MG,ABC / RN,07/09/2023,18:30,Soares de Azevedo / Muriae
+270,CRB / AL,Vitória / BA,10/09/2023,18:00,Rei Pelé / Maceio
+271,Guarani / SP,Tombense / MG,17/09/2023,15:45,Brinco de Ouro da Princesa / Campinas
+272,Vila Nova / GO,Ponte Preta / SP,15/09/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+273,Criciúma / SC,Mirassol / SP,16/09/2023,15:30,Heriberto Hulse / Criciuma
+274,Botafogo / SP,Atlético / GO,16/09/2023,17:00,Santa Cruz / Ribeirao Preto
+275,Novorizontino / SP,Ceará / CE,18/09/2023,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+276,Vitória / BA,Avaí / SC,17/09/2023,18:00,Manoel Barradas / Salvador
+277,Sampaio Corrêa / MA,Chapecoense / SC,16/09/2023,17:00,Governador João Castelo / Sao Luis
+278,Juventude / RS,CRB / AL,16/09/2023,18:00,Alfredo Jaconi / Caxias do Sul
+279,Londrina / PR,Ituano / SP,14/09/2023,18:30,Jacy Scaff / Londrina
+280,ABC / RN,Sport / PE,15/09/2023,21:30,Maria Lamas Farache / Natal
+281,Ponte Preta / SP,Mirassol / SP,22/09/2023,19:00,Moisés Lucarelli / Campinas
+282,Atlético / GO,Criciúma / SC,22/09/2023,21:30,Antônio Accioly / Goiania
+283,Avaí / SC,Juventude / RS,25/09/2023,18:30,Aderbal Ramos da Silva / Florianopolis
+284,Ituano / SP,Vitória / BA,22/09/2023,21:30,Novelli Junior / Itu
+285,Novorizontino / SP,ABC / RN,25/09/2023,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+286,Sport / PE,Londrina / PR,23/09/2023,20:45,Adelmar da Costa Carvalho / Recife
+287,Sampaio Corrêa / MA,Vila Nova / GO,19/09/2023,21:30,Governador João Castelo / Sao Luis
+288,Chapecoense / SC,Ceará / CE,23/09/2023,17:00,Índio Condá / Chapeco
+289,Tombense / MG,Botafogo / SP,23/09/2023,18:00,Soares de Azevedo / Muriae
+290,CRB / AL,Guarani / SP,23/09/2023,17:00,Rei Pelé / Maceio
+291,Guarani / SP,Novorizontino / SP,30/09/2023,17:00,Brinco de Ouro da Princesa / Campinas
+292,Vila Nova / GO,Chapecoense / SC,01/10/2023,15:45,Serra Dourada / Goiania
+293,Avaí / SC,Sport / PE,29/09/2023,19:00,Aderbal Ramos da Silva / Florianopolis
+294,Ituano / SP,Botafogo / SP,30/09/2023,17:00,Novelli Junior / Itu
+295,Mirassol / SP,CRB / AL,28/09/2023,19:00,José Maria de Campos Maia / Mirassol
+296,Vitória / BA,Tombense / MG,29/09/2023,21:30,Manoel Barradas / Salvador
+297,Ceará / CE,Atlético / GO,01/10/2023,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+298,Juventude / RS,Criciúma / SC,30/09/2023,15:30,Alfredo Jaconi / Caxias do Sul
+299,Londrina / PR,Sampaio Corrêa / MA,28/09/2023,21:30,Jacy Scaff / Londrina
+300,ABC / RN,Ponte Preta / SP,30/09/2023,18:00,Maria Lamas Farache / Natal
+301,Guarani / SP,Vila Nova / GO,07/10/2023,18:00,Brinco de Ouro da Princesa / Campinas
+302,Atlético / GO,Ituano / SP,06/10/2023,21:30,Antônio Accioly / Goiania
+303,Criciúma / SC,Vitória / BA,08/10/2023,18:00,Heriberto Hulse / Criciuma
+304,Botafogo / SP,Avaí / SC,07/10/2023,17:00,Santa Cruz / Ribeirao Preto
+305,Mirassol / SP,Londrina / PR,03/10/2023,19:30,José Maria de Campos Maia / Mirassol
+306,Sport / PE,Ponte Preta / SP,09/10/2023,20:00,Adelmar da Costa Carvalho / Recife
+307,Sampaio Corrêa / MA,Novorizontino / SP,07/10/2023,17:00,Governador João Castelo / Sao Luis
+308,Chapecoense / SC,ABC / RN,05/10/2023,19:15,Índio Condá / Chapeco
+309,Tombense / MG,Juventude / RS,07/10/2023,15:30,Antônio Guimarães de Almeida / Tombos
+310,CRB / AL,Ceará / CE,06/10/2023,21:30,Rei Pelé / Maceio
+311,Ponte Preta / SP,Atlético / GO,15/10/2023,15:45,Moisés Lucarelli / Campinas
+312,Vila Nova / GO,Botafogo / SP,11/10/2023,21:30,Onésio Brasileiro Alvarenga / Goiania
+313,Criciúma / SC,Chapecoense / SC,13/10/2023,21:30,Heriberto Hulse / Criciuma
+314,Ituano / SP,CRB / AL,14/10/2023,17:00,Novelli Junior / Itu
+315,Novorizontino / SP,Tombense / MG,14/10/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+316,Vitória / BA,Guarani / SP,15/10/2023,18:00,Manoel Barradas / Salvador
+317,Ceará / CE,Sampaio Corrêa / MA,14/10/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+318,Juventude / RS,Sport / PE,16/10/2023,20:00,Alfredo Jaconi / Caxias do Sul
+319,Londrina / PR,Avaí / SC,15/10/2023,18:30,Jacy Scaff / Londrina
+320,ABC / RN,Mirassol / SP,10/10/2023,21:30,Maria Lamas Farache / Natal
+321,Ponte Preta / SP,Ituano / SP,23/10/2023,20:00,Moisés Lucarelli / Campinas
+322,Atlético / GO,ABC / RN,19/10/2023,19:00,Antônio Accioly / Goiania
+323,Avaí / SC,Ceará / CE,22/10/2023,18:00,Aderbal Ramos da Silva / Florianopolis
+324,Botafogo / SP,Novorizontino / SP,21/10/2023,17:00,Santa Cruz / Ribeirao Preto
+325,Mirassol / SP,Guarani / SP,20/10/2023,21:30,José Maria de Campos Maia / Mirassol
+326,Sport / PE,Chapecoense / SC,22/10/2023,18:00,Adelmar da Costa Carvalho / Recife
+327,Sampaio Corrêa / MA,Vitória / BA,20/10/2023,19:00,Governador João Castelo / Sao Luis
+328,Juventude / RS,Londrina / PR,21/10/2023,18:00,Alfredo Jaconi / Caxias do Sul
+329,Tombense / MG,Vila Nova / GO,19/10/2023,19:00,Antônio Guimarães de Almeida / Tombos
+330,CRB / AL,Criciúma / SC,21/10/2023,17:00,Rei Pelé / Maceio
+331,Guarani / SP,Botafogo / SP,27/10/2023,21:30,Brinco de Ouro da Princesa / Campinas
+332,Vila Nova / GO,Atlético / GO,28/10/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+333,Criciúma / SC,Sampaio Corrêa / MA,28/10/2023,15:30,Heriberto Hulse / Criciuma
+334,Ituano / SP,Mirassol / SP,28/10/2023,15:30,Novelli Junior / Itu
+335,Novorizontino / SP,Ponte Preta / SP,27/10/2023,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+336,Vitória / BA,Juventude / RS,29/10/2023,19:00,Manoel Barradas / Salvador
+337,Ceará / CE,Sport / PE,27/10/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+338,Chapecoense / SC,Tombense / MG,30/10/2023,20:00,Índio Condá / Chapeco
+339,Londrina / PR,CRB / AL,29/10/2023,18:30,Jacy Scaff / Londrina
+340,ABC / RN,Avaí / SC,26/10/2023,19:00,Maria Lamas Farache / Natal
+341,Ponte Preta / SP,Avaí / SC,04/11/2023,17:00,Moisés Lucarelli / Campinas
+342,Atlético / GO,Novorizontino / SP,01/11/2023,20:00,Antônio Accioly / Goiania
+343,Criciúma / SC,ABC / RN,07/11/2023,21:30,Heriberto Hulse / Criciuma
+344,Botafogo / SP,Ceará / CE,04/11/2023,17:00,Santa Cruz / Ribeirao Preto
+345,Mirassol / SP,Sport / PE,03/11/2023,19:00,José Maria de Campos Maia / Mirassol
+346,Vitória / BA,Vila Nova / GO,05/11/2023,18:00,Manoel Barradas / Salvador
+347,Sampaio Corrêa / MA,Tombense / MG,04/11/2023,19:30,Governador João Castelo / Sao Luis
+348,Juventude / RS,Ituano / SP,03/11/2023,21:30,Alfredo Jaconi / Caxias do Sul
+349,Londrina / PR,Guarani / SP,03/11/2023,21:30,Jacy Scaff / Londrina
+350,CRB / AL,Chapecoense / SC,07/11/2023,19:00,Rei Pelé / Maceio
+351,Guarani / SP,Criciúma / SC,14/11/2023,19:00,Brinco de Ouro da Princesa / Campinas
+352,Vila Nova / GO,Londrina / PR,10/11/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+353,Avaí / SC,CRB / AL,11/11/2023,17:00,Aderbal Ramos da Silva / Florianopolis
+354,Ituano / SP,Sampaio Corrêa / MA,11/11/2023,15:30,Novelli Junior / Itu
+355,Novorizontino / SP,Vitória / BA,12/11/2023,18:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+356,Sport / PE,Atlético / GO,10/11/2023,21:30,Adelmar da Costa Carvalho / Recife
+357,Ceará / CE,Mirassol / SP,12/11/2023,15:45,Presidente Vargas / Fortaleza
+358,Chapecoense / SC,Botafogo / SP,11/11/2023,17:00,Índio Condá / Chapeco
+359,Tombense / MG,Ponte Preta / SP,11/11/2023,18:00,Antônio Guimarães de Almeida / Tombos
+360,ABC / RN,Juventude / RS,14/11/2023,21:30,Maria Lamas Farache / Natal
+361,Guarani / SP,ABC / RN,19/11/2023,15:45,Brinco de Ouro da Princesa / Campinas
+362,Vila Nova / GO,Ceará / CE,18/11/2023,17:00,Onésio Brasileiro Alvarenga / Goiania
+363,Criciúma / SC,Botafogo / SP,18/11/2023,17:00,Heriberto Hulse / Criciuma
+364,Ituano / SP,Chapecoense / SC,17/11/2023,19:00,Novelli Junior / Itu
+365,Mirassol / SP,Atlético / GO,18/11/2023,17:00,José Maria de Campos Maia / Mirassol
+366,Vitória / BA,Sport / PE,18/11/2023,17:00,Manoel Barradas / Salvador
+367,Sampaio Corrêa / MA,Avaí / SC,20/11/2023,20:00,Governador João Castelo / Sao Luis
+368,Juventude / RS,Ponte Preta / SP,18/11/2023,17:00,Alfredo Jaconi / Caxias do Sul
+369,Londrina / PR,Novorizontino / SP,17/11/2023,21:30,Jacy Scaff / Londrina
+370,CRB / AL,Tombense / MG,19/11/2023,18:00,Rei Pelé / Maceio
+371,Ponte Preta / SP,CRB / AL,25/11/2023,17:00,Moisés Lucarelli / Campinas
+372,Atlético / GO,Guarani / SP,25/11/2023,17:00,Antônio Accioly / Goiania
+373,Avaí / SC,Ituano / SP,25/11/2023,17:00,Aderbal Ramos da Silva / Florianopolis
+374,Botafogo / SP,Londrina / PR,25/11/2023,17:00,Santa Cruz / Ribeirao Preto
+375,Novorizontino / SP,Criciúma / SC,25/11/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+376,Sport / PE,Sampaio Corrêa / MA,25/11/2023,17:00,Adelmar da Costa Carvalho / Recife
+377,Ceará / CE,Juventude / RS,25/11/2023,17:00,Presidente Vargas / Fortaleza
+378,Chapecoense / SC,Vitória / BA,25/11/2023,17:00,Índio Condá / Chapeco
+379,Tombense / MG,Mirassol / SP,25/11/2023,17:00,Antônio Guimarães de Almeida / Tombos
+380,ABC / RN,Vila Nova / GO,25/11/2023,17:00,Maria Lamas Farache / Natal

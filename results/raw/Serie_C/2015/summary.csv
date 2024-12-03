@@ -1,195 +1,195 @@
-Game,Home,Away
-001,Confiança / SE,ASA / AL
-002,Águia de Marabá / PA,América / RN
-003,Vila Nova / GO,Cuiabá / MT
-004,Botafogo / PB,Salgueiro / PE
-005,Icasa / CE,Fortaleza / CE
-006,Brasil / RS,Juventude / RS
-007,Tombense / MG,Tupi / MG
-008,Londrina / PR,Portuguesa / SP
-009,Caxias / RS,Madureira / RJ
-010,Guaratinguetá / SP,Guarani / SP
-011,Fortaleza / CE,Vila Nova / GO
-012,América / RN,Icasa / CE
-013,ASA / AL,Botafogo / PB
-014,Salgueiro / PE,Águia de Marabá / PA
-015,Cuiabá / MT,Confiança / SE
-016,Madureira / RJ,Tombense / MG
-017,Tupi / MG,Guaratinguetá / SP
-018,Guarani / SP,Londrina / PR
-019,Portuguesa / SP,Brasil / RS
-020,Juventude / RS,Caxias / RS
-021,Águia de Marabá / PA,Vila Nova / GO
-022,Icasa / CE,Salgueiro / PE
-023,ASA / AL,América / RN
-024,Botafogo / PB,Confiança / SE
-025,Cuiabá / MT,Fortaleza / CE
-026,Madureira / RJ,Portuguesa / SP
-027,Guarani / SP,Tupi / MG
-028,Tombense / MG,Caxias / RS
-029,Londrina / PR,Juventude / RS
-030,Brasil / RS,Guaratinguetá / SP
-031,Fortaleza / CE,ASA / AL
-032,Vila Nova / GO,Icasa / CE
-033,Confiança / SE,Águia de Marabá / PA
-034,Botafogo / PB,Cuiabá / MT
-035,América / RN,Salgueiro / PE
-036,Juventude / RS,Guarani / SP
-037,Tupi / MG,Madureira / RJ
-038,Londrina / PR,Tombense / MG
-039,Caxias / RS,Brasil / RS
-040,Guaratinguetá / SP,Portuguesa / SP
-041,Salgueiro / PE,Fortaleza / CE
-042,Vila Nova / GO,América / RN
-043,Águia de Marabá / PA,Botafogo / PB
-044,Icasa / CE,Confiança / SE
-045,ASA / AL,Cuiabá / MT
-046,Madureira / RJ,Juventude / RS
-047,Tombense / MG,Guarani / SP
-048,Guaratinguetá / SP,Caxias / RS
-049,Brasil / RS,Londrina / PR
-050,Portuguesa / SP,Tupi / MG
-051,Águia de Marabá / PA,ASA / AL
-052,Fortaleza / CE,América / RN
-053,Confiança / SE,Vila Nova / GO
-054,Botafogo / PB,Icasa / CE
-055,Cuiabá / MT,Salgueiro / PE
-056,Caxias / RS,Tupi / MG
-057,Guarani / SP,Madureira / RJ
-058,Tombense / MG,Brasil / RS
-059,Londrina / PR,Guaratinguetá / SP
-060,Juventude / RS,Portuguesa / SP
-061,Confiança / SE,Fortaleza / CE
-062,América / RN,Cuiabá / MT
-063,Icasa / CE,Águia de Marabá / PA
-064,Vila Nova / GO,Botafogo / PB
-065,Salgueiro / PE,ASA / AL
-066,Tupi / MG,Juventude / RS
-067,Caxias / RS,Londrina / PR
-068,Guaratinguetá / SP,Tombense / MG
-069,Brasil / RS,Madureira / RJ
-070,Portuguesa / SP,Guarani / SP
-071,Fortaleza / CE,Botafogo / PB
-072,ASA / AL,Icasa / CE
-073,Salgueiro / PE,Vila Nova / GO
-074,América / RN,Confiança / SE
-075,Cuiabá / MT,Águia de Marabá / PA
-076,Madureira / RJ,Guaratinguetá / SP
-077,Tupi / MG,Londrina / PR
-078,Portuguesa / SP,Caxias / RS
-079,Guarani / SP,Brasil / RS
-080,Juventude / RS,Tombense / MG
-081,Águia de Marabá / PA,Fortaleza / CE
-082,Icasa / CE,Cuiabá / MT
-083,Vila Nova / GO,ASA / AL
-084,Confiança / SE,Salgueiro / PE
-085,Botafogo / PB,América / RN
-086,Caxias / RS,Guarani / SP
-087,Tombense / MG,Portuguesa / SP
-088,Londrina / PR,Madureira / RJ
-089,Guaratinguetá / SP,Juventude / RS
-090,Brasil / RS,Tupi / MG
-091,Madureira / RJ,Caxias / RS
-092,Tupi / MG,Tombense / MG
-093,Juventude / RS,Brasil / RS
-094,América / RN,Águia de Marabá / PA
-095,Fortaleza / CE,Icasa / CE
-096,Salgueiro / PE,Botafogo / PB
-097,Cuiabá / MT,Vila Nova / GO
-098,ASA / AL,Confiança / SE
-099,Portuguesa / SP,Londrina / PR
-100,Guarani / SP,Guaratinguetá / SP
-101,Tombense / MG,Madureira / RJ
-102,Vila Nova / GO,Fortaleza / CE
-103,Águia de Marabá / PA,Salgueiro / PE
-104,Icasa / CE,América / RN
-105,Confiança / SE,Cuiabá / MT
-106,Botafogo / PB,ASA / AL
-107,Guaratinguetá / SP,Tupi / MG
-108,Londrina / PR,Guarani / SP
-109,Brasil / RS,Portuguesa / SP
-110,Caxias / RS,Juventude / RS
-111,Tupi / MG,Guarani / SP
-112,Caxias / RS,Tombense / MG
-113,Fortaleza / CE,Cuiabá / MT
-114,Vila Nova / GO,Águia de Marabá / PA
-115,Confiança / SE,Botafogo / PB
-116,Salgueiro / PE,Icasa / CE
-117,América / RN,ASA / AL
-118,Guaratinguetá / SP,Brasil / RS
-119,Portuguesa / SP,Madureira / RJ
-120,Juventude / RS,Londrina / PR
-121,Madureira / RJ,Tupi / MG
-122,Tombense / MG,Londrina / PR
-123,Portuguesa / SP,Guaratinguetá / SP
-124,Guarani / SP,Juventude / RS
-125,Águia de Marabá / PA,Confiança / SE
-126,Icasa / CE,Vila Nova / GO
-127,Salgueiro / PE,América / RN
-128,Cuiabá / MT,Botafogo / PB
-129,Brasil / RS,Caxias / RS
-130,ASA / AL,Fortaleza / CE
-131,Juventude / RS,Madureira / RJ
-132,Tupi / MG,Portuguesa / SP
-133,América / RN,Vila Nova / GO
-134,Fortaleza / CE,Salgueiro / PE
-135,Confiança / SE,Icasa / CE
-136,Cuiabá / MT,ASA / AL
-137,Botafogo / PB,Águia de Marabá / PA
-138,Londrina / PR,Brasil / RS
-139,Caxias / RS,Guaratinguetá / SP
-140,Guarani / SP,Tombense / MG
-141,Madureira / RJ,Guarani / SP
-142,Vila Nova / GO,Confiança / SE
-143,Tupi / MG,Caxias / RS
-144,Icasa / CE,Botafogo / PB
-145,ASA / AL,Águia de Marabá / PA
-146,Salgueiro / PE,Cuiabá / MT
-147,América / RN,Fortaleza / CE
-148,Guaratinguetá / SP,Londrina / PR
-149,Portuguesa / SP,Juventude / RS
-150,Brasil / RS,Tombense / MG
-151,Madureira / RJ,Brasil / RS
-152,Tombense / MG,Guaratinguetá / SP
-153,Londrina / PR,Caxias / RS
-154,Águia de Marabá / PA,Icasa / CE
-155,Fortaleza / CE,Confiança / SE
-156,ASA / AL,Salgueiro / PE
-157,Cuiabá / MT,América / RN
-158,Botafogo / PB,Vila Nova / GO
-159,Guarani / SP,Portuguesa / SP
-160,Juventude / RS,Tupi / MG
-161,Vila Nova / GO,Salgueiro / PE
-162,Tombense / MG,Juventude / RS
-163,Brasil / RS,Guarani / SP
-164,Águia de Marabá / PA,Cuiabá / MT
-165,Icasa / CE,ASA / AL
-166,Confiança / SE,América / RN
-167,Botafogo / PB,Fortaleza / CE
-168,Guaratinguetá / SP,Madureira / RJ
-169,Londrina / PR,Tupi / MG
-170,Caxias / RS,Portuguesa / SP
-171,América / RN,Botafogo / PB
-172,Fortaleza / CE,Águia de Marabá / PA
-173,Cuiabá / MT,Icasa / CE
-174,ASA / AL,Vila Nova / GO
-175,Salgueiro / PE,Confiança / SE
-176,Tupi / MG,Brasil / RS
-177,Portuguesa / SP,Tombense / MG
-178,Madureira / RJ,Londrina / PR
-179,Guarani / SP,Caxias / RS
-180,Juventude / RS,Guaratinguetá / SP
-181,Brasil / RS,Fortaleza / CE
-182,Fortaleza / CE,Brasil / RS
-183,Vila Nova / GO,Portuguesa / SP
-184,Portuguesa / SP,Vila Nova / GO
-185,Tupi / MG,ASA / AL
-186,ASA / AL,Tupi / MG
-187,Confiança / SE,Londrina / PR
-188,Londrina / PR,Confiança / SE
-189,Brasil / RS,Vila Nova / GO
-190,Vila Nova / GO,Brasil / RS
-191,Tupi / MG,Londrina / PR
-192,Londrina / PR,Tupi / MG
-193,Londrina / PR,Vila Nova / GO
-194,Vila Nova / GO,Londrina / PR
+Game,Home,Away,Date,Time,Stadium
+001,Confiança / SE,ASA / AL,16/05/2015,16:00,Estadual Lourival Baptista / Aracaju
+002,Águia de Marabá / PA,América / RN,17/05/2015,17:00,Zinho Oliveira / Marabá
+003,Vila Nova / GO,Cuiabá / MT,17/05/2015,16:00,Serra Dourada / Goiânia
+004,Botafogo / PB,Salgueiro / PE,17/05/2015,16:00,Ernani Sátyro / Campina Grande
+005,Icasa / CE,Fortaleza / CE,17/05/2015,19:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+006,Brasil / RS,Juventude / RS,16/05/2015,19:00,Estádio do Vale / Novo Hamburgo
+007,Tombense / MG,Tupi / MG,16/05/2015,16:00,Antônio Guimarães de Almeida / Tombos
+008,Londrina / PR,Portuguesa / SP,17/05/2015,16:00,Municipal Jacy Scaff / Londrina
+009,Caxias / RS,Madureira / RJ,17/05/2015,16:00,Francisco Stédille / Caxias do Sul
+010,Guaratinguetá / SP,Guarani / SP,17/05/2015,16:00,Dario R. Leite / Guaratinguetá
+011,Fortaleza / CE,Vila Nova / GO,23/05/2015,19:30,Governador Plácido Castelo / Fortaleza
+012,América / RN,Icasa / CE,24/05/2015,16:00,Arena das Dunas / Natal
+013,ASA / AL,Botafogo / PB,24/05/2015,16:00,Coaracy da Mata Fonseca / Arapiraca
+014,Salgueiro / PE,Águia de Marabá / PA,24/05/2015,16:00,Cornélio de Barros / Salgueiro
+015,Cuiabá / MT,Confiança / SE,24/05/2015,19:00,Arena Pantanal / Cuiabá
+016,Madureira / RJ,Tombense / MG,23/05/2015,15:00,Aniceto Moscoso / Rio de Janeiro
+017,Tupi / MG,Guaratinguetá / SP,23/05/2015,16:00,Mário Helênio / Juiz de Fora
+018,Guarani / SP,Londrina / PR,25/05/2015,20:15,Brinco de Ouro da Princesa / Campinas
+019,Portuguesa / SP,Brasil / RS,23/05/2015,19:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+020,Juventude / RS,Caxias / RS,24/05/2015,16:00,Alfredo Jaconi / Caxias do Sul
+021,Águia de Marabá / PA,Vila Nova / GO,31/05/2015,16:00,Zinho Oliveira / Marabá
+022,Icasa / CE,Salgueiro / PE,30/05/2015,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+023,ASA / AL,América / RN,30/05/2015,19:30,Coaracy da Mata Fonseca / Arapiraca
+024,Botafogo / PB,Confiança / SE,30/05/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+025,Cuiabá / MT,Fortaleza / CE,01/06/2015,20:15,Arena Pantanal / Cuiabá
+026,Madureira / RJ,Portuguesa / SP,30/05/2015,15:00,Aniceto Moscoso / Rio de Janeiro
+027,Guarani / SP,Tupi / MG,31/05/2015,19:00,Brinco de Ouro da Princesa / Campinas
+028,Tombense / MG,Caxias / RS,30/05/2015,16:00,Antônio Guimarães de Almeida / Tombos
+029,Londrina / PR,Juventude / RS,31/05/2015,15:00,Municipal Jacy Scaff / Londrina
+030,Brasil / RS,Guaratinguetá / SP,31/05/2015,16:00,Estádio do Vale / Novo Hamburgo
+031,Fortaleza / CE,ASA / AL,07/06/2015,19:00,Governador Plácido Castelo / Fortaleza
+032,Vila Nova / GO,Icasa / CE,07/06/2015,11:00,Onésio Brasileiro Alvarenga / Goiania
+033,Confiança / SE,Águia de Marabá / PA,07/06/2015,19:00,Estadual Lourival Baptista / Aracaju
+034,Botafogo / PB,Cuiabá / MT,07/06/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+035,América / RN,Salgueiro / PE,07/06/2015,19:00,Arena das Dunas / Natal
+036,Juventude / RS,Guarani / SP,06/06/2015,16:00,Alfredo Jaconi / Caxias do Sul
+037,Tupi / MG,Madureira / RJ,06/06/2015,16:45,Mário Helênio / Juiz de Fora
+038,Londrina / PR,Tombense / MG,07/06/2015,15:00,Willie Davids / Maringa
+039,Caxias / RS,Brasil / RS,07/06/2015,15:00,Francisco Stédille / Caxias do Sul
+040,Guaratinguetá / SP,Portuguesa / SP,08/06/2015,20:15,Dario R. Leite / Guaratinguetá
+041,Salgueiro / PE,Fortaleza / CE,28/06/2015,19:00,Cornélio de Barros / Salgueiro
+042,Vila Nova / GO,América / RN,27/06/2015,16:00,Onésio Brasileiro Alvarenga / Goiania
+043,Águia de Marabá / PA,Botafogo / PB,28/06/2015,16:00,Zinho Oliveira / Marabá
+044,Icasa / CE,Confiança / SE,28/06/2015,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+045,ASA / AL,Cuiabá / MT,28/06/2015,16:00,Coaracy da Mata Fonseca / Arapiraca
+046,Madureira / RJ,Juventude / RS,27/06/2015,15:00,Aniceto Moscoso / Rio de Janeiro
+047,Tombense / MG,Guarani / SP,27/06/2015,11:00,Antônio Guimarães de Almeida / Tombos
+048,Guaratinguetá / SP,Caxias / RS,28/06/2015,11:00,Dario R. Leite / Guaratinguetá
+049,Brasil / RS,Londrina / PR,28/06/2015,11:00,Bento da Silva Freitas / Pelotas
+050,Portuguesa / SP,Tupi / MG,27/06/2015,16:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+051,Águia de Marabá / PA,ASA / AL,05/07/2015,16:00,Zinho Oliveira / Marabá
+052,Fortaleza / CE,América / RN,04/07/2015,20:00,Governador Plácido Castelo / Fortaleza
+053,Confiança / SE,Vila Nova / GO,06/07/2015,20:15,Estadual Lourival Baptista / Aracaju
+054,Botafogo / PB,Icasa / CE,05/07/2015,16:00,José Américo de Almeida Filho / Joao Pessoa
+055,Cuiabá / MT,Salgueiro / PE,04/07/2015,19:00,Arena Pantanal / Cuiabá
+056,Caxias / RS,Tupi / MG,05/07/2015,16:00,Francisco Stédille / Caxias do Sul
+057,Guarani / SP,Madureira / RJ,05/07/2015,11:00,Brinco de Ouro da Princesa / Campinas
+058,Tombense / MG,Brasil / RS,04/07/2015,16:00,Antônio Guimarães de Almeida / Tombos
+059,Londrina / PR,Guaratinguetá / SP,05/07/2015,19:00,Municipal Jacy Scaff / Londrina
+060,Juventude / RS,Portuguesa / SP,04/07/2015,11:00,Alfredo Jaconi / Caxias do Sul
+061,Confiança / SE,Fortaleza / CE,11/07/2015,16:00,Estadual Lourival Baptista / Aracaju
+062,América / RN,Cuiabá / MT,11/07/2015,19:00,Arena das Dunas / Natal
+063,Icasa / CE,Águia de Marabá / PA,11/07/2015,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+064,Vila Nova / GO,Botafogo / PB,11/07/2015,19:00,Onésio Brasileiro Alvarenga / Goiania
+065,Salgueiro / PE,ASA / AL,11/07/2015,16:00,Cornélio de Barros / Salgueiro
+066,Tupi / MG,Juventude / RS,12/07/2015,11:00,Mário Helênio / Juiz de Fora
+067,Caxias / RS,Londrina / PR,13/07/2015,20:15,Francisco Stédille / Caxias do Sul
+068,Guaratinguetá / SP,Tombense / MG,12/07/2015,11:00,Dario R. Leite / Guaratinguetá
+069,Brasil / RS,Madureira / RJ,12/07/2015,16:00,Bento da Silva Freitas / Pelotas
+070,Portuguesa / SP,Guarani / SP,12/07/2015,19:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+071,Fortaleza / CE,Botafogo / PB,18/07/2015,16:00,Governador Plácido Castelo / Fortaleza
+072,ASA / AL,Icasa / CE,19/07/2015,16:00,Coaracy da Mata Fonseca / Arapiraca
+073,Salgueiro / PE,Vila Nova / GO,19/07/2015,16:00,Cornélio de Barros / Salgueiro
+074,América / RN,Confiança / SE,19/07/2015,19:00,Arena das Dunas / Natal
+075,Cuiabá / MT,Águia de Marabá / PA,19/07/2015,17:00,Arena Pantanal / Cuiabá
+076,Madureira / RJ,Guaratinguetá / SP,18/07/2015,15:00,Aniceto Moscoso / Rio de Janeiro
+077,Tupi / MG,Londrina / PR,18/07/2015,19:00,Mário Helênio / Juiz de Fora
+078,Portuguesa / SP,Caxias / RS,18/07/2015,11:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+079,Guarani / SP,Brasil / RS,20/07/2015,20:15,Brinco de Ouro da Princesa / Campinas
+080,Juventude / RS,Tombense / MG,19/07/2015,16:00,Alfredo Jaconi / Caxias do Sul
+081,Águia de Marabá / PA,Fortaleza / CE,25/07/2015,16:00,Zinho Oliveira / Marabá
+082,Icasa / CE,Cuiabá / MT,26/07/2015,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+083,Vila Nova / GO,ASA / AL,25/07/2015,16:00,Serra Dourada / Goiânia
+084,Confiança / SE,Salgueiro / PE,26/07/2015,16:00,Estadual Lourival Baptista / Aracaju
+085,Botafogo / PB,América / RN,26/07/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+086,Caxias / RS,Guarani / SP,25/07/2015,19:00,Francisco Stédille / Caxias do Sul
+087,Tombense / MG,Portuguesa / SP,27/07/2015,20:15,Soares de Azevedo / Muriaé
+088,Londrina / PR,Madureira / RJ,26/07/2015,11:00,Municipal Jacy Scaff / Londrina
+089,Guaratinguetá / SP,Juventude / RS,26/07/2015,11:00,Dario R. Leite / Guaratinguetá
+090,Brasil / RS,Tupi / MG,26/07/2015,16:00,Bento da Silva Freitas / Pelotas
+091,Madureira / RJ,Caxias / RS,01/08/2015,11:00,Proletário Guilherme da Silveira Filho / Rio de Janeiro
+092,Tupi / MG,Tombense / MG,01/08/2015,16:00,Mário Helênio / Juiz de Fora
+093,Juventude / RS,Brasil / RS,01/08/2015,19:00,Alfredo Jaconi / Caxias do Sul
+094,América / RN,Águia de Marabá / PA,02/08/2015,18:30,Arena das Dunas / Natal
+095,Fortaleza / CE,Icasa / CE,01/08/2015,16:00,Governador Plácido Castelo / Fortaleza
+096,Salgueiro / PE,Botafogo / PB,02/08/2015,16:00,Cornélio de Barros / Salgueiro
+097,Cuiabá / MT,Vila Nova / GO,03/08/2015,20:15,Arena Pantanal / Cuiabá
+098,ASA / AL,Confiança / SE,02/08/2015,19:00,Coaracy da Mata Fonseca / Arapiraca
+099,Portuguesa / SP,Londrina / PR,01/08/2015,11:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+100,Guarani / SP,Guaratinguetá / SP,02/08/2015,16:00,Brinco de Ouro da Princesa / Campinas
+101,Tombense / MG,Madureira / RJ,10/08/2015,20:15,Soares de Azevedo / Muriaé
+102,Vila Nova / GO,Fortaleza / CE,08/08/2015,16:00,Serra Dourada / Goiânia
+103,Águia de Marabá / PA,Salgueiro / PE,09/08/2015,16:00,Zinho Oliveira / Marabá
+104,Icasa / CE,América / RN,09/08/2015,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+105,Confiança / SE,Cuiabá / MT,09/08/2015,16:00,Estadual Lourival Baptista / Aracaju
+106,Botafogo / PB,ASA / AL,08/08/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+107,Guaratinguetá / SP,Tupi / MG,09/08/2015,11:00,Dario R. Leite / Guaratinguetá
+108,Londrina / PR,Guarani / SP,08/08/2015,11:00,Municipal Jacy Scaff / Londrina
+109,Brasil / RS,Portuguesa / SP,10/08/2015,20:30,Bento da Silva Freitas / Pelotas
+110,Caxias / RS,Juventude / RS,09/08/2015,19:00,Francisco Stédille / Caxias do Sul
+111,Tupi / MG,Guarani / SP,15/08/2015,11:00,Mário Helênio / Juiz de Fora
+112,Caxias / RS,Tombense / MG,15/08/2015,16:00,Francisco Stédille / Caxias do Sul
+113,Fortaleza / CE,Cuiabá / MT,15/08/2015,16:00,Governador Plácido Castelo / Fortaleza
+114,Vila Nova / GO,Águia de Marabá / PA,15/08/2015,16:00,Serra Dourada / Goiânia
+115,Confiança / SE,Botafogo / PB,16/08/2015,19:00,Estadual Lourival Baptista / Aracaju
+116,Salgueiro / PE,Icasa / CE,15/08/2015,19:00,Cornélio de Barros / Salgueiro
+117,América / RN,ASA / AL,14/08/2015,21:00,Arena das Dunas / Natal
+118,Guaratinguetá / SP,Brasil / RS,15/08/2015,11:00,Janguito Malucelli / Curitiba
+119,Portuguesa / SP,Madureira / RJ,17/08/2015,20:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+120,Juventude / RS,Londrina / PR,16/08/2015,16:00,Alfredo Jaconi / Caxias do Sul
+121,Madureira / RJ,Tupi / MG,22/08/2015,11:00,Aniceto Moscoso / Rio de Janeiro
+122,Tombense / MG,Londrina / PR,22/08/2015,18:30,Soares de Azevedo / Muriaé
+123,Portuguesa / SP,Guaratinguetá / SP,23/08/2015,11:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+124,Guarani / SP,Juventude / RS,22/08/2015,19:00,Brinco de Ouro da Princesa / Campinas
+125,Águia de Marabá / PA,Confiança / SE,23/08/2015,16:00,Zinho Oliveira / Marabá
+126,Icasa / CE,Vila Nova / GO,23/08/2015,18:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+127,Salgueiro / PE,América / RN,24/08/2015,20:30,Cornélio de Barros / Salgueiro
+128,Cuiabá / MT,Botafogo / PB,24/08/2015,21:00,Arena Pantanal / Cuiabá
+129,Brasil / RS,Caxias / RS,23/08/2015,19:00,Bento da Silva Freitas / Pelotas
+130,ASA / AL,Fortaleza / CE,22/08/2015,16:00,Coaracy da Mata Fonseca / Arapiraca
+131,Juventude / RS,Madureira / RJ,29/08/2015,16:00,Alfredo Jaconi / Caxias do Sul
+132,Tupi / MG,Portuguesa / SP,29/08/2015,19:00,Mário Helênio / Juiz de Fora
+133,América / RN,Vila Nova / GO,30/08/2015,18:00,Arena das Dunas / Natal
+134,Fortaleza / CE,Salgueiro / PE,29/08/2015,16:00,Governador Plácido Castelo / Fortaleza
+135,Confiança / SE,Icasa / CE,30/08/2015,16:00,Estadual Lourival Baptista / Aracaju
+136,Cuiabá / MT,ASA / AL,30/08/2015,17:00,Arena Pantanal / Cuiabá
+137,Botafogo / PB,Águia de Marabá / PA,30/08/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+138,Londrina / PR,Brasil / RS,30/08/2015,11:00,Municipal Jacy Scaff / Londrina
+139,Caxias / RS,Guaratinguetá / SP,30/08/2015,16:00,Francisco Stédille / Caxias do Sul
+140,Guarani / SP,Tombense / MG,31/08/2015,20:30,Brinco de Ouro da Princesa / Campinas
+141,Madureira / RJ,Guarani / SP,05/09/2015,11:00,Aniceto Moscoso / Rio de Janeiro
+142,Vila Nova / GO,Confiança / SE,17/09/2015,20:30,Serra Dourada / Goiânia
+143,Tupi / MG,Caxias / RS,06/09/2015,16:00,Mário Helênio / Juiz de Fora
+144,Icasa / CE,Botafogo / PB,06/09/2015,19:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+145,ASA / AL,Águia de Marabá / PA,06/09/2015,19:00,Coaracy da Mata Fonseca / Arapiraca
+146,Salgueiro / PE,Cuiabá / MT,06/09/2015,16:00,Cornélio de Barros / Salgueiro
+147,América / RN,Fortaleza / CE,05/09/2015,19:00,Arena das Dunas / Natal
+148,Guaratinguetá / SP,Londrina / PR,05/09/2015,11:00,Dario R. Leite / Guaratinguetá
+149,Portuguesa / SP,Juventude / RS,07/09/2015,20:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+150,Brasil / RS,Tombense / MG,06/09/2015,11:00,José Pinheiro Borda / Porto Alegre
+151,Madureira / RJ,Brasil / RS,12/09/2015,11:00,Aniceto Moscoso / Rio de Janeiro
+152,Tombense / MG,Guaratinguetá / SP,12/09/2015,16:00,Antônio Guimarães de Almeida / Tombos
+153,Londrina / PR,Caxias / RS,13/09/2015,19:00,Municipal Jacy Scaff / Londrina
+154,Águia de Marabá / PA,Icasa / CE,13/09/2015,16:00,Zinho Oliveira / Marabá
+155,Fortaleza / CE,Confiança / SE,13/09/2015,19:00,Governador Plácido Castelo / Fortaleza
+156,ASA / AL,Salgueiro / PE,12/09/2015,16:00,Coaracy da Mata Fonseca / Arapiraca
+157,Cuiabá / MT,América / RN,13/09/2015,16:00,Arena Pantanal / Cuiabá
+158,Botafogo / PB,Vila Nova / GO,12/09/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+159,Guarani / SP,Portuguesa / SP,14/09/2015,20:30,Brinco de Ouro da Princesa / Campinas
+160,Juventude / RS,Tupi / MG,13/09/2015,16:00,Alfredo Jaconi / Caxias do Sul
+161,Vila Nova / GO,Salgueiro / PE,21/09/2015,20:30,Serra Dourada / Goiânia
+162,Tombense / MG,Juventude / RS,19/09/2015,16:00,Antônio Guimarães de Almeida / Tombos
+163,Brasil / RS,Guarani / SP,19/09/2015,19:00,Bento da Silva Freitas / Pelotas
+164,Águia de Marabá / PA,Cuiabá / MT,20/09/2015,16:00,Zinho Oliveira / Marabá
+165,Icasa / CE,ASA / AL,20/09/2015,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+166,Confiança / SE,América / RN,21/09/2015,20:30,Estadual Lourival Baptista / Aracaju
+167,Botafogo / PB,Fortaleza / CE,20/09/2015,19:00,José Américo de Almeida Filho / Joao Pessoa
+168,Guaratinguetá / SP,Madureira / RJ,20/09/2015,11:00,Dario R. Leite / Guaratinguetá
+169,Londrina / PR,Tupi / MG,20/09/2015,16:00,Municipal Jacy Scaff / Londrina
+170,Caxias / RS,Portuguesa / SP,20/09/2015,11:00,Francisco Stédille / Caxias do Sul
+171,América / RN,Botafogo / PB,27/09/2015,19:00,Arena das Dunas / Natal
+172,Fortaleza / CE,Águia de Marabá / PA,27/09/2015,19:00,Governador Plácido Castelo / Fortaleza
+173,Cuiabá / MT,Icasa / CE,27/09/2015,19:00,Arena Pantanal / Cuiabá
+174,ASA / AL,Vila Nova / GO,27/09/2015,19:00,Coaracy da Mata Fonseca / Arapiraca
+175,Salgueiro / PE,Confiança / SE,27/09/2015,19:00,Cornélio de Barros / Salgueiro
+176,Tupi / MG,Brasil / RS,27/09/2015,16:00,Mário Helênio / Juiz de Fora
+177,Portuguesa / SP,Tombense / MG,27/09/2015,16:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+178,Madureira / RJ,Londrina / PR,27/09/2015,16:00,Proletário Guilherme da Silveira Filho / Rio de Janeiro
+179,Guarani / SP,Caxias / RS,27/09/2015,16:00,Brinco de Ouro da Princesa / Campinas
+180,Juventude / RS,Guaratinguetá / SP,27/09/2015,16:00,Alfredo Jaconi / Caxias do Sul
+181,Brasil / RS,Fortaleza / CE,10/10/2015,16:00,Bento da Silva Freitas / Pelotas
+182,Fortaleza / CE,Brasil / RS,17/10/2015,16:00,Governador Plácido Castelo / Fortaleza
+183,Vila Nova / GO,Portuguesa / SP,07/10/2015,20:30,Serra Dourada / Goiânia
+184,Portuguesa / SP,Vila Nova / GO,17/10/2015,19:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+185,Tupi / MG,ASA / AL,03/10/2015,19:00,Mário Helênio / Juiz de Fora
+186,ASA / AL,Tupi / MG,19/10/2015,20:30,Coaracy da Mata Fonseca / Arapiraca
+187,Confiança / SE,Londrina / PR,04/10/2015,19:00,Estadual Lourival Baptista / Aracaju
+188,Londrina / PR,Confiança / SE,18/10/2015,19:00,Municipal Jacy Scaff / Londrina
+189,Brasil / RS,Vila Nova / GO,26/10/2015,19:00,Bento da Silva Freitas / Pelotas
+190,Vila Nova / GO,Brasil / RS,02/11/2015,19:00,Serra Dourada / Goiânia
+191,Tupi / MG,Londrina / PR,24/10/2015,19:30,Mário Helênio / Juiz de Fora
+192,Londrina / PR,Tupi / MG,31/10/2015,19:30,Municipal Jacy Scaff / Londrina
+193,Londrina / PR,Vila Nova / GO,08/11/2015,19:00,Municipal Jacy Scaff / Londrina
+194,Vila Nova / GO,Londrina / PR,21/11/2015,19:30,Serra Dourada / Goiânia

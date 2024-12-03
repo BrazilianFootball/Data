@@ -1,195 +1,195 @@
-Game,Home,Away
-001,ABC / RN,Náutico / PE
-002,Imperatriz / MA,Globo / RN
-003,Santa Cruz / PE,Treze / PB
-004,Botafogo / PB,Ferroviário / CE
-005,Confiança / SE,Sampaio Corrêa / MA
-006,Luverdense / MT,Juventude / RS
-007,Remo / PA,Boa / MG
-008,Tombense / MG,São José / RS
-009,Ypiranga / RS,Paysandu / PA
-010,Volta Redonda / RJ,Atlético / AC
-011,Globo / RN,Confiança / SE
-012,Sampaio Corrêa / MA,Botafogo / PB
-013,Náutico / PE,Imperatriz / MA
-014,Treze / PB,ABC / RN
-015,Ferroviário / CE,Santa Cruz / PE
-016,Atlético / AC,Ypiranga / RS
-017,Paysandu / PA,Tombense / MG
-018,Boa / MG,Volta Redonda / RJ
-019,Juventude / RS,Remo / PA
-020,São José / RS,Luverdense / MT
-021,Globo / RN,Sampaio Corrêa / MA
-022,Imperatriz / MA,Treze / PB
-023,Náutico / PE,Ferroviário / CE
-024,Botafogo / PB,Santa Cruz / PE
-025,Confiança / SE,ABC / RN
-026,Luverdense / MT,Remo / PA
-027,Paysandu / PA,Juventude / RS
-028,Boa / MG,Atlético / AC
-029,Ypiranga / RS,São José / RS
-030,Volta Redonda / RJ,Tombense / MG
-031,ABC / RN,Botafogo / PB
-032,Imperatriz / MA,Confiança / SE
-033,Santa Cruz / PE,Sampaio Corrêa / MA
-034,Treze / PB,Náutico / PE
-035,Ferroviário / CE,Globo / RN
-036,Atlético / AC,São José / RS
-037,Remo / PA,Ypiranga / RS
-038,Tombense / MG,Luverdense / MT
-039,Juventude / RS,Boa / MG
-040,Volta Redonda / RJ,Paysandu / PA
-041,Globo / RN,Treze / PB
-042,Sampaio Corrêa / MA,Ferroviário / CE
-043,Santa Cruz / PE,ABC / RN
-044,Botafogo / PB,Imperatriz / MA
-045,Confiança / SE,Náutico / PE
-046,Luverdense / MT,Volta Redonda / RJ
-047,Remo / PA,Atlético / AC
-048,Boa / MG,Paysandu / PA
-049,Ypiranga / RS,Tombense / MG
-050,São José / RS,Juventude / RS
-051,ABC / RN,Ferroviário / CE
-052,Imperatriz / MA,Santa Cruz / PE
-053,Náutico / PE,Globo / RN
-054,Treze / PB,Sampaio Corrêa / MA
-055,Confiança / SE,Botafogo / PB
-056,Luverdense / MT,Boa / MG
-057,Paysandu / PA,São José / RS
-058,Tombense / MG,Remo / PA
-059,Juventude / RS,Atlético / AC
-060,Volta Redonda / RJ,Ypiranga / RS
-061,ABC / RN,Imperatriz / MA
-062,Sampaio Corrêa / MA,Náutico / PE
-063,Santa Cruz / PE,Confiança / SE
-064,Botafogo / PB,Globo / RN
-065,Ferroviário / CE,Treze / PB
-066,Atlético / AC,Paysandu / PA
-067,Remo / PA,Volta Redonda / RJ
-068,Tombense / MG,Juventude / RS
-069,Ypiranga / RS,Luverdense / MT
-070,São José / RS,Boa / MG
-071,Globo / RN,Santa Cruz / PE
-072,Sampaio Corrêa / MA,ABC / RN
-073,Náutico / PE,Botafogo / PB
-074,Treze / PB,Confiança / SE
-075,Ferroviário / CE,Imperatriz / MA
-076,Atlético / AC,Tombense / MG
-077,Paysandu / PA,Luverdense / MT
-078,Boa / MG,Ypiranga / RS
-079,Juventude / RS,Volta Redonda / RJ
-080,São José / RS,Remo / PA
-081,ABC / RN,Globo / RN
-082,Imperatriz / MA,Sampaio Corrêa / MA
-083,Santa Cruz / PE,Náutico / PE
-084,Botafogo / PB,Treze / PB
-085,Confiança / SE,Ferroviário / CE
-086,Luverdense / MT,Atlético / AC
-087,Remo / PA,Paysandu / PA
-088,Tombense / MG,Boa / MG
-089,Ypiranga / RS,Juventude / RS
-090,Volta Redonda / RJ,São José / RS
-091,Globo / RN,Imperatriz / MA
-092,Sampaio Corrêa / MA,Confiança / SE
-093,Náutico / PE,ABC / RN
-094,Treze / PB,Santa Cruz / PE
-095,Ferroviário / CE,Botafogo / PB
-096,Atlético / AC,Volta Redonda / RJ
-097,Paysandu / PA,Ypiranga / RS
-098,Boa / MG,Remo / PA
-099,Juventude / RS,Luverdense / MT
-100,São José / RS,Tombense / MG
-101,ABC / RN,Treze / PB
-102,Imperatriz / MA,Náutico / PE
-103,Santa Cruz / PE,Ferroviário / CE
-104,Botafogo / PB,Sampaio Corrêa / MA
-105,Confiança / SE,Globo / RN
-106,Luverdense / MT,São José / RS
-107,Remo / PA,Juventude / RS
-108,Tombense / MG,Paysandu / PA
-109,Ypiranga / RS,Atlético / AC
-110,Volta Redonda / RJ,Boa / MG
-111,ABC / RN,Confiança / SE
-112,Sampaio Corrêa / MA,Globo / RN
-113,Santa Cruz / PE,Botafogo / PB
-114,Treze / PB,Imperatriz / MA
-115,Ferroviário / CE,Náutico / PE
-116,Atlético / AC,Boa / MG
-117,Remo / PA,Luverdense / MT
-118,Tombense / MG,Volta Redonda / RJ
-119,Juventude / RS,Paysandu / PA
-120,São José / RS,Ypiranga / RS
-121,Globo / RN,Ferroviário / CE
-122,Sampaio Corrêa / MA,Santa Cruz / PE
-123,Náutico / PE,Treze / PB
-124,Botafogo / PB,ABC / RN
-125,Confiança / SE,Imperatriz / MA
-126,Luverdense / MT,Tombense / MG
-127,Paysandu / PA,Volta Redonda / RJ
-128,Boa / MG,Juventude / RS
-129,Ypiranga / RS,Remo / PA
-130,São José / RS,Atlético / AC
-131,ABC / RN,Santa Cruz / PE
-132,Imperatriz / MA,Botafogo / PB
-133,Náutico / PE,Confiança / SE
-134,Treze / PB,Globo / RN
-135,Ferroviário / CE,Sampaio Corrêa / MA
-136,Atlético / AC,Remo / PA
-137,Paysandu / PA,Boa / MG
-138,Tombense / MG,Ypiranga / RS
-139,Juventude / RS,São José / RS
-140,Volta Redonda / RJ,Luverdense / MT
-141,Globo / RN,Náutico / PE
-142,Sampaio Corrêa / MA,Treze / PB
-143,Santa Cruz / PE,Imperatriz / MA
-144,Botafogo / PB,Confiança / SE
-145,Ferroviário / CE,ABC / RN
-146,Atlético / AC,Juventude / RS
-147,Remo / PA,Tombense / MG
-148,Boa / MG,Luverdense / MT
-149,Ypiranga / RS,Volta Redonda / RJ
-150,São José / RS,Paysandu / PA
-151,Globo / RN,Botafogo / PB
-152,Imperatriz / MA,ABC / RN
-153,Náutico / PE,Sampaio Corrêa / MA
-154,Treze / PB,Ferroviário / CE
-155,Confiança / SE,Santa Cruz / PE
-156,Luverdense / MT,Ypiranga / RS
-157,Paysandu / PA,Atlético / AC
-158,Boa / MG,São José / RS
-159,Juventude / RS,Tombense / MG
-160,Volta Redonda / RJ,Remo / PA
-161,ABC / RN,Sampaio Corrêa / MA
-162,Imperatriz / MA,Ferroviário / CE
-163,Santa Cruz / PE,Globo / RN
-164,Botafogo / PB,Náutico / PE
-165,Confiança / SE,Treze / PB
-166,Luverdense / MT,Paysandu / PA
-167,Remo / PA,São José / RS
-168,Tombense / MG,Atlético / AC
-169,Ypiranga / RS,Boa / MG
-170,Volta Redonda / RJ,Juventude / RS
-171,Globo / RN,ABC / RN
-172,Sampaio Corrêa / MA,Imperatriz / MA
-173,Náutico / PE,Santa Cruz / PE
-174,Treze / PB,Botafogo / PB
-175,Ferroviário / CE,Confiança / SE
-176,Atlético / AC,Luverdense / MT
-177,Paysandu / PA,Remo / PA
-178,Boa / MG,Tombense / MG
-179,Juventude / RS,Ypiranga / RS
-180,São José / RS,Volta Redonda / RJ
-181,Paysandu / PA,Náutico / PE
-182,Imperatriz / MA,Juventude / RS
-183,Confiança / SE,Ypiranga / RS
-184,São José / RS,Sampaio Corrêa / MA
-185,Náutico / PE,Paysandu / PA
-186,Juventude / RS,Imperatriz / MA
-187,Ypiranga / RS,Confiança / SE
-188,Sampaio Corrêa / MA,São José / RS
-189,Confiança / SE,Sampaio Corrêa / MA
-190,Juventude / RS,Náutico / PE
-191,Sampaio Corrêa / MA,Confiança / SE
-192,Náutico / PE,Juventude / RS
-193,Náutico / PE,Sampaio Corrêa / MA
-194,Sampaio Corrêa / MA,Náutico / PE
+Game,Home,Away,Date,Time,Stadium
+001,ABC / RN,Náutico / PE,28/04/2019,18:00,Maria Lamas Farache / Natal
+002,Imperatriz / MA,Globo / RN,27/04/2019,19:00,Frei Epifânio D´abadia / Imperatriz
+003,Santa Cruz / PE,Treze / PB,29/04/2019,20:00,José do Rêgo Maciel / Recife
+004,Botafogo / PB,Ferroviário / CE,28/04/2019,17:00,José Américo de Almeida Filho / Joao Pessoa
+005,Confiança / SE,Sampaio Corrêa / MA,28/04/2019,16:00,Lourival Baptista / Aracaju
+006,Luverdense / MT,Juventude / RS,28/04/2019,17:00,Passo das Emas / Lucas do Rio Verde
+007,Remo / PA,Boa / MG,27/04/2019,19:15,Olímpico do Pará / Belem
+008,Tombense / MG,São José / RS,27/04/2019,16:00,Antônio Guimarães de Almeida / Tombos
+009,Ypiranga / RS,Paysandu / PA,27/04/2019,17:15,Colosso da Lagoa / Erechim
+010,Volta Redonda / RJ,Atlético / AC,27/04/2019,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+011,Globo / RN,Confiança / SE,04/05/2019,17:00,Manoel Dantas Barretto / Ceara-Mirim
+012,Sampaio Corrêa / MA,Botafogo / PB,04/05/2019,17:00,Governador João Castelo / Sao Luis
+013,Náutico / PE,Imperatriz / MA,04/05/2019,19:15,Eládio de Barros Carvalho / Recife
+014,Treze / PB,ABC / RN,05/05/2019,16:00,Ernani Sátyro / Campina Grande
+015,Ferroviário / CE,Santa Cruz / PE,05/05/2019,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+016,Atlético / AC,Ypiranga / RS,05/05/2019,19:00,Antonio Aquino Lopes / Rio Branco
+017,Paysandu / PA,Tombense / MG,06/05/2019,20:00,Leônidas Sobré de Castro / Belem
+018,Boa / MG,Volta Redonda / RJ,05/05/2019,16:00,Dilzon Luís de Melo / Varginha
+019,Juventude / RS,Remo / PA,04/05/2019,17:15,Alfredo Jaconi / Caxias do Sul
+020,São José / RS,Luverdense / MT,04/05/2019,16:00,Passo D´areia / Porto Alegre
+021,Globo / RN,Sampaio Corrêa / MA,12/05/2019,15:00,Manoel Dantas Barretto / Ceara-Mirim
+022,Imperatriz / MA,Treze / PB,11/05/2019,19:00,Frei Epifânio D´abadia / Imperatriz
+023,Náutico / PE,Ferroviário / CE,12/05/2019,18:00,Eládio de Barros Carvalho / Recife
+024,Botafogo / PB,Santa Cruz / PE,13/05/2019,20:00,José Américo de Almeida Filho / Joao Pessoa
+025,Confiança / SE,ABC / RN,12/05/2019,16:00,Lourival Baptista / Aracaju
+026,Luverdense / MT,Remo / PA,11/05/2019,17:15,Passo das Emas / Lucas do Rio Verde
+027,Paysandu / PA,Juventude / RS,11/05/2019,19:15,Leônidas Sobré de Castro / Belem
+028,Boa / MG,Atlético / AC,12/05/2019,16:00,Dilzon Luís de Melo / Varginha
+029,Ypiranga / RS,São José / RS,12/05/2019,15:30,Colosso da Lagoa / Erechim
+030,Volta Redonda / RJ,Tombense / MG,11/05/2019,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+031,ABC / RN,Botafogo / PB,19/05/2019,16:00,Maria Lamas Farache / Natal
+032,Imperatriz / MA,Confiança / SE,18/05/2019,19:00,Frei Epifânio D´abadia / Imperatriz
+033,Santa Cruz / PE,Sampaio Corrêa / MA,18/05/2019,17:15,José do Rêgo Maciel / Recife
+034,Treze / PB,Náutico / PE,18/05/2019,19:15,Ernani Sátyro / Campina Grande
+035,Ferroviário / CE,Globo / RN,20/05/2019,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+036,Atlético / AC,São José / RS,19/05/2019,19:00,Antonio Aquino Lopes / Rio Branco
+037,Remo / PA,Ypiranga / RS,20/05/2019,20:00,Olímpico do Pará / Belem
+038,Tombense / MG,Luverdense / MT,18/05/2019,16:00,Antônio Guimarães de Almeida / Tombos
+039,Juventude / RS,Boa / MG,19/05/2019,16:00,Alfredo Jaconi / Caxias do Sul
+040,Volta Redonda / RJ,Paysandu / PA,19/05/2019,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+041,Globo / RN,Treze / PB,26/05/2019,17:00,Manoel Dantas Barretto / Ceara-Mirim
+042,Sampaio Corrêa / MA,Ferroviário / CE,26/05/2019,17:00,Governador João Castelo / Sao Luis
+043,Santa Cruz / PE,ABC / RN,25/05/2019,19:15,José do Rêgo Maciel / Recife
+044,Botafogo / PB,Imperatriz / MA,26/05/2019,18:00,José Américo de Almeida Filho / Joao Pessoa
+045,Confiança / SE,Náutico / PE,25/05/2019,17:15,Lourival Baptista / Aracaju
+046,Luverdense / MT,Volta Redonda / RJ,26/05/2019,17:00,Passo das Emas / Lucas do Rio Verde
+047,Remo / PA,Atlético / AC,26/05/2019,16:00,Olímpico do Pará / Belem
+048,Boa / MG,Paysandu / PA,26/05/2019,18:00,Dilzon Luís de Melo / Varginha
+049,Ypiranga / RS,Tombense / MG,26/05/2019,15:30,Colosso da Lagoa / Erechim
+050,São José / RS,Juventude / RS,25/05/2019,18:00,Passo D´areia / Porto Alegre
+051,ABC / RN,Ferroviário / CE,02/06/2019,16:00,Maria Lamas Farache / Natal
+052,Imperatriz / MA,Santa Cruz / PE,01/06/2019,19:15,Frei Epifânio D´abadia / Imperatriz
+053,Náutico / PE,Globo / RN,01/06/2019,17:15,Eládio de Barros Carvalho / Recife
+054,Treze / PB,Sampaio Corrêa / MA,02/06/2019,16:00,Ernani Sátyro / Campina Grande
+055,Confiança / SE,Botafogo / PB,02/06/2019,16:00,Lourival Baptista / Aracaju
+056,Luverdense / MT,Boa / MG,02/06/2019,17:00,Passo das Emas / Lucas do Rio Verde
+057,Paysandu / PA,São José / RS,02/06/2019,18:00,Leônidas Sobré de Castro / Belem
+058,Tombense / MG,Remo / PA,03/06/2019,20:00,Antônio Guimarães de Almeida / Tombos
+059,Juventude / RS,Atlético / AC,01/06/2019,18:00,Alfredo Jaconi / Caxias do Sul
+060,Volta Redonda / RJ,Ypiranga / RS,01/06/2019,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+061,ABC / RN,Imperatriz / MA,08/06/2019,16:00,Maria Lamas Farache / Natal
+062,Sampaio Corrêa / MA,Náutico / PE,10/06/2019,20:00,Governador João Castelo / Sao Luis
+063,Santa Cruz / PE,Confiança / SE,09/06/2019,18:00,José do Rêgo Maciel / Recife
+064,Botafogo / PB,Globo / RN,09/06/2019,18:00,José Américo de Almeida Filho / Joao Pessoa
+065,Ferroviário / CE,Treze / PB,10/06/2019,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+066,Atlético / AC,Paysandu / PA,08/06/2019,19:00,Antonio Aquino Lopes / Rio Branco
+067,Remo / PA,Volta Redonda / RJ,08/06/2019,17:00,Olímpico do Pará / Belem
+068,Tombense / MG,Juventude / RS,08/06/2019,19:15,Antônio Guimarães de Almeida / Tombos
+069,Ypiranga / RS,Luverdense / MT,09/06/2019,18:00,Colosso da Lagoa / Erechim
+070,São José / RS,Boa / MG,08/06/2019,16:00,Passo D´areia / Porto Alegre
+071,Globo / RN,Santa Cruz / PE,17/06/2019,20:00,Manoel Dantas Barretto / Ceara-Mirim
+072,Sampaio Corrêa / MA,ABC / RN,15/06/2019,19:15,Governador João Castelo / Sao Luis
+073,Náutico / PE,Botafogo / PB,03/07/2019,19:00,Eládio de Barros Carvalho / Recife
+074,Treze / PB,Confiança / SE,16/06/2019,16:00,Ernani Sátyro / Campina Grande
+075,Ferroviário / CE,Imperatriz / MA,15/06/2019,16:00,Presidente Vargas / Fortaleza
+076,Atlético / AC,Tombense / MG,16/06/2019,19:00,Antonio Aquino Lopes / Rio Branco
+077,Paysandu / PA,Luverdense / MT,15/06/2019,17:00,Olímpico do Pará / Belem
+078,Boa / MG,Ypiranga / RS,16/06/2019,16:00,Dilzon Luís de Melo / Varginha
+079,Juventude / RS,Volta Redonda / RJ,14/06/2019,19:00,Alfredo Jaconi / Caxias do Sul
+080,São José / RS,Remo / PA,13/06/2019,20:00,Passo D´areia / Porto Alegre
+081,ABC / RN,Globo / RN,21/06/2019,20:00,Maria Lamas Farache / Natal
+082,Imperatriz / MA,Sampaio Corrêa / MA,24/06/2019,20:00,Frei Epifânio D´abadia / Imperatriz
+083,Santa Cruz / PE,Náutico / PE,22/06/2019,18:00,José do Rêgo Maciel / Recife
+084,Botafogo / PB,Treze / PB,24/06/2019,20:00,José Américo de Almeida Filho / Joao Pessoa
+085,Confiança / SE,Ferroviário / CE,23/06/2019,16:00,Lourival Baptista / Aracaju
+086,Luverdense / MT,Atlético / AC,23/06/2019,17:00,Passo das Emas / Lucas do Rio Verde
+087,Remo / PA,Paysandu / PA,23/06/2019,18:00,Olímpico do Pará / Belem
+088,Tombense / MG,Boa / MG,22/06/2019,18:30,Antônio Guimarães de Almeida / Tombos
+089,Ypiranga / RS,Juventude / RS,20/06/2019,20:00,Colosso da Lagoa / Erechim
+090,Volta Redonda / RJ,São José / RS,23/06/2019,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+091,Globo / RN,Imperatriz / MA,29/06/2019,17:00,Manoel Dantas Barretto / Ceara-Mirim
+092,Sampaio Corrêa / MA,Confiança / SE,30/06/2019,18:00,Governador João Castelo / Sao Luis
+093,Náutico / PE,ABC / RN,29/06/2019,17:00,Eládio de Barros Carvalho / Recife
+094,Treze / PB,Santa Cruz / PE,27/06/2019,19:00,Ernani Sátyro / Campina Grande
+095,Ferroviário / CE,Botafogo / PB,30/06/2019,17:00,Presidente Vargas / Fortaleza
+096,Atlético / AC,Volta Redonda / RJ,30/06/2019,19:00,Arena da Floresta / Rio Branco
+097,Paysandu / PA,Ypiranga / RS,28/06/2019,20:00,Leônidas Sobré de Castro / Belem
+098,Boa / MG,Remo / PA,29/06/2019,19:15,Dilzon Luís de Melo / Varginha
+099,Juventude / RS,Luverdense / MT,01/07/2019,20:00,Alfredo Jaconi / Caxias do Sul
+100,São José / RS,Tombense / MG,29/06/2019,15:00,Passo D´areia / Porto Alegre
+101,ABC / RN,Treze / PB,06/07/2019,18:00,Maria Lamas Farache / Natal
+102,Imperatriz / MA,Náutico / PE,08/07/2019,20:00,Frei Epifânio D´abadia / Imperatriz
+103,Santa Cruz / PE,Ferroviário / CE,05/07/2019,20:00,José do Rêgo Maciel / Recife
+104,Botafogo / PB,Sampaio Corrêa / MA,06/07/2019,20:00,José Américo de Almeida Filho / Joao Pessoa
+105,Confiança / SE,Globo / RN,06/07/2019,20:00,Lourival Baptista / Aracaju
+106,Luverdense / MT,São José / RS,06/07/2019,18:00,Passo das Emas / Lucas do Rio Verde
+107,Remo / PA,Juventude / RS,06/07/2019,18:00,Olímpico do Pará / Belem
+108,Tombense / MG,Paysandu / PA,04/07/2019,20:00,Antônio Guimarães de Almeida / Tombos
+109,Ypiranga / RS,Atlético / AC,06/07/2019,18:00,Colosso da Lagoa / Erechim
+110,Volta Redonda / RJ,Boa / MG,07/07/2019,15:00,Sylvio Raulino de Oliveira / Volta Redonda
+111,ABC / RN,Confiança / SE,12/07/2019,20:00,Maria Lamas Farache / Natal
+112,Sampaio Corrêa / MA,Globo / RN,14/07/2019,17:00,Governador João Castelo / Sao Luis
+113,Santa Cruz / PE,Botafogo / PB,14/07/2019,18:00,José do Rêgo Maciel / Recife
+114,Treze / PB,Imperatriz / MA,14/07/2019,16:00,Ernani Sátyro / Campina Grande
+115,Ferroviário / CE,Náutico / PE,15/07/2019,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+116,Atlético / AC,Boa / MG,14/07/2019,19:00,Antonio Aquino Lopes / Rio Branco
+117,Remo / PA,Luverdense / MT,13/07/2019,15:00,Evandro Almeida / Belem
+118,Tombense / MG,Volta Redonda / RJ,11/07/2019,20:00,Antônio Guimarães de Almeida / Tombos
+119,Juventude / RS,Paysandu / PA,13/07/2019,17:00,Alfredo Jaconi / Caxias do Sul
+120,São José / RS,Ypiranga / RS,13/07/2019,15:00,Passo D´areia / Porto Alegre
+121,Globo / RN,Ferroviário / CE,20/07/2019,17:00,Manoel Dantas Barretto / Ceara-Mirim
+122,Sampaio Corrêa / MA,Santa Cruz / PE,18/07/2019,20:00,Governador João Castelo / Sao Luis
+123,Náutico / PE,Treze / PB,21/07/2019,18:00,Eládio de Barros Carvalho / Recife
+124,Botafogo / PB,ABC / RN,20/07/2019,17:00,José Américo de Almeida Filho / Joao Pessoa
+125,Confiança / SE,Imperatriz / MA,21/07/2019,16:00,Lourival Baptista / Aracaju
+126,Luverdense / MT,Tombense / MG,21/07/2019,17:00,Passo das Emas / Lucas do Rio Verde
+127,Paysandu / PA,Volta Redonda / RJ,22/07/2019,20:00,Olímpico do Pará / Belem
+128,Boa / MG,Juventude / RS,20/07/2019,19:15,Dilzon Luís de Melo / Varginha
+129,Ypiranga / RS,Remo / PA,19/07/2019,20:00,Colosso da Lagoa / Erechim
+130,São José / RS,Atlético / AC,20/07/2019,15:00,Passo D´areia / Porto Alegre
+131,ABC / RN,Santa Cruz / PE,27/07/2019,17:00,Maria Lamas Farache / Natal
+132,Imperatriz / MA,Botafogo / PB,25/07/2019,20:00,Frei Epifânio D´abadia / Imperatriz
+133,Náutico / PE,Confiança / SE,26/07/2019,20:00,Eládio de Barros Carvalho / Recife
+134,Treze / PB,Globo / RN,28/07/2019,16:00,Presidente Vargas / Campina Grande
+135,Ferroviário / CE,Sampaio Corrêa / MA,25/07/2019,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+136,Atlético / AC,Remo / PA,27/07/2019,19:15,Antonio Aquino Lopes / Rio Branco
+137,Paysandu / PA,Boa / MG,29/07/2019,20:00,Olímpico do Pará / Belem
+138,Tombense / MG,Ypiranga / RS,27/07/2019,16:00,Antônio Guimarães de Almeida / Tombos
+139,Juventude / RS,São José / RS,28/07/2019,18:00,Alfredo Jaconi / Caxias do Sul
+140,Volta Redonda / RJ,Luverdense / MT,28/07/2019,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+141,Globo / RN,Náutico / PE,05/08/2019,20:00,Manoel Dantas Barretto / Ceara-Mirim
+142,Sampaio Corrêa / MA,Treze / PB,04/08/2019,18:00,Governador João Castelo / Sao Luis
+143,Santa Cruz / PE,Imperatriz / MA,02/08/2019,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+144,Botafogo / PB,Confiança / SE,04/08/2019,18:00,José Américo de Almeida Filho / Joao Pessoa
+145,Ferroviário / CE,ABC / RN,05/08/2019,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+146,Atlético / AC,Juventude / RS,03/08/2019,19:15,Antonio Aquino Lopes / Rio Branco
+147,Remo / PA,Tombense / MG,01/08/2019,20:00,Olímpico do Pará / Belem
+148,Boa / MG,Luverdense / MT,05/08/2019,19:15,Dilzon Luís de Melo / Varginha
+149,Ypiranga / RS,Volta Redonda / RJ,03/08/2019,15:30,Colosso da Lagoa / Erechim
+150,São José / RS,Paysandu / PA,03/08/2019,17:00,Passo D´areia / Porto Alegre
+151,Globo / RN,Botafogo / PB,10/08/2019,19:15,Manoel Dantas Barretto / Ceara-Mirim
+152,Imperatriz / MA,ABC / RN,10/08/2019,19:00,Frei Epifânio D´abadia / Imperatriz
+153,Náutico / PE,Sampaio Corrêa / MA,12/08/2019,20:00,Eládio de Barros Carvalho / Recife
+154,Treze / PB,Ferroviário / CE,11/08/2019,16:00,Presidente Vargas / Campina Grande
+155,Confiança / SE,Santa Cruz / PE,11/08/2019,18:00,Lourival Baptista / Aracaju
+156,Luverdense / MT,Ypiranga / RS,11/08/2019,17:00,Passo das Emas / Lucas do Rio Verde
+157,Paysandu / PA,Atlético / AC,10/08/2019,17:00,Olímpico do Pará / Belem
+158,Boa / MG,São José / RS,11/08/2019,16:00,Dilzon Luís de Melo / Varginha
+159,Juventude / RS,Tombense / MG,08/08/2019,20:00,Alfredo Jaconi / Caxias do Sul
+160,Volta Redonda / RJ,Remo / PA,09/08/2019,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+161,ABC / RN,Sampaio Corrêa / MA,17/08/2019,19:15,Maria Lamas Farache / Natal
+162,Imperatriz / MA,Ferroviário / CE,17/08/2019,19:00,Frei Epifânio D´abadia / Imperatriz
+163,Santa Cruz / PE,Globo / RN,18/08/2019,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+164,Botafogo / PB,Náutico / PE,17/08/2019,17:00,José Américo de Almeida Filho / Joao Pessoa
+165,Confiança / SE,Treze / PB,18/08/2019,16:00,Lourival Baptista / Aracaju
+166,Luverdense / MT,Paysandu / PA,15/08/2019,20:00,Passo das Emas / Lucas do Rio Verde
+167,Remo / PA,São José / RS,16/08/2019,20:00,Olímpico do Pará / Belem
+168,Tombense / MG,Atlético / AC,17/08/2019,16:00,Antônio Guimarães de Almeida / Tombos
+169,Ypiranga / RS,Boa / MG,18/08/2019,15:30,Colosso da Lagoa / Erechim
+170,Volta Redonda / RJ,Juventude / RS,19/08/2019,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+171,Globo / RN,ABC / RN,24/08/2019,17:00,Manoel Dantas Barretto / Ceara-Mirim
+172,Sampaio Corrêa / MA,Imperatriz / MA,24/08/2019,17:00,Governador João Castelo / Sao Luis
+173,Náutico / PE,Santa Cruz / PE,24/08/2019,17:00,Eládio de Barros Carvalho / Recife
+174,Treze / PB,Botafogo / PB,24/08/2019,17:00,Ernani Sátyro / Campina Grande
+175,Ferroviário / CE,Confiança / SE,24/08/2019,17:00,Presidente Vargas / Fortaleza
+176,Atlético / AC,Luverdense / MT,25/08/2019,18:00,Antonio Aquino Lopes / Rio Branco
+177,Paysandu / PA,Remo / PA,25/08/2019,18:00,Olímpico do Pará / Belem
+178,Boa / MG,Tombense / MG,22/08/2019,19:00,Dilzon Luís de Melo / Varginha
+179,Juventude / RS,Ypiranga / RS,25/08/2019,18:00,Alfredo Jaconi / Caxias do Sul
+180,São José / RS,Volta Redonda / RJ,25/08/2019,18:00,Passo D´areia / Porto Alegre
+181,Paysandu / PA,Náutico / PE,01/09/2019,18:00,Olímpico do Pará / Belem
+182,Imperatriz / MA,Juventude / RS,02/09/2019,20:00,Frei Epifânio D´abadia / Imperatriz
+183,Confiança / SE,Ypiranga / RS,31/08/2019,17:00,Lourival Baptista / Aracaju
+184,São José / RS,Sampaio Corrêa / MA,31/08/2019,19:15,Passo D´areia / Porto Alegre
+185,Náutico / PE,Paysandu / PA,08/09/2019,18:00,Eládio de Barros Carvalho / Recife
+186,Juventude / RS,Imperatriz / MA,09/09/2019,20:00,Alfredo Jaconi / Caxias do Sul
+187,Ypiranga / RS,Confiança / SE,07/09/2019,17:00,Colosso da Lagoa / Erechim
+188,Sampaio Corrêa / MA,São José / RS,07/09/2019,19:15,Governador João Castelo / Sao Luis
+189,Confiança / SE,Sampaio Corrêa / MA,14/09/2019,17:00,Lourival Baptista / Aracaju
+190,Juventude / RS,Náutico / PE,15/09/2019,18:00,Alfredo Jaconi / Caxias do Sul
+191,Sampaio Corrêa / MA,Confiança / SE,21/09/2019,17:00,Governador João Castelo / Sao Luis
+192,Náutico / PE,Juventude / RS,22/09/2019,18:00,Eládio de Barros Carvalho / Recife
+193,Náutico / PE,Sampaio Corrêa / MA,29/09/2019,16:00,Eládio de Barros Carvalho / Recife
+194,Sampaio Corrêa / MA,Náutico / PE,06/10/2019,16:00,Governador João Castelo / Sao Luis

@@ -1,380 +1,380 @@
-Game,Home,Away
-001,Palmeiras / SP,Athletico Paranaense / PR
-002,Flamengo / RJ,Sport / PE
-003,Atlético Mineiro / MG,Santos / SP
-004,Coritiba / PR,Cruzeiro / MG
-005,Botafogo / RJ,São Paulo / SP
-006,Santa Cruz / PE,Vitória / BA
-007,Corinthians / SP,Grêmio / RS
-008,Figueirense / SC,Ponte Preta / SP
-009,América / MG,Fluminense / RJ
-010,Internacional / RS,Chapecoense / SC
-011,Vitória / BA,Corinthians / SP
-012,Fluminense / RJ,Santa Cruz / PE
-013,Cruzeiro / MG,Figueirense / SC
-014,Santos / SP,Coritiba / PR
-015,Athletico Paranaense / PR,Atlético Mineiro / MG
-016,Chapecoense / SC,América / MG
-017,São Paulo / SP,Internacional / RS
-018,Grêmio / RS,Flamengo / RJ
-019,Ponte Preta / SP,Palmeiras / SP
-020,Sport / PE,Botafogo / RJ
-021,Botafogo / RJ,Athletico Paranaense / PR
-022,Flamengo / RJ,Chapecoense / SC
-023,Figueirense / SC,Santos / SP
-024,América / MG,Vitória / BA
-025,Santa Cruz / PE,Cruzeiro / MG
-026,Palmeiras / SP,Fluminense / RJ
-027,Internacional / RS,Sport / PE
-028,Coritiba / PR,São Paulo / SP
-029,Corinthians / SP,Ponte Preta / SP
-030,Atlético Mineiro / MG,Grêmio / RS
-031,Cruzeiro / MG,América / MG
-032,Athletico Paranaense / PR,Figueirense / SC
-033,Chapecoense / SC,Santa Cruz / PE
-034,Ponte Preta / SP,Flamengo / RJ
-035,Sport / PE,Corinthians / SP
-036,Vitória / BA,Atlético Mineiro / MG
-037,Fluminense / RJ,Botafogo / RJ
-038,São Paulo / SP,Palmeiras / SP
-039,Grêmio / RS,Coritiba / PR
-040,Santos / SP,Internacional / RS
-041,Botafogo / RJ,Cruzeiro / MG
-042,Internacional / RS,Athletico Paranaense / PR
-043,Coritiba / PR,Chapecoense / SC
-044,Figueirense / SC,São Paulo / SP
-045,Santa Cruz / PE,Sport / PE
-046,Corinthians / SP,Santos / SP
-047,Atlético Mineiro / MG,Fluminense / RJ
-048,América / MG,Ponte Preta / SP
-049,Flamengo / RJ,Vitória / BA
-050,Palmeiras / SP,Grêmio / RS
-051,Athletico Paranaense / PR,Santa Cruz / PE
-052,Cruzeiro / MG,São Paulo / SP
-053,Chapecoense / SC,Fluminense / RJ
-054,Corinthians / SP,Coritiba / PR
-055,América / MG,Figueirense / SC
-056,Santos / SP,Botafogo / RJ
-057,Flamengo / RJ,Palmeiras / SP
-058,Vitória / BA,Internacional / RS
-059,Sport / PE,Atlético Mineiro / MG
-060,Grêmio / RS,Ponte Preta / SP
-061,Ponte Preta / SP,Chapecoense / SC
-062,Internacional / RS,América / MG
-063,São Paulo / SP,Athletico Paranaense / PR
-064,Santa Cruz / PE,Santos / SP
-065,Figueirense / SC,Flamengo / RJ
-066,Fluminense / RJ,Grêmio / RS
-067,Atlético Mineiro / MG,Cruzeiro / MG
-068,Palmeiras / SP,Corinthians / SP
-069,Coritiba / PR,Sport / PE
-070,Botafogo / RJ,Vitória / BA
-071,Coritiba / PR,Palmeiras / SP
-072,Ponte Preta / SP,Athletico Paranaense / PR
-073,Botafogo / RJ,América / MG
-074,Santos / SP,Sport / PE
-075,Santa Cruz / PE,Figueirense / SC
-076,São Paulo / SP,Vitória / BA
-077,Cruzeiro / MG,Flamengo / RJ
-078,Internacional / RS,Atlético Mineiro / MG
-079,Fluminense / RJ,Corinthians / SP
-080,Chapecoense / SC,Grêmio / RS
-081,Athletico Paranaense / PR,Santos / SP
-082,Palmeiras / SP,Santa Cruz / PE
-083,América / MG,Coritiba / PR
-084,Corinthians / SP,Botafogo / RJ
-085,Atlético Mineiro / MG,Ponte Preta / SP
-086,Vitória / BA,Chapecoense / SC
-087,Flamengo / RJ,São Paulo / SP
-088,Figueirense / SC,Internacional / RS
-089,Sport / PE,Fluminense / RJ
-090,Grêmio / RS,Cruzeiro / MG
-091,Chapecoense / SC,Athletico Paranaense / PR
-092,Ponte Preta / SP,Cruzeiro / MG
-093,Botafogo / RJ,Figueirense / SC
-094,Palmeiras / SP,América / MG
-095,Santa Cruz / PE,Flamengo / RJ
-096,Fluminense / RJ,Santos / SP
-097,Atlético Mineiro / MG,Corinthians / SP
-098,Grêmio / RS,Vitória / BA
-099,São Paulo / SP,Sport / PE
-100,Coritiba / PR,Internacional / RS
-101,Corinthians / SP,Santa Cruz / PE
-102,Cruzeiro / MG,Palmeiras / SP
-103,Vitória / BA,Ponte Preta / SP
-104,Flamengo / RJ,Fluminense / RJ
-105,Santos / SP,São Paulo / SP
-106,Internacional / RS,Botafogo / RJ
-107,Athletico Paranaense / PR,Grêmio / RS
-108,América / MG,Atlético Mineiro / MG
-109,Figueirense / SC,Coritiba / PR
-110,Sport / PE,Chapecoense / SC
-111,Vitória / BA,Sport / PE
-112,Grêmio / RS,Santos / SP
-113,Chapecoense / SC,Cruzeiro / MG
-114,Flamengo / RJ,Internacional / RS
-115,Coritiba / PR,Athletico Paranaense / PR
-116,São Paulo / SP,Fluminense / RJ
-117,América / MG,Corinthians / SP
-118,Santa Cruz / PE,Ponte Preta / SP
-119,Palmeiras / SP,Figueirense / SC
-120,Atlético Mineiro / MG,Botafogo / RJ
-121,Fluminense / RJ,Coritiba / PR
-122,Athletico Paranaense / PR,América / MG
-123,Cruzeiro / MG,Vitória / BA
-124,Internacional / RS,Grêmio / RS
-125,Santos / SP,Chapecoense / SC
-126,Botafogo / RJ,Santa Cruz / PE
-127,Corinthians / SP,Flamengo / RJ
-128,Ponte Preta / SP,São Paulo / SP
-129,Figueirense / SC,Atlético Mineiro / MG
-130,Sport / PE,Palmeiras / SP
-131,Flamengo / RJ,Atlético Mineiro / MG
-132,Chapecoense / SC,Corinthians / SP
-133,Palmeiras / SP,Santos / SP
-134,Ponte Preta / SP,Sport / PE
-135,Coritiba / PR,Botafogo / RJ
-136,Grêmio / RS,Figueirense / SC
-137,São Paulo / SP,América / MG
-138,Vitória / BA,Fluminense / RJ
-139,Santa Cruz / PE,Internacional / RS
-140,Cruzeiro / MG,Athletico Paranaense / PR
-141,Botafogo / RJ,Flamengo / RJ
-142,Santos / SP,Ponte Preta / SP
-143,América / MG,Santa Cruz / PE
-144,Figueirense / SC,Chapecoense / SC
-145,Athletico Paranaense / PR,Vitória / BA
-146,Corinthians / SP,São Paulo / SP
-147,Internacional / RS,Palmeiras / SP
-148,Fluminense / RJ,Cruzeiro / MG
-149,Sport / PE,Grêmio / RS
-150,Atlético Mineiro / MG,Coritiba / PR
-151,Corinthians / SP,Figueirense / SC
-152,Santa Cruz / PE,Coritiba / PR
-153,Palmeiras / SP,Atlético Mineiro / MG
-154,Ponte Preta / SP,Internacional / RS
-155,Cruzeiro / MG,Sport / PE
-156,Grêmio / RS,São Paulo / SP
-157,Athletico Paranaense / PR,Fluminense / RJ
-158,Chapecoense / SC,Botafogo / RJ
-159,Vitória / BA,Santos / SP
-160,Flamengo / RJ,América / MG
-161,Figueirense / SC,Vitória / BA
-162,Sport / PE,Athletico Paranaense / PR
-163,Atlético Mineiro / MG,Santa Cruz / PE
-164,Fluminense / RJ,Ponte Preta / SP
-165,São Paulo / SP,Chapecoense / SC
-166,Santos / SP,Cruzeiro / MG
-167,Internacional / RS,Corinthians / SP
-168,Coritiba / PR,Flamengo / RJ
-169,América / MG,Grêmio / RS
-170,Botafogo / RJ,Palmeiras / SP
-171,São Paulo / SP,Atlético Mineiro / MG
-172,Cruzeiro / MG,Internacional / RS
-173,Vitória / BA,Coritiba / PR
-174,Fluminense / RJ,Figueirense / SC
-175,Sport / PE,América / MG
-176,Santos / SP,Flamengo / RJ
-177,Athletico Paranaense / PR,Corinthians / SP
-178,Ponte Preta / SP,Botafogo / RJ
-179,Grêmio / RS,Santa Cruz / PE
-180,Chapecoense / SC,Palmeiras / SP
-181,Corinthians / SP,Cruzeiro / MG
-182,Flamengo / RJ,Athletico Paranaense / PR
-183,América / MG,Santos / SP
-184,Figueirense / SC,Sport / PE
-185,Palmeiras / SP,Vitória / BA
-186,Coritiba / PR,Ponte Preta / SP
-187,Internacional / RS,Fluminense / RJ
-188,Santa Cruz / PE,São Paulo / SP
-189,Botafogo / RJ,Grêmio / RS
-190,Atlético Mineiro / MG,Chapecoense / SC
-191,Vitória / BA,Santa Cruz / PE
-192,Ponte Preta / SP,Figueirense / SC
-193,Sport / PE,Flamengo / RJ
-194,Fluminense / RJ,América / MG
-195,Grêmio / RS,Corinthians / SP
-196,Santos / SP,Atlético Mineiro / MG
-197,Cruzeiro / MG,Coritiba / PR
-198,São Paulo / SP,Botafogo / RJ
-199,Athletico Paranaense / PR,Palmeiras / SP
-200,Chapecoense / SC,Internacional / RS
-201,Corinthians / SP,Vitória / BA
-202,América / MG,Chapecoense / SC
-203,Botafogo / RJ,Sport / PE
-204,Flamengo / RJ,Grêmio / RS
-205,Atlético Mineiro / MG,Athletico Paranaense / PR
-206,Palmeiras / SP,Ponte Preta / SP
-207,Internacional / RS,São Paulo / SP
-208,Santa Cruz / PE,Fluminense / RJ
-209,Figueirense / SC,Cruzeiro / MG
-210,Coritiba / PR,Santos / SP
-211,Ponte Preta / SP,Corinthians / SP
-212,Cruzeiro / MG,Santa Cruz / PE
-213,Santos / SP,Figueirense / SC
-214,Fluminense / RJ,Palmeiras / SP
-215,São Paulo / SP,Coritiba / PR
-216,Grêmio / RS,Atlético Mineiro / MG
-217,Chapecoense / SC,Flamengo / RJ
-218,Vitória / BA,América / MG
-219,Sport / PE,Internacional / RS
-220,Athletico Paranaense / PR,Botafogo / RJ
-221,Botafogo / RJ,Fluminense / RJ
-222,Figueirense / SC,Athletico Paranaense / PR
-223,Santa Cruz / PE,Chapecoense / SC
-224,Atlético Mineiro / MG,Vitória / BA
-225,Flamengo / RJ,Ponte Preta / SP
-226,Palmeiras / SP,São Paulo / SP
-227,Coritiba / PR,Grêmio / RS
-228,Corinthians / SP,Sport / PE
-229,Internacional / RS,Santos / SP
-230,América / MG,Cruzeiro / MG
-231,Vitória / BA,Flamengo / RJ
-232,São Paulo / SP,Figueirense / SC
-233,Chapecoense / SC,Coritiba / PR
-234,Santos / SP,Corinthians / SP
-235,Cruzeiro / MG,Botafogo / RJ
-236,Athletico Paranaense / PR,Internacional / RS
-237,Sport / PE,Santa Cruz / PE
-238,Grêmio / RS,Palmeiras / SP
-239,Ponte Preta / SP,América / MG
-240,Fluminense / RJ,Atlético Mineiro / MG
-241,Botafogo / RJ,Santos / SP
-242,Figueirense / SC,América / MG
-243,Ponte Preta / SP,Grêmio / RS
-244,Santa Cruz / PE,Athletico Paranaense / PR
-245,Palmeiras / SP,Flamengo / RJ
-246,Coritiba / PR,Corinthians / SP
-247,Fluminense / RJ,Chapecoense / SC
-248,Atlético Mineiro / MG,Sport / PE
-249,Internacional / RS,Vitória / BA
-250,São Paulo / SP,Cruzeiro / MG
-251,Corinthians / SP,Palmeiras / SP
-252,Chapecoense / SC,Ponte Preta / SP
-253,Santos / SP,Santa Cruz / PE
-254,Vitória / BA,Botafogo / RJ
-255,Cruzeiro / MG,Atlético Mineiro / MG
-256,Grêmio / RS,Fluminense / RJ
-257,Athletico Paranaense / PR,São Paulo / SP
-258,Sport / PE,Coritiba / PR
-259,Flamengo / RJ,Figueirense / SC
-260,América / MG,Internacional / RS
-261,Palmeiras / SP,Coritiba / PR
-262,Sport / PE,Santos / SP
-263,América / MG,Botafogo / RJ
-264,Figueirense / SC,Santa Cruz / PE
-265,Athletico Paranaense / PR,Ponte Preta / SP
-266,Vitória / BA,São Paulo / SP
-267,Corinthians / SP,Fluminense / RJ
-268,Flamengo / RJ,Cruzeiro / MG
-269,Grêmio / RS,Chapecoense / SC
-270,Atlético Mineiro / MG,Internacional / RS
-271,Botafogo / RJ,Corinthians / SP
-272,São Paulo / SP,Flamengo / RJ
-273,Ponte Preta / SP,Atlético Mineiro / MG
-274,Chapecoense / SC,Vitória / BA
-275,Fluminense / RJ,Sport / PE
-276,Cruzeiro / MG,Grêmio / RS
-277,Coritiba / PR,América / MG
-278,Internacional / RS,Figueirense / SC
-279,Santos / SP,Athletico Paranaense / PR
-280,Santa Cruz / PE,Palmeiras / SP
-281,Sport / PE,São Paulo / SP
-282,Athletico Paranaense / PR,Chapecoense / SC
-283,Santos / SP,Fluminense / RJ
-284,Cruzeiro / MG,Ponte Preta / SP
-285,Corinthians / SP,Atlético Mineiro / MG
-286,Internacional / RS,Coritiba / PR
-287,Figueirense / SC,Botafogo / RJ
-288,América / MG,Palmeiras / SP
-289,Flamengo / RJ,Santa Cruz / PE
-290,Vitória / BA,Grêmio / RS
-291,Chapecoense / SC,Sport / PE
-292,Fluminense / RJ,Flamengo / RJ
-293,Coritiba / PR,Figueirense / SC
-294,Botafogo / RJ,Internacional / RS
-295,Palmeiras / SP,Cruzeiro / MG
-296,Santa Cruz / PE,Corinthians / SP
-297,Ponte Preta / SP,Vitória / BA
-298,Atlético Mineiro / MG,América / MG
-299,Grêmio / RS,Athletico Paranaense / PR
-300,São Paulo / SP,Santos / SP
-301,Botafogo / RJ,Atlético Mineiro / MG
-302,Internacional / RS,Flamengo / RJ
-303,Figueirense / SC,Palmeiras / SP
-304,Athletico Paranaense / PR,Coritiba / PR
-305,Cruzeiro / MG,Chapecoense / SC
-306,Corinthians / SP,América / MG
-307,Ponte Preta / SP,Santa Cruz / PE
-308,Santos / SP,Grêmio / RS
-309,Sport / PE,Vitória / BA
-310,Fluminense / RJ,São Paulo / SP
-311,São Paulo / SP,Ponte Preta / SP
-312,Santa Cruz / PE,Botafogo / RJ
-313,América / MG,Athletico Paranaense / PR
-314,Vitória / BA,Cruzeiro / MG
-315,Flamengo / RJ,Corinthians / SP
-316,Palmeiras / SP,Sport / PE
-317,Grêmio / RS,Internacional / RS
-318,Atlético Mineiro / MG,Figueirense / SC
-319,Chapecoense / SC,Santos / SP
-320,Coritiba / PR,Fluminense / RJ
-321,Sport / PE,Ponte Preta / SP
-322,Fluminense / RJ,Vitória / BA
-323,Santos / SP,Palmeiras / SP
-324,Atlético Mineiro / MG,Flamengo / RJ
-325,Athletico Paranaense / PR,Cruzeiro / MG
-326,Botafogo / RJ,Coritiba / PR
-327,Internacional / RS,Santa Cruz / PE
-328,Corinthians / SP,Chapecoense / SC
-329,Figueirense / SC,Grêmio / RS
-330,América / MG,São Paulo / SP
-331,Vitória / BA,Athletico Paranaense / PR
-332,Flamengo / RJ,Botafogo / RJ
-333,São Paulo / SP,Corinthians / SP
-334,Palmeiras / SP,Internacional / RS
-335,Cruzeiro / MG,Fluminense / RJ
-336,Grêmio / RS,Sport / PE
-337,Coritiba / PR,Atlético Mineiro / MG
-338,Chapecoense / SC,Figueirense / SC
-339,Ponte Preta / SP,Santos / SP
-340,Santa Cruz / PE,América / MG
-341,Botafogo / RJ,Chapecoense / SC
-342,Fluminense / RJ,Athletico Paranaense / PR
-343,São Paulo / SP,Grêmio / RS
-344,Santos / SP,Vitória / BA
-345,Atlético Mineiro / MG,Palmeiras / SP
-346,Internacional / RS,Ponte Preta / SP
-347,Coritiba / PR,Santa Cruz / PE
-348,Figueirense / SC,Corinthians / SP
-349,América / MG,Flamengo / RJ
-350,Sport / PE,Cruzeiro / MG
-351,Athletico Paranaense / PR,Sport / PE
-352,Vitória / BA,Figueirense / SC
-353,Palmeiras / SP,Botafogo / RJ
-354,Cruzeiro / MG,Santos / SP
-355,Grêmio / RS,América / MG
-356,Ponte Preta / SP,Fluminense / RJ
-357,Flamengo / RJ,Coritiba / PR
-358,Chapecoense / SC,São Paulo / SP
-359,Santa Cruz / PE,Atlético Mineiro / MG
-360,Corinthians / SP,Internacional / RS
-361,Botafogo / RJ,Ponte Preta / SP
-362,América / MG,Sport / PE
-363,Corinthians / SP,Athletico Paranaense / PR
-364,Flamengo / RJ,Santos / SP
-365,Palmeiras / SP,Chapecoense / SC
-366,Atlético Mineiro / MG,São Paulo / SP
-367,Internacional / RS,Cruzeiro / MG
-368,Figueirense / SC,Fluminense / RJ
-369,Santa Cruz / PE,Grêmio / RS
-370,Coritiba / PR,Vitória / BA
-371,Vitória / BA,Palmeiras / SP
-372,Fluminense / RJ,Internacional / RS
-373,São Paulo / SP,Santa Cruz / PE
-374,Santos / SP,América / MG
-375,Cruzeiro / MG,Corinthians / SP
-376,Grêmio / RS,Botafogo / RJ
-377,Athletico Paranaense / PR,Flamengo / RJ
-379,Ponte Preta / SP,Coritiba / PR
-380,Sport / PE,Figueirense / SC
+Game,Home,Away,Date,Time,Stadium
+001,Palmeiras / SP,Athletico Paranaense / PR,14/05/2016,16:00,Parque Antártica / São Paulo
+002,Flamengo / RJ,Sport / PE,14/05/2016,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+003,Atlético Mineiro / MG,Santos / SP,14/05/2016,18:30,Raimundo Sampaio / Belo Horizonte
+004,Coritiba / PR,Cruzeiro / MG,14/05/2016,21:00,Major Antônio Couto Pereira / Curitiba
+005,Botafogo / RJ,São Paulo / SP,15/05/2016,11:00,Sylvio Raulino de Oliveira / Volta Redonda
+006,Santa Cruz / PE,Vitória / BA,15/05/2016,11:00,José do Rego Maciel / Recife
+007,Corinthians / SP,Grêmio / RS,15/05/2016,16:00,Arena Corinthians / Sao Paulo
+008,Figueirense / SC,Ponte Preta / SP,15/05/2016,16:00,Orlando Scarpelli / Florianopolis
+009,América / MG,Fluminense / RJ,15/05/2016,16:00,Raimundo Sampaio / Belo Horizonte
+010,Internacional / RS,Chapecoense / SC,15/05/2016,18:30,José Pinheiro Borda / Porto Alegre
+011,Vitória / BA,Corinthians / SP,22/05/2016,16:00,Manoel Barradas / Salvador
+012,Fluminense / RJ,Santa Cruz / PE,21/05/2016,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+013,Cruzeiro / MG,Figueirense / SC,21/05/2016,21:00,Magalhães Pinto  / Belo Horizonte
+014,Santos / SP,Coritiba / PR,22/05/2016,11:00,Urbano Caldeira / Santos
+015,Athletico Paranaense / PR,Atlético Mineiro / MG,22/05/2016,11:00,Joaquim Américo Guimarães / Curitiba
+016,Chapecoense / SC,América / MG,22/05/2016,16:00,Índio Condá / Chapecó
+017,São Paulo / SP,Internacional / RS,22/05/2016,16:00,Cícero Pompeu de Toledo / Sao Paulo
+018,Grêmio / RS,Flamengo / RJ,22/05/2016,16:00,Arena do Grêmio / Porto Alegre
+019,Ponte Preta / SP,Palmeiras / SP,21/05/2016,16:00,Moisés Lucarelli / Campinas
+020,Sport / PE,Botafogo / RJ,22/05/2016,18:30,Aldemar da Costa Carvalho / Recife
+021,Botafogo / RJ,Athletico Paranaense / PR,25/05/2016,19:30,Mário Helênio / Juiz de Fora
+022,Flamengo / RJ,Chapecoense / SC,25/05/2016,21:00,Sylvio Raulino de Oliveira / Volta Redonda
+023,Figueirense / SC,Santos / SP,25/05/2016,19:30,Orlando Scarpelli / Florianopolis
+024,América / MG,Vitória / BA,25/05/2016,21:00,Raimundo Sampaio / Belo Horizonte
+025,Santa Cruz / PE,Cruzeiro / MG,25/05/2016,21:45,José do Rego Maciel / Recife
+026,Palmeiras / SP,Fluminense / RJ,25/05/2016,21:45,Parque Antártica / São Paulo
+027,Internacional / RS,Sport / PE,26/05/2016,16:00,José Pinheiro Borda / Porto Alegre
+028,Coritiba / PR,São Paulo / SP,25/05/2016,21:45,Major Antônio Couto Pereira / Curitiba
+029,Corinthians / SP,Ponte Preta / SP,26/05/2016,11:00,Arena Corinthians / Sao Paulo
+030,Atlético Mineiro / MG,Grêmio / RS,26/05/2016,21:00,Raimundo Sampaio / Belo Horizonte
+031,Cruzeiro / MG,América / MG,28/05/2016,16:00,Magalhães Pinto  / Belo Horizonte
+032,Athletico Paranaense / PR,Figueirense / SC,28/05/2016,18:30,Joaquim Américo Guimarães / Curitiba
+033,Chapecoense / SC,Santa Cruz / PE,28/05/2016,21:00,Índio Condá / Chapecó
+034,Ponte Preta / SP,Flamengo / RJ,29/05/2016,11:00,Moisés Lucarelli / Campinas
+035,Sport / PE,Corinthians / SP,29/05/2016,11:00,Aldemar da Costa Carvalho / Recife
+036,Vitória / BA,Atlético Mineiro / MG,29/05/2016,16:00,Octávio Mangabeira / Salvador
+037,Fluminense / RJ,Botafogo / RJ,29/05/2016,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+038,São Paulo / SP,Palmeiras / SP,29/05/2016,16:00,Cícero Pompeu de Toledo / Sao Paulo
+039,Grêmio / RS,Coritiba / PR,29/05/2016,18:30,Arena do Grêmio / Porto Alegre
+040,Santos / SP,Internacional / RS,29/05/2016,18:30,Urbano Caldeira / Santos
+041,Botafogo / RJ,Cruzeiro / MG,01/06/2016,21:45,Estádio Nacional Mané Garrincha / Brasilia
+042,Internacional / RS,Athletico Paranaense / PR,01/06/2016,19:30,José Pinheiro Borda / Porto Alegre
+043,Coritiba / PR,Chapecoense / SC,01/06/2016,21:00,Durival Britto e Silva / Curitiba
+044,Figueirense / SC,São Paulo / SP,01/06/2016,21:45,Orlando Scarpelli / Florianopolis
+045,Santa Cruz / PE,Sport / PE,01/06/2016,21:00,José do Rego Maciel / Recife
+046,Corinthians / SP,Santos / SP,01/06/2016,21:00,Arena Corinthians / Sao Paulo
+047,Atlético Mineiro / MG,Fluminense / RJ,01/06/2016,21:45,Raimundo Sampaio / Belo Horizonte
+048,América / MG,Ponte Preta / SP,02/06/2016,19:30,Raimundo Sampaio / Belo Horizonte
+049,Flamengo / RJ,Vitória / BA,02/06/2016,21:00,Sylvio Raulino de Oliveira / Volta Redonda
+050,Palmeiras / SP,Grêmio / RS,02/06/2016,21:00,Paulo Machado de Carvalho / São Paulo
+051,Athletico Paranaense / PR,Santa Cruz / PE,04/06/2016,16:00,Joaquim Américo Guimarães / Curitiba
+052,Cruzeiro / MG,São Paulo / SP,05/06/2016,18:30,Magalhães Pinto  / Belo Horizonte
+053,Chapecoense / SC,Fluminense / RJ,04/06/2016,20:30,Índio Condá / Chapecó
+054,Corinthians / SP,Coritiba / PR,04/06/2016,20:30,Arena Corinthians / Sao Paulo
+055,América / MG,Figueirense / SC,05/06/2016,11:00,Raimundo Sampaio / Belo Horizonte
+056,Santos / SP,Botafogo / RJ,05/06/2016,11:00,Paulo Machado de Carvalho / São Paulo
+057,Flamengo / RJ,Palmeiras / SP,05/06/2016,16:00,Estádio Nacional Mané Garrincha / Brasilia
+058,Vitória / BA,Internacional / RS,05/06/2016,16:00,Manoel Barradas / Salvador
+059,Sport / PE,Atlético Mineiro / MG,05/06/2016,16:00,Aldemar da Costa Carvalho / Recife
+060,Grêmio / RS,Ponte Preta / SP,05/06/2016,16:00,Arena do Grêmio / Porto Alegre
+061,Ponte Preta / SP,Chapecoense / SC,11/06/2016,16:00,Moisés Lucarelli / Campinas
+062,Internacional / RS,América / MG,11/06/2016,16:00,José Pinheiro Borda / Porto Alegre
+063,São Paulo / SP,Athletico Paranaense / PR,11/06/2016,21:00,Cícero Pompeu de Toledo / Sao Paulo
+064,Santa Cruz / PE,Santos / SP,12/06/2016,19:00,José do Rego Maciel / Recife
+065,Figueirense / SC,Flamengo / RJ,12/06/2016,16:00,Orlando Scarpelli / Florianopolis
+066,Fluminense / RJ,Grêmio / RS,11/06/2016,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+067,Atlético Mineiro / MG,Cruzeiro / MG,12/06/2016,16:00,Raimundo Sampaio / Belo Horizonte
+068,Palmeiras / SP,Corinthians / SP,12/06/2016,16:00,Parque Antártica / São Paulo
+069,Coritiba / PR,Sport / PE,12/06/2016,11:00,Major Antônio Couto Pereira / Curitiba
+070,Botafogo / RJ,Vitória / BA,12/06/2016,11:00,Sylvio Raulino de Oliveira / Volta Redonda
+071,Coritiba / PR,Palmeiras / SP,15/06/2016,21:45,Major Antônio Couto Pereira / Curitiba
+072,Ponte Preta / SP,Athletico Paranaense / PR,15/06/2016,19:30,Moisés Lucarelli / Campinas
+073,Botafogo / RJ,América / MG,15/06/2016,21:00,Sylvio Raulino de Oliveira / Volta Redonda
+074,Santos / SP,Sport / PE,15/06/2016,21:00,Urbano Caldeira / Santos
+075,Santa Cruz / PE,Figueirense / SC,15/06/2016,21:00,José do Rego Maciel / Recife
+076,São Paulo / SP,Vitória / BA,15/06/2016,19:30,Cícero Pompeu de Toledo / Sao Paulo
+077,Cruzeiro / MG,Flamengo / RJ,15/06/2016,21:45,Magalhães Pinto  / Belo Horizonte
+078,Internacional / RS,Atlético Mineiro / MG,16/06/2016,19:30,José Pinheiro Borda / Porto Alegre
+079,Fluminense / RJ,Corinthians / SP,16/06/2016,20:00,Estádio Nacional Mané Garrincha / Brasilia
+080,Chapecoense / SC,Grêmio / RS,15/06/2016,19:30,Índio Condá / Chapecó
+081,Athletico Paranaense / PR,Santos / SP,18/06/2016,18:00,Joaquim Américo Guimarães / Curitiba
+082,Palmeiras / SP,Santa Cruz / PE,18/06/2016,16:00,Parque Antártica / São Paulo
+083,América / MG,Coritiba / PR,18/06/2016,21:00,Raimundo Sampaio / Belo Horizonte
+084,Corinthians / SP,Botafogo / RJ,19/06/2016,16:00,Arena Corinthians / Sao Paulo
+085,Atlético Mineiro / MG,Ponte Preta / SP,19/06/2016,11:00,Raimundo Sampaio / Belo Horizonte
+086,Vitória / BA,Chapecoense / SC,19/06/2016,11:00,Manoel Barradas / Salvador
+087,Flamengo / RJ,São Paulo / SP,19/06/2016,16:00,Estádio Nacional Mané Garrincha / Brasilia
+088,Figueirense / SC,Internacional / RS,19/06/2016,16:00,Orlando Scarpelli / Florianopolis
+089,Sport / PE,Fluminense / RJ,19/06/2016,16:00,Aldemar da Costa Carvalho / Recife
+090,Grêmio / RS,Cruzeiro / MG,19/06/2016,19:00,Arena do Grêmio / Porto Alegre
+091,Chapecoense / SC,Athletico Paranaense / PR,22/06/2016,19:30,Índio Condá / Chapecó
+092,Ponte Preta / SP,Cruzeiro / MG,22/06/2016,19:30,Moisés Lucarelli / Campinas
+093,Botafogo / RJ,Figueirense / SC,22/06/2016,21:00,Mário Helênio / Juiz de Fora
+094,Palmeiras / SP,América / MG,21/06/2016,21:30,Parque Antártica / São Paulo
+095,Santa Cruz / PE,Flamengo / RJ,22/06/2016,21:00,José do Rego Maciel / Recife
+096,Fluminense / RJ,Santos / SP,22/06/2016,21:45,Kleber José de Andrade (em obras) / Cariacica
+097,Atlético Mineiro / MG,Corinthians / SP,22/06/2016,21:45,Magalhães Pinto  / Belo Horizonte
+098,Grêmio / RS,Vitória / BA,23/06/2016,19:15,Arena do Grêmio / Porto Alegre
+099,São Paulo / SP,Sport / PE,23/06/2016,21:00,Cícero Pompeu de Toledo / Sao Paulo
+100,Coritiba / PR,Internacional / RS,23/06/2016,21:30,Major Antônio Couto Pereira / Curitiba
+101,Corinthians / SP,Santa Cruz / PE,25/06/2016,21:00,Arena Corinthians / Sao Paulo
+102,Cruzeiro / MG,Palmeiras / SP,25/06/2016,19:00,Magalhães Pinto  / Belo Horizonte
+103,Vitória / BA,Ponte Preta / SP,26/06/2016,16:00,Manoel Barradas / Salvador
+104,Flamengo / RJ,Fluminense / RJ,26/06/2016,16:00,Arena das Dunas  / Natal
+105,Santos / SP,São Paulo / SP,26/06/2016,16:00,Paulo Machado de Carvalho / São Paulo
+106,Internacional / RS,Botafogo / RJ,26/06/2016,16:00,José Pinheiro Borda / Porto Alegre
+107,Athletico Paranaense / PR,Grêmio / RS,26/06/2016,16:00,Joaquim Américo Guimarães / Curitiba
+108,América / MG,Atlético Mineiro / MG,26/06/2016,11:00,Raimundo Sampaio / Belo Horizonte
+109,Figueirense / SC,Coritiba / PR,26/06/2016,18:30,Orlando Scarpelli / Florianopolis
+110,Sport / PE,Chapecoense / SC,26/06/2016,18:30,Aldemar da Costa Carvalho / Recife
+111,Vitória / BA,Sport / PE,29/06/2016,19:30,Manoel Barradas / Salvador
+112,Grêmio / RS,Santos / SP,29/06/2016,19:30,Arena do Grêmio / Porto Alegre
+113,Chapecoense / SC,Cruzeiro / MG,29/06/2016,21:00,Índio Condá / Chapecó
+114,Flamengo / RJ,Internacional / RS,29/06/2016,19:30,Kleber José de Andrade (em obras) / Cariacica
+115,Coritiba / PR,Athletico Paranaense / PR,29/06/2016,21:00,Major Antônio Couto Pereira / Curitiba
+116,São Paulo / SP,Fluminense / RJ,29/06/2016,21:45,Cícero Pompeu de Toledo / Sao Paulo
+117,América / MG,Corinthians / SP,29/06/2016,21:45,Raimundo Sampaio / Belo Horizonte
+118,Santa Cruz / PE,Ponte Preta / SP,30/06/2016,19:30,José do Rego Maciel / Recife
+119,Palmeiras / SP,Figueirense / SC,30/06/2016,19:30,Parque Antártica / São Paulo
+120,Atlético Mineiro / MG,Botafogo / RJ,30/06/2016,21:00,Magalhães Pinto  / Belo Horizonte
+121,Fluminense / RJ,Coritiba / PR,02/07/2016,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+122,Athletico Paranaense / PR,América / MG,02/07/2016,18:30,Joaquim Américo Guimarães / Curitiba
+123,Cruzeiro / MG,Vitória / BA,03/07/2016,11:00,Magalhães Pinto  / Belo Horizonte
+124,Internacional / RS,Grêmio / RS,03/07/2016,11:00,José Pinheiro Borda / Porto Alegre
+125,Santos / SP,Chapecoense / SC,03/07/2016,16:00,Urbano Caldeira / Santos
+126,Botafogo / RJ,Santa Cruz / PE,03/07/2016,16:00,Mário Helênio / Juiz de Fora
+127,Corinthians / SP,Flamengo / RJ,03/07/2016,16:00,Arena Corinthians / Sao Paulo
+128,Ponte Preta / SP,São Paulo / SP,03/07/2016,16:00,Moisés Lucarelli / Campinas
+129,Figueirense / SC,Atlético Mineiro / MG,03/07/2016,19:00,Orlando Scarpelli / Florianopolis
+130,Sport / PE,Palmeiras / SP,04/07/2016,20:00,Aldemar da Costa Carvalho / Recife
+131,Flamengo / RJ,Atlético Mineiro / MG,10/07/2016,11:00,Estádio Nacional Mané Garrincha / Brasilia
+132,Chapecoense / SC,Corinthians / SP,09/07/2016,16:30,Índio Condá / Chapecó
+133,Palmeiras / SP,Santos / SP,12/07/2016,20:30,Parque Antártica / São Paulo
+134,Ponte Preta / SP,Sport / PE,09/07/2016,21:00,Moisés Lucarelli / Campinas
+135,Coritiba / PR,Botafogo / RJ,09/07/2016,16:30,Major Antônio Couto Pereira / Curitiba
+136,Grêmio / RS,Figueirense / SC,10/07/2016,11:00,Arena do Grêmio / Porto Alegre
+137,São Paulo / SP,América / MG,10/07/2016,16:00,Cícero Pompeu de Toledo / Sao Paulo
+138,Vitória / BA,Fluminense / RJ,10/07/2016,19:30,Manoel Barradas / Salvador
+139,Santa Cruz / PE,Internacional / RS,10/07/2016,16:00,José do Rego Maciel / Recife
+140,Cruzeiro / MG,Athletico Paranaense / PR,11/07/2016,20:00,Magalhães Pinto  / Belo Horizonte
+141,Botafogo / RJ,Flamengo / RJ,16/07/2016,16:00,Luso Brasileiro / Rio de Janeiro
+142,Santos / SP,Ponte Preta / SP,16/07/2016,18:30,Urbano Caldeira / Santos
+143,América / MG,Santa Cruz / PE,17/07/2016,11:00,Raimundo Sampaio / Belo Horizonte
+144,Figueirense / SC,Chapecoense / SC,17/07/2016,16:00,Orlando Scarpelli / Florianopolis
+145,Athletico Paranaense / PR,Vitória / BA,17/07/2016,16:00,Joaquim Américo Guimarães / Curitiba
+146,Corinthians / SP,São Paulo / SP,17/07/2016,16:00,Arena Corinthians / Sao Paulo
+147,Internacional / RS,Palmeiras / SP,17/07/2016,16:00,José Pinheiro Borda / Porto Alegre
+148,Fluminense / RJ,Cruzeiro / MG,17/07/2016,16:00,Giulite Coutinho / Mesquita
+149,Sport / PE,Grêmio / RS,17/07/2016,18:30,Aldemar da Costa Carvalho / Recife
+150,Atlético Mineiro / MG,Coritiba / PR,18/07/2016,20:00,Raimundo Sampaio / Belo Horizonte
+151,Corinthians / SP,Figueirense / SC,23/07/2016,16:00,Arena Corinthians / Sao Paulo
+152,Santa Cruz / PE,Coritiba / PR,23/07/2016,18:30,José do Rego Maciel / Recife
+153,Palmeiras / SP,Atlético Mineiro / MG,24/07/2016,11:00,Parque Antártica / São Paulo
+154,Ponte Preta / SP,Internacional / RS,24/07/2016,11:00,Moisés Lucarelli / Campinas
+155,Cruzeiro / MG,Sport / PE,24/07/2016,16:00,Magalhães Pinto  / Belo Horizonte
+156,Grêmio / RS,São Paulo / SP,24/07/2016,16:00,Arena do Grêmio / Porto Alegre
+157,Athletico Paranaense / PR,Fluminense / RJ,24/07/2016,16:00,Joaquim Américo Guimarães / Curitiba
+158,Chapecoense / SC,Botafogo / RJ,24/07/2016,16:00,Índio Condá / Chapecó
+159,Vitória / BA,Santos / SP,24/07/2016,18:30,Manoel Barradas / Salvador
+160,Flamengo / RJ,América / MG,25/07/2016,20:00,Kleber José de Andrade (em obras) / Cariacica
+161,Figueirense / SC,Vitória / BA,30/07/2016,18:30,Orlando Scarpelli / Florianopolis
+162,Sport / PE,Athletico Paranaense / PR,30/07/2016,18:30,Aldemar da Costa Carvalho / Recife
+163,Atlético Mineiro / MG,Santa Cruz / PE,30/07/2016,21:00,Raimundo Sampaio / Belo Horizonte
+164,Fluminense / RJ,Ponte Preta / SP,31/07/2016,11:00,Giulite Coutinho / Mesquita
+165,São Paulo / SP,Chapecoense / SC,31/07/2016,11:00,Cícero Pompeu de Toledo / Sao Paulo
+166,Santos / SP,Cruzeiro / MG,31/07/2016,16:00,Urbano Caldeira / Santos
+167,Internacional / RS,Corinthians / SP,31/07/2016,16:00,José Pinheiro Borda / Porto Alegre
+168,Coritiba / PR,Flamengo / RJ,31/07/2016,16:00,Major Antônio Couto Pereira / Curitiba
+169,América / MG,Grêmio / RS,31/07/2016,18:30,Raimundo Sampaio / Belo Horizonte
+170,Botafogo / RJ,Palmeiras / SP,31/07/2016,18:30,Luso Brasileiro / Rio de Janeiro
+171,São Paulo / SP,Atlético Mineiro / MG,04/08/2016,19:30,Cícero Pompeu de Toledo / Sao Paulo
+172,Cruzeiro / MG,Internacional / RS,04/08/2016,21:00,Raimundo Sampaio / Belo Horizonte
+173,Vitória / BA,Coritiba / PR,03/08/2016,19:30,Alberto Oliveira / Feira de Santana
+174,Fluminense / RJ,Figueirense / SC,03/09/2016,16:00,Giulite Coutinho / Mesquita
+175,Sport / PE,América / MG,03/08/2016,19:30,Aldemar da Costa Carvalho / Recife
+176,Santos / SP,Flamengo / RJ,03/08/2016,21:45,Arena Pantanal / Cuiabá
+177,Athletico Paranaense / PR,Corinthians / SP,03/08/2016,21:45,Joaquim Américo Guimarães / Curitiba
+178,Ponte Preta / SP,Botafogo / RJ,04/08/2016,19:15,Moisés Lucarelli / Campinas
+179,Grêmio / RS,Santa Cruz / PE,04/08/2016,19:30,Arena do Grêmio / Porto Alegre
+180,Chapecoense / SC,Palmeiras / SP,04/08/2016,21:30,Índio Condá / Chapecó
+181,Corinthians / SP,Cruzeiro / MG,08/08/2016,21:00,Paulo Machado de Carvalho / São Paulo
+182,Flamengo / RJ,Athletico Paranaense / PR,06/08/2016,18:30,Kleber José de Andrade (em obras) / Cariacica
+183,América / MG,Santos / SP,07/08/2016,11:00,Raimundo Sampaio / Belo Horizonte
+184,Figueirense / SC,Sport / PE,07/08/2016,18:30,Orlando Scarpelli / Florianopolis
+185,Palmeiras / SP,Vitória / BA,07/08/2016,16:00,Parque Antártica / São Paulo
+186,Coritiba / PR,Ponte Preta / SP,07/08/2016,16:00,Major Antônio Couto Pereira / Curitiba
+187,Internacional / RS,Fluminense / RJ,07/08/2016,16:15,José Pinheiro Borda / Porto Alegre
+188,Santa Cruz / PE,São Paulo / SP,07/08/2016,16:15,José do Rego Maciel / Recife
+189,Botafogo / RJ,Grêmio / RS,04/09/2016,16:00,Luso Brasileiro / Rio de Janeiro
+190,Atlético Mineiro / MG,Chapecoense / SC,08/08/2016,20:00,Raimundo Sampaio / Belo Horizonte
+191,Vitória / BA,Santa Cruz / PE,14/08/2016,16:00,Manoel Barradas / Salvador
+192,Ponte Preta / SP,Figueirense / SC,13/08/2016,18:30,Moisés Lucarelli / Campinas
+193,Sport / PE,Flamengo / RJ,13/08/2016,16:00,Arena Pernambuco / São Lourenço da Mata
+194,Fluminense / RJ,América / MG,14/08/2016,11:00,Kleber José de Andrade (em obras) / Cariacica
+195,Grêmio / RS,Corinthians / SP,14/08/2016,11:00,Arena do Grêmio / Porto Alegre
+196,Santos / SP,Atlético Mineiro / MG,14/08/2016,16:00,Urbano Caldeira / Santos
+197,Cruzeiro / MG,Coritiba / PR,14/08/2016,16:00,Raimundo Sampaio / Belo Horizonte
+198,São Paulo / SP,Botafogo / RJ,14/08/2016,16:15,Cícero Pompeu de Toledo / Sao Paulo
+199,Athletico Paranaense / PR,Palmeiras / SP,14/08/2016,18:30,Joaquim Américo Guimarães / Curitiba
+200,Chapecoense / SC,Internacional / RS,15/08/2016,20:00,Índio Condá / Chapecó
+201,Corinthians / SP,Vitória / BA,22/08/2016,20:00,Arena Corinthians / Sao Paulo
+202,América / MG,Chapecoense / SC,19/08/2016,21:30,Raimundo Sampaio / Belo Horizonte
+203,Botafogo / RJ,Sport / PE,20/08/2016,21:00,Mário Helênio / Juiz de Fora
+204,Flamengo / RJ,Grêmio / RS,21/08/2016,11:00,Estádio Nacional Mané Garrincha / Brasilia
+205,Atlético Mineiro / MG,Athletico Paranaense / PR,21/08/2016,11:00,Raimundo Sampaio / Belo Horizonte
+206,Palmeiras / SP,Ponte Preta / SP,21/08/2016,16:00,Parque Antártica / São Paulo
+207,Internacional / RS,São Paulo / SP,21/08/2016,16:00,José Pinheiro Borda / Porto Alegre
+208,Santa Cruz / PE,Fluminense / RJ,21/08/2016,16:00,José do Rego Maciel / Recife
+209,Figueirense / SC,Cruzeiro / MG,21/08/2016,18:30,Orlando Scarpelli / Florianopolis
+210,Coritiba / PR,Santos / SP,21/08/2016,18:00,Major Antônio Couto Pereira / Curitiba
+211,Ponte Preta / SP,Corinthians / SP,27/08/2016,16:00,Moisés Lucarelli / Campinas
+212,Cruzeiro / MG,Santa Cruz / PE,28/08/2016,11:00,Magalhães Pinto  / Belo Horizonte
+213,Santos / SP,Figueirense / SC,28/08/2016,11:00,Urbano Caldeira / Santos
+214,Fluminense / RJ,Palmeiras / SP,28/08/2016,16:00,Estádio Nacional Mané Garrincha / Brasilia
+215,São Paulo / SP,Coritiba / PR,28/08/2016,16:00,Cícero Pompeu de Toledo / Sao Paulo
+216,Grêmio / RS,Atlético Mineiro / MG,28/08/2016,16:00,Arena do Grêmio / Porto Alegre
+217,Chapecoense / SC,Flamengo / RJ,28/08/2016,16:00,Índio Condá / Chapecó
+218,Vitória / BA,América / MG,28/08/2016,18:30,Octávio Mangabeira / Salvador
+219,Sport / PE,Internacional / RS,28/08/2016,18:30,Arena Pernambuco / São Lourenço da Mata
+220,Athletico Paranaense / PR,Botafogo / RJ,29/08/2016,20:00,Joaquim Américo Guimarães / Curitiba
+221,Botafogo / RJ,Fluminense / RJ,07/09/2016,16:00,Luso Brasileiro / Rio de Janeiro
+222,Figueirense / SC,Athletico Paranaense / PR,07/09/2016,16:00,Orlando Scarpelli / Florianopolis
+223,Santa Cruz / PE,Chapecoense / SC,07/09/2016,16:00,Arena Pernambuco / São Lourenço da Mata
+224,Atlético Mineiro / MG,Vitória / BA,07/09/2016,19:30,Raimundo Sampaio / Belo Horizonte
+225,Flamengo / RJ,Ponte Preta / SP,07/09/2016,21:45,Kleber José de Andrade (em obras) / Cariacica
+226,Palmeiras / SP,São Paulo / SP,07/09/2016,21:45,Parque Antártica / São Paulo
+227,Coritiba / PR,Grêmio / RS,07/09/2016,21:45,Major Antônio Couto Pereira / Curitiba
+228,Corinthians / SP,Sport / PE,08/09/2016,19:30,Arena Corinthians / Sao Paulo
+229,Internacional / RS,Santos / SP,08/09/2016,21:00,José Pinheiro Borda / Porto Alegre
+230,América / MG,Cruzeiro / MG,08/09/2016,21:00,Raimundo Sampaio / Belo Horizonte
+231,Vitória / BA,Flamengo / RJ,10/09/2016,18:30,Manoel Barradas / Salvador
+232,São Paulo / SP,Figueirense / SC,11/09/2016,11:00,Cícero Pompeu de Toledo / Sao Paulo
+233,Chapecoense / SC,Coritiba / PR,11/09/2016,11:00,Índio Condá / Chapecó
+234,Santos / SP,Corinthians / SP,11/09/2016,16:00,Urbano Caldeira / Santos
+235,Cruzeiro / MG,Botafogo / RJ,11/09/2016,16:00,Magalhães Pinto  / Belo Horizonte
+236,Athletico Paranaense / PR,Internacional / RS,11/09/2016,16:00,Joaquim Américo Guimarães / Curitiba
+237,Sport / PE,Santa Cruz / PE,11/09/2016,16:00,Aldemar da Costa Carvalho / Recife
+238,Grêmio / RS,Palmeiras / SP,11/09/2016,18:30,Arena do Grêmio / Porto Alegre
+239,Ponte Preta / SP,América / MG,11/09/2016,18:30,Moisés Lucarelli / Campinas
+240,Fluminense / RJ,Atlético Mineiro / MG,12/09/2016,20:00,Giulite Coutinho / Mesquita
+241,Botafogo / RJ,Santos / SP,14/09/2016,19:30,Luso Brasileiro / Rio de Janeiro
+242,Figueirense / SC,América / MG,14/09/2016,19:30,Orlando Scarpelli / Florianopolis
+243,Ponte Preta / SP,Grêmio / RS,14/09/2016,21:00,Moisés Lucarelli / Campinas
+244,Santa Cruz / PE,Athletico Paranaense / PR,14/09/2016,21:00,José do Rego Maciel / Recife
+245,Palmeiras / SP,Flamengo / RJ,14/09/2016,21:45,Parque Antártica / São Paulo
+246,Coritiba / PR,Corinthians / SP,14/09/2016,21:45,Major Antônio Couto Pereira / Curitiba
+247,Fluminense / RJ,Chapecoense / SC,15/09/2016,19:30,Giulite Coutinho / Mesquita
+248,Atlético Mineiro / MG,Sport / PE,15/09/2016,19:30,Raimundo Sampaio / Belo Horizonte
+249,Internacional / RS,Vitória / BA,15/09/2016,21:00,José Pinheiro Borda / Porto Alegre
+250,São Paulo / SP,Cruzeiro / MG,15/09/2016,21:00,Cícero Pompeu de Toledo / Sao Paulo
+251,Corinthians / SP,Palmeiras / SP,17/09/2016,16:00,Arena Corinthians / Sao Paulo
+252,Chapecoense / SC,Ponte Preta / SP,18/09/2016,16:00,Índio Condá / Chapecó
+253,Santos / SP,Santa Cruz / PE,18/09/2016,18:30,Paulo Machado de Carvalho / São Paulo
+254,Vitória / BA,Botafogo / RJ,18/09/2016,18:30,Manoel Barradas / Salvador
+255,Cruzeiro / MG,Atlético Mineiro / MG,18/09/2016,16:00,Magalhães Pinto  / Belo Horizonte
+256,Grêmio / RS,Fluminense / RJ,18/09/2016,16:00,Arena do Grêmio / Porto Alegre
+257,Athletico Paranaense / PR,São Paulo / SP,18/09/2016,16:00,Joaquim Américo Guimarães / Curitiba
+258,Sport / PE,Coritiba / PR,18/09/2016,16:00,Aldemar da Costa Carvalho / Recife
+259,Flamengo / RJ,Figueirense / SC,18/09/2016,11:00,Paulo Machado de Carvalho / São Paulo
+260,América / MG,Internacional / RS,19/09/2016,20:00,Raimundo Sampaio / Belo Horizonte
+261,Palmeiras / SP,Coritiba / PR,24/09/2016,16:00,Parque Antártica / São Paulo
+262,Sport / PE,Santos / SP,24/09/2016,18:30,Aldemar da Costa Carvalho / Recife
+263,América / MG,Botafogo / RJ,24/09/2016,21:00,Raimundo Sampaio / Belo Horizonte
+264,Figueirense / SC,Santa Cruz / PE,25/09/2016,11:00,Orlando Scarpelli / Florianopolis
+265,Athletico Paranaense / PR,Ponte Preta / SP,25/09/2016,11:00,Joaquim Américo Guimarães / Curitiba
+266,Vitória / BA,São Paulo / SP,25/09/2016,16:00,Manoel Barradas / Salvador
+267,Corinthians / SP,Fluminense / RJ,25/09/2016,16:00,Arena Corinthians / Sao Paulo
+268,Flamengo / RJ,Cruzeiro / MG,25/09/2016,16:00,Kleber José de Andrade (em obras) / Cariacica
+269,Grêmio / RS,Chapecoense / SC,25/09/2016,16:00,Arena do Grêmio / Porto Alegre
+270,Atlético Mineiro / MG,Internacional / RS,25/09/2016,18:30,Raimundo Sampaio / Belo Horizonte
+271,Botafogo / RJ,Corinthians / SP,01/10/2016,16:30,Luso Brasileiro / Rio de Janeiro
+272,São Paulo / SP,Flamengo / RJ,01/10/2016,16:00,Cícero Pompeu de Toledo / Sao Paulo
+273,Ponte Preta / SP,Atlético Mineiro / MG,01/10/2016,16:30,Moisés Lucarelli / Campinas
+274,Chapecoense / SC,Vitória / BA,01/10/2016,16:00,Índio Condá / Chapecó
+275,Fluminense / RJ,Sport / PE,01/10/2016,11:00,Giulite Coutinho / Mesquita
+276,Cruzeiro / MG,Grêmio / RS,01/10/2016,18:30,Magalhães Pinto  / Belo Horizonte
+277,Coritiba / PR,América / MG,03/10/2016,21:00,Major Antônio Couto Pereira / Curitiba
+278,Internacional / RS,Figueirense / SC,01/10/2016,21:00,José Pinheiro Borda / Porto Alegre
+279,Santos / SP,Athletico Paranaense / PR,01/10/2016,16:00,Urbano Caldeira / Santos
+280,Santa Cruz / PE,Palmeiras / SP,03/10/2016,20:00,José do Rego Maciel / Recife
+281,Sport / PE,São Paulo / SP,05/10/2016,21:45,Aldemar da Costa Carvalho / Recife
+282,Athletico Paranaense / PR,Chapecoense / SC,05/10/2016,19:30,Joaquim Américo Guimarães / Curitiba
+283,Santos / SP,Fluminense / RJ,05/10/2016,21:00,Urbano Caldeira / Santos
+284,Cruzeiro / MG,Ponte Preta / SP,08/10/2016,21:00,Magalhães Pinto  / Belo Horizonte
+285,Corinthians / SP,Atlético Mineiro / MG,05/10/2016,21:00,Arena Corinthians / Sao Paulo
+286,Internacional / RS,Coritiba / PR,06/10/2016,19:30,José Pinheiro Borda / Porto Alegre
+287,Figueirense / SC,Botafogo / RJ,09/10/2016,17:00,Orlando Scarpelli / Florianopolis
+288,América / MG,Palmeiras / SP,09/10/2016,17:00,Jacy Scaff / Londrina
+289,Flamengo / RJ,Santa Cruz / PE,09/10/2016,17:00,Paulo Machado de Carvalho / São Paulo
+290,Vitória / BA,Grêmio / RS,05/10/2016,19:30,Octávio Mangabeira / Salvador
+291,Chapecoense / SC,Sport / PE,12/10/2016,11:00,Índio Condá / Chapecó
+292,Fluminense / RJ,Flamengo / RJ,13/10/2016,21:00,Sylvio Raulino de Oliveira / Volta Redonda
+293,Coritiba / PR,Figueirense / SC,12/10/2016,19:30,Major Antônio Couto Pereira / Curitiba
+294,Botafogo / RJ,Internacional / RS,12/10/2016,21:45,Luso Brasileiro / Rio de Janeiro
+295,Palmeiras / SP,Cruzeiro / MG,13/10/2016,19:30,Ademar Pereira de Barros / Araraquara
+296,Santa Cruz / PE,Corinthians / SP,12/10/2016,21:45,Arena Pantanal / Cuiabá
+297,Ponte Preta / SP,Vitória / BA,13/10/2016,19:30,Moisés Lucarelli / Campinas
+298,Atlético Mineiro / MG,América / MG,13/10/2016,19:30,Magalhães Pinto  / Belo Horizonte
+299,Grêmio / RS,Athletico Paranaense / PR,13/10/2016,21:00,Arena do Grêmio / Porto Alegre
+300,São Paulo / SP,Santos / SP,13/10/2016,21:00,Paulo Machado de Carvalho / São Paulo
+301,Botafogo / RJ,Atlético Mineiro / MG,16/10/2016,17:00,Luso Brasileiro / Rio de Janeiro
+302,Internacional / RS,Flamengo / RJ,16/10/2016,17:00,José Pinheiro Borda / Porto Alegre
+303,Figueirense / SC,Palmeiras / SP,16/10/2016,17:00,Orlando Scarpelli / Florianopolis
+304,Athletico Paranaense / PR,Coritiba / PR,16/10/2016,17:00,Durival Britto e Silva / Curitiba
+305,Cruzeiro / MG,Chapecoense / SC,16/10/2016,17:00,Magalhães Pinto  / Belo Horizonte
+306,Corinthians / SP,América / MG,16/10/2016,18:30,Arena Corinthians / Sao Paulo
+307,Ponte Preta / SP,Santa Cruz / PE,16/10/2016,18:30,Moisés Lucarelli / Campinas
+308,Santos / SP,Grêmio / RS,16/10/2016,19:30,Urbano Caldeira / Santos
+309,Sport / PE,Vitória / BA,16/10/2016,19:30,Aldemar da Costa Carvalho / Recife
+310,Fluminense / RJ,São Paulo / SP,17/10/2016,20:00,Giulite Coutinho / Mesquita
+311,São Paulo / SP,Ponte Preta / SP,22/10/2016,17:00,Cícero Pompeu de Toledo / Sao Paulo
+312,Santa Cruz / PE,Botafogo / RJ,19/10/2016,21:45,José do Rego Maciel / Recife
+313,América / MG,Athletico Paranaense / PR,24/10/2016,20:00,Raimundo Sampaio / Belo Horizonte
+314,Vitória / BA,Cruzeiro / MG,23/10/2016,17:00,Manoel Barradas / Salvador
+315,Flamengo / RJ,Corinthians / SP,23/10/2016,17:00,Jornalista Mário Filho / Rio de Janeiro
+316,Palmeiras / SP,Sport / PE,23/10/2016,17:00,Parque Antártica / São Paulo
+317,Grêmio / RS,Internacional / RS,23/10/2016,17:00,Arena do Grêmio / Porto Alegre
+318,Atlético Mineiro / MG,Figueirense / SC,23/10/2016,19:30,Raimundo Sampaio / Belo Horizonte
+319,Chapecoense / SC,Santos / SP,23/10/2016,19:30,Índio Condá / Chapecó
+320,Coritiba / PR,Fluminense / RJ,23/10/2016,18:30,Major Antônio Couto Pereira / Curitiba
+321,Sport / PE,Ponte Preta / SP,27/10/2016,20:30,Aldemar da Costa Carvalho / Recife
+322,Fluminense / RJ,Vitória / BA,28/10/2016,19:30,Jornalista Mário Filho / Rio de Janeiro
+323,Santos / SP,Palmeiras / SP,29/10/2016,19:30,Urbano Caldeira / Santos
+324,Atlético Mineiro / MG,Flamengo / RJ,29/10/2016,16:30,Magalhães Pinto  / Belo Horizonte
+325,Athletico Paranaense / PR,Cruzeiro / MG,29/10/2016,16:30,Joaquim Américo Guimarães / Curitiba
+326,Botafogo / RJ,Coritiba / PR,29/10/2016,18:30,Luso Brasileiro / Rio de Janeiro
+327,Internacional / RS,Santa Cruz / PE,29/10/2016,18:30,José Pinheiro Borda / Porto Alegre
+328,Corinthians / SP,Chapecoense / SC,29/10/2016,16:30,Arena Corinthians / Sao Paulo
+329,Figueirense / SC,Grêmio / RS,29/10/2016,19:30,Orlando Scarpelli / Florianopolis
+330,América / MG,São Paulo / SP,31/10/2016,20:00,Raimundo Sampaio / Belo Horizonte
+331,Vitória / BA,Athletico Paranaense / PR,06/11/2016,17:00,Manoel Barradas / Salvador
+332,Flamengo / RJ,Botafogo / RJ,05/11/2016,17:00,Jornalista Mário Filho / Rio de Janeiro
+333,São Paulo / SP,Corinthians / SP,05/11/2016,19:30,Cícero Pompeu de Toledo / Sao Paulo
+334,Palmeiras / SP,Internacional / RS,06/11/2016,17:00,Parque Antártica / São Paulo
+335,Cruzeiro / MG,Fluminense / RJ,06/11/2016,17:00,Magalhães Pinto  / Belo Horizonte
+336,Grêmio / RS,Sport / PE,07/11/2016,20:00,Arena do Grêmio / Porto Alegre
+337,Coritiba / PR,Atlético Mineiro / MG,06/11/2016,19:30,Major Antônio Couto Pereira / Curitiba
+338,Chapecoense / SC,Figueirense / SC,06/11/2016,19:30,Índio Condá / Chapecó
+339,Ponte Preta / SP,Santos / SP,06/11/2016,11:00,Moisés Lucarelli / Campinas
+340,Santa Cruz / PE,América / MG,06/11/2016,17:00,José do Rego Maciel / Recife
+341,Botafogo / RJ,Chapecoense / SC,16/11/2016,19:30,Luso Brasileiro / Rio de Janeiro
+342,Fluminense / RJ,Athletico Paranaense / PR,15/11/2016,17:00,Jornalista Mário Filho / Rio de Janeiro
+343,São Paulo / SP,Grêmio / RS,17/11/2016,19:30,Cícero Pompeu de Toledo / Sao Paulo
+344,Santos / SP,Vitória / BA,17/11/2016,19:30,Urbano Caldeira / Santos
+345,Atlético Mineiro / MG,Palmeiras / SP,17/11/2016,21:00,Raimundo Sampaio / Belo Horizonte
+346,Internacional / RS,Ponte Preta / SP,17/11/2016,21:00,José Pinheiro Borda / Porto Alegre
+347,Coritiba / PR,Santa Cruz / PE,16/11/2016,21:00,Major Antônio Couto Pereira / Curitiba
+348,Figueirense / SC,Corinthians / SP,16/11/2016,21:45,Orlando Scarpelli / Florianopolis
+349,América / MG,Flamengo / RJ,16/11/2016,21:45,Magalhães Pinto  / Belo Horizonte
+350,Sport / PE,Cruzeiro / MG,16/11/2016,21:45,Aldemar da Costa Carvalho / Recife
+351,Athletico Paranaense / PR,Sport / PE,20/11/2016,17:00,Joaquim Américo Guimarães / Curitiba
+352,Vitória / BA,Figueirense / SC,20/11/2016,17:00,Manoel Barradas / Salvador
+353,Palmeiras / SP,Botafogo / RJ,20/11/2016,17:00,Parque Antártica / São Paulo
+354,Cruzeiro / MG,Santos / SP,20/11/2016,17:00,Magalhães Pinto  / Belo Horizonte
+355,Grêmio / RS,América / MG,20/11/2016,17:00,Arena do Grêmio / Porto Alegre
+356,Ponte Preta / SP,Fluminense / RJ,20/11/2016,17:00,Moisés Lucarelli / Campinas
+357,Flamengo / RJ,Coritiba / PR,20/11/2016,19:30,Jornalista Mário Filho / Rio de Janeiro
+358,Chapecoense / SC,São Paulo / SP,20/11/2016,19:30,Índio Condá / Chapecó
+359,Santa Cruz / PE,Atlético Mineiro / MG,20/11/2016,19:30,José do Rego Maciel / Recife
+360,Corinthians / SP,Internacional / RS,21/11/2016,20:00,Arena Corinthians / Sao Paulo
+361,Botafogo / RJ,Ponte Preta / SP,26/11/2016,20:00,Luso Brasileiro / Rio de Janeiro
+362,América / MG,Sport / PE,26/11/2016,20:00,Raimundo Sampaio / Belo Horizonte
+363,Corinthians / SP,Athletico Paranaense / PR,26/11/2016,21:00,Arena Corinthians / Sao Paulo
+364,Flamengo / RJ,Santos / SP,27/11/2016,17:00,Jornalista Mário Filho / Rio de Janeiro
+365,Palmeiras / SP,Chapecoense / SC,27/11/2016,17:00,Parque Antártica / São Paulo
+366,Atlético Mineiro / MG,São Paulo / SP,27/11/2016,17:00,Raimundo Sampaio / Belo Horizonte
+367,Internacional / RS,Cruzeiro / MG,27/11/2016,17:00,José Pinheiro Borda / Porto Alegre
+368,Figueirense / SC,Fluminense / RJ,27/11/2016,19:30,Orlando Scarpelli / Florianopolis
+369,Santa Cruz / PE,Grêmio / RS,27/11/2016,19:30,José do Rego Maciel / Recife
+370,Coritiba / PR,Vitória / BA,28/11/2016,20:00,Major Antônio Couto Pereira / Curitiba
+371,Vitória / BA,Palmeiras / SP,11/12/2016,17:00,Manoel Barradas / Salvador
+372,Fluminense / RJ,Internacional / RS,11/12/2016,17:00,Giulite Coutinho / Mesquita
+373,São Paulo / SP,Santa Cruz / PE,11/12/2016,17:00,Paulo Machado de Carvalho / São Paulo
+374,Santos / SP,América / MG,11/12/2016,17:00,Urbano Caldeira / Santos
+375,Cruzeiro / MG,Corinthians / SP,11/12/2016,17:00,Magalhães Pinto  / Belo Horizonte
+376,Grêmio / RS,Botafogo / RJ,11/12/2016,17:00,Arena do Grêmio / Porto Alegre
+377,Athletico Paranaense / PR,Flamengo / RJ,11/12/2016,17:00,Joaquim Américo Guimarães / Curitiba
+379,Ponte Preta / SP,Coritiba / PR,11/12/2016,17:00,Moisés Lucarelli / Campinas
+380,Sport / PE,Figueirense / SC,11/12/2016,17:00,Aldemar da Costa Carvalho / Recife

@@ -1,380 +1,380 @@
-Game,Home,Away
-001,Guarani / SP,Figueirense / SC
-002,Botafogo / SP,Vitória / BA
-003,São Bento / SP,Atlético / GO
-004,Vila Nova / GO,Paraná / PR
-005,Coritiba / PR,Ponte Preta / SP
-006,Operário / PR,América / MG
-007,Criciúma / SC,Cuiabá / MT
-008,Brasil / RS,Red Bull Bragantino / SP
-009,Sport / PE,Oeste / SP
-010,CRB / AL,Londrina / PR
-011,Ponte Preta / SP,Criciúma / SC
-012,Red Bull Bragantino / SP,Sport / PE
-013,Oeste / SP,Guarani / SP
-014,Atlético / GO,Coritiba / PR
-015,Paraná / PR,CRB / AL
-016,Londrina / PR,Brasil / RS
-017,Figueirense / SC,São Bento / SP
-018,América / MG,Botafogo / SP
-019,Vitória / BA,Vila Nova / GO
-020,Cuiabá / MT,Operário / PR
-021,Guarani / SP,Vitória / BA
-022,Red Bull Bragantino / SP,Atlético / GO
-023,São Bento / SP,Botafogo / SP
-024,Vila Nova / GO,Ponte Preta / SP
-025,Coritiba / PR,Londrina / PR
-026,Operário / PR,Oeste / SP
-027,Criciúma / SC,América / MG
-028,Brasil / RS,CRB / AL
-029,Sport / PE,Figueirense / SC
-030,Cuiabá / MT,Paraná / PR
-031,Ponte Preta / SP,Operário / PR
-032,Botafogo / SP,Vila Nova / GO
-033,Oeste / SP,Cuiabá / MT
-034,Atlético / GO,Criciúma / SC
-035,Paraná / PR,Guarani / SP
-036,Londrina / PR,Red Bull Bragantino / SP
-037,Figueirense / SC,Brasil / RS
-038,América / MG,Sport / PE
-039,Vitória / BA,São Bento / SP
-040,CRB / AL,Coritiba / PR
-041,Ponte Preta / SP,Paraná / PR
-042,Red Bull Bragantino / SP,Figueirense / SC
-043,São Bento / SP,Oeste / SP
-044,Atlético / GO,Vitória / BA
-045,Coritiba / PR,Cuiabá / MT
-046,Operário / PR,Botafogo / SP
-047,Criciúma / SC,Guarani / SP
-048,Brasil / RS,América / MG
-049,Sport / PE,Londrina / PR
-050,CRB / AL,Vila Nova / GO
-051,Guarani / SP,Brasil / RS
-052,Botafogo / SP,Criciúma / SC
-053,São Bento / SP,CRB / AL
-054,Vila Nova / GO,Londrina / PR
-055,Paraná / PR,Oeste / SP
-056,Operário / PR,Sport / PE
-057,Figueirense / SC,Atlético / GO
-058,América / MG,Coritiba / PR
-059,Vitória / BA,Red Bull Bragantino / SP
-060,Cuiabá / MT,Ponte Preta / SP
-061,Ponte Preta / SP,Botafogo / SP
-062,Red Bull Bragantino / SP,São Bento / SP
-063,Oeste / SP,Figueirense / SC
-064,Atlético / GO,Guarani / SP
-065,Coritiba / PR,Paraná / PR
-066,Londrina / PR,Cuiabá / MT
-067,Criciúma / SC,Vila Nova / GO
-068,Brasil / RS,Operário / PR
-069,Sport / PE,Vitória / BA
-070,CRB / AL,América / MG
-071,Guarani / SP,Coritiba / PR
-072,Red Bull Bragantino / SP,América / MG
-073,Oeste / SP,Vitória / BA
-074,Vila Nova / GO,São Bento / SP
-075,Paraná / PR,Operário / PR
-076,Londrina / PR,Ponte Preta / SP
-077,Figueirense / SC,Botafogo / SP
-078,Brasil / RS,Criciúma / SC
-079,Sport / PE,CRB / AL
-080,Cuiabá / MT,Atlético / GO
-081,Ponte Preta / SP,Oeste / SP
-082,Botafogo / SP,Brasil / RS
-083,São Bento / SP,Sport / PE
-084,Atlético / GO,Vila Nova / GO
-085,Paraná / PR,Red Bull Bragantino / SP
-086,Operário / PR,Londrina / PR
-087,Criciúma / SC,Coritiba / PR
-088,América / MG,Figueirense / SC
-089,Vitória / BA,Cuiabá / MT
-090,CRB / AL,Guarani / SP
-091,Ponte Preta / SP,Atlético / GO
-092,Botafogo / SP,Guarani / SP
-093,Oeste / SP,Red Bull Bragantino / SP
-094,Vila Nova / GO,América / MG
-095,Coritiba / PR,São Bento / SP
-096,Operário / PR,CRB / AL
-097,Figueirense / SC,Londrina / PR
-098,Brasil / RS,Paraná / PR
-099,Vitória / BA,Criciúma / SC
-100,Cuiabá / MT,Sport / PE
-101,Guarani / SP,Cuiabá / MT
-102,Red Bull Bragantino / SP,Ponte Preta / SP
-103,São Bento / SP,Operário / PR
-104,Atlético / GO,Botafogo / SP
-105,Coritiba / PR,Vila Nova / GO
-106,Londrina / PR,Vitória / BA
-107,Figueirense / SC,Paraná / PR
-108,América / MG,Oeste / SP
-109,Sport / PE,Brasil / RS
-110,CRB / AL,Criciúma / SC
-111,Guarani / SP,São Bento / SP
-112,Botafogo / SP,CRB / AL
-113,Oeste / SP,Londrina / PR
-114,Vila Nova / GO,Red Bull Bragantino / SP
-115,Paraná / PR,Sport / PE
-116,Operário / PR,Coritiba / PR
-117,Criciúma / SC,Figueirense / SC
-118,América / MG,Atlético / GO
-119,Vitória / BA,Ponte Preta / SP
-120,Cuiabá / MT,Brasil / RS
-121,Ponte Preta / SP,América / MG
-122,Red Bull Bragantino / SP,Cuiabá / MT
-123,São Bento / SP,Criciúma / SC
-124,Atlético / GO,Operário / PR
-125,Coritiba / PR,Botafogo / SP
-126,Londrina / PR,Paraná / PR
-127,Figueirense / SC,Vitória / BA
-128,Brasil / RS,Vila Nova / GO
-129,Sport / PE,Guarani / SP
-130,CRB / AL,Oeste / SP
-131,Guarani / SP,Red Bull Bragantino / SP
-132,Botafogo / SP,Oeste / SP
-133,São Bento / SP,Ponte Preta / SP
-134,Vila Nova / GO,Figueirense / SC
-135,Paraná / PR,América / MG
-136,Londrina / PR,Atlético / GO
-137,Criciúma / SC,Operário / PR
-138,Brasil / RS,Vitória / BA
-139,Sport / PE,Coritiba / PR
-140,CRB / AL,Cuiabá / MT
-141,Ponte Preta / SP,Guarani / SP
-142,Red Bull Bragantino / SP,Botafogo / SP
-143,Oeste / SP,Brasil / RS
-144,Atlético / GO,CRB / AL
-145,Coritiba / PR,Figueirense / SC
-146,Operário / PR,Vila Nova / GO
-147,Criciúma / SC,Sport / PE
-148,América / MG,Londrina / PR
-149,Vitória / BA,Paraná / PR
-150,Cuiabá / MT,São Bento / SP
-151,Guarani / SP,Vila Nova / GO
-152,Red Bull Bragantino / SP,Operário / PR
-153,São Bento / SP,Paraná / PR
-154,Atlético / GO,Oeste / SP
-155,Coritiba / PR,Brasil / RS
-156,Londrina / PR,Criciúma / SC
-157,Figueirense / SC,Ponte Preta / SP
-158,América / MG,Cuiabá / MT
-159,Sport / PE,Botafogo / SP
-160,CRB / AL,Vitória / BA
-161,Ponte Preta / SP,CRB / AL
-162,Botafogo / SP,Londrina / PR
-163,Oeste / SP,Coritiba / PR
-164,Vila Nova / GO,Sport / PE
-165,Paraná / PR,Atlético / GO
-166,Operário / PR,Guarani / SP
-167,Criciúma / SC,Red Bull Bragantino / SP
-168,Brasil / RS,São Bento / SP
-169,Vitória / BA,América / MG
-171,Ponte Preta / SP,Sport / PE
-172,Red Bull Bragantino / SP,Coritiba / PR
-173,Oeste / SP,Vila Nova / GO
-174,Atlético / GO,Brasil / RS
-175,Paraná / PR,Criciúma / SC
-176,Londrina / PR,São Bento / SP
-177,Figueirense / SC,CRB / AL
-178,América / MG,Guarani / SP
-179,Vitória / BA,Operário / PR
-180,Cuiabá / MT,Botafogo / SP
-181,Guarani / SP,Londrina / PR
-182,Botafogo / SP,Paraná / PR
-183,São Bento / SP,América / MG
-184,Vila Nova / GO,Cuiabá / MT
-185,Coritiba / PR,Vitória / BA
-186,Operário / PR,Figueirense / SC
-187,Criciúma / SC,Oeste / SP
-188,Brasil / RS,Ponte Preta / SP
-189,Sport / PE,Atlético / GO
-190,CRB / AL,Red Bull Bragantino / SP
-191,Ponte Preta / SP,Coritiba / PR
-192,Red Bull Bragantino / SP,Brasil / RS
-193,Oeste / SP,Sport / PE
-194,Atlético / GO,São Bento / SP
-195,Paraná / PR,Vila Nova / GO
-196,Londrina / PR,CRB / AL
-197,Figueirense / SC,Guarani / SP
-198,América / MG,Operário / PR
-199,Vitória / BA,Botafogo / SP
-200,Cuiabá / MT,Criciúma / SC
-201,Guarani / SP,Oeste / SP
-202,Botafogo / SP,América / MG
-203,São Bento / SP,Figueirense / SC
-204,Vila Nova / GO,Vitória / BA
-205,Coritiba / PR,Atlético / GO
-206,Operário / PR,Cuiabá / MT
-207,Criciúma / SC,Ponte Preta / SP
-208,Brasil / RS,Londrina / PR
-209,Sport / PE,Red Bull Bragantino / SP
-210,CRB / AL,Paraná / PR
-211,Ponte Preta / SP,Vila Nova / GO
-212,Botafogo / SP,São Bento / SP
-213,Oeste / SP,Operário / PR
-214,Atlético / GO,Red Bull Bragantino / SP
-215,Paraná / PR,Cuiabá / MT
-216,Londrina / PR,Coritiba / PR
-217,Figueirense / SC,Sport / PE
-218,América / MG,Criciúma / SC
-219,Vitória / BA,Guarani / SP
-220,CRB / AL,Brasil / RS
-221,Guarani / SP,Paraná / PR
-222,Red Bull Bragantino / SP,Londrina / PR
-223,São Bento / SP,Vitória / BA
-224,Vila Nova / GO,Botafogo / SP
-225,Coritiba / PR,CRB / AL
-226,Operário / PR,Ponte Preta / SP
-227,Criciúma / SC,Atlético / GO
-228,Brasil / RS,Figueirense / SC
-229,Sport / PE,América / MG
-230,Cuiabá / MT,Oeste / SP
-231,Guarani / SP,Criciúma / SC
-232,Botafogo / SP,Operário / PR
-233,Oeste / SP,São Bento / SP
-234,Vila Nova / GO,CRB / AL
-235,Paraná / PR,Ponte Preta / SP
-236,Londrina / PR,Sport / PE
-237,Figueirense / SC,Red Bull Bragantino / SP
-238,América / MG,Brasil / RS
-239,Vitória / BA,Atlético / GO
-240,Cuiabá / MT,Coritiba / PR
-241,Ponte Preta / SP,Cuiabá / MT
-242,Red Bull Bragantino / SP,Vitória / BA
-243,Oeste / SP,Paraná / PR
-244,Atlético / GO,Figueirense / SC
-245,Coritiba / PR,América / MG
-246,Londrina / PR,Vila Nova / GO
-247,Criciúma / SC,Botafogo / SP
-248,Brasil / RS,Guarani / SP
-249,Sport / PE,Operário / PR
-250,CRB / AL,São Bento / SP
-251,Guarani / SP,Atlético / GO
-252,Botafogo / SP,Ponte Preta / SP
-253,São Bento / SP,Red Bull Bragantino / SP
-254,Vila Nova / GO,Criciúma / SC
-255,Paraná / PR,Coritiba / PR
-256,Operário / PR,Brasil / RS
-257,Figueirense / SC,Oeste / SP
-258,América / MG,CRB / AL
-259,Vitória / BA,Sport / PE
-260,Cuiabá / MT,Londrina / PR
-261,Ponte Preta / SP,Londrina / PR
-262,Botafogo / SP,Figueirense / SC
-263,São Bento / SP,Vila Nova / GO
-264,Atlético / GO,Cuiabá / MT
-265,Coritiba / PR,Guarani / SP
-266,Operário / PR,Paraná / PR
-267,Criciúma / SC,Brasil / RS
-268,América / MG,Red Bull Bragantino / SP
-269,Vitória / BA,Oeste / SP
-270,CRB / AL,Sport / PE
-271,Guarani / SP,CRB / AL
-272,Red Bull Bragantino / SP,Paraná / PR
-273,Oeste / SP,Ponte Preta / SP
-274,Vila Nova / GO,Atlético / GO
-275,Coritiba / PR,Criciúma / SC
-276,Londrina / PR,Operário / PR
-277,Figueirense / SC,América / MG
-278,Brasil / RS,Botafogo / SP
-279,Sport / PE,São Bento / SP
-280,Cuiabá / MT,Vitória / BA
-281,Guarani / SP,Botafogo / SP
-282,Red Bull Bragantino / SP,Oeste / SP
-283,São Bento / SP,Coritiba / PR
-284,Atlético / GO,Ponte Preta / SP
-285,Paraná / PR,Brasil / RS
-286,Londrina / PR,Figueirense / SC
-287,Criciúma / SC,Vitória / BA
-288,América / MG,Vila Nova / GO
-289,Sport / PE,Cuiabá / MT
-290,CRB / AL,Operário / PR
-291,Ponte Preta / SP,Red Bull Bragantino / SP
-292,Botafogo / SP,Atlético / GO
-293,Oeste / SP,América / MG
-294,Vila Nova / GO,Coritiba / PR
-295,Paraná / PR,Figueirense / SC
-296,Operário / PR,São Bento / SP
-297,Criciúma / SC,CRB / AL
-298,Brasil / RS,Sport / PE
-299,Vitória / BA,Londrina / PR
-300,Cuiabá / MT,Guarani / SP
-301,Ponte Preta / SP,Vitória / BA
-302,Red Bull Bragantino / SP,Vila Nova / GO
-303,São Bento / SP,Guarani / SP
-304,Atlético / GO,América / MG
-305,Coritiba / PR,Operário / PR
-306,Londrina / PR,Oeste / SP
-307,Figueirense / SC,Criciúma / SC
-308,Brasil / RS,Cuiabá / MT
-309,Sport / PE,Paraná / PR
-310,CRB / AL,Botafogo / SP
-311,Guarani / SP,Sport / PE
-312,Botafogo / SP,Coritiba / PR
-313,Oeste / SP,CRB / AL
-314,Vila Nova / GO,Brasil / RS
-315,Paraná / PR,Londrina / PR
-316,Operário / PR,Atlético / GO
-317,Criciúma / SC,São Bento / SP
-318,América / MG,Ponte Preta / SP
-319,Vitória / BA,Figueirense / SC
-320,Cuiabá / MT,Red Bull Bragantino / SP
-321,Ponte Preta / SP,São Bento / SP
-322,Red Bull Bragantino / SP,Guarani / SP
-323,Oeste / SP,Botafogo / SP
-324,Atlético / GO,Londrina / PR
-325,Coritiba / PR,Sport / PE
-326,Operário / PR,Criciúma / SC
-327,Figueirense / SC,Vila Nova / GO
-328,América / MG,Paraná / PR
-329,Vitória / BA,Brasil / RS
-330,Cuiabá / MT,CRB / AL
-331,Guarani / SP,Ponte Preta / SP
-332,Botafogo / SP,Red Bull Bragantino / SP
-333,São Bento / SP,Cuiabá / MT
-334,Vila Nova / GO,Operário / PR
-335,Paraná / PR,Vitória / BA
-336,Londrina / PR,América / MG
-337,Figueirense / SC,Coritiba / PR
-338,Brasil / RS,Oeste / SP
-339,Sport / PE,Criciúma / SC
-340,CRB / AL,Atlético / GO
-341,Ponte Preta / SP,Figueirense / SC
-342,Botafogo / SP,Sport / PE
-343,Oeste / SP,Atlético / GO
-344,Vila Nova / GO,Guarani / SP
-345,Paraná / PR,São Bento / SP
-346,Operário / PR,Red Bull Bragantino / SP
-347,Criciúma / SC,Londrina / PR
-348,Brasil / RS,Coritiba / PR
-349,Vitória / BA,CRB / AL
-350,Cuiabá / MT,América / MG
-351,Guarani / SP,Operário / PR
-352,Red Bull Bragantino / SP,Criciúma / SC
-353,São Bento / SP,Brasil / RS
-354,Atlético / GO,Paraná / PR
-355,Coritiba / PR,Oeste / SP
-356,Londrina / PR,Botafogo / SP
-357,Figueirense / SC,Cuiabá / MT
-358,América / MG,Vitória / BA
-359,Sport / PE,Vila Nova / GO
-360,CRB / AL,Ponte Preta / SP
-361,Guarani / SP,América / MG
-362,Botafogo / SP,Cuiabá / MT
-363,São Bento / SP,Londrina / PR
-364,Vila Nova / GO,Oeste / SP
-365,Coritiba / PR,Red Bull Bragantino / SP
-366,Operário / PR,Vitória / BA
-367,Criciúma / SC,Paraná / PR
-368,Brasil / RS,Atlético / GO
-369,Sport / PE,Ponte Preta / SP
-370,CRB / AL,Figueirense / SC
-371,Ponte Preta / SP,Brasil / RS
-372,Red Bull Bragantino / SP,CRB / AL
-373,Oeste / SP,Criciúma / SC
-374,Atlético / GO,Sport / PE
-375,Paraná / PR,Botafogo / SP
-376,Londrina / PR,Guarani / SP
-377,Figueirense / SC,Operário / PR
-378,América / MG,São Bento / SP
-379,Vitória / BA,Coritiba / PR
-380,Cuiabá / MT,Vila Nova / GO
+Game,Home,Away,Date,Time,Stadium
+001,Guarani / SP,Figueirense / SC,27/04/2019,16:30,Brinco de Ouro da Princesa / Campinas
+002,Botafogo / SP,Vitória / BA,27/04/2019,11:00,Santa Cruz / Ribeirao Preto
+003,São Bento / SP,Atlético / GO,26/04/2019,21:30,Walter Ribeiro / Sorocaba
+004,Vila Nova / GO,Paraná / PR,27/04/2019,21:00,Olímpico Pedro Ludovico / Goiania
+005,Coritiba / PR,Ponte Preta / SP,29/04/2019,20:00,Major Antônio Couto Pereira / Curitiba
+006,Operário / PR,América / MG,26/04/2019,19:15,Germano Kruger / Ponta Grossa
+007,Criciúma / SC,Cuiabá / MT,27/04/2019,16:30,Heriberto Hulse / Criciuma
+008,Brasil / RS,Red Bull Bragantino / SP,26/04/2019,19:15,Bento da Silva Freitas / Pelotas
+009,Sport / PE,Oeste / SP,26/04/2019,21:30,Adelmar da Costa Carvalho / Recife
+010,CRB / AL,Londrina / PR,28/04/2019,16:00,Rei Pelé / Maceio
+011,Ponte Preta / SP,Criciúma / SC,02/05/2019,21:00,Moisés Lucarelli / Campinas
+012,Red Bull Bragantino / SP,Sport / PE,06/05/2019,20:00,Nabi Abi Chedid / Braganca Paulista
+013,Oeste / SP,Guarani / SP,01/05/2019,16:00,Arena Barueri / Barueri
+014,Atlético / GO,Coritiba / PR,03/05/2019,21:30,Antônio Accioly / Goiania
+015,Paraná / PR,CRB / AL,04/05/2019,19:00,Durival Britto e Silva / Curitiba
+016,Londrina / PR,Brasil / RS,03/05/2019,19:15,Jacy Scaff / Londrina
+017,Figueirense / SC,São Bento / SP,04/05/2019,11:00,Orlando Scarpelli / Florianopolis
+018,América / MG,Botafogo / SP,30/04/2019,21:30,Raimundo Sampaio / Belo Horizonte
+019,Vitória / BA,Vila Nova / GO,04/05/2019,16:30,Manoel Barradas / Salvador
+020,Cuiabá / MT,Operário / PR,04/05/2019,19:00,Arena Pantanal / Cuiaba
+021,Guarani / SP,Vitória / BA,13/05/2019,20:00,Brinco de Ouro da Princesa / Campinas
+022,Red Bull Bragantino / SP,Atlético / GO,10/05/2019,19:15,Nabi Abi Chedid / Braganca Paulista
+023,São Bento / SP,Botafogo / SP,09/05/2019,19:15,Walter Ribeiro / Sorocaba
+024,Vila Nova / GO,Ponte Preta / SP,10/05/2019,21:30,Serra Dourada / Goiania
+025,Coritiba / PR,Londrina / PR,09/05/2019,21:30,Major Antônio Couto Pereira / Curitiba
+026,Operário / PR,Oeste / SP,11/05/2019,19:00,Germano Kruger / Ponta Grossa
+027,Criciúma / SC,América / MG,11/05/2019,11:00,Heriberto Hulse / Criciuma
+028,Brasil / RS,CRB / AL,11/05/2019,19:00,Bento da Silva Freitas / Pelotas
+029,Sport / PE,Figueirense / SC,11/05/2019,16:30,Adelmar da Costa Carvalho / Recife
+030,Cuiabá / MT,Paraná / PR,11/05/2019,19:00,Arena Pantanal / Cuiaba
+031,Ponte Preta / SP,Operário / PR,17/05/2019,21:30,Moisés Lucarelli / Campinas
+032,Botafogo / SP,Vila Nova / GO,18/05/2019,19:00,Santa Cruz / Ribeirao Preto
+033,Oeste / SP,Cuiabá / MT,14/05/2019,19:15,Arena Barueri / Barueri
+034,Atlético / GO,Criciúma / SC,17/05/2019,19:15,Antônio Accioly / Goiania
+035,Paraná / PR,Guarani / SP,18/05/2019,16:30,Durival Britto e Silva / Curitiba
+036,Londrina / PR,Red Bull Bragantino / SP,18/05/2019,11:00,Jacy Scaff / Londrina
+037,Figueirense / SC,Brasil / RS,14/05/2019,21:30,Orlando Scarpelli / Florianopolis
+038,América / MG,Sport / PE,19/05/2019,16:00,Raimundo Sampaio / Belo Horizonte
+039,Vitória / BA,São Bento / SP,18/05/2019,16:30,Manoel Barradas / Salvador
+040,CRB / AL,Coritiba / PR,20/05/2019,20:00,Rei Pelé / Maceio
+041,Ponte Preta / SP,Paraná / PR,25/05/2019,16:30,Moisés Lucarelli / Campinas
+042,Red Bull Bragantino / SP,Figueirense / SC,21/05/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+043,São Bento / SP,Oeste / SP,25/05/2019,16:30,Walter Ribeiro / Sorocaba
+044,Atlético / GO,Vitória / BA,26/05/2019,16:00,Antônio Accioly / Goiania
+045,Coritiba / PR,Cuiabá / MT,25/05/2019,11:00,Major Antônio Couto Pereira / Curitiba
+046,Operário / PR,Botafogo / SP,25/05/2019,19:00,Germano Kruger / Ponta Grossa
+047,Criciúma / SC,Guarani / SP,21/05/2019,19:15,Heriberto Hulse / Criciuma
+048,Brasil / RS,América / MG,25/05/2019,19:00,Bento da Silva Freitas / Pelotas
+049,Sport / PE,Londrina / PR,24/05/2019,21:30,Adelmar da Costa Carvalho / Recife
+050,CRB / AL,Vila Nova / GO,24/05/2019,19:15,Rei Pelé / Maceio
+051,Guarani / SP,Brasil / RS,28/05/2019,21:30,Brinco de Ouro da Princesa / Campinas
+052,Botafogo / SP,Criciúma / SC,01/06/2019,16:30,Santa Cruz / Ribeirao Preto
+053,São Bento / SP,CRB / AL,31/05/2019,20:30,Walter Ribeiro / Sorocaba
+054,Vila Nova / GO,Londrina / PR,01/06/2019,16:30,Serra Dourada / Goiania
+055,Paraná / PR,Oeste / SP,01/06/2019,11:00,Durival Britto e Silva / Curitiba
+056,Operário / PR,Sport / PE,28/05/2019,19:15,Germano Kruger / Ponta Grossa
+057,Figueirense / SC,Atlético / GO,31/05/2019,19:15,Orlando Scarpelli / Florianopolis
+058,América / MG,Coritiba / PR,03/06/2019,20:00,Raimundo Sampaio / Belo Horizonte
+059,Vitória / BA,Red Bull Bragantino / SP,31/05/2019,21:30,Manoel Barradas / Salvador
+060,Cuiabá / MT,Ponte Preta / SP,01/06/2019,19:00,Arena Pantanal / Cuiaba
+061,Ponte Preta / SP,Botafogo / SP,07/06/2019,21:30,Moisés Lucarelli / Campinas
+062,Red Bull Bragantino / SP,São Bento / SP,04/06/2019,19:00,Nabi Abi Chedid / Braganca Paulista
+063,Oeste / SP,Figueirense / SC,08/06/2019,11:00,Arena Barueri / Barueri
+064,Atlético / GO,Guarani / SP,06/06/2019,19:15,Antônio Accioly / Goiania
+065,Coritiba / PR,Paraná / PR,08/06/2019,18:00,Major Antônio Couto Pereira / Curitiba
+066,Londrina / PR,Cuiabá / MT,07/06/2019,19:15,Jacy Scaff / Londrina
+067,Criciúma / SC,Vila Nova / GO,08/06/2019,16:30,Heriberto Hulse / Criciuma
+068,Brasil / RS,Operário / PR,08/06/2019,16:30,Bento da Silva Freitas / Pelotas
+069,Sport / PE,Vitória / BA,08/06/2019,20:30,Adelmar da Costa Carvalho / Recife
+070,CRB / AL,América / MG,08/06/2019,20:30,Rei Pelé / Maceio
+071,Guarani / SP,Coritiba / PR,11/06/2019,21:30,Brinco de Ouro da Princesa / Campinas
+072,Red Bull Bragantino / SP,América / MG,11/06/2019,20:30,Nabi Abi Chedid / Braganca Paulista
+073,Oeste / SP,Vitória / BA,11/06/2019,20:30,Arena Barueri / Barueri
+074,Vila Nova / GO,São Bento / SP,11/06/2019,19:15,Olímpico Pedro Ludovico / Goiania
+075,Paraná / PR,Operário / PR,11/06/2019,21:30,Durival Britto e Silva / Curitiba
+076,Londrina / PR,Ponte Preta / SP,10/06/2019,20:00,Jacy Scaff / Londrina
+077,Figueirense / SC,Botafogo / SP,11/06/2019,19:15,Orlando Scarpelli / Florianopolis
+078,Brasil / RS,Criciúma / SC,11/06/2019,19:15,Bento da Silva Freitas / Pelotas
+079,Sport / PE,CRB / AL,11/06/2019,21:30,Adelmar da Costa Carvalho / Recife
+080,Cuiabá / MT,Atlético / GO,11/06/2019,20:30,Arena Pantanal / Cuiaba
+081,Ponte Preta / SP,Oeste / SP,12/07/2019,21:30,Moisés Lucarelli / Campinas
+082,Botafogo / SP,Brasil / RS,13/07/2019,18:00,Santa Cruz / Ribeirao Preto
+083,São Bento / SP,Sport / PE,08/07/2019,20:00,Walter Ribeiro / Sorocaba
+084,Atlético / GO,Vila Nova / GO,13/07/2019,16:30,Antônio Accioly / Goiania
+085,Paraná / PR,Red Bull Bragantino / SP,13/07/2019,19:00,Durival Britto e Silva / Curitiba
+086,Operário / PR,Londrina / PR,13/07/2019,19:00,Germano Kruger / Ponta Grossa
+087,Criciúma / SC,Coritiba / PR,09/07/2019,21:30,Heriberto Hulse / Criciuma
+088,América / MG,Figueirense / SC,13/07/2019,11:00,Raimundo Sampaio / Belo Horizonte
+089,Vitória / BA,Cuiabá / MT,09/07/2019,19:15,Manoel Barradas / Salvador
+090,CRB / AL,Guarani / SP,12/07/2019,19:15,Rei Pelé / Maceio
+091,Ponte Preta / SP,Atlético / GO,16/07/2019,21:30,Moisés Lucarelli / Campinas
+092,Botafogo / SP,Guarani / SP,20/07/2019,19:00,Santa Cruz / Ribeirao Preto
+093,Oeste / SP,Red Bull Bragantino / SP,20/07/2019,11:00,Novelli Junior / Itu
+094,Vila Nova / GO,América / MG,20/07/2019,16:30,Serra Dourada / Goiania
+095,Coritiba / PR,São Bento / SP,16/07/2019,19:15,Major Antônio Couto Pereira / Curitiba
+096,Operário / PR,CRB / AL,20/07/2019,19:00,Germano Kruger / Ponta Grossa
+097,Figueirense / SC,Londrina / PR,19/07/2019,19:15,Orlando Scarpelli / Florianopolis
+098,Brasil / RS,Paraná / PR,18/07/2019,21:30,Bento da Silva Freitas / Pelotas
+099,Vitória / BA,Criciúma / SC,19/07/2019,21:30,Manoel Barradas / Salvador
+100,Cuiabá / MT,Sport / PE,15/07/2019,20:00,Arena Pantanal / Cuiaba
+101,Guarani / SP,Cuiabá / MT,23/07/2019,19:15,Brinco de Ouro da Princesa / Campinas
+102,Red Bull Bragantino / SP,Ponte Preta / SP,23/07/2019,20:30,Nabi Abi Chedid / Braganca Paulista
+103,São Bento / SP,Operário / PR,23/07/2019,19:15,Walter Ribeiro / Sorocaba
+104,Atlético / GO,Botafogo / SP,23/07/2019,20:30,Antônio Accioly / Goiania
+105,Coritiba / PR,Vila Nova / GO,23/07/2019,19:15,Major Antônio Couto Pereira / Curitiba
+106,Londrina / PR,Vitória / BA,23/07/2019,21:30,Jacy Scaff / Londrina
+107,Figueirense / SC,Paraná / PR,23/07/2019,19:15,Orlando Scarpelli / Florianopolis
+108,América / MG,Oeste / SP,23/07/2019,21:30,Raimundo Sampaio / Belo Horizonte
+109,Sport / PE,Brasil / RS,22/07/2019,20:00,Adelmar da Costa Carvalho / Recife
+110,CRB / AL,Criciúma / SC,23/07/2019,21:30,Rei Pelé / Maceio
+111,Guarani / SP,São Bento / SP,26/07/2019,20:30,Brinco de Ouro da Princesa / Campinas
+112,Botafogo / SP,CRB / AL,26/07/2019,20:30,Santa Cruz / Ribeirao Preto
+113,Oeste / SP,Londrina / PR,27/07/2019,16:30,Arena Barueri / Barueri
+114,Vila Nova / GO,Red Bull Bragantino / SP,27/07/2019,19:00,Serra Dourada / Goiania
+115,Paraná / PR,Sport / PE,26/07/2019,21:30,Durival Britto e Silva / Curitiba
+116,Operário / PR,Coritiba / PR,26/07/2019,19:15,Germano Kruger / Ponta Grossa
+117,Criciúma / SC,Figueirense / SC,27/07/2019,11:00,Heriberto Hulse / Criciuma
+118,América / MG,Atlético / GO,26/07/2019,19:15,Raimundo Sampaio / Belo Horizonte
+119,Vitória / BA,Ponte Preta / SP,27/07/2019,16:30,Manoel Barradas / Salvador
+120,Cuiabá / MT,Brasil / RS,27/07/2019,19:00,Arena Pantanal / Cuiaba
+121,Ponte Preta / SP,América / MG,30/07/2019,20:30,Moisés Lucarelli / Campinas
+122,Red Bull Bragantino / SP,Cuiabá / MT,30/07/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+123,São Bento / SP,Criciúma / SC,30/07/2019,20:30,Walter Ribeiro / Sorocaba
+124,Atlético / GO,Operário / PR,30/07/2019,20:30,Antônio Accioly / Goiania
+125,Coritiba / PR,Botafogo / SP,29/07/2019,20:00,Major Antônio Couto Pereira / Curitiba
+126,Londrina / PR,Paraná / PR,30/07/2019,19:15,Jacy Scaff / Londrina
+127,Figueirense / SC,Vitória / BA,30/07/2019,19:15,Orlando Scarpelli / Florianopolis
+128,Brasil / RS,Vila Nova / GO,30/07/2019,19:15,Bento da Silva Freitas / Pelotas
+129,Sport / PE,Guarani / SP,29/07/2019,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+130,CRB / AL,Oeste / SP,30/07/2019,20:30,Rei Pelé / Maceio
+131,Guarani / SP,Red Bull Bragantino / SP,02/08/2019,21:30,Brinco de Ouro da Princesa / Campinas
+132,Botafogo / SP,Oeste / SP,02/08/2019,20:30,Santa Cruz / Ribeirao Preto
+133,São Bento / SP,Ponte Preta / SP,03/08/2019,16:30,Walter Ribeiro / Sorocaba
+134,Vila Nova / GO,Figueirense / SC,03/08/2019,19:15,Serra Dourada / Goiania
+135,Paraná / PR,América / MG,03/08/2019,17:00,Durival Britto e Silva / Curitiba
+136,Londrina / PR,Atlético / GO,02/08/2019,19:15,Jacy Scaff / Londrina
+137,Criciúma / SC,Operário / PR,03/08/2019,16:30,Heriberto Hulse / Criciuma
+138,Brasil / RS,Vitória / BA,03/08/2019,11:00,Bento da Silva Freitas / Pelotas
+139,Sport / PE,Coritiba / PR,01/08/2019,21:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+140,CRB / AL,Cuiabá / MT,03/08/2019,19:00,Rei Pelé / Maceio
+141,Ponte Preta / SP,Guarani / SP,11/08/2019,11:00,Moisés Lucarelli / Campinas
+142,Red Bull Bragantino / SP,Botafogo / SP,09/08/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+143,Oeste / SP,Brasil / RS,08/08/2019,21:30,Arena Barueri / Barueri
+144,Atlético / GO,CRB / AL,06/08/2019,19:15,Antônio Accioly / Goiania
+145,Coritiba / PR,Figueirense / SC,10/08/2019,16:30,Major Antônio Couto Pereira / Curitiba
+146,Operário / PR,Vila Nova / GO,09/08/2019,19:15,Germano Kruger / Ponta Grossa
+147,Criciúma / SC,Sport / PE,11/08/2019,16:00,Heriberto Hulse / Criciuma
+148,América / MG,Londrina / PR,06/08/2019,21:30,Raimundo Sampaio / Belo Horizonte
+149,Vitória / BA,Paraná / PR,10/08/2019,19:00,Manoel Barradas / Salvador
+150,Cuiabá / MT,São Bento / SP,10/08/2019,19:00,Arena Pantanal / Cuiaba
+151,Guarani / SP,Vila Nova / GO,16/08/2019,21:30,Brinco de Ouro da Princesa / Campinas
+152,Red Bull Bragantino / SP,Operário / PR,12/08/2019,20:00,Nabi Abi Chedid / Braganca Paulista
+153,São Bento / SP,Paraná / PR,17/08/2019,11:00,Walter Ribeiro / Sorocaba
+154,Atlético / GO,Oeste / SP,13/08/2019,19:15,Antônio Accioly / Goiania
+155,Coritiba / PR,Brasil / RS,13/08/2019,21:30,Major Antônio Couto Pereira / Curitiba
+156,Londrina / PR,Criciúma / SC,16/08/2019,19:15,Jacy Scaff / Londrina
+157,Figueirense / SC,Ponte Preta / SP,15/08/2019,21:30,Orlando Scarpelli / Florianopolis
+158,América / MG,Cuiabá / MT,17/08/2019,19:00,Raimundo Sampaio / Belo Horizonte
+159,Sport / PE,Botafogo / SP,17/08/2019,16:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+160,CRB / AL,Vitória / BA,18/08/2019,16:00,Rei Pelé / Maceio
+161,Ponte Preta / SP,CRB / AL,21/08/2019,21:30,Moisés Lucarelli / Campinas
+162,Botafogo / SP,Londrina / PR,20/08/2019,19:15,Santa Cruz / Ribeirao Preto
+163,Oeste / SP,Coritiba / PR,19/08/2019,20:00,Arena Barueri / Barueri
+164,Vila Nova / GO,Sport / PE,20/08/2019,21:30,Olímpico Pedro Ludovico / Goiania
+165,Paraná / PR,Atlético / GO,20/08/2019,20:30,Durival Britto e Silva / Curitiba
+166,Operário / PR,Guarani / SP,20/08/2019,19:15,Germano Kruger / Ponta Grossa
+167,Criciúma / SC,Red Bull Bragantino / SP,19/08/2019,20:00,Heriberto Hulse / Criciuma
+168,Brasil / RS,São Bento / SP,20/08/2019,19:15,Bento da Silva Freitas / Pelotas
+169,Vitória / BA,América / MG,21/08/2019,19:15,Manoel Barradas / Salvador
+171,Ponte Preta / SP,Sport / PE,24/08/2019,19:00,Moisés Lucarelli / Campinas
+172,Red Bull Bragantino / SP,Coritiba / PR,22/08/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+173,Oeste / SP,Vila Nova / GO,24/08/2019,16:30,Arena Barueri / Barueri
+174,Atlético / GO,Brasil / RS,23/08/2019,19:15,Antônio Accioly / Goiania
+175,Paraná / PR,Criciúma / SC,24/08/2019,11:00,Durival Britto e Silva / Curitiba
+176,Londrina / PR,São Bento / SP,24/08/2019,16:30,Jacy Scaff / Londrina
+177,Figueirense / SC,CRB / AL,24/08/2019,19:00,Orlando Scarpelli / Florianopolis
+178,América / MG,Guarani / SP,25/08/2019,11:00,Raimundo Sampaio / Belo Horizonte
+179,Vitória / BA,Operário / PR,24/08/2019,16:30,Manoel Barradas / Salvador
+180,Cuiabá / MT,Botafogo / SP,23/08/2019,21:30,Arena Pantanal / Cuiaba
+181,Guarani / SP,Londrina / PR,28/08/2019,19:15,Brinco de Ouro da Princesa / Campinas
+182,Botafogo / SP,Paraná / PR,27/08/2019,19:15,Santa Cruz / Ribeirao Preto
+183,São Bento / SP,América / MG,28/08/2019,19:15,Walter Ribeiro / Sorocaba
+184,Vila Nova / GO,Cuiabá / MT,27/08/2019,19:15,Olímpico Pedro Ludovico / Goiania
+185,Coritiba / PR,Vitória / BA,27/08/2019,19:15,Major Antônio Couto Pereira / Curitiba
+186,Operário / PR,Figueirense / SC,27/08/2019,20:30,Germano Kruger / Ponta Grossa
+187,Criciúma / SC,Oeste / SP,27/08/2019,20:30,Heriberto Hulse / Criciuma
+188,Brasil / RS,Ponte Preta / SP,27/08/2019,19:15,Bento da Silva Freitas / Pelotas
+189,Sport / PE,Atlético / GO,27/08/2019,21:30,Adelmar da Costa Carvalho / Recife
+190,CRB / AL,Red Bull Bragantino / SP,27/08/2019,16:30,Rei Pelé / Maceio
+191,Ponte Preta / SP,Coritiba / PR,31/08/2019,16:30,Moisés Lucarelli / Campinas
+192,Red Bull Bragantino / SP,Brasil / RS,31/08/2019,19:00,Nabi Abi Chedid / Braganca Paulista
+193,Oeste / SP,Sport / PE,31/08/2019,11:00,Arena Barueri / Barueri
+194,Atlético / GO,São Bento / SP,31/08/2019,16:30,Antônio Accioly / Goiania
+195,Paraná / PR,Vila Nova / GO,30/08/2019,19:15,Durival Britto e Silva / Curitiba
+196,Londrina / PR,CRB / AL,31/08/2019,16:30,Jacy Scaff / Londrina
+197,Figueirense / SC,Guarani / SP,31/08/2019,16:30,Orlando Scarpelli / Florianopolis
+198,América / MG,Operário / PR,31/08/2019,19:00,Raimundo Sampaio / Belo Horizonte
+199,Vitória / BA,Botafogo / SP,30/08/2019,21:30,Manoel Barradas / Salvador
+200,Cuiabá / MT,Criciúma / SC,30/08/2019,21:30,Arena Pantanal / Cuiaba
+201,Guarani / SP,Oeste / SP,07/09/2019,16:30,Brinco de Ouro da Princesa / Campinas
+202,Botafogo / SP,América / MG,07/09/2019,11:00,Santa Cruz / Ribeirao Preto
+203,São Bento / SP,Figueirense / SC,06/09/2019,18:45,Walter Ribeiro / Sorocaba
+204,Vila Nova / GO,Vitória / BA,03/09/2019,19:15,Olímpico Pedro Ludovico / Goiania
+205,Coritiba / PR,Atlético / GO,08/09/2019,11:00,Major Antônio Couto Pereira / Curitiba
+206,Operário / PR,Cuiabá / MT,07/09/2019,16:30,Germano Kruger / Ponta Grossa
+207,Criciúma / SC,Ponte Preta / SP,03/09/2019,21:30,Heriberto Hulse / Criciuma
+208,Brasil / RS,Londrina / PR,03/09/2019,19:15,Bento da Silva Freitas / Pelotas
+209,Sport / PE,Red Bull Bragantino / SP,07/09/2019,19:00,Adelmar da Costa Carvalho / Recife
+210,CRB / AL,Paraná / PR,05/09/2019,19:15,Rei Pelé / Maceio
+211,Ponte Preta / SP,Vila Nova / GO,12/09/2019,21:30,Moisés Lucarelli / Campinas
+212,Botafogo / SP,São Bento / SP,13/09/2019,19:15,Santa Cruz / Ribeirao Preto
+213,Oeste / SP,Operário / PR,13/09/2019,20:30,Arena Barueri / Barueri
+214,Atlético / GO,Red Bull Bragantino / SP,13/09/2019,21:30,Antônio Accioly / Goiania
+215,Paraná / PR,Cuiabá / MT,14/09/2019,19:00,Durival Britto e Silva / Curitiba
+216,Londrina / PR,Coritiba / PR,14/09/2019,11:00,Jacy Scaff / Londrina
+217,Figueirense / SC,Sport / PE,15/09/2019,16:00,Orlando Scarpelli / Florianopolis
+218,América / MG,Criciúma / SC,10/09/2019,21:00,Raimundo Sampaio / Belo Horizonte
+219,Vitória / BA,Guarani / SP,14/09/2019,16:30,Octávio Mangabeira / Salvador
+220,CRB / AL,Brasil / RS,10/09/2019,18:45,Rei Pelé / Maceio
+221,Guarani / SP,Paraná / PR,21/09/2019,11:00,Brinco de Ouro da Princesa / Campinas
+222,Red Bull Bragantino / SP,Londrina / PR,21/09/2019,16:30,Nabi Abi Chedid / Braganca Paulista
+223,São Bento / SP,Vitória / BA,17/09/2019,21:30,Walter Ribeiro / Sorocaba
+224,Vila Nova / GO,Botafogo / SP,17/09/2019,19:15,Serra Dourada / Goiania
+225,Coritiba / PR,CRB / AL,21/09/2019,19:00,Major Antônio Couto Pereira / Curitiba
+226,Operário / PR,Ponte Preta / SP,16/09/2019,20:00,Germano Kruger / Ponta Grossa
+227,Criciúma / SC,Atlético / GO,20/09/2019,19:15,Heriberto Hulse / Criciuma
+228,Brasil / RS,Figueirense / SC,19/09/2019,21:30,Bento da Silva Freitas / Pelotas
+229,Sport / PE,América / MG,20/09/2019,21:30,Adelmar da Costa Carvalho / Recife
+230,Cuiabá / MT,Oeste / SP,21/09/2019,19:00,Arena Pantanal / Cuiaba
+231,Guarani / SP,Criciúma / SC,24/09/2019,19:15,Brinco de Ouro da Princesa / Campinas
+232,Botafogo / SP,Operário / PR,24/09/2019,19:15,Santa Cruz / Ribeirao Preto
+233,Oeste / SP,São Bento / SP,24/09/2019,20:30,Arena Barueri / Barueri
+234,Vila Nova / GO,CRB / AL,24/09/2019,20:30,Serra Dourada / Goiania
+235,Paraná / PR,Ponte Preta / SP,25/09/2019,19:15,Durival Britto e Silva / Curitiba
+236,Londrina / PR,Sport / PE,24/09/2019,19:15,Jacy Scaff / Londrina
+237,Figueirense / SC,Red Bull Bragantino / SP,24/09/2019,21:30,Orlando Scarpelli / Florianopolis
+238,América / MG,Brasil / RS,24/09/2019,20:30,Raimundo Sampaio / Belo Horizonte
+239,Vitória / BA,Atlético / GO,24/09/2019,21:30,Octávio Mangabeira / Salvador
+240,Cuiabá / MT,Coritiba / PR,29/10/2019,22:30,Arena Pantanal / Cuiaba
+241,Ponte Preta / SP,Cuiabá / MT,28/09/2019,16:30,Moisés Lucarelli / Campinas
+242,Red Bull Bragantino / SP,Vitória / BA,29/09/2019,16:00,Nabi Abi Chedid / Braganca Paulista
+243,Oeste / SP,Paraná / PR,28/09/2019,19:00,Arena Barueri / Barueri
+244,Atlético / GO,Figueirense / SC,27/09/2019,21:30,Antônio Accioly / Goiania
+245,Coritiba / PR,América / MG,28/09/2019,16:30,Major Antônio Couto Pereira / Curitiba
+246,Londrina / PR,Vila Nova / GO,27/09/2019,19:15,Jacy Scaff / Londrina
+247,Criciúma / SC,Botafogo / SP,28/09/2019,11:00,Heriberto Hulse / Criciuma
+248,Brasil / RS,Guarani / SP,27/09/2019,20:30,Bento da Silva Freitas / Pelotas
+249,Sport / PE,Operário / PR,28/09/2019,19:00,Adelmar da Costa Carvalho / Recife
+250,CRB / AL,São Bento / SP,28/09/2019,21:00,Rei Pelé / Maceio
+251,Guarani / SP,Atlético / GO,30/09/2019,20:00,Brinco de Ouro da Princesa / Campinas
+252,Botafogo / SP,Ponte Preta / SP,05/10/2019,11:00,Santa Cruz / Ribeirao Preto
+253,São Bento / SP,Red Bull Bragantino / SP,04/10/2019,21:30,Walter Ribeiro / Sorocaba
+254,Vila Nova / GO,Criciúma / SC,01/10/2019,19:15,Serra Dourada / Goiania
+255,Paraná / PR,Coritiba / PR,05/10/2019,16:30,Durival Britto e Silva / Curitiba
+256,Operário / PR,Brasil / RS,05/10/2019,19:00,Germano Kruger / Ponta Grossa
+257,Figueirense / SC,Oeste / SP,04/10/2019,19:15,Orlando Scarpelli / Florianopolis
+258,América / MG,CRB / AL,03/10/2019,19:15,Raimundo Sampaio / Belo Horizonte
+259,Vitória / BA,Sport / PE,03/10/2019,21:30,Octávio Mangabeira / Salvador
+260,Cuiabá / MT,Londrina / PR,05/10/2019,19:00,Arena Pantanal / Cuiaba
+261,Ponte Preta / SP,Londrina / PR,08/10/2019,21:30,Moisés Lucarelli / Campinas
+262,Botafogo / SP,Figueirense / SC,08/10/2019,19:15,Santa Cruz / Ribeirao Preto
+263,São Bento / SP,Vila Nova / GO,07/10/2019,20:00,Walter Ribeiro / Sorocaba
+264,Atlético / GO,Cuiabá / MT,08/10/2019,20:30,Antônio Accioly / Goiania
+265,Coritiba / PR,Guarani / SP,08/10/2019,19:15,Major Antônio Couto Pereira / Curitiba
+266,Operário / PR,Paraná / PR,08/10/2019,19:15,Germano Kruger / Ponta Grossa
+267,Criciúma / SC,Brasil / RS,08/10/2019,20:30,Heriberto Hulse / Criciuma
+268,América / MG,Red Bull Bragantino / SP,08/10/2019,21:30,Raimundo Sampaio / Belo Horizonte
+269,Vitória / BA,Oeste / SP,08/10/2019,20:30,Manoel Barradas / Salvador
+270,CRB / AL,Sport / PE,07/10/2019,20:00,Rei Pelé / Maceio
+271,Guarani / SP,CRB / AL,11/10/2019,21:30,Brinco de Ouro da Princesa / Campinas
+272,Red Bull Bragantino / SP,Paraná / PR,12/10/2019,16:30,Nabi Abi Chedid / Braganca Paulista
+273,Oeste / SP,Ponte Preta / SP,11/10/2019,21:30,Arena Barueri / Barueri
+274,Vila Nova / GO,Atlético / GO,11/10/2019,19:15,Serra Dourada / Goiania
+275,Coritiba / PR,Criciúma / SC,12/10/2019,16:30,Major Antônio Couto Pereira / Curitiba
+276,Londrina / PR,Operário / PR,12/10/2019,16:30,Jacy Scaff / Londrina
+277,Figueirense / SC,América / MG,12/10/2019,19:00,Orlando Scarpelli / Florianopolis
+278,Brasil / RS,Botafogo / SP,11/10/2019,19:15,Bento da Silva Freitas / Pelotas
+279,Sport / PE,São Bento / SP,11/10/2019,19:15,Adelmar da Costa Carvalho / Recife
+280,Cuiabá / MT,Vitória / BA,11/10/2019,21:30,Arena Pantanal / Cuiaba
+281,Guarani / SP,Botafogo / SP,14/10/2019,20:00,Brinco de Ouro da Princesa / Campinas
+282,Red Bull Bragantino / SP,Oeste / SP,15/10/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+283,São Bento / SP,Coritiba / PR,15/10/2019,21:30,Walter Ribeiro / Sorocaba
+284,Atlético / GO,Ponte Preta / SP,14/10/2019,20:00,Antônio Accioly / Goiania
+285,Paraná / PR,Brasil / RS,15/10/2019,19:15,Durival Britto e Silva / Curitiba
+286,Londrina / PR,Figueirense / SC,15/10/2019,19:15,Jacy Scaff / Londrina
+287,Criciúma / SC,Vitória / BA,15/10/2019,19:15,Heriberto Hulse / Criciuma
+288,América / MG,Vila Nova / GO,15/10/2019,20:30,Raimundo Sampaio / Belo Horizonte
+289,Sport / PE,Cuiabá / MT,14/10/2019,20:00,Adelmar da Costa Carvalho / Recife
+290,CRB / AL,Operário / PR,15/10/2019,20:30,Rei Pelé / Maceio
+291,Ponte Preta / SP,Red Bull Bragantino / SP,19/10/2019,16:30,Moisés Lucarelli / Campinas
+292,Botafogo / SP,Atlético / GO,17/10/2019,19:15,Santa Cruz / Ribeirao Preto
+293,Oeste / SP,América / MG,19/10/2019,16:30,Arena Barueri / Barueri
+294,Vila Nova / GO,Coritiba / PR,19/10/2019,16:30,Serra Dourada / Goiania
+295,Paraná / PR,Figueirense / SC,19/10/2019,19:00,Durival Britto e Silva / Curitiba
+296,Operário / PR,São Bento / SP,19/10/2019,19:00,Germano Kruger / Ponta Grossa
+297,Criciúma / SC,CRB / AL,18/10/2019,19:15,Heriberto Hulse / Criciuma
+298,Brasil / RS,Sport / PE,20/10/2019,16:00,Bento da Silva Freitas / Pelotas
+299,Vitória / BA,Londrina / PR,18/10/2019,21:30,Manoel Barradas / Salvador
+300,Cuiabá / MT,Guarani / SP,17/10/2019,21:30,Arena Pantanal / Cuiaba
+301,Ponte Preta / SP,Vitória / BA,27/10/2019,16:00,Moisés Lucarelli / Campinas
+302,Red Bull Bragantino / SP,Vila Nova / GO,25/10/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+303,São Bento / SP,Guarani / SP,26/10/2019,16:30,Walter Ribeiro / Sorocaba
+304,Atlético / GO,América / MG,25/10/2019,19:15,Antônio Accioly / Goiania
+305,Coritiba / PR,Operário / PR,24/10/2019,21:30,Major Antônio Couto Pereira / Curitiba
+306,Londrina / PR,Oeste / SP,25/10/2019,19:15,Jacy Scaff / Londrina
+307,Figueirense / SC,Criciúma / SC,26/10/2019,16:30,Orlando Scarpelli / Florianopolis
+308,Brasil / RS,Cuiabá / MT,26/10/2019,16:30,Bento da Silva Freitas / Pelotas
+309,Sport / PE,Paraná / PR,23/10/2019,19:15,Adelmar da Costa Carvalho / Recife
+310,CRB / AL,Botafogo / SP,24/10/2019,19:15,Rei Pelé / Maceio
+311,Guarani / SP,Sport / PE,31/10/2019,19:15,Brinco de Ouro da Princesa / Campinas
+312,Botafogo / SP,Coritiba / PR,01/11/2019,19:15,Santa Cruz / Ribeirao Preto
+313,Oeste / SP,CRB / AL,02/11/2019,16:30,Arena Barueri / Barueri
+314,Vila Nova / GO,Brasil / RS,29/10/2019,19:15,Serra Dourada / Goiania
+315,Paraná / PR,Londrina / PR,28/10/2019,20:00,Durival Britto e Silva / Curitiba
+316,Operário / PR,Atlético / GO,01/11/2019,20:30,Germano Kruger / Ponta Grossa
+317,Criciúma / SC,São Bento / SP,02/11/2019,19:00,Heriberto Hulse / Criciuma
+318,América / MG,Ponte Preta / SP,02/11/2019,19:00,Raimundo Sampaio / Belo Horizonte
+319,Vitória / BA,Figueirense / SC,02/11/2019,16:30,Manoel Barradas / Salvador
+320,Cuiabá / MT,Red Bull Bragantino / SP,01/11/2019,22:30,Arena Pantanal / Cuiaba
+321,Ponte Preta / SP,São Bento / SP,05/11/2019,21:30,Moisés Lucarelli / Campinas
+322,Red Bull Bragantino / SP,Guarani / SP,05/11/2019,21:30,Nabi Abi Chedid / Braganca Paulista
+323,Oeste / SP,Botafogo / SP,05/11/2019,19:15,Arena Barueri / Barueri
+324,Atlético / GO,Londrina / PR,05/11/2019,19:15,Antônio Accioly / Goiania
+325,Coritiba / PR,Sport / PE,04/11/2019,20:00,Major Antônio Couto Pereira / Curitiba
+326,Operário / PR,Criciúma / SC,05/11/2019,20:30,Germano Kruger / Ponta Grossa
+327,Figueirense / SC,Vila Nova / GO,05/11/2019,20:30,Orlando Scarpelli / Florianopolis
+328,América / MG,Paraná / PR,05/11/2019,20:30,Raimundo Sampaio / Belo Horizonte
+329,Vitória / BA,Brasil / RS,05/11/2019,20:30,Manoel Barradas / Salvador
+330,Cuiabá / MT,CRB / AL,05/11/2019,21:30,Arena Pantanal / Cuiaba
+331,Guarani / SP,Ponte Preta / SP,09/11/2019,16:30,Brinco de Ouro da Princesa / Campinas
+332,Botafogo / SP,Red Bull Bragantino / SP,08/11/2019,19:15,Santa Cruz / Ribeirao Preto
+333,São Bento / SP,Cuiabá / MT,08/11/2019,21:30,Walter Ribeiro / Sorocaba
+334,Vila Nova / GO,Operário / PR,08/11/2019,20:30,Serra Dourada / Goiania
+335,Paraná / PR,Vitória / BA,08/11/2019,19:15,Durival Britto e Silva / Curitiba
+336,Londrina / PR,América / MG,08/11/2019,20:30,Jacy Scaff / Londrina
+337,Figueirense / SC,Coritiba / PR,08/11/2019,21:30,Orlando Scarpelli / Florianopolis
+338,Brasil / RS,Oeste / SP,09/11/2019,19:00,Bento da Silva Freitas / Pelotas
+339,Sport / PE,Criciúma / SC,09/11/2019,16:30,Adelmar da Costa Carvalho / Recife
+340,CRB / AL,Atlético / GO,09/11/2019,19:00,Rei Pelé / Maceio
+341,Ponte Preta / SP,Figueirense / SC,12/11/2019,20:30,Moisés Lucarelli / Campinas
+342,Botafogo / SP,Sport / PE,13/11/2019,21:30,Santa Cruz / Ribeirao Preto
+343,Oeste / SP,Atlético / GO,12/11/2019,19:15,Arena Barueri / Barueri
+344,Vila Nova / GO,Guarani / SP,13/11/2019,19:15,Serra Dourada / Goiania
+345,Paraná / PR,São Bento / SP,12/11/2019,21:30,Durival Britto e Silva / Curitiba
+346,Operário / PR,Red Bull Bragantino / SP,12/11/2019,21:30,Germano Kruger / Ponta Grossa
+347,Criciúma / SC,Londrina / PR,12/11/2019,20:30,Heriberto Hulse / Criciuma
+348,Brasil / RS,Coritiba / PR,12/11/2019,19:15,Bento da Silva Freitas / Pelotas
+349,Vitória / BA,CRB / AL,12/11/2019,19:15,Manoel Barradas / Salvador
+350,Cuiabá / MT,América / MG,11/11/2019,22:00,Arena Pantanal / Cuiaba
+351,Guarani / SP,Operário / PR,16/11/2019,16:30,Brinco de Ouro da Princesa / Campinas
+352,Red Bull Bragantino / SP,Criciúma / SC,15/11/2019,19:15,Nabi Abi Chedid / Braganca Paulista
+353,São Bento / SP,Brasil / RS,17/11/2019,16:00,Walter Ribeiro / Sorocaba
+354,Atlético / GO,Paraná / PR,15/11/2019,21:30,Antônio Accioly / Goiania
+355,Coritiba / PR,Oeste / SP,16/11/2019,16:30,Major Antônio Couto Pereira / Curitiba
+356,Londrina / PR,Botafogo / SP,16/11/2019,19:00,Jacy Scaff / Londrina
+357,Figueirense / SC,Cuiabá / MT,17/11/2019,18:30,Orlando Scarpelli / Florianopolis
+358,América / MG,Vitória / BA,15/11/2019,17:00,Raimundo Sampaio / Belo Horizonte
+359,Sport / PE,Vila Nova / GO,17/11/2019,16:00,Adelmar da Costa Carvalho / Recife
+360,CRB / AL,Ponte Preta / SP,16/11/2019,16:30,Rei Pelé / Maceio
+361,Guarani / SP,América / MG,22/11/2019,21:30,Brinco de Ouro da Princesa / Campinas
+362,Botafogo / SP,Cuiabá / MT,23/11/2019,17:00,Santa Cruz / Ribeirao Preto
+363,São Bento / SP,Londrina / PR,21/11/2019,19:15,Walter Ribeiro / Sorocaba
+364,Vila Nova / GO,Oeste / SP,20/11/2019,19:15,Serra Dourada / Goiania
+365,Coritiba / PR,Red Bull Bragantino / SP,24/11/2019,16:00,Major Antônio Couto Pereira / Curitiba
+366,Operário / PR,Vitória / BA,19/11/2019,21:30,Germano Kruger / Ponta Grossa
+367,Criciúma / SC,Paraná / PR,19/11/2019,19:15,Heriberto Hulse / Criciuma
+368,Brasil / RS,Atlético / GO,21/11/2019,21:30,Bento da Silva Freitas / Pelotas
+369,Sport / PE,Ponte Preta / SP,20/11/2019,21:30,Adelmar da Costa Carvalho / Recife
+370,CRB / AL,Figueirense / SC,22/11/2019,19:15,Rei Pelé / Maceio
+371,Ponte Preta / SP,Brasil / RS,26/11/2019,19:00,Moisés Lucarelli / Campinas
+372,Red Bull Bragantino / SP,CRB / AL,30/11/2019,16:30,Nabi Abi Chedid / Braganca Paulista
+373,Oeste / SP,Criciúma / SC,29/11/2019,21:30,Arena Barueri / Barueri
+374,Atlético / GO,Sport / PE,30/11/2019,16:30,Antônio Accioly / Goiania
+375,Paraná / PR,Botafogo / SP,29/11/2019,19:15,Durival Britto e Silva / Curitiba
+376,Londrina / PR,Guarani / SP,30/11/2019,16:30,Jacy Scaff / Londrina
+377,Figueirense / SC,Operário / PR,30/11/2019,16:30,Orlando Scarpelli / Florianopolis
+378,América / MG,São Bento / SP,30/11/2019,16:30,Raimundo Sampaio / Belo Horizonte
+379,Vitória / BA,Coritiba / PR,30/11/2019,16:30,Manoel Barradas / Salvador
+380,Cuiabá / MT,Vila Nova / GO,30/11/2019,16:30,Arena Pantanal / Cuiaba

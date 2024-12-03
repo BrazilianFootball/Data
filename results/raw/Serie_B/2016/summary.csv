@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Ceará / CE,Paysandu / PA
-002,Bahia / BA,Avaí / SC
-003,Sampaio Corrêa / MA,Vasco da Gama / RJ
-004,Oeste / SP,Atlético / GO
-005,Vila Nova / GO,Red Bull Bragantino / SP
-006,Luverdense / MT,Joinville / SC
-007,Tupi / MG,Goiás / GO
-008,Brasil / RS,Paraná / PR
-009,Londrina / PR,CRB / AL
-010,Criciúma / SC,Náutico / PE
-011,Náutico / PE,Vila Nova / GO
-012,CRB / AL,Ceará / CE
-013,Paysandu / PA,Oeste / SP
-014,Red Bull Bragantino / SP,Luverdense / MT
-015,Goiás / GO,Londrina / PR
-016,Vasco da Gama / RJ,Tupi / MG
-017,Atlético / GO,Brasil / RS
-018,Joinville / SC,Criciúma / SC
-019,Paraná / PR,Bahia / BA
-020,Avaí / SC,Sampaio Corrêa / MA
-021,Ceará / CE,Atlético / GO
-022,Bahia / BA,Joinville / SC
-023,Sampaio Corrêa / MA,Paraná / PR
-024,Oeste / SP,CRB / AL
-025,Vila Nova / GO,Vasco da Gama / RJ
-026,Luverdense / MT,Avaí / SC
-027,Tupi / MG,Paysandu / PA
-028,Brasil / RS,Red Bull Bragantino / SP
-029,Londrina / PR,Náutico / PE
-030,Criciúma / SC,Goiás / GO
-031,Náutico / PE,Sampaio Corrêa / MA
-032,CRB / AL,Criciúma / SC
-033,Paysandu / PA,Luverdense / MT
-034,Red Bull Bragantino / SP,Tupi / MG
-035,Goiás / GO,Brasil / RS
-036,Vasco da Gama / RJ,Bahia / BA
-037,Atlético / GO,Vila Nova / GO
-038,Joinville / SC,Londrina / PR
-039,Paraná / PR,Oeste / SP
-040,Avaí / SC,Ceará / CE
-041,Ceará / CE,Goiás / GO
-042,Bahia / BA,Náutico / PE
-043,Sampaio Corrêa / MA,Red Bull Bragantino / SP
-044,Oeste / SP,Vasco da Gama / RJ
-045,Vila Nova / GO,CRB / AL
-046,Luverdense / MT,Atlético / GO
-047,Tupi / MG,Joinville / SC
-048,Brasil / RS,Paysandu / PA
-049,Londrina / PR,Paraná / PR
-050,Criciúma / SC,Avaí / SC
-051,Náutico / PE,Joinville / SC
-052,Bahia / BA,Paysandu / PA
-053,Sampaio Corrêa / MA,Ceará / CE
-054,Oeste / SP,Criciúma / SC
-055,Vila Nova / GO,Paraná / PR
-056,Vasco da Gama / RJ,Goiás / GO
-057,Atlético / GO,Red Bull Bragantino / SP
-058,Brasil / RS,Luverdense / MT
-059,Londrina / PR,Tupi / MG
-060,Avaí / SC,CRB / AL
-061,Ceará / CE,Londrina / PR
-062,CRB / AL,Sampaio Corrêa / MA
-063,Paysandu / PA,Náutico / PE
-064,Red Bull Bragantino / SP,Avaí / SC
-065,Goiás / GO,Bahia / BA
-066,Luverdense / MT,Vila Nova / GO
-067,Tupi / MG,Oeste / SP
-068,Joinville / SC,Vasco da Gama / RJ
-069,Paraná / PR,Atlético / GO
-070,Criciúma / SC,Brasil / RS
-071,Náutico / PE,Paraná / PR
-072,Bahia / BA,CRB / AL
-073,Sampaio Corrêa / MA,Criciúma / SC
-074,Red Bull Bragantino / SP,Paysandu / PA
-075,Goiás / GO,Oeste / SP
-076,Luverdense / MT,Ceará / CE
-077,Atlético / GO,Vasco da Gama / RJ
-078,Brasil / RS,Tupi / MG
-079,Londrina / PR,Vila Nova / GO
-080,Avaí / SC,Joinville / SC
-081,Ceará / CE,Brasil / RS
-082,CRB / AL,Red Bull Bragantino / SP
-083,Paysandu / PA,Avaí / SC
-084,Oeste / SP,Londrina / PR
-085,Vila Nova / GO,Sampaio Corrêa / MA
-086,Vasco da Gama / RJ,Náutico / PE
-087,Tupi / MG,Luverdense / MT
-088,Joinville / SC,Atlético / GO
-089,Paraná / PR,Goiás / GO
-090,Criciúma / SC,Bahia / BA
-091,Náutico / PE,Red Bull Bragantino / SP
-092,Bahia / BA,Londrina / PR
-093,Sampaio Corrêa / MA,Brasil / RS
-094,Oeste / SP,Vila Nova / GO
-095,Goiás / GO,Avaí / SC
-096,Vasco da Gama / RJ,Paysandu / PA
-097,Atlético / GO,CRB / AL
-098,Joinville / SC,Ceará / CE
-099,Paraná / PR,Luverdense / MT
-100,Criciúma / SC,Tupi / MG
-101,Ceará / CE,Oeste / SP
-102,CRB / AL,Paraná / PR
-103,Paysandu / PA,Joinville / SC
-104,Red Bull Bragantino / SP,Goiás / GO
-105,Vila Nova / GO,Criciúma / SC
-106,Luverdense / MT,Sampaio Corrêa / MA
-107,Tupi / MG,Bahia / BA
-108,Brasil / RS,Náutico / PE
-109,Londrina / PR,Vasco da Gama / RJ
-110,Avaí / SC,Atlético / GO
-111,Ceará / CE,Náutico / PE
-112,CRB / AL,Vasco da Gama / RJ
-113,Paysandu / PA,Atlético / GO
-114,Oeste / SP,Sampaio Corrêa / MA
-115,Vila Nova / GO,Goiás / GO
-116,Luverdense / MT,Londrina / PR
-117,Tupi / MG,Avaí / SC
-118,Brasil / RS,Bahia / BA
-119,Paraná / PR,Joinville / SC
-120,Criciúma / SC,Red Bull Bragantino / SP
-121,Náutico / PE,Luverdense / MT
-122,Bahia / BA,Oeste / SP
-123,Sampaio Corrêa / MA,Tupi / MG
-124,Red Bull Bragantino / SP,Ceará / CE
-125,Goiás / GO,Paysandu / PA
-126,Vasco da Gama / RJ,Paraná / PR
-127,Atlético / GO,Criciúma / SC
-128,Joinville / SC,CRB / AL
-129,Londrina / PR,Brasil / RS
-130,Avaí / SC,Vila Nova / GO
-131,Ceará / CE,Bahia / BA
-132,CRB / AL,Goiás / GO
-133,Sampaio Corrêa / MA,Paysandu / PA
-134,Red Bull Bragantino / SP,Paraná / PR
-135,Vila Nova / GO,Tupi / MG
-136,Luverdense / MT,Oeste / SP
-137,Atlético / GO,Náutico / PE
-138,Brasil / RS,Joinville / SC
-139,Londrina / PR,Criciúma / SC
-140,Avaí / SC,Vasco da Gama / RJ
-141,Náutico / PE,CRB / AL
-142,Bahia / BA,Vila Nova / GO
-143,Paysandu / PA,Londrina / PR
-144,Oeste / SP,Red Bull Bragantino / SP
-145,Goiás / GO,Atlético / GO
-146,Vasco da Gama / RJ,Brasil / RS
-147,Tupi / MG,Ceará / CE
-148,Joinville / SC,Sampaio Corrêa / MA
-149,Paraná / PR,Avaí / SC
-150,Criciúma / SC,Luverdense / MT
-151,Ceará / CE,Criciúma / SC
-152,CRB / AL,Tupi / MG
-153,Sampaio Corrêa / MA,Bahia / BA
-154,Red Bull Bragantino / SP,Joinville / SC
-155,Goiás / GO,Náutico / PE
-156,Luverdense / MT,Vasco da Gama / RJ
-157,Atlético / GO,Londrina / PR
-158,Brasil / RS,Vila Nova / GO
-159,Paraná / PR,Paysandu / PA
-160,Avaí / SC,Oeste / SP
-161,Náutico / PE,Avaí / SC
-162,Bahia / BA,Luverdense / MT
-163,Paysandu / PA,CRB / AL
-164,Oeste / SP,Brasil / RS
-165,Vila Nova / GO,Ceará / CE
-166,Vasco da Gama / RJ,Red Bull Bragantino / SP
-167,Tupi / MG,Atlético / GO
-168,Joinville / SC,Goiás / GO
-169,Londrina / PR,Sampaio Corrêa / MA
-170,Criciúma / SC,Paraná / PR
-171,Náutico / PE,Tupi / MG
-172,CRB / AL,Brasil / RS
-173,Paysandu / PA,Vila Nova / GO
-174,Red Bull Bragantino / SP,Bahia / BA
-175,Goiás / GO,Luverdense / MT
-176,Vasco da Gama / RJ,Criciúma / SC
-177,Atlético / GO,Sampaio Corrêa / MA
-178,Joinville / SC,Oeste / SP
-179,Paraná / PR,Ceará / CE
-180,Avaí / SC,Londrina / PR
-181,Ceará / CE,Vasco da Gama / RJ
-182,Bahia / BA,Atlético / GO
-183,Sampaio Corrêa / MA,Goiás / GO
-184,Oeste / SP,Náutico / PE
-185,Vila Nova / GO,Joinville / SC
-186,Luverdense / MT,CRB / AL
-187,Tupi / MG,Paraná / PR
-188,Brasil / RS,Avaí / SC
-189,Londrina / PR,Red Bull Bragantino / SP
-190,Criciúma / SC,Paysandu / PA
-191,Náutico / PE,Criciúma / SC
-192,CRB / AL,Londrina / PR
-193,Paysandu / PA,Ceará / CE
-194,Red Bull Bragantino / SP,Vila Nova / GO
-195,Goiás / GO,Tupi / MG
-196,Vasco da Gama / RJ,Sampaio Corrêa / MA
-197,Atlético / GO,Oeste / SP
-198,Joinville / SC,Luverdense / MT
-199,Paraná / PR,Brasil / RS
-200,Avaí / SC,Bahia / BA
-201,Ceará / CE,CRB / AL
-202,Bahia / BA,Paraná / PR
-203,Sampaio Corrêa / MA,Avaí / SC
-204,Oeste / SP,Paysandu / PA
-205,Vila Nova / GO,Náutico / PE
-206,Luverdense / MT,Red Bull Bragantino / SP
-207,Tupi / MG,Vasco da Gama / RJ
-208,Brasil / RS,Atlético / GO
-209,Londrina / PR,Goiás / GO
-210,Criciúma / SC,Joinville / SC
-211,Náutico / PE,Londrina / PR
-212,CRB / AL,Oeste / SP
-213,Paysandu / PA,Tupi / MG
-214,Red Bull Bragantino / SP,Brasil / RS
-215,Goiás / GO,Criciúma / SC
-216,Vasco da Gama / RJ,Vila Nova / GO
-217,Atlético / GO,Ceará / CE
-218,Joinville / SC,Bahia / BA
-219,Paraná / PR,Sampaio Corrêa / MA
-220,Avaí / SC,Luverdense / MT
-221,Ceará / CE,Avaí / SC
-222,Bahia / BA,Vasco da Gama / RJ
-223,Sampaio Corrêa / MA,Náutico / PE
-224,Oeste / SP,Paraná / PR
-225,Vila Nova / GO,Atlético / GO
-226,Luverdense / MT,Paysandu / PA
-227,Tupi / MG,Red Bull Bragantino / SP
-228,Brasil / RS,Goiás / GO
-229,Londrina / PR,Joinville / SC
-230,Criciúma / SC,CRB / AL
-231,Náutico / PE,Bahia / BA
-232,CRB / AL,Vila Nova / GO
-233,Paysandu / PA,Brasil / RS
-234,Red Bull Bragantino / SP,Sampaio Corrêa / MA
-235,Goiás / GO,Ceará / CE
-236,Vasco da Gama / RJ,Oeste / SP
-237,Atlético / GO,Luverdense / MT
-238,Joinville / SC,Tupi / MG
-239,Paraná / PR,Londrina / PR
-240,Avaí / SC,Criciúma / SC
-241,Ceará / CE,Sampaio Corrêa / MA
-242,CRB / AL,Avaí / SC
-243,Paysandu / PA,Bahia / BA
-244,Red Bull Bragantino / SP,Atlético / GO
-245,Goiás / GO,Vasco da Gama / RJ
-246,Luverdense / MT,Brasil / RS
-247,Tupi / MG,Londrina / PR
-248,Joinville / SC,Náutico / PE
-249,Paraná / PR,Vila Nova / GO
-250,Criciúma / SC,Oeste / SP
-251,Náutico / PE,Paysandu / PA
-252,Bahia / BA,Goiás / GO
-253,Sampaio Corrêa / MA,CRB / AL
-254,Oeste / SP,Tupi / MG
-255,Vila Nova / GO,Luverdense / MT
-256,Vasco da Gama / RJ,Joinville / SC
-257,Atlético / GO,Paraná / PR
-258,Brasil / RS,Criciúma / SC
-259,Londrina / PR,Ceará / CE
-260,Avaí / SC,Red Bull Bragantino / SP
-261,Ceará / CE,Luverdense / MT
-262,CRB / AL,Bahia / BA
-263,Paysandu / PA,Red Bull Bragantino / SP
-264,Oeste / SP,Goiás / GO
-265,Vila Nova / GO,Londrina / PR
-266,Vasco da Gama / RJ,Atlético / GO
-267,Tupi / MG,Brasil / RS
-268,Joinville / SC,Avaí / SC
-269,Paraná / PR,Náutico / PE
-270,Criciúma / SC,Sampaio Corrêa / MA
-271,Náutico / PE,Vasco da Gama / RJ
-272,Bahia / BA,Criciúma / SC
-273,Sampaio Corrêa / MA,Vila Nova / GO
-274,Red Bull Bragantino / SP,CRB / AL
-275,Goiás / GO,Paraná / PR
-276,Luverdense / MT,Tupi / MG
-277,Atlético / GO,Joinville / SC
-278,Brasil / RS,Ceará / CE
-279,Londrina / PR,Oeste / SP
-280,Avaí / SC,Paysandu / PA
-281,Ceará / CE,Joinville / SC
-282,CRB / AL,Atlético / GO
-283,Paysandu / PA,Vasco da Gama / RJ
-284,Red Bull Bragantino / SP,Náutico / PE
-285,Vila Nova / GO,Oeste / SP
-286,Luverdense / MT,Paraná / PR
-287,Tupi / MG,Criciúma / SC
-288,Brasil / RS,Sampaio Corrêa / MA
-289,Londrina / PR,Bahia / BA
-290,Avaí / SC,Goiás / GO
-291,Náutico / PE,Brasil / RS
-292,Bahia / BA,Tupi / MG
-293,Sampaio Corrêa / MA,Luverdense / MT
-294,Oeste / SP,Ceará / CE
-295,Goiás / GO,Red Bull Bragantino / SP
-296,Vasco da Gama / RJ,Londrina / PR
-297,Atlético / GO,Avaí / SC
-298,Joinville / SC,Paysandu / PA
-299,Paraná / PR,CRB / AL
-300,Criciúma / SC,Vila Nova / GO
-301,Náutico / PE,Ceará / CE
-302,Bahia / BA,Brasil / RS
-303,Sampaio Corrêa / MA,Oeste / SP
-304,Red Bull Bragantino / SP,Criciúma / SC
-305,Goiás / GO,Vila Nova / GO
-306,Vasco da Gama / RJ,CRB / AL
-307,Atlético / GO,Paysandu / PA
-308,Joinville / SC,Paraná / PR
-309,Londrina / PR,Luverdense / MT
-310,Avaí / SC,Tupi / MG
-311,Ceará / CE,Red Bull Bragantino / SP
-312,CRB / AL,Joinville / SC
-313,Paysandu / PA,Goiás / GO
-314,Oeste / SP,Bahia / BA
-315,Vila Nova / GO,Avaí / SC
-316,Luverdense / MT,Náutico / PE
-317,Tupi / MG,Sampaio Corrêa / MA
-318,Brasil / RS,Londrina / PR
-319,Paraná / PR,Vasco da Gama / RJ
-320,Criciúma / SC,Atlético / GO
-321,Náutico / PE,Atlético / GO
-322,Bahia / BA,Ceará / CE
-323,Paysandu / PA,Sampaio Corrêa / MA
-324,Oeste / SP,Luverdense / MT
-325,Goiás / GO,CRB / AL
-326,Vasco da Gama / RJ,Avaí / SC
-327,Tupi / MG,Vila Nova / GO
-328,Joinville / SC,Brasil / RS
-329,Paraná / PR,Red Bull Bragantino / SP
-330,Criciúma / SC,Londrina / PR
-331,Ceará / CE,Tupi / MG
-332,CRB / AL,Náutico / PE
-333,Sampaio Corrêa / MA,Joinville / SC
-334,Red Bull Bragantino / SP,Oeste / SP
-335,Vila Nova / GO,Bahia / BA
-336,Luverdense / MT,Criciúma / SC
-337,Atlético / GO,Goiás / GO
-338,Brasil / RS,Vasco da Gama / RJ
-339,Londrina / PR,Paysandu / PA
-340,Avaí / SC,Paraná / PR
-341,Náutico / PE,Goiás / GO
-342,Bahia / BA,Sampaio Corrêa / MA
-343,Paysandu / PA,Paraná / PR
-344,Oeste / SP,Avaí / SC
-345,Vila Nova / GO,Brasil / RS
-346,Vasco da Gama / RJ,Luverdense / MT
-347,Tupi / MG,CRB / AL
-348,Joinville / SC,Red Bull Bragantino / SP
-349,Londrina / PR,Atlético / GO
-350,Criciúma / SC,Ceará / CE
-351,Ceará / CE,Vila Nova / GO
-352,CRB / AL,Paysandu / PA
-353,Sampaio Corrêa / MA,Londrina / PR
-354,Red Bull Bragantino / SP,Vasco da Gama / RJ
-355,Goiás / GO,Joinville / SC
-356,Luverdense / MT,Bahia / BA
-357,Atlético / GO,Tupi / MG
-358,Brasil / RS,Oeste / SP
-359,Paraná / PR,Criciúma / SC
-360,Avaí / SC,Náutico / PE
-361,Ceará / CE,Paraná / PR
-362,Bahia / BA,Red Bull Bragantino / SP
-363,Sampaio Corrêa / MA,Atlético / GO
-364,Oeste / SP,Joinville / SC
-365,Vila Nova / GO,Paysandu / PA
-366,Luverdense / MT,Goiás / GO
-367,Tupi / MG,Náutico / PE
-368,Brasil / RS,CRB / AL
-369,Londrina / PR,Avaí / SC
-370,Criciúma / SC,Vasco da Gama / RJ
-371,Náutico / PE,Oeste / SP
-372,CRB / AL,Luverdense / MT
-373,Paysandu / PA,Criciúma / SC
-374,Red Bull Bragantino / SP,Londrina / PR
-375,Goiás / GO,Sampaio Corrêa / MA
-376,Vasco da Gama / RJ,Ceará / CE
-377,Atlético / GO,Bahia / BA
-378,Joinville / SC,Vila Nova / GO
-379,Paraná / PR,Tupi / MG
-380,Avaí / SC,Brasil / RS
+Game,Home,Away,Date,Time,Stadium
+001,Ceará / CE,Paysandu / PA,14/05/2016,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+002,Bahia / BA,Avaí / SC,14/05/2016,21:00,Octávio Mangabeira / Salvador
+003,Sampaio Corrêa / MA,Vasco da Gama / RJ,14/05/2016,16:00,Governador João Castelo / Sao Luis
+004,Oeste / SP,Atlético / GO,13/05/2016,20:30,Sílvio Salles / Catanduva
+005,Vila Nova / GO,Red Bull Bragantino / SP,13/05/2016,19:15,Serra Dourada / Goiânia
+006,Luverdense / MT,Joinville / SC,14/05/2016,21:00,Passo das Emas / Lucas do Rio Verde
+007,Tupi / MG,Goiás / GO,13/05/2016,21:30,Mário Helênio / Juiz de Fora
+008,Brasil / RS,Paraná / PR,14/05/2016,16:00,Bento da Silva Freitas / Pelotas
+009,Londrina / PR,CRB / AL,14/05/2016,16:00,Jacy Scaff / Londrina
+010,Criciúma / SC,Náutico / PE,14/05/2016,16:30,Heriberto Hulse / Criciuma
+011,Náutico / PE,Vila Nova / GO,17/05/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+012,CRB / AL,Ceará / CE,21/05/2016,16:30,Rei Pelé / Maceió
+013,Paysandu / PA,Oeste / SP,21/05/2016,16:00,Olímpico do Pará / Belém
+014,Red Bull Bragantino / SP,Luverdense / MT,17/05/2016,19:15,Nabi Abi Chedid / Bragança Paulista
+015,Goiás / GO,Londrina / PR,20/05/2016,20:30,Juscelino Kubitschek de Oliveira / Itumbiara
+016,Vasco da Gama / RJ,Tupi / MG,21/05/2016,16:00,São Januário / Rio de Janeiro
+017,Atlético / GO,Brasil / RS,20/05/2016,19:15,Serra Dourada / Goiânia
+018,Joinville / SC,Criciúma / SC,20/05/2016,21:30,Arena Joinville / Joinville
+019,Paraná / PR,Bahia / BA,21/05/2016,16:30,Durival Britto e Silva / Curitiba
+020,Avaí / SC,Sampaio Corrêa / MA,21/05/2016,16:00,Aderbal Ramos da Silva / Florianópolis
+021,Ceará / CE,Atlético / GO,24/05/2016,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+022,Bahia / BA,Joinville / SC,25/05/2016,19:30,Octávio Mangabeira / Salvador
+023,Sampaio Corrêa / MA,Paraná / PR,24/05/2016,19:15,Governador João Castelo / Sao Luis
+024,Oeste / SP,CRB / AL,24/05/2016,19:15,José Liberatti / Osasco
+025,Vila Nova / GO,Vasco da Gama / RJ,24/05/2016,21:30,Estádio Nacional Mané Garrincha / Brasilia
+026,Luverdense / MT,Avaí / SC,24/05/2016,21:30,Passo das Emas / Lucas do Rio Verde
+027,Tupi / MG,Paysandu / PA,24/05/2016,21:30,Mário Helênio / Juiz de Fora
+028,Brasil / RS,Red Bull Bragantino / SP,24/05/2016,19:15,Bento da Silva Freitas / Pelotas
+029,Londrina / PR,Náutico / PE,24/05/2016,19:15,Jacy Scaff / Londrina
+030,Criciúma / SC,Goiás / GO,24/05/2016,21:30,Heriberto Hulse / Criciuma
+031,Náutico / PE,Sampaio Corrêa / MA,27/05/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+032,CRB / AL,Criciúma / SC,27/05/2016,19:15,Rei Pelé / Maceió
+033,Paysandu / PA,Luverdense / MT,28/05/2016,21:00,Leônidas Sobré de Castro / Belem
+034,Red Bull Bragantino / SP,Tupi / MG,28/05/2016,21:00,Nabi Abi Chedid / Bragança Paulista
+035,Goiás / GO,Brasil / RS,27/05/2016,20:30,Juscelino Kubitschek de Oliveira / Itumbiara
+036,Vasco da Gama / RJ,Bahia / BA,28/05/2016,16:30,São Januário / Rio de Janeiro
+037,Atlético / GO,Vila Nova / GO,28/05/2016,16:00,Serra Dourada / Goiânia
+038,Joinville / SC,Londrina / PR,28/05/2016,16:00,Arena Joinville / Joinville
+039,Paraná / PR,Oeste / SP,27/05/2016,20:30,Durival Britto e Silva / Curitiba
+040,Avaí / SC,Ceará / CE,28/05/2016,16:00,Aderbal Ramos da Silva / Florianópolis
+041,Ceará / CE,Goiás / GO,31/05/2016,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+042,Bahia / BA,Náutico / PE,31/05/2016,19:15,Octávio Mangabeira / Salvador
+043,Sampaio Corrêa / MA,Red Bull Bragantino / SP,31/05/2016,19:15,Governador João Castelo / Sao Luis
+044,Oeste / SP,Vasco da Gama / RJ,31/05/2016,21:30,Arena Barueri / Barueri
+045,Vila Nova / GO,CRB / AL,31/05/2016,19:15,Serra Dourada / Goiânia
+046,Luverdense / MT,Atlético / GO,31/05/2016,21:30,Passo das Emas / Lucas do Rio Verde
+047,Tupi / MG,Joinville / SC,31/05/2016,21:30,Mário Helênio / Juiz de Fora
+048,Brasil / RS,Paysandu / PA,31/05/2016,19:15,Bento da Silva Freitas / Pelotas
+049,Londrina / PR,Paraná / PR,31/05/2016,19:15,Jacy Scaff / Londrina
+050,Criciúma / SC,Avaí / SC,31/05/2016,19:15,Heriberto Hulse / Criciuma
+051,Náutico / PE,Joinville / SC,03/06/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+052,Bahia / BA,Paysandu / PA,03/06/2016,19:15,Octávio Mangabeira / Salvador
+053,Sampaio Corrêa / MA,Ceará / CE,04/06/2016,16:00,Governador João Castelo / Sao Luis
+054,Oeste / SP,Criciúma / SC,04/06/2016,16:00,José Liberatti / Osasco
+055,Vila Nova / GO,Paraná / PR,03/06/2016,20:30,Serra Dourada / Goiânia
+056,Vasco da Gama / RJ,Goiás / GO,04/06/2016,16:30,São Januário / Rio de Janeiro
+057,Atlético / GO,Red Bull Bragantino / SP,04/06/2016,21:00,Serra Dourada / Goiânia
+058,Brasil / RS,Luverdense / MT,03/06/2016,20:30,Bento da Silva Freitas / Pelotas
+059,Londrina / PR,Tupi / MG,04/06/2016,16:00,Jacy Scaff / Londrina
+060,Avaí / SC,CRB / AL,04/06/2016,21:00,Aderbal Ramos da Silva / Florianópolis
+061,Ceará / CE,Londrina / PR,07/06/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+062,CRB / AL,Sampaio Corrêa / MA,07/06/2016,19:15,Rei Pelé / Maceió
+063,Paysandu / PA,Náutico / PE,07/06/2016,19:15,Leônidas Sobré de Castro / Belem
+064,Red Bull Bragantino / SP,Avaí / SC,07/06/2016,19:15,Nabi Abi Chedid / Bragança Paulista
+065,Goiás / GO,Bahia / BA,07/06/2016,21:30,Serra Dourada / Goiânia
+066,Luverdense / MT,Vila Nova / GO,07/06/2016,21:30,Passo das Emas / Lucas do Rio Verde
+067,Tupi / MG,Oeste / SP,07/06/2016,19:15,Mário Helênio / Juiz de Fora
+068,Joinville / SC,Vasco da Gama / RJ,07/06/2016,21:30,Arena Joinville / Joinville
+069,Paraná / PR,Atlético / GO,07/06/2016,19:15,Durival Britto e Silva / Curitiba
+070,Criciúma / SC,Brasil / RS,07/06/2016,19:15,Heriberto Hulse / Criciuma
+071,Náutico / PE,Paraná / PR,11/06/2016,16:00,Arena Pernambuco / São Lourenço da Mata
+072,Bahia / BA,CRB / AL,10/06/2016,19:15,Roberto Santos  / Salvador
+073,Sampaio Corrêa / MA,Criciúma / SC,10/06/2016,20:30,Governador João Castelo / Sao Luis
+074,Red Bull Bragantino / SP,Paysandu / PA,11/06/2016,21:00,Nabi Abi Chedid / Bragança Paulista
+075,Goiás / GO,Oeste / SP,10/06/2016,20:30,Serra Dourada / Goiânia
+076,Luverdense / MT,Ceará / CE,11/06/2016,21:00,Passo das Emas / Lucas do Rio Verde
+077,Atlético / GO,Vasco da Gama / RJ,11/06/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
+078,Brasil / RS,Tupi / MG,11/06/2016,16:00,Bento da Silva Freitas / Pelotas
+079,Londrina / PR,Vila Nova / GO,11/06/2016,16:00,Jacy Scaff / Londrina
+080,Avaí / SC,Joinville / SC,11/06/2016,16:00,Aderbal Ramos da Silva / Florianópolis
+081,Ceará / CE,Brasil / RS,14/06/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+082,CRB / AL,Red Bull Bragantino / SP,14/06/2016,21:30,Rei Pelé / Maceió
+083,Paysandu / PA,Avaí / SC,14/06/2016,21:30,Leônidas Sobré de Castro / Belem
+084,Oeste / SP,Londrina / PR,14/06/2016,19:15,Arena Barueri / Barueri
+085,Vila Nova / GO,Sampaio Corrêa / MA,14/06/2016,19:15,Serra Dourada / Goiânia
+086,Vasco da Gama / RJ,Náutico / PE,14/06/2016,19:15,São Januário / Rio de Janeiro
+087,Tupi / MG,Luverdense / MT,14/06/2016,19:15,Mário Helênio / Juiz de Fora
+088,Joinville / SC,Atlético / GO,14/06/2016,19:15,Arena Joinville / Joinville
+089,Paraná / PR,Goiás / GO,14/06/2016,19:15,Durival Britto e Silva / Curitiba
+090,Criciúma / SC,Bahia / BA,14/06/2016,19:15,Heriberto Hulse / Criciuma
+091,Náutico / PE,Red Bull Bragantino / SP,18/06/2016,16:00,José do Rego Maciel / Recife
+092,Bahia / BA,Londrina / PR,18/06/2016,16:00,Octávio Mangabeira / Salvador
+093,Sampaio Corrêa / MA,Brasil / RS,17/06/2016,21:00,Governador João Castelo / Sao Luis
+094,Oeste / SP,Vila Nova / GO,18/06/2016,21:00,Arena Barueri / Barueri
+095,Goiás / GO,Avaí / SC,17/06/2016,21:30,Serra Dourada / Goiânia
+096,Vasco da Gama / RJ,Paysandu / PA,18/06/2016,16:30,São Januário / Rio de Janeiro
+097,Atlético / GO,CRB / AL,18/06/2016,16:00,Serra Dourada / Goiânia
+098,Joinville / SC,Ceará / CE,17/06/2016,19:15,Arena Joinville / Joinville
+099,Paraná / PR,Luverdense / MT,17/06/2016,21:00,Durival Britto e Silva / Curitiba
+100,Criciúma / SC,Tupi / MG,18/06/2016,16:00,Heriberto Hulse / Criciuma
+101,Ceará / CE,Oeste / SP,21/06/2016,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+102,CRB / AL,Paraná / PR,21/06/2016,19:15,Rei Pelé / Maceió
+103,Paysandu / PA,Joinville / SC,21/06/2016,19:15,Leônidas Sobré de Castro / Belem
+104,Red Bull Bragantino / SP,Goiás / GO,21/06/2016,21:30,Nabi Abi Chedid / Bragança Paulista
+105,Vila Nova / GO,Criciúma / SC,21/06/2016,21:30,Serra Dourada / Goiânia
+106,Luverdense / MT,Sampaio Corrêa / MA,21/06/2016,21:30,Passo das Emas / Lucas do Rio Verde
+107,Tupi / MG,Bahia / BA,21/06/2016,19:15,Mário Helênio / Juiz de Fora
+108,Brasil / RS,Náutico / PE,21/06/2016,21:30,Francisco Stédile / Caxias do Sul
+109,Londrina / PR,Vasco da Gama / RJ,21/06/2016,19:15,Jacy Scaff / Londrina
+110,Avaí / SC,Atlético / GO,21/06/2016,19:15,Aderbal Ramos da Silva / Florianópolis
+111,Ceará / CE,Náutico / PE,25/06/2016,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
+112,CRB / AL,Vasco da Gama / RJ,25/06/2016,16:30,Rei Pelé / Maceió
+113,Paysandu / PA,Atlético / GO,24/06/2016,19:15,Leônidas Sobré de Castro / Belem
+114,Oeste / SP,Sampaio Corrêa / MA,25/06/2016,21:00,Arena Barueri / Barueri
+115,Vila Nova / GO,Goiás / GO,25/06/2016,16:00,Serra Dourada / Goiânia
+116,Luverdense / MT,Londrina / PR,24/06/2016,21:30,Passo das Emas / Lucas do Rio Verde
+117,Tupi / MG,Avaí / SC,25/06/2016,21:00,Mário Helênio / Juiz de Fora
+118,Brasil / RS,Bahia / BA,24/06/2016,21:30,Francisco Stédile / Caxias do Sul
+119,Paraná / PR,Joinville / SC,25/06/2016,16:00,Durival Britto e Silva / Curitiba
+120,Criciúma / SC,Red Bull Bragantino / SP,24/06/2016,19:15,Heriberto Hulse / Criciuma
+121,Náutico / PE,Luverdense / MT,28/06/2016,20:30,Arena Pernambuco / São Lourenço da Mata
+122,Bahia / BA,Oeste / SP,28/06/2016,19:15,Octávio Mangabeira / Salvador
+123,Sampaio Corrêa / MA,Tupi / MG,28/06/2016,20:30,Governador João Castelo / Sao Luis
+124,Red Bull Bragantino / SP,Ceará / CE,28/06/2016,21:30,Nabi Abi Chedid / Bragança Paulista
+125,Goiás / GO,Paysandu / PA,28/06/2016,21:30,Serra Dourada / Goiânia
+126,Vasco da Gama / RJ,Paraná / PR,28/06/2016,20:30,São Januário / Rio de Janeiro
+127,Atlético / GO,Criciúma / SC,27/06/2016,20:00,Serra Dourada / Goiânia
+128,Joinville / SC,CRB / AL,28/06/2016,19:15,Arena Joinville / Joinville
+129,Londrina / PR,Brasil / RS,28/06/2016,19:15,Jacy Scaff / Londrina
+130,Avaí / SC,Vila Nova / GO,28/06/2016,19:15,Aderbal Ramos da Silva / Florianópolis
+131,Ceará / CE,Bahia / BA,02/07/2016,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+132,CRB / AL,Goiás / GO,02/07/2016,21:00,Rei Pelé / Maceió
+133,Sampaio Corrêa / MA,Paysandu / PA,01/07/2016,19:15,Governador João Castelo / Sao Luis
+134,Red Bull Bragantino / SP,Paraná / PR,02/07/2016,16:00,Nabi Abi Chedid / Bragança Paulista
+135,Vila Nova / GO,Tupi / MG,01/07/2016,20:30,Serra Dourada / Goiânia
+136,Luverdense / MT,Oeste / SP,02/07/2016,16:00,Passo das Emas / Lucas do Rio Verde
+137,Atlético / GO,Náutico / PE,02/07/2016,16:00,Serra Dourada / Goiânia
+138,Brasil / RS,Joinville / SC,02/07/2016,16:00,Francisco Stédile / Caxias do Sul
+139,Londrina / PR,Criciúma / SC,01/07/2016,21:30,Jacy Scaff / Londrina
+140,Avaí / SC,Vasco da Gama / RJ,02/07/2016,16:30,Aderbal Ramos da Silva / Florianópolis
+141,Náutico / PE,CRB / AL,09/07/2016,16:00,Arena Pernambuco / São Lourenço da Mata
+142,Bahia / BA,Vila Nova / GO,05/07/2016,21:30,Octávio Mangabeira / Salvador
+143,Paysandu / PA,Londrina / PR,09/07/2016,21:00,Leônidas Sobré de Castro / Belem
+144,Oeste / SP,Red Bull Bragantino / SP,09/07/2016,16:00,José Liberatti / Osasco
+145,Goiás / GO,Atlético / GO,09/07/2016,16:00,Serra Dourada / Goiânia
+146,Vasco da Gama / RJ,Brasil / RS,09/07/2016,18:30,São Januário / Rio de Janeiro
+147,Tupi / MG,Ceará / CE,08/07/2016,21:30,Mário Helênio / Juiz de Fora
+148,Joinville / SC,Sampaio Corrêa / MA,09/07/2016,16:00,Arena Joinville / Joinville
+149,Paraná / PR,Avaí / SC,05/07/2016,19:15,Durival Britto e Silva / Curitiba
+150,Criciúma / SC,Luverdense / MT,08/07/2016,19:15,Heriberto Hulse / Criciuma
+151,Ceará / CE,Criciúma / SC,16/07/2016,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+152,CRB / AL,Tupi / MG,14/07/2016,21:00,Rei Pelé / Maceió
+153,Sampaio Corrêa / MA,Bahia / BA,15/07/2016,21:30,Governador João Castelo / Sao Luis
+154,Red Bull Bragantino / SP,Joinville / SC,16/07/2016,21:00,Nabi Abi Chedid / Bragança Paulista
+155,Goiás / GO,Náutico / PE,16/07/2016,16:30,Serra Dourada / Goiânia
+156,Luverdense / MT,Vasco da Gama / RJ,16/07/2016,18:30,Passo das Emas / Lucas do Rio Verde
+157,Atlético / GO,Londrina / PR,12/07/2016,19:15,Serra Dourada / Goiânia
+158,Brasil / RS,Vila Nova / GO,16/07/2016,16:00,Bento da Silva Freitas / Pelotas
+159,Paraná / PR,Paysandu / PA,12/07/2016,21:30,Durival Britto e Silva / Curitiba
+160,Avaí / SC,Oeste / SP,15/07/2016,19:15,Aderbal Ramos da Silva / Florianópolis
+161,Náutico / PE,Avaí / SC,22/07/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+162,Bahia / BA,Luverdense / MT,23/07/2016,18:30,Octávio Mangabeira / Salvador
+163,Paysandu / PA,CRB / AL,23/07/2016,21:00,Leônidas Sobré de Castro / Belem
+164,Oeste / SP,Brasil / RS,19/07/2016,19:15,Arena Barueri / Barueri
+165,Vila Nova / GO,Ceará / CE,23/07/2016,16:00,Onésio Brasileiro Alvarenga / Goiania
+166,Vasco da Gama / RJ,Red Bull Bragantino / SP,23/07/2016,16:30,São Januário / Rio de Janeiro
+167,Tupi / MG,Atlético / GO,23/07/2016,16:00,Mário Helênio / Juiz de Fora
+168,Joinville / SC,Goiás / GO,19/07/2016,21:00,Arena Joinville / Joinville
+169,Londrina / PR,Sampaio Corrêa / MA,23/07/2016,21:00,Jacy Scaff / Londrina
+170,Criciúma / SC,Paraná / PR,22/07/2016,19:15,Heriberto Hulse / Criciuma
+171,Náutico / PE,Tupi / MG,29/07/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+172,CRB / AL,Brasil / RS,29/07/2016,19:15,Rei Pelé / Maceió
+173,Paysandu / PA,Vila Nova / GO,30/07/2016,18:30,Leônidas Sobré de Castro / Belem
+174,Red Bull Bragantino / SP,Bahia / BA,30/07/2016,16:30,Nabi Abi Chedid / Bragança Paulista
+175,Goiás / GO,Luverdense / MT,26/07/2016,19:15,Serra Dourada / Goiânia
+176,Vasco da Gama / RJ,Criciúma / SC,30/07/2016,21:00,São Januário / Rio de Janeiro
+177,Atlético / GO,Sampaio Corrêa / MA,31/07/2016,16:00,Serra Dourada / Goiânia
+178,Joinville / SC,Oeste / SP,30/07/2016,16:00,Arena Joinville / Joinville
+179,Paraná / PR,Ceará / CE,30/07/2016,19:00,Durival Britto e Silva / Curitiba
+180,Avaí / SC,Londrina / PR,26/07/2016,21:30,Aderbal Ramos da Silva / Florianópolis
+181,Ceará / CE,Vasco da Gama / RJ,02/08/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+182,Bahia / BA,Atlético / GO,16/08/2016,20:30,Octávio Mangabeira / Salvador
+183,Sampaio Corrêa / MA,Goiás / GO,16/08/2016,20:30,Governador João Castelo / Sao Luis
+184,Oeste / SP,Náutico / PE,02/08/2016,21:30,Arena Barueri / Barueri
+185,Vila Nova / GO,Joinville / SC,02/08/2016,19:15,Onésio Brasileiro Alvarenga / Goiania
+186,Luverdense / MT,CRB / AL,02/08/2016,21:30,Passo das Emas / Lucas do Rio Verde
+187,Tupi / MG,Paraná / PR,02/08/2016,21:30,Mário Helênio / Juiz de Fora
+188,Brasil / RS,Avaí / SC,02/08/2016,19:15,Bento da Silva Freitas / Pelotas
+189,Londrina / PR,Red Bull Bragantino / SP,02/08/2016,19:15,Jacy Scaff / Londrina
+190,Criciúma / SC,Paysandu / PA,02/08/2016,19:15,Heriberto Hulse / Criciuma
+191,Náutico / PE,Criciúma / SC,20/08/2016,16:00,Arena Pernambuco / São Lourenço da Mata
+192,CRB / AL,Londrina / PR,20/08/2016,16:00,Rei Pelé / Maceió
+193,Paysandu / PA,Ceará / CE,20/08/2016,21:00,Leônidas Sobré de Castro / Belem
+194,Red Bull Bragantino / SP,Vila Nova / GO,19/08/2016,20:30,Nabi Abi Chedid / Bragança Paulista
+195,Goiás / GO,Tupi / MG,20/08/2016,21:00,Serra Dourada / Goiânia
+196,Vasco da Gama / RJ,Sampaio Corrêa / MA,20/08/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
+197,Atlético / GO,Oeste / SP,19/08/2016,19:15,Serra Dourada / Goiânia
+198,Joinville / SC,Luverdense / MT,19/08/2016,20:30,Arena Joinville / Joinville
+199,Paraná / PR,Brasil / RS,19/08/2016,20:30,Durival Britto e Silva / Curitiba
+200,Avaí / SC,Bahia / BA,20/08/2016,19:30,Aderbal Ramos da Silva / Florianópolis
+201,Ceará / CE,CRB / AL,26/08/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+202,Bahia / BA,Paraná / PR,27/08/2016,18:30,Octávio Mangabeira / Salvador
+203,Sampaio Corrêa / MA,Avaí / SC,23/08/2016,19:15,Governador João Castelo / Sao Luis
+204,Oeste / SP,Paysandu / PA,27/08/2016,16:00,Arena Barueri / Barueri
+205,Vila Nova / GO,Náutico / PE,27/08/2016,16:20,Onésio Brasileiro Alvarenga / Goiania
+206,Luverdense / MT,Red Bull Bragantino / SP,27/08/2016,21:00,Passo das Emas / Lucas do Rio Verde
+207,Tupi / MG,Vasco da Gama / RJ,27/08/2016,16:30,Mário Helênio / Juiz de Fora
+208,Brasil / RS,Atlético / GO,23/08/2016,20:30,Bento da Silva Freitas / Pelotas
+209,Londrina / PR,Goiás / GO,23/08/2016,21:30,Jacy Scaff / Londrina
+210,Criciúma / SC,Joinville / SC,26/08/2016,20:30,Heriberto Hulse / Criciuma
+211,Náutico / PE,Londrina / PR,30/08/2016,20:30,Arena Pernambuco / São Lourenço da Mata
+212,CRB / AL,Oeste / SP,30/08/2016,20:30,Rei Pelé / Maceió
+213,Paysandu / PA,Tupi / MG,30/08/2016,19:15,Leônidas Sobré de Castro / Belem
+214,Red Bull Bragantino / SP,Brasil / RS,30/08/2016,21:30,Nabi Abi Chedid / Bragança Paulista
+215,Goiás / GO,Criciúma / SC,30/08/2016,21:30,Serra Dourada / Goiânia
+216,Vasco da Gama / RJ,Vila Nova / GO,30/08/2016,20:30,São Januário / Rio de Janeiro
+217,Atlético / GO,Ceará / CE,29/08/2016,20:00,Serra Dourada / Goiânia
+218,Joinville / SC,Bahia / BA,30/08/2016,19:15,Arena Joinville / Joinville
+219,Paraná / PR,Sampaio Corrêa / MA,30/08/2016,19:15,Durival Britto e Silva / Curitiba
+220,Avaí / SC,Luverdense / MT,30/08/2016,19:15,Aderbal Ramos da Silva / Florianópolis
+221,Ceará / CE,Avaí / SC,04/09/2016,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+222,Bahia / BA,Vasco da Gama / RJ,03/09/2016,16:30,Octávio Mangabeira / Salvador
+223,Sampaio Corrêa / MA,Náutico / PE,03/09/2016,21:00,Governador João Castelo / Sao Luis
+224,Oeste / SP,Paraná / PR,03/09/2016,16:00,José Liberatti / Osasco
+225,Vila Nova / GO,Atlético / GO,03/09/2016,16:00,Serra Dourada / Goiânia
+226,Luverdense / MT,Paysandu / PA,02/09/2016,21:30,Passo das Emas / Lucas do Rio Verde
+227,Tupi / MG,Red Bull Bragantino / SP,03/09/2016,16:00,Mário Helênio / Juiz de Fora
+228,Brasil / RS,Goiás / GO,02/09/2016,19:15,Bento da Silva Freitas / Pelotas
+229,Londrina / PR,Joinville / SC,03/09/2016,18:30,Jacy Scaff / Londrina
+230,Criciúma / SC,CRB / AL,03/09/2016,21:00,Heriberto Hulse / Criciuma
+231,Náutico / PE,Bahia / BA,10/09/2016,16:30,Arena Pernambuco / São Lourenço da Mata
+232,CRB / AL,Vila Nova / GO,10/09/2016,21:00,Rei Pelé / Maceió
+233,Paysandu / PA,Brasil / RS,09/09/2016,21:30,Olímpico do Pará / Belém
+234,Red Bull Bragantino / SP,Sampaio Corrêa / MA,06/09/2016,19:30,Nabi Abi Chedid / Bragança Paulista
+235,Goiás / GO,Ceará / CE,10/09/2016,18:30,Serra Dourada / Goiânia
+236,Vasco da Gama / RJ,Oeste / SP,10/09/2016,16:30,São Januário / Rio de Janeiro
+237,Atlético / GO,Luverdense / MT,06/09/2016,19:30,Serra Dourada / Goiânia
+238,Joinville / SC,Tupi / MG,09/09/2016,19:15,Arena Joinville / Joinville
+239,Paraná / PR,Londrina / PR,10/09/2016,16:00,Durival Britto e Silva / Curitiba
+240,Avaí / SC,Criciúma / SC,10/09/2016,16:00,Aderbal Ramos da Silva / Florianópolis
+241,Ceará / CE,Sampaio Corrêa / MA,13/09/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+242,CRB / AL,Avaí / SC,13/09/2016,19:15,Rei Pelé / Maceió
+243,Paysandu / PA,Bahia / BA,13/09/2016,19:15,Olímpico do Pará / Belém
+244,Red Bull Bragantino / SP,Atlético / GO,13/09/2016,20:30,Nabi Abi Chedid / Bragança Paulista
+245,Goiás / GO,Vasco da Gama / RJ,13/09/2016,21:30,Serra Dourada / Goiânia
+246,Luverdense / MT,Brasil / RS,13/09/2016,21:30,Passo das Emas / Lucas do Rio Verde
+247,Tupi / MG,Londrina / PR,13/09/2016,19:15,Mário Helênio / Juiz de Fora
+248,Joinville / SC,Náutico / PE,13/09/2016,19:15,Arena Joinville / Joinville
+249,Paraná / PR,Vila Nova / GO,13/09/2016,19:15,Durival Britto e Silva / Curitiba
+250,Criciúma / SC,Oeste / SP,13/09/2016,20:30,Heriberto Hulse / Criciuma
+251,Náutico / PE,Paysandu / PA,17/09/2016,16:30,Arena Pernambuco / São Lourenço da Mata
+252,Bahia / BA,Goiás / GO,17/09/2016,18:30,Octávio Mangabeira / Salvador
+253,Sampaio Corrêa / MA,CRB / AL,17/09/2016,16:00,Governador João Castelo / Sao Luis
+254,Oeste / SP,Tupi / MG,17/09/2016,21:00,José Liberatti / Osasco
+255,Vila Nova / GO,Luverdense / MT,16/09/2016,20:30,Serra Dourada / Goiânia
+256,Vasco da Gama / RJ,Joinville / SC,16/09/2016,21:30,São Januário / Rio de Janeiro
+257,Atlético / GO,Paraná / PR,17/09/2016,16:00,Serra Dourada / Goiânia
+258,Brasil / RS,Criciúma / SC,16/09/2016,19:15,Bento da Silva Freitas / Pelotas
+259,Londrina / PR,Ceará / CE,17/09/2016,16:30,Jacy Scaff / Londrina
+260,Avaí / SC,Red Bull Bragantino / SP,17/09/2016,16:00,Aderbal Ramos da Silva / Florianópolis
+261,Ceará / CE,Luverdense / MT,20/09/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+262,CRB / AL,Bahia / BA,24/09/2016,16:20,Rei Pelé / Maceió
+263,Paysandu / PA,Red Bull Bragantino / SP,26/09/2016,20:00,Olímpico do Pará / Belém
+264,Oeste / SP,Goiás / GO,23/09/2016,21:30,Arena Barueri / Barueri
+265,Vila Nova / GO,Londrina / PR,24/09/2016,16:30,Serra Dourada / Goiânia
+266,Vasco da Gama / RJ,Atlético / GO,24/09/2016,16:30,São Januário / Rio de Janeiro
+267,Tupi / MG,Brasil / RS,24/09/2016,18:30,Mário Helênio / Juiz de Fora
+268,Joinville / SC,Avaí / SC,23/09/2016,20:30,Arena Joinville / Joinville
+269,Paraná / PR,Náutico / PE,24/09/2016,16:20,Durival Britto e Silva / Curitiba
+270,Criciúma / SC,Sampaio Corrêa / MA,23/09/2016,19:15,Heriberto Hulse / Criciuma
+271,Náutico / PE,Vasco da Gama / RJ,01/10/2016,16:30,Arena Pernambuco / São Lourenço da Mata
+272,Bahia / BA,Criciúma / SC,30/09/2016,19:15,Octávio Mangabeira / Salvador
+273,Sampaio Corrêa / MA,Vila Nova / GO,25/10/2016,20:30,Governador João Castelo / Sao Luis
+274,Red Bull Bragantino / SP,CRB / AL,01/10/2016,16:00,Nabi Abi Chedid / Bragança Paulista
+275,Goiás / GO,Paraná / PR,29/09/2016,21:00,Serra Dourada / Goiânia
+276,Luverdense / MT,Tupi / MG,30/09/2016,20:30,Passo das Emas / Lucas do Rio Verde
+277,Atlético / GO,Joinville / SC,27/09/2016,19:15,Olímpico Pedro Ludovico / 
+278,Brasil / RS,Ceará / CE,27/09/2016,21:00,Bento da Silva Freitas / Pelotas
+279,Londrina / PR,Oeste / SP,01/10/2016,18:30,Jacy Scaff / Londrina
+280,Avaí / SC,Paysandu / PA,30/09/2016,21:30,Aderbal Ramos da Silva / Florianópolis
+281,Ceará / CE,Joinville / SC,04/10/2016,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+282,CRB / AL,Atlético / GO,04/10/2016,20:30,Rei Pelé / Maceió
+283,Paysandu / PA,Vasco da Gama / RJ,04/10/2016,21:30,Olímpico do Pará / Belém
+284,Red Bull Bragantino / SP,Náutico / PE,04/10/2016,19:15,Nabi Abi Chedid / Bragança Paulista
+285,Vila Nova / GO,Oeste / SP,04/10/2016,20:30,Olímpico Pedro Ludovico / 
+286,Luverdense / MT,Paraná / PR,04/10/2016,21:30,Passo das Emas / Lucas do Rio Verde
+287,Tupi / MG,Criciúma / SC,04/10/2016,19:15,Mário Helênio / Juiz de Fora
+288,Brasil / RS,Sampaio Corrêa / MA,04/10/2016,21:30,Bento da Silva Freitas / Pelotas
+289,Londrina / PR,Bahia / BA,04/10/2016,19:15,Jacy Scaff / Londrina
+290,Avaí / SC,Goiás / GO,04/10/2016,21:30,Aderbal Ramos da Silva / Florianópolis
+291,Náutico / PE,Brasil / RS,07/10/2016,21:00,Arena Pernambuco / São Lourenço da Mata
+292,Bahia / BA,Tupi / MG,09/10/2016,19:30,Octávio Mangabeira / Salvador
+293,Sampaio Corrêa / MA,Luverdense / MT,08/10/2016,16:00,Governador João Castelo / Sao Luis
+294,Oeste / SP,Ceará / CE,08/10/2016,16:30,Arena Barueri / Barueri
+295,Goiás / GO,Red Bull Bragantino / SP,07/10/2016,20:30,Serra Dourada / Goiânia
+296,Vasco da Gama / RJ,Londrina / PR,08/10/2016,18:30,Arena da Amazônia / Manaus
+297,Atlético / GO,Avaí / SC,08/10/2016,16:00,Olímpico Pedro Ludovico / 
+298,Joinville / SC,Paysandu / PA,08/10/2016,16:00,Arena Joinville / Joinville
+299,Paraná / PR,CRB / AL,08/10/2016,21:00,Durival Britto e Silva / Curitiba
+300,Criciúma / SC,Vila Nova / GO,07/10/2016,20:30,Heriberto Hulse / Criciuma
+301,Náutico / PE,Ceará / CE,15/10/2016,18:30,Arena Pernambuco / São Lourenço da Mata
+302,Bahia / BA,Brasil / RS,14/10/2016,21:30,Octávio Mangabeira / Salvador
+303,Sampaio Corrêa / MA,Oeste / SP,11/10/2016,19:15,Governador João Castelo / Sao Luis
+304,Red Bull Bragantino / SP,Criciúma / SC,10/10/2016,20:00,Nabi Abi Chedid / Bragança Paulista
+305,Goiás / GO,Vila Nova / GO,15/10/2016,16:00,Serra Dourada / Goiânia
+306,Vasco da Gama / RJ,CRB / AL,15/10/2016,16:30,São Januário / Rio de Janeiro
+307,Atlético / GO,Paysandu / PA,14/10/2016,20:30,Olímpico Pedro Ludovico / 
+308,Joinville / SC,Paraná / PR,15/10/2016,16:00,Arena Joinville / Joinville
+309,Londrina / PR,Luverdense / MT,15/10/2016,18:30,Jacy Scaff / Londrina
+310,Avaí / SC,Tupi / MG,15/10/2016,16:00,Aderbal Ramos da Silva / Florianópolis
+311,Ceará / CE,Red Bull Bragantino / SP,21/10/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+312,CRB / AL,Joinville / SC,22/10/2016,21:00,Rei Pelé / Maceió
+313,Paysandu / PA,Goiás / GO,22/10/2016,17:00,Olímpico do Pará / Belém
+314,Oeste / SP,Bahia / BA,22/10/2016,16:20,Arena Barueri / Barueri
+315,Vila Nova / GO,Avaí / SC,18/10/2016,19:15,Serra Dourada / Goiânia
+316,Luverdense / MT,Náutico / PE,21/10/2016,21:30,Passo das Emas / Lucas do Rio Verde
+317,Tupi / MG,Sampaio Corrêa / MA,22/10/2016,17:00,Mário Helênio / Juiz de Fora
+318,Brasil / RS,Londrina / PR,18/10/2016,21:30,Bento da Silva Freitas / Pelotas
+319,Paraná / PR,Vasco da Gama / RJ,22/10/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
+320,Criciúma / SC,Atlético / GO,22/10/2016,19:30,Heriberto Hulse / Criciuma
+321,Náutico / PE,Atlético / GO,28/10/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+322,Bahia / BA,Ceará / CE,29/10/2016,17:00,Octávio Mangabeira / Salvador
+323,Paysandu / PA,Sampaio Corrêa / MA,29/10/2016,17:00,Olímpico do Pará / Belém
+324,Oeste / SP,Luverdense / MT,25/10/2016,19:15,Arena Barueri / Barueri
+325,Goiás / GO,CRB / AL,25/10/2016,21:30,Serra Dourada / Goiânia
+326,Vasco da Gama / RJ,Avaí / SC,26/10/2016,21:45,São Januário / Rio de Janeiro
+327,Tupi / MG,Vila Nova / GO,29/10/2016,17:00,Mário Helênio / Juiz de Fora
+328,Joinville / SC,Brasil / RS,28/10/2016,21:30,Arena Joinville / Joinville
+329,Paraná / PR,Red Bull Bragantino / SP,28/10/2016,20:30,Durival Britto e Silva / Curitiba
+330,Criciúma / SC,Londrina / PR,28/10/2016,19:15,Heriberto Hulse / Criciuma
+331,Ceará / CE,Tupi / MG,05/11/2016,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+332,CRB / AL,Náutico / PE,05/11/2016,17:30,Rei Pelé / Maceió
+333,Sampaio Corrêa / MA,Joinville / SC,05/11/2016,17:00,Governador João Castelo / Sao Luis
+334,Red Bull Bragantino / SP,Oeste / SP,05/11/2016,21:00,Nabi Abi Chedid / Bragança Paulista
+335,Vila Nova / GO,Bahia / BA,04/11/2016,21:30,Serra Dourada / Goiânia
+336,Luverdense / MT,Criciúma / SC,01/11/2016,21:30,Passo das Emas / Lucas do Rio Verde
+337,Atlético / GO,Goiás / GO,05/11/2016,17:00,Serra Dourada / Goiânia
+338,Brasil / RS,Vasco da Gama / RJ,05/11/2016,16:30,Bento da Silva Freitas / Pelotas
+339,Londrina / PR,Paysandu / PA,01/11/2016,19:15,Jacy Scaff / Londrina
+340,Avaí / SC,Paraná / PR,05/11/2016,19:30,Aderbal Ramos da Silva / Florianópolis
+341,Náutico / PE,Goiás / GO,08/11/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+342,Bahia / BA,Sampaio Corrêa / MA,08/11/2016,21:30,Octávio Mangabeira / Salvador
+343,Paysandu / PA,Paraná / PR,08/11/2016,21:30,Leônidas Sobré de Castro / Belem
+344,Oeste / SP,Avaí / SC,08/11/2016,19:15,Arena Barueri / Barueri
+345,Vila Nova / GO,Brasil / RS,08/11/2016,20:30,Onésio Brasileiro Alvarenga / Goiania
+346,Vasco da Gama / RJ,Luverdense / MT,08/11/2016,21:30,São Januário / Rio de Janeiro
+347,Tupi / MG,CRB / AL,08/11/2016,19:15,Mário Helênio / Juiz de Fora
+348,Joinville / SC,Red Bull Bragantino / SP,08/11/2016,21:30,Arena Joinville / Joinville
+349,Londrina / PR,Atlético / GO,08/11/2016,21:30,Jacy Scaff / Londrina
+350,Criciúma / SC,Ceará / CE,08/11/2016,19:15,Heriberto Hulse / Criciuma
+351,Ceará / CE,Vila Nova / GO,12/11/2016,17:30,Governador Plácido Aderaldo Castelo / Fortaleza
+352,CRB / AL,Paysandu / PA,11/11/2016,20:30,Rei Pelé / Maceió
+353,Sampaio Corrêa / MA,Londrina / PR,12/11/2016,17:30,Governador João Castelo / Sao Luis
+354,Red Bull Bragantino / SP,Vasco da Gama / RJ,12/11/2016,16:30,Nabi Abi Chedid / Bragança Paulista
+355,Goiás / GO,Joinville / SC,11/11/2016,20:30,Olímpico Pedro Ludovico / 
+356,Luverdense / MT,Bahia / BA,12/11/2016,19:30,Passo das Emas / Lucas do Rio Verde
+357,Atlético / GO,Tupi / MG,12/11/2016,19:30,Olímpico Pedro Ludovico / 
+358,Brasil / RS,Oeste / SP,12/11/2016,17:30,Bento da Silva Freitas / Pelotas
+359,Paraná / PR,Criciúma / SC,12/11/2016,17:30,Durival Britto e Silva / Curitiba
+360,Avaí / SC,Náutico / PE,12/11/2016,17:30,Aderbal Ramos da Silva / Florianópolis
+361,Ceará / CE,Paraná / PR,19/11/2016,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+362,Bahia / BA,Red Bull Bragantino / SP,19/11/2016,17:30,Octávio Mangabeira / Salvador
+363,Sampaio Corrêa / MA,Atlético / GO,19/11/2016,17:30,Governador João Castelo / Sao Luis
+364,Oeste / SP,Joinville / SC,18/11/2016,19:15,Arena Barueri / Barueri
+365,Vila Nova / GO,Paysandu / PA,19/11/2016,17:30,Onésio Brasileiro Alvarenga / Goiania
+366,Luverdense / MT,Goiás / GO,18/11/2016,21:30,Passo das Emas / Lucas do Rio Verde
+367,Tupi / MG,Náutico / PE,19/11/2016,16:30,Mário Helênio / Juiz de Fora
+368,Brasil / RS,CRB / AL,19/11/2016,19:30,Bento da Silva Freitas / Pelotas
+369,Londrina / PR,Avaí / SC,19/11/2016,16:30,Jacy Scaff / Londrina
+370,Criciúma / SC,Vasco da Gama / RJ,19/11/2016,16:30,Heriberto Hulse / Criciuma
+371,Náutico / PE,Oeste / SP,26/11/2016,17:30,Arena Pernambuco / São Lourenço da Mata
+372,CRB / AL,Luverdense / MT,26/11/2016,17:30,Rei Pelé / Maceió
+373,Paysandu / PA,Criciúma / SC,25/11/2016,20:30,Leônidas Sobré de Castro / Belem
+374,Red Bull Bragantino / SP,Londrina / PR,26/11/2016,17:30,Nabi Abi Chedid / Bragança Paulista
+375,Goiás / GO,Sampaio Corrêa / MA,22/11/2016,19:15,Olímpico Pedro Ludovico / 
+376,Vasco da Gama / RJ,Ceará / CE,26/11/2016,17:30,Jornalista Mário Filho / Rio de Janeiro
+377,Atlético / GO,Bahia / BA,26/11/2016,17:30,Olímpico Pedro Ludovico / 
+378,Joinville / SC,Vila Nova / GO,26/11/2016,17:30,Arena Joinville / Joinville
+379,Paraná / PR,Tupi / MG,25/11/2016,19:15,Durival Britto e Silva / Curitiba
+380,Avaí / SC,Brasil / RS,26/11/2016,17:30,Aderbal Ramos da Silva / Florianópolis

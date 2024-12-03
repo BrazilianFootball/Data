@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Ponte Preta / SP,Grêmio / RS
-002,CSA / AL,Criciúma / SC
-003,Sport / PE,Sampaio Corrêa / MA
-004,Brusque / SC,Guarani / SP
-005,Novorizontino / SP,CRB / AL
-006,Londrina / PR,Náutico / PE
-007,Vasco da Gama / RJ,Vila Nova / GO
-008,Bahia / BA,Cruzeiro / MG
-009,Tombense / MG,Operário / PR
-010,Chapecoense / SC,Ituano / SP
-011,Guarani / SP,Sport / PE
-012,CRB / AL,Vasco da Gama / RJ
-013,Náutico / PE,Bahia / BA
-014,Criciúma / SC,Londrina / PR
-015,Ituano / SP,CSA / AL
-016,Operário / PR,Ponte Preta / SP
-017,Grêmio / RS,Chapecoense / SC
-018,Sampaio Corrêa / MA,Tombense / MG
-019,Cruzeiro / MG,Brusque / SC
-020,Vila Nova / GO,Novorizontino / SP
-021,Ponte Preta / SP,CRB / AL
-022,CSA / AL,Bahia / BA
-023,Náutico / PE,Operário / PR
-024,Criciúma / SC,Sport / PE
-025,Ituano / SP,Vila Nova / GO
-026,Londrina / PR,Novorizontino / SP
-027,Grêmio / RS,Guarani / SP
-028,Sampaio Corrêa / MA,Brusque / SC
-029,Tombense / MG,Cruzeiro / MG
-030,Chapecoense / SC,Vasco da Gama / RJ
-031,Guarani / SP,Criciúma / SC
-032,CRB / AL,Náutico / PE
-033,Sport / PE,Ituano / SP
-034,Brusque / SC,CSA / AL
-035,Novorizontino / SP,Chapecoense / SC
-036,Operário / PR,Grêmio / RS
-037,Vasco da Gama / RJ,Ponte Preta / SP
-038,Bahia / BA,Sampaio Corrêa / MA
-039,Cruzeiro / MG,Londrina / PR
-040,Vila Nova / GO,Tombense / MG
-041,Ponte Preta / SP,Brusque / SC
-042,CSA / AL,Sport / PE
-043,Náutico / PE,Guarani / SP
-044,Criciúma / SC,Novorizontino / SP
-045,Ituano / SP,Bahia / BA
-046,Londrina / PR,Vila Nova / GO
-047,Grêmio / RS,CRB / AL
-048,Sampaio Corrêa / MA,Operário / PR
-049,Tombense / MG,Vasco da Gama / RJ
-050,Chapecoense / SC,Cruzeiro / MG
-051,Guarani / SP,Ponte Preta / SP
-052,CRB / AL,Sampaio Corrêa / MA
-053,Sport / PE,Tombense / MG
-054,Brusque / SC,Chapecoense / SC
-055,Novorizontino / SP,Ituano / SP
-056,Operário / PR,Criciúma / SC
-057,Vasco da Gama / RJ,CSA / AL
-058,Bahia / BA,Londrina / PR
-059,Cruzeiro / MG,Grêmio / RS
-060,Vila Nova / GO,Náutico / PE
-061,Ponte Preta / SP,Novorizontino / SP
-062,CSA / AL,Operário / PR
-063,Náutico / PE,Cruzeiro / MG
-064,Criciúma / SC,CRB / AL
-065,Ituano / SP,Grêmio / RS
-066,Londrina / PR,Brusque / SC
-067,Vasco da Gama / RJ,Bahia / BA
-068,Sampaio Corrêa / MA,Vila Nova / GO
-069,Tombense / MG,Guarani / SP
-070,Chapecoense / SC,Sport / PE
-071,Guarani / SP,Vasco da Gama / RJ
-072,CRB / AL,Londrina / PR
-073,Náutico / PE,CSA / AL
-074,Brusque / SC,Tombense / MG
-075,Novorizontino / SP,Sport / PE
-076,Operário / PR,Ituano / SP
-077,Grêmio / RS,Criciúma / SC
-078,Bahia / BA,Ponte Preta / SP
-079,Cruzeiro / MG,Sampaio Corrêa / MA
-080,Vila Nova / GO,Chapecoense / SC
-081,Ponte Preta / SP,Chapecoense / SC
-082,CSA / AL,Novorizontino / SP
-083,Sport / PE,CRB / AL
-084,Criciúma / SC,Cruzeiro / MG
-085,Ituano / SP,Náutico / PE
-086,Londrina / PR,Operário / PR
-087,Vasco da Gama / RJ,Brusque / SC
-088,Sampaio Corrêa / MA,Guarani / SP
-089,Tombense / MG,Bahia / BA
-090,Vila Nova / GO,Grêmio / RS
-091,Guarani / SP,Vila Nova / GO
-092,CRB / AL,CSA / AL
-093,Sport / PE,Ponte Preta / SP
-094,Brusque / SC,Náutico / PE
-095,Novorizontino / SP,Sampaio Corrêa / MA
-096,Operário / PR,Cruzeiro / MG
-097,Vasco da Gama / RJ,Grêmio / RS
-098,Bahia / BA,Criciúma / SC
-099,Tombense / MG,Ituano / SP
-100,Chapecoense / SC,Londrina / PR
-101,Guarani / SP,Operário / PR
-102,CSA / AL,Chapecoense / SC
-103,Náutico / PE,Vasco da Gama / RJ
-104,Criciúma / SC,Sampaio Corrêa / MA
-105,Ituano / SP,Ponte Preta / SP
-106,Londrina / PR,Tombense / MG
-107,Grêmio / RS,Novorizontino / SP
-108,Bahia / BA,Sport / PE
-109,Cruzeiro / MG,CRB / AL
-110,Vila Nova / GO,Brusque / SC
-111,Ponte Preta / SP,Londrina / PR
-112,CRB / AL,Vila Nova / GO
-113,Sport / PE,Grêmio / RS
-114,Brusque / SC,Ituano / SP
-115,Novorizontino / SP,Guarani / SP
-116,Operário / PR,Bahia / BA
-117,Vasco da Gama / RJ,Cruzeiro / MG
-118,Sampaio Corrêa / MA,Náutico / PE
-119,Tombense / MG,CSA / AL
-120,Chapecoense / SC,Criciúma / SC
-121,Guarani / SP,CSA / AL
-122,CRB / AL,Ituano / SP
-123,Náutico / PE,Sport / PE
-124,Criciúma / SC,Brusque / SC
-125,Novorizontino / SP,Tombense / MG
-126,Londrina / PR,Vasco da Gama / RJ
-127,Grêmio / RS,Sampaio Corrêa / MA
-128,Bahia / BA,Chapecoense / SC
-129,Cruzeiro / MG,Ponte Preta / SP
-130,Vila Nova / GO,Operário / PR
-131,Ponte Preta / SP,Sampaio Corrêa / MA
-132,CSA / AL,Grêmio / RS
-133,Sport / PE,Brusque / SC
-134,Criciúma / SC,Vila Nova / GO
-135,Ituano / SP,Cruzeiro / MG
-136,Londrina / PR,Guarani / SP
-137,Vasco da Gama / RJ,Operário / PR
-138,Bahia / BA,Novorizontino / SP
-139,Tombense / MG,Náutico / PE
-140,Chapecoense / SC,CRB / AL
-141,Guarani / SP,Ituano / SP
-142,CRB / AL,Tombense / MG
-143,Náutico / PE,Criciúma / SC
-144,Brusque / SC,Bahia / BA
-145,Novorizontino / SP,Vasco da Gama / RJ
-146,Operário / PR,Chapecoense / SC
-147,Grêmio / RS,Londrina / PR
-148,Sampaio Corrêa / MA,CSA / AL
-149,Cruzeiro / MG,Sport / PE
-150,Vila Nova / GO,Ponte Preta / SP
-151,Ponte Preta / SP,Tombense / MG
-152,CRB / AL,Guarani / SP
-153,Náutico / PE,Novorizontino / SP
-154,Brusque / SC,Operário / PR
-155,Ituano / SP,Criciúma / SC
-156,Londrina / PR,CSA / AL
-157,Vasco da Gama / RJ,Sport / PE
-158,Bahia / BA,Grêmio / RS
-159,Cruzeiro / MG,Vila Nova / GO
-160,Chapecoense / SC,Sampaio Corrêa / MA
-161,Guarani / SP,Cruzeiro / MG
-162,CSA / AL,Ponte Preta / SP
-163,Sport / PE,Londrina / PR
-164,Criciúma / SC,Vasco da Gama / RJ
-165,Novorizontino / SP,Brusque / SC
-166,Operário / PR,CRB / AL
-167,Grêmio / RS,Náutico / PE
-168,Sampaio Corrêa / MA,Ituano / SP
-169,Tombense / MG,Chapecoense / SC
-170,Vila Nova / GO,Bahia / BA
-171,Guarani / SP,Bahia / BA
-172,CRB / AL,Brusque / SC
-173,Náutico / PE,Chapecoense / SC
-174,Criciúma / SC,Ponte Preta / SP
-175,Ituano / SP,Londrina / PR
-176,Operário / PR,Sport / PE
-177,Grêmio / RS,Tombense / MG
-178,Sampaio Corrêa / MA,Vasco da Gama / RJ
-179,Cruzeiro / MG,Novorizontino / SP
-180,Vila Nova / GO,CSA / AL
-181,Ponte Preta / SP,Náutico / PE
-182,CSA / AL,Cruzeiro / MG
-183,Sport / PE,Vila Nova / GO
-184,Brusque / SC,Grêmio / RS
-185,Novorizontino / SP,Operário / PR
-186,Londrina / PR,Sampaio Corrêa / MA
-187,Vasco da Gama / RJ,Ituano / SP
-188,Bahia / BA,CRB / AL
-189,Tombense / MG,Criciúma / SC
-190,Chapecoense / SC,Guarani / SP
-191,Guarani / SP,Brusque / SC
-192,CRB / AL,Novorizontino / SP
-193,Náutico / PE,Londrina / PR
-194,Criciúma / SC,CSA / AL
-195,Ituano / SP,Chapecoense / SC
-196,Operário / PR,Tombense / MG
-197,Grêmio / RS,Ponte Preta / SP
-198,Sampaio Corrêa / MA,Sport / PE
-199,Cruzeiro / MG,Bahia / BA
-200,Vila Nova / GO,Vasco da Gama / RJ
-201,Ponte Preta / SP,Operário / PR
-202,CSA / AL,Ituano / SP
-203,Sport / PE,Guarani / SP
-204,Brusque / SC,Cruzeiro / MG
-205,Novorizontino / SP,Vila Nova / GO
-206,Londrina / PR,Criciúma / SC
-207,Vasco da Gama / RJ,CRB / AL
-208,Bahia / BA,Náutico / PE
-209,Tombense / MG,Sampaio Corrêa / MA
-210,Chapecoense / SC,Grêmio / RS
-211,Guarani / SP,Grêmio / RS
-212,CRB / AL,Ponte Preta / SP
-213,Sport / PE,Criciúma / SC
-214,Brusque / SC,Sampaio Corrêa / MA
-215,Novorizontino / SP,Londrina / PR
-216,Operário / PR,Náutico / PE
-217,Vasco da Gama / RJ,Chapecoense / SC
-218,Bahia / BA,CSA / AL
-219,Cruzeiro / MG,Tombense / MG
-220,Vila Nova / GO,Ituano / SP
-221,Ponte Preta / SP,Vasco da Gama / RJ
-222,CSA / AL,Brusque / SC
-223,Náutico / PE,CRB / AL
-224,Criciúma / SC,Guarani / SP
-225,Ituano / SP,Sport / PE
-226,Londrina / PR,Cruzeiro / MG
-227,Grêmio / RS,Operário / PR
-228,Sampaio Corrêa / MA,Bahia / BA
-229,Tombense / MG,Vila Nova / GO
-230,Chapecoense / SC,Novorizontino / SP
-231,Guarani / SP,Náutico / PE
-232,CRB / AL,Grêmio / RS
-233,Sport / PE,CSA / AL
-234,Brusque / SC,Ponte Preta / SP
-235,Novorizontino / SP,Criciúma / SC
-236,Operário / PR,Sampaio Corrêa / MA
-237,Vasco da Gama / RJ,Tombense / MG
-238,Bahia / BA,Ituano / SP
-239,Cruzeiro / MG,Chapecoense / SC
-240,Vila Nova / GO,Londrina / PR
-241,Ponte Preta / SP,Guarani / SP
-242,CSA / AL,Vasco da Gama / RJ
-243,Náutico / PE,Vila Nova / GO
-244,Criciúma / SC,Operário / PR
-245,Ituano / SP,Novorizontino / SP
-246,Londrina / PR,Bahia / BA
-247,Grêmio / RS,Cruzeiro / MG
-248,Sampaio Corrêa / MA,CRB / AL
-249,Tombense / MG,Sport / PE
-250,Chapecoense / SC,Brusque / SC
-251,Guarani / SP,Tombense / MG
-252,CRB / AL,Criciúma / SC
-253,Sport / PE,Chapecoense / SC
-254,Brusque / SC,Londrina / PR
-255,Novorizontino / SP,Ponte Preta / SP
-256,Operário / PR,CSA / AL
-257,Grêmio / RS,Ituano / SP
-258,Bahia / BA,Vasco da Gama / RJ
-259,Cruzeiro / MG,Náutico / PE
-260,Vila Nova / GO,Sampaio Corrêa / MA
-261,Ponte Preta / SP,Bahia / BA
-262,CSA / AL,Náutico / PE
-263,Sport / PE,Novorizontino / SP
-264,Criciúma / SC,Grêmio / RS
-265,Ituano / SP,Operário / PR
-266,Londrina / PR,CRB / AL
-267,Vasco da Gama / RJ,Guarani / SP
-268,Sampaio Corrêa / MA,Cruzeiro / MG
-269,Tombense / MG,Brusque / SC
-270,Chapecoense / SC,Vila Nova / GO
-271,Guarani / SP,Sampaio Corrêa / MA
-272,CRB / AL,Sport / PE
-273,Náutico / PE,Ituano / SP
-274,Brusque / SC,Vasco da Gama / RJ
-275,Novorizontino / SP,CSA / AL
-276,Operário / PR,Londrina / PR
-277,Grêmio / RS,Vila Nova / GO
-278,Bahia / BA,Tombense / MG
-279,Cruzeiro / MG,Criciúma / SC
-280,Chapecoense / SC,Ponte Preta / SP
-281,Ponte Preta / SP,Sport / PE
-282,CSA / AL,CRB / AL
-283,Náutico / PE,Brusque / SC
-284,Criciúma / SC,Bahia / BA
-285,Ituano / SP,Tombense / MG
-286,Londrina / PR,Chapecoense / SC
-287,Grêmio / RS,Vasco da Gama / RJ
-288,Sampaio Corrêa / MA,Novorizontino / SP
-289,Cruzeiro / MG,Operário / PR
-290,Vila Nova / GO,Guarani / SP
-291,Ponte Preta / SP,Ituano / SP
-292,CRB / AL,Cruzeiro / MG
-293,Sport / PE,Bahia / BA
-294,Brusque / SC,Vila Nova / GO
-295,Novorizontino / SP,Grêmio / RS
-296,Operário / PR,Guarani / SP
-297,Vasco da Gama / RJ,Náutico / PE
-298,Sampaio Corrêa / MA,Criciúma / SC
-299,Tombense / MG,Londrina / PR
-300,Chapecoense / SC,CSA / AL
-301,Guarani / SP,Novorizontino / SP
-302,CSA / AL,Tombense / MG
-303,Náutico / PE,Sampaio Corrêa / MA
-304,Criciúma / SC,Chapecoense / SC
-305,Ituano / SP,Brusque / SC
-306,Londrina / PR,Ponte Preta / SP
-307,Grêmio / RS,Sport / PE
-308,Bahia / BA,Operário / PR
-309,Cruzeiro / MG,Vasco da Gama / RJ
-310,Vila Nova / GO,CRB / AL
-311,Ponte Preta / SP,Cruzeiro / MG
-312,CSA / AL,Guarani / SP
-313,Sport / PE,Náutico / PE
-314,Brusque / SC,Criciúma / SC
-315,Ituano / SP,CRB / AL
-316,Operário / PR,Vila Nova / GO
-317,Vasco da Gama / RJ,Londrina / PR
-318,Sampaio Corrêa / MA,Grêmio / RS
-319,Tombense / MG,Novorizontino / SP
-320,Chapecoense / SC,Bahia / BA
-321,Guarani / SP,Londrina / PR
-322,CRB / AL,Chapecoense / SC
-323,Náutico / PE,Tombense / MG
-324,Brusque / SC,Sport / PE
-325,Novorizontino / SP,Bahia / BA
-326,Operário / PR,Vasco da Gama / RJ
-327,Grêmio / RS,CSA / AL
-328,Sampaio Corrêa / MA,Ponte Preta / SP
-329,Cruzeiro / MG,Ituano / SP
-330,Vila Nova / GO,Criciúma / SC
-331,Ponte Preta / SP,Vila Nova / GO
-332,CSA / AL,Sampaio Corrêa / MA
-333,Sport / PE,Cruzeiro / MG
-334,Criciúma / SC,Náutico / PE
-335,Ituano / SP,Guarani / SP
-336,Londrina / PR,Grêmio / RS
-337,Vasco da Gama / RJ,Novorizontino / SP
-338,Bahia / BA,Brusque / SC
-339,Tombense / MG,CRB / AL
-340,Chapecoense / SC,Operário / PR
-341,Guarani / SP,CRB / AL
-342,CSA / AL,Londrina / PR
-343,Sport / PE,Vasco da Gama / RJ
-344,Criciúma / SC,Ituano / SP
-345,Novorizontino / SP,Náutico / PE
-346,Operário / PR,Brusque / SC
-347,Grêmio / RS,Bahia / BA
-348,Sampaio Corrêa / MA,Chapecoense / SC
-349,Tombense / MG,Ponte Preta / SP
-350,Vila Nova / GO,Cruzeiro / MG
-351,Ponte Preta / SP,CSA / AL
-352,CRB / AL,Operário / PR
-353,Náutico / PE,Grêmio / RS
-354,Brusque / SC,Novorizontino / SP
-355,Ituano / SP,Sampaio Corrêa / MA
-356,Londrina / PR,Sport / PE
-357,Vasco da Gama / RJ,Criciúma / SC
-358,Bahia / BA,Vila Nova / GO
-359,Cruzeiro / MG,Guarani / SP
-360,Chapecoense / SC,Tombense / MG
-361,Ponte Preta / SP,Criciúma / SC
-362,CSA / AL,Vila Nova / GO
-363,Sport / PE,Operário / PR
-364,Brusque / SC,CRB / AL
-365,Novorizontino / SP,Cruzeiro / MG
-366,Londrina / PR,Ituano / SP
-367,Vasco da Gama / RJ,Sampaio Corrêa / MA
-368,Bahia / BA,Guarani / SP
-369,Tombense / MG,Grêmio / RS
-370,Chapecoense / SC,Náutico / PE
-371,Guarani / SP,Chapecoense / SC
-372,CRB / AL,Bahia / BA
-373,Náutico / PE,Ponte Preta / SP
-374,Criciúma / SC,Tombense / MG
-375,Ituano / SP,Vasco da Gama / RJ
-376,Operário / PR,Novorizontino / SP
-377,Grêmio / RS,Brusque / SC
-378,Sampaio Corrêa / MA,Londrina / PR
-379,Cruzeiro / MG,CSA / AL
-380,Vila Nova / GO,Sport / PE
+Game,Home,Away,Date,Time,Stadium
+001,Ponte Preta / SP,Grêmio / RS,09/04/2022,16:30,Moisés Lucarelli / Campinas
+002,CSA / AL,Criciúma / SC,04/05/2022,21:00,Rei Pelé / Maceio
+003,Sport / PE,Sampaio Corrêa / MA,09/04/2022,18:30,Adelmar da Costa Carvalho / Recife
+004,Brusque / SC,Guarani / SP,08/04/2022,19:00,Aderbal Ramos da Silva / Florianopolis
+005,Novorizontino / SP,CRB / AL,04/05/2022,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+006,Londrina / PR,Náutico / PE,10/04/2022,11:00,Jacy Scaff / Londrina
+007,Vasco da Gama / RJ,Vila Nova / GO,08/04/2022,19:00,São Januário / Rio de Janeiro
+008,Bahia / BA,Cruzeiro / MG,08/04/2022,21:30,Octávio Mangabeira / Salvador
+009,Tombense / MG,Operário / PR,09/04/2022,21:00,Soares de Azevedo / Muriae
+010,Chapecoense / SC,Ituano / SP,09/04/2022,16:00,Índio Condá / Chapeco
+011,Guarani / SP,Sport / PE,16/04/2022,18:30,Brinco de Ouro da Princesa / Campinas
+012,CRB / AL,Vasco da Gama / RJ,16/04/2022,19:00,Rei Pelé / Maceio
+013,Náutico / PE,Bahia / BA,15/04/2022,21:30,Eládio de Barros Carvalho / Recife
+014,Criciúma / SC,Londrina / PR,14/04/2022,20:00,Heriberto Hulse / Criciuma
+015,Ituano / SP,CSA / AL,16/04/2022,16:00,Novelli Junior / Itu
+016,Operário / PR,Ponte Preta / SP,16/04/2022,11:00,Germano Kruger / Ponta Grossa
+017,Grêmio / RS,Chapecoense / SC,15/04/2022,19:00,Arena do Grêmio / Porto Alegre
+018,Sampaio Corrêa / MA,Tombense / MG,16/04/2022,16:30,Governador João Castelo / Sao Luis
+019,Cruzeiro / MG,Brusque / SC,12/04/2022,21:30,Magalhães Pinto / Belo Horizonte
+020,Vila Nova / GO,Novorizontino / SP,12/04/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+021,Ponte Preta / SP,CRB / AL,23/04/2022,16:00,Moisés Lucarelli / Campinas
+022,CSA / AL,Bahia / BA,22/04/2022,19:00,Rei Pelé / Maceio
+023,Náutico / PE,Operário / PR,24/04/2022,16:00,Eládio de Barros Carvalho / Recife
+024,Criciúma / SC,Sport / PE,23/04/2022,11:00,Heriberto Hulse / Criciuma
+025,Ituano / SP,Vila Nova / GO,23/04/2022,19:00,Novelli Junior / Itu
+026,Londrina / PR,Novorizontino / SP,21/04/2022,19:00,Jacy Scaff / Londrina
+027,Grêmio / RS,Guarani / SP,21/04/2022,16:30,Arena do Grêmio / Porto Alegre
+028,Sampaio Corrêa / MA,Brusque / SC,23/04/2022,18:30,Governador João Castelo / Sao Luis
+029,Tombense / MG,Cruzeiro / MG,23/04/2022,19:00,Soares de Azevedo / Muriae
+030,Chapecoense / SC,Vasco da Gama / RJ,22/04/2022,21:30,Índio Condá / Chapeco
+031,Guarani / SP,Criciúma / SC,27/04/2022,21:00,Brinco de Ouro da Princesa / Campinas
+032,CRB / AL,Náutico / PE,27/04/2022,19:00,Rei Pelé / Maceio
+033,Sport / PE,Ituano / SP,26/04/2022,19:00,Adelmar da Costa Carvalho / Recife
+034,Brusque / SC,CSA / AL,26/04/2022,20:30,Augusto Bauer / Brusque
+035,Novorizontino / SP,Chapecoense / SC,26/04/2022,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+036,Operário / PR,Grêmio / RS,27/04/2022,19:00,Germano Kruger / Ponta Grossa
+037,Vasco da Gama / RJ,Ponte Preta / SP,27/04/2022,21:30,São Januário / Rio de Janeiro
+038,Bahia / BA,Sampaio Corrêa / MA,26/04/2022,21:30,Octávio Mangabeira / Salvador
+039,Cruzeiro / MG,Londrina / PR,26/04/2022,21:30,Magalhães Pinto / Belo Horizonte
+040,Vila Nova / GO,Tombense / MG,26/04/2022,20:30,Onésio Brasileiro Alvarenga / Goiania
+041,Ponte Preta / SP,Brusque / SC,30/04/2022,20:30,Moisés Lucarelli / Campinas
+042,CSA / AL,Sport / PE,30/04/2022,16:00,Rei Pelé / Maceio
+043,Náutico / PE,Guarani / SP,03/05/2022,21:30,Eládio de Barros Carvalho / Recife
+044,Criciúma / SC,Novorizontino / SP,01/05/2022,11:00,Heriberto Hulse / Criciuma
+045,Ituano / SP,Bahia / BA,29/04/2022,21:30,Novelli Junior / Itu
+046,Londrina / PR,Vila Nova / GO,29/04/2022,19:00,Jacy Scaff / Londrina
+047,Grêmio / RS,CRB / AL,30/04/2022,16:30,Arena do Grêmio / Porto Alegre
+048,Sampaio Corrêa / MA,Operário / PR,30/04/2022,16:30,Governador João Castelo / Sao Luis
+049,Tombense / MG,Vasco da Gama / RJ,01/05/2022,18:00,Soares de Azevedo / Muriae
+050,Chapecoense / SC,Cruzeiro / MG,30/04/2022,19:00,Índio Condá / Chapeco
+051,Guarani / SP,Ponte Preta / SP,08/05/2022,16:00,Brinco de Ouro da Princesa / Campinas
+052,CRB / AL,Sampaio Corrêa / MA,09/05/2022,20:00,Rei Pelé / Maceio
+053,Sport / PE,Tombense / MG,06/05/2022,21:30,Adelmar da Costa Carvalho / Recife
+054,Brusque / SC,Chapecoense / SC,05/05/2022,21:30,Augusto Bauer / Brusque
+055,Novorizontino / SP,Ituano / SP,07/05/2022,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+056,Operário / PR,Criciúma / SC,07/05/2022,16:30,Germano Kruger / Ponta Grossa
+057,Vasco da Gama / RJ,CSA / AL,07/05/2022,19:00,São Januário / Rio de Janeiro
+058,Bahia / BA,Londrina / PR,03/05/2022,19:00,Octávio Mangabeira / Salvador
+059,Cruzeiro / MG,Grêmio / RS,08/05/2022,16:00,Raimundo Sampaio / Belo Horizonte
+060,Vila Nova / GO,Náutico / PE,06/05/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+061,Ponte Preta / SP,Novorizontino / SP,13/05/2022,19:00,Moisés Lucarelli / Campinas
+062,CSA / AL,Operário / PR,14/05/2022,20:30,Rei Pelé / Maceio
+063,Náutico / PE,Cruzeiro / MG,15/05/2022,16:00,Eládio de Barros Carvalho / Recife
+064,Criciúma / SC,CRB / AL,14/05/2022,11:00,Heriberto Hulse / Criciuma
+065,Ituano / SP,Grêmio / RS,16/05/2022,20:00,Novelli Junior / Itu
+066,Londrina / PR,Brusque / SC,14/05/2022,11:00,Jacy Scaff / Londrina
+067,Vasco da Gama / RJ,Bahia / BA,15/05/2022,16:00,São Januário / Rio de Janeiro
+068,Sampaio Corrêa / MA,Vila Nova / GO,14/05/2022,18:30,Governador João Castelo / Sao Luis
+069,Tombense / MG,Guarani / SP,14/05/2022,16:00,Soares de Azevedo / Muriae
+070,Chapecoense / SC,Sport / PE,13/05/2022,21:30,Índio Condá / Chapeco
+071,Guarani / SP,Vasco da Gama / RJ,19/05/2022,21:30,Arena da Amazônia / Manaus
+072,CRB / AL,Londrina / PR,18/05/2022,21:30,Rei Pelé / Maceio
+073,Náutico / PE,CSA / AL,19/05/2022,21:30,Eládio de Barros Carvalho / Recife
+074,Brusque / SC,Tombense / MG,20/05/2022,19:00,Augusto Bauer / Brusque
+075,Novorizontino / SP,Sport / PE,17/05/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+076,Operário / PR,Ituano / SP,21/05/2022,11:00,Germano Kruger / Ponta Grossa
+077,Grêmio / RS,Criciúma / SC,19/05/2022,19:00,Arena do Grêmio / Porto Alegre
+078,Bahia / BA,Ponte Preta / SP,20/05/2022,21:30,Octávio Mangabeira / Salvador
+079,Cruzeiro / MG,Sampaio Corrêa / MA,22/05/2022,11:00,Magalhães Pinto / Belo Horizonte
+080,Vila Nova / GO,Chapecoense / SC,19/05/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+081,Ponte Preta / SP,Chapecoense / SC,24/05/2022,21:30,Moisés Lucarelli / Campinas
+082,CSA / AL,Novorizontino / SP,28/05/2022,16:30,Rei Pelé / Maceio
+083,Sport / PE,CRB / AL,24/05/2022,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+084,Criciúma / SC,Cruzeiro / MG,27/05/2022,21:30,Heriberto Hulse / Criciuma
+085,Ituano / SP,Náutico / PE,26/05/2022,21:30,Novelli Junior / Itu
+086,Londrina / PR,Operário / PR,25/05/2022,19:00,Jacy Scaff / Londrina
+087,Vasco da Gama / RJ,Brusque / SC,26/05/2022,19:00,São Januário / Rio de Janeiro
+088,Sampaio Corrêa / MA,Guarani / SP,28/05/2022,19:00,Governador João Castelo / Sao Luis
+089,Tombense / MG,Bahia / BA,27/05/2022,19:00,Soares de Azevedo / Muriae
+090,Vila Nova / GO,Grêmio / RS,29/05/2022,16:00,Serra Dourada / Goiania
+091,Guarani / SP,Vila Nova / GO,02/06/2022,21:30,Brinco de Ouro da Princesa / Campinas
+092,CRB / AL,CSA / AL,01/06/2022,21:30,Rei Pelé / Maceio
+093,Sport / PE,Ponte Preta / SP,02/06/2022,21:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+094,Brusque / SC,Náutico / PE,04/06/2022,19:00,Augusto Bauer / Brusque
+095,Novorizontino / SP,Sampaio Corrêa / MA,04/06/2022,16:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+096,Operário / PR,Cruzeiro / MG,03/06/2022,21:30,Germano Kruger / Ponta Grossa
+097,Vasco da Gama / RJ,Grêmio / RS,02/06/2022,20:00,São Januário / Rio de Janeiro
+098,Bahia / BA,Criciúma / SC,04/06/2022,16:30,Octávio Mangabeira / Salvador
+099,Tombense / MG,Ituano / SP,04/06/2022,19:00,Soares de Azevedo / Muriae
+100,Chapecoense / SC,Londrina / PR,05/07/2022,19:00,Índio Condá / Chapeco
+101,Guarani / SP,Operário / PR,06/06/2022,20:00,Brinco de Ouro da Princesa / Campinas
+102,CSA / AL,Chapecoense / SC,07/06/2022,21:30,Rei Pelé / Maceio
+103,Náutico / PE,Vasco da Gama / RJ,07/06/2022,19:00,José do Rêgo Maciel / Recife
+104,Criciúma / SC,Sampaio Corrêa / MA,07/06/2022,20:30,Heriberto Hulse / Criciuma
+105,Ituano / SP,Ponte Preta / SP,07/06/2022,20:30,Novelli Junior / Itu
+106,Londrina / PR,Tombense / MG,07/06/2022,19:00,Jacy Scaff / Londrina
+107,Grêmio / RS,Novorizontino / SP,07/06/2022,21:30,Arena do Grêmio / Porto Alegre
+108,Bahia / BA,Sport / PE,08/06/2022,21:30,Octávio Mangabeira / Salvador
+109,Cruzeiro / MG,CRB / AL,08/06/2022,19:00,Magalhães Pinto / Belo Horizonte
+110,Vila Nova / GO,Brusque / SC,07/06/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+111,Ponte Preta / SP,Londrina / PR,11/06/2022,16:30,Moisés Lucarelli / Campinas
+112,CRB / AL,Vila Nova / GO,11/06/2022,16:30,Rei Pelé / Maceio
+113,Sport / PE,Grêmio / RS,13/06/2022,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+114,Brusque / SC,Ituano / SP,11/06/2022,11:00,Augusto Bauer / Brusque
+115,Novorizontino / SP,Guarani / SP,12/06/2022,11:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+116,Operário / PR,Bahia / BA,11/06/2022,18:30,Germano Kruger / Ponta Grossa
+117,Vasco da Gama / RJ,Cruzeiro / MG,12/06/2022,16:00,Jornalista Mário Filho / Rio de Janeiro
+118,Sampaio Corrêa / MA,Náutico / PE,10/06/2022,19:00,Governador João Castelo / Sao Luis
+119,Tombense / MG,CSA / AL,12/06/2022,19:00,Soares de Azevedo / Muriae
+120,Chapecoense / SC,Criciúma / SC,10/06/2022,21:30,Índio Condá / Chapeco
+121,Guarani / SP,CSA / AL,19/06/2022,11:00,Brinco de Ouro da Princesa / Campinas
+122,CRB / AL,Ituano / SP,17/06/2022,21:30,Rei Pelé / Maceio
+123,Náutico / PE,Sport / PE,18/06/2022,18:30,Eládio de Barros Carvalho / Recife
+124,Criciúma / SC,Brusque / SC,17/06/2022,19:00,Heriberto Hulse / Criciuma
+125,Novorizontino / SP,Tombense / MG,18/06/2022,16:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+126,Londrina / PR,Vasco da Gama / RJ,18/06/2022,16:00,Jacy Scaff / Londrina
+127,Grêmio / RS,Sampaio Corrêa / MA,18/06/2022,11:00,Arena do Grêmio / Porto Alegre
+128,Bahia / BA,Chapecoense / SC,14/06/2022,19:00,Octávio Mangabeira / Salvador
+129,Cruzeiro / MG,Ponte Preta / SP,16/06/2022,16:00,Magalhães Pinto / Belo Horizonte
+130,Vila Nova / GO,Operário / PR,16/06/2022,20:00,Onésio Brasileiro Alvarenga / Goiania
+131,Ponte Preta / SP,Sampaio Corrêa / MA,23/06/2022,21:30,Moisés Lucarelli / Campinas
+132,CSA / AL,Grêmio / RS,23/06/2022,21:30,Rei Pelé / Maceio
+133,Sport / PE,Brusque / SC,25/06/2022,18:30,Adelmar da Costa Carvalho / Recife
+134,Criciúma / SC,Vila Nova / GO,25/06/2022,11:00,Heriberto Hulse / Criciuma
+135,Ituano / SP,Cruzeiro / MG,05/07/2022,19:00,Novelli Junior / Itu
+136,Londrina / PR,Guarani / SP,24/06/2022,19:00,Jacy Scaff / Londrina
+137,Vasco da Gama / RJ,Operário / PR,24/06/2022,19:00,São Januário / Rio de Janeiro
+138,Bahia / BA,Novorizontino / SP,25/06/2022,16:00,Octávio Mangabeira / Salvador
+139,Tombense / MG,Náutico / PE,26/06/2022,11:00,Soares de Azevedo / Muriae
+140,Chapecoense / SC,CRB / AL,21/06/2022,19:00,Índio Condá / Chapeco
+141,Guarani / SP,Ituano / SP,28/06/2022,21:30,Brinco de Ouro da Princesa / Campinas
+142,CRB / AL,Tombense / MG,29/06/2022,21:30,Rei Pelé / Maceio
+143,Náutico / PE,Criciúma / SC,29/06/2022,19:00,Eládio de Barros Carvalho / Recife
+144,Brusque / SC,Bahia / BA,28/06/2022,19:00,Augusto Bauer / Brusque
+145,Novorizontino / SP,Vasco da Gama / RJ,29/06/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+146,Operário / PR,Chapecoense / SC,27/06/2022,20:00,Germano Kruger / Ponta Grossa
+147,Grêmio / RS,Londrina / PR,28/06/2022,19:00,Arena do Grêmio / Porto Alegre
+148,Sampaio Corrêa / MA,CSA / AL,27/06/2022,20:00,Governador João Castelo / Sao Luis
+149,Cruzeiro / MG,Sport / PE,28/06/2022,21:30,Magalhães Pinto / Belo Horizonte
+150,Vila Nova / GO,Ponte Preta / SP,28/06/2022,21:30,Onésio Brasileiro Alvarenga / Goiania
+151,Ponte Preta / SP,Tombense / MG,03/07/2022,11:00,Moisés Lucarelli / Campinas
+152,CRB / AL,Guarani / SP,02/07/2022,20:30,Rei Pelé / Maceio
+153,Náutico / PE,Novorizontino / SP,02/07/2022,18:30,Eládio de Barros Carvalho / Recife
+154,Brusque / SC,Operário / PR,01/07/2022,21:30,Augusto Bauer / Brusque
+155,Ituano / SP,Criciúma / SC,02/07/2022,16:00,Novelli Junior / Itu
+156,Londrina / PR,CSA / AL,02/07/2022,11:00,Jacy Scaff / Londrina
+157,Vasco da Gama / RJ,Sport / PE,03/07/2022,16:00,Jornalista Mário Filho / Rio de Janeiro
+158,Bahia / BA,Grêmio / RS,03/07/2022,16:00,Octávio Mangabeira / Salvador
+159,Cruzeiro / MG,Vila Nova / GO,01/07/2022,21:30,Magalhães Pinto / Belo Horizonte
+160,Chapecoense / SC,Sampaio Corrêa / MA,01/07/2022,19:00,Índio Condá / Chapeco
+161,Guarani / SP,Cruzeiro / MG,09/07/2022,11:00,Brinco de Ouro da Princesa / Campinas
+162,CSA / AL,Ponte Preta / SP,07/07/2022,19:00,Rei Pelé / Maceio
+163,Sport / PE,Londrina / PR,09/07/2022,16:00,Adelmar da Costa Carvalho / Recife
+164,Criciúma / SC,Vasco da Gama / RJ,09/07/2022,16:30,Heriberto Hulse / Criciuma
+165,Novorizontino / SP,Brusque / SC,06/07/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+166,Operário / PR,CRB / AL,05/07/2022,21:30,Germano Kruger / Ponta Grossa
+167,Grêmio / RS,Náutico / PE,08/07/2022,21:30,Arena do Grêmio / Porto Alegre
+168,Sampaio Corrêa / MA,Ituano / SP,09/07/2022,18:30,Governador João Castelo / Sao Luis
+169,Tombense / MG,Chapecoense / SC,09/07/2022,16:30,Soares de Azevedo / Muriae
+170,Vila Nova / GO,Bahia / BA,08/07/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+171,Guarani / SP,Bahia / BA,16/07/2022,18:30,Brinco de Ouro da Princesa / Campinas
+172,CRB / AL,Brusque / SC,16/07/2022,16:00,Rei Pelé / Maceio
+173,Náutico / PE,Chapecoense / SC,17/07/2022,16:00,Eládio de Barros Carvalho / Recife
+174,Criciúma / SC,Ponte Preta / SP,15/07/2022,19:00,Heriberto Hulse / Criciuma
+175,Ituano / SP,Londrina / PR,16/07/2022,11:00,Novelli Junior / Itu
+176,Operário / PR,Sport / PE,14/07/2022,18:30,Germano Kruger / Ponta Grossa
+177,Grêmio / RS,Tombense / MG,16/07/2022,16:30,Arena do Grêmio / Porto Alegre
+178,Sampaio Corrêa / MA,Vasco da Gama / RJ,16/07/2022,16:30,Governador João Castelo / Sao Luis
+179,Cruzeiro / MG,Novorizontino / SP,17/07/2022,16:00,Magalhães Pinto / Belo Horizonte
+180,Vila Nova / GO,CSA / AL,15/07/2022,21:30,Onésio Brasileiro Alvarenga / Goiania
+181,Ponte Preta / SP,Náutico / PE,20/07/2022,19:00,Moisés Lucarelli / Campinas
+182,CSA / AL,Cruzeiro / MG,20/07/2022,19:00,Rei Pelé / Maceio
+183,Sport / PE,Vila Nova / GO,18/07/2022,20:00,Adelmar da Costa Carvalho / Recife
+184,Brusque / SC,Grêmio / RS,19/07/2022,19:00,Augusto Bauer / Brusque
+185,Novorizontino / SP,Operário / PR,20/07/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+186,Londrina / PR,Sampaio Corrêa / MA,19/07/2022,19:00,Jacy Scaff / Londrina
+187,Vasco da Gama / RJ,Ituano / SP,19/07/2022,21:30,São Januário / Rio de Janeiro
+188,Bahia / BA,CRB / AL,19/07/2022,19:00,Octávio Mangabeira / Salvador
+189,Tombense / MG,Criciúma / SC,19/07/2022,19:00,Soares de Azevedo / Muriae
+190,Chapecoense / SC,Guarani / SP,20/07/2022,19:00,Índio Condá / Chapeco
+191,Guarani / SP,Brusque / SC,24/07/2022,11:00,Brinco de Ouro da Princesa / Campinas
+192,CRB / AL,Novorizontino / SP,23/07/2022,20:30,Rei Pelé / Maceio
+193,Náutico / PE,Londrina / PR,23/07/2022,18:30,Eládio de Barros Carvalho / Recife
+194,Criciúma / SC,CSA / AL,25/07/2022,19:00,Heriberto Hulse / Criciuma
+195,Ituano / SP,Chapecoense / SC,23/07/2022,19:00,Novelli Junior / Itu
+196,Operário / PR,Tombense / MG,25/07/2022,19:00,Germano Kruger / Ponta Grossa
+197,Grêmio / RS,Ponte Preta / SP,23/07/2022,16:30,Arena do Grêmio / Porto Alegre
+198,Sampaio Corrêa / MA,Sport / PE,22/07/2022,21:30,Governador João Castelo / Sao Luis
+199,Cruzeiro / MG,Bahia / BA,23/07/2022,16:00,Magalhães Pinto / Belo Horizonte
+200,Vila Nova / GO,Vasco da Gama / RJ,23/07/2022,16:30,Serra Dourada / Goiania
+201,Ponte Preta / SP,Operário / PR,30/07/2022,19:00,Moisés Lucarelli / Campinas
+202,CSA / AL,Ituano / SP,30/07/2022,20:30,Rei Pelé / Maceio
+203,Sport / PE,Guarani / SP,28/07/2022,21:30,Adelmar da Costa Carvalho / Recife
+204,Brusque / SC,Cruzeiro / MG,30/07/2022,11:00,Augusto Bauer / Brusque
+205,Novorizontino / SP,Vila Nova / GO,30/07/2022,18:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+206,Londrina / PR,Criciúma / SC,30/07/2022,16:00,Jacy Scaff / Londrina
+207,Vasco da Gama / RJ,CRB / AL,28/07/2022,19:00,São Januário / Rio de Janeiro
+208,Bahia / BA,Náutico / PE,29/07/2022,19:00,Octávio Mangabeira / Salvador
+209,Tombense / MG,Sampaio Corrêa / MA,29/07/2022,21:30,Soares de Azevedo / Muriae
+210,Chapecoense / SC,Grêmio / RS,26/07/2022,18:30,Índio Condá / Chapeco
+211,Guarani / SP,Grêmio / RS,05/08/2022,21:30,Brinco de Ouro da Princesa / Campinas
+212,CRB / AL,Ponte Preta / SP,04/08/2022,21:30,Rei Pelé / Maceio
+213,Sport / PE,Criciúma / SC,02/08/2022,21:30,Adelmar da Costa Carvalho / Recife
+214,Brusque / SC,Sampaio Corrêa / MA,04/08/2022,19:00,Augusto Bauer / Brusque
+215,Novorizontino / SP,Londrina / PR,06/08/2022,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+216,Operário / PR,Náutico / PE,05/08/2022,19:00,Germano Kruger / Ponta Grossa
+217,Vasco da Gama / RJ,Chapecoense / SC,31/07/2022,16:00,São Januário / Rio de Janeiro
+218,Bahia / BA,CSA / AL,06/08/2022,16:30,Octávio Mangabeira / Salvador
+219,Cruzeiro / MG,Tombense / MG,06/08/2022,19:00,Magalhães Pinto / Belo Horizonte
+220,Vila Nova / GO,Ituano / SP,05/08/2022,19:00,Serra Dourada / Goiania
+221,Ponte Preta / SP,Vasco da Gama / RJ,09/08/2022,20:30,Moisés Lucarelli / Campinas
+222,CSA / AL,Brusque / SC,09/08/2022,20:30,Rei Pelé / Maceio
+223,Náutico / PE,CRB / AL,10/08/2022,19:00,Eládio de Barros Carvalho / Recife
+224,Criciúma / SC,Guarani / SP,10/08/2022,21:30,Heriberto Hulse / Criciuma
+225,Ituano / SP,Sport / PE,09/08/2022,19:00,Novelli Junior / Itu
+226,Londrina / PR,Cruzeiro / MG,09/08/2022,21:00,Jacy Scaff / Londrina
+227,Grêmio / RS,Operário / PR,09/08/2022,19:00,Arena do Grêmio / Porto Alegre
+228,Sampaio Corrêa / MA,Bahia / BA,09/08/2022,21:30,Governador João Castelo / Sao Luis
+229,Tombense / MG,Vila Nova / GO,09/08/2022,21:30,Soares de Azevedo / Muriae
+230,Chapecoense / SC,Novorizontino / SP,10/08/2022,19:00,Índio Condá / Chapeco
+231,Guarani / SP,Náutico / PE,13/08/2022,18:30,Brinco de Ouro da Princesa / Campinas
+232,CRB / AL,Grêmio / RS,13/08/2022,20:30,Rei Pelé / Maceio
+233,Sport / PE,CSA / AL,13/08/2022,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+234,Brusque / SC,Ponte Preta / SP,12/08/2022,21:30,Augusto Bauer / Brusque
+235,Novorizontino / SP,Criciúma / SC,14/08/2022,11:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+236,Operário / PR,Sampaio Corrêa / MA,13/08/2022,11:00,Germano Kruger / Ponta Grossa
+237,Vasco da Gama / RJ,Tombense / MG,13/08/2022,11:00,São Januário / Rio de Janeiro
+238,Bahia / BA,Ituano / SP,12/08/2022,21:30,Octávio Mangabeira / Salvador
+239,Cruzeiro / MG,Chapecoense / SC,13/08/2022,16:30,Estádio Nacional Mané Garrincha / Brasilia
+240,Vila Nova / GO,Londrina / PR,12/08/2022,19:00,Serra Dourada / Goiania
+241,Ponte Preta / SP,Guarani / SP,20/08/2022,11:00,Moisés Lucarelli / Campinas
+242,CSA / AL,Vasco da Gama / RJ,18/08/2022,20:00,Rei Pelé / Maceio
+243,Náutico / PE,Vila Nova / GO,19/08/2022,21:30,Eládio de Barros Carvalho / Recife
+244,Criciúma / SC,Operário / PR,17/08/2022,19:00,Heriberto Hulse / Criciuma
+245,Ituano / SP,Novorizontino / SP,19/08/2022,19:00,Novelli Junior / Itu
+246,Londrina / PR,Bahia / BA,16/08/2022,20:30,Jacy Scaff / Londrina
+247,Grêmio / RS,Cruzeiro / MG,21/08/2022,16:00,Arena do Grêmio / Porto Alegre
+248,Sampaio Corrêa / MA,CRB / AL,20/08/2022,19:00,Governador João Castelo / Sao Luis
+249,Tombense / MG,Sport / PE,18/08/2022,21:30,Soares de Azevedo / Muriae
+250,Chapecoense / SC,Brusque / SC,20/08/2022,16:30,Índio Condá / Chapeco
+251,Guarani / SP,Tombense / MG,27/08/2022,11:00,Brinco de Ouro da Princesa / Campinas
+252,CRB / AL,Criciúma / SC,27/08/2022,16:00,Rei Pelé / Maceio
+253,Sport / PE,Chapecoense / SC,23/08/2022,21:30,Adelmar da Costa Carvalho / Recife
+254,Brusque / SC,Londrina / PR,26/08/2022,19:00,Augusto Bauer / Brusque
+255,Novorizontino / SP,Ponte Preta / SP,25/08/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+256,Operário / PR,CSA / AL,27/08/2022,18:30,Germano Kruger / Ponta Grossa
+257,Grêmio / RS,Ituano / SP,26/08/2022,19:00,Arena do Grêmio / Porto Alegre
+258,Bahia / BA,Vasco da Gama / RJ,28/08/2022,16:00,Octávio Mangabeira / Salvador
+259,Cruzeiro / MG,Náutico / PE,26/08/2022,21:30,Raimundo Sampaio / Belo Horizonte
+260,Vila Nova / GO,Sampaio Corrêa / MA,25/08/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+261,Ponte Preta / SP,Bahia / BA,31/08/2022,21:30,Moisés Lucarelli / Campinas
+262,CSA / AL,Náutico / PE,30/08/2022,21:30,Rei Pelé / Maceio
+263,Sport / PE,Novorizontino / SP,30/08/2022,20:30,Adelmar da Costa Carvalho / Recife
+264,Criciúma / SC,Grêmio / RS,30/08/2022,21:30,Heriberto Hulse / Criciuma
+265,Ituano / SP,Operário / PR,30/08/2022,20:30,Novelli Junior / Itu
+266,Londrina / PR,CRB / AL,30/08/2022,19:00,Jacy Scaff / Londrina
+267,Vasco da Gama / RJ,Guarani / SP,31/08/2022,19:00,São Januário / Rio de Janeiro
+268,Sampaio Corrêa / MA,Cruzeiro / MG,30/08/2022,19:00,Governador João Castelo / Sao Luis
+269,Tombense / MG,Brusque / SC,30/08/2022,21:30,Soares de Azevedo / Muriae
+270,Chapecoense / SC,Vila Nova / GO,29/08/2022,20:00,Índio Condá / Chapeco
+271,Guarani / SP,Sampaio Corrêa / MA,03/09/2022,16:30,Brinco de Ouro da Princesa / Campinas
+272,CRB / AL,Sport / PE,03/09/2022,17:00,Rei Pelé / Maceio
+273,Náutico / PE,Ituano / SP,02/09/2022,19:00,Eládio de Barros Carvalho / Recife
+274,Brusque / SC,Vasco da Gama / RJ,03/09/2022,16:30,Augusto Bauer / Brusque
+275,Novorizontino / SP,CSA / AL,03/09/2022,11:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+276,Operário / PR,Londrina / PR,03/09/2022,20:30,Germano Kruger / Ponta Grossa
+277,Grêmio / RS,Vila Nova / GO,02/09/2022,21:30,Arena do Grêmio / Porto Alegre
+278,Bahia / BA,Tombense / MG,03/09/2022,19:00,Octávio Mangabeira / Salvador
+279,Cruzeiro / MG,Criciúma / SC,04/09/2022,16:00,Magalhães Pinto / Belo Horizonte
+280,Chapecoense / SC,Ponte Preta / SP,03/09/2022,19:00,Índio Condá / Chapeco
+281,Ponte Preta / SP,Sport / PE,07/09/2022,19:00,Moisés Lucarelli / Campinas
+282,CSA / AL,CRB / AL,10/09/2022,16:00,Rei Pelé / Maceio
+283,Náutico / PE,Brusque / SC,09/09/2022,21:30,Eládio de Barros Carvalho / Recife
+284,Criciúma / SC,Bahia / BA,08/09/2022,19:00,Heriberto Hulse / Criciuma
+285,Ituano / SP,Tombense / MG,10/09/2022,11:00,Novelli Junior / Itu
+286,Londrina / PR,Chapecoense / SC,10/09/2022,18:30,Jacy Scaff / Londrina
+287,Grêmio / RS,Vasco da Gama / RJ,11/09/2022,16:00,Arena do Grêmio / Porto Alegre
+288,Sampaio Corrêa / MA,Novorizontino / SP,07/09/2022,21:30,Governador João Castelo / Sao Luis
+289,Cruzeiro / MG,Operário / PR,08/09/2022,21:30,Magalhães Pinto / Belo Horizonte
+290,Vila Nova / GO,Guarani / SP,06/09/2022,21:30,Onésio Brasileiro Alvarenga / Goiania
+291,Ponte Preta / SP,Ituano / SP,13/09/2022,21:30,Moisés Lucarelli / Campinas
+292,CRB / AL,Cruzeiro / MG,17/09/2022,20:30,Rei Pelé / Maceio
+293,Sport / PE,Bahia / BA,12/09/2022,20:00,Adelmar da Costa Carvalho / Recife
+294,Brusque / SC,Vila Nova / GO,17/09/2022,16:30,Augusto Bauer / Brusque
+295,Novorizontino / SP,Grêmio / RS,16/09/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+296,Operário / PR,Guarani / SP,13/09/2022,19:00,Germano Kruger / Ponta Grossa
+297,Vasco da Gama / RJ,Náutico / PE,16/09/2022,19:00,São Januário / Rio de Janeiro
+298,Sampaio Corrêa / MA,Criciúma / SC,17/09/2022,19:00,Governador João Castelo / Sao Luis
+299,Tombense / MG,Londrina / PR,16/09/2022,21:30,Soares de Azevedo / Muriae
+300,Chapecoense / SC,CSA / AL,17/09/2022,11:00,Índio Condá / Chapeco
+301,Guarani / SP,Novorizontino / SP,20/09/2022,21:30,Brinco de Ouro da Princesa / Campinas
+302,CSA / AL,Tombense / MG,26/09/2022,20:00,Rei Pelé / Maceio
+303,Náutico / PE,Sampaio Corrêa / MA,23/09/2022,19:00,Eládio de Barros Carvalho / Recife
+304,Criciúma / SC,Chapecoense / SC,25/09/2022,18:30,Heriberto Hulse / Criciuma
+305,Ituano / SP,Brusque / SC,24/09/2022,11:00,Novelli Junior / Itu
+306,Londrina / PR,Ponte Preta / SP,23/09/2022,21:30,Jacy Scaff / Londrina
+307,Grêmio / RS,Sport / PE,20/09/2022,19:00,Arena do Grêmio / Porto Alegre
+308,Bahia / BA,Operário / PR,24/09/2022,18:15,Octávio Mangabeira / Salvador
+309,Cruzeiro / MG,Vasco da Gama / RJ,21/09/2022,21:00,Magalhães Pinto / Belo Horizonte
+310,Vila Nova / GO,CRB / AL,22/09/2022,21:30,Onésio Brasileiro Alvarenga / Goiania
+311,Ponte Preta / SP,Cruzeiro / MG,28/09/2022,19:00,Moisés Lucarelli / Campinas
+312,CSA / AL,Guarani / SP,30/09/2022,19:00,Rei Pelé / Maceio
+313,Sport / PE,Náutico / PE,28/09/2022,21:45,Adelmar da Costa Carvalho / Recife
+314,Brusque / SC,Criciúma / SC,01/10/2022,11:00,Augusto Bauer / Brusque
+315,Ituano / SP,CRB / AL,01/10/2022,18:30,Novelli Junior / Itu
+316,Operário / PR,Vila Nova / GO,30/09/2022,19:00,Germano Kruger / Ponta Grossa
+317,Vasco da Gama / RJ,Londrina / PR,29/09/2022,21:30,São Januário / Rio de Janeiro
+318,Sampaio Corrêa / MA,Grêmio / RS,30/09/2022,19:00,Governador João Castelo / Sao Luis
+319,Tombense / MG,Novorizontino / SP,29/09/2022,19:00,Soares de Azevedo / Muriae
+320,Chapecoense / SC,Bahia / BA,30/09/2022,21:30,Índio Condá / Chapeco
+321,Guarani / SP,Londrina / PR,03/10/2022,20:00,Brinco de Ouro da Princesa / Campinas
+322,CRB / AL,Chapecoense / SC,04/10/2022,19:00,Rei Pelé / Maceio
+323,Náutico / PE,Tombense / MG,04/10/2022,21:30,Eládio de Barros Carvalho / Recife
+324,Brusque / SC,Sport / PE,04/10/2022,19:00,Augusto Bauer / Brusque
+325,Novorizontino / SP,Bahia / BA,04/10/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+326,Operário / PR,Vasco da Gama / RJ,04/10/2022,19:00,Germano Kruger / Ponta Grossa
+327,Grêmio / RS,CSA / AL,04/10/2022,19:00,Arena do Grêmio / Porto Alegre
+328,Sampaio Corrêa / MA,Ponte Preta / SP,03/10/2022,20:00,Governador João Castelo / Sao Luis
+329,Cruzeiro / MG,Ituano / SP,05/10/2022,21:30,Magalhães Pinto / Belo Horizonte
+330,Vila Nova / GO,Criciúma / SC,04/10/2022,19:00,Onésio Brasileiro Alvarenga / Goiania
+331,Ponte Preta / SP,Vila Nova / GO,08/10/2022,19:00,Moisés Lucarelli / Campinas
+332,CSA / AL,Sampaio Corrêa / MA,07/10/2022,21:30,Rei Pelé / Maceio
+333,Sport / PE,Cruzeiro / MG,09/10/2022,16:00,Adelmar da Costa Carvalho / Recife
+334,Criciúma / SC,Náutico / PE,07/10/2022,19:00,Heriberto Hulse / Criciuma
+335,Ituano / SP,Guarani / SP,08/10/2022,18:30,Novelli Junior / Itu
+336,Londrina / PR,Grêmio / RS,08/10/2022,16:30,Jacy Scaff / Londrina
+337,Vasco da Gama / RJ,Novorizontino / SP,08/10/2022,18:30,São Januário / Rio de Janeiro
+338,Bahia / BA,Brusque / SC,08/10/2022,16:00,Octávio Mangabeira / Salvador
+339,Tombense / MG,CRB / AL,08/10/2022,18:30,Soares de Azevedo / Muriae
+340,Chapecoense / SC,Operário / PR,08/10/2022,11:00,Índio Condá / Chapeco
+341,Guarani / SP,CRB / AL,11/10/2022,19:00,Brinco de Ouro da Princesa / Campinas
+342,CSA / AL,Londrina / PR,14/10/2022,19:00,Rei Pelé / Maceio
+343,Sport / PE,Vasco da Gama / RJ,16/10/2022,16:00,Adelmar da Costa Carvalho / Recife
+344,Criciúma / SC,Ituano / SP,15/10/2022,19:00,Heriberto Hulse / Criciuma
+345,Novorizontino / SP,Náutico / PE,14/10/2022,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+346,Operário / PR,Brusque / SC,13/10/2022,21:30,Germano Kruger / Ponta Grossa
+347,Grêmio / RS,Bahia / BA,16/10/2022,16:00,Arena do Grêmio / Porto Alegre
+348,Sampaio Corrêa / MA,Chapecoense / SC,11/10/2022,21:30,Governador João Castelo / Sao Luis
+349,Tombense / MG,Ponte Preta / SP,15/10/2022,16:30,Soares de Azevedo / Muriae
+350,Vila Nova / GO,Cruzeiro / MG,14/10/2022,20:30,Onésio Brasileiro Alvarenga / Goiania
+351,Ponte Preta / SP,CSA / AL,20/10/2022,21:30,Moisés Lucarelli / Campinas
+352,CRB / AL,Operário / PR,21/10/2022,21:30,Rei Pelé / Maceio
+353,Náutico / PE,Grêmio / RS,23/10/2022,16:00,Eládio de Barros Carvalho / Recife
+354,Brusque / SC,Novorizontino / SP,18/10/2022,19:00,Augusto Bauer / Brusque
+355,Ituano / SP,Sampaio Corrêa / MA,22/10/2022,16:30,Novelli Junior / Itu
+356,Londrina / PR,Sport / PE,22/10/2022,16:30,Jacy Scaff / Londrina
+357,Vasco da Gama / RJ,Criciúma / SC,22/10/2022,16:30,São Januário / Rio de Janeiro
+358,Bahia / BA,Vila Nova / GO,22/10/2022,16:30,Octávio Mangabeira / Salvador
+359,Cruzeiro / MG,Guarani / SP,18/10/2022,21:30,Magalhães Pinto / Belo Horizonte
+360,Chapecoense / SC,Tombense / MG,21/10/2022,19:15,Índio Condá / Chapeco
+361,Ponte Preta / SP,Criciúma / SC,28/10/2022,21:30,Moisés Lucarelli / Campinas
+362,CSA / AL,Vila Nova / GO,25/10/2022,21:30,Rei Pelé / Maceio
+363,Sport / PE,Operário / PR,28/10/2022,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+364,Brusque / SC,CRB / AL,25/10/2022,19:00,Augusto Bauer / Brusque
+365,Novorizontino / SP,Cruzeiro / MG,27/10/2022,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+366,Londrina / PR,Ituano / SP,28/10/2022,19:00,Jacy Scaff / Londrina
+367,Vasco da Gama / RJ,Sampaio Corrêa / MA,27/10/2022,21:45,São Januário / Rio de Janeiro
+368,Bahia / BA,Guarani / SP,28/10/2022,19:00,Octávio Mangabeira / Salvador
+369,Tombense / MG,Grêmio / RS,28/10/2022,19:00,Soares de Azevedo / Muriae
+370,Chapecoense / SC,Náutico / PE,29/10/2022,19:00,Índio Condá / Chapeco
+371,Guarani / SP,Chapecoense / SC,06/11/2022,16:00,Brinco de Ouro da Princesa / Campinas
+372,CRB / AL,Bahia / BA,06/11/2022,18:30,Rei Pelé / Maceio
+373,Náutico / PE,Ponte Preta / SP,04/11/2022,21:30,Eládio de Barros Carvalho / Recife
+374,Criciúma / SC,Tombense / MG,05/11/2022,16:00,Heriberto Hulse / Criciuma
+375,Ituano / SP,Vasco da Gama / RJ,06/11/2022,18:30,Novelli Junior / Itu
+376,Operário / PR,Novorizontino / SP,06/11/2022,18:30,Germano Kruger / Ponta Grossa
+377,Grêmio / RS,Brusque / SC,03/11/2022,20:00,Arena do Grêmio / Porto Alegre
+378,Sampaio Corrêa / MA,Londrina / PR,05/11/2022,18:00,Governador João Castelo / Sao Luis
+379,Cruzeiro / MG,CSA / AL,06/11/2022,18:30,Magalhães Pinto / Belo Horizonte
+380,Vila Nova / GO,Sport / PE,06/11/2022,18:30,Onésio Brasileiro Alvarenga / Goiania

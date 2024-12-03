@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Vasco da Gama / RJ,Portuguesa / SP
-002,Fluminense / RJ,Athletico Paranaense / PR
-003,Corinthians / SP,Botafogo / RJ
-004,Vitória / BA,Internacional / RS
-005,Grêmio / RS,Náutico / PE
-006,Ponte Preta / SP,São Paulo / SP
-007,Criciúma / SC,Bahia / BA
-008,Cruzeiro / MG,Goiás / GO
-009,Coritiba / PR,Atlético Mineiro / MG
-010,Santos / SP,Flamengo / RJ
-011,Botafogo / RJ,Santos / SP
-012,Flamengo / RJ,Ponte Preta / SP
-013,São Paulo / SP,Vasco da Gama / RJ
-014,Bahia / BA,Coritiba / PR
-015,Internacional / RS,Criciúma / SC
-016,Goiás / GO,Corinthians / SP
-017,Náutico / PE,Vitória / BA
-018,Atlético Mineiro / MG,Grêmio / RS
-019,Athletico Paranaense / PR,Cruzeiro / MG
-020,Portuguesa / SP,Fluminense / RJ
-021,Botafogo / RJ,Cruzeiro / MG
-022,Fluminense / RJ,Criciúma / SC
-023,Corinthians / SP,Ponte Preta / SP
-024,Vitória / BA,Vasco da Gama / RJ
-025,Internacional / RS,Bahia / BA
-026,Goiás / GO,Coritiba / PR
-027,Náutico / PE,Portuguesa / SP
-028,Atlético Mineiro / MG,São Paulo / SP
-029,Athletico Paranaense / PR,Flamengo / RJ
-030,Santos / SP,Grêmio / RS
-031,Vasco da Gama / RJ,Atlético Mineiro / MG
-032,Flamengo / RJ,Náutico / PE
-033,São Paulo / SP,Goiás / GO
-034,Bahia / BA,Botafogo / RJ
-035,Grêmio / RS,Vitória / BA
-036,Ponte Preta / SP,Athletico Paranaense / PR
-037,Criciúma / SC,Santos / SP
-038,Cruzeiro / MG,Corinthians / SP
-039,Coritiba / PR,Fluminense / RJ
-040,Portuguesa / SP,Internacional / RS
-041,Vasco da Gama / RJ,Bahia / BA
-042,Fluminense / RJ,Goiás / GO
-043,Corinthians / SP,Portuguesa / SP
-044,Vitória / BA,Athletico Paranaense / PR
-045,Grêmio / RS,São Paulo / SP
-046,Ponte Preta / SP,Botafogo / RJ
-047,Criciúma / SC,Flamengo / RJ
-048,Cruzeiro / MG,Internacional / RS
-049,Coritiba / PR,Náutico / PE
-050,Santos / SP,Atlético Mineiro / MG
-051,Botafogo / RJ,Fluminense / RJ
-052,Flamengo / RJ,Coritiba / PR
-053,São Paulo / SP,Santos / SP
-054,Bahia / BA,Corinthians / SP
-055,Internacional / RS,Vasco da Gama / RJ
-056,Goiás / GO,Vitória / BA
-057,Náutico / PE,Ponte Preta / SP
-058,Atlético Mineiro / MG,Criciúma / SC
-059,Athletico Paranaense / PR,Grêmio / RS
-060,Portuguesa / SP,Cruzeiro / MG
-061,Vasco da Gama / RJ,Flamengo / RJ
-062,Fluminense / RJ,Internacional / RS
-063,Corinthians / SP,Atlético Mineiro / MG
-064,Vitória / BA,São Paulo / SP
-065,Grêmio / RS,Botafogo / RJ
-066,Ponte Preta / SP,Bahia / BA
-067,Criciúma / SC,Goiás / GO
-068,Cruzeiro / MG,Náutico / PE
-069,Coritiba / PR,Athletico Paranaense / PR
-070,Santos / SP,Portuguesa / SP
-071,Botafogo / RJ,Náutico / PE
-072,Fluminense / RJ,Vasco da Gama / RJ
-073,São Paulo / SP,Cruzeiro / MG
-074,Vitória / BA,Bahia / BA
-075,Internacional / RS,Flamengo / RJ
-076,Goiás / GO,Portuguesa / SP
-077,Criciúma / SC,Grêmio / RS
-078,Atlético Mineiro / MG,Ponte Preta / SP
-079,Athletico Paranaense / PR,Corinthians / SP
-080,Santos / SP,Coritiba / PR
-081,Vasco da Gama / RJ,Criciúma / SC
-082,Flamengo / RJ,Botafogo / RJ
-083,Corinthians / SP,São Paulo / SP
-084,Bahia / BA,Goiás / GO
-085,Grêmio / RS,Fluminense / RJ
-086,Ponte Preta / SP,Santos / SP
-087,Náutico / PE,Internacional / RS
-088,Cruzeiro / MG,Atlético Mineiro / MG
-089,Coritiba / PR,Vitória / BA
-090,Portuguesa / SP,Athletico Paranaense / PR
-091,Botafogo / RJ,Vitória / BA
-092,Fluminense / RJ,Cruzeiro / MG
-093,Corinthians / SP,Grêmio / RS
-094,Bahia / BA,Flamengo / RJ
-095,Internacional / RS,Santos / SP
-096,Goiás / GO,Vasco da Gama / RJ
-097,Náutico / PE,São Paulo / SP
-098,Atlético Mineiro / MG,Athletico Paranaense / PR
-099,Coritiba / PR,Ponte Preta / SP
-100,Portuguesa / SP,Criciúma / SC
-101,Vasco da Gama / RJ,Botafogo / RJ
-102,Flamengo / RJ,Atlético Mineiro / MG
-103,São Paulo / SP,Bahia / BA
-104,Vitória / BA,Portuguesa / SP
-105,Grêmio / RS,Internacional / RS
-106,Ponte Preta / SP,Fluminense / RJ
-107,Criciúma / SC,Corinthians / SP
-108,Cruzeiro / MG,Coritiba / PR
-109,Athletico Paranaense / PR,Goiás / GO
-110,Santos / SP,Náutico / PE
-111,Vasco da Gama / RJ,Ponte Preta / SP
-112,Flamengo / RJ,Portuguesa / SP
-113,São Paulo / SP,Internacional / RS
-114,Vitória / BA,Fluminense / RJ
-115,Grêmio / RS,Coritiba / PR
-116,Goiás / GO,Náutico / PE
-117,Criciúma / SC,Cruzeiro / MG
-118,Atlético Mineiro / MG,Botafogo / RJ
-119,Athletico Paranaense / PR,Bahia / BA
-120,Santos / SP,Corinthians / SP
-121,Botafogo / RJ,Goiás / GO
-122,Fluminense / RJ,Flamengo / RJ
-123,Corinthians / SP,Vitória / BA
-124,Bahia / BA,Grêmio / RS
-125,Internacional / RS,Athletico Paranaense / PR
-126,Ponte Preta / SP,Criciúma / SC
-127,Náutico / PE,Atlético Mineiro / MG
-128,Cruzeiro / MG,Santos / SP
-129,Coritiba / PR,Vasco da Gama / RJ
-130,Portuguesa / SP,São Paulo / SP
-131,Botafogo / RJ,Internacional / RS
-132,Fluminense / RJ,Corinthians / SP
-133,São Paulo / SP,Athletico Paranaense / PR
-134,Vitória / BA,Ponte Preta / SP
-135,Grêmio / RS,Cruzeiro / MG
-136,Goiás / GO,Flamengo / RJ
-137,Criciúma / SC,Náutico / PE
-138,Atlético Mineiro / MG,Bahia / BA
-139,Coritiba / PR,Portuguesa / SP
-140,Santos / SP,Vasco da Gama / RJ
-141,Vasco da Gama / RJ,Grêmio / RS
-142,Flamengo / RJ,São Paulo / SP
-143,Corinthians / SP,Coritiba / PR
-144,Bahia / BA,Santos / SP
-145,Internacional / RS,Atlético Mineiro / MG
-146,Ponte Preta / SP,Goiás / GO
-147,Náutico / PE,Fluminense / RJ
-148,Cruzeiro / MG,Vitória / BA
-149,Athletico Paranaense / PR,Criciúma / SC
-150,Portuguesa / SP,Botafogo / RJ
-151,Vasco da Gama / RJ,Corinthians / SP
-152,Flamengo / RJ,Grêmio / RS
-153,São Paulo / SP,Fluminense / RJ
-154,Bahia / BA,Náutico / PE
-155,Internacional / RS,Goiás / GO
-156,Ponte Preta / SP,Cruzeiro / MG
-157,Criciúma / SC,Coritiba / PR
-158,Atlético Mineiro / MG,Portuguesa / SP
-159,Athletico Paranaense / PR,Botafogo / RJ
-160,Santos / SP,Vitória / BA
-161,Botafogo / RJ,São Paulo / SP
-162,Fluminense / RJ,Santos / SP
-163,Corinthians / SP,Flamengo / RJ
-164,Vitória / BA,Criciúma / SC
-165,Grêmio / RS,Ponte Preta / SP
-166,Goiás / GO,Atlético Mineiro / MG
-167,Náutico / PE,Athletico Paranaense / PR
-168,Cruzeiro / MG,Vasco da Gama / RJ
-169,Coritiba / PR,Internacional / RS
-170,Portuguesa / SP,Bahia / BA
-171,Botafogo / RJ,Coritiba / PR
-172,Flamengo / RJ,Vitória / BA
-173,São Paulo / SP,Criciúma / SC
-174,Bahia / BA,Cruzeiro / MG
-175,Internacional / RS,Corinthians / SP
-176,Goiás / GO,Grêmio / RS
-177,Náutico / PE,Vasco da Gama / RJ
-178,Atlético Mineiro / MG,Fluminense / RJ
-179,Athletico Paranaense / PR,Santos / SP
-180,Portuguesa / SP,Ponte Preta / SP
-181,Vasco da Gama / RJ,Athletico Paranaense / PR
-182,Fluminense / RJ,Bahia / BA
-183,Corinthians / SP,Náutico / PE
-184,Vitória / BA,Atlético Mineiro / MG
-185,Grêmio / RS,Portuguesa / SP
-186,Ponte Preta / SP,Internacional / RS
-187,Criciúma / SC,Botafogo / RJ
-188,Cruzeiro / MG,Flamengo / RJ
-189,Coritiba / PR,São Paulo / SP
-190,Santos / SP,Goiás / GO
-191,Botafogo / RJ,Corinthians / SP
-192,Flamengo / RJ,Santos / SP
-193,São Paulo / SP,Ponte Preta / SP
-194,Bahia / BA,Criciúma / SC
-195,Internacional / RS,Vitória / BA
-196,Goiás / GO,Cruzeiro / MG
-197,Náutico / PE,Grêmio / RS
-198,Atlético Mineiro / MG,Coritiba / PR
-199,Athletico Paranaense / PR,Fluminense / RJ
-200,Portuguesa / SP,Vasco da Gama / RJ
-201,Vasco da Gama / RJ,São Paulo / SP
-202,Fluminense / RJ,Portuguesa / SP
-203,Corinthians / SP,Goiás / GO
-204,Vitória / BA,Náutico / PE
-205,Grêmio / RS,Atlético Mineiro / MG
-206,Ponte Preta / SP,Flamengo / RJ
-207,Criciúma / SC,Internacional / RS
-208,Cruzeiro / MG,Athletico Paranaense / PR
-209,Coritiba / PR,Bahia / BA
-210,Santos / SP,Botafogo / RJ
-211,Vasco da Gama / RJ,Vitória / BA
-212,Flamengo / RJ,Athletico Paranaense / PR
-213,São Paulo / SP,Atlético Mineiro / MG
-214,Bahia / BA,Internacional / RS
-215,Grêmio / RS,Santos / SP
-216,Ponte Preta / SP,Corinthians / SP
-217,Criciúma / SC,Fluminense / RJ
-218,Cruzeiro / MG,Botafogo / RJ
-219,Coritiba / PR,Goiás / GO
-220,Portuguesa / SP,Náutico / PE
-221,Botafogo / RJ,Bahia / BA
-222,Fluminense / RJ,Coritiba / PR
-223,Corinthians / SP,Cruzeiro / MG
-224,Vitória / BA,Grêmio / RS
-225,Internacional / RS,Portuguesa / SP
-226,Goiás / GO,São Paulo / SP
-227,Náutico / PE,Flamengo / RJ
-228,Atlético Mineiro / MG,Vasco da Gama / RJ
-229,Athletico Paranaense / PR,Ponte Preta / SP
-230,Santos / SP,Criciúma / SC
-231,Botafogo / RJ,Ponte Preta / SP
-232,Flamengo / RJ,Criciúma / SC
-233,São Paulo / SP,Grêmio / RS
-234,Bahia / BA,Vasco da Gama / RJ
-235,Internacional / RS,Cruzeiro / MG
-236,Goiás / GO,Fluminense / RJ
-237,Náutico / PE,Coritiba / PR
-238,Atlético Mineiro / MG,Santos / SP
-239,Athletico Paranaense / PR,Vitória / BA
-240,Portuguesa / SP,Corinthians / SP
-241,Vasco da Gama / RJ,Internacional / RS
-242,Fluminense / RJ,Botafogo / RJ
-243,Corinthians / SP,Bahia / BA
-244,Vitória / BA,Goiás / GO
-245,Grêmio / RS,Athletico Paranaense / PR
-246,Ponte Preta / SP,Náutico / PE
-247,Criciúma / SC,Atlético Mineiro / MG
-248,Cruzeiro / MG,Portuguesa / SP
-249,Coritiba / PR,Flamengo / RJ
-250,Santos / SP,São Paulo / SP
-251,Botafogo / RJ,Grêmio / RS
-252,Flamengo / RJ,Vasco da Gama / RJ
-253,São Paulo / SP,Vitória / BA
-254,Bahia / BA,Ponte Preta / SP
-255,Internacional / RS,Fluminense / RJ
-256,Goiás / GO,Criciúma / SC
-257,Náutico / PE,Cruzeiro / MG
-258,Atlético Mineiro / MG,Corinthians / SP
-259,Athletico Paranaense / PR,Coritiba / PR
-260,Portuguesa / SP,Santos / SP
-261,Vasco da Gama / RJ,Fluminense / RJ
-262,Flamengo / RJ,Internacional / RS
-263,Corinthians / SP,Athletico Paranaense / PR
-264,Bahia / BA,Vitória / BA
-265,Grêmio / RS,Criciúma / SC
-266,Ponte Preta / SP,Atlético Mineiro / MG
-267,Náutico / PE,Botafogo / RJ
-268,Cruzeiro / MG,São Paulo / SP
-269,Coritiba / PR,Santos / SP
-270,Portuguesa / SP,Goiás / GO
-271,Botafogo / RJ,Flamengo / RJ
-272,Fluminense / RJ,Grêmio / RS
-273,São Paulo / SP,Corinthians / SP
-274,Vitória / BA,Coritiba / PR
-275,Internacional / RS,Náutico / PE
-276,Goiás / GO,Bahia / BA
-277,Criciúma / SC,Vasco da Gama / RJ
-278,Atlético Mineiro / MG,Cruzeiro / MG
-279,Athletico Paranaense / PR,Portuguesa / SP
-280,Santos / SP,Ponte Preta / SP
-281,Vasco da Gama / RJ,Goiás / GO
-282,Flamengo / RJ,Bahia / BA
-283,São Paulo / SP,Náutico / PE
-284,Vitória / BA,Botafogo / RJ
-285,Grêmio / RS,Corinthians / SP
-286,Ponte Preta / SP,Coritiba / PR
-287,Criciúma / SC,Portuguesa / SP
-288,Cruzeiro / MG,Fluminense / RJ
-289,Athletico Paranaense / PR,Atlético Mineiro / MG
-290,Santos / SP,Internacional / RS
-291,Botafogo / RJ,Vasco da Gama / RJ
-292,Fluminense / RJ,Ponte Preta / SP
-293,Corinthians / SP,Criciúma / SC
-294,Bahia / BA,São Paulo / SP
-295,Internacional / RS,Grêmio / RS
-296,Goiás / GO,Athletico Paranaense / PR
-297,Náutico / PE,Santos / SP
-298,Atlético Mineiro / MG,Flamengo / RJ
-299,Coritiba / PR,Cruzeiro / MG
-300,Portuguesa / SP,Vitória / BA
-301,Botafogo / RJ,Atlético Mineiro / MG
-302,Fluminense / RJ,Vitória / BA
-303,Corinthians / SP,Santos / SP
-304,Bahia / BA,Athletico Paranaense / PR
-305,Internacional / RS,São Paulo / SP
-306,Ponte Preta / SP,Vasco da Gama / RJ
-307,Náutico / PE,Goiás / GO
-308,Cruzeiro / MG,Criciúma / SC
-309,Coritiba / PR,Grêmio / RS
-310,Portuguesa / SP,Flamengo / RJ
-311,Vasco da Gama / RJ,Coritiba / PR
-312,Flamengo / RJ,Fluminense / RJ
-313,São Paulo / SP,Portuguesa / SP
-314,Vitória / BA,Corinthians / SP
-315,Grêmio / RS,Bahia / BA
-316,Goiás / GO,Botafogo / RJ
-317,Criciúma / SC,Ponte Preta / SP
-318,Atlético Mineiro / MG,Náutico / PE
-319,Athletico Paranaense / PR,Internacional / RS
-320,Santos / SP,Cruzeiro / MG
-321,Vasco da Gama / RJ,Santos / SP
-322,Flamengo / RJ,Goiás / GO
-323,Corinthians / SP,Fluminense / RJ
-324,Bahia / BA,Atlético Mineiro / MG
-325,Internacional / RS,Botafogo / RJ
-326,Ponte Preta / SP,Vitória / BA
-327,Náutico / PE,Criciúma / SC
-328,Cruzeiro / MG,Grêmio / RS
-329,Athletico Paranaense / PR,São Paulo / SP
-330,Portuguesa / SP,Coritiba / PR
-331,Botafogo / RJ,Portuguesa / SP
-332,Fluminense / RJ,Náutico / PE
-333,São Paulo / SP,Flamengo / RJ
-334,Vitória / BA,Cruzeiro / MG
-335,Grêmio / RS,Vasco da Gama / RJ
-336,Goiás / GO,Ponte Preta / SP
-337,Criciúma / SC,Athletico Paranaense / PR
-338,Atlético Mineiro / MG,Internacional / RS
-339,Coritiba / PR,Corinthians / SP
-340,Santos / SP,Bahia / BA
-341,Botafogo / RJ,Athletico Paranaense / PR
-342,Fluminense / RJ,São Paulo / SP
-343,Corinthians / SP,Vasco da Gama / RJ
-344,Vitória / BA,Santos / SP
-345,Grêmio / RS,Flamengo / RJ
-346,Goiás / GO,Internacional / RS
-347,Náutico / PE,Bahia / BA
-348,Cruzeiro / MG,Ponte Preta / SP
-349,Coritiba / PR,Criciúma / SC
-350,Portuguesa / SP,Atlético Mineiro / MG
-351,Vasco da Gama / RJ,Cruzeiro / MG
-352,Flamengo / RJ,Corinthians / SP
-353,São Paulo / SP,Botafogo / RJ
-354,Bahia / BA,Portuguesa / SP
-355,Internacional / RS,Coritiba / PR
-356,Ponte Preta / SP,Grêmio / RS
-357,Criciúma / SC,Vitória / BA
-358,Atlético Mineiro / MG,Goiás / GO
-359,Athletico Paranaense / PR,Náutico / PE
-360,Santos / SP,Fluminense / RJ
-361,Vasco da Gama / RJ,Náutico / PE
-362,Fluminense / RJ,Atlético Mineiro / MG
-363,Corinthians / SP,Internacional / RS
-364,Vitória / BA,Flamengo / RJ
-365,Grêmio / RS,Goiás / GO
-366,Ponte Preta / SP,Portuguesa / SP
-367,Criciúma / SC,São Paulo / SP
-368,Cruzeiro / MG,Bahia / BA
-369,Coritiba / PR,Botafogo / RJ
-370,Santos / SP,Athletico Paranaense / PR
-371,Botafogo / RJ,Criciúma / SC
-372,Flamengo / RJ,Cruzeiro / MG
-373,São Paulo / SP,Coritiba / PR
-374,Bahia / BA,Fluminense / RJ
-375,Internacional / RS,Ponte Preta / SP
-376,Goiás / GO,Santos / SP
-377,Náutico / PE,Corinthians / SP
-378,Atlético Mineiro / MG,Vitória / BA
-379,Athletico Paranaense / PR,Vasco da Gama / RJ
-380,Portuguesa / SP,Grêmio / RS
+Game,Home,Away,Date,Time,Stadium
+001,Vasco da Gama / RJ,Portuguesa / SP,25/05/2013,18:30,São Januário / Rio de Janeiro
+002,Fluminense / RJ,Athletico Paranaense / PR,26/05/2013,18:30,Cláudio Moacyr de Azevedo / Macaé
+003,Corinthians / SP,Botafogo / RJ,25/05/2013,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+004,Vitória / BA,Internacional / RS,25/05/2013,18:30,Octávio Mangabeira / Salvador
+005,Grêmio / RS,Náutico / PE,26/05/2013,16:00,Estádio Alfredo Jaconi / Caxias do Sul
+006,Ponte Preta / SP,São Paulo / SP,26/05/2013,16:00,Moisés Lucarelli / Campinas
+007,Criciúma / SC,Bahia / BA,26/05/2013,16:00,Estádio Heriberto Hulse / Criciúma
+008,Cruzeiro / MG,Goiás / GO,26/05/2013,18:30,Estádio Raimundo Sampaio / Belo Horizonte
+009,Coritiba / PR,Atlético Mineiro / MG,26/05/2013,18:30,Major Antônio do Couto Pereira / Curitiba
+010,Santos / SP,Flamengo / RJ,26/05/2013,16:00,Estádio Nacional Mané Garrincha / Brasilia
+011,Botafogo / RJ,Santos / SP,29/05/2013,19:30,Estádio General Raulino de Oliveira / Volta Redonda
+012,Flamengo / RJ,Ponte Preta / SP,29/05/2013,21:00,Mário Helênio / Juiz de Fora
+013,São Paulo / SP,Vasco da Gama / RJ,29/05/2013,19:30,Estádio Cícero Pompeu de Toledo / São Paulo
+014,Bahia / BA,Coritiba / PR,29/05/2013,21:00,Governador Roberto Santos / Salvador
+015,Internacional / RS,Criciúma / SC,30/05/2013,19:30,Francisco Stédille / Caxias do Sul
+016,Goiás / GO,Corinthians / SP,29/05/2013,22:00,Serra Dourada / Goiânia
+017,Náutico / PE,Vitória / BA,29/05/2013,21:00,Eládio de Barros Carvalho / Recife
+018,Atlético Mineiro / MG,Grêmio / RS,09/06/2013,18:30,Estádio Joaquim Henrique Nogueira / Sete Lagoas
+019,Athletico Paranaense / PR,Cruzeiro / MG,29/05/2013,15:00,Érton Coelho Queiroz / Curitiba
+020,Portuguesa / SP,Fluminense / RJ,12/06/2013,22:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+021,Botafogo / RJ,Cruzeiro / MG,01/06/2013,16:20,Estádio General Raulino de Oliveira / Volta Redonda
+022,Fluminense / RJ,Criciúma / SC,02/06/2013,18:30,Cláudio Moacyr de Azevedo / Macaé
+023,Corinthians / SP,Ponte Preta / SP,01/06/2013,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+024,Vitória / BA,Vasco da Gama / RJ,01/06/2013,18:30,Manoel Barradas / Salvador
+025,Internacional / RS,Bahia / BA,02/06/2013,18:30,Francisco Stédille / Caxias do Sul
+026,Goiás / GO,Coritiba / PR,01/06/2013,18:30,Serra Dourada / Goiânia
+027,Náutico / PE,Portuguesa / SP,02/06/2013,18:30,Eládio de Barros Carvalho / Recife
+028,Atlético Mineiro / MG,São Paulo / SP,02/06/2013,18:30,Estádio Raimundo Sampaio / Belo Horizonte
+029,Athletico Paranaense / PR,Flamengo / RJ,01/06/2013,16:20,Arena Joinville / Joinville
+030,Santos / SP,Grêmio / RS,01/06/2013,16:20,Urbano Caldeira / Santos
+031,Vasco da Gama / RJ,Atlético Mineiro / MG,05/06/2013,21:00,Estádio General Raulino de Oliveira / Volta Redonda
+032,Flamengo / RJ,Náutico / PE,05/06/2013,22:00,Orlando Scarpelli / Florianopolis
+033,São Paulo / SP,Goiás / GO,05/06/2013,19:30,Estádio Cícero Pompeu de Toledo / São Paulo
+034,Bahia / BA,Botafogo / RJ,05/06/2013,22:00,Estadual Lourival Baptista / Aracaju
+035,Grêmio / RS,Vitória / BA,05/06/2013,21:00,Arena do Grêmio / Porto Alegre
+036,Ponte Preta / SP,Athletico Paranaense / PR,05/06/2013,21:00,Moisés Lucarelli / Campinas
+037,Criciúma / SC,Santos / SP,05/06/2013,19:30,Estádio Heriberto Hulse / Criciúma
+038,Cruzeiro / MG,Corinthians / SP,05/06/2013,22:00,Estádio Joaquim Henrique Nogueira / Sete Lagoas
+039,Coritiba / PR,Fluminense / RJ,06/06/2013,21:00,Major Antônio do Couto Pereira / Curitiba
+040,Portuguesa / SP,Internacional / RS,05/06/2013,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+041,Vasco da Gama / RJ,Bahia / BA,08/06/2013,18:30,Estádio General Raulino de Oliveira / Volta Redonda
+042,Fluminense / RJ,Goiás / GO,09/06/2013,18:30,Cláudio Moacyr de Azevedo / Macaé
+043,Corinthians / SP,Portuguesa / SP,08/06/2013,18:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+044,Vitória / BA,Athletico Paranaense / PR,09/06/2013,18:30,Alberto Oliveira / Feira de Santana
+045,Grêmio / RS,São Paulo / SP,12/06/2013,22:00,Arena do Grêmio / Porto Alegre
+046,Ponte Preta / SP,Botafogo / RJ,08/06/2013,21:00,Moisés Lucarelli / Campinas
+047,Criciúma / SC,Flamengo / RJ,08/06/2013,16:20,Estádio Heriberto Hulse / Criciúma
+048,Cruzeiro / MG,Internacional / RS,08/06/2013,16:20,Estádio Joaquim Henrique Nogueira / Sete Lagoas
+049,Coritiba / PR,Náutico / PE,09/06/2013,18:30,Major Antônio do Couto Pereira / Curitiba
+050,Santos / SP,Atlético Mineiro / MG,12/06/2013,19:30,Urbano Caldeira / Santos
+051,Botafogo / RJ,Fluminense / RJ,07/07/2013,18:30,Arena Pernambuco / 
+052,Flamengo / RJ,Coritiba / PR,06/07/2013,18:30,Estádio Nacional / Brasília
+053,São Paulo / SP,Santos / SP,07/07/2013,16:00,Estádio Cícero Pompeu de Toledo / São Paulo
+054,Bahia / BA,Corinthians / SP,07/07/2013,16:00,Octávio Mangabeira / Salvador
+055,Internacional / RS,Vasco da Gama / RJ,07/07/2013,16:00,Francisco Stédille / Caxias do Sul
+056,Goiás / GO,Vitória / BA,07/07/2013,16:00,Serra Dourada / Goiânia
+057,Náutico / PE,Ponte Preta / SP,06/07/2013,18:30,Arena Pernambuco / 
+058,Atlético Mineiro / MG,Criciúma / SC,07/07/2013,18:30,Estádio Raimundo Sampaio / Belo Horizonte
+059,Athletico Paranaense / PR,Grêmio / RS,06/07/2013,18:30,Durival Britto e Silva / Curitiba
+060,Portuguesa / SP,Cruzeiro / MG,06/07/2013,21:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+061,Vasco da Gama / RJ,Flamengo / RJ,14/07/2013,18:30,Estádio Nacional Mané Garrincha / Brasilia
+062,Fluminense / RJ,Internacional / RS,13/07/2013,18:30,Cláudio Moacyr de Azevedo / Macaé
+063,Corinthians / SP,Atlético Mineiro / MG,14/07/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+064,Vitória / BA,São Paulo / SP,14/07/2013,16:00,Manoel Barradas / Salvador
+065,Grêmio / RS,Botafogo / RJ,14/07/2013,16:00,Arena do Grêmio / Porto Alegre
+066,Ponte Preta / SP,Bahia / BA,13/07/2013,21:00,Moisés Lucarelli / Campinas
+067,Criciúma / SC,Goiás / GO,14/07/2013,18:30,Heriberto Hulse / Criciuma
+068,Cruzeiro / MG,Náutico / PE,14/07/2013,18:30,Governador Magalhães Pinto / Belo Horizonte
+069,Coritiba / PR,Athletico Paranaense / PR,14/07/2013,16:00,Major Antônio do Couto Pereira / Curitiba
+070,Santos / SP,Portuguesa / SP,13/07/2013,18:30,Urbano Caldeira / Santos
+071,Botafogo / RJ,Náutico / PE,20/07/2013,18:30,São Januário / Rio de Janeiro
+072,Fluminense / RJ,Vasco da Gama / RJ,21/07/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+073,São Paulo / SP,Cruzeiro / MG,20/07/2013,18:30,Estádio Cícero Pompeu de Toledo / São Paulo
+074,Vitória / BA,Bahia / BA,21/07/2013,16:00,Octávio Mangabeira / Salvador
+075,Internacional / RS,Flamengo / RJ,21/07/2013,16:00,Francisco Stédille / Caxias do Sul
+076,Goiás / GO,Portuguesa / SP,21/07/2013,18:30,Serra Dourada / Goiânia
+077,Criciúma / SC,Grêmio / RS,20/07/2013,18:30,Estádio Heriberto Hulse / Criciúma
+078,Atlético Mineiro / MG,Ponte Preta / SP,03/10/2013,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+079,Athletico Paranaense / PR,Corinthians / SP,21/07/2013,16:00,Durival Britto e Silva / Curitiba
+080,Santos / SP,Coritiba / PR,21/07/2013,16:00,Urbano Caldeira / Santos
+081,Vasco da Gama / RJ,Criciúma / SC,27/07/2013,18:30,São Januário / Rio de Janeiro
+082,Flamengo / RJ,Botafogo / RJ,28/07/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+083,Corinthians / SP,São Paulo / SP,28/07/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+084,Bahia / BA,Goiás / GO,28/07/2013,18:30,Octávio Mangabeira / Salvador
+085,Grêmio / RS,Fluminense / RJ,28/07/2013,16:00,Arena do Grêmio / Porto Alegre
+086,Ponte Preta / SP,Santos / SP,27/07/2013,21:00,Moisés Lucarelli / Campinas
+087,Náutico / PE,Internacional / RS,28/07/2013,16:00,Arena Pernambuco / São Lourenço da Mata
+088,Cruzeiro / MG,Atlético Mineiro / MG,28/07/2013,16:00,Governador Magalhães Pinto / Belo Horizonte
+089,Coritiba / PR,Vitória / BA,28/07/2013,18:30,Major Antônio do Couto Pereira / Curitiba
+090,Portuguesa / SP,Athletico Paranaense / PR,27/07/2013,18:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+091,Botafogo / RJ,Vitória / BA,01/08/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+092,Fluminense / RJ,Cruzeiro / MG,31/07/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+093,Corinthians / SP,Grêmio / RS,31/07/2013,21:50,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+094,Bahia / BA,Flamengo / RJ,31/07/2013,21:50,Octávio Mangabeira / Salvador
+095,Internacional / RS,Santos / SP,10/09/2013,19:30,Estádio do Vale / Novo Hamburgo
+096,Goiás / GO,Vasco da Gama / RJ,01/08/2013,21:00,Serra Dourada / Goiânia
+097,Náutico / PE,São Paulo / SP,03/09/2013,21:00,Arena Pernambuco / São Lourenço da Mata
+098,Atlético Mineiro / MG,Athletico Paranaense / PR,31/07/2013,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+099,Coritiba / PR,Ponte Preta / SP,31/07/2013,21:00,Major Antônio do Couto Pereira / Curitiba
+100,Portuguesa / SP,Criciúma / SC,31/07/2013,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+101,Vasco da Gama / RJ,Botafogo / RJ,04/08/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+102,Flamengo / RJ,Atlético Mineiro / MG,04/08/2013,16:00,Estádio Nacional / Brasília
+103,São Paulo / SP,Bahia / BA,10/07/2013,21:00,Estádio Cícero Pompeu de Toledo / São Paulo
+104,Vitória / BA,Portuguesa / SP,04/08/2013,18:30,Manoel Barradas / Salvador
+105,Grêmio / RS,Internacional / RS,04/08/2013,16:00,Arena do Grêmio / Porto Alegre
+106,Ponte Preta / SP,Fluminense / RJ,04/08/2013,16:00,Moisés Lucarelli / Campinas
+107,Criciúma / SC,Corinthians / SP,04/08/2013,16:00,Estádio Heriberto Hulse / Criciúma
+108,Cruzeiro / MG,Coritiba / PR,03/08/2013,18:30,Governador Magalhães Pinto / Belo Horizonte
+109,Athletico Paranaense / PR,Goiás / GO,04/08/2013,16:00,Durival Britto e Silva / Curitiba
+110,Santos / SP,Náutico / PE,25/09/2013,21:00,Urbano Caldeira / Santos
+111,Vasco da Gama / RJ,Ponte Preta / SP,08/08/2013,21:00,São Januário / Rio de Janeiro
+112,Flamengo / RJ,Portuguesa / SP,07/08/2013,21:00,Estádio Nacional / Brasília
+113,São Paulo / SP,Internacional / RS,24/07/2013,21:00,Estádio Cícero Pompeu de Toledo / São Paulo
+114,Vitória / BA,Fluminense / RJ,07/08/2013,19:30,Manoel Barradas / Salvador
+115,Grêmio / RS,Coritiba / PR,08/08/2013,21:00,Arena do Grêmio / Porto Alegre
+116,Goiás / GO,Náutico / PE,07/08/2013,21:50,Serra Dourada / Goiânia
+117,Criciúma / SC,Cruzeiro / MG,07/08/2013,19:30,Estádio Heriberto Hulse / Criciúma
+118,Atlético Mineiro / MG,Botafogo / RJ,07/08/2013,21:50,Estádio Raimundo Sampaio / Belo Horizonte
+119,Athletico Paranaense / PR,Bahia / BA,07/08/2013,21:00,Durival Britto e Silva / Curitiba
+120,Santos / SP,Corinthians / SP,07/08/2013,21:50,Urbano Caldeira / Santos
+121,Botafogo / RJ,Goiás / GO,10/08/2013,18:30,Estádio Nacional / Brasília
+122,Fluminense / RJ,Flamengo / RJ,11/08/2013,16:00,Jornalista Mario Filho / Rio de Janeiro
+123,Corinthians / SP,Vitória / BA,11/08/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+124,Bahia / BA,Grêmio / RS,11/08/2013,18:30,Octávio Mangabeira / Salvador
+125,Internacional / RS,Athletico Paranaense / PR,11/08/2013,18:30,Estádio do Vale / Novo Hamburgo
+126,Ponte Preta / SP,Criciúma / SC,11/08/2013,18:30,Moisés Lucarelli / Campinas
+127,Náutico / PE,Atlético Mineiro / MG,10/08/2013,18:30,Arena Pernambuco / 
+128,Cruzeiro / MG,Santos / SP,11/08/2013,16:00,Governador Magalhães Pinto / Belo Horizonte
+129,Coritiba / PR,Vasco da Gama / RJ,11/08/2013,16:00,Major Antônio do Couto Pereira / Curitiba
+130,Portuguesa / SP,São Paulo / SP,11/08/2013,18:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+131,Botafogo / RJ,Internacional / RS,15/08/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+132,Fluminense / RJ,Corinthians / SP,14/08/2013,21:50,Jornalista Mario Filho / Rio de Janeiro
+133,São Paulo / SP,Athletico Paranaense / PR,15/08/2013,19:30,Estádio Cícero Pompeu de Toledo / São Paulo
+134,Vitória / BA,Ponte Preta / SP,14/08/2013,21:00,Manoel Barradas / Salvador
+135,Grêmio / RS,Cruzeiro / MG,14/08/2013,21:50,Arena do Grêmio / Porto Alegre
+136,Goiás / GO,Flamengo / RJ,14/08/2013,21:50,Serra Dourada / Goiânia
+137,Criciúma / SC,Náutico / PE,14/08/2013,19:30,Estádio Heriberto Hulse / Criciúma
+138,Atlético Mineiro / MG,Bahia / BA,14/08/2013,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+139,Coritiba / PR,Portuguesa / SP,14/08/2013,21:00,Major Antônio do Couto Pereira / Curitiba
+140,Santos / SP,Vasco da Gama / RJ,14/08/2013,19:30,Urbano Caldeira / Santos
+141,Vasco da Gama / RJ,Grêmio / RS,17/08/2013,21:00,São Januário / Rio de Janeiro
+142,Flamengo / RJ,São Paulo / SP,18/08/2013,16:00,Estádio Nacional / Brasília
+143,Corinthians / SP,Coritiba / PR,18/08/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+144,Bahia / BA,Santos / SP,18/08/2013,18:30,Octávio Mangabeira / Salvador
+145,Internacional / RS,Atlético Mineiro / MG,18/08/2013,18:30,Estádio do Vale / Novo Hamburgo
+146,Ponte Preta / SP,Goiás / GO,18/08/2013,16:00,Moisés Lucarelli / Campinas
+147,Náutico / PE,Fluminense / RJ,17/08/2013,18:30,Arena Pernambuco / São Lourenço da Mata
+148,Cruzeiro / MG,Vitória / BA,17/08/2013,18:30,Governador Magalhães Pinto / Belo Horizonte
+149,Athletico Paranaense / PR,Criciúma / SC,18/08/2013,18:30,Durival Britto e Silva / Curitiba
+150,Portuguesa / SP,Botafogo / RJ,18/08/2013,16:00,Oswaldo Teixeira Duarte / São Paulo
+151,Vasco da Gama / RJ,Corinthians / SP,25/08/2013,16:00,Estádio Nacional / Brasília
+152,Flamengo / RJ,Grêmio / RS,24/08/2013,18:30,Estádio Nacional / Brasília
+153,São Paulo / SP,Fluminense / RJ,25/08/2013,16:00,Estádio Cícero Pompeu de Toledo / São Paulo
+154,Bahia / BA,Náutico / PE,25/08/2013,16:00,Octávio Mangabeira / Salvador
+155,Internacional / RS,Goiás / GO,25/08/2013,18:30,Estádio do Vale / Novo Hamburgo
+156,Ponte Preta / SP,Cruzeiro / MG,24/08/2013,18:30,Moisés Lucarelli / Campinas
+157,Criciúma / SC,Coritiba / PR,24/08/2013,21:00,Estádio Heriberto Hulse / Criciúma
+158,Atlético Mineiro / MG,Portuguesa / SP,25/08/2013,16:00,Estádio Raimundo Sampaio / Belo Horizonte
+159,Athletico Paranaense / PR,Botafogo / RJ,25/08/2013,18:30,Durival Britto e Silva / Curitiba
+160,Santos / SP,Vitória / BA,24/08/2013,18:30,Urbano Caldeira / Santos
+161,Botafogo / RJ,São Paulo / SP,01/09/2013,16:00,Jornalista Mario Filho / Rio de Janeiro
+162,Fluminense / RJ,Santos / SP,31/08/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+163,Corinthians / SP,Flamengo / RJ,01/09/2013,16:00,Paulo Machado de Carvalho / São Paulo
+164,Vitória / BA,Criciúma / SC,01/09/2013,16:00,Manoel Barradas / Salvador
+165,Grêmio / RS,Ponte Preta / SP,31/08/2013,18:30,Arena do Grêmio / Porto Alegre
+166,Goiás / GO,Atlético Mineiro / MG,31/08/2013,18:30,Serra Dourada / Goiânia
+167,Náutico / PE,Athletico Paranaense / PR,31/08/2013,18:30,Arena Pernambuco / São Lourenço da Mata
+168,Cruzeiro / MG,Vasco da Gama / RJ,01/09/2013,18:30,Governador Magalhães Pinto / Belo Horizonte
+169,Coritiba / PR,Internacional / RS,01/09/2013,16:00,Major Antônio do Couto Pereira / Curitiba
+170,Portuguesa / SP,Bahia / BA,31/08/2013,18:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+171,Botafogo / RJ,Coritiba / PR,05/09/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+172,Flamengo / RJ,Vitória / BA,04/09/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+173,São Paulo / SP,Criciúma / SC,05/09/2013,21:00,Estádio Cícero Pompeu de Toledo / São Paulo
+174,Bahia / BA,Cruzeiro / MG,04/09/2013,21:50,Octávio Mangabeira / Salvador
+175,Internacional / RS,Corinthians / SP,04/09/2013,21:50,Estádio do Vale / Novo Hamburgo
+176,Goiás / GO,Grêmio / RS,03/09/2013,19:30,Serra Dourada / Goiânia
+177,Náutico / PE,Vasco da Gama / RJ,05/09/2013,21:00,Arena Pernambuco / São Lourenço da Mata
+178,Atlético Mineiro / MG,Fluminense / RJ,04/09/2013,21:50,Estádio Raimundo Sampaio / Belo Horizonte
+179,Athletico Paranaense / PR,Santos / SP,04/09/2013,19:30,Durival Britto e Silva / Curitiba
+180,Portuguesa / SP,Ponte Preta / SP,04/09/2013,21:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+181,Vasco da Gama / RJ,Athletico Paranaense / PR,08/09/2013,18:30,São Januário / Rio de Janeiro
+182,Fluminense / RJ,Bahia / BA,07/09/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+183,Corinthians / SP,Náutico / PE,08/09/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+184,Vitória / BA,Atlético Mineiro / MG,07/09/2013,18:30,Manoel Barradas / Salvador
+185,Grêmio / RS,Portuguesa / SP,07/09/2013,21:00,Arena do Grêmio / Porto Alegre
+186,Ponte Preta / SP,Internacional / RS,07/09/2013,18:30,Moisés Lucarelli / Campinas
+187,Criciúma / SC,Botafogo / RJ,08/09/2013,18:30,Estádio Heriberto Hulse / Criciúma
+188,Cruzeiro / MG,Flamengo / RJ,08/09/2013,16:00,Governador Magalhães Pinto / Belo Horizonte
+189,Coritiba / PR,São Paulo / SP,08/09/2013,16:00,Major Antônio do Couto Pereira / Curitiba
+190,Santos / SP,Goiás / GO,07/09/2013,18:30,Urbano Caldeira / Santos
+191,Botafogo / RJ,Corinthians / SP,11/09/2013,21:50,Jornalista Mario Filho / Rio de Janeiro
+192,Flamengo / RJ,Santos / SP,12/09/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+193,São Paulo / SP,Ponte Preta / SP,12/09/2013,21:00,Estádio Cícero Pompeu de Toledo / São Paulo
+194,Bahia / BA,Criciúma / SC,11/09/2013,21:00,Octávio Mangabeira / Salvador
+195,Internacional / RS,Vitória / BA,12/09/2013,19:30,Estádio do Vale / Novo Hamburgo
+196,Goiás / GO,Cruzeiro / MG,11/09/2013,21:00,Serra Dourada / Goiânia
+197,Náutico / PE,Grêmio / RS,11/09/2013,21:50,Arena Pernambuco / São Lourenço da Mata
+198,Atlético Mineiro / MG,Coritiba / PR,12/09/2013,21:00,Estádio Raimundo Sampaio / Belo Horizonte
+199,Athletico Paranaense / PR,Fluminense / RJ,11/09/2013,19:30,Durival Britto e Silva / Curitiba
+200,Portuguesa / SP,Vasco da Gama / RJ,11/09/2013,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
+201,Vasco da Gama / RJ,São Paulo / SP,15/09/2013,16:00,São Januário / Rio de Janeiro
+202,Fluminense / RJ,Portuguesa / SP,14/09/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+203,Corinthians / SP,Goiás / GO,15/09/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+204,Vitória / BA,Náutico / PE,15/09/2013,18:30,Manoel Barradas / Salvador
+205,Grêmio / RS,Atlético Mineiro / MG,15/09/2013,18:30,Arena do Grêmio / Porto Alegre
+206,Ponte Preta / SP,Flamengo / RJ,15/09/2013,16:00,Moisés Lucarelli / Campinas
+207,Criciúma / SC,Internacional / RS,15/09/2013,16:00,Estádio Heriberto Hulse / Criciúma
+208,Cruzeiro / MG,Athletico Paranaense / PR,14/09/2013,18:30,Governador Magalhães Pinto / Belo Horizonte
+209,Coritiba / PR,Bahia / BA,15/09/2013,16:00,Major Antônio do Couto Pereira / Curitiba
+210,Santos / SP,Botafogo / RJ,15/09/2013,18:30,Urbano Caldeira / Santos
+211,Vasco da Gama / RJ,Vitória / BA,18/09/2013,19:30,São Januário / Rio de Janeiro
+212,Flamengo / RJ,Athletico Paranaense / PR,19/09/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+213,São Paulo / SP,Atlético Mineiro / MG,18/09/2013,21:50,Estádio Cícero Pompeu de Toledo / São Paulo
+214,Bahia / BA,Internacional / RS,19/09/2013,21:00,Octávio Mangabeira / Salvador
+215,Grêmio / RS,Santos / SP,18/09/2013,19:30,Arena do Grêmio / Porto Alegre
+216,Ponte Preta / SP,Corinthians / SP,18/09/2013,21:50,Moisés Lucarelli / Campinas
+217,Criciúma / SC,Fluminense / RJ,18/09/2013,21:00,Estádio Heriberto Hulse / Criciúma
+218,Cruzeiro / MG,Botafogo / RJ,18/09/2013,21:50,Governador Magalhães Pinto / Belo Horizonte
+219,Coritiba / PR,Goiás / GO,18/09/2013,21:00,Major Antônio do Couto Pereira / Curitiba
+220,Portuguesa / SP,Náutico / PE,19/09/2013,21:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+221,Botafogo / RJ,Bahia / BA,22/09/2013,16:00,Jornalista Mario Filho / Rio de Janeiro
+222,Fluminense / RJ,Coritiba / PR,21/09/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+223,Corinthians / SP,Cruzeiro / MG,22/09/2013,16:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+224,Vitória / BA,Grêmio / RS,21/09/2013,21:00,Manoel Barradas / Salvador
+225,Internacional / RS,Portuguesa / SP,22/09/2013,16:00,Estádio do Vale / Novo Hamburgo
+226,Goiás / GO,São Paulo / SP,22/09/2013,16:00,Serra Dourada / Goiânia
+227,Náutico / PE,Flamengo / RJ,22/09/2013,16:00,Arena Pernambuco / São Lourenço da Mata
+228,Atlético Mineiro / MG,Vasco da Gama / RJ,22/09/2013,18:30,Estádio Raimundo Sampaio / Belo Horizonte
+229,Athletico Paranaense / PR,Ponte Preta / SP,22/09/2013,18:30,Durival Britto e Silva / Curitiba
+230,Santos / SP,Criciúma / SC,22/09/2013,18:30,Urbano Caldeira / Santos
+231,Botafogo / RJ,Ponte Preta / SP,28/09/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+232,Flamengo / RJ,Criciúma / SC,29/09/2013,16:00,Jornalista Mario Filho / Rio de Janeiro
+233,São Paulo / SP,Grêmio / RS,29/09/2013,16:00,Estádio Cícero Pompeu de Toledo / São Paulo
+234,Bahia / BA,Vasco da Gama / RJ,29/09/2013,16:00,Octávio Mangabeira / Salvador
+235,Internacional / RS,Cruzeiro / MG,29/09/2013,18:30,Estádio do Vale / Novo Hamburgo
+236,Goiás / GO,Fluminense / RJ,28/09/2013,18:30,Serra Dourada / Goiânia
+237,Náutico / PE,Coritiba / PR,28/09/2013,18:30,Arena Pernambuco / São Lourenço da Mata
+238,Atlético Mineiro / MG,Santos / SP,29/09/2013,18:30,Estádio Raimundo Sampaio / Belo Horizonte
+239,Athletico Paranaense / PR,Vitória / BA,29/09/2013,18:30,Durival Britto e Silva / Curitiba
+240,Portuguesa / SP,Corinthians / SP,29/09/2013,16:00,Universitário Pedro Pedrossian / Campo Grande
+241,Vasco da Gama / RJ,Internacional / RS,03/10/2013,21:00,Cláudio Moacyr de Azevedo / Macaé
+242,Fluminense / RJ,Botafogo / RJ,02/10/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+243,Corinthians / SP,Bahia / BA,02/10/2013,21:50,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+244,Vitória / BA,Goiás / GO,02/10/2013,21:00,Octávio Mangabeira / Salvador
+245,Grêmio / RS,Athletico Paranaense / PR,02/10/2013,19:30,Arena do Grêmio / Porto Alegre
+246,Ponte Preta / SP,Náutico / PE,01/10/2013,19:30,Moisés Lucarelli / Campinas
+247,Criciúma / SC,Atlético Mineiro / MG,25/09/2013,19:30,Estádio Heriberto Hulse / Criciúma
+248,Cruzeiro / MG,Portuguesa / SP,02/10/2013,19:30,Governador Magalhães Pinto / Belo Horizonte
+249,Coritiba / PR,Flamengo / RJ,02/10/2013,21:50,Major Antônio do Couto Pereira / Curitiba
+250,Santos / SP,São Paulo / SP,02/10/2013,21:50,Urbano Caldeira / Santos
+251,Botafogo / RJ,Grêmio / RS,05/10/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+252,Flamengo / RJ,Vasco da Gama / RJ,06/10/2013,16:00,Estádio Nacional / Brasília
+253,São Paulo / SP,Vitória / BA,05/10/2013,21:00,Estádio Cícero Pompeu de Toledo / São Paulo
+254,Bahia / BA,Ponte Preta / SP,06/10/2013,18:30,Octávio Mangabeira / Salvador
+255,Internacional / RS,Fluminense / RJ,06/10/2013,16:00,Francisco Stédille / Caxias do Sul
+256,Goiás / GO,Criciúma / SC,06/10/2013,18:30,Serra Dourada / Goiânia
+257,Náutico / PE,Cruzeiro / MG,06/10/2013,16:00,Arena Pernambuco / São Lourenço da Mata
+258,Atlético Mineiro / MG,Corinthians / SP,06/10/2013,16:00,Estádio Raimundo Sampaio / Belo Horizonte
+259,Athletico Paranaense / PR,Coritiba / PR,06/10/2013,16:00,Durival Britto e Silva / Curitiba
+260,Portuguesa / SP,Santos / SP,06/10/2013,18:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+261,Vasco da Gama / RJ,Fluminense / RJ,09/10/2013,21:50,Aderbal Ramos da Silva / Florianópolis
+262,Flamengo / RJ,Internacional / RS,10/10/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+263,Corinthians / SP,Athletico Paranaense / PR,09/10/2013,21:50,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+264,Bahia / BA,Vitória / BA,09/10/2013,21:00,Octávio Mangabeira / Salvador
+265,Grêmio / RS,Criciúma / SC,09/10/2013,19:30,Arena do Grêmio / Porto Alegre
+266,Ponte Preta / SP,Atlético Mineiro / MG,09/10/2013,21:00,Moisés Lucarelli / Campinas
+267,Náutico / PE,Botafogo / RJ,09/10/2013,21:50,Arena Pernambuco / São Lourenço da Mata
+268,Cruzeiro / MG,São Paulo / SP,09/10/2013,21:50,Governador Magalhães Pinto / Belo Horizonte
+269,Coritiba / PR,Santos / SP,09/10/2013,19:30,Major Antônio do Couto Pereira / Curitiba
+270,Portuguesa / SP,Goiás / GO,10/10/2013,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+271,Botafogo / RJ,Flamengo / RJ,13/10/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+272,Fluminense / RJ,Grêmio / RS,12/10/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+273,São Paulo / SP,Corinthians / SP,13/10/2013,16:00,Estádio Cícero Pompeu de Toledo / São Paulo
+274,Vitória / BA,Coritiba / PR,12/10/2013,18:30,Manoel Barradas / Salvador
+275,Internacional / RS,Náutico / PE,13/10/2013,16:00,Francisco Stédille / Caxias do Sul
+276,Goiás / GO,Bahia / BA,13/10/2013,18:30,Serra Dourada / Goiânia
+277,Criciúma / SC,Vasco da Gama / RJ,13/10/2013,16:00,Estádio Heriberto Hulse / Criciúma
+278,Atlético Mineiro / MG,Cruzeiro / MG,13/10/2013,16:00,Estádio Raimundo Sampaio / Belo Horizonte
+279,Athletico Paranaense / PR,Portuguesa / SP,13/10/2013,18:30,Durival Britto e Silva / Curitiba
+280,Santos / SP,Ponte Preta / SP,12/10/2013,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+281,Vasco da Gama / RJ,Goiás / GO,17/10/2013,19:30,Cláudio Moacyr de Azevedo / Macaé
+282,Flamengo / RJ,Bahia / BA,16/10/2013,21:50,Jornalista Mario Filho / Rio de Janeiro
+283,São Paulo / SP,Náutico / PE,16/10/2013,21:00,Estádio Cícero Pompeu de Toledo / São Paulo
+284,Vitória / BA,Botafogo / RJ,17/10/2013,21:00,Manoel Barradas / Salvador
+285,Grêmio / RS,Corinthians / SP,16/10/2013,21:50,Arena do Grêmio / Porto Alegre
+286,Ponte Preta / SP,Coritiba / PR,16/10/2013,21:00,Moisés Lucarelli / Campinas
+287,Criciúma / SC,Portuguesa / SP,16/10/2013,21:00,Estádio Heriberto Hulse / Criciúma
+288,Cruzeiro / MG,Fluminense / RJ,16/10/2013,19:30,Governador Magalhães Pinto / Belo Horizonte
+289,Athletico Paranaense / PR,Atlético Mineiro / MG,16/10/2013,21:50,Durival Britto e Silva / Curitiba
+290,Santos / SP,Internacional / RS,16/10/2013,19:30,Urbano Caldeira / Santos
+291,Botafogo / RJ,Vasco da Gama / RJ,20/10/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+292,Fluminense / RJ,Ponte Preta / SP,19/10/2013,16:00,Jornalista Mario Filho / Rio de Janeiro
+293,Corinthians / SP,Criciúma / SC,19/10/2013,21:00,Novelli Junior / Itu
+294,Bahia / BA,São Paulo / SP,20/10/2013,16:00,Octávio Mangabeira / Salvador
+295,Internacional / RS,Grêmio / RS,20/10/2013,16:00,Francisco Stédille / Caxias do Sul
+296,Goiás / GO,Athletico Paranaense / PR,20/10/2013,16:00,Serra Dourada / Goiânia
+297,Náutico / PE,Santos / SP,19/10/2013,18:30,Arena Pernambuco / São Lourenço da Mata
+298,Atlético Mineiro / MG,Flamengo / RJ,20/10/2013,16:00,Estádio Raimundo Sampaio / Belo Horizonte
+299,Coritiba / PR,Cruzeiro / MG,20/10/2013,18:30,Major Antônio do Couto Pereira / Curitiba
+300,Portuguesa / SP,Vitória / BA,20/10/2013,18:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+301,Botafogo / RJ,Atlético Mineiro / MG,26/10/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+302,Fluminense / RJ,Vitória / BA,27/10/2013,18:30,Jornalista Mario Filho / Rio de Janeiro
+303,Corinthians / SP,Santos / SP,27/10/2013,16:00,Fonte Luminosa / Araraquara
+304,Bahia / BA,Athletico Paranaense / PR,27/10/2013,16:00,Octávio Mangabeira / Salvador
+305,Internacional / RS,São Paulo / SP,27/10/2013,16:00,Francisco Stédille / Caxias do Sul
+306,Ponte Preta / SP,Vasco da Gama / RJ,27/10/2013,16:00,Moisés Lucarelli / Campinas
+307,Náutico / PE,Goiás / GO,27/10/2013,18:30,Arena Pernambuco / São Lourenço da Mata
+308,Cruzeiro / MG,Criciúma / SC,26/10/2013,18:30,Governador Magalhães Pinto / Belo Horizonte
+309,Coritiba / PR,Grêmio / RS,27/10/2013,18:30,Major Antônio do Couto Pereira / Curitiba
+310,Portuguesa / SP,Flamengo / RJ,27/10/2013,16:00,Governador Plácido Castelo / Fortaleza
+311,Vasco da Gama / RJ,Coritiba / PR,02/11/2013,19:30,Cláudio Moacyr de Azevedo / Macaé
+312,Flamengo / RJ,Fluminense / RJ,03/11/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+313,São Paulo / SP,Portuguesa / SP,02/11/2013,19:30,Estádio Cícero Pompeu de Toledo / São Paulo
+314,Vitória / BA,Corinthians / SP,03/11/2013,17:00,Manoel Barradas / Salvador
+315,Grêmio / RS,Bahia / BA,03/11/2013,17:00,Arena do Grêmio / Porto Alegre
+316,Goiás / GO,Botafogo / RJ,03/11/2013,17:00,Serra Dourada / Goiânia
+317,Criciúma / SC,Ponte Preta / SP,03/11/2013,19:30,Estádio Heriberto Hulse / Criciúma
+318,Atlético Mineiro / MG,Náutico / PE,02/11/2013,21:00,Estádio Raimundo Sampaio / Belo Horizonte
+319,Athletico Paranaense / PR,Internacional / RS,03/11/2013,19:30,Durival Britto e Silva / Curitiba
+320,Santos / SP,Cruzeiro / MG,03/11/2013,17:00,Urbano Caldeira / Santos
+321,Vasco da Gama / RJ,Santos / SP,10/11/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+322,Flamengo / RJ,Goiás / GO,09/11/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+323,Corinthians / SP,Fluminense / RJ,10/11/2013,19:30,Fonte Luminosa / Araraquara
+324,Bahia / BA,Atlético Mineiro / MG,09/11/2013,19:30,Octávio Mangabeira / Salvador
+325,Internacional / RS,Botafogo / RJ,10/11/2013,17:00,Francisco Stédille / Caxias do Sul
+326,Ponte Preta / SP,Vitória / BA,10/11/2013,17:00,Moisés Lucarelli / Campinas
+327,Náutico / PE,Criciúma / SC,10/11/2013,19:30,Arena Pernambuco / São Lourenço da Mata
+328,Cruzeiro / MG,Grêmio / RS,10/11/2013,17:00,Governador Magalhães Pinto / Belo Horizonte
+329,Athletico Paranaense / PR,São Paulo / SP,10/11/2013,17:00,Durival Britto e Silva / Curitiba
+330,Portuguesa / SP,Coritiba / PR,09/11/2013,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+331,Botafogo / RJ,Portuguesa / SP,13/11/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+332,Fluminense / RJ,Náutico / PE,14/11/2013,21:00,Jornalista Mario Filho / Rio de Janeiro
+333,São Paulo / SP,Flamengo / RJ,13/11/2013,21:50,Novelli Junior / Itu
+334,Vitória / BA,Cruzeiro / MG,13/11/2013,21:50,Manoel Barradas / Salvador
+335,Grêmio / RS,Vasco da Gama / RJ,13/11/2013,19:30,Arena do Grêmio / Porto Alegre
+336,Goiás / GO,Ponte Preta / SP,13/11/2013,19:30,Serra Dourada / Goiânia
+337,Criciúma / SC,Athletico Paranaense / PR,13/11/2013,21:00,Estádio Heriberto Hulse / Criciúma
+338,Atlético Mineiro / MG,Internacional / RS,14/11/2013,21:00,Estádio Raimundo Sampaio / Belo Horizonte
+339,Coritiba / PR,Corinthians / SP,13/11/2013,21:50,Major Antônio do Couto Pereira / Curitiba
+340,Santos / SP,Bahia / BA,14/11/2013,19:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+341,Botafogo / RJ,Athletico Paranaense / PR,16/11/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+342,Fluminense / RJ,São Paulo / SP,17/11/2013,17:00,Jornalista Mario Filho / Rio de Janeiro
+343,Corinthians / SP,Vasco da Gama / RJ,17/11/2013,17:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+344,Vitória / BA,Santos / SP,17/11/2013,17:00,Manoel Barradas / Salvador
+345,Grêmio / RS,Flamengo / RJ,17/11/2013,19:30,Arena do Grêmio / Porto Alegre
+346,Goiás / GO,Internacional / RS,17/11/2013,19:30,Serra Dourada / Goiânia
+347,Náutico / PE,Bahia / BA,17/11/2013,19:30,Arena Pernambuco / São Lourenço da Mata
+348,Cruzeiro / MG,Ponte Preta / SP,17/11/2013,17:00,João Havelange / Uberlândia
+349,Coritiba / PR,Criciúma / SC,16/11/2013,21:00,Major Antônio do Couto Pereira / Curitiba
+350,Portuguesa / SP,Atlético Mineiro / MG,17/11/2013,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+351,Vasco da Gama / RJ,Cruzeiro / MG,23/11/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+352,Flamengo / RJ,Corinthians / SP,24/11/2013,17:00,Jornalista Mario Filho / Rio de Janeiro
+353,São Paulo / SP,Botafogo / RJ,24/11/2013,19:30,Estádio Cícero Pompeu de Toledo / São Paulo
+354,Bahia / BA,Portuguesa / SP,24/11/2013,19:30,Octávio Mangabeira / Salvador
+355,Internacional / RS,Coritiba / PR,24/11/2013,19:30,Francisco Stédille / Caxias do Sul
+356,Ponte Preta / SP,Grêmio / RS,24/11/2013,17:00,Moisés Lucarelli / Campinas
+357,Criciúma / SC,Vitória / BA,23/11/2013,19:30,Estádio Heriberto Hulse / Criciúma
+358,Atlético Mineiro / MG,Goiás / GO,23/11/2013,21:00,Estádio Raimundo Sampaio / Belo Horizonte
+359,Athletico Paranaense / PR,Náutico / PE,24/11/2013,17:00,Arena Joinville / Joinville
+360,Santos / SP,Fluminense / RJ,24/11/2013,17:00,Paulo Constantino / P. Prudente/SP
+361,Vasco da Gama / RJ,Náutico / PE,01/12/2013,17:00,Jornalista Mario Filho / Rio de Janeiro
+362,Fluminense / RJ,Atlético Mineiro / MG,30/11/2013,19:30,Jornalista Mario Filho / Rio de Janeiro
+363,Corinthians / SP,Internacional / RS,30/11/2013,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+364,Vitória / BA,Flamengo / RJ,01/12/2013,17:00,Manoel Barradas / Salvador
+365,Grêmio / RS,Goiás / GO,01/12/2013,19:30,Arena do Grêmio / Porto Alegre
+366,Ponte Preta / SP,Portuguesa / SP,01/12/2013,17:00,Moisés Lucarelli / Campinas
+367,Criciúma / SC,São Paulo / SP,01/12/2013,17:00,Estádio Heriberto Hulse / Criciúma
+368,Cruzeiro / MG,Bahia / BA,01/12/2013,17:00,Governador Magalhães Pinto / Belo Horizonte
+369,Coritiba / PR,Botafogo / RJ,01/12/2013,17:00,Major Antônio do Couto Pereira / Curitiba
+370,Santos / SP,Athletico Paranaense / PR,01/12/2013,19:30,Benedito Teixeira / São José do Rio Preto
+371,Botafogo / RJ,Criciúma / SC,08/12/2013,17:00,Jornalista Mario Filho / Rio de Janeiro
+372,Flamengo / RJ,Cruzeiro / MG,07/12/2013,19:00,Jornalista Mario Filho / Rio de Janeiro
+373,São Paulo / SP,Coritiba / PR,08/12/2013,17:00,Novelli Junior / Itu
+374,Bahia / BA,Fluminense / RJ,08/12/2013,17:00,Octávio Mangabeira / Salvador
+375,Internacional / RS,Ponte Preta / SP,08/12/2013,17:00,Francisco Stédille / Caxias do Sul
+376,Goiás / GO,Santos / SP,08/12/2013,17:00,Serra Dourada / Goiânia
+377,Náutico / PE,Corinthians / SP,07/12/2013,19:30,Arena Pernambuco / São Lourenço da Mata
+378,Atlético Mineiro / MG,Vitória / BA,08/12/2013,17:00,Estádio Raimundo Sampaio / Belo Horizonte
+379,Athletico Paranaense / PR,Vasco da Gama / RJ,08/12/2013,17:00,Arena Joinville / Joinville
+380,Portuguesa / SP,Grêmio / RS,08/12/2013,17:00,Dr. Oswaldo Teixeira Duarte / São Paulo

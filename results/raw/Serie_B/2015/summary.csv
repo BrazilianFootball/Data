@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Paraná / PR,Ceará / CE
-002,Atlético / GO,Boa / MG
-003,Paysandu / PA,Botafogo / RJ
-004,Mogi Mirim / SP,Criciúma / SC
-005,Vitória / BA,Sampaio Corrêa / MA
-006,Macaé / RJ,Santa Cruz / PE
-007,América / MG,Bahia / BA
-008,Náutico / PE,Luverdense / MT
-009,ABC / RN,Oeste / SP
-010,CRB / AL,Red Bull Bragantino / SP
-011,Bahia / BA,Mogi Mirim / SP
-012,Criciúma / SC,ABC / RN
-013,Sampaio Corrêa / MA,Macaé / RJ
-014,Santa Cruz / PE,Paraná / PR
-015,Botafogo / RJ,CRB / AL
-016,Red Bull Bragantino / SP,Paysandu / PA
-017,Boa / MG,Náutico / PE
-018,Oeste / SP,Vitória / BA
-019,Ceará / CE,Atlético / GO
-020,Luverdense / MT,América / MG
-021,Macaé / RJ,Oeste / SP
-022,Náutico / PE,Criciúma / SC
-023,ABC / RN,Luverdense / MT
-024,CRB / AL,Bahia / BA
-025,América / MG,Santa Cruz / PE
-026,Paysandu / PA,Ceará / CE
-027,Atlético / GO,Botafogo / RJ
-028,Paraná / PR,Boa / MG
-029,Vitória / BA,Red Bull Bragantino / SP
-030,Mogi Mirim / SP,Sampaio Corrêa / MA
-031,Ceará / CE,CRB / AL
-032,Santa Cruz / PE,ABC / RN
-033,Red Bull Bragantino / SP,América / MG
-034,Bahia / BA,Paraná / PR
-035,Botafogo / RJ,Vitória / BA
-036,Boa / MG,Paysandu / PA
-037,Sampaio Corrêa / MA,Náutico / PE
-038,Criciúma / SC,Atlético / GO
-039,Luverdense / MT,Macaé / RJ
-040,Oeste / SP,Mogi Mirim / SP
-041,Vitória / BA,Criciúma / SC
-042,Mogi Mirim / SP,Boa / MG
-043,América / MG,Sampaio Corrêa / MA
-044,Paysandu / PA,Santa Cruz / PE
-045,ABC / RN,Red Bull Bragantino / SP
-046,Macaé / RJ,Bahia / BA
-047,Paraná / PR,Botafogo / RJ
-048,Náutico / PE,Ceará / CE
-049,Atlético / GO,Luverdense / MT
-050,CRB / AL,Oeste / SP
-051,Vitória / BA,Atlético / GO
-052,Náutico / PE,América / MG
-053,Botafogo / RJ,Mogi Mirim / SP
-054,Red Bull Bragantino / SP,Bahia / BA
-055,Criciúma / SC,Macaé / RJ
-056,Ceará / CE,Sampaio Corrêa / MA
-057,CRB / AL,ABC / RN
-058,Boa / MG,Oeste / SP
-059,Paysandu / PA,Paraná / PR
-060,Luverdense / MT,Santa Cruz / PE
-061,Paraná / PR,Luverdense / MT
-062,ABC / RN,Paysandu / PA
-063,Oeste / SP,Botafogo / RJ
-064,Macaé / RJ,Red Bull Bragantino / SP
-065,Santa Cruz / PE,Boa / MG
-066,Bahia / BA,Ceará / CE
-067,Mogi Mirim / SP,Vitória / BA
-068,Atlético / GO,Náutico / PE
-069,Sampaio Corrêa / MA,Criciúma / SC
-070,América / MG,CRB / AL
-071,Náutico / PE,Paysandu / PA
-072,Sampaio Corrêa / MA,Bahia / BA
-073,Luverdense / MT,Criciúma / SC
-074,Paraná / PR,Mogi Mirim / SP
-075,Botafogo / RJ,Boa / MG
-076,Vitória / BA,ABC / RN
-077,América / MG,Atlético / GO
-078,Ceará / CE,Santa Cruz / PE
-079,Red Bull Bragantino / SP,Oeste / SP
-080,CRB / AL,Macaé / RJ
-081,Criciúma / SC,América / MG
-082,Paysandu / PA,Vitória / BA
-083,Oeste / SP,Ceará / CE
-084,Boa / MG,Red Bull Bragantino / SP
-085,ABC / RN,Náutico / PE
-086,Macaé / RJ,Botafogo / RJ
-087,Mogi Mirim / SP,CRB / AL
-088,Santa Cruz / PE,Sampaio Corrêa / MA
-089,Bahia / BA,Luverdense / MT
-090,Atlético / GO,Paraná / PR
-091,Paysandu / PA,Atlético / GO
-092,Luverdense / MT,Ceará / CE
-093,Paraná / PR,Criciúma / SC
-094,Botafogo / RJ,Sampaio Corrêa / MA
-095,Vitória / BA,Bahia / BA
-096,Red Bull Bragantino / SP,Santa Cruz / PE
-097,ABC / RN,Macaé / RJ
-098,CRB / AL,Boa / MG
-099,América / MG,Mogi Mirim / SP
-100,Náutico / PE,Oeste / SP
-101,Bahia / BA,Paysandu / PA
-102,Macaé / RJ,América / MG
-103,Mogi Mirim / SP,Náutico / PE
-104,Boa / MG,Vitória / BA
-105,Criciúma / SC,Red Bull Bragantino / SP
-106,Sampaio Corrêa / MA,Luverdense / MT
-107,Atlético / GO,ABC / RN
-108,Oeste / SP,Paraná / PR
-109,Santa Cruz / PE,CRB / AL
-110,Ceará / CE,Botafogo / RJ
-111,Macaé / RJ,Paysandu / PA
-112,Ceará / CE,Criciúma / SC
-113,Atlético / GO,Mogi Mirim / SP
-114,Red Bull Bragantino / SP,Botafogo / RJ
-115,América / MG,ABC / RN
-116,Paraná / PR,Vitória / BA
-117,Sampaio Corrêa / MA,Boa / MG
-118,Náutico / PE,Santa Cruz / PE
-119,CRB / AL,Luverdense / MT
-120,Bahia / BA,Oeste / SP
-121,ABC / RN,Paraná / PR
-122,Mogi Mirim / SP,Macaé / RJ
-123,Vitória / BA,CRB / AL
-124,Luverdense / MT,Red Bull Bragantino / SP
-125,Botafogo / RJ,Náutico / PE
-126,Criciúma / SC,Bahia / BA
-127,Paysandu / PA,Sampaio Corrêa / MA
-128,Santa Cruz / PE,Atlético / GO
-129,Oeste / SP,América / MG
-130,Boa / MG,Ceará / CE
-131,Macaé / RJ,Paraná / PR
-132,Sampaio Corrêa / MA,ABC / RN
-133,América / MG,Boa / MG
-134,Red Bull Bragantino / SP,Atlético / GO
-135,Bahia / BA,Botafogo / RJ
-136,Criciúma / SC,Santa Cruz / PE
-137,Náutico / PE,Vitória / BA
-138,CRB / AL,Paysandu / PA
-139,Ceará / CE,Mogi Mirim / SP
-140,Luverdense / MT,Oeste / SP
-141,Vitória / BA,Macaé / RJ
-142,Mogi Mirim / SP,Red Bull Bragantino / SP
-143,Boa / MG,Luverdense / MT
-144,Paraná / PR,Náutico / PE
-145,Santa Cruz / PE,Bahia / BA
-146,Oeste / SP,Sampaio Corrêa / MA
-147,Paysandu / PA,América / MG
-148,ABC / RN,Ceará / CE
-149,Botafogo / RJ,Criciúma / SC
-150,Atlético / GO,CRB / AL
-151,Boa / MG,Criciúma / SC
-152,Náutico / PE,Macaé / RJ
-153,Paysandu / PA,Mogi Mirim / SP
-154,ABC / RN,Bahia / BA
-155,Botafogo / RJ,Luverdense / MT
-156,Paraná / PR,CRB / AL
-157,Atlético / GO,Sampaio Corrêa / MA
-158,Oeste / SP,Santa Cruz / PE
-159,Vitória / BA,América / MG
-160,Red Bull Bragantino / SP,Ceará / CE
-161,América / MG,Paraná / PR
-162,Sampaio Corrêa / MA,Red Bull Bragantino / SP
-163,Luverdense / MT,Paysandu / PA
-164,Bahia / BA,Boa / MG
-165,Criciúma / SC,Oeste / SP
-166,Santa Cruz / PE,Botafogo / RJ
-167,Ceará / CE,Vitória / BA
-168,CRB / AL,Náutico / PE
-169,Macaé / RJ,Atlético / GO
-170,Mogi Mirim / SP,ABC / RN
-171,Bahia / BA,Náutico / PE
-172,Criciúma / SC,Paysandu / PA
-173,Sampaio Corrêa / MA,CRB / AL
-174,Santa Cruz / PE,Mogi Mirim / SP
-175,Ceará / CE,América / MG
-176,Oeste / SP,Atlético / GO
-177,Luverdense / MT,Vitória / BA
-178,Botafogo / RJ,ABC / RN
-179,Boa / MG,Macaé / RJ
-180,Red Bull Bragantino / SP,Paraná / PR
-181,CRB / AL,Criciúma / SC
-182,Paraná / PR,Sampaio Corrêa / MA
-183,Atlético / GO,Bahia / BA
-184,Vitória / BA,Santa Cruz / PE
-185,Mogi Mirim / SP,Luverdense / MT
-186,América / MG,Botafogo / RJ
-187,Paysandu / PA,Oeste / SP
-188,ABC / RN,Boa / MG
-189,Náutico / PE,Red Bull Bragantino / SP
-190,Macaé / RJ,Ceará / CE
-191,Ceará / CE,Paraná / PR
-192,Criciúma / SC,Mogi Mirim / SP
-193,Bahia / BA,América / MG
-194,Botafogo / RJ,Paysandu / PA
-195,Red Bull Bragantino / SP,CRB / AL
-196,Sampaio Corrêa / MA,Vitória / BA
-197,Luverdense / MT,Náutico / PE
-198,Boa / MG,Atlético / GO
-199,Santa Cruz / PE,Macaé / RJ
-200,Oeste / SP,ABC / RN
-201,Vitória / BA,Oeste / SP
-202,ABC / RN,Criciúma / SC
-203,América / MG,Luverdense / MT
-204,CRB / AL,Botafogo / RJ
-205,Macaé / RJ,Sampaio Corrêa / MA
-206,Mogi Mirim / SP,Bahia / BA
-207,Paraná / PR,Santa Cruz / PE
-208,Paysandu / PA,Red Bull Bragantino / SP
-209,Náutico / PE,Boa / MG
-210,Atlético / GO,Ceará / CE
-211,Criciúma / SC,Náutico / PE
-212,Ceará / CE,Paysandu / PA
-213,Bahia / BA,CRB / AL
-214,Red Bull Bragantino / SP,Vitória / BA
-215,Boa / MG,Paraná / PR
-216,Sampaio Corrêa / MA,Mogi Mirim / SP
-217,Santa Cruz / PE,América / MG
-218,Luverdense / MT,ABC / RN
-219,Botafogo / RJ,Atlético / GO
-220,Oeste / SP,Macaé / RJ
-221,Náutico / PE,Sampaio Corrêa / MA
-222,ABC / RN,Santa Cruz / PE
-223,CRB / AL,Ceará / CE
-224,Atlético / GO,Criciúma / SC
-225,Macaé / RJ,Luverdense / MT
-226,Paraná / PR,Bahia / BA
-227,Vitória / BA,Botafogo / RJ
-228,América / MG,Red Bull Bragantino / SP
-229,Mogi Mirim / SP,Oeste / SP
-230,Paysandu / PA,Boa / MG
-231,Oeste / SP,CRB / AL
-232,Ceará / CE,Náutico / PE
-233,Luverdense / MT,Atlético / GO
-234,Bahia / BA,Macaé / RJ
-235,Botafogo / RJ,Paraná / PR
-236,Red Bull Bragantino / SP,ABC / RN
-237,Boa / MG,Mogi Mirim / SP
-238,Criciúma / SC,Vitória / BA
-239,Sampaio Corrêa / MA,América / MG
-240,Santa Cruz / PE,Paysandu / PA
-241,Bahia / BA,Red Bull Bragantino / SP
-242,Paraná / PR,Paysandu / PA
-243,Oeste / SP,Boa / MG
-244,Mogi Mirim / SP,Botafogo / RJ
-245,América / MG,Náutico / PE
-246,Sampaio Corrêa / MA,Ceará / CE
-247,Santa Cruz / PE,Luverdense / MT
-248,ABC / RN,CRB / AL
-249,Atlético / GO,Vitória / BA
-250,Macaé / RJ,Criciúma / SC
-251,Botafogo / RJ,Oeste / SP
-252,Red Bull Bragantino / SP,Macaé / RJ
-253,Vitória / BA,Mogi Mirim / SP
-254,Criciúma / SC,Sampaio Corrêa / MA
-255,Paysandu / PA,ABC / RN
-256,Náutico / PE,Atlético / GO
-257,Luverdense / MT,Paraná / PR
-258,CRB / AL,América / MG
-259,Ceará / CE,Bahia / BA
-260,Boa / MG,Santa Cruz / PE
-261,ABC / RN,Vitória / BA
-262,Atlético / GO,América / MG
-263,Boa / MG,Botafogo / RJ
-264,Bahia / BA,Sampaio Corrêa / MA
-265,Mogi Mirim / SP,Paraná / PR
-266,Paysandu / PA,Náutico / PE
-267,Santa Cruz / PE,Ceará / CE
-268,Oeste / SP,Red Bull Bragantino / SP
-269,Criciúma / SC,Luverdense / MT
-270,Macaé / RJ,CRB / AL
-271,Botafogo / RJ,Macaé / RJ
-272,Red Bull Bragantino / SP,Boa / MG
-273,América / MG,Criciúma / SC
-274,Vitória / BA,Paysandu / PA
-275,CRB / AL,Mogi Mirim / SP
-276,Sampaio Corrêa / MA,Santa Cruz / PE
-277,Náutico / PE,ABC / RN
-278,Ceará / CE,Oeste / SP
-279,Paraná / PR,Atlético / GO
-280,Luverdense / MT,Bahia / BA
-281,Mogi Mirim / SP,América / MG
-282,Santa Cruz / PE,Red Bull Bragantino / SP
-283,Criciúma / SC,Paraná / PR
-284,Sampaio Corrêa / MA,Botafogo / RJ
-285,Bahia / BA,Vitória / BA
-286,Macaé / RJ,ABC / RN
-287,Boa / MG,CRB / AL
-288,Atlético / GO,Paysandu / PA
-289,Oeste / SP,Náutico / PE
-290,Ceará / CE,Luverdense / MT
-291,Paysandu / PA,Bahia / BA
-292,Red Bull Bragantino / SP,Criciúma / SC
-293,Vitória / BA,Boa / MG
-294,América / MG,Macaé / RJ
-295,Paraná / PR,Oeste / SP
-296,Náutico / PE,Mogi Mirim / SP
-297,ABC / RN,Atlético / GO
-298,CRB / AL,Santa Cruz / PE
-299,Botafogo / RJ,Ceará / CE
-300,Luverdense / MT,Sampaio Corrêa / MA
-301,Botafogo / RJ,Red Bull Bragantino / SP
-302,Boa / MG,Sampaio Corrêa / MA
-303,Vitória / BA,Paraná / PR
-304,Mogi Mirim / SP,Atlético / GO
-305,Criciúma / SC,Ceará / CE
-306,Santa Cruz / PE,Náutico / PE
-307,ABC / RN,América / MG
-308,Oeste / SP,Bahia / BA
-309,Paysandu / PA,Macaé / RJ
-310,Luverdense / MT,CRB / AL
-311,Bahia / BA,Criciúma / SC
-312,América / MG,Oeste / SP
-313,Macaé / RJ,Mogi Mirim / SP
-314,Sampaio Corrêa / MA,Paysandu / PA
-315,Red Bull Bragantino / SP,Luverdense / MT
-316,Náutico / PE,Botafogo / RJ
-317,Atlético / GO,Santa Cruz / PE
-318,CRB / AL,Vitória / BA
-319,Paraná / PR,ABC / RN
-320,Ceará / CE,Boa / MG
-321,Boa / MG,América / MG
-322,Oeste / SP,Luverdense / MT
-323,Santa Cruz / PE,Criciúma / SC
-324,Paraná / PR,Macaé / RJ
-325,Atlético / GO,Red Bull Bragantino / SP
-326,Vitória / BA,Náutico / PE
-327,Botafogo / RJ,Bahia / BA
-328,Mogi Mirim / SP,Ceará / CE
-329,Paysandu / PA,CRB / AL
-330,ABC / RN,Sampaio Corrêa / MA
-331,Red Bull Bragantino / SP,Mogi Mirim / SP
-332,América / MG,Paysandu / PA
-333,Ceará / CE,ABC / RN
-334,Luverdense / MT,Boa / MG
-335,Criciúma / SC,Botafogo / RJ
-336,Macaé / RJ,Vitória / BA
-337,Bahia / BA,Santa Cruz / PE
-338,Náutico / PE,Paraná / PR
-339,CRB / AL,Atlético / GO
-340,Sampaio Corrêa / MA,Oeste / SP
-341,Macaé / RJ,Náutico / PE
-342,Mogi Mirim / SP,Paysandu / PA
-343,América / MG,Vitória / BA
-344,Criciúma / SC,Boa / MG
-345,Bahia / BA,ABC / RN
-346,Sampaio Corrêa / MA,Atlético / GO
-347,Santa Cruz / PE,Oeste / SP
-348,Ceará / CE,Red Bull Bragantino / SP
-349,Luverdense / MT,Botafogo / RJ
-350,CRB / AL,Paraná / PR
-351,Paysandu / PA,Luverdense / MT
-352,ABC / RN,Mogi Mirim / SP
-353,Oeste / SP,Criciúma / SC
-354,Botafogo / RJ,Santa Cruz / PE
-355,Red Bull Bragantino / SP,Sampaio Corrêa / MA
-356,Boa / MG,Bahia / BA
-357,Paraná / PR,América / MG
-358,Náutico / PE,CRB / AL
-359,Vitória / BA,Ceará / CE
-360,Atlético / GO,Macaé / RJ
-361,Atlético / GO,Oeste / SP
-362,Macaé / RJ,Boa / MG
-363,ABC / RN,Botafogo / RJ
-364,Paysandu / PA,Criciúma / SC
-365,Vitória / BA,Luverdense / MT
-366,Mogi Mirim / SP,Santa Cruz / PE
-367,América / MG,Ceará / CE
-368,Náutico / PE,Bahia / BA
-369,Paraná / PR,Red Bull Bragantino / SP
-370,CRB / AL,Sampaio Corrêa / MA
-371,Boa / MG,ABC / RN
-372,Bahia / BA,Atlético / GO
-373,Botafogo / RJ,América / MG
-374,Red Bull Bragantino / SP,Náutico / PE
-375,Criciúma / SC,CRB / AL
-376,Sampaio Corrêa / MA,Paraná / PR
-377,Santa Cruz / PE,Vitória / BA
-378,Ceará / CE,Macaé / RJ
-379,Luverdense / MT,Mogi Mirim / SP
-380,Oeste / SP,Paysandu / PA
+Game,Home,Away,Date,Time,Stadium
+001,Paraná / PR,Ceará / CE,08/05/2015,21:00,Durival Britto e Silva / Curitiba
+002,Atlético / GO,Boa / MG,08/05/2015,19:30,Serra Dourada / Goiânia
+003,Paysandu / PA,Botafogo / RJ,09/05/2015,21:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+004,Mogi Mirim / SP,Criciúma / SC,08/05/2015,21:50,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+005,Vitória / BA,Sampaio Corrêa / MA,09/05/2015,16:30,Manoel Barradas / Salvador
+006,Macaé / RJ,Santa Cruz / PE,09/05/2015,16:30,Cláudio Moacyr de Azevedo / Macaé
+007,América / MG,Bahia / BA,09/05/2015,16:30,Raimundo Sampaio / Belo Horizonte
+008,Náutico / PE,Luverdense / MT,09/05/2015,16:30,Arena Pernambuco / 
+009,ABC / RN,Oeste / SP,08/05/2015,19:30,Maria Lamas Farache / Natal
+010,CRB / AL,Red Bull Bragantino / SP,09/05/2015,21:00,Rei Pelé / Maceio
+011,Bahia / BA,Mogi Mirim / SP,15/05/2015,19:30,Governador Roberto Santos / Salvador
+012,Criciúma / SC,ABC / RN,15/05/2015,21:50,Heriberto Hulse / Criciuma
+013,Sampaio Corrêa / MA,Macaé / RJ,15/05/2015,19:30,Governador João Castelo / Sao Luis
+014,Santa Cruz / PE,Paraná / PR,15/05/2015,19:30,José do Rego Maciel / Recife
+015,Botafogo / RJ,CRB / AL,16/05/2015,16:30,Estádio Olímpico João Havelange / Rio de Janeiro
+016,Red Bull Bragantino / SP,Paysandu / PA,16/05/2015,16:30,Nabi Abi Chedid / Bragança Paulista
+017,Boa / MG,Náutico / PE,16/05/2015,16:30,Dilzon Melo / Varginha
+018,Oeste / SP,Vitória / BA,16/05/2015,16:30,José Liberatti / Osasco
+019,Ceará / CE,Atlético / GO,16/05/2015,21:00,Presidente Vargas / Fortaleza
+020,Luverdense / MT,América / MG,16/05/2015,21:00,Passo das Emas / Lucas do Rio Verde
+021,Macaé / RJ,Oeste / SP,19/05/2015,19:30,Cláudio Moacyr de Azevedo / Macaé
+022,Náutico / PE,Criciúma / SC,19/05/2015,21:50,Arena Pernambuco / São Lourenço da Mata
+023,ABC / RN,Luverdense / MT,23/05/2015,21:00,Maria Lamas Farache / Natal
+024,CRB / AL,Bahia / BA,23/05/2015,21:00,Rei Pelé / Maceio
+025,América / MG,Santa Cruz / PE,23/05/2015,16:30,Raimundo Sampaio / Belo Horizonte
+026,Paysandu / PA,Ceará / CE,23/05/2015,16:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+027,Atlético / GO,Botafogo / RJ,23/05/2015,16:30,Estádio Nacional Mané Garrincha / Brasilia
+028,Paraná / PR,Boa / MG,23/05/2015,16:30,Durival Britto e Silva / Curitiba
+029,Vitória / BA,Red Bull Bragantino / SP,22/05/2015,19:30,Manoel Barradas / Salvador
+030,Mogi Mirim / SP,Sampaio Corrêa / MA,22/05/2015,21:50,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+031,Ceará / CE,CRB / AL,26/05/2015,19:30,Presidente Vargas / Fortaleza
+032,Santa Cruz / PE,ABC / RN,29/05/2015,19:30,José do Rego Maciel / Recife
+033,Red Bull Bragantino / SP,América / MG,29/05/2015,19:30,Nabi Abi Chedid / Bragança Paulista
+034,Bahia / BA,Paraná / PR,29/05/2015,21:50,Octávio Mangabeira / Salvador
+035,Botafogo / RJ,Vitória / BA,30/05/2015,16:30,Estádio Olímpico João Havelange / Rio de Janeiro
+036,Boa / MG,Paysandu / PA,30/05/2015,16:30,Dilzon Melo / Varginha
+037,Sampaio Corrêa / MA,Náutico / PE,30/05/2015,16:30,Governador João Castelo / Sao Luis
+038,Criciúma / SC,Atlético / GO,30/05/2015,16:30,Heriberto Hulse / Criciuma
+039,Luverdense / MT,Macaé / RJ,30/05/2015,21:00,Passo das Emas / Lucas do Rio Verde
+040,Oeste / SP,Mogi Mirim / SP,30/05/2015,21:00,José Liberatti / Osasco
+041,Vitória / BA,Criciúma / SC,02/06/2015,19:30,Manoel Barradas / Salvador
+042,Mogi Mirim / SP,Boa / MG,02/06/2015,19:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+043,América / MG,Sampaio Corrêa / MA,02/06/2015,19:30,Raimundo Sampaio / Belo Horizonte
+044,Paysandu / PA,Santa Cruz / PE,02/06/2015,19:30,Leônidas Sodré de Castro / Belem
+045,ABC / RN,Red Bull Bragantino / SP,02/06/2015,19:30,Maria Lamas Farache / Natal
+046,Macaé / RJ,Bahia / BA,02/06/2015,21:50,Cláudio Moacyr de Azevedo / Macaé
+047,Paraná / PR,Botafogo / RJ,02/06/2015,21:50,Durival Britto e Silva / Curitiba
+048,Náutico / PE,Ceará / CE,02/06/2015,19:30,Arena Pernambuco / São Lourenço da Mata
+049,Atlético / GO,Luverdense / MT,02/06/2015,21:50,Serra Dourada / Goiânia
+050,CRB / AL,Oeste / SP,02/06/2015,21:50,Rei Pelé / Maceio
+051,Vitória / BA,Atlético / GO,05/06/2015,19:30,Manoel Barradas / Salvador
+052,Náutico / PE,América / MG,05/06/2015,19:30,Arena Pernambuco / São Lourenço da Mata
+053,Botafogo / RJ,Mogi Mirim / SP,05/06/2015,21:50,Estádio Olímpico João Havelange / Rio de Janeiro
+054,Red Bull Bragantino / SP,Bahia / BA,06/06/2015,16:30,Nabi Abi Chedid / Bragança Paulista
+055,Criciúma / SC,Macaé / RJ,06/06/2015,16:30,Heriberto Hulse / Criciuma
+056,Ceará / CE,Sampaio Corrêa / MA,06/06/2015,16:30,Presidente Vargas / Fortaleza
+057,CRB / AL,ABC / RN,06/06/2015,21:00,Rei Pelé / Maceio
+058,Boa / MG,Oeste / SP,06/06/2015,21:00,Dilzon Melo / Varginha
+059,Paysandu / PA,Paraná / PR,06/06/2015,21:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+060,Luverdense / MT,Santa Cruz / PE,06/06/2015,16:30,Passo das Emas / Lucas do Rio Verde
+061,Paraná / PR,Luverdense / MT,09/06/2015,19:30,Durival Britto e Silva / Curitiba
+062,ABC / RN,Paysandu / PA,12/06/2015,19:30,Maria Lamas Farache / Natal
+063,Oeste / SP,Botafogo / RJ,09/06/2015,21:50,José Liberatti / Osasco
+064,Macaé / RJ,Red Bull Bragantino / SP,13/06/2015,21:00,Cláudio Moacyr de Azevedo / Macaé
+065,Santa Cruz / PE,Boa / MG,12/06/2015,21:50,José do Rego Maciel / Recife
+066,Bahia / BA,Ceará / CE,13/06/2015,16:30,Octávio Mangabeira / Salvador
+067,Mogi Mirim / SP,Vitória / BA,13/06/2015,16:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+068,Atlético / GO,Náutico / PE,13/06/2015,16:30,Serra Dourada / Goiânia
+069,Sampaio Corrêa / MA,Criciúma / SC,12/06/2015,19:30,Governador João Castelo / Sao Luis
+070,América / MG,CRB / AL,13/06/2015,21:00,Raimundo Sampaio / Belo Horizonte
+071,Náutico / PE,Paysandu / PA,16/06/2015,19:30,Arena Pernambuco / São Lourenço da Mata
+072,Sampaio Corrêa / MA,Bahia / BA,19/06/2015,19:30,Governador João Castelo / Sao Luis
+073,Luverdense / MT,Criciúma / SC,16/06/2015,21:50,Passo das Emas / Lucas do Rio Verde
+074,Paraná / PR,Mogi Mirim / SP,19/06/2015,19:30,Durival Britto e Silva / Curitiba
+075,Botafogo / RJ,Boa / MG,19/06/2015,21:50,Estádio Olímpico João Havelange / Rio de Janeiro
+076,Vitória / BA,ABC / RN,20/06/2015,16:30,Manoel Barradas / Salvador
+077,América / MG,Atlético / GO,20/06/2015,16:30,Raimundo Sampaio / Belo Horizonte
+078,Ceará / CE,Santa Cruz / PE,20/06/2015,16:30,Governador Plácido Castelo / Fortaleza
+079,Red Bull Bragantino / SP,Oeste / SP,20/06/2015,21:00,Nabi Abi Chedid / Bragança Paulista
+080,CRB / AL,Macaé / RJ,20/06/2015,21:00,Rei Pelé / Maceio
+081,Criciúma / SC,América / MG,23/06/2015,19:30,Heriberto Hulse / Criciuma
+082,Paysandu / PA,Vitória / BA,23/06/2015,21:50,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+083,Oeste / SP,Ceará / CE,26/06/2015,21:00,José Liberatti / Osasco
+084,Boa / MG,Red Bull Bragantino / SP,27/06/2015,21:00,Dilzon Melo / Varginha
+085,ABC / RN,Náutico / PE,27/06/2015,16:30,Maria Lamas Farache / Natal
+086,Macaé / RJ,Botafogo / RJ,27/06/2015,16:30,Cláudio Moacyr de Azevedo / Macaé
+087,Mogi Mirim / SP,CRB / AL,27/06/2015,16:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+088,Santa Cruz / PE,Sampaio Corrêa / MA,27/06/2015,16:30,José do Rego Maciel / Recife
+089,Bahia / BA,Luverdense / MT,27/06/2015,16:30,Octávio Mangabeira / Salvador
+090,Atlético / GO,Paraná / PR,26/06/2015,21:00,Serra Dourada / Goiânia
+091,Paysandu / PA,Atlético / GO,30/06/2015,18:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+092,Luverdense / MT,Ceará / CE,30/06/2015,22:30,Passo das Emas / Lucas do Rio Verde
+093,Paraná / PR,Criciúma / SC,03/07/2015,19:30,Durival Britto e Silva / Curitiba
+094,Botafogo / RJ,Sampaio Corrêa / MA,03/07/2015,21:50,Estádio Olímpico João Havelange / Rio de Janeiro
+095,Vitória / BA,Bahia / BA,04/07/2015,16:30,Manoel Barradas / Salvador
+096,Red Bull Bragantino / SP,Santa Cruz / PE,04/07/2015,16:30,Nabi Abi Chedid / Bragança Paulista
+097,ABC / RN,Macaé / RJ,04/07/2015,16:30,Maria Lamas Farache / Natal
+098,CRB / AL,Boa / MG,04/07/2015,21:00,Rei Pelé / Maceio
+099,América / MG,Mogi Mirim / SP,04/07/2015,21:00,Raimundo Sampaio / Belo Horizonte
+100,Náutico / PE,Oeste / SP,04/07/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+101,Bahia / BA,Paysandu / PA,07/07/2015,19:30,Octávio Mangabeira / Salvador
+102,Macaé / RJ,América / MG,07/07/2015,19:30,Cláudio Moacyr de Azevedo / Macaé
+103,Mogi Mirim / SP,Náutico / PE,07/07/2015,19:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+104,Boa / MG,Vitória / BA,07/07/2015,19:30,Dilzon Melo / Varginha
+105,Criciúma / SC,Red Bull Bragantino / SP,07/07/2015,19:30,Heriberto Hulse / Criciuma
+106,Sampaio Corrêa / MA,Luverdense / MT,07/07/2015,19:30,Governador João Castelo / Sao Luis
+107,Atlético / GO,ABC / RN,07/07/2015,19:30,Serra Dourada / Goiânia
+108,Oeste / SP,Paraná / PR,07/07/2015,19:30,José Liberatti / Osasco
+109,Santa Cruz / PE,CRB / AL,07/07/2015,21:50,José do Rego Maciel / Recife
+110,Ceará / CE,Botafogo / RJ,07/07/2015,21:50,Governador Plácido Castelo / Fortaleza
+111,Macaé / RJ,Paysandu / PA,10/07/2015,19:30,Cláudio Moacyr de Azevedo / Macaé
+112,Ceará / CE,Criciúma / SC,10/07/2015,19:30,Governador Plácido Castelo / Fortaleza
+113,Atlético / GO,Mogi Mirim / SP,10/07/2015,19:30,Serra Dourada / Goiânia
+114,Red Bull Bragantino / SP,Botafogo / RJ,10/07/2015,21:50,Nabi Abi Chedid / Bragança Paulista
+115,América / MG,ABC / RN,11/07/2015,16:30,Raimundo Sampaio / Belo Horizonte
+116,Paraná / PR,Vitória / BA,11/07/2015,16:30,Durival Britto e Silva / Curitiba
+117,Sampaio Corrêa / MA,Boa / MG,11/07/2015,16:30,Governador João Castelo / Sao Luis
+118,Náutico / PE,Santa Cruz / PE,11/07/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+119,CRB / AL,Luverdense / MT,11/07/2015,16:30,Rei Pelé / Maceio
+120,Bahia / BA,Oeste / SP,11/07/2015,21:00,Octávio Mangabeira / Salvador
+121,ABC / RN,Paraná / PR,14/07/2015,19:30,Maria Lamas Farache / Natal
+122,Mogi Mirim / SP,Macaé / RJ,14/07/2015,19:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+123,Vitória / BA,CRB / AL,17/07/2015,21:50,Manoel Barradas / Salvador
+124,Luverdense / MT,Red Bull Bragantino / SP,17/07/2015,21:50,Passo das Emas / Lucas do Rio Verde
+125,Botafogo / RJ,Náutico / PE,18/07/2015,16:30,Estádio Olímpico João Havelange / Rio de Janeiro
+126,Criciúma / SC,Bahia / BA,18/07/2015,16:30,Heriberto Hulse / Criciuma
+127,Paysandu / PA,Sampaio Corrêa / MA,18/07/2015,16:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+128,Santa Cruz / PE,Atlético / GO,18/07/2015,16:30,José do Rego Maciel / Recife
+129,Oeste / SP,América / MG,18/07/2015,21:00,José Liberatti / Osasco
+130,Boa / MG,Ceará / CE,18/07/2015,21:00,Dilzon Melo / Varginha
+131,Macaé / RJ,Paraná / PR,21/07/2015,19:30,Cláudio Moacyr de Azevedo / Macaé
+132,Sampaio Corrêa / MA,ABC / RN,25/07/2015,16:30,Governador João Castelo / Sao Luis
+133,América / MG,Boa / MG,24/07/2015,19:30,Raimundo Sampaio / Belo Horizonte
+134,Red Bull Bragantino / SP,Atlético / GO,24/07/2015,21:50,Nabi Abi Chedid / Bragança Paulista
+135,Bahia / BA,Botafogo / RJ,25/07/2015,16:30,Octávio Mangabeira / Salvador
+136,Criciúma / SC,Santa Cruz / PE,25/07/2015,16:30,Heriberto Hulse / Criciuma
+137,Náutico / PE,Vitória / BA,25/07/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+138,CRB / AL,Paysandu / PA,25/07/2015,16:30,Rei Pelé / Maceio
+139,Ceará / CE,Mogi Mirim / SP,25/07/2015,21:00,Governador Plácido Castelo / Fortaleza
+140,Luverdense / MT,Oeste / SP,25/07/2015,21:00,Passo das Emas / Lucas do Rio Verde
+141,Vitória / BA,Macaé / RJ,28/07/2015,19:30,Manoel Barradas / Salvador
+142,Mogi Mirim / SP,Red Bull Bragantino / SP,28/07/2015,19:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+143,Boa / MG,Luverdense / MT,28/07/2015,19:30,Dilzon Melo / Varginha
+144,Paraná / PR,Náutico / PE,28/07/2015,19:30,Durival Britto e Silva / Curitiba
+145,Santa Cruz / PE,Bahia / BA,28/07/2015,19:30,José do Rego Maciel / Recife
+146,Oeste / SP,Sampaio Corrêa / MA,28/07/2015,19:30,José Liberatti / Osasco
+147,Paysandu / PA,América / MG,28/07/2015,19:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+148,ABC / RN,Ceará / CE,28/07/2015,19:30,Maria Lamas Farache / Natal
+149,Botafogo / RJ,Criciúma / SC,28/07/2015,21:50,Estádio Olímpico João Havelange / Rio de Janeiro
+150,Atlético / GO,CRB / AL,28/07/2015,21:50,Serra Dourada / Goiânia
+151,Boa / MG,Criciúma / SC,31/07/2015,19:00,Dilzon Melo / Varginha
+152,Náutico / PE,Macaé / RJ,01/08/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+153,Paysandu / PA,Mogi Mirim / SP,31/07/2015,21:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+154,ABC / RN,Bahia / BA,31/07/2015,21:30,Maria Lamas Farache / Natal
+155,Botafogo / RJ,Luverdense / MT,01/08/2015,16:30,Estádio Olímpico João Havelange / Rio de Janeiro
+156,Paraná / PR,CRB / AL,01/08/2015,16:30,Durival Britto e Silva / Curitiba
+157,Atlético / GO,Sampaio Corrêa / MA,01/08/2015,16:30,Serra Dourada / Goiânia
+158,Oeste / SP,Santa Cruz / PE,01/08/2015,16:30,José Liberatti / Osasco
+159,Vitória / BA,América / MG,01/08/2015,16:30,Manoel Barradas / Salvador
+160,Red Bull Bragantino / SP,Ceará / CE,01/08/2015,21:00,Nabi Abi Chedid / Bragança Paulista
+161,América / MG,Paraná / PR,04/08/2015,21:00,Raimundo Sampaio / Belo Horizonte
+162,Sampaio Corrêa / MA,Red Bull Bragantino / SP,04/08/2015,21:00,Governador João Castelo / Sao Luis
+163,Luverdense / MT,Paysandu / PA,07/08/2015,20:30,Passo das Emas / Lucas do Rio Verde
+164,Bahia / BA,Boa / MG,07/08/2015,21:00,Octávio Mangabeira / Salvador
+165,Criciúma / SC,Oeste / SP,07/08/2015,19:30,Heriberto Hulse / Criciuma
+166,Santa Cruz / PE,Botafogo / RJ,08/08/2015,16:30,José do Rego Maciel / Recife
+167,Ceará / CE,Vitória / BA,08/08/2015,16:30,Governador Plácido Castelo / Fortaleza
+168,CRB / AL,Náutico / PE,08/08/2015,16:30,Rei Pelé / Maceio
+169,Macaé / RJ,Atlético / GO,08/08/2015,16:30,Cláudio Moacyr de Azevedo / Macaé
+170,Mogi Mirim / SP,ABC / RN,08/08/2015,21:00,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+171,Bahia / BA,Náutico / PE,11/08/2015,19:00,Octávio Mangabeira / Salvador
+172,Criciúma / SC,Paysandu / PA,11/08/2015,19:00,Heriberto Hulse / Criciuma
+173,Sampaio Corrêa / MA,CRB / AL,11/08/2015,19:00,Governador João Castelo / Sao Luis
+174,Santa Cruz / PE,Mogi Mirim / SP,11/08/2015,19:00,José do Rego Maciel / Recife
+175,Ceará / CE,América / MG,11/08/2015,19:00,Governador Plácido Castelo / Fortaleza
+176,Oeste / SP,Atlético / GO,11/08/2015,19:00,José Liberatti / Osasco
+177,Luverdense / MT,Vitória / BA,11/08/2015,20:30,Arena Pantanal / Cuiabá
+178,Botafogo / RJ,ABC / RN,11/08/2015,21:30,Estádio Olímpico João Havelange / Rio de Janeiro
+179,Boa / MG,Macaé / RJ,11/08/2015,21:30,Dilzon Melo / Varginha
+180,Red Bull Bragantino / SP,Paraná / PR,11/08/2015,21:30,Nabi Abi Chedid / Bragança Paulista
+181,CRB / AL,Criciúma / SC,15/08/2015,16:30,Rei Pelé / Maceio
+182,Paraná / PR,Sampaio Corrêa / MA,14/08/2015,19:00,Durival Britto e Silva / Curitiba
+183,Atlético / GO,Bahia / BA,14/08/2015,21:30,Serra Dourada / Goiânia
+184,Vitória / BA,Santa Cruz / PE,14/08/2015,19:00,Manoel Barradas / Salvador
+185,Mogi Mirim / SP,Luverdense / MT,15/08/2015,21:00,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+186,América / MG,Botafogo / RJ,15/08/2015,16:30,Raimundo Sampaio / Belo Horizonte
+187,Paysandu / PA,Oeste / SP,15/08/2015,16:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+188,ABC / RN,Boa / MG,15/08/2015,16:30,Maria Lamas Farache / Natal
+189,Náutico / PE,Red Bull Bragantino / SP,15/08/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+190,Macaé / RJ,Ceará / CE,15/08/2015,21:00,Cláudio Moacyr de Azevedo / Macaé
+191,Ceará / CE,Paraná / PR,23/08/2015,16:00,Governador Plácido Castelo / Fortaleza
+192,Criciúma / SC,Mogi Mirim / SP,21/08/2015,19:00,Heriberto Hulse / Criciuma
+193,Bahia / BA,América / MG,22/08/2015,16:30,Octávio Mangabeira / Salvador
+194,Botafogo / RJ,Paysandu / PA,23/08/2015,11:00,Estádio Olímpico João Havelange / Rio de Janeiro
+195,Red Bull Bragantino / SP,CRB / AL,22/08/2015,16:30,Nabi Abi Chedid / Bragança Paulista
+196,Sampaio Corrêa / MA,Vitória / BA,22/08/2015,16:30,Governador João Castelo / Sao Luis
+197,Luverdense / MT,Náutico / PE,22/08/2015,16:30,Passo das Emas / Lucas do Rio Verde
+198,Boa / MG,Atlético / GO,22/08/2015,16:30,Dilzon Melo / Varginha
+199,Santa Cruz / PE,Macaé / RJ,21/08/2015,21:30,José do Rego Maciel / Recife
+200,Oeste / SP,ABC / RN,22/08/2015,16:30,José Liberatti / Osasco
+201,Vitória / BA,Oeste / SP,25/08/2015,19:00,Manoel Barradas / Salvador
+202,ABC / RN,Criciúma / SC,25/08/2015,21:30,Maria Lamas Farache / Natal
+203,América / MG,Luverdense / MT,28/08/2015,19:30,Raimundo Sampaio / Belo Horizonte
+204,CRB / AL,Botafogo / RJ,28/08/2015,21:00,Rei Pelé / Maceio
+205,Macaé / RJ,Sampaio Corrêa / MA,29/08/2015,16:30,Cláudio Moacyr de Azevedo / Macaé
+206,Mogi Mirim / SP,Bahia / BA,29/08/2015,21:00,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+207,Paraná / PR,Santa Cruz / PE,29/08/2015,16:30,Durival Britto e Silva / Curitiba
+208,Paysandu / PA,Red Bull Bragantino / SP,29/08/2015,16:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+209,Náutico / PE,Boa / MG,29/08/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+210,Atlético / GO,Ceará / CE,29/08/2015,16:30,Serra Dourada / Goiânia
+211,Criciúma / SC,Náutico / PE,01/09/2015,19:00,Heriberto Hulse / Criciuma
+212,Ceará / CE,Paysandu / PA,01/09/2015,19:00,Governador Plácido Castelo / Fortaleza
+213,Bahia / BA,CRB / AL,01/09/2015,20:30,Octávio Mangabeira / Salvador
+214,Red Bull Bragantino / SP,Vitória / BA,01/09/2015,20:30,Nabi Abi Chedid / Bragança Paulista
+215,Boa / MG,Paraná / PR,01/09/2015,20:30,Dilzon Melo / Varginha
+216,Sampaio Corrêa / MA,Mogi Mirim / SP,01/09/2015,20:30,Governador João Castelo / Sao Luis
+217,Santa Cruz / PE,América / MG,01/09/2015,20:30,José do Rego Maciel / Recife
+218,Luverdense / MT,ABC / RN,01/09/2015,20:30,Passo das Emas / Lucas do Rio Verde
+219,Botafogo / RJ,Atlético / GO,01/09/2015,21:30,Estádio Olímpico João Havelange / Rio de Janeiro
+220,Oeste / SP,Macaé / RJ,01/09/2015,21:30,José Liberatti / Osasco
+221,Náutico / PE,Sampaio Corrêa / MA,04/09/2015,19:00,Arena Pernambuco / São Lourenço da Mata
+222,ABC / RN,Santa Cruz / PE,04/09/2015,19:00,Arena das Dunas / Natal
+223,CRB / AL,Ceará / CE,04/09/2015,19:00,Rei Pelé / Maceio
+224,Atlético / GO,Criciúma / SC,22/09/2015,19:30,Serra Dourada / Goiânia
+225,Macaé / RJ,Luverdense / MT,04/09/2015,21:30,Cláudio Moacyr de Azevedo / Macaé
+226,Paraná / PR,Bahia / BA,04/09/2015,21:30,Durival Britto e Silva / Curitiba
+227,Vitória / BA,Botafogo / RJ,05/09/2015,15:00,Manoel Barradas / Salvador
+228,América / MG,Red Bull Bragantino / SP,05/09/2015,21:00,Raimundo Sampaio / Belo Horizonte
+229,Mogi Mirim / SP,Oeste / SP,04/09/2015,19:00,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+230,Paysandu / PA,Boa / MG,05/09/2015,21:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+231,Oeste / SP,CRB / AL,07/09/2015,16:00,José Liberatti / Osasco
+232,Ceará / CE,Náutico / PE,07/09/2015,19:00,Governador Plácido Castelo / Fortaleza
+233,Luverdense / MT,Atlético / GO,08/09/2015,19:30,Passo das Emas / Lucas do Rio Verde
+234,Bahia / BA,Macaé / RJ,08/09/2015,19:00,Octávio Mangabeira / Salvador
+235,Botafogo / RJ,Paraná / PR,08/09/2015,19:00,Estádio Olímpico João Havelange / Rio de Janeiro
+236,Red Bull Bragantino / SP,ABC / RN,08/09/2015,19:00,Nabi Abi Chedid / Bragança Paulista
+237,Boa / MG,Mogi Mirim / SP,08/09/2015,19:00,Dilzon Melo / Varginha
+238,Criciúma / SC,Vitória / BA,08/09/2015,19:00,Heriberto Hulse / Criciuma
+239,Sampaio Corrêa / MA,América / MG,08/09/2015,16:30,Governador João Castelo / Sao Luis
+240,Santa Cruz / PE,Paysandu / PA,08/09/2015,19:00,José do Rego Maciel / Recife
+241,Bahia / BA,Red Bull Bragantino / SP,11/09/2015,19:00,Octávio Mangabeira / Salvador
+242,Paraná / PR,Paysandu / PA,11/09/2015,20:30,Durival Britto e Silva / Curitiba
+243,Oeste / SP,Boa / MG,11/09/2015,20:30,José Liberatti / Osasco
+244,Mogi Mirim / SP,Botafogo / RJ,11/09/2015,21:30,Kleber Andrade / Cariacica
+245,América / MG,Náutico / PE,12/09/2015,16:30,Raimundo Sampaio / Belo Horizonte
+246,Sampaio Corrêa / MA,Ceará / CE,12/09/2015,16:30,Governador João Castelo / Sao Luis
+247,Santa Cruz / PE,Luverdense / MT,12/09/2015,16:30,José do Rego Maciel / Recife
+248,ABC / RN,CRB / AL,12/09/2015,16:30,Arena das Dunas / Natal
+249,Atlético / GO,Vitória / BA,12/09/2015,16:30,Serra Dourada / Goiânia
+250,Macaé / RJ,Criciúma / SC,12/09/2015,21:00,Cláudio Moacyr de Azevedo / Macaé
+251,Botafogo / RJ,Oeste / SP,15/09/2015,21:30,Estádio Olímpico João Havelange / Rio de Janeiro
+252,Red Bull Bragantino / SP,Macaé / RJ,15/09/2015,19:00,Nabi Abi Chedid / Bragança Paulista
+253,Vitória / BA,Mogi Mirim / SP,15/09/2015,20:30,Octávio Mangabeira / Salvador
+254,Criciúma / SC,Sampaio Corrêa / MA,15/09/2015,20:30,Heriberto Hulse / Criciuma
+255,Paysandu / PA,ABC / RN,15/09/2015,20:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+256,Náutico / PE,Atlético / GO,15/09/2015,20:30,Arena Pernambuco / São Lourenço da Mata
+257,Luverdense / MT,Paraná / PR,15/09/2015,20:30,Passo das Emas / Lucas do Rio Verde
+258,CRB / AL,América / MG,15/09/2015,20:30,Rei Pelé / Maceio
+259,Ceará / CE,Bahia / BA,15/09/2015,19:00,Governador Plácido Castelo / Fortaleza
+260,Boa / MG,Santa Cruz / PE,15/09/2015,21:30,Dilzon Melo / Varginha
+261,ABC / RN,Vitória / BA,18/09/2015,19:00,Arena das Dunas / Natal
+262,Atlético / GO,América / MG,18/09/2015,20:30,Serra Dourada / Goiânia
+263,Boa / MG,Botafogo / RJ,18/09/2015,21:30,Dilzon Melo / Varginha
+264,Bahia / BA,Sampaio Corrêa / MA,19/09/2015,16:30,Octávio Mangabeira / Salvador
+265,Mogi Mirim / SP,Paraná / PR,19/09/2015,16:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+266,Paysandu / PA,Náutico / PE,19/09/2015,16:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+267,Santa Cruz / PE,Ceará / CE,19/09/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+268,Oeste / SP,Red Bull Bragantino / SP,19/09/2015,16:30,José Liberatti / Osasco
+269,Criciúma / SC,Luverdense / MT,19/09/2015,21:00,Heriberto Hulse / Criciuma
+270,Macaé / RJ,CRB / AL,19/09/2015,21:00,Cláudio Moacyr de Azevedo / Macaé
+271,Botafogo / RJ,Macaé / RJ,22/09/2015,19:00,Estádio Olímpico João Havelange / Rio de Janeiro
+272,Red Bull Bragantino / SP,Boa / MG,22/09/2015,20:30,Nabi Abi Chedid / Bragança Paulista
+273,América / MG,Criciúma / SC,25/09/2015,21:00,Raimundo Sampaio / Belo Horizonte
+274,Vitória / BA,Paysandu / PA,26/09/2015,16:30,Octávio Mangabeira / Salvador
+275,CRB / AL,Mogi Mirim / SP,26/09/2015,16:30,Rei Pelé / Maceio
+276,Sampaio Corrêa / MA,Santa Cruz / PE,26/09/2015,16:30,Governador João Castelo / Sao Luis
+277,Náutico / PE,ABC / RN,26/09/2015,16:30,Arena Pernambuco / 
+278,Ceará / CE,Oeste / SP,26/09/2015,16:30,Governador Plácido Castelo / Fortaleza
+279,Paraná / PR,Atlético / GO,26/09/2015,21:00,Durival Britto e Silva / Curitiba
+280,Luverdense / MT,Bahia / BA,26/09/2015,21:00,Passo das Emas / Lucas do Rio Verde
+281,Mogi Mirim / SP,América / MG,03/10/2015,21:00,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+282,Santa Cruz / PE,Red Bull Bragantino / SP,29/09/2015,21:00,José do Rego Maciel / Recife
+283,Criciúma / SC,Paraná / PR,02/10/2015,19:30,Heriberto Hulse / Criciuma
+284,Sampaio Corrêa / MA,Botafogo / RJ,02/10/2015,21:00,Governador João Castelo / Sao Luis
+285,Bahia / BA,Vitória / BA,03/10/2015,16:30,Octávio Mangabeira / Salvador
+286,Macaé / RJ,ABC / RN,03/10/2015,16:30,Cláudio Moacyr de Azevedo / Macaé
+287,Boa / MG,CRB / AL,03/10/2015,16:30,Dilzon Melo / Varginha
+288,Atlético / GO,Paysandu / PA,03/10/2015,16:30,Serra Dourada / Goiânia
+289,Oeste / SP,Náutico / PE,03/10/2015,16:30,José Liberatti / Osasco
+290,Ceará / CE,Luverdense / MT,29/09/2015,21:00,Governador Plácido Castelo / Fortaleza
+291,Paysandu / PA,Bahia / BA,06/10/2015,21:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+292,Red Bull Bragantino / SP,Criciúma / SC,06/10/2015,19:00,Nabi Abi Chedid / Bragança Paulista
+293,Vitória / BA,Boa / MG,10/10/2015,16:30,Manoel Barradas / Salvador
+294,América / MG,Macaé / RJ,06/10/2015,20:30,Raimundo Sampaio / Belo Horizonte
+295,Paraná / PR,Oeste / SP,06/10/2015,20:30,Durival Britto e Silva / Curitiba
+296,Náutico / PE,Mogi Mirim / SP,06/10/2015,20:30,Arena Pernambuco / 
+297,ABC / RN,Atlético / GO,06/10/2015,20:30,Arena das Dunas / Natal
+298,CRB / AL,Santa Cruz / PE,06/10/2015,20:30,Rei Pelé / Maceio
+299,Botafogo / RJ,Ceará / CE,20/10/2015,21:00,Estádio Olímpico João Havelange / Rio de Janeiro
+300,Luverdense / MT,Sampaio Corrêa / MA,06/10/2015,21:30,Passo das Emas / Lucas do Rio Verde
+301,Botafogo / RJ,Red Bull Bragantino / SP,17/10/2015,16:00,Estádio Olímpico João Havelange / Rio de Janeiro
+302,Boa / MG,Sampaio Corrêa / MA,16/10/2015,19:30,Dilzon Melo / Varginha
+303,Vitória / BA,Paraná / PR,16/10/2015,21:30,Octávio Mangabeira / Salvador
+304,Mogi Mirim / SP,Atlético / GO,17/10/2015,16:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+305,Criciúma / SC,Ceará / CE,17/10/2015,16:30,Heriberto Hulse / Criciuma
+306,Santa Cruz / PE,Náutico / PE,17/10/2015,16:30,José do Rego Maciel / Recife
+307,ABC / RN,América / MG,17/10/2015,16:30,Maria Lamas Farache / Natal
+308,Oeste / SP,Bahia / BA,17/10/2015,16:30,José Liberatti / Osasco
+309,Paysandu / PA,Macaé / RJ,17/10/2015,21:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+310,Luverdense / MT,CRB / AL,17/10/2015,21:00,Passo das Emas / Lucas do Rio Verde
+311,Bahia / BA,Criciúma / SC,20/10/2015,21:00,Octávio Mangabeira / Salvador
+312,América / MG,Oeste / SP,23/10/2015,21:00,Raimundo Sampaio / Belo Horizonte
+313,Macaé / RJ,Mogi Mirim / SP,23/10/2015,21:00,Cláudio Moacyr de Azevedo / Macaé
+314,Sampaio Corrêa / MA,Paysandu / PA,24/10/2015,17:30,Governador João Castelo / Sao Luis
+315,Red Bull Bragantino / SP,Luverdense / MT,24/10/2015,21:00,Nabi Abi Chedid / Bragança Paulista
+316,Náutico / PE,Botafogo / RJ,24/10/2015,17:30,Arena Pernambuco / São Lourenço da Mata
+317,Atlético / GO,Santa Cruz / PE,24/10/2015,17:30,Serra Dourada / Goiânia
+318,CRB / AL,Vitória / BA,24/10/2015,17:30,Rei Pelé / Maceio
+319,Paraná / PR,ABC / RN,27/10/2015,21:00,Durival Britto e Silva / Curitiba
+320,Ceará / CE,Boa / MG,24/10/2015,21:00,Presidente Vargas / Fortaleza
+321,Boa / MG,América / MG,27/10/2015,19:00,Dilzon Melo / Varginha
+322,Oeste / SP,Luverdense / MT,27/10/2015,21:00,José Liberatti / Osasco
+323,Santa Cruz / PE,Criciúma / SC,27/10/2015,21:30,José do Rego Maciel / Recife
+324,Paraná / PR,Macaé / RJ,30/10/2015,21:00,Durival Britto e Silva / Curitiba
+325,Atlético / GO,Red Bull Bragantino / SP,30/10/2015,21:00,Serra Dourada / Goiânia
+326,Vitória / BA,Náutico / PE,31/10/2015,17:10,Manoel Barradas / Salvador
+327,Botafogo / RJ,Bahia / BA,31/10/2015,17:10,Estádio Olímpico João Havelange / Rio de Janeiro
+328,Mogi Mirim / SP,Ceará / CE,31/10/2015,17:30,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+329,Paysandu / PA,CRB / AL,31/10/2015,17:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belem
+330,ABC / RN,Sampaio Corrêa / MA,31/10/2015,21:00,Maria Lamas Farache / Natal
+331,Red Bull Bragantino / SP,Mogi Mirim / SP,03/11/2015,19:00,Nabi Abi Chedid / Bragança Paulista
+332,América / MG,Paysandu / PA,03/11/2015,21:30,Raimundo Sampaio / Belo Horizonte
+333,Ceará / CE,ABC / RN,06/11/2015,21:00,Presidente Vargas / Fortaleza
+334,Luverdense / MT,Boa / MG,06/11/2015,21:00,Passo das Emas / Lucas do Rio Verde
+335,Criciúma / SC,Botafogo / RJ,07/11/2015,17:30,Heriberto Hulse / Criciuma
+336,Macaé / RJ,Vitória / BA,07/11/2015,17:30,Cláudio Moacyr de Azevedo / Macaé
+337,Bahia / BA,Santa Cruz / PE,07/11/2015,17:30,Octávio Mangabeira / Salvador
+338,Náutico / PE,Paraná / PR,07/11/2015,17:30,Arena Pernambuco / São Lourenço da Mata
+339,CRB / AL,Atlético / GO,07/11/2015,21:00,Rei Pelé / Maceio
+340,Sampaio Corrêa / MA,Oeste / SP,07/11/2015,21:00,Governador João Castelo / Sao Luis
+341,Macaé / RJ,Náutico / PE,10/11/2015,19:00,Cláudio Moacyr de Azevedo / Macaé
+342,Mogi Mirim / SP,Paysandu / PA,10/11/2015,19:00,Estádio Romildo Vitor Gomes Ferreira  / Mogi Mirim
+343,América / MG,Vitória / BA,10/11/2015,19:00,Raimundo Sampaio / Belo Horizonte
+344,Criciúma / SC,Boa / MG,10/11/2015,19:00,Heriberto Hulse / Criciuma
+345,Bahia / BA,ABC / RN,10/11/2015,21:30,Octávio Mangabeira / Salvador
+346,Sampaio Corrêa / MA,Atlético / GO,10/11/2015,21:30,Governador João Castelo / Sao Luis
+347,Santa Cruz / PE,Oeste / SP,10/11/2015,21:30,José do Rego Maciel / Recife
+348,Ceará / CE,Red Bull Bragantino / SP,10/11/2015,21:30,Presidente Vargas / Fortaleza
+349,Luverdense / MT,Botafogo / RJ,10/11/2015,21:30,Passo das Emas / Lucas do Rio Verde
+350,CRB / AL,Paraná / PR,10/11/2015,21:30,Rei Pelé / Maceio
+351,Paysandu / PA,Luverdense / MT,13/11/2015,21:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+352,ABC / RN,Mogi Mirim / SP,13/11/2015,21:00,Maria Lamas Farache / Natal
+353,Oeste / SP,Criciúma / SC,13/11/2015,21:00,José Liberatti / Osasco
+354,Botafogo / RJ,Santa Cruz / PE,14/11/2015,17:30,Estádio Olímpico João Havelange / Rio de Janeiro
+355,Red Bull Bragantino / SP,Sampaio Corrêa / MA,14/11/2015,17:30,Nabi Abi Chedid / Bragança Paulista
+356,Boa / MG,Bahia / BA,14/11/2015,17:30,Dilzon Melo / Varginha
+357,Paraná / PR,América / MG,14/11/2015,21:00,Durival Britto e Silva / Curitiba
+358,Náutico / PE,CRB / AL,14/11/2015,17:30,Arena Pernambuco / São Lourenço da Mata
+359,Vitória / BA,Ceará / CE,14/11/2015,17:30,Manoel Barradas / Salvador
+360,Atlético / GO,Macaé / RJ,14/11/2015,21:00,Serra Dourada / Goiânia
+361,Atlético / GO,Oeste / SP,20/11/2015,19:00,Serra Dourada / Goiânia
+362,Macaé / RJ,Boa / MG,20/11/2015,20:30,Cláudio Moacyr de Azevedo / Macaé
+363,ABC / RN,Botafogo / RJ,20/11/2015,21:30,Estádio Nacional Mané Garrincha / Brasilia
+364,Paysandu / PA,Criciúma / SC,21/11/2015,17:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+365,Vitória / BA,Luverdense / MT,21/11/2015,17:30,Octávio Mangabeira / Salvador
+366,Mogi Mirim / SP,Santa Cruz / PE,21/11/2015,17:30,Novelli Junior / Itu
+367,América / MG,Ceará / CE,21/11/2015,17:30,Raimundo Sampaio / Belo Horizonte
+368,Náutico / PE,Bahia / BA,21/11/2015,17:30,Arena Pernambuco / São Lourenço da Mata
+369,Paraná / PR,Red Bull Bragantino / SP,21/11/2015,17:30,Durival Britto e Silva / Curitiba
+370,CRB / AL,Sampaio Corrêa / MA,21/11/2015,17:30,Rei Pelé / Maceio
+371,Boa / MG,ABC / RN,24/11/2015,20:30,Dilzon Melo / Varginha
+372,Bahia / BA,Atlético / GO,28/11/2015,17:30,Octávio Mangabeira / Salvador
+373,Botafogo / RJ,América / MG,28/11/2015,17:30,Estádio Olímpico João Havelange / Rio de Janeiro
+374,Red Bull Bragantino / SP,Náutico / PE,28/11/2015,17:30,Nabi Abi Chedid / Bragança Paulista
+375,Criciúma / SC,CRB / AL,27/11/2015,20:30,Heriberto Hulse / Criciuma
+376,Sampaio Corrêa / MA,Paraná / PR,28/11/2015,17:30,Governador João Castelo / Sao Luis
+377,Santa Cruz / PE,Vitória / BA,28/11/2015,17:30,José do Rego Maciel / Recife
+378,Ceará / CE,Macaé / RJ,28/11/2015,17:30,Governador Plácido Castelo / Fortaleza
+379,Luverdense / MT,Mogi Mirim / SP,27/11/2015,21:30,Passo das Emas / Lucas do Rio Verde
+380,Oeste / SP,Paysandu / PA,28/11/2015,17:30,José Liberatti / Osasco

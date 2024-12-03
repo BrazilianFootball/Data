@@ -1,216 +1,217 @@
-Game,Home,Away
-001,Tombense / MG,São José / RS
-002,Confiança / SE,Londrina / PR
-003,Náutico / PE,Sao Bernardo / SP
-004,Remo / PA,Volta Redonda / RJ
-005,Caxias / RS,Athletic / MG
-006,Floresta / CE,Botafogo / PB
-007,Figueirense / SC,Ferroviário / CE
-008,Ypiranga / RS,CSA / AL
-009,Ferroviária / SP,ABC / RN
-010,Aparecidense / GO,Sampaio Corrêa / MA
-011,Athletic / MG,Remo / PA
-012,CSA / AL,Ferroviária / SP
-013,Ferroviário / CE,Aparecidense / GO
-014,Sampaio Corrêa / MA,Figueirense / SC
-015,Londrina / PR,Ypiranga / RS
-016,ABC / RN,Náutico / PE
-017,Volta Redonda / RJ,Floresta / CE
-018,São José / RS,Confiança / SE
-019,Sao Bernardo / SP,Tombense / MG
-020,Botafogo / PB,Caxias / RS
-021,Athletic / MG,ABC / RN
-022,Confiança / SE,Tombense / MG
-023,Náutico / PE,Ypiranga / RS
-024,Sampaio Corrêa / MA,Caxias / RS
-025,Londrina / PR,CSA / AL
-026,Floresta / CE,Ferroviária / SP
-027,Figueirense / SC,Aparecidense / GO
-028,São José / RS,Volta Redonda / RJ
-029,Sao Bernardo / SP,Ferroviário / CE
-030,Botafogo / PB,Remo / PA
-031,Tombense / MG,Sampaio Corrêa / MA
-032,CSA / AL,Athletic / MG
-033,Ferroviário / CE,São José / RS
-034,Remo / PA,Floresta / CE
-035,Caxias / RS,Confiança / SE
-036,ABC / RN,Londrina / PR
-037,Volta Redonda / RJ,Botafogo / PB
-038,Ypiranga / RS,Figueirense / SC
-039,Ferroviária / SP,Náutico / PE
-040,Aparecidense / GO,Sao Bernardo / SP
-041,Athletic / MG,Aparecidense / GO
-042,CSA / AL,Sampaio Corrêa / MA
-043,Ferroviário / CE,ABC / RN
-044,Remo / PA,Tombense / MG
-045,Londrina / PR,Sao Bernardo / SP
-046,Floresta / CE,Figueirense / SC
-047,Volta Redonda / RJ,Náutico / PE
-048,Ypiranga / RS,Caxias / RS
-049,Ferroviária / SP,Confiança / SE
-050,Botafogo / PB,São José / RS
-051,Tombense / MG,Caxias / RS
-052,Confiança / SE,ABC / RN
-053,Náutico / PE,Remo / PA
-054,Sampaio Corrêa / MA,Botafogo / PB
-055,Londrina / PR,Volta Redonda / RJ
-056,Floresta / CE,Ferroviário / CE
-057,Figueirense / SC,Ferroviária / SP
-058,São José / RS,Athletic / MG
-059,Sao Bernardo / SP,CSA / AL
-060,Aparecidense / GO,Ypiranga / RS
-061,Tombense / MG,Ferroviária / SP
-062,Confiança / SE,Aparecidense / GO
-063,Ferroviário / CE,Londrina / PR
-064,Sampaio Corrêa / MA,Remo / PA
-065,Caxias / RS,Figueirense / SC
-066,ABC / RN,Floresta / CE
-067,Volta Redonda / RJ,CSA / AL
-068,São José / RS,Náutico / PE
-069,Sao Bernardo / SP,Ypiranga / RS
-070,Botafogo / PB,Athletic / MG
-071,Athletic / MG,Volta Redonda / RJ
-072,CSA / AL,São José / RS
-073,Náutico / PE,Caxias / RS
-074,Remo / PA,Sao Bernardo / SP
-075,Londrina / PR,Sampaio Corrêa / MA
-076,Floresta / CE,Confiança / SE
-077,Figueirense / SC,ABC / RN
-078,Ypiranga / RS,Tombense / MG
-079,Ferroviária / SP,Aparecidense / GO
-080,Botafogo / PB,Ferroviário / CE
-081,Athletic / MG,Ferroviário / CE
-082,CSA / AL,Botafogo / PB
-083,Náutico / PE,Floresta / CE
-084,Remo / PA,Ypiranga / RS
-085,Caxias / RS,Ferroviária / SP
-086,ABC / RN,Volta Redonda / RJ
-087,Figueirense / SC,Confiança / SE
-088,São José / RS,Londrina / PR
-089,Sao Bernardo / SP,Sampaio Corrêa / MA
-090,Aparecidense / GO,Tombense / MG
-091,Tombense / MG,Floresta / CE
-092,Confiança / SE,CSA / AL
-093,Ferroviário / CE,Ferroviária / SP
-094,Sampaio Corrêa / MA,Athletic / MG
-095,Londrina / PR,Botafogo / PB
-096,ABC / RN,Remo / PA
-097,Volta Redonda / RJ,Caxias / RS
-098,São José / RS,Ypiranga / RS
-099,Sao Bernardo / SP,Figueirense / SC
-100,Aparecidense / GO,Náutico / PE
-101,Athletic / MG,Sao Bernardo / SP
-102,CSA / AL,Figueirense / SC
-103,Náutico / PE,Confiança / SE
-104,Remo / PA,Ferroviário / CE
-105,Londrina / PR,Tombense / MG
-106,Floresta / CE,Caxias / RS
-107,Volta Redonda / RJ,Sampaio Corrêa / MA
-108,Ypiranga / RS,ABC / RN
-109,Ferroviária / SP,São José / RS
-110,Botafogo / PB,Aparecidense / GO
-111,Tombense / MG,Náutico / PE
-112,Confiança / SE,Ypiranga / RS
-113,Ferroviário / CE,Volta Redonda / RJ
-114,Sampaio Corrêa / MA,Ferroviária / SP
-115,Caxias / RS,Remo / PA
-116,ABC / RN,CSA / AL
-117,Figueirense / SC,Athletic / MG
-118,São José / RS,Floresta / CE
-119,Sao Bernardo / SP,Botafogo / PB
-120,Aparecidense / GO,Londrina / PR
-121,Athletic / MG,Londrina / PR
-122,CSA / AL,Floresta / CE
-123,Náutico / PE,Figueirense / SC
-124,Sampaio Corrêa / MA,São José / RS
-125,Caxias / RS,Aparecidense / GO
-126,ABC / RN,Tombense / MG
-127,Volta Redonda / RJ,Sao Bernardo / SP
-128,Ypiranga / RS,Ferroviário / CE
-129,Ferroviária / SP,Remo / PA
-130,Botafogo / PB,Confiança / SE
-131,Tombense / MG,Figueirense / SC
-132,Confiança / SE,Ferroviário / CE
-133,Náutico / PE,Athletic / MG
-134,Remo / PA,CSA / AL
-135,Londrina / PR,Caxias / RS
-136,Floresta / CE,Sampaio Corrêa / MA
-137,Volta Redonda / RJ,Ypiranga / RS
-138,São José / RS,Aparecidense / GO
-139,Sao Bernardo / SP,Ferroviária / SP
-140,Botafogo / PB,ABC / RN
-141,Tombense / MG,Athletic / MG
-142,Confiança / SE,Volta Redonda / RJ
-143,Ferroviário / CE,CSA / AL
-144,Sampaio Corrêa / MA,Náutico / PE
-145,Caxias / RS,São José / RS
-146,ABC / RN,Sao Bernardo / SP
-147,Figueirense / SC,Remo / PA
-148,Ypiranga / RS,Botafogo / PB
-149,Ferroviária / SP,Londrina / PR
-150,Aparecidense / GO,Floresta / CE
-151,Athletic / MG,Confiança / SE
-152,CSA / AL,Náutico / PE
-153,Ferroviário / CE,Sampaio Corrêa / MA
-154,Remo / PA,Aparecidense / GO
-155,Londrina / PR,Floresta / CE
-156,ABC / RN,São José / RS
-157,Volta Redonda / RJ,Tombense / MG
-158,Ypiranga / RS,Ferroviária / SP
-159,Sao Bernardo / SP,Caxias / RS
-160,Botafogo / PB,Figueirense / SC
-161,Tombense / MG,CSA / AL
-162,Confiança / SE,Remo / PA
-163,Náutico / PE,Botafogo / PB
-164,Sampaio Corrêa / MA,ABC / RN
-165,Caxias / RS,Ferroviário / CE
-166,Floresta / CE,Ypiranga / RS
-167,Figueirense / SC,Londrina / PR
-168,São José / RS,Sao Bernardo / SP
-169,Ferroviária / SP,Athletic / MG
-170,Aparecidense / GO,Volta Redonda / RJ
-171,Tombense / MG,Botafogo / PB
-172,Confiança / SE,Sao Bernardo / SP
-173,Náutico / PE,Ferroviário / CE
-174,Remo / PA,Londrina / PR
-175,Caxias / RS,ABC / RN
-176,Floresta / CE,Athletic / MG
-177,Figueirense / SC,São José / RS
-178,Ypiranga / RS,Sampaio Corrêa / MA
-179,Ferroviária / SP,Volta Redonda / RJ
-180,Aparecidense / GO,CSA / AL
-181,Athletic / MG,Ypiranga / RS
-182,CSA / AL,Caxias / RS
-183,Ferroviário / CE,Tombense / MG
-184,Sampaio Corrêa / MA,Confiança / SE
-185,Londrina / PR,Náutico / PE
-186,ABC / RN,Aparecidense / GO
-187,Volta Redonda / RJ,Figueirense / SC
-188,São José / RS,Remo / PA
-189,Sao Bernardo / SP,Floresta / CE
-190,Botafogo / PB,Ferroviária / SP
-191,Remo / PA,Botafogo / PB
-192,Volta Redonda / RJ,Sao Bernardo / SP
-193,Londrina / PR,Athletic / MG
-194,Ypiranga / RS,Ferroviária / SP
-195,Botafogo / PB,Volta Redonda / RJ
-196,Sao Bernardo / SP,Remo / PA
-197,Athletic / MG,Ypiranga / RS
-198,Ferroviária / SP,Londrina / PR
-199,Sao Bernardo / SP,Botafogo / PB
-200,Remo / PA,Volta Redonda / RJ
-201,Ferroviária / SP,Athletic / MG
-202,Londrina / PR,Ypiranga / RS
-203,Botafogo / PB,Sao Bernardo / SP
-204,Volta Redonda / RJ,Remo / PA
-205,Athletic / MG,Ferroviária / SP
-206,Ypiranga / RS,Londrina / PR
-207,Volta Redonda / RJ,Botafogo / PB
-208,Remo / PA,Sao Bernardo / SP
-209,Ypiranga / RS,Athletic / MG
-210,Londrina / PR,Ferroviária / SP
-211,Botafogo / PB,Remo / PA
-212,Sao Bernardo / SP,Volta Redonda / RJ
-213,Athletic / MG,Londrina / PR
-214,Ferroviária / SP,Ypiranga / RS
-215,Volta Redonda / RJ,Athletic / MG
+Game,Home,Away,Date,Time,Stadium
+001,Tombense / MG,São José / RS,20/04/2024,17:00,Antônio Guimarães de Almeida / Tombos
+002,Confiança / SE,Londrina / PR,22/04/2024,20:00,Lourival Baptista / Aracaju
+003,Náutico / PE,Sao Bernardo / SP,21/04/2024,16:30,Eládio de Barros Carvalho / Recife
+004,Remo / PA,Volta Redonda / RJ,20/04/2024,17:00,Evandro Almeida / Belem
+005,Caxias / RS,Athletic / MG,20/04/2024,19:30,Francisco Stédile / Caxias do Sul
+006,Floresta / CE,Botafogo / PB,21/04/2024,19:00,Presidente Vargas / Fortaleza
+007,Figueirense / SC,Ferroviário / CE,21/04/2024,16:30,Orlando Scarpelli / Florianopolis
+008,Ypiranga / RS,CSA / AL,20/04/2024,19:30,Colosso da Lagoa / Erechim
+009,Ferroviária / SP,ABC / RN,22/04/2024,20:00,Ademar Pereira de Barros / Araraquara
+010,Aparecidense / GO,Sampaio Corrêa / MA,24/04/2024,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+011,Athletic / MG,Remo / PA,27/04/2024,19:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+012,CSA / AL,Ferroviária / SP,28/04/2024,16:30,Rei Pelé / Maceio
+013,Ferroviário / CE,Aparecidense / GO,29/04/2024,20:00,Presidente Vargas / Fortaleza
+014,Sampaio Corrêa / MA,Figueirense / SC,27/04/2024,17:00,Nhozinho Santos / Sao Luis
+015,Londrina / PR,Ypiranga / RS,28/04/2024,16:30,Jacy Scaff / Londrina
+016,ABC / RN,Náutico / PE,27/04/2024,17:00,Maria Lamas Farache / Natal
+017,Volta Redonda / RJ,Floresta / CE,28/04/2024,19:30,Sylvio Raulino de Oliveira / Volta Redonda
+018,São José / RS,Confiança / SE,29/04/2024,20:00,Francisco Novelletto Neto / Porto Alegre
+019,Sao Bernardo / SP,Tombense / MG,27/04/2024,19:00,1º de Maio / Sao Bernardo do Campo
+020,Botafogo / PB,Caxias / RS,28/04/2024,19:00,José Américo de Almeida Filho / Joao Pessoa
+021,Athletic / MG,ABC / RN,05/05/2024,19:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+022,Confiança / SE,Tombense / MG,04/05/2024,17:00,Lourival Baptista / Aracaju
+023,Náutico / PE,Ypiranga / RS,31/07/2024,19:00,Eládio de Barros Carvalho / Recife
+024,Sampaio Corrêa / MA,Caxias / RS,12/06/2024,19:00,Governador João Castelo / Sao Luis
+025,Londrina / PR,CSA / AL,06/05/2024,20:00,Jacy Scaff / Londrina
+026,Floresta / CE,Ferroviária / SP,04/05/2024,19:30,Presidente Vargas / Fortaleza
+027,Figueirense / SC,Aparecidense / GO,05/05/2024,16:30,Orlando Scarpelli / Florianopolis
+028,São José / RS,Volta Redonda / RJ,29/05/2024,21:30,Francisco Novelletto Neto / Porto Alegre
+029,Sao Bernardo / SP,Ferroviário / CE,06/05/2024,20:00,1º de Maio / Sao Bernardo do Campo
+030,Botafogo / PB,Remo / PA,05/05/2024,16:30,José Américo de Almeida Filho / Joao Pessoa
+031,Tombense / MG,Sampaio Corrêa / MA,11/05/2024,17:00,Antônio Guimarães de Almeida / Tombos
+032,CSA / AL,Athletic / MG,12/05/2024,16:30,Rei Pelé / Maceio
+033,Ferroviário / CE,São José / RS,19/06/2024,19:00,Presidente Vargas / Fortaleza
+034,Remo / PA,Floresta / CE,12/05/2024,19:00,Evandro Almeida / Belem
+035,Caxias / RS,Confiança / SE,31/07/2024,19:00,Francisco Stédile / Caxias do Sul
+036,ABC / RN,Londrina / PR,11/05/2024,19:30,Maria Lamas Farache / Natal
+037,Volta Redonda / RJ,Botafogo / PB,12/05/2024,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+038,Ypiranga / RS,Figueirense / SC,30/05/2024,16:00,Colosso da Lagoa / Erechim
+039,Ferroviária / SP,Náutico / PE,12/05/2024,16:30,Ademar Pereira de Barros / Araraquara
+040,Aparecidense / GO,Sao Bernardo / SP,13/05/2024,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+041,Athletic / MG,Aparecidense / GO,20/05/2024,20:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+042,CSA / AL,Sampaio Corrêa / MA,18/05/2024,17:00,Rei Pelé / Maceio
+043,Ferroviário / CE,ABC / RN,19/05/2024,19:00,Presidente Vargas / Fortaleza
+044,Remo / PA,Tombense / MG,19/05/2024,16:30,Evandro Almeida / Belem
+045,Londrina / PR,Sao Bernardo / SP,19/05/2024,16:30,Jacy Scaff / Londrina
+046,Floresta / CE,Figueirense / SC,20/05/2024,20:00,Presidente Vargas / Fortaleza
+047,Volta Redonda / RJ,Náutico / PE,18/05/2024,17:00,Sylvio Raulino de Oliveira / Volta Redonda
+048,Ypiranga / RS,Caxias / RS,07/08/2024,19:00,Colosso da Lagoa / Erechim
+049,Ferroviária / SP,Confiança / SE,18/05/2024,19:30,Ademar Pereira de Barros / Araraquara
+050,Botafogo / PB,São José / RS,17/07/2024,20:00,José Américo de Almeida Filho / Joao Pessoa
+051,Tombense / MG,Caxias / RS,26/06/2024,18:00,Antônio Guimarães de Almeida / Tombos
+052,Confiança / SE,ABC / RN,25/05/2024,17:00,Lourival Baptista / Aracaju
+053,Náutico / PE,Remo / PA,25/05/2024,17:00,Eládio de Barros Carvalho / Recife
+054,Sampaio Corrêa / MA,Botafogo / PB,25/05/2024,19:30,Governador João Castelo / Sao Luis
+055,Londrina / PR,Volta Redonda / RJ,26/05/2024,19:00,Jacy Scaff / Londrina
+056,Floresta / CE,Ferroviário / CE,28/05/2024,20:00,Presidente Vargas / Fortaleza
+057,Figueirense / SC,Ferroviária / SP,26/05/2024,16:30,Orlando Scarpelli / Florianopolis
+058,São José / RS,Athletic / MG,04/07/2024,20:00,Francisco Novelletto Neto / Porto Alegre
+059,Sao Bernardo / SP,CSA / AL,26/05/2024,16:30,1º de Maio / Sao Bernardo do Campo
+060,Aparecidense / GO,Ypiranga / RS,24/07/2024,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+061,Tombense / MG,Ferroviária / SP,01/06/2024,19:30,Antônio Guimarães de Almeida / Tombos
+062,Confiança / SE,Aparecidense / GO,01/06/2024,17:00,Lourival Baptista / Aracaju
+063,Ferroviário / CE,Londrina / PR,01/06/2024,19:30,Presidente Vargas / Fortaleza
+064,Sampaio Corrêa / MA,Remo / PA,01/06/2024,17:00,Governador João Castelo / Sao Luis
+065,Caxias / RS,Figueirense / SC,02/06/2024,16:30,Centenário / Rosario do Sul
+066,ABC / RN,Floresta / CE,02/06/2024,19:00,Maria Lamas Farache / Natal
+067,Volta Redonda / RJ,CSA / AL,03/06/2024,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+068,São José / RS,Náutico / PE,03/06/2024,20:00,Francisco Novelletto Neto / Porto Alegre
+069,Sao Bernardo / SP,Ypiranga / RS,02/06/2024,16:30,1º de Maio / Sao Bernardo do Campo
+070,Botafogo / PB,Athletic / MG,03/06/2024,20:00,José Américo de Almeida Filho / Joao Pessoa
+071,Athletic / MG,Volta Redonda / RJ,09/06/2024,16:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+072,CSA / AL,São José / RS,10/06/2024,20:00,Rei Pelé / Maceio
+073,Náutico / PE,Caxias / RS,09/06/2024,19:00,Eládio de Barros Carvalho / Recife
+074,Remo / PA,Sao Bernardo / SP,09/06/2024,19:00,/ 
+075,Londrina / PR,Sampaio Corrêa / MA,08/06/2024,19:30,Jacy Scaff / Londrina
+076,Floresta / CE,Confiança / SE,10/06/2024,20:00,Presidente Vargas / Fortaleza
+077,Figueirense / SC,ABC / RN,08/06/2024,17:00,Orlando Scarpelli / Florianopolis
+078,Ypiranga / RS,Tombense / MG,10/06/2024,20:00,Colosso da Lagoa / Erechim
+079,Ferroviária / SP,Aparecidense / GO,08/06/2024,19:30,Ademar Pereira de Barros / Araraquara
+080,Botafogo / PB,Ferroviário / CE,09/06/2024,16:30,José Américo de Almeida Filho / Joao Pessoa
+081,Athletic / MG,Ferroviário / CE,15/06/2024,19:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+082,CSA / AL,Botafogo / PB,15/06/2024,17:00,Rei Pelé / Maceio
+083,Náutico / PE,Floresta / CE,17/06/2024,20:00,Eládio de Barros Carvalho / Recife
+084,Remo / PA,Ypiranga / RS,16/06/2024,16:30,Evandro Almeida / Belem
+085,Caxias / RS,Ferroviária / SP,16/06/2024,19:00,Francisco Stédile / Caxias do Sul
+086,ABC / RN,Volta Redonda / RJ,17/06/2024,20:00,Maria Lamas Farache / Natal
+087,Figueirense / SC,Confiança / SE,16/06/2024,16:30,Orlando Scarpelli / Florianopolis
+088,São José / RS,Londrina / PR,16/06/2024,16:30,Francisco Novelletto Neto / Porto Alegre
+089,Sao Bernardo / SP,Sampaio Corrêa / MA,18/06/2024,20:00,1º de Maio / Sao Bernardo do Campo
+090,Aparecidense / GO,Tombense / MG,15/06/2024,17:00,Anibal Batista de Toledo / Aparecida de Goiania
+091,Tombense / MG,Floresta / CE,22/06/2024,17:00,Antônio Guimarães de Almeida / Tombos
+092,Confiança / SE,CSA / AL,27/06/2024,20:00,Lourival Baptista / Aracaju
+093,Ferroviário / CE,Ferroviária / SP,26/06/2024,21:00,Presidente Vargas / Fortaleza
+094,Sampaio Corrêa / MA,Athletic / MG,26/06/2024,19:00,Governador João Castelo / Sao Luis
+095,Londrina / PR,Botafogo / PB,22/06/2024,19:30,Jacy Scaff / Londrina
+096,ABC / RN,Remo / PA,24/06/2024,20:00,Maria Lamas Farache / Natal
+097,Volta Redonda / RJ,Caxias / RS,23/06/2024,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+098,São José / RS,Ypiranga / RS,23/06/2024,16:30,Francisco Novelletto Neto / Porto Alegre
+099,Sao Bernardo / SP,Figueirense / SC,23/06/2024,19:00,1º de Maio / Sao Bernardo do Campo
+100,Aparecidense / GO,Náutico / PE,24/06/2024,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+101,Athletic / MG,Sao Bernardo / SP,29/06/2024,19:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+102,CSA / AL,Figueirense / SC,03/07/2024,20:30,Rei Pelé / Maceio
+103,Náutico / PE,Confiança / SE,01/07/2024,20:00,Eládio de Barros Carvalho / Recife
+104,Remo / PA,Ferroviário / CE,29/06/2024,19:30,Evandro Almeida / Belem
+105,Londrina / PR,Tombense / MG,01/07/2024,20:00,Jacy Scaff / Londrina
+106,Floresta / CE,Caxias / RS,30/06/2024,16:30,Presidente Vargas / Fortaleza
+107,Volta Redonda / RJ,Sampaio Corrêa / MA,29/06/2024,17:00,Sylvio Raulino de Oliveira / Volta Redonda
+108,Ypiranga / RS,ABC / RN,29/06/2024,17:00,Colosso da Lagoa / Erechim
+109,Ferroviária / SP,São José / RS,30/06/2024,16:30,José Maria de Campos Maia / Mirassol
+110,Botafogo / PB,Aparecidense / GO,03/07/2024,20:00,José Américo de Almeida Filho / Joao Pessoa
+111,Tombense / MG,Náutico / PE,07/07/2024,19:00,Antônio Guimarães de Almeida / Tombos
+112,Confiança / SE,Ypiranga / RS,07/07/2024,19:00,Lourival Baptista / Aracaju
+113,Ferroviário / CE,Volta Redonda / RJ,06/07/2024,17:00,Presidente Vargas / Fortaleza
+114,Sampaio Corrêa / MA,Ferroviária / SP,06/07/2024,17:00,Governador João Castelo / Sao Luis
+115,Caxias / RS,Remo / PA,08/07/2024,20:00,Francisco Stédile / Caxias do Sul
+116,ABC / RN,CSA / AL,06/07/2024,19:30,Maria Lamas Farache / Natal
+117,Figueirense / SC,Athletic / MG,07/07/2024,16:30,Orlando Scarpelli / Florianopolis
+118,São José / RS,Floresta / CE,08/07/2024,20:00,Francisco Novelletto Neto / Porto Alegre
+119,Sao Bernardo / SP,Botafogo / PB,08/07/2024,20:00,1º de Maio / Sao Bernardo do Campo
+120,Aparecidense / GO,Londrina / PR,06/07/2024,19:30,Anibal Batista de Toledo / Aparecida de Goiania
+121,Athletic / MG,Londrina / PR,13/07/2024,17:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+122,CSA / AL,Floresta / CE,14/07/2024,19:00,Rei Pelé / Maceio
+123,Náutico / PE,Figueirense / SC,14/07/2024,19:00,Eládio de Barros Carvalho / Recife
+124,Sampaio Corrêa / MA,São José / RS,13/07/2024,19:30,Governador João Castelo / Sao Luis
+125,Caxias / RS,Aparecidense / GO,17/07/2024,19:00,Francisco Stédile / Caxias do Sul
+126,ABC / RN,Tombense / MG,15/07/2024,20:00,Maria Lamas Farache / Natal
+127,Volta Redonda / RJ,Sao Bernardo / SP,14/07/2024,16:30,Sylvio Raulino de Oliveira / Volta Redonda
+128,Ypiranga / RS,Ferroviário / CE,17/07/2024,20:00,Colosso da Lagoa / Erechim
+129,Ferroviária / SP,Remo / PA,15/07/2024,20:00,José Maria de Campos Maia / Mirassol
+130,Botafogo / PB,Confiança / SE,13/07/2024,17:00,José Américo de Almeida Filho / Joao Pessoa
+131,Tombense / MG,Figueirense / SC,20/07/2024,19:30,Antônio Guimarães de Almeida / Tombos
+132,Confiança / SE,Ferroviário / CE,22/07/2024,20:00,Lourival Baptista / Aracaju
+133,Náutico / PE,Athletic / MG,21/07/2024,19:00,Eládio de Barros Carvalho / Recife
+134,Remo / PA,CSA / AL,22/07/2024,20:00,Olímpico do Pará / Belem
+135,Londrina / PR,Caxias / RS,20/07/2024,17:00,Jacy Scaff / Londrina
+136,Floresta / CE,Sampaio Corrêa / MA,22/07/2024,20:00,Presidente Vargas / Fortaleza
+137,Volta Redonda / RJ,Ypiranga / RS,21/07/2024,16:30,Sylvio Raulino de Oliveira / Volta Redonda
+138,São José / RS,Aparecidense / GO,21/07/2024,20:00,Francisco Novelletto Neto / Porto Alegre
+139,Sao Bernardo / SP,Ferroviária / SP,20/07/2024,17:00,1º de Maio / Sao Bernardo do Campo
+140,Botafogo / PB,ABC / RN,21/07/2024,19:00,José Américo de Almeida Filho / Joao Pessoa
+141,Tombense / MG,Athletic / MG,27/07/2024,19:30,Antônio Guimarães de Almeida / Tombos
+142,Confiança / SE,Volta Redonda / RJ,28/07/2024,19:00,Lourival Baptista / Aracaju
+143,Ferroviário / CE,CSA / AL,27/07/2024,19:30,Presidente Vargas / Fortaleza
+144,Sampaio Corrêa / MA,Náutico / PE,27/07/2024,17:00,Governador João Castelo / Sao Luis
+145,Caxias / RS,São José / RS,28/07/2024,16:30,Francisco Stédile / Caxias do Sul
+146,ABC / RN,Sao Bernardo / SP,28/07/2024,16:30,Maria Lamas Farache / Natal
+147,Figueirense / SC,Remo / PA,27/07/2024,17:00,Orlando Scarpelli / Florianopolis
+148,Ypiranga / RS,Botafogo / PB,28/07/2024,16:30,Colosso da Lagoa / Erechim
+149,Ferroviária / SP,Londrina / PR,29/07/2024,20:00,Ademar Pereira de Barros / Araraquara
+150,Aparecidense / GO,Floresta / CE,29/07/2024,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+151,Athletic / MG,Confiança / SE,03/08/2024,19:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+152,CSA / AL,Náutico / PE,04/08/2024,19:00,Rei Pelé / Maceio
+153,Ferroviário / CE,Sampaio Corrêa / MA,05/08/2024,19:00,Presidente Vargas / Fortaleza
+154,Remo / PA,Aparecidense / GO,05/08/2024,20:00,Olímpico do Pará / Belem
+155,Londrina / PR,Floresta / CE,04/08/2024,16:30,Jacy Scaff / Londrina
+156,ABC / RN,São José / RS,03/08/2024,19:30,Maria Lamas Farache / Natal
+157,Volta Redonda / RJ,Tombense / MG,03/08/2024,17:00,Sylvio Raulino de Oliveira / Volta Redonda
+158,Ypiranga / RS,Ferroviária / SP,04/08/2024,16:30,Colosso da Lagoa / Erechim
+159,Sao Bernardo / SP,Caxias / RS,04/08/2024,19:00,1º de Maio / Sao Bernardo do Campo
+160,Botafogo / PB,Figueirense / SC,03/08/2024,17:00,José Américo de Almeida Filho / Joao Pessoa
+161,Tombense / MG,CSA / AL,11/08/2024,19:00,Antônio Guimarães de Almeida / Tombos
+162,Confiança / SE,Remo / PA,10/08/2024,17:00,Lourival Baptista / Aracaju
+163,Náutico / PE,Botafogo / PB,11/08/2024,19:00,Eládio de Barros Carvalho / Recife
+164,Sampaio Corrêa / MA,ABC / RN,12/08/2024,20:00,Governador João Castelo / Sao Luis
+165,Caxias / RS,Ferroviário / CE,10/08/2024,19:30,Francisco Stédile / Caxias do Sul
+166,Floresta / CE,Ypiranga / RS,12/08/2024,20:00,Presidente Vargas / Fortaleza
+167,Figueirense / SC,Londrina / PR,11/08/2024,16:30,Orlando Scarpelli / Florianopolis
+168,São José / RS,Sao Bernardo / SP,10/08/2024,17:00,Francisco Novelletto Neto / Porto Alegre
+169,Ferroviária / SP,Athletic / MG,10/08/2024,19:30,Ademar Pereira de Barros / Araraquara
+170,Aparecidense / GO,Volta Redonda / RJ,11/08/2024,16:30,Anibal Batista de Toledo / Aparecida de Goiania
+171,Tombense / MG,Botafogo / PB,19/08/2024,20:00,Antônio Guimarães de Almeida / Tombos
+172,Confiança / SE,Sao Bernardo / SP,18/08/2024,19:00,Lourival Baptista / Aracaju
+173,Náutico / PE,Ferroviário / CE,17/08/2024,17:00,Eládio de Barros Carvalho / Recife
+174,Remo / PA,Londrina / PR,17/08/2024,21:00,Olímpico do Pará / Belem
+175,Caxias / RS,ABC / RN,18/08/2024,16:30,Francisco Stédile / Caxias do Sul
+176,Floresta / CE,Athletic / MG,17/08/2024,19:30,Presidente Vargas / Fortaleza
+177,Figueirense / SC,São José / RS,18/08/2024,16:30,Orlando Scarpelli / Florianopolis
+178,Ypiranga / RS,Sampaio Corrêa / MA,17/08/2024,19:30,Colosso da Lagoa / Erechim
+179,Ferroviária / SP,Volta Redonda / RJ,19/08/2024,20:00,Ademar Pereira de Barros / Araraquara
+180,Aparecidense / GO,CSA / AL,18/08/2024,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+181,Athletic / MG,Ypiranga / RS,24/08/2024,17:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+182,CSA / AL,Caxias / RS,24/08/2024,17:00,Rei Pelé / Maceio
+183,Ferroviário / CE,Tombense / MG,24/08/2024,17:00,Presidente Vargas / Fortaleza
+184,Sampaio Corrêa / MA,Confiança / SE,24/08/2024,17:00,Governador João Castelo / Sao Luis
+185,Londrina / PR,Náutico / PE,24/08/2024,17:00,Jacy Scaff / Londrina
+186,ABC / RN,Aparecidense / GO,24/08/2024,17:00,Maria Lamas Farache / Natal
+187,Volta Redonda / RJ,Figueirense / SC,24/08/2024,17:00,Sylvio Raulino de Oliveira / Volta Redonda
+188,São José / RS,Remo / PA,24/08/2024,17:00,Francisco Novelletto Neto / Porto Alegre
+189,Sao Bernardo / SP,Floresta / CE,24/08/2024,17:00,1º de Maio / Sao Bernardo do Campo
+190,Botafogo / PB,Ferroviária / SP,24/08/2024,17:00,José Américo de Almeida Filho / Joao Pessoa
+191,Remo / PA,Botafogo / PB,31/08/2024,17:30,Olímpico do Pará / Belem
+192,Volta Redonda / RJ,Sao Bernardo / SP,01/09/2024,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+193,Londrina / PR,Athletic / MG,02/09/2024,20:00,Jacy Scaff / Londrina
+194,Ypiranga / RS,Ferroviária / SP,31/08/2024,20:00,Colosso da Lagoa / Erechim
+195,Botafogo / PB,Volta Redonda / RJ,08/09/2024,18:30,José Américo de Almeida Filho / Joao Pessoa
+196,Sao Bernardo / SP,Remo / PA,09/09/2024,20:00,1º de Maio / Sao Bernardo do Campo
+197,Athletic / MG,Ypiranga / RS,07/09/2024,17:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+198,Ferroviária / SP,Londrina / PR,07/09/2024,20:00,Ademar Pereira de Barros / Araraquara
+199,Sao Bernardo / SP,Botafogo / PB,14/09/2024,17:30,1º de Maio / Sao Bernardo do Campo
+200,Remo / PA,Volta Redonda / RJ,15/09/2024,18:30,Olímpico do Pará / Belem
+201,Ferroviária / SP,Athletic / MG,16/09/2024,20:00,Ademar Pereira de Barros / Araraquara
+202,Londrina / PR,Ypiranga / RS,14/09/2024,16:30,Jacy Scaff / Londrina
+203,Botafogo / PB,Sao Bernardo / SP,21/09/2024,20:00,José Américo de Almeida Filho / Joao Pessoa
+204,Volta Redonda / RJ,Remo / PA,21/09/2024,17:30,Sylvio Raulino de Oliveira / Volta Redonda
+205,Athletic / MG,Ferroviária / SP,23/09/2024,20:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+206,Ypiranga / RS,Londrina / PR,22/09/2024,18:30,Colosso da Lagoa / Erechim
+207,Volta Redonda / RJ,Botafogo / PB,28/09/2024,17:30,Sylvio Raulino de Oliveira / Volta Redonda
+208,Remo / PA,Sao Bernardo / SP,29/09/2024,16:30,Olímpico do Pará / Belem
+209,Ypiranga / RS,Athletic / MG,28/09/2024,20:00,Colosso da Lagoa / Erechim
+210,Londrina / PR,Ferroviária / SP,29/09/2024,18:30,Jacy Scaff / Londrina
+211,Botafogo / PB,Remo / PA,05/10/2024,17:30,José Américo de Almeida Filho / Joao Pessoa
+212,Sao Bernardo / SP,Volta Redonda / RJ,05/10/2024,17:30,1º de Maio / Sao Bernardo do Campo
+213,Athletic / MG,Londrina / PR,05/10/2024,17:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+214,Ferroviária / SP,Ypiranga / RS,05/10/2024,17:30,Ademar Pereira de Barros / Araraquara
+215,Volta Redonda / RJ,Athletic / MG,12/10/2024,17:30,Sylvio Raulino de Oliveira / Volta Redonda
+216,Athletic / MG,Volta Redonda / RJ,19/10/2024,17:30,Estádio Joaquim Portugal  / Sao Joao del Rei

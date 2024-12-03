@@ -1,195 +1,195 @@
-Game,Home,Away
-001,Náutico / PE,Santa Cruz / PE
-002,Globo / RN,ABC / RN
-003,Atlético / AC,Remo / PA
-004,Salgueiro / PE,Botafogo / PB
-005,Juazeirense / BA,Confiança / SE
-006,Botafogo / SP,Red Bull Bragantino / SP
-007,Operário / PR,Volta Redonda / RJ
-008,Tupi / MG,Tombense / MG
-009,Cuiabá / MT,Luverdense / MT
-010,Joinville / SC,Ypiranga / RS
-011,Santa Cruz / PE,Atlético / AC
-012,ABC / RN,Juazeirense / BA
-013,Remo / PA,Globo / RN
-014,Botafogo / PB,Náutico / PE
-015,Confiança / SE,Salgueiro / PE
-016,Red Bull Bragantino / SP,Tupi / MG
-017,Volta Redonda / RJ,Cuiabá / MT
-018,Tombense / MG,Joinville / SC
-019,Luverdense / MT,Botafogo / SP
-020,Ypiranga / RS,Operário / PR
-021,Santa Cruz / PE,ABC / RN
-022,Globo / RN,Salgueiro / PE
-023,Atlético / AC,Náutico / PE
-024,Botafogo / PB,Confiança / SE
-025,Juazeirense / BA,Remo / PA
-026,Botafogo / SP,Cuiabá / MT
-027,Volta Redonda / RJ,Ypiranga / RS
-028,Tupi / MG,Operário / PR
-029,Luverdense / MT,Tombense / MG
-030,Joinville / SC,Red Bull Bragantino / SP
-031,Náutico / PE,Confiança / SE
-032,ABC / RN,Botafogo / PB
-033,Remo / PA,Santa Cruz / PE
-034,Salgueiro / PE,Atlético / AC
-035,Juazeirense / BA,Globo / RN
-036,Botafogo / SP,Volta Redonda / RJ
-037,Operário / PR,Joinville / SC
-038,Tombense / MG,Red Bull Bragantino / SP
-039,Cuiabá / MT,Tupi / MG
-040,Ypiranga / RS,Luverdense / MT
-041,Náutico / PE,Salgueiro / PE
-042,Globo / RN,Santa Cruz / PE
-043,Atlético / AC,Juazeirense / BA
-044,Botafogo / PB,Remo / PA
-045,Confiança / SE,ABC / RN
-046,Red Bull Bragantino / SP,Ypiranga / RS
-047,Operário / PR,Tombense / MG
-048,Tupi / MG,Botafogo / SP
-049,Luverdense / MT,Volta Redonda / RJ
-050,Joinville / SC,Cuiabá / MT
-051,Santa Cruz / PE,Botafogo / PB
-052,Globo / RN,Atlético / AC
-053,Remo / PA,Confiança / SE
-054,Salgueiro / PE,ABC / RN
-055,Juazeirense / BA,Náutico / PE
-056,Botafogo / SP,Joinville / SC
-057,Volta Redonda / RJ,Red Bull Bragantino / SP
-058,Tupi / MG,Luverdense / MT
-059,Cuiabá / MT,Operário / PR
-060,Ypiranga / RS,Tombense / MG
-061,Náutico / PE,Globo / RN
-062,ABC / RN,Remo / PA
-063,Atlético / AC,Botafogo / PB
-064,Salgueiro / PE,Juazeirense / BA
-065,Confiança / SE,Santa Cruz / PE
-066,Red Bull Bragantino / SP,Luverdense / MT
-067,Operário / PR,Botafogo / SP
-068,Tombense / MG,Volta Redonda / RJ
-069,Cuiabá / MT,Ypiranga / RS
-070,Joinville / SC,Tupi / MG
-071,Santa Cruz / PE,Juazeirense / BA
-072,ABC / RN,Náutico / PE
-073,Remo / PA,Salgueiro / PE
-074,Botafogo / PB,Globo / RN
-075,Confiança / SE,Atlético / AC
-076,Red Bull Bragantino / SP,Operário / PR
-077,Volta Redonda / RJ,Tupi / MG
-078,Tombense / MG,Cuiabá / MT
-079,Luverdense / MT,Joinville / SC
-080,Ypiranga / RS,Botafogo / SP
-081,Náutico / PE,Remo / PA
-082,Globo / RN,Confiança / SE
-083,Atlético / AC,ABC / RN
-084,Salgueiro / PE,Santa Cruz / PE
-085,Juazeirense / BA,Botafogo / PB
-086,Botafogo / SP,Tombense / MG
-087,Operário / PR,Luverdense / MT
-088,Tupi / MG,Ypiranga / RS
-089,Cuiabá / MT,Red Bull Bragantino / SP
-090,Joinville / SC,Volta Redonda / RJ
-091,Botafogo / PB,Salgueiro / PE
-092,Confiança / SE,Juazeirense / BA
-093,Red Bull Bragantino / SP,Botafogo / SP
-094,Volta Redonda / RJ,Operário / PR
-095,Tombense / MG,Tupi / MG
-096,Luverdense / MT,Cuiabá / MT
-097,Ypiranga / RS,Joinville / SC
-098,ABC / RN,Globo / RN
-099,Remo / PA,Atlético / AC
-100,Santa Cruz / PE,Náutico / PE
-101,Tupi / MG,Red Bull Bragantino / SP
-102,Cuiabá / MT,Volta Redonda / RJ
-103,Botafogo / SP,Luverdense / MT
-104,Salgueiro / PE,Confiança / SE
-105,Juazeirense / BA,ABC / RN
-106,Náutico / PE,Botafogo / PB
-107,Operário / PR,Ypiranga / RS
-108,Joinville / SC,Tombense / MG
-109,Atlético / AC,Santa Cruz / PE
-110,Globo / RN,Remo / PA
-111,Náutico / PE,Atlético / AC
-112,Confiança / SE,Botafogo / PB
-113,Red Bull Bragantino / SP,Joinville / SC
-114,Tombense / MG,Luverdense / MT
-115,Remo / PA,Juazeirense / BA
-116,Salgueiro / PE,Globo / RN
-117,Operário / PR,Tupi / MG
-118,Cuiabá / MT,Botafogo / SP
-119,Ypiranga / RS,Volta Redonda / RJ
-120,ABC / RN,Santa Cruz / PE
-121,Tupi / MG,Cuiabá / MT
-122,Red Bull Bragantino / SP,Tombense / MG
-123,Volta Redonda / RJ,Botafogo / SP
-124,Luverdense / MT,Ypiranga / RS
-125,Confiança / SE,Náutico / PE
-126,Globo / RN,Juazeirense / BA
-127,Joinville / SC,Operário / PR
-128,Santa Cruz / PE,Remo / PA
-129,Atlético / AC,Salgueiro / PE
-130,Botafogo / PB,ABC / RN
-131,Tombense / MG,Operário / PR
-132,Ypiranga / RS,Red Bull Bragantino / SP
-133,ABC / RN,Confiança / SE
-134,Juazeirense / BA,Atlético / AC
-135,Volta Redonda / RJ,Luverdense / MT
-136,Botafogo / SP,Tupi / MG
-137,Cuiabá / MT,Joinville / SC
-138,Remo / PA,Botafogo / PB
-139,Santa Cruz / PE,Globo / RN
-140,Salgueiro / PE,Náutico / PE
-141,Tombense / MG,Ypiranga / RS
-142,Náutico / PE,Juazeirense / BA
-143,Red Bull Bragantino / SP,Volta Redonda / RJ
-144,Botafogo / PB,Santa Cruz / PE
-145,Operário / PR,Cuiabá / MT
-146,Joinville / SC,Botafogo / SP
-147,ABC / RN,Salgueiro / PE
-148,Luverdense / MT,Tupi / MG
-149,Atlético / AC,Globo / RN
-150,Confiança / SE,Remo / PA
-151,Globo / RN,Náutico / PE
-152,Juazeirense / BA,Salgueiro / PE
-153,Tupi / MG,Joinville / SC
-154,Volta Redonda / RJ,Tombense / MG
-155,Luverdense / MT,Red Bull Bragantino / SP
-156,Santa Cruz / PE,Confiança / SE
-157,Ypiranga / RS,Cuiabá / MT
-158,Remo / PA,ABC / RN
-159,Botafogo / PB,Atlético / AC
-160,Botafogo / SP,Operário / PR
-161,Tupi / MG,Volta Redonda / RJ
-162,Náutico / PE,ABC / RN
-163,Operário / PR,Red Bull Bragantino / SP
-164,Joinville / SC,Luverdense / MT
-165,Botafogo / SP,Ypiranga / RS
-166,Cuiabá / MT,Tombense / MG
-167,Globo / RN,Botafogo / PB
-168,Atlético / AC,Confiança / SE
-169,Juazeirense / BA,Santa Cruz / PE
-170,Salgueiro / PE,Remo / PA
-171,Red Bull Bragantino / SP,Cuiabá / MT
-172,Volta Redonda / RJ,Joinville / SC
-173,Tombense / MG,Botafogo / SP
-174,Luverdense / MT,Operário / PR
-175,Ypiranga / RS,Tupi / MG
-176,Santa Cruz / PE,Salgueiro / PE
-177,ABC / RN,Atlético / AC
-178,Remo / PA,Náutico / PE
-179,Botafogo / PB,Juazeirense / BA
-180,Confiança / SE,Globo / RN
-181,Red Bull Bragantino / SP,Náutico / PE
-182,Santa Cruz / PE,Operário / PR
-183,Botafogo / PB,Botafogo / SP
-184,Cuiabá / MT,Atlético / AC
-185,Operário / PR,Santa Cruz / PE
-186,Náutico / PE,Red Bull Bragantino / SP
-187,Botafogo / SP,Botafogo / PB
-188,Atlético / AC,Cuiabá / MT
-189,Red Bull Bragantino / SP,Operário / PR
-190,Cuiabá / MT,Botafogo / SP
-191,Botafogo / SP,Cuiabá / MT
-192,Operário / PR,Red Bull Bragantino / SP
-193,Operário / PR,Cuiabá / MT
-194,Cuiabá / MT,Operário / PR
+Game,Home,Away,Date,Time,Stadium
+001,Náutico / PE,Santa Cruz / PE,15/04/2018,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+002,Globo / RN,ABC / RN,15/04/2018,17:00,Manoel Dantas Barretto / Ceara-Mirim
+003,Atlético / AC,Remo / PA,16/04/2018,21:15,Arena da Floresta / Rio Branco
+004,Salgueiro / PE,Botafogo / PB,15/04/2018,16:00,Cornélio de Barros Muniz / Salgueiro
+005,Juazeirense / BA,Confiança / SE,14/04/2018,18:30,Adauto Moraes / Juazeiro
+006,Botafogo / SP,Red Bull Bragantino / SP,14/04/2018,19:00,Santa Cruz / Ribeirao Preto
+007,Operário / PR,Volta Redonda / RJ,15/04/2018,15:30,Germano Kruger / Ponta Grossa
+008,Tupi / MG,Tombense / MG,14/04/2018,16:00,Mario Helênio / Juiz de Fora
+009,Cuiabá / MT,Luverdense / MT,15/04/2018,19:00,Arena Pantanal / Cuiaba
+010,Joinville / SC,Ypiranga / RS,15/04/2018,16:00,Arena Joinville / Joinville
+011,Santa Cruz / PE,Atlético / AC,22/04/2018,18:30,José do Rego Maciel / Recife
+012,ABC / RN,Juazeirense / BA,22/04/2018,16:00,Maria Lamas Farache / Natal
+013,Remo / PA,Globo / RN,21/04/2018,16:00,Olímpico do Pará / Belem
+014,Botafogo / PB,Náutico / PE,21/04/2018,19:00,José Américo de Almeida Filho / Joao Pessoa
+015,Confiança / SE,Salgueiro / PE,22/04/2018,16:00,Lourival Baptista / Aracaju
+016,Red Bull Bragantino / SP,Tupi / MG,21/04/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+017,Volta Redonda / RJ,Cuiabá / MT,21/04/2018,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+018,Tombense / MG,Joinville / SC,21/04/2018,15:30,Antônio Guimarães de Almeida / Tombos
+019,Luverdense / MT,Botafogo / SP,21/04/2018,17:00,Passo das Emas / Lucas do Rio Verde
+020,Ypiranga / RS,Operário / PR,22/04/2018,15:30,Colosso da Lagoa / Erechim
+021,Santa Cruz / PE,ABC / RN,28/04/2018,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+022,Globo / RN,Salgueiro / PE,29/04/2018,17:00,Manoel Dantas Barretto / Ceara-Mirim
+023,Atlético / AC,Náutico / PE,29/04/2018,19:00,Antonio Aquino Lopes / Rio Branco
+024,Botafogo / PB,Confiança / SE,30/04/2018,21:15,José Américo de Almeida Filho / Joao Pessoa
+025,Juazeirense / BA,Remo / PA,28/04/2018,19:00,Adauto Moraes / Juazeiro
+026,Botafogo / SP,Cuiabá / MT,28/04/2018,17:00,Santa Cruz / Ribeirao Preto
+027,Volta Redonda / RJ,Ypiranga / RS,28/04/2018,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+028,Tupi / MG,Operário / PR,28/04/2018,16:00,Mario Helênio / Juiz de Fora
+029,Luverdense / MT,Tombense / MG,29/04/2018,17:00,Passo das Emas / Lucas do Rio Verde
+030,Joinville / SC,Red Bull Bragantino / SP,29/04/2018,16:00,Arena Joinville / Joinville
+031,Náutico / PE,Confiança / SE,05/05/2018,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+032,ABC / RN,Botafogo / PB,06/05/2018,16:00,Maria Lamas Farache / Natal
+033,Remo / PA,Santa Cruz / PE,05/05/2018,16:00,Olímpico do Pará / Belem
+034,Salgueiro / PE,Atlético / AC,06/05/2018,16:00,Cornélio de Barros Muniz / Salgueiro
+035,Juazeirense / BA,Globo / RN,05/05/2018,18:30,Adauto Moraes / Juazeiro
+036,Botafogo / SP,Volta Redonda / RJ,07/05/2018,21:15,Santa Cruz / Ribeirao Preto
+037,Operário / PR,Joinville / SC,06/05/2018,16:30,Germano Kruger / Ponta Grossa
+038,Tombense / MG,Red Bull Bragantino / SP,05/05/2018,15:30,Antônio Guimarães de Almeida / Tombos
+039,Cuiabá / MT,Tupi / MG,05/05/2018,17:00,Arena Pantanal / Cuiaba
+040,Ypiranga / RS,Luverdense / MT,06/05/2018,15:30,Colosso da Lagoa / Erechim
+041,Náutico / PE,Salgueiro / PE,12/05/2018,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+042,Globo / RN,Santa Cruz / PE,14/05/2018,21:15,Manoel Dantas Barretto / Ceara-Mirim
+043,Atlético / AC,Juazeirense / BA,13/05/2018,19:00,Antonio Aquino Lopes / Rio Branco
+044,Botafogo / PB,Remo / PA,13/05/2018,19:00,José Américo de Almeida Filho / Joao Pessoa
+045,Confiança / SE,ABC / RN,12/05/2018,16:00,Lourival Baptista / Aracaju
+046,Red Bull Bragantino / SP,Ypiranga / RS,12/05/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+047,Operário / PR,Tombense / MG,13/05/2018,16:30,Germano Kruger / Ponta Grossa
+048,Tupi / MG,Botafogo / SP,12/05/2018,16:00,Mario Helênio / Juiz de Fora
+049,Luverdense / MT,Volta Redonda / RJ,14/05/2018,20:30,Passo das Emas / Lucas do Rio Verde
+050,Joinville / SC,Cuiabá / MT,12/05/2018,19:30,Arena Joinville / Joinville
+051,Santa Cruz / PE,Botafogo / PB,19/05/2018,19:00,José do Rego Maciel / Recife
+052,Globo / RN,Atlético / AC,20/05/2018,17:00,Manoel Dantas Barretto / Ceara-Mirim
+053,Remo / PA,Confiança / SE,20/05/2018,19:00,Olímpico do Pará / Belem
+054,Salgueiro / PE,ABC / RN,19/05/2018,19:00,Cornélio de Barros Muniz / Salgueiro
+055,Juazeirense / BA,Náutico / PE,19/05/2018,16:00,Adauto Moraes / Juazeiro
+056,Botafogo / SP,Joinville / SC,20/05/2018,16:00,Santa Cruz / Ribeirao Preto
+057,Volta Redonda / RJ,Red Bull Bragantino / SP,19/05/2018,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+058,Tupi / MG,Luverdense / MT,20/05/2018,16:00,Mario Helênio / Juiz de Fora
+059,Cuiabá / MT,Operário / PR,19/05/2018,17:00,Arena Pantanal / Cuiaba
+060,Ypiranga / RS,Tombense / MG,20/05/2018,15:30,Colosso da Lagoa / Erechim
+061,Náutico / PE,Globo / RN,27/05/2018,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+062,ABC / RN,Remo / PA,26/05/2018,20:00,Maria Lamas Farache / Natal
+063,Atlético / AC,Botafogo / PB,26/05/2018,19:00,Antonio Aquino Lopes / Rio Branco
+064,Salgueiro / PE,Juazeirense / BA,26/05/2018,20:00,Cornélio de Barros Muniz / Salgueiro
+065,Confiança / SE,Santa Cruz / PE,28/05/2018,19:00,Lourival Baptista / Aracaju
+066,Red Bull Bragantino / SP,Luverdense / MT,26/05/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+067,Operário / PR,Botafogo / SP,27/05/2018,15:30,Germano Kruger / Ponta Grossa
+068,Tombense / MG,Volta Redonda / RJ,26/05/2018,15:30,Antônio Guimarães de Almeida / Tombos
+069,Cuiabá / MT,Ypiranga / RS,26/05/2018,17:00,Arena Pantanal / Cuiaba
+070,Joinville / SC,Tupi / MG,27/05/2018,16:00,Arena Joinville / Joinville
+071,Santa Cruz / PE,Juazeirense / BA,02/06/2018,18:00,José do Rego Maciel / Recife
+072,ABC / RN,Náutico / PE,02/06/2018,16:00,Maria Lamas Farache / Natal
+073,Remo / PA,Salgueiro / PE,03/06/2018,19:00,Olímpico do Pará / Belem
+074,Botafogo / PB,Globo / RN,04/06/2018,21:15,José Américo de Almeida Filho / Joao Pessoa
+075,Confiança / SE,Atlético / AC,03/06/2018,16:00,Lourival Baptista / Aracaju
+076,Red Bull Bragantino / SP,Operário / PR,02/06/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+077,Volta Redonda / RJ,Tupi / MG,02/06/2018,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+078,Tombense / MG,Cuiabá / MT,02/06/2018,15:30,Antônio Guimarães de Almeida / Tombos
+079,Luverdense / MT,Joinville / SC,03/06/2018,17:00,Passo das Emas / Lucas do Rio Verde
+080,Ypiranga / RS,Botafogo / SP,03/06/2018,15:30,Colosso da Lagoa / Erechim
+081,Náutico / PE,Remo / PA,09/06/2018,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+082,Globo / RN,Confiança / SE,10/06/2018,17:00,Manoel Dantas Barretto / Ceara-Mirim
+083,Atlético / AC,ABC / RN,10/06/2018,19:00,Antonio Aquino Lopes / Rio Branco
+084,Salgueiro / PE,Santa Cruz / PE,11/06/2018,19:30,Cornélio de Barros Muniz / Salgueiro
+085,Juazeirense / BA,Botafogo / PB,09/06/2018,18:30,Adauto Moraes / Juazeiro
+086,Botafogo / SP,Tombense / MG,10/06/2018,16:00,Santa Cruz / Ribeirao Preto
+087,Operário / PR,Luverdense / MT,10/06/2018,15:30,Germano Kruger / Ponta Grossa
+088,Tupi / MG,Ypiranga / RS,09/06/2018,16:00,Mario Helênio / Juiz de Fora
+089,Cuiabá / MT,Red Bull Bragantino / SP,09/06/2018,17:00,Arena Pantanal / Cuiaba
+090,Joinville / SC,Volta Redonda / RJ,11/06/2018,21:15,Arena Joinville / Joinville
+091,Botafogo / PB,Salgueiro / PE,16/06/2018,18:00,José Américo de Almeida Filho / Joao Pessoa
+092,Confiança / SE,Juazeirense / BA,16/06/2018,18:00,Lourival Baptista / Aracaju
+093,Red Bull Bragantino / SP,Botafogo / SP,16/06/2018,18:00,Nabi Abi Chedid / Braganca Paulista
+094,Volta Redonda / RJ,Operário / PR,16/06/2018,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+095,Tombense / MG,Tupi / MG,16/06/2018,18:00,Antônio Guimarães de Almeida / Tombos
+096,Luverdense / MT,Cuiabá / MT,16/06/2018,18:00,Passo das Emas / Lucas do Rio Verde
+097,Ypiranga / RS,Joinville / SC,16/06/2018,15:30,Colosso da Lagoa / Erechim
+098,ABC / RN,Globo / RN,16/06/2018,20:00,Maria Lamas Farache / Natal
+099,Remo / PA,Atlético / AC,18/06/2018,19:00,Olímpico do Pará / Belem
+100,Santa Cruz / PE,Náutico / PE,18/06/2018,21:15,José do Rego Maciel / Recife
+101,Tupi / MG,Red Bull Bragantino / SP,23/06/2018,16:00,Mario Helênio / Juiz de Fora
+102,Cuiabá / MT,Volta Redonda / RJ,23/06/2018,16:30,Arena Pantanal / Cuiaba
+103,Botafogo / SP,Luverdense / MT,23/06/2018,18:00,Santa Cruz / Ribeirao Preto
+104,Salgueiro / PE,Confiança / SE,25/06/2018,20:00,Cornélio de Barros Muniz / Salgueiro
+105,Juazeirense / BA,ABC / RN,23/06/2018,20:00,Adauto Moraes / Juazeiro
+106,Náutico / PE,Botafogo / PB,25/06/2018,19:15,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+107,Operário / PR,Ypiranga / RS,24/06/2018,15:30,Germano Kruger / Ponta Grossa
+108,Joinville / SC,Tombense / MG,24/06/2018,11:00,Arena Joinville / Joinville
+109,Atlético / AC,Santa Cruz / PE,24/06/2018,20:00,Antonio Aquino Lopes / Rio Branco
+110,Globo / RN,Remo / PA,24/06/2018,18:00,Manoel Dantas Barretto / Ceara-Mirim
+111,Náutico / PE,Atlético / AC,30/06/2018,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+112,Confiança / SE,Botafogo / PB,01/07/2018,17:00,Lourival Baptista / Aracaju
+113,Red Bull Bragantino / SP,Joinville / SC,30/06/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+114,Tombense / MG,Luverdense / MT,30/06/2018,15:30,Antônio Guimarães de Almeida / Tombos
+115,Remo / PA,Juazeirense / BA,29/06/2018,21:45,Olímpico do Pará / Belem
+116,Salgueiro / PE,Globo / RN,30/06/2018,20:00,Cornélio de Barros Muniz / Salgueiro
+117,Operário / PR,Tupi / MG,01/07/2018,15:30,Germano Kruger / Ponta Grossa
+118,Cuiabá / MT,Botafogo / SP,30/06/2018,16:30,Arena Pantanal / Cuiaba
+119,Ypiranga / RS,Volta Redonda / RJ,01/07/2018,15:30,Colosso da Lagoa / Erechim
+120,ABC / RN,Santa Cruz / PE,01/07/2018,18:00,Maria Lamas Farache / Natal
+121,Tupi / MG,Cuiabá / MT,07/07/2018,16:00,Mario Helênio / Juiz de Fora
+122,Red Bull Bragantino / SP,Tombense / MG,07/07/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+123,Volta Redonda / RJ,Botafogo / SP,07/07/2018,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+124,Luverdense / MT,Ypiranga / RS,07/07/2018,18:00,Passo das Emas / Lucas do Rio Verde
+125,Confiança / SE,Náutico / PE,07/07/2018,21:00,Lourival Baptista / Aracaju
+126,Globo / RN,Juazeirense / BA,08/07/2018,16:00,Manoel Dantas Barretto / Ceara-Mirim
+127,Joinville / SC,Operário / PR,08/07/2018,16:00,Arena Joinville / Joinville
+128,Santa Cruz / PE,Remo / PA,08/07/2018,17:00,José do Rego Maciel / Recife
+129,Atlético / AC,Salgueiro / PE,08/07/2018,18:00,Antonio Aquino Lopes / Rio Branco
+130,Botafogo / PB,ABC / RN,08/07/2018,19:00,José Américo de Almeida Filho / Joao Pessoa
+131,Tombense / MG,Operário / PR,14/07/2018,15:30,Antônio Guimarães de Almeida / Tombos
+132,Ypiranga / RS,Red Bull Bragantino / SP,14/07/2018,15:30,Colosso da Lagoa / Erechim
+133,ABC / RN,Confiança / SE,14/07/2018,16:00,Maria Lamas Farache / Natal
+134,Juazeirense / BA,Atlético / AC,14/07/2018,16:00,Adauto Moraes / Juazeiro
+135,Volta Redonda / RJ,Luverdense / MT,14/07/2018,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+136,Botafogo / SP,Tupi / MG,14/07/2018,16:00,Santa Cruz / Ribeirao Preto
+137,Cuiabá / MT,Joinville / SC,14/07/2018,16:30,Arena Pantanal / Cuiaba
+138,Remo / PA,Botafogo / PB,14/07/2018,17:00,Olímpico do Pará / Belem
+139,Santa Cruz / PE,Globo / RN,14/07/2018,19:00,José do Rego Maciel / Recife
+140,Salgueiro / PE,Náutico / PE,16/07/2018,21:15,Cornélio de Barros Muniz / Salgueiro
+141,Tombense / MG,Ypiranga / RS,21/07/2018,15:30,Antônio Guimarães de Almeida / Tombos
+142,Náutico / PE,Juazeirense / BA,21/07/2018,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+143,Red Bull Bragantino / SP,Volta Redonda / RJ,21/07/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+144,Botafogo / PB,Santa Cruz / PE,21/07/2018,19:00,José Américo de Almeida Filho / Joao Pessoa
+145,Operário / PR,Cuiabá / MT,22/07/2018,15:30,Germano Kruger / Ponta Grossa
+146,Joinville / SC,Botafogo / SP,22/07/2018,15:30,Arena Joinville / Joinville
+147,ABC / RN,Salgueiro / PE,22/07/2018,16:00,Maria Lamas Farache / Natal
+148,Luverdense / MT,Tupi / MG,22/07/2018,17:00,Passo das Emas / Lucas do Rio Verde
+149,Atlético / AC,Globo / RN,22/07/2018,19:00,Antonio Aquino Lopes / Rio Branco
+150,Confiança / SE,Remo / PA,22/07/2018,19:00,Lourival Baptista / Aracaju
+151,Globo / RN,Náutico / PE,27/07/2018,20:00,Manoel Dantas Barretto / Ceara-Mirim
+152,Juazeirense / BA,Salgueiro / PE,28/07/2018,16:00,Adauto Moraes / Juazeiro
+153,Tupi / MG,Joinville / SC,28/07/2018,16:00,Mario Helênio / Juiz de Fora
+154,Volta Redonda / RJ,Tombense / MG,28/07/2018,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+155,Luverdense / MT,Red Bull Bragantino / SP,28/07/2018,18:00,Passo das Emas / Lucas do Rio Verde
+156,Santa Cruz / PE,Confiança / SE,28/07/2018,15:30,José do Rego Maciel / Recife
+157,Ypiranga / RS,Cuiabá / MT,29/07/2018,15:30,Colosso da Lagoa / Erechim
+158,Remo / PA,ABC / RN,29/07/2018,19:00,Olímpico do Pará / Belem
+159,Botafogo / PB,Atlético / AC,29/07/2018,16:00,José Américo de Almeida Filho / Joao Pessoa
+160,Botafogo / SP,Operário / PR,28/07/2018,16:00,Santa Cruz / Ribeirao Preto
+161,Tupi / MG,Volta Redonda / RJ,04/08/2018,16:00,Mario Helênio / Juiz de Fora
+162,Náutico / PE,ABC / RN,04/08/2018,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+163,Operário / PR,Red Bull Bragantino / SP,05/08/2018,15:30,Germano Kruger / Ponta Grossa
+164,Joinville / SC,Luverdense / MT,05/08/2018,15:30,Arena Joinville / Joinville
+165,Botafogo / SP,Ypiranga / RS,04/08/2018,16:00,Santa Cruz / Ribeirao Preto
+166,Cuiabá / MT,Tombense / MG,04/08/2018,18:00,Arena Pantanal / Cuiaba
+167,Globo / RN,Botafogo / PB,05/08/2018,16:00,Manoel Dantas Barretto / Ceara-Mirim
+168,Atlético / AC,Confiança / SE,05/08/2018,19:00,Antonio Aquino Lopes / Rio Branco
+169,Juazeirense / BA,Santa Cruz / PE,05/08/2018,19:00,Adauto Moraes / Juazeiro
+170,Salgueiro / PE,Remo / PA,06/08/2018,21:15,Cornélio de Barros Muniz / Salgueiro
+171,Red Bull Bragantino / SP,Cuiabá / MT,11/08/2018,17:00,Nabi Abi Chedid / Braganca Paulista
+172,Volta Redonda / RJ,Joinville / SC,11/08/2018,17:00,Sylvio Raulino de Oliveira / Volta Redonda
+173,Tombense / MG,Botafogo / SP,11/08/2018,17:00,Antônio Guimarães de Almeida / Tombos
+174,Luverdense / MT,Operário / PR,11/08/2018,17:00,Passo das Emas / Lucas do Rio Verde
+175,Ypiranga / RS,Tupi / MG,11/08/2018,17:00,Colosso da Lagoa / Erechim
+176,Santa Cruz / PE,Salgueiro / PE,11/08/2018,19:30,José do Rego Maciel / Recife
+177,ABC / RN,Atlético / AC,11/08/2018,19:30,Maria Lamas Farache / Natal
+178,Remo / PA,Náutico / PE,11/08/2018,19:30,Olímpico do Pará / Belem
+179,Botafogo / PB,Juazeirense / BA,11/08/2018,19:30,José Américo de Almeida Filho / Joao Pessoa
+180,Confiança / SE,Globo / RN,11/08/2018,19:30,Lourival Baptista / Aracaju
+181,Red Bull Bragantino / SP,Náutico / PE,18/08/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+182,Santa Cruz / PE,Operário / PR,19/08/2018,17:00,José do Rego Maciel / Recife
+183,Botafogo / PB,Botafogo / SP,19/08/2018,19:00,José Américo de Almeida Filho / Joao Pessoa
+184,Cuiabá / MT,Atlético / AC,20/08/2018,21:00,Arena Pantanal / Cuiaba
+185,Operário / PR,Santa Cruz / PE,26/08/2018,15:00,Germano Kruger / Ponta Grossa
+186,Náutico / PE,Red Bull Bragantino / SP,26/08/2018,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+187,Botafogo / SP,Botafogo / PB,26/08/2018,19:00,Santa Cruz / Ribeirao Preto
+188,Atlético / AC,Cuiabá / MT,27/08/2018,21:00,Antonio Aquino Lopes / Rio Branco
+189,Red Bull Bragantino / SP,Operário / PR,01/09/2018,16:00,Nabi Abi Chedid / Braganca Paulista
+190,Cuiabá / MT,Botafogo / SP,02/09/2018,19:00,Arena Pantanal / Cuiaba
+191,Botafogo / SP,Cuiabá / MT,08/09/2018,17:00,Santa Cruz / Ribeirao Preto
+192,Operário / PR,Red Bull Bragantino / SP,09/09/2018,15:30,Germano Kruger / Ponta Grossa
+193,Operário / PR,Cuiabá / MT,16/09/2018,15:30,Germano Kruger / Ponta Grossa
+194,Cuiabá / MT,Operário / PR,22/09/2018,19:00,Arena Pantanal / Cuiaba

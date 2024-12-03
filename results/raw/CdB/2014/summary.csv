@@ -1,160 +1,160 @@
-Game,Home,Away
-001,Real Noroeste / ES,Rio Branco / AC
-002,Rio Branco / AC,Real Noroeste / ES
-003,Resende / RJ,Vasco da Gama / RJ
-004,Tombense / MG,Treze / PB
-005,Nautico / RR,Ponte Preta / SP
-006,Sao Bernardo / SP,Paraná / PR
-007,J. Malucelli / PR,Vitória / BA
-008,Novo Hamburgo / RS,Joinville / SC
-009,Flamengo / PI,Atlético / GO
-010,Desportiva / ES,ABC / RN
-011,Mixto / MT,Santos / SP
-012,Princesa do Solimões / AM,Brasiliense / DF
-013,Londrina / PR,Criciúma / SC
-014,Goianesia / GO,Grêmio Barueri / SP
-015,Vilhena / RO,Palmeiras / SP
-016,Interporto / TO,Sampaio Corrêa / MA
-017,Naviraiense / MS,Avaí / SC
-018,Paragominas / PA,ASA / AL
-019,Horizonte / CE,Fluminense / RJ
-020,Juazeiro / BA,Tupi / MG
-021,Sergipe / SE,Náutico / PE
-022,Boavista / RJ,América / RN
-023,Bahia de Feira / BA,Corinthians / SP
-024,Sao Luiz / RS,Nacional / AM
-025,Villa Nova / MG,Bahia / BA
-026,Santos / AP,América / MG
-027,Botafogo / PB,Goiás / GO
-028,Lagarto / SE,Santa Cruz / PE
-029,Potiguar / RN,Portuguesa / SP
-030,Santa Rita / AL,Guarani / SP
-031,CSA / AL,São Paulo / SP
-032,Rondonopolis / MT,CRB / AL
-033,Plácido de Castro / AC,Figueirense / SC
-034,Lajeadense / RS,Red Bull Bragantino / SP
-035,Cene / MS,Coritiba / PR
-036,Caldense / MG,Duque de Caxias / RJ
-037,Brasília / DF,Sport / PE
-038,Maranhão / MA,Paysandu / PA
-039,Remo / PA,Internacional / RS
-040,Barbalha / CE,Cuiabá / MT
-041,Parnahyba / PI,Ceará / CE
-042,Rio Branco / AC,Chapecoense / SC
-043,Vasco da Gama / RJ,Resende / RJ
-044,Treze / PB,Tombense / MG
-046,Paraná / PR,Sao Bernardo / SP
-047,Vitória / BA,J. Malucelli / PR
-048,Joinville / SC,Novo Hamburgo / RS
-049,Atlético / GO,Flamengo / PI
-050,ABC / RN,Desportiva / ES
-051,Santos / SP,Mixto / MT
-052,Brasiliense / DF,Princesa do Solimões / AM
-053,Criciúma / SC,Londrina / PR
-054,Grêmio Barueri / SP,Goianesia / GO
-055,Palmeiras / SP,Vilhena / RO
-056,Sampaio Corrêa / MA,Interporto / TO
-059,Fluminense / RJ,Horizonte / CE
-061,Náutico / PE,Sergipe / SE
-062,América / RN,Boavista / RJ
-064,Nacional / AM,Sao Luiz / RS
-065,Bahia / BA,Villa Nova / MG
-067,Goiás / GO,Botafogo / PB
-068,Santa Cruz / PE,Lagarto / SE
-069,Portuguesa / SP,Potiguar / RN
-070,Guarani / SP,Santa Rita / AL
-071,São Paulo / SP,CSA / AL
-072,CRB / AL,Rondonopolis / MT
-073,Figueirense / SC,Plácido de Castro / AC
-074,Red Bull Bragantino / SP,Lajeadense / RS
-075,Coritiba / PR,Cene / MS
-076,Duque de Caxias / RJ,Caldense / MG
-078,Paysandu / PA,Maranhão / MA
-080,Cuiabá / MT,Barbalha / CE
-081,Ceará / CE,Parnahyba / PI
-083,Paraná / PR,Ponte Preta / SP
-084,Treze / PB,Vasco da Gama / RJ
-085,Tupi / MG,Fluminense / RJ
-086,Ponte Preta / SP,Paraná / PR
-087,CRB / AL,São Paulo / SP
-088,Londrina / PR,Grêmio Barueri / SP
-089,Sampaio Corrêa / MA,Palmeiras / SP
-090,ASA / AL,Avaí / SC
-091,ABC / RN,Atlético / GO
-092,América / RN,Náutico / PE
-093,Nacional / AM,Corinthians / SP
-094,América / MG,Bahia / BA
-095,Ceará / CE,Chapecoense / SC
-096,Santa Rita / AL,Potiguar / RN
-097,Princesa do Solimões / AM,Santos / SP
-098,Red Bull Bragantino / SP,Figueirense / SC
-099,Caldense / MG,Coritiba / PR
-101,Cuiabá / MT,Internacional / RS
-102,São Paulo / SP,CRB / AL
-103,Grêmio Barueri / SP,Londrina / PR
-104,Avaí / SC,ASA / AL
-105,Vasco da Gama / RJ,Treze / PB
-106,Atlético / GO,ABC / RN
-107,Bahia / BA,América / MG
-108,Figueirense / SC,Red Bull Bragantino / SP
-109,Palmeiras / SP,Sampaio Corrêa / MA
-110,Internacional / RS,Cuiabá / MT
-112,Náutico / PE,América / RN
-114,Santos / SP,Princesa do Solimões / AM
-115,Sport / PE,Paysandu / PA
-116,Potiguar / RN,Santa Rita / AL
-117,Novo Hamburgo / RS,J. Malucelli / PR
-118,J. Malucelli / PR,Novo Hamburgo / RS
-119,Botafogo / PB,Santa Cruz / PE
-120,Chapecoense / SC,Ceará / CE
-121,Paysandu / PA,Sport / PE
-122,Santa Cruz / PE,Botafogo / PB
-123,ABC / RN,Novo Hamburgo / RS
-124,Avaí / SC,Palmeiras / SP
-125,Ponte Preta / SP,Vasco da Gama / RJ
-126,Corinthians / SP,Bahia / BA
-127,Novo Hamburgo / RS,ABC / RN
-128,América / RN,Fluminense / RJ
-129,Red Bull Bragantino / SP,São Paulo / SP
-130,Internacional / RS,Ceará / CE
-131,Coritiba / PR,Paysandu / PA
-132,Londrina / PR,Santos / SP
-133,Palmeiras / SP,Avaí / SC
-134,Vasco da Gama / RJ,Ponte Preta / SP
-135,Bahia / BA,Corinthians / SP
-136,Santa Rita / AL,Santa Cruz / PE
-137,Paysandu / PA,Coritiba / PR
-138,Santa Cruz / PE,Santa Rita / AL
-139,Fluminense / RJ,América / RN
-140,São Paulo / SP,Red Bull Bragantino / SP
-141,Ceará / CE,Internacional / RS
-142,Santos / SP,Londrina / PR
-143,Cruzeiro / MG,Santa Rita / AL
-144,Vasco da Gama / RJ,ABC / RN
-145,América / RN,Athletico Paranaense / PR
-146,Botafogo / RJ,Ceará / CE
-147,Coritiba / PR,Flamengo / RJ
-148,Palmeiras / SP,Atlético Mineiro / MG
-149,Red Bull Bragantino / SP,Corinthians / SP
-150,Grêmio / RS,Santos / SP
-151,Santa Rita / AL,Cruzeiro / MG
-152,ABC / RN,Vasco da Gama / RJ
-153,Athletico Paranaense / PR,América / RN
-155,Ceará / CE,Botafogo / RJ
-156,Flamengo / RJ,Coritiba / PR
-157,Corinthians / SP,Red Bull Bragantino / SP
-158,Atlético Mineiro / MG,Palmeiras / SP
-159,Botafogo / RJ,Santos / SP
-160,Cruzeiro / MG,ABC / RN
-161,América / RN,Flamengo / RJ
-162,Corinthians / SP,Atlético Mineiro / MG
-163,ABC / RN,Cruzeiro / MG
-164,Flamengo / RJ,América / RN
-165,Atlético Mineiro / MG,Corinthians / SP
-166,Santos / SP,Botafogo / RJ
-167,Cruzeiro / MG,Santos / SP
-168,Flamengo / RJ,Atlético Mineiro / MG
-169,Santos / SP,Cruzeiro / MG
-170,Atlético Mineiro / MG,Flamengo / RJ
-171,Atlético Mineiro / MG,Cruzeiro / MG
-172,Cruzeiro / MG,Atlético Mineiro / MG
+Game,Home,Away,Date,Time,Stadium
+001,Real Noroeste / ES,Rio Branco / AC,19/02/2014,20:30,José Olimpio da Rocha / Aguia Branca
+002,Rio Branco / AC,Real Noroeste / ES,26/02/2014,21:30,Arena da Floresta / Rio Branco
+003,Resende / RJ,Vasco da Gama / RJ,03/04/2014,20:30,Arena da Amazônia / Manaus
+004,Tombense / MG,Treze / PB,12/03/2014,20:30,Antônio de Almeida / Tombos
+005,Nautico / RR,Ponte Preta / SP,12/03/2014,21:30,Raimundo Ribeiro de Souza / Boa Vista
+006,Sao Bernardo / SP,Paraná / PR,20/03/2014,19:30,Primeiro de Maio / 
+007,J. Malucelli / PR,Vitória / BA,19/03/2014,19:30,Estádio Janguito Malucelli / Curitiba
+008,Novo Hamburgo / RS,Joinville / SC,09/04/2014,19:30,Estádio do Vale / Novo Hamburgo
+009,Flamengo / PI,Atlético / GO,12/03/2014,20:30,Tibério Nunes / Floriano
+010,Desportiva / ES,ABC / RN,12/03/2014,20:30,Engenheiro Alencar de Araripe / Cariacica
+011,Mixto / MT,Santos / SP,02/04/2014,22:00,Arena Pantanal / Cuiabá
+012,Princesa do Solimões / AM,Brasiliense / DF,16/04/2014,21:30,Roberto Simonsen / Manaus
+013,Londrina / PR,Criciúma / SC,19/03/2014,19:30,Municipal Jacy Scaff / Londrina
+014,Goianesia / GO,Grêmio Barueri / SP,12/03/2014,20:30,Waldeir José de Oliveira / Goianesia
+015,Vilhena / RO,Palmeiras / SP,12/03/2014,19:30,Municipal Portal da Amazônia / Vilhena
+016,Interporto / TO,Sampaio Corrêa / MA,12/03/2014,20:30,General Sampaio / Porto Nacional
+017,Naviraiense / MS,Avaí / SC,02/04/2014,21:50,Antônio Augusto dos Santos / Naviraí
+018,Paragominas / PA,ASA / AL,03/04/2014,19:00,Arena Verde / Paragominas
+019,Horizonte / CE,Fluminense / RJ,20/03/2014,21:50,Horácio Domingos de Sousa / Horizonte
+020,Juazeiro / BA,Tupi / MG,12/03/2014,20:30,Adauto Moraes / Juazeiro
+021,Sergipe / SE,Náutico / PE,12/03/2014,20:30,Presidente Médici / Itabaiana
+022,Boavista / RJ,América / RN,02/04/2014,16:00,Eucy Resende de Mendonça / Saquarema
+023,Bahia de Feira / BA,Corinthians / SP,19/03/2014,22:00,Alberto Oliveira / Feira de Santana
+024,Sao Luiz / RS,Nacional / AM,12/03/2014,20:30,19 de Outubro / Ijuí
+025,Villa Nova / MG,Bahia / BA,19/03/2014,22:00,Castor Cifuentes / Nova Lima
+026,Santos / AP,América / MG,02/04/2014,20:30,Estádio Milton Corrêa / Macapá
+027,Botafogo / PB,Goiás / GO,02/04/2014,19:30,Estádio José Américo de Almeida Filho / João Pessoa
+028,Lagarto / SE,Santa Cruz / PE,09/04/2014,20:30,Presidente Médici / Itabaiana
+029,Potiguar / RN,Portuguesa / SP,02/04/2014,19:30,Leonardo Nogueira / Mossoró
+030,Santa Rita / AL,Guarani / SP,02/04/2014,15:15,Olival Elias de Moraes / Boca da Mata
+031,CSA / AL,São Paulo / SP,12/03/2014,22:00,Estádio Rei Pelé / Maceió
+032,Rondonopolis / MT,CRB / AL,13/03/2014,21:30,Engenheiro Lutero Lopes / Rondonópolis
+033,Plácido de Castro / AC,Figueirense / SC,02/04/2014,21:30,Arena da Floresta / Rio Branco
+034,Lajeadense / RS,Red Bull Bragantino / SP,02/04/2014,20:30,Estádio Alviazul / Lajeado
+035,Cene / MS,Coritiba / PR,13/03/2014,21:50,Universitário Pedro Pedrossian / Campo Grande
+036,Caldense / MG,Duque de Caxias / RJ,02/04/2014,20:30,Ronaldo Junqueira / Poços de Caldas
+037,Brasília / DF,Sport / PE,01/05/2014,21:50,Estádio Nacional / Brasília
+038,Maranhão / MA,Paysandu / PA,02/04/2014,20:30,Municipal Nhozinho Santos / São Luis
+039,Remo / PA,Internacional / RS,12/03/2014,22:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+040,Barbalha / CE,Cuiabá / MT,02/04/2014,20:30,Antônio Lírio Callou / Barbalha
+041,Parnahyba / PI,Ceará / CE,30/04/2014,22:00,Dirceu Arcoverde / Parnaíba
+042,Rio Branco / AC,Chapecoense / SC,08/04/2014,21:30,Arena da Floresta / Rio Branco
+043,Vasco da Gama / RJ,Resende / RJ,16/04/2014,22:00,São Januário / Rio de Janeiro
+044,Treze / PB,Tombense / MG,09/04/2014,20:30,Presidente Vargas / Campina Grande
+046,Paraná / PR,Sao Bernardo / SP,10/04/2014,19:30,Durival Britto e Silva / Curitiba
+047,Vitória / BA,J. Malucelli / PR,24/04/2014,19:30,Governador Roberto Santos / Salvador
+048,Joinville / SC,Novo Hamburgo / RS,22/04/2014,19:30,Arena Joinville / Joinville
+049,Atlético / GO,Flamengo / PI,09/04/2014,20:30,Serra Dourada / Goiânia
+050,ABC / RN,Desportiva / ES,02/04/2014,20:30,Maria Lamas Farache / Natal
+051,Santos / SP,Mixto / MT,16/04/2014,22:00,Urbano Caldeira / Santos
+052,Brasiliense / DF,Princesa do Solimões / AM,23/04/2014,20:30,Elmo Serejo Farias / Taguatinga
+053,Criciúma / SC,Londrina / PR,10/04/2014,19:30,Estádio Heriberto Hulse / Criciúma
+054,Grêmio Barueri / SP,Goianesia / GO,09/04/2014,20:30,Estádio Municipal Barueri / Barueri
+055,Palmeiras / SP,Vilhena / RO,02/04/2014,22:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+056,Sampaio Corrêa / MA,Interporto / TO,09/04/2014,20:30,Estádio Governador João Castelo / São Luis
+059,Fluminense / RJ,Horizonte / CE,10/04/2014,19:30,Jornalista Mario Filho / Rio de Janeiro
+061,Náutico / PE,Sergipe / SE,09/04/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+062,América / RN,Boavista / RJ,23/04/2014,19:30,Arena das Dunas / Natal
+064,Nacional / AM,Sao Luiz / RS,09/04/2014,21:30,Arena da Amazônia / Manaus
+065,Bahia / BA,Villa Nova / MG,30/04/2014,19:30,Octávio Mangabeira / Salvador
+067,Goiás / GO,Botafogo / PB,16/04/2014,22:00,Serra Dourada / Goiânia
+068,Santa Cruz / PE,Lagarto / SE,07/05/2014,22:00,Eládio de Barros Carvalho / Recife
+069,Portuguesa / SP,Potiguar / RN,09/04/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+070,Guarani / SP,Santa Rita / AL,09/04/2014,15:00,Luiz Perissinotto / Paulinia
+071,São Paulo / SP,CSA / AL,09/04/2014,22:00,Estádio Cícero Pompeu de Toledo / São Paulo
+072,CRB / AL,Rondonopolis / MT,09/04/2014,20:30,Rei Pelé / Maceio
+073,Figueirense / SC,Plácido de Castro / AC,09/04/2014,20:30,Estádio Orlando Scarpelli / Florianópolis
+074,Red Bull Bragantino / SP,Lajeadense / RS,09/04/2014,20:30,Nabi Abi Chedid / Bragança Paulista
+075,Coritiba / PR,Cene / MS,16/04/2014,19:30,Major Antônio do Couto Pereira / Curitiba
+076,Duque de Caxias / RJ,Caldense / MG,16/04/2014,20:30,Los Larios / Duque de Caxias
+078,Paysandu / PA,Maranhão / MA,16/04/2014,20:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+080,Cuiabá / MT,Barbalha / CE,16/04/2014,21:30,Presidente Dutra / Cuiabá
+081,Ceará / CE,Parnahyba / PI,07/05/2014,20:30,Governador Plácido Castelo / Fortaleza
+083,Paraná / PR,Ponte Preta / SP,22/04/2014,19:30,Durival Britto e Silva / Curitiba
+084,Treze / PB,Vasco da Gama / RJ,30/04/2014,22:00,Ernani Sátyro / Campina Grande
+085,Tupi / MG,Fluminense / RJ,23/04/2014,22:00,Mário Helênio / Juiz de Fora
+086,Ponte Preta / SP,Paraná / PR,06/05/2014,21:50,Moisés Lucarelli / Campinas
+087,CRB / AL,São Paulo / SP,23/04/2014,22:00,Rei Pelé / Maceio
+088,Londrina / PR,Grêmio Barueri / SP,01/05/2014,21:50,Municipal Jacy Scaff / Londrina
+089,Sampaio Corrêa / MA,Palmeiras / SP,07/05/2014,22:00,Estádio Governador João Castelo / São Luis
+090,ASA / AL,Avaí / SC,07/05/2014,19:30,Coaracy da Mata Fonseca / Arapiraca
+091,ABC / RN,Atlético / GO,07/05/2014,20:30,Maria Lamas Farache / Natal
+092,América / RN,Náutico / PE,06/05/2014,21:50,Arena das Dunas / Natal
+093,Nacional / AM,Corinthians / SP,30/04/2014,22:00,Arena da Amazônia / Manaus
+094,América / MG,Bahia / BA,07/05/2014,22:00,Estádio Raimundo Sampaio / Belo Horizonte
+095,Ceará / CE,Chapecoense / SC,23/07/2014,19:30,Presidente Vargas / Fortaleza
+096,Santa Rita / AL,Potiguar / RN,24/04/2014,15:15,Olival Elias de Moraes / Boca da Mata
+097,Princesa do Solimões / AM,Santos / SP,08/05/2014,21:50,Arena da Amazônia / Manaus
+098,Red Bull Bragantino / SP,Figueirense / SC,07/05/2014,19:30,Nabi Abi Chedid / Bragança Paulista
+099,Caldense / MG,Coritiba / PR,30/04/2014,19:30,Ronaldo Junqueira / Poços de Caldas
+101,Cuiabá / MT,Internacional / RS,01/05/2014,19:30,Arena Pantanal / Cuiabá
+102,São Paulo / SP,CRB / AL,07/05/2014,22:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+103,Grêmio Barueri / SP,Londrina / PR,08/05/2014,19:30,Estádio Municipal Barueri / Barueri
+104,Avaí / SC,ASA / AL,13/05/2014,20:30,Aderbal Ramos da Silva / Florianópolis
+105,Vasco da Gama / RJ,Treze / PB,07/05/2014,22:00,São Januário / Rio de Janeiro
+106,Atlético / GO,ABC / RN,14/05/2014,20:30,Serra Dourada / Goiânia
+107,Bahia / BA,América / MG,14/05/2014,19:30,Octávio Mangabeira / Salvador
+108,Figueirense / SC,Red Bull Bragantino / SP,22/07/2014,19:30,Estádio Orlando Scarpelli / Florianópolis
+109,Palmeiras / SP,Sampaio Corrêa / MA,14/05/2014,22:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+110,Internacional / RS,Cuiabá / MT,14/05/2014,22:00,Estádio José Pinheiro Borda / Porto Alegre
+112,Náutico / PE,América / RN,13/05/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+114,Santos / SP,Princesa do Solimões / AM,15/05/2014,21:50,Urbano Caldeira / Santos
+115,Sport / PE,Paysandu / PA,24/07/2014,19:30,Adelmar da Costa Carvalho / Recife
+116,Potiguar / RN,Santa Rita / AL,01/05/2014,19:30,Est.Municipal Leonardo Nogueira / 
+117,Novo Hamburgo / RS,J. Malucelli / PR,01/05/2014,16:00,Estádio do Vale / Novo Hamburgo
+118,J. Malucelli / PR,Novo Hamburgo / RS,07/05/2014,19:30,Estádio Janguito Malucelli / Curitiba
+119,Botafogo / PB,Santa Cruz / PE,14/05/2014,22:00,Estádio José Américo de Almeida Filho / João Pessoa
+120,Chapecoense / SC,Ceará / CE,14/05/2014,19:30,Regional Indio Condá / Chapecó
+121,Paysandu / PA,Sport / PE,15/05/2014,19:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+122,Santa Cruz / PE,Botafogo / PB,23/07/2014,22:00,José do Rego Maciel / Recife
+123,ABC / RN,Novo Hamburgo / RS,23/07/2014,19:30,Maria Lamas Farache / Natal
+124,Avaí / SC,Palmeiras / SP,23/07/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+125,Ponte Preta / SP,Vasco da Gama / RJ,23/07/2014,22:00,Moisés Lucarelli / Campinas
+126,Corinthians / SP,Bahia / BA,23/07/2014,22:00,Arena Corinthians / Itaquera/Sao Paulo
+127,Novo Hamburgo / RS,ABC / RN,30/07/2014,19:30,Estádio do Vale / Novo Hamburgo
+128,América / RN,Fluminense / RJ,06/08/2014,22:00,Arena das Dunas / Natal
+129,Red Bull Bragantino / SP,São Paulo / SP,30/07/2014,22:00,Estádio Santa Cruz / Ribeirão Preto
+130,Internacional / RS,Ceará / CE,30/07/2014,22:00,Estádio José Pinheiro Borda / Porto Alegre
+131,Coritiba / PR,Paysandu / PA,31/07/2014,21:00,Major Antônio do Couto Pereira / Curitiba
+132,Londrina / PR,Santos / SP,31/07/2014,21:00,Municipal Jacy Scaff / Londrina
+133,Palmeiras / SP,Avaí / SC,06/08/2014,19:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+134,Vasco da Gama / RJ,Ponte Preta / SP,30/07/2014,22:00,São Januário / Rio de Janeiro
+135,Bahia / BA,Corinthians / SP,06/08/2014,22:00,Octávio Mangabeira / Salvador
+136,Santa Rita / AL,Santa Cruz / PE,06/08/2014,22:00,Rei Pelé / Maceio
+137,Paysandu / PA,Coritiba / PR,13/08/2014,22:00,Zinho Oliveira / Marabá
+138,Santa Cruz / PE,Santa Rita / AL,14/08/2014,19:30,José do Rego Maciel / Recife
+139,Fluminense / RJ,América / RN,13/08/2014,22:00,Jornalista Mario Filho / Rio de Janeiro
+140,São Paulo / SP,Red Bull Bragantino / SP,13/08/2014,22:00,Estádio Cícero Pompeu de Toledo / Sao Paulo
+141,Ceará / CE,Internacional / RS,13/08/2014,22:00,Governador Plácido Castelo / Fortaleza
+142,Santos / SP,Londrina / PR,14/08/2014,19:30,Urbano Caldeira / Santos
+143,Cruzeiro / MG,Santa Rita / AL,27/08/2014,19:30,Governador Magalhães Pinto / Belo Horizonte
+144,Vasco da Gama / RJ,ABC / RN,26/08/2014,19:30,São Januário / Rio de Janeiro
+145,América / RN,Athletico Paranaense / PR,27/08/2014,19:30,Arena das Dunas / Natal
+146,Botafogo / RJ,Ceará / CE,27/08/2014,22:00,Jornalista Mario Filho / Rio de Janeiro
+147,Coritiba / PR,Flamengo / RJ,27/08/2014,22:00,Major Antônio do Couto Pereira / Curitiba
+148,Palmeiras / SP,Atlético Mineiro / MG,27/08/2014,22:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+149,Red Bull Bragantino / SP,Corinthians / SP,27/08/2014,22:00,Arena Pantanal / Cuiabá
+150,Grêmio / RS,Santos / SP,28/08/2014,20:00,Arena do Grêmio / Porto Alegre
+151,Santa Rita / AL,Cruzeiro / MG,03/09/2014,19:30,Coaracy da Mata Fonseca / Arapiraca
+152,ABC / RN,Vasco da Gama / RJ,02/09/2014,19:30,Arena das Dunas / Natal
+153,Athletico Paranaense / PR,América / RN,03/09/2014,19:30,Joaquim Américo Guimarães / Curitiba
+155,Ceará / CE,Botafogo / RJ,03/09/2014,22:00,Governador Plácido Castelo / Fortaleza
+156,Flamengo / RJ,Coritiba / PR,03/09/2014,22:00,Jornalista Mario Filho / Rio de Janeiro
+157,Corinthians / SP,Red Bull Bragantino / SP,03/09/2014,22:00,Arena Corinthians / Itaquera/Sao Paulo
+158,Atlético Mineiro / MG,Palmeiras / SP,04/09/2014,20:00,Estádio Raimundo Sampaio / Belo Horizonte
+159,Botafogo / RJ,Santos / SP,01/10/2014,19:30,Jornalista Mario Filho / Rio de Janeiro
+160,Cruzeiro / MG,ABC / RN,01/10/2014,19:30,Governador Magalhães Pinto / Belo Horizonte
+161,América / RN,Flamengo / RJ,01/10/2014,22:00,Arena das Dunas / Natal
+162,Corinthians / SP,Atlético Mineiro / MG,01/10/2014,22:00,Arena Corinthians / Itaquera/Sao Paulo
+163,ABC / RN,Cruzeiro / MG,15/10/2014,22:00,Arena das Dunas / Natal
+164,Flamengo / RJ,América / RN,15/10/2014,22:00,Jornalista Mario Filho / Rio de Janeiro
+165,Atlético Mineiro / MG,Corinthians / SP,15/10/2014,22:00,Governador Magalhães Pinto / Belo Horizonte
+166,Santos / SP,Botafogo / RJ,16/10/2014,21:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+167,Cruzeiro / MG,Santos / SP,29/10/2014,22:00,Governador Magalhães Pinto / Belo Horizonte
+168,Flamengo / RJ,Atlético Mineiro / MG,29/10/2014,22:00,Jornalista Mario Filho / Rio de Janeiro
+169,Santos / SP,Cruzeiro / MG,05/11/2014,22:00,Urbano Caldeira / Santos
+170,Atlético Mineiro / MG,Flamengo / RJ,05/11/2014,22:00,Governador Magalhães Pinto / Belo Horizonte
+171,Atlético Mineiro / MG,Cruzeiro / MG,12/11/2014,22:00,Estádio Raimundo Sampaio / Belo Horizonte
+172,Cruzeiro / MG,Atlético Mineiro / MG,26/11/2014,22:00,Governador Magalhães Pinto / Belo Horizonte

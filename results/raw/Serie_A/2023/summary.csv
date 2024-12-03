@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Flamengo / RJ,Coritiba / PR
-002,Botafogo / RJ,São Paulo / SP
-003,Palmeiras / SP,Cuiabá / MT
-004,Corinthians / SP,Cruzeiro / MG
-005,Red Bull Bragantino / SP,Bahia / BA
-006,Atlético Mineiro / MG,Vasco da Gama / RJ
-007,Grêmio / RS,Santos / SP
-008,Athletico Paranaense / PR,Goiás / GO
-009,Fortaleza / CE,Internacional / RS
-010,América / MG,Fluminense / RJ
-011,Fluminense / RJ,Athletico Paranaense / PR
-012,Vasco da Gama / RJ,Palmeiras / SP
-013,São Paulo / SP,América / MG
-014,Santos / SP,Atlético Mineiro / MG
-015,Goiás / GO,Corinthians / SP
-016,Cruzeiro / MG,Grêmio / RS
-017,Internacional / RS,Flamengo / RJ
-018,Coritiba / PR,Fortaleza / CE
-019,Bahia / BA,Botafogo / RJ
-020,Cuiabá / MT,Red Bull Bragantino / SP
-021,Flamengo / RJ,Botafogo / RJ
-022,Vasco da Gama / RJ,Bahia / BA
-023,Palmeiras / SP,Corinthians / SP
-024,Santos / SP,América / MG
-025,Red Bull Bragantino / SP,Cruzeiro / MG
-026,Atlético Mineiro / MG,Athletico Paranaense / PR
-027,Internacional / RS,Goiás / GO
-028,Coritiba / PR,São Paulo / SP
-029,Fortaleza / CE,Fluminense / RJ
-030,Cuiabá / MT,Grêmio / RS
-031,Fluminense / RJ,Vasco da Gama / RJ
-032,Botafogo / RJ,Atlético Mineiro / MG
-033,São Paulo / SP,Internacional / RS
-034,Corinthians / SP,Fortaleza / CE
-035,Goiás / GO,Palmeiras / SP
-036,Cruzeiro / MG,Santos / SP
-037,Grêmio / RS,Red Bull Bragantino / SP
-038,Athletico Paranaense / PR,Flamengo / RJ
-039,Bahia / BA,Coritiba / PR
-040,América / MG,Cuiabá / MT
-041,Flamengo / RJ,Goiás / GO
-042,Botafogo / RJ,Corinthians / SP
-043,Palmeiras / SP,Grêmio / RS
-044,Santos / SP,Bahia / BA
-045,Red Bull Bragantino / SP,América / MG
-046,Cruzeiro / MG,Fluminense / RJ
-047,Internacional / RS,Athletico Paranaense / PR
-048,Coritiba / PR,Vasco da Gama / RJ
-049,Fortaleza / CE,São Paulo / SP
-050,Cuiabá / MT,Atlético Mineiro / MG
-051,Fluminense / RJ,Cuiabá / MT
-052,Vasco da Gama / RJ,Santos / SP
-053,Palmeiras / SP,Red Bull Bragantino / SP
-054,Corinthians / SP,São Paulo / SP
-055,Goiás / GO,Botafogo / RJ
-056,Atlético Mineiro / MG,Internacional / RS
-057,Grêmio / RS,Fortaleza / CE
-058,Athletico Paranaense / PR,Coritiba / PR
-059,Bahia / BA,Flamengo / RJ
-060,América / MG,Cruzeiro / MG
-061,Flamengo / RJ,Corinthians / SP
-062,Botafogo / RJ,Fluminense / RJ
-063,São Paulo / SP,Vasco da Gama / RJ
-064,Santos / SP,Palmeiras / SP
-065,Red Bull Bragantino / SP,Athletico Paranaense / PR
-066,Cruzeiro / MG,Cuiabá / MT
-067,Grêmio / RS,Internacional / RS
-068,Coritiba / PR,Atlético Mineiro / MG
-069,Bahia / BA,Goiás / GO
-070,América / MG,Fortaleza / CE
-071,Flamengo / RJ,Cruzeiro / MG
-072,Botafogo / RJ,América / MG
-073,São Paulo / SP,Goiás / GO
-074,Corinthians / SP,Fluminense / RJ
-075,Red Bull Bragantino / SP,Santos / SP
-076,Atlético Mineiro / MG,Palmeiras / SP
-077,Internacional / RS,Bahia / BA
-078,Athletico Paranaense / PR,Grêmio / RS
-079,Fortaleza / CE,Vasco da Gama / RJ
-080,Cuiabá / MT,Coritiba / PR
-081,Fluminense / RJ,Red Bull Bragantino / SP
-082,Vasco da Gama / RJ,Flamengo / RJ
-083,Palmeiras / SP,Coritiba / PR
-084,Santos / SP,Internacional / RS
-085,Goiás / GO,Cuiabá / MT
-086,Cruzeiro / MG,Atlético Mineiro / MG
-087,Grêmio / RS,São Paulo / SP
-088,Athletico Paranaense / PR,Botafogo / RJ
-089,Fortaleza / CE,Bahia / BA
-090,América / MG,Corinthians / SP
-091,Flamengo / RJ,Grêmio / RS
-092,Botafogo / RJ,Fortaleza / CE
-093,São Paulo / SP,Palmeiras / SP
-094,Corinthians / SP,Cuiabá / MT
-095,Goiás / GO,Fluminense / RJ
-096,Atlético Mineiro / MG,Red Bull Bragantino / SP
-097,Internacional / RS,Vasco da Gama / RJ
-098,Coritiba / PR,Santos / SP
-099,Bahia / BA,Cruzeiro / MG
-100,América / MG,Athletico Paranaense / PR
-101,Fluminense / RJ,Atlético Mineiro / MG
-102,Vasco da Gama / RJ,Goiás / GO
-103,São Paulo / SP,Athletico Paranaense / PR
-104,Santos / SP,Corinthians / SP
-105,Red Bull Bragantino / SP,Flamengo / RJ
-106,Cruzeiro / MG,Fortaleza / CE
-107,Grêmio / RS,América / MG
-108,Coritiba / PR,Internacional / RS
-109,Bahia / BA,Palmeiras / SP
-110,Cuiabá / MT,Botafogo / RJ
-111,Fluminense / RJ,Bahia / BA
-112,Vasco da Gama / RJ,Cuiabá / MT
-113,Palmeiras / SP,Botafogo / RJ
-114,Santos / SP,Flamengo / RJ
-115,Red Bull Bragantino / SP,Goiás / GO
-116,Cruzeiro / MG,São Paulo / SP
-117,Grêmio / RS,Coritiba / PR
-118,Athletico Paranaense / PR,Corinthians / SP
-119,Fortaleza / CE,Atlético Mineiro / MG
-120,América / MG,Internacional / RS
-121,Flamengo / RJ,Fortaleza / CE
-122,Botafogo / RJ,Vasco da Gama / RJ
-123,São Paulo / SP,Fluminense / RJ
-124,Corinthians / SP,Red Bull Bragantino / SP
-125,Goiás / GO,Coritiba / PR
-126,Atlético Mineiro / MG,América / MG
-127,Internacional / RS,Cruzeiro / MG
-128,Athletico Paranaense / PR,Palmeiras / SP
-129,Bahia / BA,Grêmio / RS
-130,Cuiabá / MT,Santos / SP
-131,Fluminense / RJ,Internacional / RS
-132,Vasco da Gama / RJ,Cruzeiro / MG
-133,Palmeiras / SP,Flamengo / RJ
-134,Santos / SP,Goiás / GO
-135,Red Bull Bragantino / SP,São Paulo / SP
-136,Atlético Mineiro / MG,Corinthians / SP
-137,Grêmio / RS,Botafogo / RJ
-138,Coritiba / PR,América / MG
-139,Fortaleza / CE,Athletico Paranaense / PR
-140,Cuiabá / MT,Bahia / BA
-141,Fluminense / RJ,Flamengo / RJ
-142,Botafogo / RJ,Red Bull Bragantino / SP
-143,São Paulo / SP,Santos / SP
-144,Corinthians / SP,Grêmio / RS
-145,Goiás / GO,Atlético Mineiro / MG
-146,Cruzeiro / MG,Coritiba / PR
-147,Internacional / RS,Palmeiras / SP
-148,Athletico Paranaense / PR,Bahia / BA
-149,Fortaleza / CE,Cuiabá / MT
-150,América / MG,Vasco da Gama / RJ
-151,Flamengo / RJ,América / MG
-152,Vasco da Gama / RJ,Athletico Paranaense / PR
-153,Palmeiras / SP,Fortaleza / CE
-154,Santos / SP,Botafogo / RJ
-155,Red Bull Bragantino / SP,Internacional / RS
-156,Cruzeiro / MG,Goiás / GO
-157,Grêmio / RS,Atlético Mineiro / MG
-158,Coritiba / PR,Fluminense / RJ
-159,Bahia / BA,Corinthians / SP
-160,Cuiabá / MT,São Paulo / SP
-161,Fluminense / RJ,Santos / SP
-162,Botafogo / RJ,Coritiba / PR
-163,São Paulo / SP,Bahia / BA
-164,Corinthians / SP,Vasco da Gama / RJ
-165,Goiás / GO,Grêmio / RS
-166,Atlético Mineiro / MG,Flamengo / RJ
-167,Internacional / RS,Cuiabá / MT
-168,Athletico Paranaense / PR,Cruzeiro / MG
-169,Fortaleza / CE,Red Bull Bragantino / SP
-170,América / MG,Palmeiras / SP
-171,Fluminense / RJ,Palmeiras / SP
-172,Vasco da Gama / RJ,Grêmio / RS
-173,São Paulo / SP,Atlético Mineiro / MG
-174,Santos / SP,Athletico Paranaense / PR
-175,Goiás / GO,Fortaleza / CE
-176,Cruzeiro / MG,Botafogo / RJ
-177,Internacional / RS,Corinthians / SP
-178,Coritiba / PR,Red Bull Bragantino / SP
-179,Bahia / BA,América / MG
-180,Cuiabá / MT,Flamengo / RJ
-181,Flamengo / RJ,São Paulo / SP
-182,Botafogo / RJ,Internacional / RS
-183,Palmeiras / SP,Cruzeiro / MG
-184,Corinthians / SP,Coritiba / PR
-185,Red Bull Bragantino / SP,Vasco da Gama / RJ
-186,Atlético Mineiro / MG,Bahia / BA
-187,Grêmio / RS,Fluminense / RJ
-188,Athletico Paranaense / PR,Cuiabá / MT
-189,Fortaleza / CE,Santos / SP
-190,América / MG,Goiás / GO
-191,Fluminense / RJ,América / MG
-192,Vasco da Gama / RJ,Atlético Mineiro / MG
-193,São Paulo / SP,Botafogo / RJ
-194,Santos / SP,Grêmio / RS
-195,Goiás / GO,Athletico Paranaense / PR
-196,Cruzeiro / MG,Corinthians / SP
-197,Internacional / RS,Fortaleza / CE
-198,Coritiba / PR,Flamengo / RJ
-199,Bahia / BA,Red Bull Bragantino / SP
-200,Cuiabá / MT,Palmeiras / SP
-201,Flamengo / RJ,Internacional / RS
-202,Botafogo / RJ,Bahia / BA
-203,Palmeiras / SP,Vasco da Gama / RJ
-204,Corinthians / SP,Goiás / GO
-205,Red Bull Bragantino / SP,Cuiabá / MT
-206,Atlético Mineiro / MG,Santos / SP
-207,Grêmio / RS,Cruzeiro / MG
-208,Athletico Paranaense / PR,Fluminense / RJ
-209,Fortaleza / CE,Coritiba / PR
-210,América / MG,São Paulo / SP
-211,Fluminense / RJ,Fortaleza / CE
-212,Botafogo / RJ,Flamengo / RJ
-213,São Paulo / SP,Coritiba / PR
-214,Corinthians / SP,Palmeiras / SP
-215,Goiás / GO,Internacional / RS
-216,Cruzeiro / MG,Red Bull Bragantino / SP
-217,Grêmio / RS,Cuiabá / MT
-218,Athletico Paranaense / PR,Atlético Mineiro / MG
-219,Bahia / BA,Vasco da Gama / RJ
-220,América / MG,Santos / SP
-221,Flamengo / RJ,Athletico Paranaense / PR
-222,Vasco da Gama / RJ,Fluminense / RJ
-223,Palmeiras / SP,Goiás / GO
-224,Santos / SP,Cruzeiro / MG
-225,Red Bull Bragantino / SP,Grêmio / RS
-226,Atlético Mineiro / MG,Botafogo / RJ
-227,Internacional / RS,São Paulo / SP
-228,Coritiba / PR,Bahia / BA
-229,Fortaleza / CE,Corinthians / SP
-230,Cuiabá / MT,América / MG
-231,Fluminense / RJ,Cruzeiro / MG
-232,Vasco da Gama / RJ,Coritiba / PR
-233,São Paulo / SP,Fortaleza / CE
-234,Corinthians / SP,Botafogo / RJ
-235,Goiás / GO,Flamengo / RJ
-236,Atlético Mineiro / MG,Cuiabá / MT
-237,Grêmio / RS,Palmeiras / SP
-238,Athletico Paranaense / PR,Internacional / RS
-239,Bahia / BA,Santos / SP
-240,América / MG,Red Bull Bragantino / SP
-241,Flamengo / RJ,Bahia / BA
-242,Botafogo / RJ,Goiás / GO
-243,São Paulo / SP,Corinthians / SP
-244,Santos / SP,Vasco da Gama / RJ
-245,Red Bull Bragantino / SP,Palmeiras / SP
-246,Cruzeiro / MG,América / MG
-247,Internacional / RS,Atlético Mineiro / MG
-248,Coritiba / PR,Athletico Paranaense / PR
-249,Fortaleza / CE,Grêmio / RS
-250,Cuiabá / MT,Fluminense / RJ
-251,Fluminense / RJ,Botafogo / RJ
-252,Vasco da Gama / RJ,São Paulo / SP
-253,Palmeiras / SP,Santos / SP
-254,Corinthians / SP,Flamengo / RJ
-255,Goiás / GO,Bahia / BA
-256,Atlético Mineiro / MG,Coritiba / PR
-257,Internacional / RS,Grêmio / RS
-258,Athletico Paranaense / PR,Red Bull Bragantino / SP
-259,Fortaleza / CE,América / MG
-260,Cuiabá / MT,Cruzeiro / MG
-261,Fluminense / RJ,Corinthians / SP
-262,Vasco da Gama / RJ,Fortaleza / CE
-263,Palmeiras / SP,Atlético Mineiro / MG
-264,Santos / SP,Red Bull Bragantino / SP
-265,Goiás / GO,São Paulo / SP
-266,Cruzeiro / MG,Flamengo / RJ
-267,Grêmio / RS,Athletico Paranaense / PR
-268,Coritiba / PR,Cuiabá / MT
-269,Bahia / BA,Internacional / RS
-270,América / MG,Botafogo / RJ
-271,Flamengo / RJ,Vasco da Gama / RJ
-272,Botafogo / RJ,Athletico Paranaense / PR
-273,São Paulo / SP,Grêmio / RS
-274,Corinthians / SP,América / MG
-275,Red Bull Bragantino / SP,Fluminense / RJ
-276,Atlético Mineiro / MG,Cruzeiro / MG
-277,Internacional / RS,Santos / SP
-278,Coritiba / PR,Palmeiras / SP
-279,Bahia / BA,Fortaleza / CE
-280,Cuiabá / MT,Goiás / GO
-281,Fluminense / RJ,Goiás / GO
-282,Vasco da Gama / RJ,Internacional / RS
-283,Palmeiras / SP,São Paulo / SP
-284,Santos / SP,Coritiba / PR
-285,Red Bull Bragantino / SP,Atlético Mineiro / MG
-286,Cruzeiro / MG,Bahia / BA
-287,Grêmio / RS,Flamengo / RJ
-288,Athletico Paranaense / PR,América / MG
-289,Fortaleza / CE,Botafogo / RJ
-290,Cuiabá / MT,Corinthians / SP
-291,Flamengo / RJ,Red Bull Bragantino / SP
-292,Botafogo / RJ,Cuiabá / MT
-293,Palmeiras / SP,Bahia / BA
-294,Corinthians / SP,Santos / SP
-295,Goiás / GO,Vasco da Gama / RJ
-296,Atlético Mineiro / MG,Fluminense / RJ
-297,Internacional / RS,Coritiba / PR
-298,Athletico Paranaense / PR,São Paulo / SP
-299,Fortaleza / CE,Cruzeiro / MG
-300,América / MG,Grêmio / RS
-301,Flamengo / RJ,Santos / SP
-302,Botafogo / RJ,Palmeiras / SP
-303,São Paulo / SP,Cruzeiro / MG
-304,Corinthians / SP,Athletico Paranaense / PR
-305,Goiás / GO,Red Bull Bragantino / SP
-306,Atlético Mineiro / MG,Fortaleza / CE
-307,Internacional / RS,América / MG
-308,Coritiba / PR,Grêmio / RS
-309,Bahia / BA,Fluminense / RJ
-310,Cuiabá / MT,Vasco da Gama / RJ
-311,Fluminense / RJ,São Paulo / SP
-312,Vasco da Gama / RJ,Botafogo / RJ
-313,Palmeiras / SP,Athletico Paranaense / PR
-314,Santos / SP,Cuiabá / MT
-315,Red Bull Bragantino / SP,Corinthians / SP
-316,Cruzeiro / MG,Internacional / RS
-317,Grêmio / RS,Bahia / BA
-318,Coritiba / PR,Goiás / GO
-319,Fortaleza / CE,Flamengo / RJ
-320,América / MG,Atlético Mineiro / MG
-321,Flamengo / RJ,Palmeiras / SP
-322,Botafogo / RJ,Grêmio / RS
-323,São Paulo / SP,Red Bull Bragantino / SP
-324,Corinthians / SP,Atlético Mineiro / MG
-325,Goiás / GO,Santos / SP
-326,Cruzeiro / MG,Vasco da Gama / RJ
-327,Internacional / RS,Fluminense / RJ
-328,Athletico Paranaense / PR,Fortaleza / CE
-329,Bahia / BA,Cuiabá / MT
-330,América / MG,Coritiba / PR
-331,Flamengo / RJ,Fluminense / RJ
-332,Vasco da Gama / RJ,América / MG
-333,Palmeiras / SP,Internacional / RS
-334,Santos / SP,São Paulo / SP
-335,Red Bull Bragantino / SP,Botafogo / RJ
-336,Atlético Mineiro / MG,Goiás / GO
-337,Grêmio / RS,Corinthians / SP
-338,Coritiba / PR,Cruzeiro / MG
-339,Bahia / BA,Athletico Paranaense / PR
-340,Cuiabá / MT,Fortaleza / CE
-341,Fluminense / RJ,Coritiba / PR
-342,Botafogo / RJ,Santos / SP
-343,São Paulo / SP,Cuiabá / MT
-344,Corinthians / SP,Bahia / BA
-345,Goiás / GO,Cruzeiro / MG
-346,Atlético Mineiro / MG,Grêmio / RS
-347,Internacional / RS,Red Bull Bragantino / SP
-348,Athletico Paranaense / PR,Vasco da Gama / RJ
-349,Fortaleza / CE,Palmeiras / SP
-350,América / MG,Flamengo / RJ
-351,Flamengo / RJ,Atlético Mineiro / MG
-352,Vasco da Gama / RJ,Corinthians / SP
-353,Palmeiras / SP,América / MG
-354,Santos / SP,Fluminense / RJ
-355,Red Bull Bragantino / SP,Fortaleza / CE
-356,Cruzeiro / MG,Athletico Paranaense / PR
-357,Grêmio / RS,Goiás / GO
-358,Coritiba / PR,Botafogo / RJ
-359,Bahia / BA,São Paulo / SP
-360,Cuiabá / MT,Internacional / RS
-361,Flamengo / RJ,Cuiabá / MT
-362,Botafogo / RJ,Cruzeiro / MG
-363,Palmeiras / SP,Fluminense / RJ
-364,Corinthians / SP,Internacional / RS
-365,Red Bull Bragantino / SP,Coritiba / PR
-366,Atlético Mineiro / MG,São Paulo / SP
-367,Grêmio / RS,Vasco da Gama / RJ
-368,Athletico Paranaense / PR,Santos / SP
-369,Fortaleza / CE,Goiás / GO
-370,América / MG,Bahia / BA
-371,Fluminense / RJ,Grêmio / RS
-372,Vasco da Gama / RJ,Red Bull Bragantino / SP
-373,São Paulo / SP,Flamengo / RJ
-374,Santos / SP,Fortaleza / CE
-375,Goiás / GO,América / MG
-376,Cruzeiro / MG,Palmeiras / SP
-377,Internacional / RS,Botafogo / RJ
-378,Coritiba / PR,Corinthians / SP
-379,Bahia / BA,Atlético Mineiro / MG
-380,Cuiabá / MT,Athletico Paranaense / PR
+Game,Home,Away,Date,Time,Stadium
+001,Flamengo / RJ,Coritiba / PR,16/04/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+002,Botafogo / RJ,São Paulo / SP,15/04/2023,18:30,Nilton Santos / Rio de Janeiro
+003,Palmeiras / SP,Cuiabá / MT,15/04/2023,16:00,Allianz Parque / Sao Paulo
+004,Corinthians / SP,Cruzeiro / MG,16/04/2023,16:00,Arena Corinthians / Sao Paulo
+005,Red Bull Bragantino / SP,Bahia / BA,15/04/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+006,Atlético Mineiro / MG,Vasco da Gama / RJ,15/04/2023,21:00,Magalhães Pinto / Belo Horizonte
+007,Grêmio / RS,Santos / SP,16/04/2023,18:30,Alfredo Jaconi / Caxias do Sul
+008,Athletico Paranaense / PR,Goiás / GO,15/04/2023,18:30,Joaquim Américo Guimarães / Curitiba
+009,Fortaleza / CE,Internacional / RS,15/04/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+010,América / MG,Fluminense / RJ,15/04/2023,16:00,Raimundo Sampaio / Belo Horizonte
+011,Fluminense / RJ,Athletico Paranaense / PR,22/04/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+012,Vasco da Gama / RJ,Palmeiras / SP,23/04/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+013,São Paulo / SP,América / MG,22/04/2023,18:30,Cícero Pompeu de Toledo / Sao Paulo
+014,Santos / SP,Atlético Mineiro / MG,23/04/2023,16:00,Urbano Caldeira / Santos
+015,Goiás / GO,Corinthians / SP,23/04/2023,19:00,Hailé Pinheiro / Goiania
+016,Cruzeiro / MG,Grêmio / RS,22/04/2023,21:00,Raimundo Sampaio / Belo Horizonte
+017,Internacional / RS,Flamengo / RJ,23/04/2023,11:00,José Pinheiro Borda / Porto Alegre
+018,Coritiba / PR,Fortaleza / CE,23/04/2023,18:30,Major Antônio Couto Pereira / Curitiba
+019,Bahia / BA,Botafogo / RJ,24/04/2023,20:00,Octávio Mangabeira / Salvador
+020,Cuiabá / MT,Red Bull Bragantino / SP,22/04/2023,18:30,Arena Pantanal / Cuiaba
+021,Flamengo / RJ,Botafogo / RJ,30/04/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+022,Vasco da Gama / RJ,Bahia / BA,01/05/2023,20:00,São Januário / Rio de Janeiro
+023,Palmeiras / SP,Corinthians / SP,29/04/2023,18:30,Allianz Parque / Sao Paulo
+024,Santos / SP,América / MG,29/04/2023,18:30,Urbano Caldeira / Santos
+025,Red Bull Bragantino / SP,Cruzeiro / MG,29/04/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+026,Atlético Mineiro / MG,Athletico Paranaense / PR,29/04/2023,21:00,Raimundo Sampaio / Belo Horizonte
+027,Internacional / RS,Goiás / GO,30/04/2023,18:30,José Pinheiro Borda / Porto Alegre
+028,Coritiba / PR,São Paulo / SP,29/04/2023,16:30,Major Antônio Couto Pereira / Curitiba
+029,Fortaleza / CE,Fluminense / RJ,29/04/2023,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
+030,Cuiabá / MT,Grêmio / RS,30/04/2023,18:30,Arena Pantanal / Cuiaba
+031,Fluminense / RJ,Vasco da Gama / RJ,06/05/2023,21:00,Jornalista Mário Filho / Rio de Janeiro
+032,Botafogo / RJ,Atlético Mineiro / MG,07/05/2023,18:30,Nilton Santos / Rio de Janeiro
+033,São Paulo / SP,Internacional / RS,07/05/2023,16:00,Cícero Pompeu de Toledo / Sao Paulo
+034,Corinthians / SP,Fortaleza / CE,08/05/2023,20:00,Arena Corinthians / Sao Paulo
+035,Goiás / GO,Palmeiras / SP,07/05/2023,18:30,Hailé Pinheiro / Goiania
+036,Cruzeiro / MG,Santos / SP,06/05/2023,16:00,Raimundo Sampaio / Belo Horizonte
+037,Grêmio / RS,Red Bull Bragantino / SP,07/05/2023,18:30,Arena do Grêmio / Porto Alegre
+038,Athletico Paranaense / PR,Flamengo / RJ,07/05/2023,16:00,Joaquim Américo Guimarães / Curitiba
+039,Bahia / BA,Coritiba / PR,07/05/2023,16:00,Octávio Mangabeira / Salvador
+040,América / MG,Cuiabá / MT,07/05/2023,11:00,Raimundo Sampaio / Belo Horizonte
+041,Flamengo / RJ,Goiás / GO,10/05/2023,20:00,Jornalista Mário Filho / Rio de Janeiro
+042,Botafogo / RJ,Corinthians / SP,11/05/2023,19:30,Nilton Santos / Rio de Janeiro
+043,Palmeiras / SP,Grêmio / RS,10/05/2023,21:30,Allianz Parque / Sao Paulo
+044,Santos / SP,Bahia / BA,10/05/2023,19:00,Urbano Caldeira / Santos
+045,Red Bull Bragantino / SP,América / MG,10/05/2023,19:00,Nabi Abi Chedid / Braganca Paulista
+046,Cruzeiro / MG,Fluminense / RJ,10/05/2023,21:30,Magalhães Pinto / Belo Horizonte
+047,Internacional / RS,Athletico Paranaense / PR,10/05/2023,19:00,José Pinheiro Borda / Porto Alegre
+048,Coritiba / PR,Vasco da Gama / RJ,11/05/2023,19:00,Major Antônio Couto Pereira / Curitiba
+049,Fortaleza / CE,São Paulo / SP,11/05/2023,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+050,Cuiabá / MT,Atlético Mineiro / MG,10/05/2023,20:00,Arena Pantanal / Cuiaba
+051,Fluminense / RJ,Cuiabá / MT,13/05/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+052,Vasco da Gama / RJ,Santos / SP,14/05/2023,16:00,São Januário / Rio de Janeiro
+053,Palmeiras / SP,Red Bull Bragantino / SP,13/05/2023,18:30,Allianz Parque / Sao Paulo
+054,Corinthians / SP,São Paulo / SP,14/05/2023,16:00,Arena Corinthians / Sao Paulo
+055,Goiás / GO,Botafogo / RJ,14/05/2023,18:30,Hailé Pinheiro / Goiania
+056,Atlético Mineiro / MG,Internacional / RS,13/05/2023,21:00,Magalhães Pinto / Belo Horizonte
+057,Grêmio / RS,Fortaleza / CE,14/05/2023,16:00,Arena do Grêmio / Porto Alegre
+058,Athletico Paranaense / PR,Coritiba / PR,14/05/2023,18:30,Joaquim Américo Guimarães / Curitiba
+059,Bahia / BA,Flamengo / RJ,13/05/2023,16:00,Octávio Mangabeira / Salvador
+060,América / MG,Cruzeiro / MG,14/05/2023,18:30,Raimundo Sampaio / Belo Horizonte
+061,Flamengo / RJ,Corinthians / SP,21/05/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+062,Botafogo / RJ,Fluminense / RJ,20/05/2023,18:30,Nilton Santos / Rio de Janeiro
+063,São Paulo / SP,Vasco da Gama / RJ,20/05/2023,18:30,Cícero Pompeu de Toledo / Sao Paulo
+064,Santos / SP,Palmeiras / SP,20/05/2023,21:00,Urbano Caldeira / Santos
+065,Red Bull Bragantino / SP,Athletico Paranaense / PR,20/05/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+066,Cruzeiro / MG,Cuiabá / MT,22/05/2023,20:00,Joaquim Henrique Nogueira / Sete Lagoas
+067,Grêmio / RS,Internacional / RS,21/05/2023,18:30,Arena do Grêmio / Porto Alegre
+068,Coritiba / PR,Atlético Mineiro / MG,20/05/2023,18:30,Major Antônio Couto Pereira / Curitiba
+069,Bahia / BA,Goiás / GO,20/05/2023,16:00,Octávio Mangabeira / Salvador
+070,América / MG,Fortaleza / CE,20/05/2023,18:30,Raimundo Sampaio / Belo Horizonte
+071,Flamengo / RJ,Cruzeiro / MG,27/05/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+072,Botafogo / RJ,América / MG,28/05/2023,19:00,Nilton Santos / Rio de Janeiro
+073,São Paulo / SP,Goiás / GO,27/05/2023,21:00,Cícero Pompeu de Toledo / Sao Paulo
+074,Corinthians / SP,Fluminense / RJ,28/05/2023,16:00,Arena Corinthians / Sao Paulo
+075,Red Bull Bragantino / SP,Santos / SP,28/05/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+076,Atlético Mineiro / MG,Palmeiras / SP,28/05/2023,18:30,Magalhães Pinto / Belo Horizonte
+077,Internacional / RS,Bahia / BA,28/05/2023,16:00,José Pinheiro Borda / Porto Alegre
+078,Athletico Paranaense / PR,Grêmio / RS,27/05/2023,16:00,Joaquim Américo Guimarães / Curitiba
+079,Fortaleza / CE,Vasco da Gama / RJ,27/05/2023,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+080,Cuiabá / MT,Coritiba / PR,27/05/2023,18:30,Arena Pantanal / Cuiaba
+081,Fluminense / RJ,Red Bull Bragantino / SP,04/06/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+082,Vasco da Gama / RJ,Flamengo / RJ,05/06/2023,20:00,Jornalista Mário Filho / Rio de Janeiro
+083,Palmeiras / SP,Coritiba / PR,04/06/2023,18:30,Allianz Parque / Sao Paulo
+084,Santos / SP,Internacional / RS,03/06/2023,21:00,Urbano Caldeira / Santos
+085,Goiás / GO,Cuiabá / MT,04/06/2023,18:30,Hailé Pinheiro / Goiania
+086,Cruzeiro / MG,Atlético Mineiro / MG,03/06/2023,18:30,Parque do Sabiá / Uberlandia
+087,Grêmio / RS,São Paulo / SP,04/06/2023,16:00,Arena do Grêmio / Porto Alegre
+088,Athletico Paranaense / PR,Botafogo / RJ,03/06/2023,18:30,Joaquim Américo Guimarães / Curitiba
+089,Fortaleza / CE,Bahia / BA,03/06/2023,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+090,América / MG,Corinthians / SP,03/06/2023,18:30,Raimundo Sampaio / Belo Horizonte
+091,Flamengo / RJ,Grêmio / RS,11/06/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+092,Botafogo / RJ,Fortaleza / CE,10/06/2023,21:00,Nilton Santos / Rio de Janeiro
+093,São Paulo / SP,Palmeiras / SP,11/06/2023,16:00,Cícero Pompeu de Toledo / Sao Paulo
+094,Corinthians / SP,Cuiabá / MT,10/06/2023,18:30,Arena Corinthians / Sao Paulo
+095,Goiás / GO,Fluminense / RJ,11/06/2023,18:30,Hailé Pinheiro / Goiania
+096,Atlético Mineiro / MG,Red Bull Bragantino / SP,10/06/2023,18:30,Magalhães Pinto / Belo Horizonte
+097,Internacional / RS,Vasco da Gama / RJ,11/06/2023,16:00,José Pinheiro Borda / Porto Alegre
+098,Coritiba / PR,Santos / SP,10/06/2023,16:00,Major Antônio Couto Pereira / Curitiba
+099,Bahia / BA,Cruzeiro / MG,10/06/2023,18:30,Octávio Mangabeira / Salvador
+100,América / MG,Athletico Paranaense / PR,11/06/2023,11:00,Magalhães Pinto / Belo Horizonte
+101,Fluminense / RJ,Atlético Mineiro / MG,21/06/2023,21:30,Sylvio Raulino de Oliveira / Volta Redonda
+102,Vasco da Gama / RJ,Goiás / GO,22/06/2023,20:00,São Januário / Rio de Janeiro
+103,São Paulo / SP,Athletico Paranaense / PR,21/06/2023,19:00,Cícero Pompeu de Toledo / Sao Paulo
+104,Santos / SP,Corinthians / SP,21/06/2023,20:00,Urbano Caldeira / Santos
+105,Red Bull Bragantino / SP,Flamengo / RJ,22/06/2023,21:30,Nabi Abi Chedid / Braganca Paulista
+106,Cruzeiro / MG,Fortaleza / CE,21/06/2023,19:00,Magalhães Pinto / Belo Horizonte
+107,Grêmio / RS,América / MG,22/06/2023,19:00,Arena do Grêmio / Porto Alegre
+108,Coritiba / PR,Internacional / RS,22/06/2023,20:00,Major Antônio Couto Pereira / Curitiba
+109,Bahia / BA,Palmeiras / SP,21/06/2023,21:30,Octávio Mangabeira / Salvador
+110,Cuiabá / MT,Botafogo / RJ,22/06/2023,20:00,Arena Pantanal / Cuiaba
+111,Fluminense / RJ,Bahia / BA,24/06/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+112,Vasco da Gama / RJ,Cuiabá / MT,26/06/2023,21:00,Luso Brasileiro / Rio de Janeiro
+113,Palmeiras / SP,Botafogo / RJ,25/06/2023,16:00,Allianz Parque / Sao Paulo
+114,Santos / SP,Flamengo / RJ,25/06/2023,18:30,Urbano Caldeira / Santos
+115,Red Bull Bragantino / SP,Goiás / GO,25/06/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+116,Cruzeiro / MG,São Paulo / SP,24/06/2023,21:00,Raimundo Sampaio / Belo Horizonte
+117,Grêmio / RS,Coritiba / PR,25/06/2023,16:00,Arena do Grêmio / Porto Alegre
+118,Athletico Paranaense / PR,Corinthians / SP,24/06/2023,16:00,Ligga Arena / Curitiba
+119,Fortaleza / CE,Atlético Mineiro / MG,24/06/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+120,América / MG,Internacional / RS,25/06/2023,18:30,Raimundo Sampaio / Belo Horizonte
+121,Flamengo / RJ,Fortaleza / CE,01/07/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+122,Botafogo / RJ,Vasco da Gama / RJ,02/07/2023,16:00,Nilton Santos / Rio de Janeiro
+123,São Paulo / SP,Fluminense / RJ,01/07/2023,16:00,Cícero Pompeu de Toledo / Sao Paulo
+124,Corinthians / SP,Red Bull Bragantino / SP,02/07/2023,11:00,Arena Corinthians / Sao Paulo
+125,Goiás / GO,Coritiba / PR,03/07/2023,20:00,Hailé Pinheiro / Goiania
+126,Atlético Mineiro / MG,América / MG,02/07/2023,16:00,Magalhães Pinto / Belo Horizonte
+127,Internacional / RS,Cruzeiro / MG,01/07/2023,21:00,José Pinheiro Borda / Porto Alegre
+128,Athletico Paranaense / PR,Palmeiras / SP,02/07/2023,16:00,Ligga Arena / Curitiba
+129,Bahia / BA,Grêmio / RS,01/07/2023,18:30,Octávio Mangabeira / Salvador
+130,Cuiabá / MT,Santos / SP,02/07/2023,18:30,Arena Pantanal / Cuiaba
+131,Fluminense / RJ,Internacional / RS,09/07/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+132,Vasco da Gama / RJ,Cruzeiro / MG,08/07/2023,16:00,São Januário / Rio de Janeiro
+133,Palmeiras / SP,Flamengo / RJ,08/07/2023,21:00,Allianz Parque / Sao Paulo
+134,Santos / SP,Goiás / GO,09/07/2023,11:00,Urbano Caldeira / Santos
+135,Red Bull Bragantino / SP,São Paulo / SP,09/07/2023,16:00,Nabi Abi Chedid / Braganca Paulista
+136,Atlético Mineiro / MG,Corinthians / SP,08/07/2023,18:30,Magalhães Pinto / Belo Horizonte
+137,Grêmio / RS,Botafogo / RJ,09/07/2023,18:30,Arena do Grêmio / Porto Alegre
+138,Coritiba / PR,América / MG,08/07/2023,18:30,Major Antônio Couto Pereira / Curitiba
+139,Fortaleza / CE,Athletico Paranaense / PR,09/07/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+140,Cuiabá / MT,Bahia / BA,08/07/2023,16:00,Arena Pantanal / Cuiaba
+141,Fluminense / RJ,Flamengo / RJ,16/07/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+142,Botafogo / RJ,Red Bull Bragantino / SP,15/07/2023,21:00,Nilton Santos / Rio de Janeiro
+143,São Paulo / SP,Santos / SP,16/07/2023,16:00,Cícero Pompeu de Toledo / Sao Paulo
+144,Corinthians / SP,Grêmio / RS,18/09/2023,21:00,Arena Corinthians / Sao Paulo
+145,Goiás / GO,Atlético Mineiro / MG,17/07/2023,20:00,Hailé Pinheiro / Goiania
+146,Cruzeiro / MG,Coritiba / PR,16/07/2023,11:00,Raimundo Sampaio / Belo Horizonte
+147,Internacional / RS,Palmeiras / SP,16/07/2023,18:30,José Pinheiro Borda / Porto Alegre
+148,Athletico Paranaense / PR,Bahia / BA,16/07/2023,18:30,Ligga Arena / Curitiba
+149,Fortaleza / CE,Cuiabá / MT,16/07/2023,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+150,América / MG,Vasco da Gama / RJ,25/09/2023,20:00,Raimundo Sampaio / Belo Horizonte
+151,Flamengo / RJ,América / MG,22/07/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+152,Vasco da Gama / RJ,Athletico Paranaense / PR,23/07/2023,18:30,São Januário / Rio de Janeiro
+153,Palmeiras / SP,Fortaleza / CE,22/07/2023,16:00,Allianz Parque / Sao Paulo
+154,Santos / SP,Botafogo / RJ,23/07/2023,16:00,Urbano Caldeira / Santos
+155,Red Bull Bragantino / SP,Internacional / RS,23/07/2023,16:00,Nabi Abi Chedid / Braganca Paulista
+156,Cruzeiro / MG,Goiás / GO,23/07/2023,16:00,Raimundo Sampaio / Belo Horizonte
+157,Grêmio / RS,Atlético Mineiro / MG,22/07/2023,21:00,Arena do Grêmio / Porto Alegre
+158,Coritiba / PR,Fluminense / RJ,24/07/2023,19:00,Major Antônio Couto Pereira / Curitiba
+159,Bahia / BA,Corinthians / SP,22/07/2023,18:30,Octávio Mangabeira / Salvador
+160,Cuiabá / MT,São Paulo / SP,22/07/2023,18:30,Arena Pantanal / Cuiaba
+161,Fluminense / RJ,Santos / SP,29/07/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+162,Botafogo / RJ,Coritiba / PR,30/07/2023,16:00,Nilton Santos / Rio de Janeiro
+163,São Paulo / SP,Bahia / BA,30/07/2023,11:00,Cícero Pompeu de Toledo / Sao Paulo
+164,Corinthians / SP,Vasco da Gama / RJ,29/07/2023,18:30,Arena Corinthians / Sao Paulo
+165,Goiás / GO,Grêmio / RS,30/07/2023,18:30,Hailé Pinheiro / Goiania
+166,Atlético Mineiro / MG,Flamengo / RJ,29/07/2023,21:00,Raimundo Sampaio / Belo Horizonte
+167,Internacional / RS,Cuiabá / MT,29/07/2023,16:00,José Pinheiro Borda / Porto Alegre
+168,Athletico Paranaense / PR,Cruzeiro / MG,29/07/2023,16:00,Ligga Arena / Curitiba
+169,Fortaleza / CE,Red Bull Bragantino / SP,29/07/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+170,América / MG,Palmeiras / SP,30/07/2023,16:00,Raimundo Sampaio / Belo Horizonte
+171,Fluminense / RJ,Palmeiras / SP,05/08/2023,21:00,Jornalista Mário Filho / Rio de Janeiro
+172,Vasco da Gama / RJ,Grêmio / RS,06/08/2023,16:00,São Januário / Rio de Janeiro
+173,São Paulo / SP,Atlético Mineiro / MG,06/08/2023,16:00,Cícero Pompeu de Toledo / Sao Paulo
+174,Santos / SP,Athletico Paranaense / PR,05/08/2023,16:00,Urbano Caldeira / Santos
+175,Goiás / GO,Fortaleza / CE,05/08/2023,18:30,Hailé Pinheiro / Goiania
+176,Cruzeiro / MG,Botafogo / RJ,06/08/2023,18:30,Magalhães Pinto / Belo Horizonte
+177,Internacional / RS,Corinthians / SP,05/08/2023,18:30,José Pinheiro Borda / Porto Alegre
+178,Coritiba / PR,Red Bull Bragantino / SP,06/08/2023,18:30,Major Antônio Couto Pereira / Curitiba
+179,Bahia / BA,América / MG,06/08/2023,18:30,Octávio Mangabeira / Salvador
+180,Cuiabá / MT,Flamengo / RJ,06/08/2023,20:00,Arena Pantanal / Cuiaba
+181,Flamengo / RJ,São Paulo / SP,13/08/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+182,Botafogo / RJ,Internacional / RS,12/08/2023,21:00,Nilton Santos / Rio de Janeiro
+183,Palmeiras / SP,Cruzeiro / MG,14/08/2023,19:00,Allianz Parque / Sao Paulo
+184,Corinthians / SP,Coritiba / PR,13/08/2023,16:00,Arena Corinthians / Sao Paulo
+185,Red Bull Bragantino / SP,Vasco da Gama / RJ,14/08/2023,21:00,Nabi Abi Chedid / Braganca Paulista
+186,Atlético Mineiro / MG,Bahia / BA,13/08/2023,11:00,Magalhães Pinto / Belo Horizonte
+187,Grêmio / RS,Fluminense / RJ,13/08/2023,16:00,Arena do Grêmio / Porto Alegre
+188,Athletico Paranaense / PR,Cuiabá / MT,15/08/2023,20:00,Ligga Arena / Curitiba
+189,Fortaleza / CE,Santos / SP,13/08/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+190,América / MG,Goiás / GO,13/08/2023,16:00,Raimundo Sampaio / Belo Horizonte
+191,Fluminense / RJ,América / MG,19/08/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+192,Vasco da Gama / RJ,Atlético Mineiro / MG,20/08/2023,11:00,Jornalista Mário Filho / Rio de Janeiro
+193,São Paulo / SP,Botafogo / RJ,19/08/2023,16:00,Cícero Pompeu de Toledo / Sao Paulo
+194,Santos / SP,Grêmio / RS,20/08/2023,16:00,Urbano Caldeira / Santos
+195,Goiás / GO,Athletico Paranaense / PR,21/08/2023,20:00,Hailé Pinheiro / Goiania
+196,Cruzeiro / MG,Corinthians / SP,19/08/2023,21:00,Magalhães Pinto / Belo Horizonte
+197,Internacional / RS,Fortaleza / CE,19/08/2023,16:00,José Pinheiro Borda / Porto Alegre
+198,Coritiba / PR,Flamengo / RJ,20/08/2023,16:00,Major Antônio Couto Pereira / Curitiba
+199,Bahia / BA,Red Bull Bragantino / SP,20/08/2023,16:00,Octávio Mangabeira / Salvador
+200,Cuiabá / MT,Palmeiras / SP,19/08/2023,18:30,Arena Pantanal / Cuiaba
+201,Flamengo / RJ,Internacional / RS,26/08/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+202,Botafogo / RJ,Bahia / BA,27/08/2023,16:00,Nilton Santos / Rio de Janeiro
+203,Palmeiras / SP,Vasco da Gama / RJ,27/08/2023,18:30,Allianz Parque / Sao Paulo
+204,Corinthians / SP,Goiás / GO,26/08/2023,21:00,Arena Corinthians / Sao Paulo
+205,Red Bull Bragantino / SP,Cuiabá / MT,27/08/2023,11:00,Nabi Abi Chedid / Braganca Paulista
+206,Atlético Mineiro / MG,Santos / SP,27/08/2023,16:00,ARENA MRV / Belo Horizonte
+207,Grêmio / RS,Cruzeiro / MG,27/08/2023,19:00,Arena do Grêmio / Porto Alegre
+208,Athletico Paranaense / PR,Fluminense / RJ,27/08/2023,18:30,Ligga Arena / Curitiba
+209,Fortaleza / CE,Coritiba / PR,27/08/2023,18:30,Presidente Vargas / Fortaleza
+210,América / MG,São Paulo / SP,27/08/2023,16:00,Raimundo Sampaio / Belo Horizonte
+211,Fluminense / RJ,Fortaleza / CE,03/09/2023,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+212,Botafogo / RJ,Flamengo / RJ,02/09/2023,21:00,Nilton Santos / Rio de Janeiro
+213,São Paulo / SP,Coritiba / PR,27/09/2023,19:00,Cícero Pompeu de Toledo / Sao Paulo
+214,Corinthians / SP,Palmeiras / SP,03/09/2023,16:00,Arena Corinthians / Sao Paulo
+215,Goiás / GO,Internacional / RS,02/09/2023,16:00,Hailé Pinheiro / Goiania
+216,Cruzeiro / MG,Red Bull Bragantino / SP,03/09/2023,18:30,Magalhães Pinto / Belo Horizonte
+217,Grêmio / RS,Cuiabá / MT,03/09/2023,11:00,Arena do Grêmio / Porto Alegre
+218,Athletico Paranaense / PR,Atlético Mineiro / MG,02/09/2023,16:00,Ligga Arena / Curitiba
+219,Bahia / BA,Vasco da Gama / RJ,03/09/2023,18:30,Octávio Mangabeira / Salvador
+220,América / MG,Santos / SP,03/09/2023,18:30,Raimundo Sampaio / Belo Horizonte
+221,Flamengo / RJ,Athletico Paranaense / PR,13/09/2023,21:30,Kleber José de Andrade / Cariacica
+222,Vasco da Gama / RJ,Fluminense / RJ,16/09/2023,16:00,Nilton Santos / Rio de Janeiro
+223,Palmeiras / SP,Goiás / GO,15/09/2023,21:30,Allianz Parque / Sao Paulo
+224,Santos / SP,Cruzeiro / MG,14/09/2023,19:00,Urbano Caldeira / Santos
+225,Red Bull Bragantino / SP,Grêmio / RS,14/09/2023,21:30,Nabi Abi Chedid / Braganca Paulista
+226,Atlético Mineiro / MG,Botafogo / RJ,16/09/2023,21:00,ARENA MRV / Belo Horizonte
+227,Internacional / RS,São Paulo / SP,13/09/2023,21:30,José Pinheiro Borda / Porto Alegre
+228,Coritiba / PR,Bahia / BA,14/09/2023,20:00,Major Antônio Couto Pereira / Curitiba
+229,Fortaleza / CE,Corinthians / SP,14/09/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+230,Cuiabá / MT,América / MG,15/09/2023,20:00,Arena Pantanal / Cuiaba
+231,Fluminense / RJ,Cruzeiro / MG,20/09/2023,21:30,Jornalista Mário Filho / Rio de Janeiro
+232,Vasco da Gama / RJ,Coritiba / PR,21/09/2023,19:00,São Januário / Rio de Janeiro
+233,São Paulo / SP,Fortaleza / CE,20/09/2023,21:30,Cícero Pompeu de Toledo / Sao Paulo
+234,Corinthians / SP,Botafogo / RJ,22/09/2023,20:00,Arena Corinthians / Sao Paulo
+235,Goiás / GO,Flamengo / RJ,20/09/2023,19:00,Hailé Pinheiro / Goiania
+236,Atlético Mineiro / MG,Cuiabá / MT,23/09/2023,21:00,ARENA MRV / Belo Horizonte
+237,Grêmio / RS,Palmeiras / SP,21/09/2023,21:30,Arena do Grêmio / Porto Alegre
+238,Athletico Paranaense / PR,Internacional / RS,21/09/2023,19:30,Ligga Arena / Curitiba
+239,Bahia / BA,Santos / SP,18/09/2023,20:00,Octávio Mangabeira / Salvador
+240,América / MG,Red Bull Bragantino / SP,19/09/2023,21:30,Raimundo Sampaio / Belo Horizonte
+241,Flamengo / RJ,Bahia / BA,30/09/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+242,Botafogo / RJ,Goiás / GO,02/10/2023,20:00,Nilton Santos / Rio de Janeiro
+243,São Paulo / SP,Corinthians / SP,30/09/2023,18:30,Cícero Pompeu de Toledo / Sao Paulo
+244,Santos / SP,Vasco da Gama / RJ,01/10/2023,16:00,Urbano Caldeira / Santos
+245,Red Bull Bragantino / SP,Palmeiras / SP,01/10/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+246,Cruzeiro / MG,América / MG,01/10/2023,16:00,Magalhães Pinto / Belo Horizonte
+247,Internacional / RS,Atlético Mineiro / MG,30/09/2023,21:00,José Pinheiro Borda / Porto Alegre
+248,Coritiba / PR,Athletico Paranaense / PR,01/10/2023,16:00,Major Antônio Couto Pereira / Curitiba
+249,Fortaleza / CE,Grêmio / RS,30/09/2023,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+250,Cuiabá / MT,Fluminense / RJ,30/09/2023,18:30,Arena Pantanal / Cuiaba
+251,Fluminense / RJ,Botafogo / RJ,08/10/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+252,Vasco da Gama / RJ,São Paulo / SP,07/10/2023,18:30,São Januário / Rio de Janeiro
+253,Palmeiras / SP,Santos / SP,08/10/2023,16:00,Arena Barueri / Barueri
+254,Corinthians / SP,Flamengo / RJ,07/10/2023,21:00,Arena Corinthians / Sao Paulo
+255,Goiás / GO,Bahia / BA,07/10/2023,16:00,Hailé Pinheiro / Goiania
+256,Atlético Mineiro / MG,Coritiba / PR,08/10/2023,18:30,ARENA MRV / Belo Horizonte
+257,Internacional / RS,Grêmio / RS,08/10/2023,16:00,José Pinheiro Borda / Porto Alegre
+258,Athletico Paranaense / PR,Red Bull Bragantino / SP,08/10/2023,18:30,Ligga Arena / Curitiba
+259,Fortaleza / CE,América / MG,08/10/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+260,Cuiabá / MT,Cruzeiro / MG,14/10/2023,21:00,Arena Pantanal / Cuiaba
+261,Fluminense / RJ,Corinthians / SP,19/10/2023,21:30,Jornalista Mário Filho / Rio de Janeiro
+262,Vasco da Gama / RJ,Fortaleza / CE,18/10/2023,21:30,São Januário / Rio de Janeiro
+263,Palmeiras / SP,Atlético Mineiro / MG,19/10/2023,19:00,Allianz Parque / Sao Paulo
+264,Santos / SP,Red Bull Bragantino / SP,19/10/2023,20:00,Urbano Caldeira / Santos
+265,Goiás / GO,São Paulo / SP,18/10/2023,21:30,Hailé Pinheiro / Goiania
+266,Cruzeiro / MG,Flamengo / RJ,19/10/2023,19:00,Magalhães Pinto / Belo Horizonte
+267,Grêmio / RS,Athletico Paranaense / PR,18/10/2023,19:00,Arena do Grêmio / Porto Alegre
+268,Coritiba / PR,Cuiabá / MT,18/10/2023,20:00,Major Antônio Couto Pereira / Curitiba
+269,Bahia / BA,Internacional / RS,18/10/2023,21:30,Octávio Mangabeira / Salvador
+270,América / MG,Botafogo / RJ,18/10/2023,20:00,Raimundo Sampaio / Belo Horizonte
+271,Flamengo / RJ,Vasco da Gama / RJ,22/10/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+272,Botafogo / RJ,Athletico Paranaense / PR,22/10/2023,15:00,Nilton Santos / Rio de Janeiro
+273,São Paulo / SP,Grêmio / RS,21/10/2023,18:30,Cícero Pompeu de Toledo / Sao Paulo
+274,Corinthians / SP,América / MG,22/10/2023,18:30,Arena Corinthians / Sao Paulo
+275,Red Bull Bragantino / SP,Fluminense / RJ,22/10/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+276,Atlético Mineiro / MG,Cruzeiro / MG,22/10/2023,16:00,ARENA MRV / Belo Horizonte
+277,Internacional / RS,Santos / SP,22/10/2023,16:00,José Pinheiro Borda / Porto Alegre
+278,Coritiba / PR,Palmeiras / SP,22/10/2023,18:30,Major Antônio Couto Pereira / Curitiba
+279,Bahia / BA,Fortaleza / CE,21/10/2023,18:30,Octávio Mangabeira / Salvador
+280,Cuiabá / MT,Goiás / GO,21/10/2023,18:30,Arena Pantanal / Cuiaba
+281,Fluminense / RJ,Goiás / GO,25/10/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+282,Vasco da Gama / RJ,Internacional / RS,26/10/2023,19:00,São Januário / Rio de Janeiro
+283,Palmeiras / SP,São Paulo / SP,25/10/2023,20:00,Allianz Parque / Sao Paulo
+284,Santos / SP,Coritiba / PR,26/10/2023,21:30,Urbano Caldeira / Santos
+285,Red Bull Bragantino / SP,Atlético Mineiro / MG,25/10/2023,19:00,Nabi Abi Chedid / Braganca Paulista
+286,Cruzeiro / MG,Bahia / BA,25/10/2023,20:00,Magalhães Pinto / Belo Horizonte
+287,Grêmio / RS,Flamengo / RJ,25/10/2023,21:30,Arena do Grêmio / Porto Alegre
+288,Athletico Paranaense / PR,América / MG,25/10/2023,19:00,Ligga Arena / Curitiba
+289,Fortaleza / CE,Botafogo / RJ,23/11/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+290,Cuiabá / MT,Corinthians / SP,25/10/2023,21:30,Arena Pantanal / Cuiaba
+291,Flamengo / RJ,Red Bull Bragantino / SP,23/11/2023,21:30,Jornalista Mário Filho / Rio de Janeiro
+292,Botafogo / RJ,Cuiabá / MT,29/10/2023,20:00,Nilton Santos / Rio de Janeiro
+293,Palmeiras / SP,Bahia / BA,28/10/2023,19:00,Allianz Parque / Sao Paulo
+294,Corinthians / SP,Santos / SP,29/10/2023,18:30,Arena Corinthians / Sao Paulo
+295,Goiás / GO,Vasco da Gama / RJ,29/10/2023,16:00,Hailé Pinheiro / Goiania
+296,Atlético Mineiro / MG,Fluminense / RJ,28/10/2023,21:00,ARENA MRV / Belo Horizonte
+297,Internacional / RS,Coritiba / PR,29/10/2023,18:30,José Pinheiro Borda / Porto Alegre
+298,Athletico Paranaense / PR,São Paulo / SP,29/10/2023,16:00,Ligga Arena / Curitiba
+299,Fortaleza / CE,Cruzeiro / MG,18/11/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+300,América / MG,Grêmio / RS,28/10/2023,19:00,Raimundo Sampaio / Belo Horizonte
+301,Flamengo / RJ,Santos / SP,01/11/2023,20:00,Estádio Nacional Mané Garrincha / Brasilia
+302,Botafogo / RJ,Palmeiras / SP,01/11/2023,21:30,Nilton Santos / Rio de Janeiro
+303,São Paulo / SP,Cruzeiro / MG,02/11/2023,20:00,Cícero Pompeu de Toledo / Sao Paulo
+304,Corinthians / SP,Athletico Paranaense / PR,01/11/2023,19:00,Arena Corinthians / Sao Paulo
+305,Goiás / GO,Red Bull Bragantino / SP,02/11/2023,18:00,Hailé Pinheiro / Goiania
+306,Atlético Mineiro / MG,Fortaleza / CE,01/11/2023,21:30,ARENA MRV / Belo Horizonte
+307,Internacional / RS,América / MG,01/11/2023,19:00,José Pinheiro Borda / Porto Alegre
+308,Coritiba / PR,Grêmio / RS,01/11/2023,20:00,Major Antônio Couto Pereira / Curitiba
+309,Bahia / BA,Fluminense / RJ,31/10/2023,19:00,Octávio Mangabeira / Salvador
+310,Cuiabá / MT,Vasco da Gama / RJ,02/11/2023,17:00,Arena Pantanal / Cuiaba
+311,Fluminense / RJ,São Paulo / SP,22/11/2023,21:30,Jornalista Mário Filho / Rio de Janeiro
+312,Vasco da Gama / RJ,Botafogo / RJ,06/11/2023,19:00,São Januário / Rio de Janeiro
+313,Palmeiras / SP,Athletico Paranaense / PR,04/11/2023,21:30,Arena Barueri / Barueri
+314,Santos / SP,Cuiabá / MT,06/11/2023,21:00,Urbano Caldeira / Santos
+315,Red Bull Bragantino / SP,Corinthians / SP,05/11/2023,16:00,Nabi Abi Chedid / Braganca Paulista
+316,Cruzeiro / MG,Internacional / RS,05/11/2023,16:00,Magalhães Pinto / Belo Horizonte
+317,Grêmio / RS,Bahia / BA,04/11/2023,19:30,Arena do Grêmio / Porto Alegre
+318,Coritiba / PR,Goiás / GO,05/11/2023,18:30,Major Antônio Couto Pereira / Curitiba
+319,Fortaleza / CE,Flamengo / RJ,05/11/2023,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+320,América / MG,Atlético Mineiro / MG,04/11/2023,19:30,Parque do Sabiá / Uberlandia
+321,Flamengo / RJ,Palmeiras / SP,08/11/2023,21:30,Jornalista Mário Filho / Rio de Janeiro
+322,Botafogo / RJ,Grêmio / RS,09/11/2023,20:00,São Januário / Rio de Janeiro
+323,São Paulo / SP,Red Bull Bragantino / SP,08/11/2023,20:00,Urbano Caldeira / Santos
+324,Corinthians / SP,Atlético Mineiro / MG,09/11/2023,19:00,Arena Corinthians / Sao Paulo
+325,Goiás / GO,Santos / SP,09/11/2023,19:00,Hailé Pinheiro / Goiania
+326,Cruzeiro / MG,Vasco da Gama / RJ,22/11/2023,19:00,Magalhães Pinto / Belo Horizonte
+327,Internacional / RS,Fluminense / RJ,08/11/2023,19:00,José Pinheiro Borda / Porto Alegre
+328,Athletico Paranaense / PR,Fortaleza / CE,08/11/2023,20:00,Ligga Arena / Curitiba
+329,Bahia / BA,Cuiabá / MT,09/11/2023,20:00,Octávio Mangabeira / Salvador
+330,América / MG,Coritiba / PR,08/11/2023,19:00,Raimundo Sampaio / Belo Horizonte
+331,Flamengo / RJ,Fluminense / RJ,11/11/2023,18:30,Jornalista Mário Filho / Rio de Janeiro
+332,Vasco da Gama / RJ,América / MG,12/11/2023,18:30,São Januário / Rio de Janeiro
+333,Palmeiras / SP,Internacional / RS,11/11/2023,21:00,Arena Barueri / Barueri
+334,Santos / SP,São Paulo / SP,12/11/2023,18:30,Urbano Caldeira / Santos
+335,Red Bull Bragantino / SP,Botafogo / RJ,12/11/2023,16:00,Nabi Abi Chedid / Braganca Paulista
+336,Atlético Mineiro / MG,Goiás / GO,12/11/2023,18:30,ARENA MRV / Belo Horizonte
+337,Grêmio / RS,Corinthians / SP,12/11/2023,16:00,Arena do Grêmio / Porto Alegre
+338,Coritiba / PR,Cruzeiro / MG,11/11/2023,16:00,Durival Britto e Silva / Curitiba
+339,Bahia / BA,Athletico Paranaense / PR,12/11/2023,18:30,Octávio Mangabeira / Salvador
+340,Cuiabá / MT,Fortaleza / CE,12/11/2023,18:30,Arena Pantanal / Cuiaba
+341,Fluminense / RJ,Coritiba / PR,25/11/2023,21:00,Jornalista Mário Filho / Rio de Janeiro
+342,Botafogo / RJ,Santos / SP,26/11/2023,16:00,Nilton Santos / Rio de Janeiro
+343,São Paulo / SP,Cuiabá / MT,26/11/2023,18:30,Cícero Pompeu de Toledo / Sao Paulo
+344,Corinthians / SP,Bahia / BA,24/11/2023,21:00,Arena Corinthians / Sao Paulo
+345,Goiás / GO,Cruzeiro / MG,27/11/2023,21:00,Hailé Pinheiro / Goiania
+346,Atlético Mineiro / MG,Grêmio / RS,26/11/2023,16:00,ARENA MRV / Belo Horizonte
+347,Internacional / RS,Red Bull Bragantino / SP,26/11/2023,18:30,José Pinheiro Borda / Porto Alegre
+348,Athletico Paranaense / PR,Vasco da Gama / RJ,25/11/2023,19:30,Ligga Arena / Curitiba
+349,Fortaleza / CE,Palmeiras / SP,26/11/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+350,América / MG,Flamengo / RJ,26/11/2023,18:30,Parque do Sabiá / Uberlandia
+351,Flamengo / RJ,Atlético Mineiro / MG,29/11/2023,19:30,Jornalista Mário Filho / Rio de Janeiro
+352,Vasco da Gama / RJ,Corinthians / SP,28/11/2023,21:30,São Januário / Rio de Janeiro
+353,Palmeiras / SP,América / MG,29/11/2023,21:30,Allianz Parque / Sao Paulo
+354,Santos / SP,Fluminense / RJ,29/11/2023,19:00,Urbano Caldeira / Santos
+355,Red Bull Bragantino / SP,Fortaleza / CE,30/11/2023,20:30,Nabi Abi Chedid / Braganca Paulista
+356,Cruzeiro / MG,Athletico Paranaense / PR,30/11/2023,20:00,Magalhães Pinto / Belo Horizonte
+357,Grêmio / RS,Goiás / GO,30/11/2023,19:00,Arena do Grêmio / Porto Alegre
+358,Coritiba / PR,Botafogo / RJ,29/11/2023,21:30,Major Antônio Couto Pereira / Curitiba
+359,Bahia / BA,São Paulo / SP,29/11/2023,20:00,Octávio Mangabeira / Salvador
+360,Cuiabá / MT,Internacional / RS,29/11/2023,20:00,Arena Pantanal / Cuiaba
+361,Flamengo / RJ,Cuiabá / MT,03/12/2023,16:00,Jornalista Mário Filho / Rio de Janeiro
+362,Botafogo / RJ,Cruzeiro / MG,03/12/2023,18:30,Nilton Santos / Rio de Janeiro
+363,Palmeiras / SP,Fluminense / RJ,03/12/2023,16:00,Allianz Parque / Sao Paulo
+364,Corinthians / SP,Internacional / RS,02/12/2023,18:00,Arena Corinthians / Sao Paulo
+365,Red Bull Bragantino / SP,Coritiba / PR,03/12/2023,18:30,Nabi Abi Chedid / Braganca Paulista
+366,Atlético Mineiro / MG,São Paulo / SP,02/12/2023,21:00,Magalhães Pinto / Belo Horizonte
+367,Grêmio / RS,Vasco da Gama / RJ,03/12/2023,18:30,Arena do Grêmio / Porto Alegre
+368,Athletico Paranaense / PR,Santos / SP,03/12/2023,18:30,Ligga Arena / Curitiba
+369,Fortaleza / CE,Goiás / GO,03/12/2023,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+370,América / MG,Bahia / BA,03/12/2023,18:30,Raimundo Sampaio / Belo Horizonte
+371,Fluminense / RJ,Grêmio / RS,06/12/2023,21:30,Jornalista Mário Filho / Rio de Janeiro
+372,Vasco da Gama / RJ,Red Bull Bragantino / SP,06/12/2023,21:30,São Januário / Rio de Janeiro
+373,São Paulo / SP,Flamengo / RJ,06/12/2023,21:30,Cícero Pompeu de Toledo / Sao Paulo
+374,Santos / SP,Fortaleza / CE,06/12/2023,21:30,Urbano Caldeira / Santos
+375,Goiás / GO,América / MG,06/12/2023,19:00,Hailé Pinheiro / Goiania
+376,Cruzeiro / MG,Palmeiras / SP,06/12/2023,21:30,Magalhães Pinto / Belo Horizonte
+377,Internacional / RS,Botafogo / RJ,06/12/2023,21:30,José Pinheiro Borda / Porto Alegre
+378,Coritiba / PR,Corinthians / SP,06/12/2023,21:30,Major Antônio Couto Pereira / Curitiba
+379,Bahia / BA,Atlético Mineiro / MG,06/12/2023,21:30,Octávio Mangabeira / Salvador
+380,Cuiabá / MT,Athletico Paranaense / PR,06/12/2023,21:30,Arena Pantanal / Cuiaba

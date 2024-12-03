@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Palmeiras / SP,Atlético Mineiro / MG
-002,Chapecoense / SC,Coritiba / PR
-003,Fluminense / RJ,Joinville / SC
-004,São Paulo / SP,Flamengo / RJ
-005,Cruzeiro / MG,Corinthians / SP
-006,Athletico Paranaense / PR,Internacional / RS
-007,Sport / PE,Figueirense / SC
-008,Vasco da Gama / RJ,Goiás / GO
-009,Grêmio / RS,Ponte Preta / SP
-010,Avaí / SC,Santos / SP
-011,Coritiba / PR,Grêmio / RS
-012,Goiás / GO,Athletico Paranaense / PR
-013,Corinthians / SP,Chapecoense / SC
-014,Flamengo / RJ,Sport / PE
-015,Santos / SP,Cruzeiro / MG
-016,Atlético Mineiro / MG,Fluminense / RJ
-017,Joinville / SC,Palmeiras / SP
-018,Ponte Preta / SP,São Paulo / SP
-019,Internacional / RS,Avaí / SC
-020,Figueirense / SC,Vasco da Gama / RJ
-021,São Paulo / SP,Joinville / SC
-022,Vasco da Gama / RJ,Internacional / RS
-023,Grêmio / RS,Figueirense / SC
-024,Fluminense / RJ,Corinthians / SP
-025,Avaí / SC,Flamengo / RJ
-026,Athletico Paranaense / PR,Atlético Mineiro / MG
-027,Chapecoense / SC,Santos / SP
-028,Palmeiras / SP,Goiás / GO
-029,Cruzeiro / MG,Ponte Preta / SP
-030,Sport / PE,Coritiba / PR
-031,Ponte Preta / SP,Chapecoense / SC
-032,Coritiba / PR,Avaí / SC
-033,Joinville / SC,Athletico Paranaense / PR
-034,Corinthians / SP,Palmeiras / SP
-035,Internacional / RS,São Paulo / SP
-036,Atlético Mineiro / MG,Vasco da Gama / RJ
-037,Goiás / GO,Grêmio / RS
-038,Santos / SP,Sport / PE
-039,Flamengo / RJ,Fluminense / RJ
-040,Figueirense / SC,Cruzeiro / MG
-041,Vasco da Gama / RJ,Ponte Preta / SP
-042,Athletico Paranaense / PR,Figueirense / SC
-043,Chapecoense / SC,Joinville / SC
-044,São Paulo / SP,Santos / SP
-045,Grêmio / RS,Corinthians / SP
-046,Cruzeiro / MG,Flamengo / RJ
-047,Avaí / SC,Atlético Mineiro / MG
-048,Fluminense / RJ,Coritiba / PR
-049,Sport / PE,Goiás / GO
-050,Palmeiras / SP,Internacional / RS
-051,Santos / SP,Ponte Preta / SP
-052,Flamengo / RJ,Chapecoense / SC
-053,Atlético Mineiro / MG,Cruzeiro / MG
-054,São Paulo / SP,Grêmio / RS
-055,Athletico Paranaense / PR,Vasco da Gama / RJ
-056,Joinville / SC,Corinthians / SP
-057,Fluminense / RJ,Sport / PE
-058,Internacional / RS,Coritiba / PR
-059,Figueirense / SC,Palmeiras / SP
-060,Goiás / GO,Avaí / SC
-061,Atlético Mineiro / MG,Santos / SP
-062,Corinthians / SP,Internacional / RS
-063,Coritiba / PR,Flamengo / RJ
-064,Chapecoense / SC,São Paulo / SP
-065,Vasco da Gama / RJ,Cruzeiro / MG
-066,Sport / PE,Joinville / SC
-067,Palmeiras / SP,Fluminense / RJ
-068,Ponte Preta / SP,Goiás / GO
-069,Grêmio / RS,Athletico Paranaense / PR
-070,Avaí / SC,Figueirense / SC
-071,Figueirense / SC,Internacional / RS
-072,Santos / SP,Corinthians / SP
-073,Flamengo / RJ,Atlético Mineiro / MG
-074,Sport / PE,Vasco da Gama / RJ
-075,Grêmio / RS,Palmeiras / SP
-076,Cruzeiro / MG,Chapecoense / SC
-077,São Paulo / SP,Avaí / SC
-078,Athletico Paranaense / PR,Coritiba / PR
-079,Joinville / SC,Goiás / GO
-080,Fluminense / RJ,Ponte Preta / SP
-081,Avaí / SC,Grêmio / RS
-082,Chapecoense / SC,Sport / PE
-083,Corinthians / SP,Figueirense / SC
-084,Palmeiras / SP,São Paulo / SP
-085,Ponte Preta / SP,Athletico Paranaense / PR
-086,Coritiba / PR,Cruzeiro / MG
-087,Goiás / GO,Fluminense / RJ
-088,Vasco da Gama / RJ,Flamengo / RJ
-089,Internacional / RS,Santos / SP
-090,Atlético Mineiro / MG,Joinville / SC
-091,Vasco da Gama / RJ,Avaí / SC
-092,Sport / PE,Internacional / RS
-093,Palmeiras / SP,Chapecoense / SC
-094,Atlético Mineiro / MG,Coritiba / PR
-095,Grêmio / RS,Cruzeiro / MG
-096,Athletico Paranaense / PR,São Paulo / SP
-097,Joinville / SC,Flamengo / RJ
-098,Corinthians / SP,Ponte Preta / SP
-099,Figueirense / SC,Goiás / GO
-100,Fluminense / RJ,Santos / SP
-101,Coritiba / PR,Joinville / SC
-102,Chapecoense / SC,Vasco da Gama / RJ
-103,Cruzeiro / MG,Athletico Paranaense / PR
-104,Avaí / SC,Sport / PE
-105,São Paulo / SP,Fluminense / RJ
-106,Santos / SP,Grêmio / RS
-107,Goiás / GO,Corinthians / SP
-108,Ponte Preta / SP,Palmeiras / SP
-109,Flamengo / RJ,Figueirense / SC
-110,Internacional / RS,Atlético Mineiro / MG
-111,Coritiba / PR,Ponte Preta / SP
-112,Goiás / GO,Santos / SP
-113,Chapecoense / SC,Grêmio / RS
-114,Palmeiras / SP,Avaí / SC
-115,Figueirense / SC,Joinville / SC
-116,Vasco da Gama / RJ,São Paulo / SP
-117,Internacional / RS,Flamengo / RJ
-118,Atlético Mineiro / MG,Sport / PE
-119,Corinthians / SP,Athletico Paranaense / PR
-120,Fluminense / RJ,Cruzeiro / MG
-121,Santos / SP,Figueirense / SC
-122,Grêmio / RS,Vasco da Gama / RJ
-123,Ponte Preta / SP,Atlético Mineiro / MG
-124,São Paulo / SP,Coritiba / PR
-125,Flamengo / RJ,Corinthians / SP
-126,Cruzeiro / MG,Goiás / GO
-127,Athletico Paranaense / PR,Fluminense / RJ
-128,Joinville / SC,Internacional / RS
-129,Avaí / SC,Chapecoense / SC
-130,Sport / PE,Palmeiras / SP
-131,Corinthians / SP,Atlético Mineiro / MG
-132,Internacional / RS,Goiás / GO
-133,Flamengo / RJ,Grêmio / RS
-134,Athletico Paranaense / PR,Chapecoense / SC
-135,Palmeiras / SP,Santos / SP
-136,Fluminense / RJ,Vasco da Gama / RJ
-137,Figueirense / SC,Coritiba / PR
-138,Sport / PE,São Paulo / SP
-139,Cruzeiro / MG,Avaí / SC
-140,Joinville / SC,Ponte Preta / SP
-141,Avaí / SC,Athletico Paranaense / PR
-142,Grêmio / RS,Sport / PE
-143,Atlético Mineiro / MG,Figueirense / SC
-144,Chapecoense / SC,Fluminense / RJ
-145,Coritiba / PR,Corinthians / SP
-146,Goiás / GO,Flamengo / RJ
-147,São Paulo / SP,Cruzeiro / MG
-148,Ponte Preta / SP,Internacional / RS
-149,Santos / SP,Joinville / SC
-150,Vasco da Gama / RJ,Palmeiras / SP
-151,Corinthians / SP,Vasco da Gama / RJ
-152,Atlético Mineiro / MG,São Paulo / SP
-153,Fluminense / RJ,Grêmio / RS
-154,Palmeiras / SP,Athletico Paranaense / PR
-155,Coritiba / PR,Goiás / GO
-156,Flamengo / RJ,Santos / SP
-157,Internacional / RS,Chapecoense / SC
-158,Figueirense / SC,Ponte Preta / SP
-159,Joinville / SC,Avaí / SC
-160,Sport / PE,Cruzeiro / MG
-161,Avaí / SC,Fluminense / RJ
-162,Santos / SP,Coritiba / PR
-163,Chapecoense / SC,Figueirense / SC
-164,Athletico Paranaense / PR,Sport / PE
-165,Vasco da Gama / RJ,Joinville / SC
-166,São Paulo / SP,Corinthians / SP
-167,Ponte Preta / SP,Flamengo / RJ
-168,Cruzeiro / MG,Palmeiras / SP
-169,Goiás / GO,Atlético Mineiro / MG
-170,Grêmio / RS,Internacional / RS
-171,Flamengo / RJ,Athletico Paranaense / PR
-172,Coritiba / PR,Palmeiras / SP
-173,Goiás / GO,Chapecoense / SC
-174,Santos / SP,Vasco da Gama / RJ
-175,Corinthians / SP,Sport / PE
-176,Internacional / RS,Fluminense / RJ
-177,Figueirense / SC,São Paulo / SP
-178,Ponte Preta / SP,Avaí / SC
-179,Joinville / SC,Cruzeiro / MG
-180,Atlético Mineiro / MG,Grêmio / RS
-181,Vasco da Gama / RJ,Coritiba / PR
-182,Athletico Paranaense / PR,Santos / SP
-183,São Paulo / SP,Goiás / GO
-184,Fluminense / RJ,Figueirense / SC
-185,Grêmio / RS,Joinville / SC
-186,Palmeiras / SP,Flamengo / RJ
-187,Cruzeiro / MG,Internacional / RS
-188,Avaí / SC,Corinthians / SP
-189,Sport / PE,Ponte Preta / SP
-190,Chapecoense / SC,Atlético Mineiro / MG
-191,Goiás / GO,Vasco da Gama / RJ
-192,Santos / SP,Avaí / SC
-193,Ponte Preta / SP,Grêmio / RS
-194,Coritiba / PR,Chapecoense / SC
-195,Corinthians / SP,Cruzeiro / MG
-196,Joinville / SC,Fluminense / RJ
-197,Flamengo / RJ,São Paulo / SP
-198,Internacional / RS,Athletico Paranaense / PR
-199,Atlético Mineiro / MG,Palmeiras / SP
-200,Figueirense / SC,Sport / PE
-201,Vasco da Gama / RJ,Figueirense / SC
-202,São Paulo / SP,Ponte Preta / SP
-203,Avaí / SC,Internacional / RS
-204,Grêmio / RS,Coritiba / PR
-205,Fluminense / RJ,Atlético Mineiro / MG
-206,Sport / PE,Flamengo / RJ
-207,Chapecoense / SC,Corinthians / SP
-208,Palmeiras / SP,Joinville / SC
-209,Cruzeiro / MG,Santos / SP
-210,Athletico Paranaense / PR,Goiás / GO
-211,Internacional / RS,Vasco da Gama / RJ
-212,Joinville / SC,São Paulo / SP
-213,Flamengo / RJ,Avaí / SC
-214,Atlético Mineiro / MG,Athletico Paranaense / PR
-215,Corinthians / SP,Fluminense / RJ
-216,Coritiba / PR,Sport / PE
-217,Goiás / GO,Palmeiras / SP
-218,Santos / SP,Chapecoense / SC
-219,Ponte Preta / SP,Cruzeiro / MG
-220,Figueirense / SC,Grêmio / RS
-221,São Paulo / SP,Internacional / RS
-222,Vasco da Gama / RJ,Atlético Mineiro / MG
-223,Athletico Paranaense / PR,Joinville / SC
-224,Cruzeiro / MG,Figueirense / SC
-225,Chapecoense / SC,Ponte Preta / SP
-226,Palmeiras / SP,Corinthians / SP
-227,Fluminense / RJ,Flamengo / RJ
-228,Grêmio / RS,Goiás / GO
-229,Avaí / SC,Coritiba / PR
-230,Sport / PE,Santos / SP
-231,Internacional / RS,Palmeiras / SP
-232,Atlético Mineiro / MG,Avaí / SC
-233,Figueirense / SC,Athletico Paranaense / PR
-234,Joinville / SC,Chapecoense / SC
-235,Corinthians / SP,Grêmio / RS
-236,Santos / SP,São Paulo / SP
-237,Coritiba / PR,Fluminense / RJ
-238,Ponte Preta / SP,Vasco da Gama / RJ
-239,Goiás / GO,Sport / PE
-240,Flamengo / RJ,Cruzeiro / MG
-241,Coritiba / PR,Internacional / RS
-242,Palmeiras / SP,Figueirense / SC
-243,Corinthians / SP,Joinville / SC
-244,Ponte Preta / SP,Santos / SP
-245,Vasco da Gama / RJ,Athletico Paranaense / PR
-246,Grêmio / RS,São Paulo / SP
-247,Cruzeiro / MG,Atlético Mineiro / MG
-248,Chapecoense / SC,Flamengo / RJ
-249,Avaí / SC,Goiás / GO
-250,Sport / PE,Fluminense / RJ
-251,Fluminense / RJ,Palmeiras / SP
-252,Joinville / SC,Sport / PE
-253,Figueirense / SC,Avaí / SC
-254,Athletico Paranaense / PR,Grêmio / RS
-255,Santos / SP,Atlético Mineiro / MG
-256,Internacional / RS,Corinthians / SP
-257,Cruzeiro / MG,Vasco da Gama / RJ
-258,São Paulo / SP,Chapecoense / SC
-259,Goiás / GO,Ponte Preta / SP
-260,Flamengo / RJ,Coritiba / PR
-261,Palmeiras / SP,Grêmio / RS
-262,Ponte Preta / SP,Fluminense / RJ
-263,Internacional / RS,Figueirense / SC
-264,Coritiba / PR,Athletico Paranaense / PR
-265,Corinthians / SP,Santos / SP
-266,Vasco da Gama / RJ,Sport / PE
-267,Atlético Mineiro / MG,Flamengo / RJ
-268,Avaí / SC,São Paulo / SP
-269,Goiás / GO,Joinville / SC
-270,Chapecoense / SC,Cruzeiro / MG
-271,Fluminense / RJ,Goiás / GO
-272,Grêmio / RS,Avaí / SC
-273,Santos / SP,Internacional / RS
-274,Athletico Paranaense / PR,Ponte Preta / SP
-275,São Paulo / SP,Palmeiras / SP
-276,Flamengo / RJ,Vasco da Gama / RJ
-277,Figueirense / SC,Corinthians / SP
-278,Joinville / SC,Atlético Mineiro / MG
-279,Sport / PE,Chapecoense / SC
-280,Cruzeiro / MG,Coritiba / PR
-281,Coritiba / PR,Atlético Mineiro / MG
-282,Internacional / RS,Sport / PE
-283,São Paulo / SP,Athletico Paranaense / PR
-284,Avaí / SC,Vasco da Gama / RJ
-285,Flamengo / RJ,Joinville / SC
-286,Santos / SP,Fluminense / RJ
-287,Ponte Preta / SP,Corinthians / SP
-288,Cruzeiro / MG,Grêmio / RS
-289,Goiás / GO,Figueirense / SC
-290,Chapecoense / SC,Palmeiras / SP
-291,Athletico Paranaense / PR,Cruzeiro / MG
-292,Sport / PE,Avaí / SC
-293,Palmeiras / SP,Ponte Preta / SP
-294,Joinville / SC,Coritiba / PR
-295,Fluminense / RJ,São Paulo / SP
-296,Atlético Mineiro / MG,Internacional / RS
-297,Figueirense / SC,Flamengo / RJ
-298,Corinthians / SP,Goiás / GO
-299,Vasco da Gama / RJ,Chapecoense / SC
-300,Grêmio / RS,Santos / SP
-301,Flamengo / RJ,Internacional / RS
-302,Ponte Preta / SP,Coritiba / PR
-303,Joinville / SC,Figueirense / SC
-304,Santos / SP,Goiás / GO
-305,Grêmio / RS,Chapecoense / SC
-306,Cruzeiro / MG,Fluminense / RJ
-307,Athletico Paranaense / PR,Corinthians / SP
-308,Sport / PE,Atlético Mineiro / MG
-309,São Paulo / SP,Vasco da Gama / RJ
-310,Avaí / SC,Palmeiras / SP
-311,Fluminense / RJ,Athletico Paranaense / PR
-312,Figueirense / SC,Santos / SP
-313,Internacional / RS,Joinville / SC
-314,Palmeiras / SP,Sport / PE
-315,Corinthians / SP,Flamengo / RJ
-316,Vasco da Gama / RJ,Grêmio / RS
-317,Coritiba / PR,São Paulo / SP
-318,Chapecoense / SC,Avaí / SC
-319,Goiás / GO,Cruzeiro / MG
-320,Atlético Mineiro / MG,Ponte Preta / SP
-321,São Paulo / SP,Sport / PE
-322,Avaí / SC,Cruzeiro / MG
-323,Ponte Preta / SP,Joinville / SC
-324,Coritiba / PR,Figueirense / SC
-325,Grêmio / RS,Flamengo / RJ
-326,Atlético Mineiro / MG,Corinthians / SP
-327,Santos / SP,Palmeiras / SP
-328,Chapecoense / SC,Athletico Paranaense / PR
-329,Vasco da Gama / RJ,Fluminense / RJ
-330,Goiás / GO,Internacional / RS
-331,Internacional / RS,Ponte Preta / SP
-332,Corinthians / SP,Coritiba / PR
-333,Athletico Paranaense / PR,Avaí / SC
-334,Fluminense / RJ,Chapecoense / SC
-335,Palmeiras / SP,Vasco da Gama / RJ
-336,Cruzeiro / MG,São Paulo / SP
-337,Figueirense / SC,Atlético Mineiro / MG
-338,Flamengo / RJ,Goiás / GO
-339,Sport / PE,Grêmio / RS
-340,Joinville / SC,Santos / SP
-341,Cruzeiro / MG,Sport / PE
-342,Athletico Paranaense / PR,Palmeiras / SP
-343,Goiás / GO,Coritiba / PR
-344,Ponte Preta / SP,Figueirense / SC
-345,Avaí / SC,Joinville / SC
-346,São Paulo / SP,Atlético Mineiro / MG
-347,Santos / SP,Flamengo / RJ
-348,Vasco da Gama / RJ,Corinthians / SP
-349,Chapecoense / SC,Internacional / RS
-350,Grêmio / RS,Fluminense / RJ
-351,Palmeiras / SP,Cruzeiro / MG
-352,Joinville / SC,Vasco da Gama / RJ
-353,Corinthians / SP,São Paulo / SP
-354,Internacional / RS,Grêmio / RS
-355,Atlético Mineiro / MG,Goiás / GO
-356,Figueirense / SC,Chapecoense / SC
-357,Flamengo / RJ,Ponte Preta / SP
-358,Sport / PE,Athletico Paranaense / PR
-359,Fluminense / RJ,Avaí / SC
-360,Coritiba / PR,Santos / SP
-361,São Paulo / SP,Figueirense / SC
-362,Fluminense / RJ,Internacional / RS
-363,Avaí / SC,Ponte Preta / SP
-364,Sport / PE,Corinthians / SP
-365,Grêmio / RS,Atlético Mineiro / MG
-366,Cruzeiro / MG,Joinville / SC
-367,Vasco da Gama / RJ,Santos / SP
-368,Palmeiras / SP,Coritiba / PR
-369,Chapecoense / SC,Goiás / GO
-370,Athletico Paranaense / PR,Flamengo / RJ
-371,Corinthians / SP,Avaí / SC
-372,Santos / SP,Athletico Paranaense / PR
-373,Ponte Preta / SP,Sport / PE
-374,Flamengo / RJ,Palmeiras / SP
-375,Internacional / RS,Cruzeiro / MG
-376,Atlético Mineiro / MG,Chapecoense / SC
-377,Figueirense / SC,Fluminense / RJ
-378,Coritiba / PR,Vasco da Gama / RJ
-379,Goiás / GO,São Paulo / SP
-380,Joinville / SC,Grêmio / RS
+Game,Home,Away,Date,Time,Stadium
+001,Palmeiras / SP,Atlético Mineiro / MG,09/05/2015,18:30,Allianz Parque / São Paulo
+002,Chapecoense / SC,Coritiba / PR,09/05/2015,18:30,Regional Indio Condá / Chapecó
+003,Fluminense / RJ,Joinville / SC,09/05/2015,21:00,Jornalista Mario Filho / Rio de Janeiro
+004,São Paulo / SP,Flamengo / RJ,10/05/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+005,Cruzeiro / MG,Corinthians / SP,10/05/2015,16:00,Arena Pantanal / Cuiabá
+006,Athletico Paranaense / PR,Internacional / RS,10/05/2015,16:00,Joaquim Américo Guimarães / Curitiba
+007,Sport / PE,Figueirense / SC,10/05/2015,16:00,Adelmar da Costa Carvalho / Recife
+008,Vasco da Gama / RJ,Goiás / GO,10/05/2015,18:30,São Januário / Rio de Janeiro
+009,Grêmio / RS,Ponte Preta / SP,10/05/2015,11:00,Arena do Grêmio / Porto Alegre
+010,Avaí / SC,Santos / SP,10/05/2015,18:30,Aderbal Ramos da Silva / Florianópolis
+011,Coritiba / PR,Grêmio / RS,16/05/2015,18:30,Major Antônio do Couto Pereira / Curitiba
+012,Goiás / GO,Athletico Paranaense / PR,16/05/2015,18:30,Serra Dourada / Goiânia
+013,Corinthians / SP,Chapecoense / SC,16/05/2015,21:00,Fonte Luminosa / Araraquara
+014,Flamengo / RJ,Sport / PE,17/05/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+015,Santos / SP,Cruzeiro / MG,17/05/2015,16:00,Urbano Caldeira / Santos
+016,Atlético Mineiro / MG,Fluminense / RJ,17/05/2015,16:00,Estádio Nacional Mané Garrincha / Brasilia
+017,Joinville / SC,Palmeiras / SP,17/05/2015,18:30,Arena Joinville / Joinville
+018,Ponte Preta / SP,São Paulo / SP,17/05/2015,18:30,Moisés Lucarelli / Campinas
+019,Internacional / RS,Avaí / SC,17/05/2015,18:30,José Pinheiro Borda / Porto Alegre
+020,Figueirense / SC,Vasco da Gama / RJ,17/05/2015,11:00,Orlando Scarpelli / Florianopolis
+021,São Paulo / SP,Joinville / SC,23/05/2015,18:30,Cícero Pompeu de Toledo / Sao Paulo
+022,Vasco da Gama / RJ,Internacional / RS,23/05/2015,18:30,São Januário / Rio de Janeiro
+023,Grêmio / RS,Figueirense / SC,23/05/2015,21:00,Arena do Grêmio / Porto Alegre
+024,Fluminense / RJ,Corinthians / SP,24/05/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+025,Avaí / SC,Flamengo / RJ,24/05/2015,16:00,Aderbal Ramos da Silva / Florianópolis
+026,Athletico Paranaense / PR,Atlético Mineiro / MG,24/05/2015,16:00,Joaquim Américo Guimarães / Curitiba
+027,Chapecoense / SC,Santos / SP,24/05/2015,16:00,Regional Indio Condá / Chapecó
+028,Palmeiras / SP,Goiás / GO,24/05/2015,11:00,Allianz Parque / São Paulo
+029,Cruzeiro / MG,Ponte Preta / SP,24/05/2015,18:30,Governador Magalhães Pinto / Belo Horizonte
+030,Sport / PE,Coritiba / PR,24/05/2015,18:30,Adelmar da Costa Carvalho / Recife
+031,Ponte Preta / SP,Chapecoense / SC,30/05/2015,18:30,Moisés Lucarelli / Campinas
+032,Coritiba / PR,Avaí / SC,30/05/2015,18:30,Major Antônio do Couto Pereira / Curitiba
+033,Joinville / SC,Athletico Paranaense / PR,30/05/2015,21:00,Arena Joinville / Joinville
+034,Corinthians / SP,Palmeiras / SP,31/05/2015,16:00,Arena Corinthians / Itaquera/Sao Paulo
+035,Internacional / RS,São Paulo / SP,31/05/2015,16:00,José Pinheiro Borda / Porto Alegre
+036,Atlético Mineiro / MG,Vasco da Gama / RJ,31/05/2015,16:00,Raimundo Sampaio / Belo Horizonte
+037,Goiás / GO,Grêmio / RS,31/05/2015,16:00,Serra Dourada / Goiânia
+038,Santos / SP,Sport / PE,31/05/2015,11:00,Urbano Caldeira / Santos
+039,Flamengo / RJ,Fluminense / RJ,31/05/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+040,Figueirense / SC,Cruzeiro / MG,31/05/2015,18:30,Orlando Scarpelli / Florianopolis
+041,Vasco da Gama / RJ,Ponte Preta / SP,03/06/2015,19:30,São Januário / Rio de Janeiro
+042,Athletico Paranaense / PR,Figueirense / SC,03/06/2015,19:30,Joaquim Américo Guimarães / Curitiba
+043,Chapecoense / SC,Joinville / SC,03/06/2015,19:30,Regional Indio Condá / Chapecó
+044,São Paulo / SP,Santos / SP,03/06/2015,21:00,Cícero Pompeu de Toledo / Sao Paulo
+045,Grêmio / RS,Corinthians / SP,03/06/2015,22:00,Arena do Grêmio / Porto Alegre
+046,Cruzeiro / MG,Flamengo / RJ,03/06/2015,22:00,Governador Magalhães Pinto / Belo Horizonte
+047,Avaí / SC,Atlético Mineiro / MG,03/06/2015,22:00,Aderbal Ramos da Silva / Florianópolis
+048,Fluminense / RJ,Coritiba / PR,04/06/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+049,Sport / PE,Goiás / GO,04/06/2015,21:00,Adelmar da Costa Carvalho / Recife
+050,Palmeiras / SP,Internacional / RS,04/06/2015,21:00,Allianz Parque / São Paulo
+051,Santos / SP,Ponte Preta / SP,06/06/2015,18:30,Urbano Caldeira / Santos
+052,Flamengo / RJ,Chapecoense / SC,06/06/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+053,Atlético Mineiro / MG,Cruzeiro / MG,06/06/2015,18:30,Raimundo Sampaio / Belo Horizonte
+054,São Paulo / SP,Grêmio / RS,06/06/2015,22:00,Cícero Pompeu de Toledo / Sao Paulo
+055,Athletico Paranaense / PR,Vasco da Gama / RJ,06/06/2015,22:00,Joaquim Américo Guimarães / Curitiba
+056,Joinville / SC,Corinthians / SP,06/06/2015,22:00,Arena Joinville / Joinville
+057,Fluminense / RJ,Sport / PE,07/06/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+058,Internacional / RS,Coritiba / PR,07/06/2015,11:00,José Pinheiro Borda / Porto Alegre
+059,Figueirense / SC,Palmeiras / SP,07/06/2015,19:30,Orlando Scarpelli / Florianopolis
+060,Goiás / GO,Avaí / SC,07/06/2015,19:30,Serra Dourada / Goiânia
+061,Atlético Mineiro / MG,Santos / SP,10/06/2015,19:30,Raimundo Sampaio / Belo Horizonte
+062,Corinthians / SP,Internacional / RS,13/06/2015,16:30,Arena Corinthians / Itaquera/Sao Paulo
+063,Coritiba / PR,Flamengo / RJ,13/06/2015,16:30,Major Antônio do Couto Pereira / Curitiba
+064,Chapecoense / SC,São Paulo / SP,13/06/2015,16:30,Regional Indio Condá / Chapecó
+065,Vasco da Gama / RJ,Cruzeiro / MG,13/06/2015,21:00,São Januário / Rio de Janeiro
+066,Sport / PE,Joinville / SC,13/06/2015,21:00,Adelmar da Costa Carvalho / Recife
+067,Palmeiras / SP,Fluminense / RJ,14/06/2015,16:00,Allianz Parque / São Paulo
+068,Ponte Preta / SP,Goiás / GO,14/06/2015,11:00,Moisés Lucarelli / Campinas
+069,Grêmio / RS,Athletico Paranaense / PR,14/06/2015,16:00,Arena do Grêmio / Porto Alegre
+070,Avaí / SC,Figueirense / SC,14/06/2015,16:00,Aderbal Ramos da Silva / Florianópolis
+071,Figueirense / SC,Internacional / RS,18/06/2015,21:00,Orlando Scarpelli / Florianopolis
+072,Santos / SP,Corinthians / SP,20/06/2015,16:30,Urbano Caldeira / Santos
+073,Flamengo / RJ,Atlético Mineiro / MG,20/06/2015,16:30,Jornalista Mario Filho / Rio de Janeiro
+074,Sport / PE,Vasco da Gama / RJ,20/06/2015,16:30,Arena Pernambuco / São Lourenço da Mata
+075,Grêmio / RS,Palmeiras / SP,20/06/2015,21:00,Arena do Grêmio / Porto Alegre
+076,Cruzeiro / MG,Chapecoense / SC,21/06/2015,11:00,Governador Magalhães Pinto / Belo Horizonte
+077,São Paulo / SP,Avaí / SC,21/06/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+078,Athletico Paranaense / PR,Coritiba / PR,21/06/2015,16:00,Joaquim Américo Guimarães / Curitiba
+079,Joinville / SC,Goiás / GO,21/06/2015,16:00,Arena Joinville / Joinville
+080,Fluminense / RJ,Ponte Preta / SP,24/06/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+081,Avaí / SC,Grêmio / RS,27/06/2015,16:00,Aderbal Ramos da Silva / Florianópolis
+082,Chapecoense / SC,Sport / PE,27/06/2015,16:00,Regional Indio Condá / Chapecó
+083,Corinthians / SP,Figueirense / SC,27/06/2015,21:00,Arena Corinthians / Itaquera/Sao Paulo
+084,Palmeiras / SP,São Paulo / SP,28/06/2015,16:00,Allianz Parque / São Paulo
+085,Ponte Preta / SP,Athletico Paranaense / PR,28/06/2015,16:00,Moisés Lucarelli / Campinas
+086,Coritiba / PR,Cruzeiro / MG,28/06/2015,16:00,Major Antônio do Couto Pereira / Curitiba
+087,Goiás / GO,Fluminense / RJ,28/06/2015,16:00,Serra Dourada / Goiânia
+088,Vasco da Gama / RJ,Flamengo / RJ,28/06/2015,18:30,Arena Pantanal / Cuiabá
+089,Internacional / RS,Santos / SP,28/06/2015,18:30,José Pinheiro Borda / Porto Alegre
+090,Atlético Mineiro / MG,Joinville / SC,28/06/2015,11:00,Governador Magalhães Pinto / Belo Horizonte
+091,Vasco da Gama / RJ,Avaí / SC,01/07/2015,19:30,São Januário / Rio de Janeiro
+092,Sport / PE,Internacional / RS,01/07/2015,19:30,Adelmar da Costa Carvalho / Recife
+093,Palmeiras / SP,Chapecoense / SC,01/07/2015,21:00,Allianz Parque / São Paulo
+094,Atlético Mineiro / MG,Coritiba / PR,01/07/2015,21:00,Raimundo Sampaio / Belo Horizonte
+095,Grêmio / RS,Cruzeiro / MG,01/07/2015,22:00,Arena do Grêmio / Porto Alegre
+096,Athletico Paranaense / PR,São Paulo / SP,01/07/2015,22:00,Joaquim Américo Guimarães / Curitiba
+097,Joinville / SC,Flamengo / RJ,01/07/2015,22:00,Arena Joinville / Joinville
+098,Corinthians / SP,Ponte Preta / SP,02/07/2015,19:30,Arena Corinthians / Itaquera/Sao Paulo
+099,Figueirense / SC,Goiás / GO,02/07/2015,19:30,Orlando Scarpelli / Florianopolis
+100,Fluminense / RJ,Santos / SP,02/07/2015,21:00,Jornalista Mario Filho / Rio de Janeiro
+101,Coritiba / PR,Joinville / SC,04/07/2015,15:00,Major Antônio do Couto Pereira / Curitiba
+102,Chapecoense / SC,Vasco da Gama / RJ,04/07/2015,21:00,Regional Indio Condá / Chapecó
+103,Cruzeiro / MG,Athletico Paranaense / PR,04/07/2015,21:00,Governador Magalhães Pinto / Belo Horizonte
+104,Avaí / SC,Sport / PE,05/07/2015,11:00,Aderbal Ramos da Silva / Florianópolis
+105,São Paulo / SP,Fluminense / RJ,05/07/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+106,Santos / SP,Grêmio / RS,05/07/2015,16:00,Urbano Caldeira / Santos
+107,Goiás / GO,Corinthians / SP,05/07/2015,16:00,Serra Dourada / Goiânia
+108,Ponte Preta / SP,Palmeiras / SP,05/07/2015,18:30,Arena Pantanal / Cuiabá
+109,Flamengo / RJ,Figueirense / SC,05/07/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+110,Internacional / RS,Atlético Mineiro / MG,05/07/2015,18:30,José Pinheiro Borda / Porto Alegre
+111,Coritiba / PR,Ponte Preta / SP,08/07/2015,19:30,Major Antônio do Couto Pereira / Curitiba
+112,Goiás / GO,Santos / SP,08/07/2015,19:30,Serra Dourada / Goiânia
+113,Chapecoense / SC,Grêmio / RS,08/07/2015,19:30,Regional Indio Condá / Chapecó
+114,Palmeiras / SP,Avaí / SC,08/07/2015,21:00,Allianz Parque / São Paulo
+115,Figueirense / SC,Joinville / SC,08/07/2015,21:00,Orlando Scarpelli / Florianopolis
+116,Vasco da Gama / RJ,São Paulo / SP,08/07/2015,22:00,Estádio Nacional Mané Garrincha / Brasilia
+117,Internacional / RS,Flamengo / RJ,08/07/2015,22:00,José Pinheiro Borda / Porto Alegre
+118,Atlético Mineiro / MG,Sport / PE,08/07/2015,22:00,Governador Magalhães Pinto / Belo Horizonte
+119,Corinthians / SP,Athletico Paranaense / PR,09/07/2015,19:30,Arena Corinthians / Itaquera/Sao Paulo
+120,Fluminense / RJ,Cruzeiro / MG,09/07/2015,21:00,Jornalista Mario Filho / Rio de Janeiro
+121,Santos / SP,Figueirense / SC,11/07/2015,18:30,Urbano Caldeira / Santos
+122,Grêmio / RS,Vasco da Gama / RJ,11/07/2015,18:30,Arena do Grêmio / Porto Alegre
+123,Ponte Preta / SP,Atlético Mineiro / MG,11/07/2015,21:00,Moisés Lucarelli / Campinas
+124,São Paulo / SP,Coritiba / PR,12/07/2015,11:00,Cícero Pompeu de Toledo / Sao Paulo
+125,Flamengo / RJ,Corinthians / SP,12/07/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+126,Cruzeiro / MG,Goiás / GO,12/07/2015,16:00,Governador Magalhães Pinto / Belo Horizonte
+127,Athletico Paranaense / PR,Fluminense / RJ,12/07/2015,16:00,Estádio Joaquim Américo Guimarães / Curitiba
+128,Joinville / SC,Internacional / RS,12/07/2015,16:00,Arena Joinville / Joinville
+129,Avaí / SC,Chapecoense / SC,12/07/2015,18:30,Aderbal Ramos da Silva / Florianópolis
+130,Sport / PE,Palmeiras / SP,12/07/2015,18:30,Arena Pernambuco / São Lourenço da Mata
+131,Corinthians / SP,Atlético Mineiro / MG,18/07/2015,21:00,Arena Corinthians / Itaquera/Sao Paulo
+132,Internacional / RS,Goiás / GO,18/07/2015,18:30,José Pinheiro Borda / Porto Alegre
+133,Flamengo / RJ,Grêmio / RS,18/07/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+134,Athletico Paranaense / PR,Chapecoense / SC,19/07/2015,11:00,Estádio Joaquim Américo Guimarães / Curitiba
+135,Palmeiras / SP,Santos / SP,19/07/2015,16:00,Allianz Parque / São Paulo
+136,Fluminense / RJ,Vasco da Gama / RJ,19/07/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+137,Figueirense / SC,Coritiba / PR,19/07/2015,16:00,Orlando Scarpelli / Florianopolis
+138,Sport / PE,São Paulo / SP,19/07/2015,16:00,Arena Pernambuco / São Lourenço da Mata
+139,Cruzeiro / MG,Avaí / SC,19/07/2015,18:30,Governador Magalhães Pinto / Belo Horizonte
+140,Joinville / SC,Ponte Preta / SP,19/07/2015,18:30,Arena Joinville / Joinville
+141,Avaí / SC,Athletico Paranaense / PR,25/07/2015,18:30,Aderbal Ramos da Silva / Florianópolis
+142,Grêmio / RS,Sport / PE,25/07/2015,19:30,Arena do Grêmio / Porto Alegre
+143,Atlético Mineiro / MG,Figueirense / SC,25/07/2015,21:00,Raimundo Sampaio / Belo Horizonte
+144,Chapecoense / SC,Fluminense / RJ,26/07/2015,11:00,Regional Indio Condá / Chapecó
+145,Coritiba / PR,Corinthians / SP,26/07/2015,16:00,Major Antônio do Couto Pereira / Curitiba
+146,Goiás / GO,Flamengo / RJ,26/07/2015,16:00,Serra Dourada / Goiânia
+147,São Paulo / SP,Cruzeiro / MG,26/07/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+148,Ponte Preta / SP,Internacional / RS,26/07/2015,16:00,Moisés Lucarelli / Campinas
+149,Santos / SP,Joinville / SC,26/07/2015,11:00,Urbano Caldeira / Santos
+150,Vasco da Gama / RJ,Palmeiras / SP,26/07/2015,18:30,São Januário / Rio de Janeiro
+151,Corinthians / SP,Vasco da Gama / RJ,29/07/2015,22:00,Arena Corinthians / Itaquera/Sao Paulo
+152,Atlético Mineiro / MG,São Paulo / SP,29/07/2015,22:00,Governador Magalhães Pinto / Belo Horizonte
+153,Fluminense / RJ,Grêmio / RS,01/08/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+154,Palmeiras / SP,Athletico Paranaense / PR,02/08/2015,11:00,Allianz Parque / São Paulo
+155,Coritiba / PR,Goiás / GO,02/08/2015,11:00,Major Antônio do Couto Pereira / Curitiba
+156,Flamengo / RJ,Santos / SP,02/08/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+157,Internacional / RS,Chapecoense / SC,02/08/2015,16:00,José Pinheiro Borda / Porto Alegre
+158,Figueirense / SC,Ponte Preta / SP,02/08/2015,16:00,Orlando Scarpelli / Florianopolis
+159,Joinville / SC,Avaí / SC,02/08/2015,16:00,Arena Joinville / Joinville
+160,Sport / PE,Cruzeiro / MG,02/08/2015,18:30,Arena Pernambuco / São Lourenço da Mata
+161,Avaí / SC,Fluminense / RJ,08/08/2015,18:30,Aderbal Ramos da Silva / Florianópolis
+162,Santos / SP,Coritiba / PR,08/08/2015,21:00,Urbano Caldeira / Santos
+163,Chapecoense / SC,Figueirense / SC,09/08/2015,18:30,Regional Indio Condá / Chapecó
+164,Athletico Paranaense / PR,Sport / PE,09/08/2015,11:00,Estádio Joaquim Américo Guimarães / Curitiba
+165,Vasco da Gama / RJ,Joinville / SC,09/08/2015,11:00,Jornalista Mario Filho / Rio de Janeiro
+166,São Paulo / SP,Corinthians / SP,09/08/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+167,Ponte Preta / SP,Flamengo / RJ,09/08/2015,16:00,Moisés Lucarelli / Campinas
+168,Cruzeiro / MG,Palmeiras / SP,09/08/2015,16:00,Governador Magalhães Pinto / Belo Horizonte
+169,Goiás / GO,Atlético Mineiro / MG,09/08/2015,16:00,Serra Dourada / Goiânia
+170,Grêmio / RS,Internacional / RS,09/08/2015,18:30,Arena do Grêmio / Porto Alegre
+171,Flamengo / RJ,Athletico Paranaense / PR,12/08/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+172,Coritiba / PR,Palmeiras / SP,12/08/2015,19:30,Major Antônio do Couto Pereira / Curitiba
+173,Goiás / GO,Chapecoense / SC,12/08/2015,21:00,Serra Dourada / Goiânia
+174,Santos / SP,Vasco da Gama / RJ,12/08/2015,21:00,Urbano Caldeira / Santos
+175,Corinthians / SP,Sport / PE,12/08/2015,22:00,Arena Corinthians / Itaquera/Sao Paulo
+176,Internacional / RS,Fluminense / RJ,12/08/2015,22:00,José Pinheiro Borda / Porto Alegre
+177,Figueirense / SC,São Paulo / SP,12/08/2015,22:00,Orlando Scarpelli / Florianopolis
+178,Ponte Preta / SP,Avaí / SC,13/08/2015,19:30,Moisés Lucarelli / Campinas
+179,Joinville / SC,Cruzeiro / MG,13/08/2015,21:00,Arena Joinville / Joinville
+180,Atlético Mineiro / MG,Grêmio / RS,13/08/2015,21:00,Governador Magalhães Pinto / Belo Horizonte
+181,Vasco da Gama / RJ,Coritiba / PR,15/08/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+182,Athletico Paranaense / PR,Santos / SP,15/08/2015,18:30,Estádio Joaquim Américo Guimarães / Curitiba
+183,São Paulo / SP,Goiás / GO,15/08/2015,21:00,Cícero Pompeu de Toledo / Sao Paulo
+184,Fluminense / RJ,Figueirense / SC,16/08/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+185,Grêmio / RS,Joinville / SC,16/08/2015,18:30,Arena do Grêmio / Porto Alegre
+186,Palmeiras / SP,Flamengo / RJ,16/08/2015,11:00,Allianz Parque / São Paulo
+187,Cruzeiro / MG,Internacional / RS,16/08/2015,16:00,Governador Magalhães Pinto / Belo Horizonte
+188,Avaí / SC,Corinthians / SP,16/08/2015,16:00,Aderbal Ramos da Silva / Florianópolis
+189,Sport / PE,Ponte Preta / SP,16/08/2015,16:00,Adelmar da Costa Carvalho / Recife
+190,Chapecoense / SC,Atlético Mineiro / MG,16/08/2015,18:30,Regional Indio Condá / Chapecó
+191,Goiás / GO,Vasco da Gama / RJ,22/08/2015,18:30,Serra Dourada / Goiânia
+192,Santos / SP,Avaí / SC,22/08/2015,18:30,Urbano Caldeira / Santos
+193,Ponte Preta / SP,Grêmio / RS,23/08/2015,11:00,Moisés Lucarelli / Campinas
+194,Coritiba / PR,Chapecoense / SC,23/08/2015,11:00,Major Antônio do Couto Pereira / Curitiba
+195,Corinthians / SP,Cruzeiro / MG,23/08/2015,16:00,Arena Corinthians / Itaquera/Sao Paulo
+196,Joinville / SC,Fluminense / RJ,23/08/2015,16:00,Arena Joinville / Joinville
+197,Flamengo / RJ,São Paulo / SP,23/08/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+198,Internacional / RS,Athletico Paranaense / PR,23/08/2015,16:00,José Pinheiro Borda / Porto Alegre
+199,Atlético Mineiro / MG,Palmeiras / SP,23/08/2015,18:30,Raimundo Sampaio / Belo Horizonte
+200,Figueirense / SC,Sport / PE,22/08/2015,21:00,Orlando Scarpelli / Florianopolis
+201,Vasco da Gama / RJ,Figueirense / SC,29/08/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+202,São Paulo / SP,Ponte Preta / SP,29/08/2015,21:00,Cícero Pompeu de Toledo / Sao Paulo
+203,Avaí / SC,Internacional / RS,30/08/2015,11:00,Aderbal Ramos da Silva / Florianópolis
+204,Grêmio / RS,Coritiba / PR,30/08/2015,11:00,Arena do Grêmio / Porto Alegre
+205,Fluminense / RJ,Atlético Mineiro / MG,30/08/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+206,Sport / PE,Flamengo / RJ,30/08/2015,16:00,Arena Pernambuco / São Lourenço da Mata
+207,Chapecoense / SC,Corinthians / SP,30/08/2015,16:00,Regional Indio Condá / Chapecó
+208,Palmeiras / SP,Joinville / SC,30/08/2015,16:00,Allianz Parque / São Paulo
+209,Cruzeiro / MG,Santos / SP,30/08/2015,18:30,Governador Magalhães Pinto / Belo Horizonte
+210,Athletico Paranaense / PR,Goiás / GO,30/08/2015,18:30,Estádio Joaquim Américo Guimarães / Curitiba
+211,Internacional / RS,Vasco da Gama / RJ,02/09/2015,19:30,José Pinheiro Borda / Porto Alegre
+212,Joinville / SC,São Paulo / SP,02/09/2015,19:30,Arena Joinville / Joinville
+213,Flamengo / RJ,Avaí / SC,02/09/2015,21:00,Arena das Dunas / Natal
+214,Atlético Mineiro / MG,Athletico Paranaense / PR,02/09/2015,21:00,Raimundo Sampaio / Belo Horizonte
+215,Corinthians / SP,Fluminense / RJ,02/09/2015,22:00,Arena Corinthians / Itaquera/Sao Paulo
+216,Coritiba / PR,Sport / PE,02/09/2015,22:00,Major Antônio do Couto Pereira / Curitiba
+217,Goiás / GO,Palmeiras / SP,02/09/2015,22:00,Serra Dourada / Goiânia
+218,Santos / SP,Chapecoense / SC,03/09/2015,19:30,Urbano Caldeira / Santos
+219,Ponte Preta / SP,Cruzeiro / MG,02/09/2015,19:30,Moisés Lucarelli / Campinas
+220,Figueirense / SC,Grêmio / RS,03/09/2015,21:00,Orlando Scarpelli / Florianopolis
+221,São Paulo / SP,Internacional / RS,05/09/2015,19:30,Cícero Pompeu de Toledo / Sao Paulo
+222,Vasco da Gama / RJ,Atlético Mineiro / MG,05/09/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+223,Athletico Paranaense / PR,Joinville / SC,05/09/2015,21:00,Estádio Joaquim Américo Guimarães / Curitiba
+224,Cruzeiro / MG,Figueirense / SC,06/09/2015,11:00,Governador Magalhães Pinto / Belo Horizonte
+225,Chapecoense / SC,Ponte Preta / SP,06/09/2015,11:00,Regional Indio Condá / Chapecó
+226,Palmeiras / SP,Corinthians / SP,06/09/2015,16:00,Allianz Parque / São Paulo
+227,Fluminense / RJ,Flamengo / RJ,06/09/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+228,Grêmio / RS,Goiás / GO,06/09/2015,16:00,Arena do Grêmio / Porto Alegre
+229,Avaí / SC,Coritiba / PR,06/09/2015,16:00,Aderbal Ramos da Silva / Florianópolis
+230,Sport / PE,Santos / SP,06/09/2015,18:30,Adelmar da Costa Carvalho / Recife
+231,Internacional / RS,Palmeiras / SP,09/09/2015,19:30,José Pinheiro Borda / Porto Alegre
+232,Atlético Mineiro / MG,Avaí / SC,09/09/2015,19:30,Raimundo Sampaio / Belo Horizonte
+233,Figueirense / SC,Athletico Paranaense / PR,09/09/2015,21:00,Orlando Scarpelli / Florianopolis
+234,Joinville / SC,Chapecoense / SC,10/09/2015,21:00,Arena Joinville / Joinville
+235,Corinthians / SP,Grêmio / RS,09/09/2015,22:00,Arena Corinthians / Itaquera/Sao Paulo
+236,Santos / SP,São Paulo / SP,09/09/2015,22:00,Urbano Caldeira / Santos
+237,Coritiba / PR,Fluminense / RJ,09/09/2015,22:00,Major Antônio do Couto Pereira / Curitiba
+238,Ponte Preta / SP,Vasco da Gama / RJ,09/09/2015,19:30,Moisés Lucarelli / Campinas
+239,Goiás / GO,Sport / PE,10/09/2015,19:30,Serra Dourada / Goiânia
+240,Flamengo / RJ,Cruzeiro / MG,10/09/2015,21:00,Jornalista Mario Filho / Rio de Janeiro
+241,Coritiba / PR,Internacional / RS,12/09/2015,18:30,Major Antônio do Couto Pereira / Curitiba
+242,Palmeiras / SP,Figueirense / SC,12/09/2015,21:00,Allianz Parque / São Paulo
+243,Corinthians / SP,Joinville / SC,13/09/2015,11:00,Arena Corinthians / Itaquera/Sao Paulo
+244,Ponte Preta / SP,Santos / SP,13/09/2015,11:00,Moisés Lucarelli / Campinas
+245,Vasco da Gama / RJ,Athletico Paranaense / PR,13/09/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+246,Grêmio / RS,São Paulo / SP,13/09/2015,16:00,Arena do Grêmio / Porto Alegre
+247,Cruzeiro / MG,Atlético Mineiro / MG,13/09/2015,16:00,Governador Magalhães Pinto / Belo Horizonte
+248,Chapecoense / SC,Flamengo / RJ,13/09/2015,16:00,Regional Indio Condá / Chapecó
+249,Avaí / SC,Goiás / GO,13/09/2015,18:30,Aderbal Ramos da Silva / Florianópolis
+250,Sport / PE,Fluminense / RJ,13/09/2015,18:30,Arena Pernambuco / São Lourenço da Mata
+251,Fluminense / RJ,Palmeiras / SP,16/09/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+252,Joinville / SC,Sport / PE,16/09/2015,19:30,Arena Joinville / Joinville
+253,Figueirense / SC,Avaí / SC,16/09/2015,21:00,Orlando Scarpelli / Florianopolis
+254,Athletico Paranaense / PR,Grêmio / RS,16/09/2015,21:00,Major Antônio do Couto Pereira / Curitiba
+255,Santos / SP,Atlético Mineiro / MG,16/09/2015,22:00,Urbano Caldeira / Santos
+256,Internacional / RS,Corinthians / SP,16/09/2015,22:00,José Pinheiro Borda / Porto Alegre
+257,Cruzeiro / MG,Vasco da Gama / RJ,16/09/2015,22:00,Governador Magalhães Pinto / Belo Horizonte
+258,São Paulo / SP,Chapecoense / SC,17/09/2015,19:30,Cícero Pompeu de Toledo / Sao Paulo
+259,Goiás / GO,Ponte Preta / SP,16/09/2015,19:30,Serra Dourada / Goiânia
+260,Flamengo / RJ,Coritiba / PR,17/09/2015,21:00,Estádio Nacional Mané Garrincha / Brasilia
+261,Palmeiras / SP,Grêmio / RS,19/09/2015,18:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+262,Ponte Preta / SP,Fluminense / RJ,19/09/2015,21:00,Moisés Lucarelli / Campinas
+263,Internacional / RS,Figueirense / SC,19/09/2015,18:30,José Pinheiro Borda / Porto Alegre
+264,Coritiba / PR,Athletico Paranaense / PR,20/09/2015,18:30,Major Antônio do Couto Pereira / Curitiba
+265,Corinthians / SP,Santos / SP,20/09/2015,11:00,Arena Corinthians / Itaquera/Sao Paulo
+266,Vasco da Gama / RJ,Sport / PE,20/09/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+267,Atlético Mineiro / MG,Flamengo / RJ,20/09/2015,16:00,Raimundo Sampaio / Belo Horizonte
+268,Avaí / SC,São Paulo / SP,20/09/2015,16:00,Aderbal Ramos da Silva / Florianópolis
+269,Goiás / GO,Joinville / SC,20/09/2015,11:00,Serra Dourada / Goiânia
+270,Chapecoense / SC,Cruzeiro / MG,20/09/2015,18:30,Regional Indio Condá / Chapecó
+271,Fluminense / RJ,Goiás / GO,26/09/2015,18:30,Jornalista Mario Filho / Rio de Janeiro
+272,Grêmio / RS,Avaí / SC,26/09/2015,21:00,Arena do Grêmio / Porto Alegre
+273,Santos / SP,Internacional / RS,27/09/2015,11:00,Urbano Caldeira / Santos
+274,Athletico Paranaense / PR,Ponte Preta / SP,27/09/2015,11:00,Estádio Joaquim Américo Guimarães / Curitiba
+275,São Paulo / SP,Palmeiras / SP,27/09/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+276,Flamengo / RJ,Vasco da Gama / RJ,27/09/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+277,Figueirense / SC,Corinthians / SP,27/09/2015,16:00,Orlando Scarpelli / Florianopolis
+278,Joinville / SC,Atlético Mineiro / MG,27/09/2015,16:00,Arena Joinville / Joinville
+279,Sport / PE,Chapecoense / SC,27/09/2015,18:30,Adelmar da Costa Carvalho / Recife
+280,Cruzeiro / MG,Coritiba / PR,27/09/2015,18:30,Governador Magalhães Pinto / Belo Horizonte
+281,Coritiba / PR,Atlético Mineiro / MG,03/10/2015,18:30,Major Antônio do Couto Pereira / Curitiba
+282,Internacional / RS,Sport / PE,03/10/2015,18:30,José Pinheiro Borda / Porto Alegre
+283,São Paulo / SP,Athletico Paranaense / PR,03/10/2015,21:00,Cícero Pompeu de Toledo / Sao Paulo
+284,Avaí / SC,Vasco da Gama / RJ,04/10/2015,11:00,Aderbal Ramos da Silva / Florianópolis
+285,Flamengo / RJ,Joinville / SC,04/10/2015,11:00,Jornalista Mario Filho / Rio de Janeiro
+286,Santos / SP,Fluminense / RJ,04/10/2015,16:00,Urbano Caldeira / Santos
+287,Ponte Preta / SP,Corinthians / SP,04/10/2015,16:00,Moisés Lucarelli / Campinas
+288,Cruzeiro / MG,Grêmio / RS,04/10/2015,16:00,Governador Magalhães Pinto / Belo Horizonte
+289,Goiás / GO,Figueirense / SC,04/10/2015,16:00,Serra Dourada / Goiânia
+290,Chapecoense / SC,Palmeiras / SP,04/10/2015,18:30,Regional Indio Condá / Chapecó
+291,Athletico Paranaense / PR,Cruzeiro / MG,14/10/2015,22:00,Estádio Joaquim Américo Guimarães / Curitiba
+292,Sport / PE,Avaí / SC,14/10/2015,19:30,Adelmar da Costa Carvalho / Recife
+293,Palmeiras / SP,Ponte Preta / SP,14/10/2015,21:00,Allianz Parque / São Paulo
+294,Joinville / SC,Coritiba / PR,14/10/2015,21:00,Arena Joinville / Joinville
+295,Fluminense / RJ,São Paulo / SP,14/10/2015,22:00,Jornalista Mario Filho / Rio de Janeiro
+296,Atlético Mineiro / MG,Internacional / RS,14/10/2015,19:30,Raimundo Sampaio / Belo Horizonte
+297,Figueirense / SC,Flamengo / RJ,14/10/2015,21:00,Orlando Scarpelli / Florianopolis
+298,Corinthians / SP,Goiás / GO,15/10/2015,19:30,Arena Corinthians / Itaquera/Sao Paulo
+299,Vasco da Gama / RJ,Chapecoense / SC,15/10/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+300,Grêmio / RS,Santos / SP,15/10/2015,21:00,Arena do Grêmio / Porto Alegre
+301,Flamengo / RJ,Internacional / RS,18/10/2015,16:00,Jornalista Mario Filho / Rio de Janeiro
+302,Ponte Preta / SP,Coritiba / PR,18/10/2015,11:00,Moisés Lucarelli / Campinas
+303,Joinville / SC,Figueirense / SC,17/10/2015,21:00,Arena Joinville / Joinville
+304,Santos / SP,Goiás / GO,18/10/2015,17:00,Urbano Caldeira / Santos
+305,Grêmio / RS,Chapecoense / SC,18/10/2015,17:00,Arena do Grêmio / Porto Alegre
+306,Cruzeiro / MG,Fluminense / RJ,18/10/2015,11:00,Governador Magalhães Pinto / Belo Horizonte
+307,Athletico Paranaense / PR,Corinthians / SP,18/10/2015,16:00,Estádio Joaquim Américo Guimarães / Curitiba
+308,Sport / PE,Atlético Mineiro / MG,18/10/2015,18:30,Adelmar da Costa Carvalho / Recife
+309,São Paulo / SP,Vasco da Gama / RJ,18/10/2015,16:00,Cícero Pompeu de Toledo / Sao Paulo
+310,Avaí / SC,Palmeiras / SP,17/10/2015,18:30,Aderbal Ramos da Silva / Florianópolis
+311,Fluminense / RJ,Athletico Paranaense / PR,24/10/2015,17:00,Jornalista Mario Filho / Rio de Janeiro
+312,Figueirense / SC,Santos / SP,24/10/2015,18:30,Orlando Scarpelli / Florianopolis
+313,Internacional / RS,Joinville / SC,24/10/2015,18:30,José Pinheiro Borda / Porto Alegre
+314,Palmeiras / SP,Sport / PE,24/10/2015,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
+315,Corinthians / SP,Flamengo / RJ,25/10/2015,17:00,Arena Corinthians / Itaquera/Sao Paulo
+316,Vasco da Gama / RJ,Grêmio / RS,25/10/2015,17:00,Jornalista Mario Filho / Rio de Janeiro
+317,Coritiba / PR,São Paulo / SP,25/10/2015,17:00,Major Antônio do Couto Pereira / Curitiba
+318,Chapecoense / SC,Avaí / SC,25/10/2015,17:00,Regional Indio Condá / Chapecó
+319,Goiás / GO,Cruzeiro / MG,25/10/2015,18:00,Serra Dourada / Goiânia
+320,Atlético Mineiro / MG,Ponte Preta / SP,25/10/2015,19:30,Raimundo Sampaio / Belo Horizonte
+321,São Paulo / SP,Sport / PE,31/10/2015,17:00,Cícero Pompeu de Toledo / Sao Paulo
+322,Avaí / SC,Cruzeiro / MG,31/10/2015,19:30,Aderbal Ramos da Silva / Florianópolis
+323,Ponte Preta / SP,Joinville / SC,31/10/2015,19:30,Moisés Lucarelli / Campinas
+324,Coritiba / PR,Figueirense / SC,31/10/2015,21:00,Major Antônio do Couto Pereira / Curitiba
+325,Grêmio / RS,Flamengo / RJ,01/11/2015,17:00,Arena do Grêmio / Porto Alegre
+326,Atlético Mineiro / MG,Corinthians / SP,01/11/2015,17:00,Raimundo Sampaio / Belo Horizonte
+327,Santos / SP,Palmeiras / SP,01/11/2015,17:00,Urbano Caldeira / Santos
+328,Chapecoense / SC,Athletico Paranaense / PR,01/11/2015,17:00,Regional Indio Condá / Chapecó
+329,Vasco da Gama / RJ,Fluminense / RJ,01/11/2015,18:00,Estádio Olímpico João Havelange / Rio de Janeiro
+330,Goiás / GO,Internacional / RS,01/11/2015,19:30,Serra Dourada / Goiânia
+331,Internacional / RS,Ponte Preta / SP,07/11/2015,17:00,José Pinheiro Borda / Porto Alegre
+332,Corinthians / SP,Coritiba / PR,07/11/2015,19:30,Arena Corinthians / Itaquera/Sao Paulo
+333,Athletico Paranaense / PR,Avaí / SC,07/11/2015,19:30,Estádio Joaquim Américo Guimarães / Curitiba
+334,Fluminense / RJ,Chapecoense / SC,07/11/2015,21:00,Jornalista Mario Filho / Rio de Janeiro
+335,Palmeiras / SP,Vasco da Gama / RJ,08/11/2015,17:00,Allianz Parque / São Paulo
+336,Cruzeiro / MG,São Paulo / SP,08/11/2015,17:00,Governador Magalhães Pinto / Belo Horizonte
+337,Figueirense / SC,Atlético Mineiro / MG,08/11/2015,17:00,Orlando Scarpelli / Florianopolis
+338,Flamengo / RJ,Goiás / GO,08/11/2015,17:00,Jornalista Mario Filho / Rio de Janeiro
+339,Sport / PE,Grêmio / RS,08/11/2015,19:30,Adelmar da Costa Carvalho / Recife
+340,Joinville / SC,Santos / SP,08/11/2015,18:00,Arena Joinville / Joinville
+341,Cruzeiro / MG,Sport / PE,15/11/2015,17:00,Governador Magalhães Pinto / Belo Horizonte
+342,Athletico Paranaense / PR,Palmeiras / SP,18/11/2015,21:00,Estádio Joaquim Américo Guimarães / Curitiba
+343,Goiás / GO,Coritiba / PR,18/11/2015,19:30,Serra Dourada / Goiânia
+344,Ponte Preta / SP,Figueirense / SC,18/11/2015,21:00,Moisés Lucarelli / Campinas
+345,Avaí / SC,Joinville / SC,18/11/2015,21:00,Aderbal Ramos da Silva / Florianópolis
+346,São Paulo / SP,Atlético Mineiro / MG,19/11/2015,22:00,Cícero Pompeu de Toledo / Sao Paulo
+347,Santos / SP,Flamengo / RJ,19/11/2015,22:00,Urbano Caldeira / Santos
+348,Vasco da Gama / RJ,Corinthians / SP,19/11/2015,22:00,São Januário / Rio de Janeiro
+349,Chapecoense / SC,Internacional / RS,19/11/2015,19:30,Regional Indio Condá / Chapecó
+350,Grêmio / RS,Fluminense / RJ,19/11/2015,19:30,Arena do Grêmio / Porto Alegre
+351,Palmeiras / SP,Cruzeiro / MG,21/11/2015,19:30,Allianz Parque / São Paulo
+352,Joinville / SC,Vasco da Gama / RJ,22/11/2015,17:00,Arena Joinville / Joinville
+353,Corinthians / SP,São Paulo / SP,22/11/2015,17:00,Arena Corinthians / Itaquera/Sao Paulo
+354,Internacional / RS,Grêmio / RS,22/11/2015,17:00,José Pinheiro Borda / Porto Alegre
+355,Atlético Mineiro / MG,Goiás / GO,22/11/2015,17:00,Raimundo Sampaio / Belo Horizonte
+356,Figueirense / SC,Chapecoense / SC,22/11/2015,17:00,Orlando Scarpelli / Florianopolis
+357,Flamengo / RJ,Ponte Preta / SP,22/11/2015,18:00,Estádio Nacional Mané Garrincha / Brasilia
+358,Sport / PE,Athletico Paranaense / PR,22/11/2015,19:30,Adelmar da Costa Carvalho / Recife
+359,Fluminense / RJ,Avaí / SC,22/11/2015,19:30,Kleber Andrade / Cariacica
+360,Coritiba / PR,Santos / SP,22/11/2015,19:30,Major Antônio do Couto Pereira / Curitiba
+361,São Paulo / SP,Figueirense / SC,28/11/2015,17:00,Cícero Pompeu de Toledo / Sao Paulo
+362,Fluminense / RJ,Internacional / RS,28/11/2015,19:30,Jornalista Mario Filho / Rio de Janeiro
+363,Avaí / SC,Ponte Preta / SP,28/11/2015,21:00,Aderbal Ramos da Silva / Florianópolis
+364,Sport / PE,Corinthians / SP,29/11/2015,17:00,Arena Pernambuco / São Lourenço da Mata
+365,Grêmio / RS,Atlético Mineiro / MG,29/11/2015,17:00,Arena do Grêmio / Porto Alegre
+366,Cruzeiro / MG,Joinville / SC,29/11/2015,17:00,Governador Magalhães Pinto / Belo Horizonte
+367,Vasco da Gama / RJ,Santos / SP,29/11/2015,17:00,São Januário / Rio de Janeiro
+368,Palmeiras / SP,Coritiba / PR,29/11/2015,18:00,Allianz Parque / São Paulo
+369,Chapecoense / SC,Goiás / GO,29/11/2015,18:00,Regional Indio Condá / Chapecó
+370,Athletico Paranaense / PR,Flamengo / RJ,29/11/2015,19:30,Estádio Joaquim Américo Guimarães / Curitiba
+371,Corinthians / SP,Avaí / SC,06/12/2015,17:00,Arena Corinthians / Itaquera/Sao Paulo
+372,Santos / SP,Athletico Paranaense / PR,06/12/2015,17:00,Urbano Caldeira / Santos
+373,Ponte Preta / SP,Sport / PE,06/12/2015,17:00,Moisés Lucarelli / Campinas
+374,Flamengo / RJ,Palmeiras / SP,06/12/2015,17:00,Jornalista Mario Filho / Rio de Janeiro
+375,Internacional / RS,Cruzeiro / MG,06/12/2015,17:00,José Pinheiro Borda / Porto Alegre
+376,Atlético Mineiro / MG,Chapecoense / SC,06/12/2015,17:00,Governador Magalhães Pinto / Belo Horizonte
+377,Figueirense / SC,Fluminense / RJ,06/12/2015,17:00,Orlando Scarpelli / Florianopolis
+378,Coritiba / PR,Vasco da Gama / RJ,06/12/2015,17:00,Major Antônio do Couto Pereira / Curitiba
+379,Goiás / GO,São Paulo / SP,06/12/2015,17:00,Serra Dourada / Goiânia
+380,Joinville / SC,Grêmio / RS,06/12/2015,17:00,Arena Joinville / Joinville

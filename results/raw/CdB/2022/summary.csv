@@ -1,123 +1,123 @@
-Game,Home,Away
-001,Moto Club / MA,Chapecoense / SC
-002,Icasa / CE,Tombense / MG
-003,Bahia de Feira / BA,Coritiba / PR
-004,Pouso Alegre / MG,Paraná / PR
-005,Mirassol / SP,Grêmio / RS
-006,Azuriz / PR,Botafogo / SP
-007,URT / MG,Avaí / SC
-008,Ceilândia / DF,Londrina / PR
-009,União de Rondonópolis / MT,Atlético / GO
-010,Nova Venecia / ES,Ferroviário / CE
-011,Porto Velho / RO,Juventude / RS
-012,Real Noroeste / ES,Operário / PR
-013,Ferroviária / SP,Vasco da Gama / RJ
-014,Gremio Anapolis / GO,Juazeirense / BA
-015,Atlético / BA,CSA / AL
-016,Trem / AP,Paysandu / PA
-017,São Raimundo / RR,Ceará / CE
-018,Tuna Luso / PA,Novorizontino / SP
-019,ASA / AL,Cuiabá / MT
-020,Lagarto / SE,Figueirense / SC
-021,Altos / PI,Sport / PE
-022,Costa Rica / MS,ABC / RN
-023,Sousa / PB,Goiás / GO
-024,Nova Iguaçu / RJ,Criciúma / SC
-025,Globo / RN,Internacional / RS
-026,Humaitá / AC,Brasiliense / DF
-027,Rio Branco / AC,Vila Nova / GO
-028,Marica / RJ,Guarani / SP
-029,Sergipe / SE,Cruzeiro / MG
-030,Tuntum / MA,Volta Redonda / RJ
-031,Portuguesa / RJ,CRB / AL
-032,Operário / MT,Sampaio Corrêa / MA
-033,Campinense / PB,São Paulo / SP
-034,São Raimundo / AM,Manaus / AM
-035,Cascavel / PR,Ponte Preta / SP
-036,Tocantinópolis / TO,Náutico / PE
-037,Salgueiro / PE,Santos / SP
-038,Fluminense / PI,Oeste / SP
-039,Castanhal / PA,Vitória / BA
-040,Gloria / RS,Brasil / RS
-041,Figueirense / SC,Cuiabá / MT
-042,Fluminense / PI,Santos / SP
-043,Azuriz / PR,Mirassol / SP
-044,Vitória / BA,Gloria / RS
-045,Juazeirense / BA,Vasco da Gama / RJ
-046,Pouso Alegre / MG,Coritiba / PR
-047,Avaí / SC,Ceilândia / DF
-048,Portuguesa / RJ,Sampaio Corrêa / MA
-049,Atlético / GO,Nova Venecia / ES
-050,Ceará / CE,Tuna Luso / PA
-051,Guarani / SP,Vila Nova / GO
-052,ABC / RN,Altos / PI
-053,Globo / RN,Brasiliense / DF
-054,Tuntum / MA,Cruzeiro / MG
-055,Tocantinópolis / TO,Cascavel / PR
-056,CSA / AL,Paysandu / PA
-057,São Paulo / SP,Manaus / AM
-058,Moto Club / MA,Tombense / MG
-059,Real Noroeste / ES,Juventude / RS
-060,Goiás / GO,Criciúma / SC
-061,Bahia / BA,Azuriz / PR
-062,CSA / AL,América / MG
-063,Fluminense / RJ,Vila Nova / GO
-064,Remo / PA,Cruzeiro / MG
-065,Goiás / GO,Red Bull Bragantino / SP
-066,Atlético Mineiro / MG,Brasiliense / DF
-067,Fortaleza / CE,Vitória / BA
-068,Tocantinópolis / TO,Athletico Paranaense / PR
-069,Juventude / RS,São Paulo / SP
-070,Coritiba / PR,Santos / SP
-071,Tombense / MG,Ceará / CE
-072,Portuguesa / RJ,Corinthians / SP
-073,Ceilândia / DF,Botafogo / RJ
-074,Atlético / GO,Cuiabá / MT
-075,Palmeiras / SP,Juazeirense / BA
-076,Altos / PI,Flamengo / RJ
-077,América / MG,CSA / AL
-078,Azuriz / PR,Bahia / BA
-079,Athletico Paranaense / PR,Tocantinópolis / TO
-080,Ceará / CE,Tombense / MG
-081,Juazeirense / BA,Palmeiras / SP
-082,Cruzeiro / MG,Remo / PA
-083,Vila Nova / GO,Fluminense / RJ
-084,Corinthians / SP,Portuguesa / RJ
-085,Cuiabá / MT,Atlético / GO
-086,Vitória / BA,Fortaleza / CE
-087,São Paulo / SP,Juventude / RS
-088,Botafogo / RJ,Ceilândia / DF
-089,Santos / SP,Coritiba / PR
-090,Red Bull Bragantino / SP,Goiás / GO
-091,Flamengo / RJ,Altos / PI
-092,Brasiliense / DF,Atlético Mineiro / MG
-093,Corinthians / SP,Santos / SP
-094,São Paulo / SP,Palmeiras / SP
-095,Bahia / BA,Athletico Paranaense / PR
-096,Atlético / GO,Goiás / GO
-097,Fortaleza / CE,Ceará / CE
-098,Fluminense / RJ,Cruzeiro / MG
-099,América / MG,Botafogo / RJ
-100,Atlético Mineiro / MG,Flamengo / RJ
-101,Santos / SP,Corinthians / SP
-102,Palmeiras / SP,São Paulo / SP
-103,Athletico Paranaense / PR,Bahia / BA
-104,Goiás / GO,Atlético / GO
-105,Ceará / CE,Fortaleza / CE
-106,Cruzeiro / MG,Fluminense / RJ
-107,Botafogo / RJ,América / MG
-108,Flamengo / RJ,Atlético Mineiro / MG
-109,Atlético / GO,Corinthians / SP
-110,Flamengo / RJ,Athletico Paranaense / PR
-111,São Paulo / SP,América / MG
-112,Fortaleza / CE,Fluminense / RJ
-113,Fluminense / RJ,Fortaleza / CE
-114,Corinthians / SP,Atlético / GO
-115,Athletico Paranaense / PR,Flamengo / RJ
-116,América / MG,São Paulo / SP
-117,Fluminense / RJ,Corinthians / SP
-118,São Paulo / SP,Flamengo / RJ
-119,Flamengo / RJ,São Paulo / SP
-120,Corinthians / SP,Fluminense / RJ
-121,Corinthians / SP,Flamengo / RJ
-122,Flamengo / RJ,Corinthians / SP
+Game,Home,Away,Date,Time,Stadium
+001,Moto Club / MA,Chapecoense / SC,01/03/2022,19:00,Governador João Castelo / Sao Luis
+002,Icasa / CE,Tombense / MG,01/03/2022,15:30,Antônio Lírio Callou / Barbalha
+003,Bahia de Feira / BA,Coritiba / PR,24/02/2022,19:00,Professor Jodilton Souza   / Feira de Santana
+004,Pouso Alegre / MG,Paraná / PR,01/03/2022,19:00,Irmão Gino Maria Rossi / Pouso Alegre
+005,Mirassol / SP,Grêmio / RS,01/03/2022,21:30,José Maria de Campos Maia / Mirassol
+006,Azuriz / PR,Botafogo / SP,23/02/2022,19:00,Os Pioneiros / Pato Branco
+007,URT / MG,Avaí / SC,22/02/2022,19:00,Zama Maciel / Patos de Minas
+008,Ceilândia / DF,Londrina / PR,02/03/2022,15:30,Abadião / Ceilândia
+009,União de Rondonópolis / MT,Atlético / GO,03/03/2022,19:00,Luthero Lopes / Rondonopolis
+010,Nova Venecia / ES,Ferroviário / CE,03/03/2022,15:30,Zenor Pedrosa Rocha / Nova Venecia
+011,Porto Velho / RO,Juventude / RS,02/03/2022,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+012,Real Noroeste / ES,Operário / PR,02/03/2022,19:00,José Olimpio da Rocha / Aguia Branca
+013,Ferroviária / SP,Vasco da Gama / RJ,02/03/2022,21:30,Ademar Pereira de Barros / Araraquara
+014,Gremio Anapolis / GO,Juazeirense / BA,02/03/2022,20:30,Jonas Ferreira Duarte / Anapolis
+015,Atlético / BA,CSA / AL,23/02/2022,21:30,Antônio Carneiro / Alagoinhas
+016,Trem / AP,Paysandu / PA,02/03/2022,20:30,Milton de Souza Correia / Macapa
+017,São Raimundo / RR,Ceará / CE,02/03/2022,19:00,Flamarion Vasconcelos / Boa Vista
+018,Tuna Luso / PA,Novorizontino / SP,02/03/2022,15:30,Evandro Almeida / Belem
+019,ASA / AL,Cuiabá / MT,23/02/2022,19:00,Coaracy da Mata Fonseca / Arapiraca
+020,Lagarto / SE,Figueirense / SC,22/02/2022,16:30,Paulo Barreto de Menezes / Lagarto
+021,Altos / PI,Sport / PE,02/03/2022,19:00,Lindolfo Monteiro / Teresina
+022,Costa Rica / MS,ABC / RN,02/03/2022,21:00,Laerte Paes Coelho / Costa Rica
+023,Sousa / PB,Goiás / GO,01/03/2022,21:30,Antônio Mariz / Sousa
+024,Nova Iguaçu / RJ,Criciúma / SC,24/02/2022,15:30,Jânio Moraes / Nova Iguacu
+025,Globo / RN,Internacional / RS,03/03/2022,21:30,Manoel Dantas Barretto / Ceara-Mirim
+026,Humaitá / AC,Brasiliense / DF,23/02/2022,22:00,Antonio Aquino Lopes / Rio Branco
+027,Rio Branco / AC,Vila Nova / GO,02/03/2022,20:00,Antonio Aquino Lopes / Rio Branco
+028,Marica / RJ,Guarani / SP,01/03/2022,16:00,Elcyr Resende de Mendonça / Saquarema
+029,Sergipe / SE,Cruzeiro / MG,23/02/2022,21:30,Lourival Baptista / Aracaju
+030,Tuntum / MA,Volta Redonda / RJ,23/02/2022,15:30,Rafael Seabra / Tuntum
+031,Portuguesa / RJ,CRB / AL,02/03/2022,21:30,Luso Brasileiro / Rio de Janeiro
+032,Operário / MT,Sampaio Corrêa / MA,02/03/2022,16:30,Benedito Laurindo de Souza / Varzea Grande
+033,Campinense / PB,São Paulo / SP,24/02/2022,21:30,Ernani Sátyro / Campina Grande
+034,São Raimundo / AM,Manaus / AM,24/02/2022,16:30,Ismael Benigno / Manaus
+035,Cascavel / PR,Ponte Preta / SP,22/02/2022,21:30,Arnaldo Busatto / Cascavel
+036,Tocantinópolis / TO,Náutico / PE,23/02/2022,20:30,João Ribeiro / Tocantinopolis
+037,Salgueiro / PE,Santos / SP,23/02/2022,19:00,Cornélio de Barros Muniz / Salgueiro
+038,Fluminense / PI,Oeste / SP,24/02/2022,15:30,Governador Alberto Silva / Teresina
+039,Castanhal / PA,Vitória / BA,03/03/2022,20:30,Leônidas Sobré de Castro / Belem
+040,Gloria / RS,Brasil / RS,23/02/2022,20:00,Altos da Glória / Vacaria
+041,Figueirense / SC,Cuiabá / MT,08/03/2022,21:30,Orlando Scarpelli / Florianopolis
+042,Fluminense / PI,Santos / SP,08/03/2022,21:30,Governador Alberto Silva / Teresina
+043,Azuriz / PR,Mirassol / SP,09/03/2022,19:00,Os Pioneiros / Pato Branco
+044,Vitória / BA,Gloria / RS,23/03/2022,21:30,Manoel Barradas / Salvador
+045,Juazeirense / BA,Vasco da Gama / RJ,09/03/2022,21:30,Adauto Moraes / Juazeiro
+046,Pouso Alegre / MG,Coritiba / PR,10/03/2022,21:30,Irmão Gino Maria Rossi / Pouso Alegre
+047,Avaí / SC,Ceilândia / DF,10/03/2022,21:30,Aderbal Ramos da Silva / Florianopolis
+048,Portuguesa / RJ,Sampaio Corrêa / MA,15/03/2022,16:00,Luso Brasileiro / Rio de Janeiro
+049,Atlético / GO,Nova Venecia / ES,15/03/2022,19:00,Antônio Accioly / Goiania
+050,Ceará / CE,Tuna Luso / PA,15/03/2022,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+051,Guarani / SP,Vila Nova / GO,15/03/2022,21:30,Brinco de Ouro da Princesa / Campinas
+052,ABC / RN,Altos / PI,16/03/2022,16:00,Maria Lamas Farache / Natal
+053,Globo / RN,Brasiliense / DF,16/03/2022,20:30,Manoel Dantas Barretto / Ceara-Mirim
+054,Tuntum / MA,Cruzeiro / MG,16/03/2022,20:30,Rafael Seabra / Tuntum
+055,Tocantinópolis / TO,Cascavel / PR,16/03/2022,20:30,João Ribeiro / Tocantinopolis
+056,CSA / AL,Paysandu / PA,16/03/2022,21:30,Rei Pelé / Maceio
+057,São Paulo / SP,Manaus / AM,16/03/2022,21:30,Cícero Pompeu de Toledo / Sao Paulo
+058,Moto Club / MA,Tombense / MG,16/03/2022,19:00,Nhozinho Santos / Sao Luis
+059,Real Noroeste / ES,Juventude / RS,17/03/2022,19:00,José Olimpio da Rocha / Aguia Branca
+060,Goiás / GO,Criciúma / SC,17/03/2022,21:30,Hailé Pinheiro / Goiania
+061,Bahia / BA,Azuriz / PR,19/04/2022,19:30,Octávio Mangabeira / Salvador
+062,CSA / AL,América / MG,19/04/2022,19:00,Rei Pelé / Maceio
+063,Fluminense / RJ,Vila Nova / GO,19/04/2022,21:30,Jornalista Mário Filho / Rio de Janeiro
+064,Remo / PA,Cruzeiro / MG,19/04/2022,21:30,Evandro Almeida / Belem
+065,Goiás / GO,Red Bull Bragantino / SP,20/04/2022,19:00,Hailé Pinheiro / Goiania
+066,Atlético Mineiro / MG,Brasiliense / DF,20/04/2022,19:00,Magalhães Pinto / Belo Horizonte
+067,Fortaleza / CE,Vitória / BA,20/04/2022,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+068,Tocantinópolis / TO,Athletico Paranaense / PR,20/04/2022,19:00,João Ribeiro / Tocantinopolis
+069,Juventude / RS,São Paulo / SP,20/04/2022,19:30,Alfredo Jaconi / Caxias do Sul
+070,Coritiba / PR,Santos / SP,20/04/2022,19:30,Major Antônio Couto Pereira / Curitiba
+071,Tombense / MG,Ceará / CE,20/04/2022,21:30,Soares de Azevedo / Muriae
+072,Portuguesa / RJ,Corinthians / SP,20/04/2022,21:30,Jacy Scaff / Londrina
+073,Ceilândia / DF,Botafogo / RJ,20/04/2022,21:30,Estádio Nacional Mané Garrincha / Brasilia
+074,Atlético / GO,Cuiabá / MT,21/04/2022,21:30,Antônio Accioly / Goiania
+075,Palmeiras / SP,Juazeirense / BA,30/04/2022,21:00,Arena Barueri / Barueri
+076,Altos / PI,Flamengo / RJ,01/05/2022,18:00,Governador Alberto Silva / Teresina
+077,América / MG,CSA / AL,10/05/2022,19:00,Raimundo Sampaio / Belo Horizonte
+078,Azuriz / PR,Bahia / BA,10/05/2022,20:30,Os Pioneiros / Pato Branco
+079,Athletico Paranaense / PR,Tocantinópolis / TO,10/05/2022,21:30,Joaquim Américo Guimarães / Curitiba
+080,Ceará / CE,Tombense / MG,11/05/2022,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+081,Juazeirense / BA,Palmeiras / SP,11/05/2022,19:00,Jacy Scaff / Londrina
+082,Cruzeiro / MG,Remo / PA,12/05/2022,19:30,Raimundo Sampaio / Belo Horizonte
+083,Vila Nova / GO,Fluminense / RJ,11/05/2022,21:30,Serra Dourada / Goiania
+084,Corinthians / SP,Portuguesa / RJ,11/05/2022,21:30,Arena Corinthians / Sao Paulo
+085,Cuiabá / MT,Atlético / GO,11/05/2022,22:00,Arena Pantanal / Cuiaba
+086,Vitória / BA,Fortaleza / CE,12/05/2022,19:00,Manoel Barradas / Salvador
+087,São Paulo / SP,Juventude / RS,12/05/2022,19:30,Arena Barueri / Barueri
+088,Botafogo / RJ,Ceilândia / DF,12/05/2022,21:30,Nilton Santos / Rio de Janeiro
+089,Santos / SP,Coritiba / PR,12/05/2022,21:30,Urbano Caldeira / Santos
+090,Red Bull Bragantino / SP,Goiás / GO,31/05/2022,21:30,Nabi Abi Chedid / Braganca Paulista
+091,Flamengo / RJ,Altos / PI,11/05/2022,19:30,Sylvio Raulino de Oliveira / Volta Redonda
+092,Brasiliense / DF,Atlético Mineiro / MG,22/05/2022,19:00,Kleber José de Andrade / Cariacica
+093,Corinthians / SP,Santos / SP,22/06/2022,21:30,Arena Corinthians / Sao Paulo
+094,São Paulo / SP,Palmeiras / SP,23/06/2022,20:00,Cícero Pompeu de Toledo / Sao Paulo
+095,Bahia / BA,Athletico Paranaense / PR,22/06/2022,19:30,Octávio Mangabeira / Salvador
+096,Atlético / GO,Goiás / GO,22/06/2022,19:00,Antônio Accioly / Goiania
+097,Fortaleza / CE,Ceará / CE,22/06/2022,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+098,Fluminense / RJ,Cruzeiro / MG,23/06/2022,19:00,Jornalista Mário Filho / Rio de Janeiro
+099,América / MG,Botafogo / RJ,30/06/2022,19:00,Raimundo Sampaio / Belo Horizonte
+100,Atlético Mineiro / MG,Flamengo / RJ,22/06/2022,21:30,Magalhães Pinto / Belo Horizonte
+101,Santos / SP,Corinthians / SP,13/07/2022,21:30,Urbano Caldeira / Santos
+102,Palmeiras / SP,São Paulo / SP,14/07/2022,20:00,Allianz Parque / Sao Paulo
+103,Athletico Paranaense / PR,Bahia / BA,12/07/2022,20:30,Joaquim Américo Guimarães / Curitiba
+104,Goiás / GO,Atlético / GO,13/07/2022,19:00,Hailé Pinheiro / Goiania
+105,Ceará / CE,Fortaleza / CE,13/07/2022,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+106,Cruzeiro / MG,Fluminense / RJ,12/07/2022,21:00,Magalhães Pinto / Belo Horizonte
+107,Botafogo / RJ,América / MG,14/07/2022,21:00,Nilton Santos / Rio de Janeiro
+108,Flamengo / RJ,Atlético Mineiro / MG,13/07/2022,21:30,Jornalista Mário Filho / Rio de Janeiro
+109,Atlético / GO,Corinthians / SP,27/07/2022,21:30,Antônio Accioly / Goiania
+110,Flamengo / RJ,Athletico Paranaense / PR,27/07/2022,21:30,Jornalista Mário Filho / Rio de Janeiro
+111,São Paulo / SP,América / MG,28/07/2022,20:00,Cícero Pompeu de Toledo / Sao Paulo
+112,Fortaleza / CE,Fluminense / RJ,28/07/2022,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+113,Fluminense / RJ,Fortaleza / CE,17/08/2022,20:00,Jornalista Mário Filho / Rio de Janeiro
+114,Corinthians / SP,Atlético / GO,17/08/2022,21:30,Arena Corinthians / Sao Paulo
+115,Athletico Paranaense / PR,Flamengo / RJ,17/08/2022,21:30,Joaquim Américo Guimarães / Curitiba
+116,América / MG,São Paulo / SP,18/08/2022,21:00,Raimundo Sampaio / Belo Horizonte
+117,Fluminense / RJ,Corinthians / SP,24/08/2022,19:30,Jornalista Mário Filho / Rio de Janeiro
+118,São Paulo / SP,Flamengo / RJ,24/08/2022,21:30,Cícero Pompeu de Toledo / Sao Paulo
+119,Flamengo / RJ,São Paulo / SP,14/09/2022,21:45,Jornalista Mário Filho / Rio de Janeiro
+120,Corinthians / SP,Fluminense / RJ,15/09/2022,20:00,Arena Corinthians / Sao Paulo
+121,Corinthians / SP,Flamengo / RJ,12/10/2022,21:45,Arena Corinthians / Sao Paulo
+122,Flamengo / RJ,Corinthians / SP,19/10/2022,21:45,Jornalista Mário Filho / Rio de Janeiro

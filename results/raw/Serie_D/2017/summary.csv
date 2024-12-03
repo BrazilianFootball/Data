@@ -1,267 +1,267 @@
-Game,Home,Away
-001,Trem / AP,Atlético / AC
-002,Princesa do Solimões / AM,Real Desportivo / RO
-003,São Raimundo / PA,Gurupi / TO
-004,Bare / RR,Fast Clube / AM
-005,Rio Branco / AC,São Raimundo / RR
-006,Genus / RO,S. Francisco / PA
-007,Tocantins / TO,Altos / PI
-008,Cordino / MA,Santos / AP
-009,Ríver / PI,Guarany / CE
-010,Potiguar / RN,Maranhão / MA
-011,Guarani / CE,América / PE
-012,Parnahyba / PI,Globo / RN
-013,Coruripe / AL,Juazeirense / BA
-014,Sousa / PB,Central / PE
-015,Itabaiana / SE,Fluminense de Feira / BA
-016,Atlético / PE,Campinense / PB
-017,América / RN,Murici / AL
-018,Jacobina / BA,Sergipe / SE
-019,Comercial / MS,Sinop / MT
-020,Ceilândia / DF,Anápolis / GO
-021,União de Rondonópolis / MT,7 de Setembro / MS
-022,Portuguesa / RJ,URT / MG
-023,Itumbiara / GO,Audax / SP
-024,Villa Nova / MG,Bangu / RJ
-025,Portuguesa / SP,Desportiva / ES
-026,Espirito Santo / ES,Red Bull Brasil / SP
-027,Caldense / MG,Boavista / RJ
-028,Operário / PR,Brusque / SC
-029,XV de Piracicaba / SP,São Paulo / RS
-030,Novo Hamburgo / RS,Sao Bernardo / SP
-031,Internacional / SC,Foz do Iguaçu / PR
-032,Ituano / SP,São José / RS
-033,Metropolitano / SC,PSTC / PR
-034,Aparecidense / GO,Luziânia / DF
-035,Altos / PI,Cordino / MA
-036,Juazeirense / BA,Sousa / PB
-037,Anápolis / GO,Comercial / MS
-038,Luziânia / DF,União de Rondonópolis / MT
-039,Bangu / RJ,Portuguesa / SP
-040,Desportiva / ES,Villa Nova / MG
-041,Boavista / RJ,Espirito Santo / ES
-042,Red Bull Brasil / SP,Caldense / MG
-043,Brusque / SC,XV de Piracicaba / SP
-044,Sao Bernardo / SP,Internacional / SC
-045,São José / RS,Metropolitano / SC
-046,Atlético / AC,Princesa do Solimões / AM
-047,Real Desportivo / RO,Trem / AP
-048,Gurupi / TO,Bare / RR
-049,Fast Clube / AM,São Raimundo / PA
-050,São Raimundo / RR,Genus / RO
-051,S. Francisco / PA,Rio Branco / AC
-052,Santos / AP,Tocantins / TO
-053,Maranhão / MA,Ríver / PI
-054,Guarany / CE,Potiguar / RN
-055,América / PE,Parnahyba / PI
-056,Globo / RN,Guarani / CE
-057,Central / PE,Coruripe / AL
-058,Fluminense de Feira / BA,Atlético / PE
-059,Campinense / PB,Itabaiana / SE
-060,Murici / AL,Jacobina / BA
-061,Sergipe / SE,América / RN
-062,Sinop / MT,Ceilândia / DF
-063,7 de Setembro / MS,Aparecidense / GO
-064,Audax / SP,Portuguesa / RJ
-065,URT / MG,Itumbiara / GO
-066,São Paulo / RS,Operário / PR
-067,Foz do Iguaçu / PR,Novo Hamburgo / RS
-068,PSTC / PR,Ituano / SP
-069,Altos / PI,Santos / AP
-070,Itabaiana / SE,Atlético / PE
-071,Luziânia / DF,7 de Setembro / MS
-072,Espirito Santo / ES,Caldense / MG
-073,Red Bull Brasil / SP,Boavista / RJ
-074,Sao Bernardo / SP,Foz do Iguaçu / PR
-075,Metropolitano / SC,Ituano / SP
-076,Atlético / AC,Real Desportivo / RO
-077,Fast Clube / AM,Gurupi / TO
-078,Bare / RR,São Raimundo / PA
-079,S. Francisco / PA,São Raimundo / RR
-080,Genus / RO,Rio Branco / AC
-081,Tocantins / TO,Cordino / MA
-082,Maranhão / MA,Guarany / CE
-083,Potiguar / RN,Ríver / PI
-084,América / PE,Globo / RN
-085,Guarani / CE,Parnahyba / PI
-086,Central / PE,Juazeirense / BA
-087,Sousa / PB,Coruripe / AL
-088,Fluminense de Feira / BA,Campinense / PB
-089,Murici / AL,Sergipe / SE
-090,América / RN,Jacobina / BA
-091,Sinop / MT,Anápolis / GO
-092,Comercial / MS,Ceilândia / DF
-093,Audax / SP,URT / MG
-094,Itumbiara / GO,Portuguesa / RJ
-095,Bangu / RJ,Desportiva / ES
-096,Villa Nova / MG,Portuguesa / SP
-097,Brusque / SC,São Paulo / RS
-098,Operário / PR,XV de Piracicaba / SP
-099,Novo Hamburgo / RS,Internacional / SC
-100,PSTC / PR,São José / RS
-101,Trem / AP,Princesa do Solimões / AM
-102,Aparecidense / GO,União de Rondonópolis / MT
-103,XV de Piracicaba / SP,Operário / PR
-104,Princesa do Solimões / AM,Trem / AP
-105,Juazeirense / BA,Central / PE
-106,Sergipe / SE,Murici / AL
-107,Ceilândia / DF,Comercial / MS
-108,Anápolis / GO,Sinop / MT
-109,Portuguesa / RJ,Itumbiara / GO
-110,Portuguesa / SP,Villa Nova / MG
-111,Boavista / RJ,Red Bull Brasil / SP
-112,Ituano / SP,Metropolitano / SC
-113,Real Desportivo / RO,Atlético / AC
-114,São Raimundo / PA,Bare / RR
-115,Gurupi / TO,Fast Clube / AM
-116,São Raimundo / RR,S. Francisco / PA
-117,Rio Branco / AC,Genus / RO
-118,Cordino / MA,Tocantins / TO
-119,Santos / AP,Altos / PI
-120,Ríver / PI,Potiguar / RN
-121,Guarany / CE,Maranhão / MA
-122,Parnahyba / PI,Guarani / CE
-123,Globo / RN,América / PE
-124,Coruripe / AL,Sousa / PB
-125,Atlético / PE,Itabaiana / SE
-126,Campinense / PB,Fluminense de Feira / BA
-127,Jacobina / BA,América / RN
-128,7 de Setembro / MS,Luziânia / DF
-129,União de Rondonópolis / MT,Aparecidense / GO
-130,URT / MG,Audax / SP
-131,Desportiva / ES,Bangu / RJ
-132,Caldense / MG,Espirito Santo / ES
-133,São Paulo / RS,Brusque / SC
-134,Internacional / SC,Novo Hamburgo / RS
-135,Foz do Iguaçu / PR,Sao Bernardo / SP
-136,São José / RS,PSTC / PR
-137,XV de Piracicaba / SP,Brusque / SC
-138,Princesa do Solimões / AM,Atlético / AC
-139,Itabaiana / SE,Campinense / PB
-140,Ceilândia / DF,Sinop / MT
-141,Portuguesa / RJ,Audax / SP
-142,Espirito Santo / ES,Boavista / RJ
-143,Ituano / SP,PSTC / PR
-144,Metropolitano / SC,São José / RS
-145,São Raimundo / PA,Fast Clube / AM
-146,Bare / RR,Gurupi / TO
-147,Rio Branco / AC,S. Francisco / PA
-148,Genus / RO,São Raimundo / RR
-149,Cordino / MA,Altos / PI
-150,Tocantins / TO,Santos / AP
-151,Ríver / PI,Maranhão / MA
-152,Potiguar / RN,Guarany / CE
-153,Parnahyba / PI,América / PE
-154,Guarani / CE,Globo / RN
-155,Coruripe / AL,Central / PE
-156,Sousa / PB,Juazeirense / BA
-157,Atlético / PE,Fluminense de Feira / BA
-158,Jacobina / BA,Murici / AL
-159,América / RN,Sergipe / SE
-160,Comercial / MS,Anápolis / GO
-161,União de Rondonópolis / MT,Luziânia / DF
-162,Itumbiara / GO,URT / MG
-163,Villa Nova / MG,Desportiva / ES
-164,Portuguesa / SP,Bangu / RJ
-165,Caldense / MG,Red Bull Brasil / SP
-166,Operário / PR,São Paulo / RS
-167,Internacional / SC,Sao Bernardo / SP
-168,Novo Hamburgo / RS,Foz do Iguaçu / PR
-169,Trem / AP,Real Desportivo / RO
-170,Aparecidense / GO,7 de Setembro / MS
-171,Atlético / AC,Trem / AP
-172,Real Desportivo / RO,Princesa do Solimões / AM
-173,Fast Clube / AM,Bare / RR
-174,Gurupi / TO,São Raimundo / PA
-175,S. Francisco / PA,Genus / RO
-176,São Raimundo / RR,Rio Branco / AC
-177,Altos / PI,Tocantins / TO
-178,Santos / AP,Cordino / MA
-179,Maranhão / MA,Potiguar / RN
-180,Guarany / CE,Ríver / PI
-181,América / PE,Guarani / CE
-182,Globo / RN,Parnahyba / PI
-183,Central / PE,Sousa / PB
-184,Juazeirense / BA,Coruripe / AL
-185,Fluminense de Feira / BA,Itabaiana / SE
-186,Campinense / PB,Atlético / PE
-187,Murici / AL,América / RN
-188,Sergipe / SE,Jacobina / BA
-189,Sinop / MT,Comercial / MS
-190,Anápolis / GO,Ceilândia / DF
-191,Luziânia / DF,Aparecidense / GO
-192,7 de Setembro / MS,União de Rondonópolis / MT
-193,Audax / SP,Itumbiara / GO
-194,URT / MG,Portuguesa / RJ
-195,Bangu / RJ,Villa Nova / MG
-196,Desportiva / ES,Portuguesa / SP
-197,Red Bull Brasil / SP,Espirito Santo / ES
-198,Boavista / RJ,Caldense / MG
-199,Brusque / SC,Operário / PR
-200,São Paulo / RS,XV de Piracicaba / SP
-201,Sao Bernardo / SP,Novo Hamburgo / RS
-202,Foz do Iguaçu / PR,Internacional / SC
-203,PSTC / PR,Metropolitano / SC
-204,São José / RS,Ituano / SP
-205,URT / MG,Portuguesa / RJ
-206,Brusque / SC,São José / RS
-207,Desportiva / ES,Operário / PR
-208,Altos / PI,Santos / AP
-209,Metropolitano / SC,Sao Bernardo / SP
-210,Aparecidense / GO,América / RN
-211,Maranhão / MA,Rio Branco / AC
-212,Sousa / PB,Guarany / CE
-213,Parnahyba / PI,Globo / RN
-214,Jacobina / BA,Juazeirense / BA
-215,Comercial / MS,Ceilândia / DF
-216,Villa Nova / MG,União de Rondonópolis / MT
-217,Espirito Santo / ES,Boavista / RJ
-218,Princesa do Solimões / AM,Gurupi / TO
-219,Campinense / PB,Fluminense de Feira / BA
-220,S. Francisco / PA,Atlético / AC
-221,Boavista / RJ,Espirito Santo / ES
-222,Sao Bernardo / SP,Metropolitano / SC
-223,São José / RS,Brusque / SC
-224,Ceilândia / DF,Comercial / MS
-225,América / RN,Aparecidense / GO
-226,Juazeirense / BA,Jacobina / BA
-227,Atlético / AC,S. Francisco / PA
-228,Portuguesa / RJ,URT / MG
-229,Operário / PR,Desportiva / ES
-230,Fluminense de Feira / BA,Campinense / PB
-231,Santos / AP,Altos / PI
-232,Globo / RN,Parnahyba / PI
-233,Gurupi / TO,Princesa do Solimões / AM
-234,Rio Branco / AC,Maranhão / MA
-235,Guarany / CE,Sousa / PB
-236,União de Rondonópolis / MT,Villa Nova / MG
-237,São José / RS,Sao Bernardo / SP
-238,Ceilândia / DF,América / RN
-239,Espirito Santo / ES,Operário / PR
-240,Maranhão / MA,Santos / AP
-241,Guarany / CE,Globo / RN
-242,Fluminense de Feira / BA,Juazeirense / BA
-243,URT / MG,Villa Nova / MG
-244,Gurupi / TO,Atlético / AC
-245,América / RN,Ceilândia / DF
-246,Sao Bernardo / SP,São José / RS
-247,Juazeirense / BA,Fluminense de Feira / BA
-248,Operário / PR,Espirito Santo / ES
-249,Villa Nova / MG,URT / MG
-250,Santos / AP,Maranhão / MA
-251,Globo / RN,Guarany / CE
-252,Atlético / AC,Gurupi / TO
-253,São José / RS,Atlético / AC
-254,Juazeirense / BA,América / RN
-255,URT / MG,Globo / RN
-256,Maranhão / MA,Operário / PR
-257,Globo / RN,URT / MG
-258,América / RN,Juazeirense / BA
-259,Atlético / AC,São José / RS
-260,Operário / PR,Maranhão / MA
-261,Juazeirense / BA,Globo / RN
-262,Atlético / AC,Operário / PR
-263,Globo / RN,Juazeirense / BA
-264,Operário / PR,Atlético / AC
-265,Globo / RN,Operário / PR
-266,Operário / PR,Globo / RN
+Game,Home,Away,Date,Time,Stadium
+001,Trem / AP,Atlético / AC,22/05/2017,20:30,Milton de Souza Correia / Macapa
+002,Princesa do Solimões / AM,Real Desportivo / RO,21/05/2017,17:00,Gilberto Mestrinho / Manacapuru
+003,São Raimundo / PA,Gurupi / TO,21/05/2017,16:00,Estadual de Santarém (jader Barbalho) / Santarém
+004,Bare / RR,Fast Clube / AM,21/05/2017,18:30,Vila Olímpica Roberto Marinho / Boa Vista
+005,Rio Branco / AC,São Raimundo / RR,21/05/2017,18:00,Arena da Floresta / Rio Branco
+006,Genus / RO,S. Francisco / PA,21/05/2017,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+007,Tocantins / TO,Altos / PI,21/05/2017,16:00,Castanheirão / 
+008,Cordino / MA,Santos / AP,21/05/2017,15:30,Leandro Silva / 
+009,Ríver / PI,Guarany / CE,21/05/2017,16:00,Lindolfo Monteiro / Teresina
+010,Potiguar / RN,Maranhão / MA,21/05/2017,17:00,Edgar Borges Montenegro / Assu
+011,Guarani / CE,América / PE,21/05/2017,16:00,Antônio Moreno de Melo / Iguatu
+012,Parnahyba / PI,Globo / RN,21/05/2017,16:00,Mão Santa / Parnaiba
+013,Coruripe / AL,Juazeirense / BA,21/05/2017,16:00,Gerson Amaral / Coruripe
+014,Sousa / PB,Central / PE,21/05/2017,17:00,Antônio Mariz / Sousa
+015,Itabaiana / SE,Fluminense de Feira / BA,21/05/2017,16:00,Etelvino Mendonça / Itabaiana
+016,Atlético / PE,Campinense / PB,21/05/2017,16:00,Paulo Petribu / 
+017,América / RN,Murici / AL,21/05/2017,16:00,Arena das Dunas / Natal
+018,Jacobina / BA,Sergipe / SE,21/05/2017,16:00,José Rocha / 
+019,Comercial / MS,Sinop / MT,21/05/2017,17:00,Estádio Pedro Pedrossian / Campo Grande
+020,Ceilândia / DF,Anápolis / GO,21/05/2017,16:00,Mª de Lourdes Abadia / Ceilândia
+021,União de Rondonópolis / MT,7 de Setembro / MS,21/05/2017,19:00,Luthero Lopes / Rondonopolis
+022,Portuguesa / RJ,URT / MG,21/05/2017,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+023,Itumbiara / GO,Audax / SP,21/05/2017,16:00,Juscelino Kubitschek de Oliveira / Itumbiara
+024,Villa Nova / MG,Bangu / RJ,21/05/2017,16:00,Castor Cifuentes / Nova Lima
+025,Portuguesa / SP,Desportiva / ES,21/05/2017,19:00,Oswaldo Teixeira Duarte / São Paulo
+026,Espirito Santo / ES,Red Bull Brasil / SP,21/05/2017,16:30,Kleber José de Andrade / Cariacica
+027,Caldense / MG,Boavista / RJ,21/05/2017,17:00,Ronaldo Junqueira / Pocos de Caldas
+028,Operário / PR,Brusque / SC,21/05/2017,15:30,Germano Kruger / Ponta Grossa
+029,XV de Piracicaba / SP,São Paulo / RS,21/05/2017,16:00,Barão de Serra Negra / Piracicaba
+030,Novo Hamburgo / RS,Sao Bernardo / SP,21/05/2017,16:00,Estádio do Vale / Novo Hamburgo
+031,Internacional / SC,Foz do Iguaçu / PR,21/05/2017,16:00,Vidal Ramos Júnior / Lages
+032,Ituano / SP,São José / RS,21/05/2017,16:00,Novelli Junior / Itu
+033,Metropolitano / SC,PSTC / PR,21/05/2017,16:00,Complexo Esportivo do Sesi / Blumenau
+034,Aparecidense / GO,Luziânia / DF,22/05/2017,19:30,Anibal Batista de Toledo / Aparecida de Goiânia
+035,Altos / PI,Cordino / MA,27/05/2017,17:00,Lindolfo Monteiro / Teresina
+036,Juazeirense / BA,Sousa / PB,27/05/2017,18:30,Adauto Moraes / Juazeiro
+037,Anápolis / GO,Comercial / MS,27/05/2017,16:00,Jonas Ferreira Duarte / Anápolis
+038,Luziânia / DF,União de Rondonópolis / MT,27/05/2017,16:00,Zequinha Roriz / Luziania
+039,Bangu / RJ,Portuguesa / SP,27/05/2017,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+040,Desportiva / ES,Villa Nova / MG,27/05/2017,16:00,Alencar de Araripe / Cariacica
+041,Boavista / RJ,Espirito Santo / ES,27/05/2017,15:30,Elcyr Resende de Mendonça / Saquarema
+042,Red Bull Brasil / SP,Caldense / MG,27/05/2017,17:00,Moisés Lucarelli / Campinas
+043,Brusque / SC,XV de Piracicaba / SP,27/05/2017,16:00,Augusto Bauer / Brusque
+044,Sao Bernardo / SP,Internacional / SC,27/05/2017,15:00,1º de Maio / Sao Bernardo do Campo
+045,São José / RS,Metropolitano / SC,27/05/2017,16:00,Passo D´areia / Porto Alegre
+046,Atlético / AC,Princesa do Solimões / AM,28/05/2017,19:00,Antonio Aquino Lopes / Rio Branco
+047,Real Desportivo / RO,Trem / AP,28/05/2017,19:00,Gentil Valério / Ariquemes
+048,Gurupi / TO,Bare / RR,28/05/2017,18:00,Gilberto Resende Rocha / Gurupi
+049,Fast Clube / AM,São Raimundo / PA,28/05/2017,17:00,Arena da Amazônia / Manaus
+050,São Raimundo / RR,Genus / RO,28/05/2017,18:00,Raimundo Ribeiro de Souza / Boa Vista
+051,S. Francisco / PA,Rio Branco / AC,28/05/2017,18:00,Estadual de Santarém (jader Barbalho) / Santarém
+052,Santos / AP,Tocantins / TO,28/05/2017,17:00,Milton de Souza Correia / Macapa
+053,Maranhão / MA,Ríver / PI,28/05/2017,16:00,Governador João Castelo / Sao Luis
+054,Guarany / CE,Potiguar / RN,28/05/2017,16:00,Plácido Aderaldo Castelo / Sobral
+055,América / PE,Parnahyba / PI,28/05/2017,16:00,Ademir Cunha / Paulista
+056,Globo / RN,Guarani / CE,28/05/2017,17:00,Manoel Dantas Barretto / Ceara-Mirim
+057,Central / PE,Coruripe / AL,28/05/2017,16:00,Luíz José de Lacerda / Caruaru
+058,Fluminense de Feira / BA,Atlético / PE,31/05/2017,20:30,Alberto Oliveira / Feira de Santana
+059,Campinense / PB,Itabaiana / SE,28/05/2017,17:00,Ernani Sátyro / Campina Grande
+060,Murici / AL,Jacobina / BA,28/05/2017,16:00,José Gomes da Costa / Murici
+061,Sergipe / SE,América / RN,28/05/2017,16:00,Lourival Baptista / Aracaju
+062,Sinop / MT,Ceilândia / DF,28/05/2017,19:00,Massami Uriu / Sinop
+063,7 de Setembro / MS,Aparecidense / GO,28/05/2017,17:00,Frédis Saldivar / Dourados
+064,Audax / SP,Portuguesa / RJ,28/05/2017,16:00,José Liberatti / Osasco
+065,URT / MG,Itumbiara / GO,28/05/2017,16:00,Zama Maciel / Patos de Minas
+066,São Paulo / RS,Operário / PR,28/05/2017,15:00,Aldo Dapuzzo / Rio Grande
+067,Foz do Iguaçu / PR,Novo Hamburgo / RS,28/05/2017,16:00,Estádio do Abc / Foz do Iguaçu
+068,PSTC / PR,Ituano / SP,28/05/2017,17:00,Ubirajara Medeiros / Cornelio Procopio
+069,Altos / PI,Santos / AP,03/06/2017,17:00,Lindolfo Monteiro / Teresina
+070,Itabaiana / SE,Atlético / PE,04/06/2017,16:00,Etelvino Mendonça / Itabaiana
+071,Luziânia / DF,7 de Setembro / MS,03/06/2017,16:00,Zequinha Roriz / Luziania
+072,Espirito Santo / ES,Caldense / MG,03/06/2017,16:30,Kleber José de Andrade / Cariacica
+073,Red Bull Brasil / SP,Boavista / RJ,03/06/2017,17:00,Moisés Lucarelli / Campinas
+074,Sao Bernardo / SP,Foz do Iguaçu / PR,03/06/2017,15:00,1º de Maio / Sao Bernardo do Campo
+075,Metropolitano / SC,Ituano / SP,04/06/2017,16:00,Complexo Esportivo do Sesi / Blumenau
+076,Atlético / AC,Real Desportivo / RO,04/06/2017,19:00,Antonio Aquino Lopes / Rio Branco
+077,Fast Clube / AM,Gurupi / TO,04/06/2017,17:00,Arena da Amazônia / Manaus
+078,Bare / RR,São Raimundo / PA,04/06/2017,19:30,Raimundo Ribeiro de Souza / Boa Vista
+079,S. Francisco / PA,São Raimundo / RR,04/06/2017,17:00,Estadual de Santarém (jader Barbalho) / Santarém
+080,Genus / RO,Rio Branco / AC,04/06/2017,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+081,Tocantins / TO,Cordino / MA,04/06/2017,16:00,Castanheirão / 
+082,Maranhão / MA,Guarany / CE,04/06/2017,16:00,Governador João Castelo / Sao Luis
+083,Potiguar / RN,Ríver / PI,04/06/2017,17:00,Edgar Borges Montenegro / Assu
+084,América / PE,Globo / RN,04/06/2017,16:00,Ademir Cunha / Paulista
+085,Guarani / CE,Parnahyba / PI,04/06/2017,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+086,Central / PE,Juazeirense / BA,04/06/2017,16:00,Luíz José de Lacerda / Caruaru
+087,Sousa / PB,Coruripe / AL,04/06/2017,17:00,Antônio Mariz / Sousa
+088,Fluminense de Feira / BA,Campinense / PB,04/06/2017,16:00,Alberto Oliveira / Feira de Santana
+089,Murici / AL,Sergipe / SE,04/06/2017,16:00,José Gomes da Costa / Murici
+090,América / RN,Jacobina / BA,05/06/2017,19:00,Arena das Dunas / Natal
+091,Sinop / MT,Anápolis / GO,04/06/2017,19:00,Massami Uriu / Sinop
+092,Comercial / MS,Ceilândia / DF,04/06/2017,17:00,Estádio Pedro Pedrossian / Campo Grande
+093,Audax / SP,URT / MG,03/06/2017,19:00,José Liberatti / Osasco
+094,Itumbiara / GO,Portuguesa / RJ,04/06/2017,16:00,Juscelino Kubitschek de Oliveira / Itumbiara
+095,Bangu / RJ,Desportiva / ES,04/06/2017,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+096,Villa Nova / MG,Portuguesa / SP,04/06/2017,16:00,Castor Cifuentes / Nova Lima
+097,Brusque / SC,São Paulo / RS,04/06/2017,16:00,Augusto Bauer / Brusque
+098,Operário / PR,XV de Piracicaba / SP,04/06/2017,15:30,Germano Kruger / Ponta Grossa
+099,Novo Hamburgo / RS,Internacional / SC,04/06/2017,16:00,Estádio do Vale / Novo Hamburgo
+100,PSTC / PR,São José / RS,04/06/2017,17:00,Ubirajara Medeiros / Cornelio Procopio
+101,Trem / AP,Princesa do Solimões / AM,05/06/2017,20:30,Milton de Souza Correia / Macapa
+102,Aparecidense / GO,União de Rondonópolis / MT,05/06/2017,19:30,Anibal Batista de Toledo / Aparecida de Goiânia
+103,XV de Piracicaba / SP,Operário / PR,09/06/2017,20:00,Barão de Serra Negra / Piracicaba
+104,Princesa do Solimões / AM,Trem / AP,10/06/2017,17:00,Gilberto Mestrinho / Manacapuru
+105,Juazeirense / BA,Central / PE,10/06/2017,18:30,Adauto Moraes / Juazeiro
+106,Sergipe / SE,Murici / AL,10/06/2017,16:00,Lourival Baptista / Aracaju
+107,Ceilândia / DF,Comercial / MS,10/06/2017,15:30,Mª de Lourdes Abadia / Ceilândia
+108,Anápolis / GO,Sinop / MT,10/06/2017,16:00,Jonas Ferreira Duarte / Anápolis
+109,Portuguesa / RJ,Itumbiara / GO,10/06/2017,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+110,Portuguesa / SP,Villa Nova / MG,09/06/2017,19:00,Oswaldo Teixeira Duarte / São Paulo
+111,Boavista / RJ,Red Bull Brasil / SP,10/06/2017,15:00,Elcyr Resende de Mendonça / Saquarema
+112,Ituano / SP,Metropolitano / SC,10/06/2017,17:00,Novelli Junior / Itu
+113,Real Desportivo / RO,Atlético / AC,11/06/2017,19:00,Gentil Valério / Ariquemes
+114,São Raimundo / PA,Bare / RR,11/06/2017,16:00,Estadual de Santarém (jader Barbalho) / Santarém
+115,Gurupi / TO,Fast Clube / AM,11/06/2017,18:00,Gilberto Resende Rocha / Gurupi
+116,São Raimundo / RR,S. Francisco / PA,11/06/2017,18:00,Raimundo Ribeiro de Souza / Boa Vista
+117,Rio Branco / AC,Genus / RO,11/06/2017,18:00,Antonio Aquino Lopes / Rio Branco
+118,Cordino / MA,Tocantins / TO,11/06/2017,16:00,Leandro Silva / 
+119,Santos / AP,Altos / PI,11/06/2017,17:00,Milton de Souza Correia / Macapa
+120,Ríver / PI,Potiguar / RN,11/06/2017,17:00,Lindolfo Monteiro / Teresina
+121,Guarany / CE,Maranhão / MA,11/06/2017,16:00,Plácido Aderaldo Castelo / Sobral
+122,Parnahyba / PI,Guarani / CE,11/06/2017,16:00,Mão Santa / Parnaiba
+123,Globo / RN,América / PE,11/06/2017,17:00,Manoel Dantas Barretto / Ceara-Mirim
+124,Coruripe / AL,Sousa / PB,11/06/2017,16:00,Gerson Amaral / Coruripe
+125,Atlético / PE,Itabaiana / SE,11/06/2017,16:00,Paulo Petribu / 
+126,Campinense / PB,Fluminense de Feira / BA,11/06/2017,17:00,Ernani Sátyro / Campina Grande
+127,Jacobina / BA,América / RN,11/06/2017,16:00,José Rocha / 
+128,7 de Setembro / MS,Luziânia / DF,11/06/2017,17:00,Frédis Saldivar / Dourados
+129,União de Rondonópolis / MT,Aparecidense / GO,11/06/2017,19:00,Luthero Lopes / Rondonopolis
+130,URT / MG,Audax / SP,11/06/2017,16:00,Zama Maciel / Patos de Minas
+131,Desportiva / ES,Bangu / RJ,10/06/2017,16:00,Alencar de Araripe / Cariacica
+132,Caldense / MG,Espirito Santo / ES,10/06/2017,16:00,Ronaldo Junqueira / Pocos de Caldas
+133,São Paulo / RS,Brusque / SC,11/06/2017,15:00,Aldo Dapuzzo / Rio Grande
+134,Internacional / SC,Novo Hamburgo / RS,11/06/2017,16:00,Vidal Ramos Júnior / Lages
+135,Foz do Iguaçu / PR,Sao Bernardo / SP,11/06/2017,16:00,Estádio do Abc / Foz do Iguaçu
+136,São José / RS,PSTC / PR,11/06/2017,15:30,Passo D´areia / Porto Alegre
+137,XV de Piracicaba / SP,Brusque / SC,16/06/2017,20:00,Barão de Serra Negra / Piracicaba
+138,Princesa do Solimões / AM,Atlético / AC,18/06/2017,17:00,Gilberto Mestrinho / Manacapuru
+139,Itabaiana / SE,Campinense / PB,18/06/2017,16:00,Etelvino Mendonça / Itabaiana
+140,Ceilândia / DF,Sinop / MT,17/06/2017,15:30,Mª de Lourdes Abadia / Ceilândia
+141,Portuguesa / RJ,Audax / SP,17/06/2017,15:00,Luso Brasileiro / Rio de Janeiro
+142,Espirito Santo / ES,Boavista / RJ,17/06/2017,16:30,Kleber José de Andrade / Cariacica
+143,Ituano / SP,PSTC / PR,17/06/2017,17:00,Novelli Junior / Itu
+144,Metropolitano / SC,São José / RS,17/06/2017,17:00,Complexo Esportivo do Sesi / Blumenau
+145,São Raimundo / PA,Fast Clube / AM,18/06/2017,17:00,Estadual de Santarém (jader Barbalho) / Santarém
+146,Bare / RR,Gurupi / TO,18/06/2017,19:30,Raimundo Ribeiro de Souza / Boa Vista
+147,Rio Branco / AC,S. Francisco / PA,18/06/2017,18:00,Antonio Aquino Lopes / Rio Branco
+148,Genus / RO,São Raimundo / RR,18/06/2017,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+149,Cordino / MA,Altos / PI,18/06/2017,16:00,Leandro Silva / 
+150,Tocantins / TO,Santos / AP,18/06/2017,16:00,Castanheirão / 
+151,Ríver / PI,Maranhão / MA,18/06/2017,17:00,Lindolfo Monteiro / Teresina
+152,Potiguar / RN,Guarany / CE,18/06/2017,17:00,Edgar Borges Montenegro / Assu
+153,Parnahyba / PI,América / PE,18/06/2017,16:00,Mão Santa / Parnaiba
+154,Guarani / CE,Globo / RN,18/06/2017,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+155,Coruripe / AL,Central / PE,18/06/2017,16:00,Gerson Amaral / Coruripe
+156,Sousa / PB,Juazeirense / BA,18/06/2017,17:00,Antônio Mariz / Sousa
+157,Atlético / PE,Fluminense de Feira / BA,18/06/2017,16:00,Paulo Petribu / 
+158,Jacobina / BA,Murici / AL,18/06/2017,16:00,José Rocha / 
+159,América / RN,Sergipe / SE,18/06/2017,16:00,Arena das Dunas / Natal
+160,Comercial / MS,Anápolis / GO,18/06/2017,17:00,Estádio Pedro Pedrossian / Campo Grande
+161,União de Rondonópolis / MT,Luziânia / DF,18/06/2017,19:00,Luthero Lopes / Rondonopolis
+162,Itumbiara / GO,URT / MG,18/06/2017,16:00,Juscelino Kubitschek de Oliveira / Itumbiara
+163,Villa Nova / MG,Desportiva / ES,18/06/2017,16:00,Castor Cifuentes / Nova Lima
+164,Portuguesa / SP,Bangu / RJ,17/06/2017,19:00,Oswaldo Teixeira Duarte / São Paulo
+165,Caldense / MG,Red Bull Brasil / SP,17/06/2017,16:00,Ronaldo Junqueira / Pocos de Caldas
+166,Operário / PR,São Paulo / RS,18/06/2017,15:30,Germano Kruger / Ponta Grossa
+167,Internacional / SC,Sao Bernardo / SP,19/06/2017,20:00,Vidal Ramos Júnior / Lages
+168,Novo Hamburgo / RS,Foz do Iguaçu / PR,18/06/2017,16:00,Estádio do Vale / Novo Hamburgo
+169,Trem / AP,Real Desportivo / RO,19/06/2017,20:30,Milton de Souza Correia / Macapa
+170,Aparecidense / GO,7 de Setembro / MS,19/06/2017,19:30,Anibal Batista de Toledo / Aparecida de Goiânia
+171,Atlético / AC,Trem / AP,25/06/2017,18:00,Antonio Aquino Lopes / Rio Branco
+172,Real Desportivo / RO,Princesa do Solimões / AM,25/06/2017,18:00,Gentil Valério / Ariquemes
+173,Fast Clube / AM,Bare / RR,25/06/2017,18:00,Arena da Amazônia / Manaus
+174,Gurupi / TO,São Raimundo / PA,25/06/2017,18:00,Gilberto Resende Rocha / Gurupi
+175,S. Francisco / PA,Genus / RO,25/06/2017,18:00,Estadual de Santarém (jader Barbalho) / Santarém
+176,São Raimundo / RR,Rio Branco / AC,25/06/2017,18:00,Raimundo Ribeiro de Souza / Boa Vista
+177,Altos / PI,Tocantins / TO,25/06/2017,18:00,Felipe Mendes Raulino / Altos
+178,Santos / AP,Cordino / MA,25/06/2017,18:00,Milton de Souza Correia / Macapa
+179,Maranhão / MA,Potiguar / RN,25/06/2017,18:00,Governador João Castelo / Sao Luis
+180,Guarany / CE,Ríver / PI,25/06/2017,18:00,Plácido Aderaldo Castelo / Sobral
+181,América / PE,Guarani / CE,25/06/2017,18:00,Ademir Cunha / Paulista
+182,Globo / RN,Parnahyba / PI,25/06/2017,18:00,Manoel Dantas Barretto / Ceara-Mirim
+183,Central / PE,Sousa / PB,25/06/2017,18:00,Luíz José de Lacerda / Caruaru
+184,Juazeirense / BA,Coruripe / AL,25/06/2017,18:00,Adauto Moraes / Juazeiro
+185,Fluminense de Feira / BA,Itabaiana / SE,25/06/2017,18:00,Alberto Oliveira / Feira de Santana
+186,Campinense / PB,Atlético / PE,25/06/2017,18:00,Ernani Sátyro / Campina Grande
+187,Murici / AL,América / RN,25/06/2017,18:00,José Gomes da Costa / Murici
+188,Sergipe / SE,Jacobina / BA,25/06/2017,18:00,Lourival Baptista / Aracaju
+189,Sinop / MT,Comercial / MS,25/06/2017,18:00,Massami Uriu / Sinop
+190,Anápolis / GO,Ceilândia / DF,25/06/2017,18:00,Jonas Ferreira Duarte / Anápolis
+191,Luziânia / DF,Aparecidense / GO,25/06/2017,18:00,Zequinha Roriz / Luziania
+192,7 de Setembro / MS,União de Rondonópolis / MT,25/06/2017,18:00,Frédis Saldivar / Dourados
+193,Audax / SP,Itumbiara / GO,25/06/2017,18:00,José Liberatti / Osasco
+194,URT / MG,Portuguesa / RJ,25/06/2017,18:00,Zama Maciel / Patos de Minas
+195,Bangu / RJ,Villa Nova / MG,25/06/2017,18:00,Guilherme da Silveira Filho / Rio de Janeiro
+196,Desportiva / ES,Portuguesa / SP,25/06/2017,18:00,Alencar de Araripe / Cariacica
+197,Red Bull Brasil / SP,Espirito Santo / ES,25/06/2017,18:00,Nabi Abi Chedid / Bragança Paulista
+198,Boavista / RJ,Caldense / MG,25/06/2017,18:00,Elcyr Resende de Mendonça / Saquarema
+199,Brusque / SC,Operário / PR,25/06/2017,18:00,Augusto Bauer / Brusque
+200,São Paulo / RS,XV de Piracicaba / SP,25/06/2017,18:00,Aldo Dapuzzo / Rio Grande
+201,Sao Bernardo / SP,Novo Hamburgo / RS,25/06/2017,18:00,1º de Maio / Sao Bernardo do Campo
+202,Foz do Iguaçu / PR,Internacional / SC,25/06/2017,18:00,Estádio do Abc / Foz do Iguaçu
+203,PSTC / PR,Metropolitano / SC,25/06/2017,18:00,Ubirajara Medeiros / Cornelio Procopio
+204,São José / RS,Ituano / SP,25/06/2017,18:00,Passo D´areia / Porto Alegre
+205,URT / MG,Portuguesa / RJ,08/07/2017,16:00,Zama Maciel / Patos de Minas
+206,Brusque / SC,São José / RS,09/07/2017,15:30,Augusto Bauer / Brusque
+207,Desportiva / ES,Operário / PR,08/07/2017,15:00,Alencar de Araripe / Cariacica
+208,Altos / PI,Santos / AP,10/07/2017,20:00,Estádio Municipal Felipe Raulino / 
+209,Metropolitano / SC,Sao Bernardo / SP,08/07/2017,17:00,Complexo Esportivo do Sesi / Blumenau
+210,Aparecidense / GO,América / RN,08/07/2017,16:00,Anibal Batista de Toledo / Aparecida de Goiânia
+211,Maranhão / MA,Rio Branco / AC,09/07/2017,16:00,Governador João Castelo / Sao Luis
+212,Sousa / PB,Guarany / CE,09/07/2017,16:00,Antônio Mariz / Sousa
+213,Parnahyba / PI,Globo / RN,09/07/2017,16:00,Mão Santa / Parnaiba
+214,Jacobina / BA,Juazeirense / BA,09/07/2017,16:00,José Rocha / 
+215,Comercial / MS,Ceilândia / DF,09/07/2017,16:00,Estádio Pedro Pedrossian / Campo Grande
+216,Villa Nova / MG,União de Rondonópolis / MT,09/07/2017,16:00,Castor Cifuentes / Nova Lima
+217,Espirito Santo / ES,Boavista / RJ,09/07/2017,16:00,Kleber José de Andrade / Cariacica
+218,Princesa do Solimões / AM,Gurupi / TO,09/07/2017,17:00,Gilberto Mestrinho / Manacapuru
+219,Campinense / PB,Fluminense de Feira / BA,09/07/2017,17:00,Ernani Sátyro / Campina Grande
+220,S. Francisco / PA,Atlético / AC,10/07/2017,20:30,Estadual de Santarém (jader Barbalho) / Santarém
+221,Boavista / RJ,Espirito Santo / ES,15/07/2017,15:00,Elcyr Resende de Mendonça / Saquarema
+222,Sao Bernardo / SP,Metropolitano / SC,15/07/2017,15:00,1º de Maio / Sao Bernardo do Campo
+223,São José / RS,Brusque / SC,15/07/2017,15:00,Passo D´areia / Porto Alegre
+224,Ceilândia / DF,Comercial / MS,15/07/2017,15:30,Mª de Lourdes Abadia / Ceilândia
+225,América / RN,Aparecidense / GO,15/07/2017,19:00,Arena das Dunas / Natal
+226,Juazeirense / BA,Jacobina / BA,15/07/2017,18:30,Adauto Moraes / Juazeiro
+227,Atlético / AC,S. Francisco / PA,15/07/2017,19:00,Antonio Aquino Lopes / Rio Branco
+228,Portuguesa / RJ,URT / MG,16/07/2017,15:00,Luso Brasileiro / Rio de Janeiro
+229,Operário / PR,Desportiva / ES,16/07/2017,15:30,Germano Kruger / Ponta Grossa
+230,Fluminense de Feira / BA,Campinense / PB,16/07/2017,16:00,Alberto Oliveira / Feira de Santana
+231,Santos / AP,Altos / PI,16/07/2017,17:00,Milton de Souza Correia / Macapa
+232,Globo / RN,Parnahyba / PI,16/07/2017,17:00,Manoel Dantas Barretto / Ceara-Mirim
+233,Gurupi / TO,Princesa do Solimões / AM,16/07/2017,18:00,Gilberto Resende Rocha / Gurupi
+234,Rio Branco / AC,Maranhão / MA,16/07/2017,19:00,Antonio Aquino Lopes / Rio Branco
+235,Guarany / CE,Sousa / PB,16/07/2017,16:00,Plácido Aderaldo Castelo / Sobral
+236,União de Rondonópolis / MT,Villa Nova / MG,16/07/2017,19:00,Luthero Lopes / Rondonopolis
+237,São José / RS,Sao Bernardo / SP,22/07/2017,15:00,Passo D´areia / Porto Alegre
+238,Ceilândia / DF,América / RN,22/07/2017,16:00,Mª de Lourdes Abadia / Ceilândia
+239,Espirito Santo / ES,Operário / PR,22/07/2017,16:00,Kleber José de Andrade / Cariacica
+240,Maranhão / MA,Santos / AP,23/07/2017,17:00,Governador João Castelo / Sao Luis
+241,Guarany / CE,Globo / RN,23/07/2017,16:00,Plácido Aderaldo Castelo / Sobral
+242,Fluminense de Feira / BA,Juazeirense / BA,23/07/2017,16:00,Alberto Oliveira / Feira de Santana
+243,URT / MG,Villa Nova / MG,23/07/2017,16:00,Zama Maciel / Patos de Minas
+244,Gurupi / TO,Atlético / AC,24/07/2017,20:00,Gilberto Resende Rocha / Gurupi
+245,América / RN,Ceilândia / DF,28/07/2017,21:00,Arena das Dunas / Natal
+246,Sao Bernardo / SP,São José / RS,29/07/2017,15:00,1º de Maio / Sao Bernardo do Campo
+247,Juazeirense / BA,Fluminense de Feira / BA,29/07/2017,18:30,Adauto Moraes / Juazeiro
+248,Operário / PR,Espirito Santo / ES,30/07/2017,15:30,Germano Kruger / Ponta Grossa
+249,Villa Nova / MG,URT / MG,30/07/2017,16:00,Castor Cifuentes / Nova Lima
+250,Santos / AP,Maranhão / MA,30/07/2017,17:00,Milton de Souza Correia / Macapa
+251,Globo / RN,Guarany / CE,30/07/2017,17:00,Manoel Dantas Barretto / Ceara-Mirim
+252,Atlético / AC,Gurupi / TO,30/07/2017,19:00,Antonio Aquino Lopes / Rio Branco
+253,São José / RS,Atlético / AC,05/08/2017,15:00,Passo D´areia / Porto Alegre
+254,Juazeirense / BA,América / RN,05/08/2017,16:00,Adauto Moraes / Juazeiro
+255,URT / MG,Globo / RN,06/08/2017,16:00,Zama Maciel / Patos de Minas
+256,Maranhão / MA,Operário / PR,06/08/2017,16:00,Governador João Castelo / Sao Luis
+257,Globo / RN,URT / MG,11/08/2017,21:00,Manoel Dantas Barretto / Ceara-Mirim
+258,América / RN,Juazeirense / BA,13/08/2017,16:00,Arena das Dunas / Natal
+259,Atlético / AC,São José / RS,13/08/2017,19:00,Antonio Aquino Lopes / Rio Branco
+260,Operário / PR,Maranhão / MA,14/08/2017,21:00,Germano Kruger / Ponta Grossa
+261,Juazeirense / BA,Globo / RN,19/08/2017,18:30,Adauto Moraes / Juazeiro
+262,Atlético / AC,Operário / PR,20/08/2017,19:00,Antonio Aquino Lopes / Rio Branco
+263,Globo / RN,Juazeirense / BA,27/08/2017,17:00,Manoel Dantas Barretto / Ceara-Mirim
+264,Operário / PR,Atlético / AC,28/08/2017,21:15,Germano Kruger / Ponta Grossa
+265,Globo / RN,Operário / PR,03/09/2017,17:00,Manoel Dantas Barretto / Ceara-Mirim
+266,Operário / PR,Globo / RN,10/09/2017,19:00,Germano Kruger / Ponta Grossa

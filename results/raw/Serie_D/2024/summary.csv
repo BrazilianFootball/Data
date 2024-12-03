@@ -1,509 +1,509 @@
-Game,Home,Away
-001,Manauara / AM,Rio Branco / AC
-002,Humaitá / AC,Porto Velho / RO
-003,Princesa do Solimões / AM,São Raimundo / RR
-004,Trem / AP,Manaus / AM
-005,Fluminense / PI,Maranhão / MA
-006,Moto Club / MA,Tocantinópolis / TO
-007,Ríver / PI,Aguia de Maraba / PA
-008,Cametá / PA,Altos / PI
-009,Santa Cruz de Natal / RN,Treze / PB
-010,Maracana / CE,América F.c. / RN
-011,Sousa / PB,Iguatu / CE
-012,Atlético / CE,Potiguar / RN
-013,Sergipe / SE,ASA / AL
-014,CSE / AL,Retrô / PE
-015,Petrolina / PE,Jacuipense / BA
-016,Juazeirense / BA,Itabaiana / SE
-017,Ipora / GO,União de Rondonópolis / MT
-018,Mixto / MT,Crac / GO
-019,Capital / TO,Real Brasília / DF
-020,Brasiliense / DF,Anápolis / GO
-021,Portuguesa / RJ,Ipatinga / MG
-022,Democrata / MG,Nova Iguaçu / RJ
-023,Itabuna / BA,Real Noroeste / ES
-024,Serra F.c. / ES,Audax Rio / RJ
-025,São Jose / SP,Costa Rica / MS
-026,Maringa / PR,Santo André / SP
-027,Inter de Limeira / SP,Pouso Alegre / MG
-028,Atlético Patrocinense / MG,Agua Santa / SP
-029,Avenida / RS,Cascavel / PR
-030,Barra / SC,Novo Hamburgo / RS
-031,Leao do Vale - Cianorte / PR,Hercilio Luz / SC
-032,Concordia Atlético Clube / SC,Brasil / RS
-033,São Raimundo / RR,Manauara / AM
-034,Porto Velho / RO,Trem / AP
-035,Rio Branco / AC,Princesa do Solimões / AM
-036,Manaus / AM,Humaitá / AC
-037,Aguia de Maraba / PA,Fluminense / PI
-038,Tocantinópolis / TO,Cametá / PA
-039,Maranhão / MA,Ríver / PI
-040,Altos / PI,Moto Club / MA
-041,Iguatu / CE,Santa Cruz de Natal / RN
-042,América F.c. / RN,Atlético / CE
-043,Treze / PB,Sousa / PB
-044,Potiguar / RN,Maracana / CE
-045,Jacuipense / BA,Sergipe / SE
-046,Retrô / PE,Juazeirense / BA
-047,ASA / AL,Petrolina / PE
-048,Itabaiana / SE,CSE / AL
-049,Real Brasília / DF,Ipora / GO
-050,Crac / GO,Brasiliense / DF
-051,União de Rondonópolis / MT,Capital / TO
-052,Anápolis / GO,Mixto / MT
-053,Real Noroeste / ES,Portuguesa / RJ
-054,Nova Iguaçu / RJ,Serra F.c. / ES
-055,Ipatinga / MG,Itabuna / BA
-056,Audax Rio / RJ,Democrata / MG
-057,Pouso Alegre / MG,São Jose / SP
-058,Santo André / SP,Atlético Patrocinense / MG
-059,Costa Rica / MS,Inter de Limeira / SP
-060,Agua Santa / SP,Maringa / PR
-061,Hercilio Luz / SC,Avenida / RS
-062,Novo Hamburgo / RS,Concordia Atlético Clube / SC
-063,Cascavel / PR,Leao do Vale - Cianorte / PR
-064,Brasil / RS,Barra / SC
-065,Manauara / AM,Porto Velho / RO
-066,Princesa do Solimões / AM,Manaus / AM
-067,Humaitá / AC,Rio Branco / AC
-068,São Raimundo / RR,Trem / AP
-069,Fluminense / PI,Tocantinópolis / TO
-070,Ríver / PI,Altos / PI
-071,Moto Club / MA,Maranhão / MA
-072,Aguia de Maraba / PA,Cametá / PA
-073,Santa Cruz de Natal / RN,América F.c. / RN
-074,Sousa / PB,Potiguar / RN
-075,Maracana / CE,Treze / PB
-076,Iguatu / CE,Atlético / CE
-077,Sergipe / SE,Retrô / PE
-078,Petrolina / PE,Itabaiana / SE
-079,CSE / AL,ASA / AL
-080,Jacuipense / BA,Juazeirense / BA
-081,Ipora / GO,Crac / GO
-082,Capital / TO,Anápolis / GO
-083,Mixto / MT,União de Rondonópolis / MT
-084,Real Brasília / DF,Brasiliense / DF
-085,Portuguesa / RJ,Nova Iguaçu / RJ
-086,Itabuna / BA,Audax Rio / RJ
-088,Real Noroeste / ES,Serra F.c. / ES
-089,São Jose / SP,Santo André / SP
-090,Inter de Limeira / SP,Agua Santa / SP
-091,Maringa / PR,Costa Rica / MS
-092,Pouso Alegre / MG,Atlético Patrocinense / MG
-093,Avenida / RS,Novo Hamburgo / RS
-094,Leao do Vale - Cianorte / PR,Brasil / RS
-095,Barra / SC,Cascavel / PR
-096,Hercilio Luz / SC,Concordia Atlético Clube / SC
-097,Manauara / AM,Princesa do Solimões / AM
-098,Gazin Porto Velho / RO,Manaus / AM
-099,Rio Branco / AC,São Raimundo / RR
-100,Trem / AP,Humaitá / AC
-101,Fluminense / PI,Ríver / PI
-102,Tocantinópolis / TO,Altos / PI
-103,Maranhão / MA,Aguia de Maraba / PA
-104,Cametá / PA,Moto Club / MA
-105,Santa Cruz de Natal / RN,Sousa / PB
-106,América F.c. / RN,Potiguar / RN
-107,Treze / PB,Iguatu / CE
-108,Atlético / CE,Maracana / CE
-109,Sergipe / SE,Petrolina / PE
-110,Retrô / PE,Itabaiana / SE
-111,ASA / AL,Jacuipense / BA
-112,Juazeirense / BA,CSE / AL
-113,Ipora / GO,Capital / TO
-114,Crac / GO,Anápolis / GO
-115,União de Rondonópolis / MT,Real Brasília / DF
-116,Brasiliense / DF,Mixto / MT
-117,Portuguesa / RJ,Itabuna / BA
-118,Nova Iguaçu / RJ,Audax Rio / RJ
-119,Ipatinga / MG,Real Noroeste / ES
-120,Serra F.c. / ES,Democrata / MG
-121,São Jose / SP,Inter de Limeira / SP
-122,Santo André / SP,Agua Santa / SP
-123,Costa Rica / MS,Pouso Alegre / MG
-124,Atlético Patrocinense / MG,Maringa / PR
-125,Avenida / RS,Leao do Vale - Cianorte / PR
-126,Novo Hamburgo / RS,Brasil / RS
-127,Cascavel / PR,Hercilio Luz / SC
-128,Concordia Atlético Clube / SC,Barra / SC
-129,Manaus / AM,Manauara / AM
-130,Princesa do Solimões / AM,Gazin Porto Velho / RO
-131,Trem / AP,Rio Branco / AC
-132,Humaitá / AC,São Raimundo / RR
-133,Altos / PI,Fluminense / PI
-134,Ríver / PI,Tocantinópolis / TO
-135,Cametá / PA,Maranhão / MA
-136,Moto Club / MA,Aguia de Maraba / PA
-137,Potiguar / RN,Santa Cruz de Natal / RN
-138,Sousa / PB,América F.c. / RN
-139,Atlético / CE,Treze / PB
-140,Maracana / CE,Iguatu / CE
-141,Itabaiana / SE,Sergipe / SE
-142,Petrolina / PE,Retrô / PE
-143,Juazeirense / BA,ASA / AL
-144,CSE / AL,Jacuipense / BA
-145,Anápolis / GO,Ipora / GO
-146,Capital / TO,Crac / GO
-147,Brasiliense / DF,União de Rondonópolis / MT
-148,Mixto / MT,Real Brasília / DF
-149,Audax Rio / RJ,Portuguesa / RJ
-150,Itabuna / BA,Nova Iguaçu / RJ
-151,Serra F.c. / ES,Ipatinga / MG
-152,Democrata / MG,Real Noroeste / ES
-153,Agua Santa / SP,São Jose / SP
-154,Inter de Limeira / SP,Santo André / SP
-155,Atlético Patrocinense / MG,Costa Rica / MS
-156,Maringa / PR,Pouso Alegre / MG
-157,Brasil / RS,Avenida / RS
-158,Leao do Vale - Cianorte / PR,Novo Hamburgo / RS
-159,Concordia Atlético Clube / SC,Cascavel / PR
-160,Barra / SC,Hercilio Luz / SC
-161,Manauara / AM,Humaitá / AC
-162,Rio Branco / AC,Gazin Porto Velho / RO
-163,Princesa do Solimões / AM,Trem / AP
-164,São Raimundo / RR,Manaus / AM
-165,Fluminense / PI,Moto Club / MA
-166,Maranhão / MA,Tocantinópolis / TO
-167,Ríver / PI,Cametá / PA
-168,Aguia de Maraba / PA,Altos / PI
-169,Santa Cruz de Natal / RN,Maracana / CE
-170,Treze / PB,América F.c. / RN
-171,Sousa / PB,Atlético / CE
-172,Iguatu / CE,Potiguar / RN
-173,Sergipe / SE,CSE / AL
-174,ASA / AL,Retrô / PE
-175,Petrolina / PE,Juazeirense / BA
-176,Jacuipense / BA,Itabaiana / SE
-177,Ipora / GO,Mixto / MT
-178,União de Rondonópolis / MT,Crac / GO
-179,Capital / TO,Brasiliense / DF
-180,Real Brasília / DF,Anápolis / GO
-181,Portuguesa / RJ,Democrata / MG
-182,Ipatinga / MG,Nova Iguaçu / RJ
-183,Itabuna / BA,Serra F.c. / ES
-184,Real Noroeste / ES,Audax Rio / RJ
-185,São Jose / SP,Maringa / PR
-186,Costa Rica / MS,Santo André / SP
-187,Inter de Limeira / SP,Atlético Patrocinense / MG
-188,Pouso Alegre / MG,Agua Santa / SP
-189,Avenida / RS,Barra / SC
-190,Cascavel / PR,Novo Hamburgo / RS
-191,Leao do Vale - Cianorte / PR,Concordia Atlético Clube / SC
-192,Hercilio Luz / SC,Brasil / RS
-193,Trem / AP,Manauara / AM
-194,Gazin Porto Velho / RO,São Raimundo / RR
-195,Humaitá / AC,Princesa do Solimões / AM
-196,Manaus / AM,Rio Branco / AC
-197,Cametá / PA,Fluminense / PI
-198,Tocantinópolis / TO,Aguia de Maraba / PA
-199,Moto Club / MA,Ríver / PI
-200,Altos / PI,Maranhão / MA
-201,Atlético / CE,Santa Cruz de Natal / RN
-202,América F.c. / RN,Iguatu / CE
-203,Maracana / CE,Sousa / PB
-204,Potiguar / RN,Treze / PB
-205,Juazeirense / BA,Sergipe / SE
-206,Retrô / PE,Jacuipense / BA
-207,CSE / AL,Petrolina / PE
-208,Itabaiana / SE,ASA / AL
-209,Brasiliense / DF,Ipora / GO
-210,Crac / GO,Real Brasília / DF
-211,Mixto / MT,Capital / TO
-212,Anápolis / GO,União de Rondonópolis / MT
-213,Serra F.c. / ES,Portuguesa / RJ
-214,Nova Iguaçu / RJ,Real Noroeste / ES
-215,Democrata / MG,Itabuna / BA
-216,Audax Rio / RJ,Ipatinga / MG
-217,Atlético Patrocinense / MG,São Jose / SP
-218,Santo André / SP,Pouso Alegre / MG
-219,Maringa / PR,Inter de Limeira / SP
-220,Agua Santa / SP,Costa Rica / MS
-221,Concordia Atlético Clube / SC,Avenida / RS
-222,Novo Hamburgo / RS,Hercilio Luz / SC
-223,Barra / SC,Leao do Vale - Cianorte / PR
-224,Brasil / RS,Cascavel / PR
-225,Manauara / AM,Trem / AP
-226,São Raimundo / RR,Gazin Porto Velho / RO
-227,Princesa do Solimões / AM,Humaitá / AC
-228,Rio Branco / AC,Manaus / AM
-229,Fluminense / PI,Cametá / PA
-230,Aguia de Maraba / PA,Tocantinópolis / TO
-231,Ríver / PI,Moto Club / MA
-232,Maranhão / MA,Altos / PI
-233,Santa Cruz de Natal / RN,Atlético / CE
-234,Iguatu / CE,América F.c. / RN
-235,Sousa / PB,Maracana / CE
-236,Treze / PB,Potiguar / RN
-237,Sergipe / SE,Juazeirense / BA
-238,Jacuipense / BA,Retrô / PE
-239,Petrolina / PE,CSE / AL
-240,ASA / AL,Itabaiana / SE
-241,Ipora / GO,Brasiliense / DF
-242,Real Brasília / DF,Crac / GO
-243,Capital / TO,Mixto / MT
-244,União de Rondonópolis / MT,Anápolis / GO
-245,Portuguesa / RJ,Serra F.c. / ES
-246,Real Noroeste / ES,Nova Iguaçu / RJ
-247,Itabuna / BA,Democrata / MG
-248,Ipatinga / MG,Audax Rio / RJ
-249,São Jose / SP,Atlético Patrocinense / MG
-250,Pouso Alegre / MG,Santo André / SP
-251,Inter de Limeira / SP,Maringa / PR
-252,Costa Rica / MS,Agua Santa / SP
-253,Avenida / RS,Concordia Atlético Clube / SC
-254,Hercilio Luz / SC,Novo Hamburgo / RS
-255,Leao do Vale - Cianorte / PR,Barra / SC
-256,Cascavel / PR,Brasil / RS
-257,Humaitá / AC,Manauara / AM
-258,Gazin Porto Velho / RO,Rio Branco / AC
-259,Trem / AP,Princesa do Solimões / AM
-260,Manaus / AM,São Raimundo / RR
-261,Moto Club / MA,Fluminense / PI
-262,Tocantinópolis / TO,Maranhão / MA
-263,Cametá / PA,Ríver / PI
-264,Altos / PI,Aguia de Maraba / PA
-265,Maracana / CE,Santa Cruz de Natal / RN
-266,América F.c. / RN,Treze / PB
-267,Atlético / CE,Sousa / PB
-268,Potiguar / RN,Iguatu / CE
-269,CSE / AL,Sergipe / SE
-270,Retrô / PE,ASA / AL
-271,Juazeirense / BA,Petrolina / PE
-272,Itabaiana / SE,Jacuipense / BA
-273,Mixto / MT,Ipora / GO
-274,Crac / GO,União de Rondonópolis / MT
-275,Brasiliense / DF,Capital / TO
-276,Anápolis / GO,Real Brasília / DF
-277,Democrata / MG,Portuguesa / RJ
-278,Nova Iguaçu / RJ,Ipatinga / MG
-279,Serra F.c. / ES,Itabuna / BA
-280,Audax Rio / RJ,Real Noroeste / ES
-281,Maringa / PR,São Jose / SP
-282,Santo André / SP,Costa Rica / MS
-283,Atlético Patrocinense / MG,Inter de Limeira / SP
-284,Agua Santa / SP,Pouso Alegre / MG
-285,Barra / SC,Avenida / RS
-286,Novo Hamburgo / RS,Cascavel / PR
-287,Concordia Atlético Clube / SC,Leao do Vale - Cianorte / PR
-288,Brasil / RS,Hercilio Luz / SC
-289,Manauara / AM,Manaus / AM
-290,Gazin Porto Velho / RO,Princesa do Solimões / AM
-291,Rio Branco / AC,Trem / AP
-292,São Raimundo / RR,Humaitá / AC
-293,Fluminense / PI,Altos / PI
-294,Tocantinópolis / TO,Ríver / PI
-295,Maranhão / MA,Cametá / PA
-296,Aguia de Maraba / PA,Moto Club / MA
-297,Santa Cruz de Natal / RN,Potiguar / RN
-298,América F.c. / RN,Sousa / PB
-299,Treze / PB,Atlético / CE
-300,Iguatu / CE,Maracana / CE
-301,Sergipe / SE,Itabaiana / SE
-302,Retrô / PE,Petrolina / PE
-303,ASA / AL,Juazeirense / BA
-304,Jacuipense / BA,CSE / AL
-305,Ipora / GO,Anápolis / GO
-306,Crac / GO,Capital / TO
-307,União de Rondonópolis / MT,Brasiliense / DF
-308,Real Brasília / DF,Mixto / MT
-309,Portuguesa / RJ,Audax Rio / RJ
-310,Nova Iguaçu / RJ,Itabuna / BA
-311,Ipatinga / MG,Serra F.c. / ES
-312,Real Noroeste / ES,Democrata / MG
-313,São Jose / SP,Agua Santa / SP
-314,Santo André / SP,Inter de Limeira / SP
-315,Costa Rica / MS,Atlético Patrocinense / MG
-316,Pouso Alegre / MG,Maringa / PR
-317,Avenida / RS,Brasil / RS
-318,Novo Hamburgo / RS,Leao do Vale - Cianorte / PR
-319,Cascavel / PR,Concordia Atlético Clube / SC
-320,Hercilio Luz / SC,Barra / SC
-321,Princesa do Solimões / AM,Manauara / AM
-322,Manaus / AM,Gazin Porto Velho / RO
-323,São Raimundo / RR,Rio Branco / AC
-324,Humaitá / AC,Trem / AP
-325,Ríver / PI,Fluminense / PI
-326,Altos / PI,Tocantinópolis / TO
-327,Aguia de Maraba / PA,Maranhão / MA
-328,Moto Club / MA,Cametá / PA
-330,Potiguar / RN,América F.c. / RN
-331,Iguatu / CE,Treze / PB
-332,Maracana / CE,Atlético / CE
-333,Petrolina / PE,Sergipe / SE
-334,Itabaiana / SE,Retrô / PE
-335,Jacuipense / BA,ASA / AL
-336,CSE / AL,Juazeirense / BA
-337,Capital / TO,Ipora / GO
-338,Anápolis / GO,Crac / GO
-339,Real Brasília / DF,União de Rondonópolis / MT
-340,Mixto / MT,Brasiliense / DF
-341,Itabuna / BA,Portuguesa / RJ
-342,Audax Rio / RJ,Nova Iguaçu / RJ
-343,Real Noroeste / ES,Ipatinga / MG
-344,Democrata / MG,Serra F.c. / ES
-345,Inter de Limeira / SP,São Jose / SP
-346,Agua Santa / SP,Santo André / SP
-347,Pouso Alegre / MG,Costa Rica / MS
-348,Maringa / PR,Atlético Patrocinense / MG
-349,Leao do Vale - Cianorte / PR,Avenida / RS
-350,Brasil / RS,Novo Hamburgo / RS
-351,Hercilio Luz / SC,Cascavel / PR
-352,Barra / SC,Concordia Atlético Clube / SC
-353,Gazin Porto Velho / RO,Manauara / AM
-354,Manaus / AM,Princesa do Solimões / AM
-355,Rio Branco / AC,Humaitá / AC
-356,Trem / AP,São Raimundo / RR
-357,Tocantinópolis / TO,Fluminense / PI
-358,Altos / PI,Ríver / PI
-359,Maranhão / MA,Moto Club / MA
-360,Cametá / PA,Aguia de Maraba / PA
-361,América F.c. / RN,Santa Cruz de Natal / RN
-362,Potiguar / RN,Sousa / PB
-363,Treze / PB,Maracana / CE
-364,Atlético / CE,Iguatu / CE
-365,Retrô / PE,Sergipe / SE
-366,Itabaiana / SE,Petrolina / PE
-367,ASA / AL,CSE / AL
-368,Juazeirense / BA,Jacuipense / BA
-369,Crac / GO,Ipora / GO
-370,Anápolis / GO,Capital / TO
-371,União de Rondonópolis / MT,Mixto / MT
-372,Brasiliense / DF,Real Brasília / DF
-373,Nova Iguaçu / RJ,Portuguesa / RJ
-374,Audax Rio / RJ,Itabuna / BA
-375,Ipatinga / MG,Democrata / MG
-376,Serra F.c. / ES,Real Noroeste / ES
-377,Santo André / SP,São Jose / SP
-378,Agua Santa / SP,Inter de Limeira / SP
-379,Costa Rica / MS,Maringa / PR
-380,Atlético Patrocinense / MG,Pouso Alegre / MG
-381,Novo Hamburgo / RS,Avenida / RS
-382,Brasil / RS,Leao do Vale - Cianorte / PR
-383,Cascavel / PR,Barra / SC
-384,Concordia Atlético Clube / SC,Hercilio Luz / SC
-385,Manauara / AM,São Raimundo / RR
-386,Trem / AP,Gazin Porto Velho / RO
-387,Princesa do Solimões / AM,Rio Branco / AC
-388,Humaitá / AC,Manaus / AM
-389,Fluminense / PI,Aguia de Maraba / PA
-390,Cametá / PA,Tocantinópolis / TO
-391,Ríver / PI,Maranhão / MA
-392,Moto Club / MA,Altos / PI
-393,Santa Cruz de Natal / RN,Iguatu / CE
-394,Atlético / CE,América F.c. / RN
-395,Sousa / PB,Treze / PB
-396,Maracana / CE,Potiguar / RN
-397,Sergipe / SE,Jacuipense / BA
-398,Juazeirense / BA,Retrô / PE
-399,Petrolina / PE,ASA / AL
-400,CSE / AL,Itabaiana / SE
-401,Ipora / GO,Real Brasília / DF
-402,Brasiliense / DF,Crac / GO
-403,Capital / TO,União de Rondonópolis / MT
-404,Mixto / MT,Anápolis / GO
-405,Portuguesa / RJ,Real Noroeste / ES
-406,Serra F.c. / ES,Nova Iguaçu / RJ
-407,Itabuna / BA,Ipatinga / MG
-408,Democrata / MG,Audax Rio / RJ
-409,São Jose / SP,Pouso Alegre / MG
-410,Atlético Patrocinense / MG,Santo André / SP
-411,Inter de Limeira / SP,Costa Rica / MS
-412,Maringa / PR,Agua Santa / SP
-413,Avenida / RS,Hercilio Luz / SC
-414,Concordia Atlético Clube / SC,Novo Hamburgo / RS
-415,Leao do Vale - Cianorte / PR,Cascavel / PR
-416,Barra / SC,Brasil / RS
-417,Rio Branco / AC,Manauara / AM
-418,Gazin Porto Velho / RO,Humaitá / AC
-419,São Raimundo / RR,Princesa do Solimões / AM
-420,Manaus / AM,Trem / AP
-421,Maranhão / MA,Fluminense / PI
-422,Tocantinópolis / TO,Moto Club / MA
-423,Aguia de Maraba / PA,Ríver / PI
-424,Altos / PI,Cametá / PA
-425,Treze / PB,Santa Cruz de Natal / RN
-426,América F.c. / RN,Maracana / CE
-427,Iguatu / CE,Sousa / PB
-428,Potiguar / RN,Atlético / CE
-429,ASA / AL,Sergipe / SE
-430,Retrô / PE,CSE / AL
-431,Jacuipense / BA,Petrolina / PE
-432,Itabaiana / SE,Juazeirense / BA
-433,União de Rondonópolis / MT,Ipora / GO
-434,Crac / GO,Mixto / MT
-435,Real Brasília / DF,Capital / TO
-436,Anápolis / GO,Brasiliense / DF
-437,Ipatinga / MG,Portuguesa / RJ
-438,Nova Iguaçu / RJ,Democrata / MG
-439,Real Noroeste / ES,Itabuna / BA
-440,Audax Rio / RJ,Serra F.c. / ES
-441,Costa Rica / MS,São Jose / SP
-442,Santo André / SP,Maringa / PR
-443,Pouso Alegre / MG,Inter de Limeira / SP
-444,Agua Santa / SP,Atlético Patrocinense / MG
-445,Cascavel / PR,Avenida / RS
-446,Novo Hamburgo / RS,Barra / SC
-447,Hercilio Luz / SC,Leao do Vale - Cianorte / PR
-448,Brasil / RS,Concordia Atlético Clube / SC
-449,Tocantinópolis / TO,Manauara / AM
-450,Princesa do Solimões / AM,Altos / PI
-451,Manaus / AM,Maranhão / MA
-452,Ríver / PI,Gazin Porto Velho / RO
-453,ASA / AL,Treze / PB
-454,América F.c. / RN,Retrô / PE
-455,Atlético / CE,Itabaiana / SE
-456,Jacuipense / BA,Iguatu / CE
-457,Real Noroeste / ES,Brasiliense / DF
-458,Mixto / MT,Portuguesa / RJ
-459,Crac / GO,Nova Iguaçu / RJ
-460,Itabuna / BA,Anápolis / GO
-461,Novo Hamburgo / RS,Maringa / PR
-462,Agua Santa / SP,Brasil / RS
-463,Costa Rica / MS,Leao do Vale - Cianorte / PR
-464,Avenida / RS,Inter de Limeira / SP
-465,Manauara / AM,Tocantinópolis / TO
-466,Altos / PI,Princesa do Solimões / AM
-467,Maranhão / MA,Manaus / AM
-468,Gazin Porto Velho / RO,Ríver / PI
-469,Treze / PB,ASA / AL
-470,Retrô / PE,América F.c. / RN
-471,Itabaiana / SE,Atlético / CE
-472,Iguatu / CE,Jacuipense / BA
-473,Brasiliense / DF,Real Noroeste / ES
-474,Portuguesa / RJ,Mixto / MT
-475,Nova Iguaçu / RJ,Crac / GO
-476,Anápolis / GO,Itabuna / BA
-477,Maringa / PR,Novo Hamburgo / RS
-478,Brasil / RS,Agua Santa / SP
-479,Leao do Vale - Cianorte / PR,Costa Rica / MS
-480,Inter de Limeira / SP,Avenida / RS
-481,Retrô / PE,Manauara / AM
-482,Altos / PI,Treze / PB
-483,Manaus / AM,Iguatu / CE
-484,Itabaiana / SE,Gazin Porto Velho / RO
-485,Brasil / RS,Brasiliense / DF
-486,Portuguesa / RJ,Maringa / PR
-487,Inter de Limeira / SP,Nova Iguaçu / RJ
-488,Leao do Vale - Cianorte / PR,Anápolis / GO
-489,Manauara / AM,Retrô / PE
-490,Treze / PB,Altos / PI
-491,Iguatu / CE,Manaus / AM
-492,Gazin Porto Velho / RO,Itabaiana / SE
-493,Brasiliense / DF,Brasil / RS
-494,Maringa / PR,Portuguesa / RJ
-495,Nova Iguaçu / RJ,Inter de Limeira / SP
-496,Anápolis / GO,Leao do Vale - Cianorte / PR
-497,Inter de Limeira / SP,Maringa / PR
-498,Anápolis / GO,Iguatu / CE
-499,Retrô / PE,Brasiliense / DF
-500,Itabaiana / SE,Treze / PB
-501,Maringa / PR,Inter de Limeira / SP
-502,Iguatu / CE,Anápolis / GO
-503,Brasiliense / DF,Retrô / PE
-504,Treze / PB,Itabaiana / SE
-505,Anápolis / GO,Maringa / PR
-506,Retrô / PE,Itabaiana / SE
-507,Maringa / PR,Anápolis / GO
-508,Itabaiana / SE,Retrô / PE
-509,Anápolis / GO,Retrô / PE
-510,Retrô / PE,Anápolis / GO
+Game,Home,Away,Date,Time,Stadium
+001,Manauara / AM,Rio Branco / AC,27/04/2024,16:00,Ismael Benigno / Manaus
+002,Humaitá / AC,Porto Velho / RO,01/05/2024,17:00,Antonio Aquino Lopes / Rio Branco
+003,Princesa do Solimões / AM,São Raimundo / RR,27/04/2024,18:00,Gilberto Mestrinho / Manacapuru
+004,Trem / AP,Manaus / AM,28/04/2024,16:00,Estádio Milton de Souza Correa / Macapa
+005,Fluminense / PI,Maranhão / MA,28/04/2024,16:00,Lindolfo Monteiro / Teresina
+006,Moto Club / MA,Tocantinópolis / TO,28/04/2024,16:00,Nhozinho Santos / Sao Luis
+007,Ríver / PI,Aguia de Maraba / PA,27/04/2024,16:00,Governador Alberto Silva / Teresina
+008,Cametá / PA,Altos / PI,28/04/2024,16:00,Orfelino Martins Valente / Cameta
+009,Santa Cruz de Natal / RN,Treze / PB,27/04/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+010,Maracana / CE,América F.c. / RN,28/04/2024,15:30,Estádio Municipal Prefeito Almir Dutra / Maracanau
+011,Sousa / PB,Iguatu / CE,28/04/2024,16:00,Antônio Mariz / Sousa
+012,Atlético / CE,Potiguar / RN,27/04/2024,16:00,Horácio Domingos de Sousa / Horizonte
+013,Sergipe / SE,ASA / AL,27/04/2024,16:00,Lourival Baptista / Aracaju
+014,CSE / AL,Retrô / PE,27/04/2024,19:00,Juca Sampaio / Palmeira dos Indios
+015,Petrolina / PE,Jacuipense / BA,27/04/2024,16:00,Paulo Coelho / Petrolina
+016,Juazeirense / BA,Itabaiana / SE,27/04/2024,16:00,Adauto Moraes / Juazeiro
+017,Ipora / GO,União de Rondonópolis / MT,27/04/2024,15:00,Francisco José Ferreira / Ipora
+018,Mixto / MT,Crac / GO,28/04/2024,18:00,Eurico Gaspar Dutra / Cuiaba
+019,Capital / TO,Real Brasília / DF,27/04/2024,16:00,Nilton Santos / Palmas
+020,Brasiliense / DF,Anápolis / GO,28/04/2024,15:30,Elmo Serejo Farias / Brasilia
+021,Portuguesa / RJ,Ipatinga / MG,27/04/2024,18:30,Luso Brasileiro / Rio de Janeiro
+022,Democrata / MG,Nova Iguaçu / RJ,27/04/2024,16:00,Joaquim Henrique Nogueira / Sete Lagoas
+023,Itabuna / BA,Real Noroeste / ES,28/04/2024,16:00,Roberto Santos / Salvador
+024,Serra F.c. / ES,Audax Rio / RJ,27/04/2024,16:00,Roberto Costa / Serra
+025,São Jose / SP,Costa Rica / MS,27/04/2024,18:00,Martins Pereira / Sao Jose dos Campos
+026,Maringa / PR,Santo André / SP,29/04/2024,19:30,Willie Davids / Maringa
+027,Inter de Limeira / SP,Pouso Alegre / MG,27/04/2024,16:00,Major José Levy Sobrinho / Limeira
+028,Atlético Patrocinense / MG,Agua Santa / SP,27/04/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+029,Avenida / RS,Cascavel / PR,27/04/2024,15:30,Eucaliptos / Santa Cruz do Sul
+030,Barra / SC,Novo Hamburgo / RS,28/04/2024,16:00,Hercílio Luz / Itajai
+031,Leao do Vale - Cianorte / PR,Hercilio Luz / SC,27/04/2024,18:00,Albino Turbay / Cianorte
+032,Concordia Atlético Clube / SC,Brasil / RS,28/04/2024,17:00,Domingos Machado de Lima / Concordia
+033,São Raimundo / RR,Manauara / AM,04/05/2024,17:30,Flamarion Vasconcelos / Boa Vista
+034,Porto Velho / RO,Trem / AP,05/05/2024,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+035,Rio Branco / AC,Princesa do Solimões / AM,04/05/2024,19:00,Antonio Aquino Lopes / Rio Branco
+036,Manaus / AM,Humaitá / AC,05/05/2024,16:30,Arena da Amazônia / Manaus
+037,Aguia de Maraba / PA,Fluminense / PI,06/05/2024,20:00,Zinho Oliveira / Maraba
+038,Tocantinópolis / TO,Cametá / PA,04/05/2024,17:00,João Ribeiro / Tocantinopolis
+039,Maranhão / MA,Ríver / PI,04/05/2024,16:00,Nhozinho Santos / Sao Luis
+040,Altos / PI,Moto Club / MA,04/05/2024,16:00,Governador Alberto Silva / Teresina
+041,Iguatu / CE,Santa Cruz de Natal / RN,03/05/2024,19:00,Antônio Moreno de Melo / Iguatu
+042,América F.c. / RN,Atlético / CE,05/05/2024,18:00,Arena das Dunas / Natal
+043,Treze / PB,Sousa / PB,05/05/2024,16:00,Ernani Sátyro / Campina Grande
+044,Potiguar / RN,Maracana / CE,05/05/2024,16:00,Edgar Borges Montenegro / Assu
+045,Jacuipense / BA,Sergipe / SE,04/05/2024,15:00,Roberto Santos / Salvador
+046,Retrô / PE,Juazeirense / BA,05/05/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+047,ASA / AL,Petrolina / PE,04/05/2024,17:00,Coaracy da Mata Fonseca / Arapiraca
+048,Itabaiana / SE,CSE / AL,05/05/2024,16:00,Paulo Barreto de Menezes / Lagarto
+049,Real Brasília / DF,Ipora / GO,04/05/2024,15:00,Ciro Machado do Espirito Santo  / Brasilia
+050,Crac / GO,Brasiliense / DF,05/05/2024,17:00,Genervino Evangelista da Fonseca / Catalao
+051,União de Rondonópolis / MT,Capital / TO,04/05/2024,19:00,Luthero Lopes / Rondonopolis
+052,Anápolis / GO,Mixto / MT,05/05/2024,16:00,Jonas Ferreira Duarte / Anapolis
+053,Real Noroeste / ES,Portuguesa / RJ,04/05/2024,15:30,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+054,Nova Iguaçu / RJ,Serra F.c. / ES,04/05/2024,16:00,Jânio Moraes / Nova Iguacu
+055,Ipatinga / MG,Itabuna / BA,04/05/2024,17:00,João Lamego Neto / Ipatinga
+056,Audax Rio / RJ,Democrata / MG,07/05/2024,15:30,Guilherme da Silveira Filho / Rio de Janeiro
+057,Pouso Alegre / MG,São Jose / SP,04/05/2024,17:00,Irmão Gino Maria Rossi / Pouso Alegre
+058,Santo André / SP,Atlético Patrocinense / MG,04/05/2024,15:00,Bruno José Daniel / Santo Andre
+059,Costa Rica / MS,Inter de Limeira / SP,05/05/2024,17:00,Laerte Paes Coelho / Costa Rica
+060,Agua Santa / SP,Maringa / PR,04/05/2024,18:00,Oswaldo Teixeira Duarte / Sao Paulo
+061,Hercilio Luz / SC,Avenida / RS,19/06/2024,19:30,Aníbal Torres Costa / Tubarao
+062,Novo Hamburgo / RS,Concordia Atlético Clube / SC,19/06/2024,20:00,Estádio do Vale / Novo Hamburgo
+063,Cascavel / PR,Leao do Vale - Cianorte / PR,05/05/2024,16:00,Arnaldo Busatto / Cascavel
+064,Brasil / RS,Barra / SC,05/06/2024,20:00,Bento da Silva Freitas / Pelotas
+065,Manauara / AM,Porto Velho / RO,12/05/2024,16:00,Ismael Benigno / Manaus
+066,Princesa do Solimões / AM,Manaus / AM,12/05/2024,16:00,Gilberto Mestrinho / Manacapuru
+067,Humaitá / AC,Rio Branco / AC,11/05/2024,17:00,Antonio Aquino Lopes / Rio Branco
+068,São Raimundo / RR,Trem / AP,11/05/2024,17:30,Flamarion Vasconcelos / Boa Vista
+069,Fluminense / PI,Tocantinópolis / TO,12/05/2024,16:00,Lindolfo Monteiro / Teresina
+070,Ríver / PI,Altos / PI,11/05/2024,17:00,Governador Alberto Silva / Teresina
+071,Moto Club / MA,Maranhão / MA,12/05/2024,16:00,Nhozinho Santos / Sao Luis
+072,Aguia de Maraba / PA,Cametá / PA,11/05/2024,17:00,Zinho Oliveira / Maraba
+073,Santa Cruz de Natal / RN,América F.c. / RN,11/05/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+074,Sousa / PB,Potiguar / RN,12/05/2024,16:00,Antônio Mariz / Sousa
+075,Maracana / CE,Treze / PB,12/05/2024,15:30,Estádio Municipal Prefeito Almir Dutra / Maracanau
+076,Iguatu / CE,Atlético / CE,11/05/2024,16:00,Antônio Moreno de Melo / Iguatu
+077,Sergipe / SE,Retrô / PE,11/05/2024,16:00,Lourival Baptista / Aracaju
+078,Petrolina / PE,Itabaiana / SE,11/05/2024,16:00,Paulo Coelho / Petrolina
+079,CSE / AL,ASA / AL,11/05/2024,19:00,Juca Sampaio / Palmeira dos Indios
+080,Jacuipense / BA,Juazeirense / BA,11/05/2024,15:00,Roberto Santos / Salvador
+081,Ipora / GO,Crac / GO,11/05/2024,15:00,Francisco José Ferreira / Ipora
+082,Capital / TO,Anápolis / GO,11/05/2024,16:00,Nilton Santos / Palmas
+083,Mixto / MT,União de Rondonópolis / MT,12/05/2024,18:00,Eurico Gaspar Dutra / Cuiaba
+084,Real Brasília / DF,Brasiliense / DF,12/05/2024,15:00,Ciro Machado do Espirito Santo  / Brasilia
+085,Portuguesa / RJ,Nova Iguaçu / RJ,11/05/2024,18:30,Luso Brasileiro / Rio de Janeiro
+086,Itabuna / BA,Audax Rio / RJ,12/05/2024,16:00,Roberto Santos / Salvador
+088,Real Noroeste / ES,Serra F.c. / ES,11/05/2024,17:00,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+089,São Jose / SP,Santo André / SP,11/05/2024,18:00,Martins Pereira / Sao Jose dos Campos
+090,Inter de Limeira / SP,Agua Santa / SP,11/05/2024,16:00,Major José Levy Sobrinho / Limeira
+091,Maringa / PR,Costa Rica / MS,12/05/2024,19:30,Willie Davids / Maringa
+092,Pouso Alegre / MG,Atlético Patrocinense / MG,11/05/2024,17:00,Irmão Gino Maria Rossi / Pouso Alegre
+093,Avenida / RS,Novo Hamburgo / RS,26/06/2024,20:00,Estádio dos Eucaliptos / Santa Cruz do Sul
+094,Leao do Vale - Cianorte / PR,Brasil / RS,26/06/2024,20:00,Albino Turbay / Cianorte
+095,Barra / SC,Cascavel / PR,12/05/2024,16:00,Hercílio Luz / Itajai
+096,Hercilio Luz / SC,Concordia Atlético Clube / SC,11/05/2024,17:30,Aníbal Torres Costa / Tubarao
+097,Manauara / AM,Princesa do Solimões / AM,18/05/2024,16:00,Ismael Benigno / Manaus
+098,Gazin Porto Velho / RO,Manaus / AM,18/05/2024,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+099,Rio Branco / AC,São Raimundo / RR,18/05/2024,19:00,Antonio Aquino Lopes / Rio Branco
+100,Trem / AP,Humaitá / AC,20/05/2024,20:15,Estádio Milton de Souza Correa / Macapa
+101,Fluminense / PI,Ríver / PI,19/05/2024,17:00,Lindolfo Monteiro / Teresina
+102,Tocantinópolis / TO,Altos / PI,19/05/2024,16:00,João Ribeiro / Tocantinopolis
+103,Maranhão / MA,Aguia de Maraba / PA,18/05/2024,16:00,Governador João Castelo / Sao Luis
+104,Cametá / PA,Moto Club / MA,19/05/2024,16:00,Orfelino Martins Valente / Cameta
+105,Santa Cruz de Natal / RN,Sousa / PB,18/05/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+106,América F.c. / RN,Potiguar / RN,19/05/2024,18:00,Arena das Dunas / Natal
+107,Treze / PB,Iguatu / CE,19/05/2024,16:00,Ernani Sátyro / Campina Grande
+108,Atlético / CE,Maracana / CE,18/05/2024,16:00,Horácio Domingos de Sousa / Horizonte
+109,Sergipe / SE,Petrolina / PE,18/05/2024,16:00,Lourival Baptista / Aracaju
+110,Retrô / PE,Itabaiana / SE,19/05/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+111,ASA / AL,Jacuipense / BA,18/05/2024,17:00,Coaracy da Mata Fonseca / Arapiraca
+112,Juazeirense / BA,CSE / AL,18/05/2024,16:00,Adauto Moraes / Juazeiro
+113,Ipora / GO,Capital / TO,18/05/2024,15:00,Francisco José Ferreira / Ipora
+114,Crac / GO,Anápolis / GO,19/05/2024,17:00,Genervino Evangelista da Fonseca / Catalao
+115,União de Rondonópolis / MT,Real Brasília / DF,18/05/2024,19:00,Luthero Lopes / Rondonopolis
+116,Brasiliense / DF,Mixto / MT,19/05/2024,15:30,Elmo Serejo Farias / Brasilia
+117,Portuguesa / RJ,Itabuna / BA,18/05/2024,17:00,Luso Brasileiro / Rio de Janeiro
+118,Nova Iguaçu / RJ,Audax Rio / RJ,18/05/2024,16:00,Jânio Moraes / Nova Iguacu
+119,Ipatinga / MG,Real Noroeste / ES,18/05/2024,17:00,João Lamego Neto / Ipatinga
+120,Serra F.c. / ES,Democrata / MG,21/05/2024,20:00,Roberto Costa / Serra
+121,São Jose / SP,Inter de Limeira / SP,18/05/2024,18:00,Martins Pereira / Sao Jose dos Campos
+122,Santo André / SP,Agua Santa / SP,18/05/2024,15:00,Bruno José Daniel / Santo Andre
+123,Costa Rica / MS,Pouso Alegre / MG,19/05/2024,16:00,Laerte Paes Coelho / Costa Rica
+124,Atlético Patrocinense / MG,Maringa / PR,18/05/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+125,Avenida / RS,Leao do Vale - Cianorte / PR,03/07/2024,19:00,Estádio dos Eucaliptos / Santa Cruz do Sul
+126,Novo Hamburgo / RS,Brasil / RS,03/07/2024,20:00,Estádio do Vale / Novo Hamburgo
+127,Cascavel / PR,Hercilio Luz / SC,21/05/2024,19:00,Arnaldo Busatto / Cascavel
+128,Concordia Atlético Clube / SC,Barra / SC,19/05/2024,17:00,Domingos Machado de Lima / Concordia
+129,Manaus / AM,Manauara / AM,26/05/2024,16:30,Ismael Benigno / Manaus
+130,Princesa do Solimões / AM,Gazin Porto Velho / RO,25/05/2024,17:00,Gilberto Mestrinho / Manacapuru
+131,Trem / AP,Rio Branco / AC,27/05/2024,20:15,Estádio Milton de Souza Correa / Macapa
+132,Humaitá / AC,São Raimundo / RR,25/05/2024,17:00,Antonio Aquino Lopes / Rio Branco
+133,Altos / PI,Fluminense / PI,25/05/2024,16:00,Lindolfo Monteiro / Teresina
+134,Ríver / PI,Tocantinópolis / TO,26/05/2024,16:00,Governador Alberto Silva / Teresina
+135,Cametá / PA,Maranhão / MA,26/05/2024,16:00,Orfelino Martins Valente / Cameta
+136,Moto Club / MA,Aguia de Maraba / PA,26/05/2024,18:00,Nhozinho Santos / Sao Luis
+137,Potiguar / RN,Santa Cruz de Natal / RN,26/05/2024,15:30,Edgar Borges Montenegro / Assu
+138,Sousa / PB,América F.c. / RN,26/05/2024,16:00,Antônio Mariz / Sousa
+139,Atlético / CE,Treze / PB,25/05/2024,16:00,Horácio Domingos de Sousa / Horizonte
+140,Maracana / CE,Iguatu / CE,26/05/2024,15:30,Estádio Municipal Prefeito Almir Dutra / Maracanau
+141,Itabaiana / SE,Sergipe / SE,26/05/2024,16:00,Paulo Barreto de Menezes / Lagarto
+142,Petrolina / PE,Retrô / PE,25/05/2024,16:00,Paulo Coelho / Petrolina
+143,Juazeirense / BA,ASA / AL,25/05/2024,16:00,Adauto Moraes / Juazeiro
+144,CSE / AL,Jacuipense / BA,25/05/2024,17:00,Juca Sampaio / Palmeira dos Indios
+145,Anápolis / GO,Ipora / GO,25/05/2024,16:00,Jonas Ferreira Duarte / Anapolis
+146,Capital / TO,Crac / GO,26/05/2024,16:00,Nilton Santos / Palmas
+147,Brasiliense / DF,União de Rondonópolis / MT,26/05/2024,15:30,Elmo Serejo Farias / Brasilia
+148,Mixto / MT,Real Brasília / DF,25/05/2024,18:00,Arena Pantanal / Cuiaba
+149,Audax Rio / RJ,Portuguesa / RJ,25/05/2024,15:30,Guilherme da Silveira Filho / Rio de Janeiro
+150,Itabuna / BA,Nova Iguaçu / RJ,25/05/2024,16:00,Manoel Barradas / Salvador
+151,Serra F.c. / ES,Ipatinga / MG,24/05/2024,20:00,Roberto Costa / Serra
+152,Democrata / MG,Real Noroeste / ES,28/05/2024,19:30,Joaquim Henrique Nogueira / Sete Lagoas
+153,Agua Santa / SP,São Jose / SP,25/05/2024,18:00,Oswaldo Teixeira Duarte / Sao Paulo
+154,Inter de Limeira / SP,Santo André / SP,25/05/2024,16:00,Major José Levy Sobrinho / Limeira
+155,Atlético Patrocinense / MG,Costa Rica / MS,25/05/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+156,Maringa / PR,Pouso Alegre / MG,26/05/2024,19:30,Willie Davids / Maringa
+157,Brasil / RS,Avenida / RS,10/07/2024,20:00,Bento da Silva Freitas / Pelotas
+158,Leao do Vale - Cianorte / PR,Novo Hamburgo / RS,10/07/2024,20:00,Albino Turbay / Cianorte
+159,Concordia Atlético Clube / SC,Cascavel / PR,26/05/2024,17:00,Domingos Machado de Lima / Concordia
+160,Barra / SC,Hercilio Luz / SC,26/05/2024,16:00,Hercílio Luz / Itajai
+161,Manauara / AM,Humaitá / AC,01/06/2024,16:00,Ismael Benigno / Manaus
+162,Rio Branco / AC,Gazin Porto Velho / RO,01/06/2024,19:00,Antonio Aquino Lopes / Rio Branco
+163,Princesa do Solimões / AM,Trem / AP,01/06/2024,17:00,Gilberto Mestrinho / Manacapuru
+164,São Raimundo / RR,Manaus / AM,01/06/2024,17:30,Flamarion Vasconcelos / Boa Vista
+165,Fluminense / PI,Moto Club / MA,02/06/2024,17:00,Lindolfo Monteiro / Teresina
+166,Maranhão / MA,Tocantinópolis / TO,02/06/2024,16:00,Nhozinho Santos / Sao Luis
+167,Ríver / PI,Cametá / PA,01/06/2024,17:00,Governador Alberto Silva / Teresina
+168,Aguia de Maraba / PA,Altos / PI,01/06/2024,19:00,Zinho Oliveira / Maraba
+169,Santa Cruz de Natal / RN,Maracana / CE,01/06/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+170,Treze / PB,América F.c. / RN,01/06/2024,16:00,Ernani Sátyro / Campina Grande
+171,Sousa / PB,Atlético / CE,02/06/2024,16:00,Antônio Mariz / Sousa
+172,Iguatu / CE,Potiguar / RN,31/05/2024,19:00,Antônio Moreno de Melo / Iguatu
+173,Sergipe / SE,CSE / AL,02/06/2024,16:00,Lourival Baptista / Aracaju
+174,ASA / AL,Retrô / PE,01/06/2024,17:00,Coaracy da Mata Fonseca / Arapiraca
+175,Petrolina / PE,Juazeirense / BA,01/06/2024,16:00,Paulo Coelho / Petrolina
+176,Jacuipense / BA,Itabaiana / SE,01/06/2024,15:00,Roberto Santos / Salvador
+177,Ipora / GO,Mixto / MT,02/06/2024,15:00,Francisco José Ferreira / Ipora
+178,União de Rondonópolis / MT,Crac / GO,01/06/2024,16:30,Luthero Lopes / Rondonopolis
+179,Capital / TO,Brasiliense / DF,01/06/2024,18:30,Nilton Santos / Palmas
+180,Real Brasília / DF,Anápolis / GO,02/06/2024,15:00,Ciro Machado  / Brasilia
+181,Portuguesa / RJ,Democrata / MG,04/06/2024,20:00,Luso Brasileiro / Rio de Janeiro
+182,Ipatinga / MG,Nova Iguaçu / RJ,01/06/2024,17:00,João Lamego Neto / Ipatinga
+183,Itabuna / BA,Serra F.c. / ES,02/06/2024,16:00,Roberto Santos / Salvador
+184,Real Noroeste / ES,Audax Rio / RJ,02/06/2024,15:30,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+185,São Jose / SP,Maringa / PR,01/06/2024,18:00,Martins Pereira / Sao Jose dos Campos
+186,Costa Rica / MS,Santo André / SP,02/06/2024,16:00,Laerte Paes Coelho / Costa Rica
+187,Inter de Limeira / SP,Atlético Patrocinense / MG,01/06/2024,16:00,Major José Levy Sobrinho / Limeira
+188,Pouso Alegre / MG,Agua Santa / SP,02/06/2024,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+189,Avenida / RS,Barra / SC,01/06/2024,15:30,Estádio dos Eucaliptos / 
+190,Cascavel / PR,Novo Hamburgo / RS,02/06/2024,16:00,Arnaldo Busatto / Cascavel
+191,Leao do Vale - Cianorte / PR,Concordia Atlético Clube / SC,01/06/2024,18:00,Albino Turbay / Cianorte
+192,Hercilio Luz / SC,Brasil / RS,01/06/2024,17:30,Aníbal Torres Costa / Tubarao
+193,Trem / AP,Manauara / AM,08/06/2024,15:30,Estádio Milton de Souza Correa / Macapa
+194,Gazin Porto Velho / RO,São Raimundo / RR,08/06/2024,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+195,Humaitá / AC,Princesa do Solimões / AM,08/06/2024,17:00,Antonio Aquino Lopes / Rio Branco
+196,Manaus / AM,Rio Branco / AC,09/06/2024,16:30,Ismael Benigno / Manaus
+197,Cametá / PA,Fluminense / PI,09/06/2024,16:00,Orfelino Martins Valente / Cameta
+198,Tocantinópolis / TO,Aguia de Maraba / PA,09/06/2024,16:00,João Ribeiro / Tocantinopolis
+199,Moto Club / MA,Ríver / PI,09/06/2024,16:00,Governador João Castelo / Sao Luis
+200,Altos / PI,Maranhão / MA,08/06/2024,16:00,Lindolfo Monteiro / Teresina
+201,Atlético / CE,Santa Cruz de Natal / RN,08/06/2024,16:00,Horácio Domingos de Sousa / Horizonte
+202,América F.c. / RN,Iguatu / CE,08/06/2024,16:00,Arena das Dunas / Natal
+203,Maracana / CE,Sousa / PB,09/06/2024,15:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+204,Potiguar / RN,Treze / PB,09/06/2024,15:30,Edgar Borges Montenegro / Assu
+205,Juazeirense / BA,Sergipe / SE,08/06/2024,16:00,Adauto Moraes / Juazeiro
+206,Retrô / PE,Jacuipense / BA,09/06/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+207,CSE / AL,Petrolina / PE,08/06/2024,17:00,Juca Sampaio / Palmeira dos Indios
+208,Itabaiana / SE,ASA / AL,09/06/2024,16:00,Paulo Barreto de Menezes / Lagarto
+209,Brasiliense / DF,Ipora / GO,09/06/2024,15:30,Elmo Serejo Farias / Brasilia
+210,Crac / GO,Real Brasília / DF,08/06/2024,18:00,Genervino Evangelista da Fonseca / Catalao
+211,Mixto / MT,Capital / TO,08/06/2024,18:00,Arena Pantanal / Cuiaba
+212,Anápolis / GO,União de Rondonópolis / MT,08/06/2024,17:00,Jonas Ferreira Duarte / Anapolis
+213,Serra F.c. / ES,Portuguesa / RJ,08/06/2024,16:00,Roberto Costa / Serra
+214,Nova Iguaçu / RJ,Real Noroeste / ES,08/06/2024,15:00,Jânio Moraes / Nova Iguacu
+215,Democrata / MG,Itabuna / BA,09/06/2024,19:30,Joaquim Henrique Nogueira / Sete Lagoas
+216,Audax Rio / RJ,Ipatinga / MG,08/06/2024,15:30,Guilherme da Silveira Filho / Rio de Janeiro
+217,Atlético Patrocinense / MG,São Jose / SP,08/06/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+218,Santo André / SP,Pouso Alegre / MG,08/06/2024,15:00,Bruno José Daniel / Santo Andre
+219,Maringa / PR,Inter de Limeira / SP,09/06/2024,18:30,Willie Davids / Maringa
+220,Agua Santa / SP,Costa Rica / MS,08/06/2024,18:00,José Batista Pereira Fernandes / Diadema
+221,Concordia Atlético Clube / SC,Avenida / RS,08/06/2024,16:00,Domingos Machado de Lima / Concordia
+222,Novo Hamburgo / RS,Hercilio Luz / SC,08/06/2024,16:00,Estádio do Vale / Novo Hamburgo
+223,Barra / SC,Leao do Vale - Cianorte / PR,09/06/2024,16:00,Hercílio Luz / Itajai
+224,Brasil / RS,Cascavel / PR,09/06/2024,16:00,Bento da Silva Freitas / Pelotas
+225,Manauara / AM,Trem / AP,12/06/2024,16:00,Ismael Benigno / Manaus
+226,São Raimundo / RR,Gazin Porto Velho / RO,26/06/2024,20:00,Flamarion Vasconcelos / Boa Vista
+227,Princesa do Solimões / AM,Humaitá / AC,13/06/2024,19:00,Gilberto Mestrinho / Manacapuru
+228,Rio Branco / AC,Manaus / AM,12/06/2024,21:00,Antonio Aquino Lopes / Rio Branco
+229,Fluminense / PI,Cametá / PA,13/06/2024,19:00,Lindolfo Monteiro / Teresina
+230,Aguia de Maraba / PA,Tocantinópolis / TO,12/06/2024,20:00,Zinho Oliveira / Maraba
+231,Ríver / PI,Moto Club / MA,12/06/2024,19:00,Governador Alberto Silva / Teresina
+232,Maranhão / MA,Altos / PI,11/06/2024,19:30,Governador João Castelo / Sao Luis
+233,Santa Cruz de Natal / RN,Atlético / CE,12/06/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+234,Iguatu / CE,América F.c. / RN,12/06/2024,19:00,Antônio Moreno de Melo / Iguatu
+235,Sousa / PB,Maracana / CE,12/06/2024,20:00,Antônio Mariz / Sousa
+236,Treze / PB,Potiguar / RN,13/06/2024,20:00,Ernani Sátyro / Campina Grande
+237,Sergipe / SE,Juazeirense / BA,12/06/2024,20:00,Lourival Baptista / Aracaju
+238,Jacuipense / BA,Retrô / PE,12/06/2024,15:00,Roberto Santos / Salvador
+239,Petrolina / PE,CSE / AL,12/06/2024,19:00,Paulo Coelho / Petrolina
+240,ASA / AL,Itabaiana / SE,12/06/2024,20:00,Coaracy da Mata Fonseca / Arapiraca
+241,Ipora / GO,Brasiliense / DF,12/06/2024,15:00,Francisco José Ferreira / Ipora
+242,Real Brasília / DF,Crac / GO,12/06/2024,15:00,Ciro Machado do Espirito Santo  / Brasilia
+243,Capital / TO,Mixto / MT,12/06/2024,20:00,Nilton Santos / Palmas
+244,União de Rondonópolis / MT,Anápolis / GO,12/06/2024,16:30,Luthero Lopes / Rondonopolis
+245,Portuguesa / RJ,Serra F.c. / ES,12/06/2024,20:00,Luso Brasileiro / Rio de Janeiro
+246,Real Noroeste / ES,Nova Iguaçu / RJ,12/06/2024,19:00,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+247,Itabuna / BA,Democrata / MG,13/06/2024,19:00,Roberto Santos / Salvador
+248,Ipatinga / MG,Audax Rio / RJ,12/06/2024,19:30,João Lamego Neto / Ipatinga
+249,São Jose / SP,Atlético Patrocinense / MG,12/06/2024,20:00,Martins Pereira / Sao Jose dos Campos
+250,Pouso Alegre / MG,Santo André / SP,11/06/2024,19:30,Irmão Gino Maria Rossi / Pouso Alegre
+251,Inter de Limeira / SP,Maringa / PR,12/06/2024,19:30,Major José Levy Sobrinho / Limeira
+252,Costa Rica / MS,Agua Santa / SP,12/06/2024,20:00,Laerte Paes Coelho / Costa Rica
+253,Avenida / RS,Concordia Atlético Clube / SC,12/06/2024,19:00,Estádio dos Eucaliptos / Ivoti
+254,Hercilio Luz / SC,Novo Hamburgo / RS,12/06/2024,20:00,Aníbal Torres Costa / Tubarao
+255,Leao do Vale - Cianorte / PR,Barra / SC,12/06/2024,19:00,Albino Turbay / Cianorte
+256,Cascavel / PR,Brasil / RS,12/06/2024,20:00,Arnaldo Busatto / Cascavel
+257,Humaitá / AC,Manauara / AM,16/06/2024,19:00,Antonio Aquino Lopes / Rio Branco
+258,Gazin Porto Velho / RO,Rio Branco / AC,15/06/2024,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+259,Trem / AP,Princesa do Solimões / AM,17/06/2024,20:15,Estádio Milton de Souza Correa / Macapa
+260,Manaus / AM,São Raimundo / RR,16/06/2024,16:30,Ismael Benigno / Manaus
+261,Moto Club / MA,Fluminense / PI,16/06/2024,16:00,Nhozinho Santos / Sao Luis
+262,Tocantinópolis / TO,Maranhão / MA,18/06/2024,19:00,João Ribeiro / Tocantinopolis
+263,Cametá / PA,Ríver / PI,16/06/2024,16:00,Orfelino Martins Valente / Cameta
+264,Altos / PI,Aguia de Maraba / PA,15/06/2024,16:00,Lindolfo Monteiro / Teresina
+265,Maracana / CE,Santa Cruz de Natal / RN,16/06/2024,15:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+266,América F.c. / RN,Treze / PB,16/06/2024,18:00,Arena das Dunas / Natal
+267,Atlético / CE,Sousa / PB,16/06/2024,16:00,Horácio Domingos de Sousa / Horizonte
+268,Potiguar / RN,Iguatu / CE,16/06/2024,16:00,Edgar Borges Montenegro / Assu
+269,CSE / AL,Sergipe / SE,15/06/2024,17:00,Juca Sampaio / Palmeira dos Indios
+270,Retrô / PE,ASA / AL,15/06/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+271,Juazeirense / BA,Petrolina / PE,16/06/2024,16:00,Adauto Moraes / Juazeiro
+272,Itabaiana / SE,Jacuipense / BA,16/06/2024,16:00,Lourival Baptista / Aracaju
+273,Mixto / MT,Ipora / GO,15/06/2024,18:00,Eurico Gaspar Dutra / Cuiaba
+274,Crac / GO,União de Rondonópolis / MT,16/06/2024,17:00,Genervino Evangelista da Fonseca / Catalao
+275,Brasiliense / DF,Capital / TO,16/06/2024,15:30,Elmo Serejo Farias / Brasilia
+276,Anápolis / GO,Real Brasília / DF,16/06/2024,16:00,Jonas Ferreira Duarte / Anapolis
+277,Democrata / MG,Portuguesa / RJ,19/06/2024,19:30,Joaquim Henrique Nogueira / Sete Lagoas
+278,Nova Iguaçu / RJ,Ipatinga / MG,16/06/2024,15:00,Jânio Moraes / Nova Iguacu
+279,Serra F.c. / ES,Itabuna / BA,16/06/2024,16:00,Roberto Costa / Serra
+280,Audax Rio / RJ,Real Noroeste / ES,15/06/2024,15:30,Guilherme da Silveira Filho / Rio de Janeiro
+281,Maringa / PR,São Jose / SP,16/06/2024,18:30,Willie Davids / Maringa
+282,Santo André / SP,Costa Rica / MS,16/06/2024,15:00,Bruno José Daniel / Santo Andre
+283,Atlético Patrocinense / MG,Inter de Limeira / SP,15/06/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+284,Agua Santa / SP,Pouso Alegre / MG,17/06/2024,20:00,José Batista Pereira Fernandes / Diadema
+285,Barra / SC,Avenida / RS,15/06/2024,18:00,Hercílio Luz / Itajai
+286,Novo Hamburgo / RS,Cascavel / PR,16/06/2024,16:00,Estádio do Vale / Novo Hamburgo
+287,Concordia Atlético Clube / SC,Leao do Vale - Cianorte / PR,16/06/2024,17:00,Domingos Machado de Lima / Concordia
+288,Brasil / RS,Hercilio Luz / SC,16/06/2024,16:00,Bento da Silva Freitas / Pelotas
+289,Manauara / AM,Manaus / AM,22/06/2024,16:00,Ismael Benigno / Manaus
+290,Gazin Porto Velho / RO,Princesa do Solimões / AM,23/06/2024,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+291,Rio Branco / AC,Trem / AP,22/06/2024,21:00,Antonio Aquino Lopes / Rio Branco
+292,São Raimundo / RR,Humaitá / AC,22/06/2024,18:00,Flamarion Vasconcelos / Boa Vista
+293,Fluminense / PI,Altos / PI,26/06/2024,19:00,Lindolfo Monteiro / Teresina
+294,Tocantinópolis / TO,Ríver / PI,23/06/2024,16:00,João Ribeiro / Tocantinopolis
+295,Maranhão / MA,Cametá / PA,27/06/2024,19:30,Nhozinho Santos / Sao Luis
+296,Aguia de Maraba / PA,Moto Club / MA,22/06/2024,17:00,Zinho Oliveira / Maraba
+297,Santa Cruz de Natal / RN,Potiguar / RN,26/06/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+298,América F.c. / RN,Sousa / PB,27/06/2024,20:00,Arena das Dunas / Natal
+299,Treze / PB,Atlético / CE,20/06/2024,20:00,Ernani Sátyro / Campina Grande
+300,Iguatu / CE,Maracana / CE,27/06/2024,19:00,Antônio Moreno de Melo / Iguatu
+301,Sergipe / SE,Itabaiana / SE,26/06/2024,20:00,Lourival Baptista / Aracaju
+302,Retrô / PE,Petrolina / PE,26/06/2024,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+303,ASA / AL,Juazeirense / BA,26/06/2024,19:30,Coaracy da Mata Fonseca / Arapiraca
+304,Jacuipense / BA,CSE / AL,26/06/2024,15:00,Roberto Santos / Salvador
+305,Ipora / GO,Anápolis / GO,22/06/2024,15:00,Francisco José Ferreira / Ipora
+306,Crac / GO,Capital / TO,23/06/2024,17:00,Genervino Evangelista da Fonseca / Catalao
+307,União de Rondonópolis / MT,Brasiliense / DF,22/06/2024,16:30,Luthero Lopes / Rondonopolis
+308,Real Brasília / DF,Mixto / MT,23/06/2024,15:00,Ciro Machado do Espirito Santo  / Brasilia
+309,Portuguesa / RJ,Audax Rio / RJ,22/06/2024,18:30,Luso Brasileiro / Rio de Janeiro
+310,Nova Iguaçu / RJ,Itabuna / BA,22/06/2024,15:00,Jânio Moraes / Nova Iguacu
+311,Ipatinga / MG,Serra F.c. / ES,22/06/2024,17:00,João Lamego Neto / Ipatinga
+312,Real Noroeste / ES,Democrata / MG,25/06/2024,19:00,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+313,São Jose / SP,Agua Santa / SP,22/06/2024,16:00,Martins Pereira / Sao Jose dos Campos
+314,Santo André / SP,Inter de Limeira / SP,22/06/2024,15:00,Bruno José Daniel / Santo Andre
+315,Costa Rica / MS,Atlético Patrocinense / MG,23/06/2024,16:00,Laerte Paes Coelho / Costa Rica
+316,Pouso Alegre / MG,Maringa / PR,22/06/2024,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+317,Avenida / RS,Brasil / RS,23/06/2024,15:00,Estádio dos Eucaliptos / Santa Cruz do Sul
+318,Novo Hamburgo / RS,Leao do Vale - Cianorte / PR,22/06/2024,15:00,Estádio do Vale / Novo Hamburgo
+319,Cascavel / PR,Concordia Atlético Clube / SC,23/06/2024,16:00,Arnaldo Busatto / Cascavel
+320,Hercilio Luz / SC,Barra / SC,23/06/2024,16:00,Aníbal Torres Costa / Tubarao
+321,Princesa do Solimões / AM,Manauara / AM,29/06/2024,17:00,Gilberto Mestrinho / Manacapuru
+322,Manaus / AM,Gazin Porto Velho / RO,30/06/2024,16:30,Ismael Benigno / Manaus
+323,São Raimundo / RR,Rio Branco / AC,29/06/2024,18:00,Flamarion Vasconcelos / Boa Vista
+324,Humaitá / AC,Trem / AP,29/06/2024,19:00,Antonio Aquino Lopes / Rio Branco
+325,Ríver / PI,Fluminense / PI,29/06/2024,17:00,Governador Alberto Silva / Teresina
+326,Altos / PI,Tocantinópolis / TO,03/07/2024,19:00,Lindolfo Monteiro / Teresina
+327,Aguia de Maraba / PA,Maranhão / MA,30/06/2024,17:00,Zinho Oliveira / Maraba
+328,Moto Club / MA,Cametá / PA,03/07/2024,20:00,Governador João Castelo / Sao Luis
+330,Potiguar / RN,América F.c. / RN,03/07/2024,20:00,Edgar Borges Montenegro / Assu
+331,Iguatu / CE,Treze / PB,02/07/2024,19:00,Antônio Moreno de Melo / Iguatu
+332,Maracana / CE,Atlético / CE,03/07/2024,15:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+333,Petrolina / PE,Sergipe / SE,03/07/2024,19:00,Paulo Coelho / Petrolina
+334,Itabaiana / SE,Retrô / PE,03/07/2024,20:00,Paulo Barreto de Menezes / Lagarto
+335,Jacuipense / BA,ASA / AL,04/07/2024,15:00,Roberto Santos / Salvador
+336,CSE / AL,Juazeirense / BA,03/07/2024,19:00,Juca Sampaio / Palmeira dos Indios
+337,Capital / TO,Ipora / GO,29/06/2024,18:00,Nilton Santos / Palmas
+338,Anápolis / GO,Crac / GO,29/06/2024,17:00,Jonas Ferreira Duarte / Anapolis
+339,Real Brasília / DF,União de Rondonópolis / MT,30/06/2024,15:00,Ciro Machado do Espirito Santo  / Brasilia
+340,Mixto / MT,Brasiliense / DF,01/07/2024,20:00,Eurico Gaspar Dutra / Cuiaba
+341,Itabuna / BA,Portuguesa / RJ,03/07/2024,19:00,Roberto Santos / Salvador
+342,Audax Rio / RJ,Nova Iguaçu / RJ,29/06/2024,15:30,Guilherme da Silveira Filho / Rio de Janeiro
+343,Real Noroeste / ES,Ipatinga / MG,29/06/2024,15:30,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+344,Democrata / MG,Serra F.c. / ES,01/07/2024,19:30,Joaquim Henrique Nogueira / Sete Lagoas
+345,Inter de Limeira / SP,São Jose / SP,29/06/2024,16:00,Major José Levy Sobrinho / Limeira
+346,Agua Santa / SP,Santo André / SP,29/06/2024,18:00,José Batista Pereira Fernandes / Diadema
+347,Pouso Alegre / MG,Costa Rica / MS,29/06/2024,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+348,Maringa / PR,Atlético Patrocinense / MG,30/06/2024,18:30,Willie Davids / Maringa
+349,Leao do Vale - Cianorte / PR,Avenida / RS,29/06/2024,19:30,Albino Turbay / Cianorte
+350,Brasil / RS,Novo Hamburgo / RS,30/06/2024,16:00,Bento da Silva Freitas / Pelotas
+351,Hercilio Luz / SC,Cascavel / PR,29/06/2024,17:30,Aníbal Torres Costa / Tubarao
+352,Barra / SC,Concordia Atlético Clube / SC,30/06/2024,16:00,Hercílio Luz / Itajai
+353,Gazin Porto Velho / RO,Manauara / AM,07/07/2024,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+354,Manaus / AM,Princesa do Solimões / AM,06/07/2024,16:30,Ismael Benigno / Manaus
+355,Rio Branco / AC,Humaitá / AC,06/07/2024,21:00,Antonio Aquino Lopes / Rio Branco
+356,Trem / AP,São Raimundo / RR,08/07/2024,20:00,Estádio Milton de Souza Correa / Macapa
+357,Tocantinópolis / TO,Fluminense / PI,07/07/2024,16:00,João Ribeiro / Tocantinopolis
+358,Altos / PI,Ríver / PI,07/07/2024,16:00,Lindolfo Monteiro / Teresina
+359,Maranhão / MA,Moto Club / MA,07/07/2024,16:00,Governador João Castelo / Sao Luis
+360,Cametá / PA,Aguia de Maraba / PA,09/07/2024,20:00,Orfelino Martins Valente / Cameta
+361,América F.c. / RN,Santa Cruz de Natal / RN,07/07/2024,18:00,Arena das Dunas / Natal
+362,Potiguar / RN,Sousa / PB,07/07/2024,16:00,Edgar Borges Montenegro / Assu
+363,Treze / PB,Maracana / CE,07/07/2024,16:00,Ernani Sátyro / Campina Grande
+364,Atlético / CE,Iguatu / CE,07/07/2024,16:00,Horácio Domingos de Sousa / Horizonte
+365,Retrô / PE,Sergipe / SE,08/07/2024,20:00,José do Rêgo Maciel / Recife
+366,Itabaiana / SE,Petrolina / PE,07/07/2024,16:00,Paulo Barreto de Menezes / Lagarto
+367,ASA / AL,CSE / AL,07/07/2024,17:00,Coaracy da Mata Fonseca / Arapiraca
+368,Juazeirense / BA,Jacuipense / BA,07/07/2024,16:00,Adauto Moraes / Juazeiro
+369,Crac / GO,Ipora / GO,07/07/2024,17:00,Genervino Evangelista da Fonseca / Catalao
+370,Anápolis / GO,Capital / TO,07/07/2024,16:00,Jonas Ferreira Duarte / Anapolis
+371,União de Rondonópolis / MT,Mixto / MT,06/07/2024,16:30,Luthero Lopes / Rondonopolis
+372,Brasiliense / DF,Real Brasília / DF,07/07/2024,15:30,Elmo Serejo Farias / Brasilia
+373,Nova Iguaçu / RJ,Portuguesa / RJ,06/07/2024,15:00,Jânio Moraes / Nova Iguacu
+374,Audax Rio / RJ,Itabuna / BA,06/07/2024,15:30,Guilherme da Silveira Filho / Rio de Janeiro
+375,Ipatinga / MG,Democrata / MG,06/07/2024,17:00,João Lamego Neto / Ipatinga
+376,Serra F.c. / ES,Real Noroeste / ES,06/07/2024,16:00,Roberto Costa / Serra
+377,Santo André / SP,São Jose / SP,06/07/2024,15:00,Bruno José Daniel / Santo Andre
+378,Agua Santa / SP,Inter de Limeira / SP,06/07/2024,18:00,José Batista Pereira Fernandes / Diadema
+379,Costa Rica / MS,Maringa / PR,07/07/2024,16:00,Laerte Paes Coelho / Costa Rica
+380,Atlético Patrocinense / MG,Pouso Alegre / MG,06/07/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+381,Novo Hamburgo / RS,Avenida / RS,06/07/2024,16:00,Estádio do Vale / Novo Hamburgo
+382,Brasil / RS,Leao do Vale - Cianorte / PR,07/07/2024,16:00,Bento da Silva Freitas / Pelotas
+383,Cascavel / PR,Barra / SC,07/07/2024,16:00,Arnaldo Busatto / Cascavel
+384,Concordia Atlético Clube / SC,Hercilio Luz / SC,07/07/2024,16:00,Domingos Machado de Lima / Concordia
+385,Manauara / AM,São Raimundo / RR,13/07/2024,16:00,Ismael Benigno / Manaus
+386,Trem / AP,Gazin Porto Velho / RO,13/07/2024,18:00,Estádio Milton de Souza Correa / Macapa
+387,Princesa do Solimões / AM,Rio Branco / AC,13/07/2024,17:00,Gilberto Mestrinho / Manacapuru
+388,Humaitá / AC,Manaus / AM,13/07/2024,17:00,Antonio Aquino Lopes / Rio Branco
+389,Fluminense / PI,Aguia de Maraba / PA,14/07/2024,17:00,Governador Alberto Silva / Teresina
+390,Cametá / PA,Tocantinópolis / TO,14/07/2024,16:00,Orfelino Martins Valente / Cameta
+391,Ríver / PI,Maranhão / MA,13/07/2024,16:00,Governador Alberto Silva / Teresina
+392,Moto Club / MA,Altos / PI,14/07/2024,16:00,Governador João Castelo / Sao Luis
+393,Santa Cruz de Natal / RN,Iguatu / CE,13/07/2024,15:00,Manoel Dantas Barretto / Ceara-Mirim
+394,Atlético / CE,América F.c. / RN,13/07/2024,16:00,Horácio Domingos de Sousa / Horizonte
+395,Sousa / PB,Treze / PB,14/07/2024,16:00,Antônio Mariz / Sousa
+396,Maracana / CE,Potiguar / RN,14/07/2024,15:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+397,Sergipe / SE,Jacuipense / BA,13/07/2024,16:00,Lourival Baptista / Aracaju
+398,Juazeirense / BA,Retrô / PE,13/07/2024,16:00,Adauto Moraes / Juazeiro
+399,Petrolina / PE,ASA / AL,13/07/2024,16:00,Paulo Coelho / Petrolina
+400,CSE / AL,Itabaiana / SE,14/07/2024,16:00,Juca Sampaio / Palmeira dos Indios
+401,Ipora / GO,Real Brasília / DF,13/07/2024,15:00,Francisco José Ferreira / Ipora
+402,Brasiliense / DF,Crac / GO,14/07/2024,15:30,Elmo Serejo Farias / Brasilia
+403,Capital / TO,União de Rondonópolis / MT,13/07/2024,16:00,Nilton Santos / Palmas
+404,Mixto / MT,Anápolis / GO,13/07/2024,18:00,Arena Pantanal / Cuiaba
+405,Portuguesa / RJ,Real Noroeste / ES,13/07/2024,17:00,Luso Brasileiro / Rio de Janeiro
+406,Serra F.c. / ES,Nova Iguaçu / RJ,12/07/2024,20:00,Roberto Costa / Serra
+407,Itabuna / BA,Ipatinga / MG,13/07/2024,19:00,Roberto Santos / Salvador
+408,Democrata / MG,Audax Rio / RJ,14/07/2024,16:00,Joaquim Henrique Nogueira / Sete Lagoas
+409,São Jose / SP,Pouso Alegre / MG,13/07/2024,16:00,Martins Pereira / Sao Jose dos Campos
+410,Atlético Patrocinense / MG,Santo André / SP,13/07/2024,16:00,Pedro Alves do Nascimento / Patrocinio
+411,Inter de Limeira / SP,Costa Rica / MS,13/07/2024,16:00,Major José Levy Sobrinho / Limeira
+412,Maringa / PR,Agua Santa / SP,13/07/2024,18:30,Willie Davids / Maringa
+413,Avenida / RS,Hercilio Luz / SC,14/07/2024,15:00,Estádio dos Eucaliptos / Santa Cruz do Sul
+414,Concordia Atlético Clube / SC,Novo Hamburgo / RS,14/07/2024,16:00,Domingos Machado de Lima / Concordia
+415,Leao do Vale - Cianorte / PR,Cascavel / PR,14/07/2024,16:00,Albino Turbay / Cianorte
+416,Barra / SC,Brasil / RS,14/07/2024,16:00,Hercílio Luz / Itajai
+417,Rio Branco / AC,Manauara / AM,20/07/2024,17:00,Antonio Aquino Lopes / Rio Branco
+418,Gazin Porto Velho / RO,Humaitá / AC,20/07/2024,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+419,São Raimundo / RR,Princesa do Solimões / AM,20/07/2024,17:00,Flamarion Vasconcelos / Boa Vista
+420,Manaus / AM,Trem / AP,20/07/2024,17:00,Arena da Amazônia / Manaus
+421,Maranhão / MA,Fluminense / PI,21/07/2024,16:00,Governador João Castelo / Sao Luis
+422,Tocantinópolis / TO,Moto Club / MA,21/07/2024,16:00,João Ribeiro / Tocantinopolis
+423,Aguia de Maraba / PA,Ríver / PI,21/07/2024,16:00,Zinho Oliveira / Maraba
+424,Altos / PI,Cametá / PA,21/07/2024,16:00,Lindolfo Monteiro / Teresina
+425,Treze / PB,Santa Cruz de Natal / RN,21/07/2024,16:00,Ernani Sátyro / Campina Grande
+426,América F.c. / RN,Maracana / CE,21/07/2024,16:00,Arena das Dunas / Natal
+427,Iguatu / CE,Sousa / PB,21/07/2024,16:00,Antônio Moreno de Melo / Iguatu
+428,Potiguar / RN,Atlético / CE,21/07/2024,16:00,Edgar Borges Montenegro / Assu
+429,ASA / AL,Sergipe / SE,21/07/2024,16:00,Coaracy da Mata Fonseca / Arapiraca
+430,Retrô / PE,CSE / AL,21/07/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+431,Jacuipense / BA,Petrolina / PE,21/07/2024,16:00,Roberto Santos / Salvador
+432,Itabaiana / SE,Juazeirense / BA,21/07/2024,16:00,Paulo Barreto de Menezes / Lagarto
+433,União de Rondonópolis / MT,Ipora / GO,20/07/2024,16:30,Luthero Lopes / Rondonopolis
+434,Crac / GO,Mixto / MT,20/07/2024,16:30,Genervino Evangelista da Fonseca / Catalao
+435,Real Brasília / DF,Capital / TO,20/07/2024,16:30,Valmir Campelo Bezerro / INDEFINIDO
+436,Anápolis / GO,Brasiliense / DF,20/07/2024,16:30,Anibal Batista de Toledo / Aparecida de Goiania
+437,Ipatinga / MG,Portuguesa / RJ,20/07/2024,15:00,João Lamego Neto / Ipatinga
+438,Nova Iguaçu / RJ,Democrata / MG,20/07/2024,15:00,Jânio Moraes / Nova Iguacu
+439,Real Noroeste / ES,Itabuna / BA,20/07/2024,15:00,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+440,Audax Rio / RJ,Serra F.c. / ES,20/07/2024,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+441,Costa Rica / MS,São Jose / SP,20/07/2024,16:00,Laerte Paes Coelho / Costa Rica
+442,Santo André / SP,Maringa / PR,20/07/2024,16:00,Bruno José Daniel / Santo Andre
+443,Pouso Alegre / MG,Inter de Limeira / SP,20/07/2024,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+444,Agua Santa / SP,Atlético Patrocinense / MG,20/07/2024,16:00,José Batista Pereira Fernandes / Diadema
+445,Cascavel / PR,Avenida / RS,21/07/2024,16:00,Arnaldo Busatto / Cascavel
+446,Novo Hamburgo / RS,Barra / SC,21/07/2024,16:00,Estádio do Vale / Novo Hamburgo
+447,Hercilio Luz / SC,Leao do Vale - Cianorte / PR,21/07/2024,16:00,Aníbal Torres Costa / Tubarao
+448,Brasil / RS,Concordia Atlético Clube / SC,21/07/2024,16:00,Bento da Silva Freitas / Pelotas
+449,Tocantinópolis / TO,Manauara / AM,27/07/2024,16:00,João Ribeiro / Tocantinopolis
+450,Princesa do Solimões / AM,Altos / PI,27/07/2024,17:00,Gilberto Mestrinho / Manacapuru
+451,Manaus / AM,Maranhão / MA,27/07/2024,18:00,Arena da Amazônia / Manaus
+452,Ríver / PI,Gazin Porto Velho / RO,28/07/2024,17:00,Governador Alberto Silva / Teresina
+453,ASA / AL,Treze / PB,28/07/2024,16:00,Coaracy da Mata Fonseca / Arapiraca
+454,América F.c. / RN,Retrô / PE,27/07/2024,18:00,Arena das Dunas / Natal
+455,Atlético / CE,Itabaiana / SE,28/07/2024,16:00,Horácio Domingos de Sousa / Horizonte
+456,Jacuipense / BA,Iguatu / CE,27/07/2024,15:00,Roberto Santos / Salvador
+457,Real Noroeste / ES,Brasiliense / DF,27/07/2024,16:00,Estádio Municipal Joaquim Alves de Souza / Barra de Sao Francisco
+458,Mixto / MT,Portuguesa / RJ,27/07/2024,18:00,Eurico Gaspar Dutra / Cuiaba
+459,Crac / GO,Nova Iguaçu / RJ,28/07/2024,17:00,Genervino Evangelista da Fonseca / Catalao
+460,Itabuna / BA,Anápolis / GO,28/07/2024,18:00,Roberto Santos / Salvador
+461,Novo Hamburgo / RS,Maringa / PR,27/07/2024,16:00,Estádio do Vale / Novo Hamburgo
+462,Agua Santa / SP,Brasil / RS,27/07/2024,18:00,José Batista Pereira Fernandes / Diadema
+463,Costa Rica / MS,Leao do Vale - Cianorte / PR,28/07/2024,16:00,Laerte Paes Coelho / Costa Rica
+464,Avenida / RS,Inter de Limeira / SP,27/07/2024,18:30,Estádio dos Eucaliptos / Santa Cruz do Sul
+465,Manauara / AM,Tocantinópolis / TO,03/08/2024,16:00,Ismael Benigno / Manaus
+466,Altos / PI,Princesa do Solimões / AM,04/08/2024,16:00,Lindolfo Monteiro / Teresina
+467,Maranhão / MA,Manaus / AM,04/08/2024,16:00,Governador João Castelo / Sao Luis
+468,Gazin Porto Velho / RO,Ríver / PI,03/08/2024,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+469,Treze / PB,ASA / AL,04/08/2024,16:00,Ernani Sátyro / Campina Grande
+470,Retrô / PE,América F.c. / RN,04/08/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+471,Itabaiana / SE,Atlético / CE,04/08/2024,16:00,Etelvino Mendonça / Itabaiana
+472,Iguatu / CE,Jacuipense / BA,03/08/2024,16:00,Antônio Moreno de Melo / Iguatu
+473,Brasiliense / DF,Real Noroeste / ES,04/08/2024,15:30,Elmo Serejo Farias / Brasilia
+474,Portuguesa / RJ,Mixto / MT,03/08/2024,17:00,Luso Brasileiro / Rio de Janeiro
+475,Nova Iguaçu / RJ,Crac / GO,03/08/2024,15:00,Jânio Moraes / Nova Iguacu
+476,Anápolis / GO,Itabuna / BA,04/08/2024,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+477,Maringa / PR,Novo Hamburgo / RS,04/08/2024,18:30,Willie Davids / Maringa
+478,Brasil / RS,Agua Santa / SP,04/08/2024,16:00,Bento da Silva Freitas / Pelotas
+479,Leao do Vale - Cianorte / PR,Costa Rica / MS,04/08/2024,16:00,Albino Turbay / Cianorte
+480,Inter de Limeira / SP,Avenida / RS,03/08/2024,16:00,Major José Levy Sobrinho / Limeira
+481,Retrô / PE,Manauara / AM,11/08/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+482,Altos / PI,Treze / PB,10/08/2024,16:00,Lindolfo Monteiro / Teresina
+483,Manaus / AM,Iguatu / CE,10/08/2024,18:00,Arena da Amazônia / Manaus
+484,Itabaiana / SE,Gazin Porto Velho / RO,11/08/2024,16:00,Etelvino Mendonça / Itabaiana
+485,Brasil / RS,Brasiliense / DF,11/08/2024,16:00,Bento da Silva Freitas / Pelotas
+486,Portuguesa / RJ,Maringa / PR,10/08/2024,17:00,Luso Brasileiro / Rio de Janeiro
+487,Inter de Limeira / SP,Nova Iguaçu / RJ,10/08/2024,16:00,Major José Levy Sobrinho / Limeira
+488,Leao do Vale - Cianorte / PR,Anápolis / GO,11/08/2024,16:00,Albino Turbay / Cianorte
+489,Manauara / AM,Retrô / PE,17/08/2024,16:00,Ismael Benigno / Manaus
+490,Treze / PB,Altos / PI,18/08/2024,16:00,Ernani Sátyro / Campina Grande
+491,Iguatu / CE,Manaus / AM,17/08/2024,18:00,Antônio Moreno de Melo / Iguatu
+492,Gazin Porto Velho / RO,Itabaiana / SE,17/08/2024,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+493,Brasiliense / DF,Brasil / RS,18/08/2024,15:30,Elmo Serejo Farias / Brasilia
+494,Maringa / PR,Portuguesa / RJ,18/08/2024,18:30,Willie Davids / Maringa
+495,Nova Iguaçu / RJ,Inter de Limeira / SP,17/08/2024,15:00,Jânio Moraes / Nova Iguacu
+496,Anápolis / GO,Leao do Vale - Cianorte / PR,18/08/2024,16:00,Jonas Ferreira Duarte / Anapolis
+497,Inter de Limeira / SP,Maringa / PR,24/08/2024,16:00,Major José Levy Sobrinho / Limeira
+498,Anápolis / GO,Iguatu / CE,25/08/2024,16:00,Jonas Ferreira Duarte / Anapolis
+499,Retrô / PE,Brasiliense / DF,25/08/2024,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+500,Itabaiana / SE,Treze / PB,25/08/2024,16:00,Etelvino Mendonça / Itabaiana
+501,Maringa / PR,Inter de Limeira / SP,01/09/2024,18:30,Willie Davids / Maringa
+502,Iguatu / CE,Anápolis / GO,31/08/2024,16:00,Antônio Moreno de Melo / Iguatu
+503,Brasiliense / DF,Retrô / PE,01/09/2024,15:30,Elmo Serejo Farias / Brasilia
+504,Treze / PB,Itabaiana / SE,01/09/2024,16:00,Ernani Sátyro / Campina Grande
+505,Anápolis / GO,Maringa / PR,08/09/2024,16:00,Jonas Ferreira Duarte / Anapolis
+506,Retrô / PE,Itabaiana / SE,08/09/2024,18:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+507,Maringa / PR,Anápolis / GO,15/09/2024,18:30,Willie Davids / Maringa
+508,Itabaiana / SE,Retrô / PE,15/09/2024,16:00,Etelvino Mendonça / Itabaiana
+509,Anápolis / GO,Retrô / PE,22/09/2024,16:00,Jonas Ferreira Duarte / Anapolis
+510,Retrô / PE,Anápolis / GO,29/09/2024,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata

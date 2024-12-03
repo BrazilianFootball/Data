@@ -1,217 +1,217 @@
-Game,Home,Away
-001,São José / RS,Floresta / CE
-002,Paysandu / PA,Aparecidense / GO
-003,Sao Bernardo / SP,Remo / PA
-004,América / RN,Ypiranga / RS
-005,Volta Redonda / RJ,Pouso Alegre / MG
-006,CSA / AL,Confiança / SE
-007,Botafogo / PB,Operário / PR
-008,Altos / PI,Figueirense / SC
-009,Manaus / AM,Náutico / PE
-010,Brusque / SC,Amazonas / AM
-011,Ypiranga / RS,CSA / AL
-012,Remo / PA,Botafogo / PB
-013,Operário / PR,Manaus / AM
-014,Náutico / PE,São José / RS
-015,Pouso Alegre / MG,Brusque / SC
-016,Confiança / SE,Altos / PI
-017,Floresta / CE,Volta Redonda / RJ
-018,Aparecidense / GO,Sao Bernardo / SP
-019,Figueirense / SC,Paysandu / PA
-020,Amazonas / AM,América / RN
-021,Ypiranga / RS,Paysandu / PA
-022,Remo / PA,Amazonas / AM
-023,Operário / PR,São José / RS
-024,América / RN,Botafogo / PB
-025,Pouso Alegre / MG,Sao Bernardo / SP
-026,Confiança / SE,Figueirense / SC
-027,Floresta / CE,CSA / AL
-028,Aparecidense / GO,Náutico / PE
-029,Manaus / AM,Altos / PI
-030,Brusque / SC,Volta Redonda / RJ
-031,São José / RS,Remo / PA
-032,Paysandu / PA,Manaus / AM
-033,Sao Bernardo / SP,Confiança / SE
-034,Náutico / PE,Floresta / CE
-035,Volta Redonda / RJ,América / RN
-036,CSA / AL,Brusque / SC
-037,Botafogo / PB,Pouso Alegre / MG
-038,Altos / PI,Ypiranga / RS
-039,Figueirense / SC,Aparecidense / GO
-040,Amazonas / AM,Operário / PR
-041,Ypiranga / RS,Manaus / AM
-042,Remo / PA,Confiança / SE
-043,Operário / PR,Pouso Alegre / MG
-044,Náutico / PE,América / RN
-045,Volta Redonda / RJ,Paysandu / PA
-046,CSA / AL,Sao Bernardo / SP
-047,Floresta / CE,Amazonas / AM
-048,Aparecidense / GO,Altos / PI
-049,Figueirense / SC,Botafogo / PB
-050,Brusque / SC,São José / RS
-051,Ypiranga / RS,Aparecidense / GO
-052,Paysandu / PA,São José / RS
-053,Sao Bernardo / SP,Figueirense / SC
-054,América / RN,Operário / PR
-055,Pouso Alegre / MG,Náutico / PE
-056,Confiança / SE,Amazonas / AM
-057,Botafogo / PB,Floresta / CE
-058,Altos / PI,CSA / AL
-059,Manaus / AM,Volta Redonda / RJ
-060,Brusque / SC,Remo / PA
-061,São José / RS,Altos / PI
-062,Remo / PA,América / RN
-063,Operário / PR,Paysandu / PA
-064,Náutico / PE,Volta Redonda / RJ
-065,Pouso Alegre / MG,Confiança / SE
-066,CSA / AL,Manaus / AM
-067,Floresta / CE,Sao Bernardo / SP
-068,Aparecidense / GO,Brusque / SC
-069,Figueirense / SC,Ypiranga / RS
-070,Amazonas / AM,Botafogo / PB
-071,Ypiranga / RS,São José / RS
-072,Paysandu / PA,Sao Bernardo / SP
-073,Operário / PR,CSA / AL
-074,América / RN,Brusque / SC
-075,Volta Redonda / RJ,Botafogo / PB
-076,Confiança / SE,Náutico / PE
-077,Floresta / CE,Altos / PI
-078,Aparecidense / GO,Remo / PA
-079,Figueirense / SC,Pouso Alegre / MG
-080,Amazonas / AM,Manaus / AM
-081,Ypiranga / RS,Operário / PR
-082,Paysandu / PA,Floresta / CE
-083,Sao Bernardo / SP,Volta Redonda / RJ
-084,América / RN,Confiança / SE
-085,Pouso Alegre / MG,Remo / PA
-086,CSA / AL,Aparecidense / GO
-087,Botafogo / PB,Náutico / PE
-088,Altos / PI,Amazonas / AM
-089,Manaus / AM,São José / RS
-090,Brusque / SC,Figueirense / SC
-091,São José / RS,Sao Bernardo / SP
-092,Remo / PA,Figueirense / SC
-093,Operário / PR,Aparecidense / GO
-094,Náutico / PE,Amazonas / AM
-095,Volta Redonda / RJ,Ypiranga / RS
-096,CSA / AL,América / RN
-097,Botafogo / PB,Paysandu / PA
-098,Altos / PI,Pouso Alegre / MG
-099,Manaus / AM,Confiança / SE
-100,Brusque / SC,Floresta / CE
-101,São José / RS,América / RN
-102,Paysandu / PA,Brusque / SC
-103,Sao Bernardo / SP,Botafogo / PB
-104,Náutico / PE,Altos / PI
-105,Volta Redonda / RJ,CSA / AL
-106,Confiança / SE,Ypiranga / RS
-107,Floresta / CE,Remo / PA
-108,Aparecidense / GO,Manaus / AM
-109,Figueirense / SC,Operário / PR
-110,Amazonas / AM,Pouso Alegre / MG
-111,Ypiranga / RS,Náutico / PE
-112,Remo / PA,Operário / PR
-113,Sao Bernardo / SP,Altos / PI
-114,América / RN,Manaus / AM
-115,Pouso Alegre / MG,Floresta / CE
-116,Confiança / SE,Volta Redonda / RJ
-117,Botafogo / PB,Brusque / SC
-118,Aparecidense / GO,São José / RS
-119,Figueirense / SC,CSA / AL
-120,Amazonas / AM,Paysandu / PA
-121,Ypiranga / RS,Pouso Alegre / MG
-122,Paysandu / PA,Remo / PA
-123,Operário / PR,Floresta / CE
-124,Náutico / PE,Figueirense / SC
-125,Volta Redonda / RJ,Amazonas / AM
-126,CSA / AL,São José / RS
-127,Botafogo / PB,Aparecidense / GO
-128,Altos / PI,América / RN
-129,Manaus / AM,Sao Bernardo / SP
-130,Brusque / SC,Confiança / SE
-131,São José / RS,Volta Redonda / RJ
-132,Paysandu / PA,CSA / AL
-133,Sao Bernardo / SP,América / RN
-134,Náutico / PE,Remo / PA
-135,Pouso Alegre / MG,Aparecidense / GO
-136,Confiança / SE,Operário / PR
-137,Floresta / CE,Figueirense / SC
-138,Altos / PI,Botafogo / PB
-139,Manaus / AM,Brusque / SC
-140,Amazonas / AM,Ypiranga / RS
-141,São José / RS,Confiança / SE
-142,Remo / PA,Ypiranga / RS
-143,Operário / PR,Náutico / PE
-144,América / RN,Paysandu / PA
-145,Volta Redonda / RJ,Altos / PI
-146,CSA / AL,Pouso Alegre / MG
-147,Botafogo / PB,Manaus / AM
-148,Aparecidense / GO,Floresta / CE
-149,Figueirense / SC,Amazonas / AM
-150,Brusque / SC,Sao Bernardo / SP
-151,Ypiranga / RS,Brusque / SC
-152,Remo / PA,Volta Redonda / RJ
-153,Operário / PR,Sao Bernardo / SP
-154,Náutico / PE,CSA / AL
-155,Pouso Alegre / MG,Manaus / AM
-156,Confiança / SE,Floresta / CE
-157,Botafogo / PB,São José / RS
-158,Altos / PI,Paysandu / PA
-159,Figueirense / SC,América / RN
-160,Amazonas / AM,Aparecidense / GO
-161,São José / RS,Figueirense / SC
-162,Paysandu / PA,Náutico / PE
-163,Sao Bernardo / SP,Amazonas / AM
-164,América / RN,Pouso Alegre / MG
-165,Volta Redonda / RJ,Operário / PR
-166,CSA / AL,Botafogo / PB
-167,Floresta / CE,Ypiranga / RS
-168,Aparecidense / GO,Confiança / SE
-169,Manaus / AM,Remo / PA
-170,Brusque / SC,Altos / PI
-171,São José / RS,Amazonas / AM
-172,Paysandu / PA,Pouso Alegre / MG
-173,Sao Bernardo / SP,Ypiranga / RS
-174,América / RN,Aparecidense / GO
-175,Volta Redonda / RJ,Figueirense / SC
-176,CSA / AL,Remo / PA
-177,Botafogo / PB,Confiança / SE
-178,Altos / PI,Operário / PR
-179,Manaus / AM,Floresta / CE
-180,Brusque / SC,Náutico / PE
-181,Ypiranga / RS,Botafogo / PB
-182,Remo / PA,Altos / PI
-183,Operário / PR,Brusque / SC
-184,Náutico / PE,Sao Bernardo / SP
-185,Pouso Alegre / MG,São José / RS
-186,Confiança / SE,Paysandu / PA
-187,Floresta / CE,América / RN
-188,Aparecidense / GO,Volta Redonda / RJ
-189,Figueirense / SC,Manaus / AM
-190,Amazonas / AM,CSA / AL
-191,Sao Bernardo / SP,Operário / PR
-192,São José / RS,Brusque / SC
-193,Paysandu / PA,Volta Redonda / RJ
-194,Botafogo / PB,Amazonas / AM
-195,Operário / PR,São José / RS
-196,Brusque / SC,Sao Bernardo / SP
-197,Volta Redonda / RJ,Botafogo / PB
-198,Amazonas / AM,Paysandu / PA
-199,Brusque / SC,Operário / PR
-200,Sao Bernardo / SP,São José / RS
-201,Amazonas / AM,Volta Redonda / RJ
-202,Paysandu / PA,Botafogo / PB
-203,Operário / PR,Brusque / SC
-204,São José / RS,Sao Bernardo / SP
-205,Volta Redonda / RJ,Amazonas / AM
-206,Botafogo / PB,Paysandu / PA
-207,São José / RS,Operário / PR
-208,Sao Bernardo / SP,Brusque / SC
-209,Botafogo / PB,Volta Redonda / RJ
-210,Paysandu / PA,Amazonas / AM
-211,Operário / PR,Sao Bernardo / SP
-212,Brusque / SC,São José / RS
-213,Volta Redonda / RJ,Paysandu / PA
-214,Amazonas / AM,Botafogo / PB
-215,Amazonas / AM,Brusque / SC
-216,Brusque / SC,Amazonas / AM
+Game,Home,Away,Date,Time,Stadium
+001,São José / RS,Floresta / CE,02/05/2023,19:00,Francisco Novelletto Neto / Porto Alegre
+002,Paysandu / PA,Aparecidense / GO,03/05/2023,21:30,Leônidas Sobré de Castro / Belem
+003,Sao Bernardo / SP,Remo / PA,04/05/2023,21:30,1º de Maio / Sao Bernardo do Campo
+004,América / RN,Ypiranga / RS,03/05/2023,19:00,Arena das Dunas / Natal
+005,Volta Redonda / RJ,Pouso Alegre / MG,02/05/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+006,CSA / AL,Confiança / SE,04/05/2023,18:00,Rei Pelé / Maceio
+007,Botafogo / PB,Operário / PR,04/05/2023,19:00,José Américo de Almeida Filho / Joao Pessoa
+008,Altos / PI,Figueirense / SC,04/05/2023,21:30,Lindolfo Monteiro / Teresina
+009,Manaus / AM,Náutico / PE,02/05/2023,21:30,Arena da Amazônia / Manaus
+010,Brusque / SC,Amazonas / AM,03/05/2023,19:00,Augusto Bauer / Brusque
+011,Ypiranga / RS,CSA / AL,07/05/2023,16:30,Colosso da Lagoa / Erechim
+012,Remo / PA,Botafogo / PB,07/05/2023,19:00,Olímpico do Pará / Belem
+013,Operário / PR,Manaus / AM,07/05/2023,16:30,Germano Kruger / Ponta Grossa
+014,Náutico / PE,São José / RS,06/05/2023,19:00,Eládio de Barros Carvalho / Recife
+015,Pouso Alegre / MG,Brusque / SC,06/05/2023,19:00,Irmão Gino Maria Rossi / Pouso Alegre
+016,Confiança / SE,Altos / PI,08/05/2023,20:00,Lourival Baptista / Aracaju
+017,Floresta / CE,Volta Redonda / RJ,06/05/2023,16:30,Presidente Vargas / Fortaleza
+018,Aparecidense / GO,Sao Bernardo / SP,07/05/2023,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+019,Figueirense / SC,Paysandu / PA,08/05/2023,20:00,Orlando Scarpelli / Florianopolis
+020,Amazonas / AM,América / RN,06/05/2023,16:00,Carlos Zamith / Manaus
+021,Ypiranga / RS,Paysandu / PA,11/05/2023,20:00,Colosso da Lagoa / Erechim
+022,Remo / PA,Amazonas / AM,14/05/2023,16:30,Evandro Almeida / Belem
+023,Operário / PR,São José / RS,15/05/2023,20:00,Germano Kruger / Ponta Grossa
+024,América / RN,Botafogo / PB,13/05/2023,21:30,Arena das Dunas / Natal
+025,Pouso Alegre / MG,Sao Bernardo / SP,13/05/2023,16:30,Irmão Gino Maria Rossi / Pouso Alegre
+026,Confiança / SE,Figueirense / SC,13/05/2023,16:30,Lourival Baptista / Aracaju
+027,Floresta / CE,CSA / AL,14/05/2023,19:00,Presidente Vargas / Fortaleza
+028,Aparecidense / GO,Náutico / PE,13/05/2023,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+029,Manaus / AM,Altos / PI,14/05/2023,16:00,Arena da Amazônia / Manaus
+030,Brusque / SC,Volta Redonda / RJ,14/05/2023,19:00,Augusto Bauer / Brusque
+031,São José / RS,Remo / PA,22/05/2023,20:00,Francisco Novelletto Neto / Porto Alegre
+032,Paysandu / PA,Manaus / AM,21/05/2023,19:00,Leônidas Sobré de Castro / Belem
+033,Sao Bernardo / SP,Confiança / SE,20/05/2023,16:00,1º de Maio / Sao Bernardo do Campo
+034,Náutico / PE,Floresta / CE,22/05/2023,20:00,Eládio de Barros Carvalho / Recife
+035,Volta Redonda / RJ,América / RN,21/05/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+036,CSA / AL,Brusque / SC,20/05/2023,19:00,Rei Pelé / Maceio
+037,Botafogo / PB,Pouso Alegre / MG,20/05/2023,19:00,José Américo de Almeida Filho / Joao Pessoa
+038,Altos / PI,Ypiranga / RS,20/05/2023,16:00,Lindolfo Monteiro / Teresina
+039,Figueirense / SC,Aparecidense / GO,20/05/2023,16:30,Orlando Scarpelli / Florianopolis
+040,Amazonas / AM,Operário / PR,21/05/2023,16:00,Carlos Zamith / Manaus
+041,Ypiranga / RS,Manaus / AM,27/05/2023,16:30,Colosso da Lagoa / Erechim
+042,Remo / PA,Confiança / SE,30/05/2023,20:00,Evandro Almeida / Belem
+043,Operário / PR,Pouso Alegre / MG,28/05/2023,19:00,Germano Kruger / Ponta Grossa
+044,Náutico / PE,América / RN,27/05/2023,19:00,Eládio de Barros Carvalho / Recife
+045,Volta Redonda / RJ,Paysandu / PA,28/05/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+046,CSA / AL,Sao Bernardo / SP,28/05/2023,16:30,Rei Pelé / Maceio
+047,Floresta / CE,Amazonas / AM,29/05/2023,20:00,Presidente Vargas / Fortaleza
+048,Aparecidense / GO,Altos / PI,29/05/2023,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+049,Figueirense / SC,Botafogo / PB,28/05/2023,16:30,Orlando Scarpelli / Florianopolis
+050,Brusque / SC,São José / RS,27/05/2023,17:00,Augusto Bauer / Brusque
+051,Ypiranga / RS,Aparecidense / GO,04/06/2023,19:00,Colosso da Lagoa / Erechim
+052,Paysandu / PA,São José / RS,04/06/2023,16:30,Leônidas Sobré de Castro / Belem
+053,Sao Bernardo / SP,Figueirense / SC,05/06/2023,20:00,1º de Maio / Sao Bernardo do Campo
+054,América / RN,Operário / PR,02/06/2023,20:00,Manoel Dantas Barretto / Ceara-Mirim
+055,Pouso Alegre / MG,Náutico / PE,03/06/2023,16:30,Irmão Gino Maria Rossi / Pouso Alegre
+056,Confiança / SE,Amazonas / AM,04/06/2023,19:00,Lourival Baptista / Aracaju
+057,Botafogo / PB,Floresta / CE,04/06/2023,16:30,José Américo de Almeida Filho / Joao Pessoa
+058,Altos / PI,CSA / AL,03/06/2023,16:00,Lindolfo Monteiro / Teresina
+059,Manaus / AM,Volta Redonda / RJ,03/06/2023,16:00,Ismael Benigno / Manaus
+060,Brusque / SC,Remo / PA,03/06/2023,19:00,Augusto Bauer / Brusque
+061,São José / RS,Altos / PI,07/06/2023,21:30,Francisco Novelletto Neto / Porto Alegre
+062,Remo / PA,América / RN,08/06/2023,16:30,Evandro Almeida / Belem
+063,Operário / PR,Paysandu / PA,07/06/2023,19:00,Germano Kruger / Ponta Grossa
+064,Náutico / PE,Volta Redonda / RJ,06/06/2023,20:00,Eládio de Barros Carvalho / Recife
+065,Pouso Alegre / MG,Confiança / SE,07/06/2023,18:00,Irmão Gino Maria Rossi / Pouso Alegre
+066,CSA / AL,Manaus / AM,08/06/2023,20:00,Rei Pelé / Maceio
+067,Floresta / CE,Sao Bernardo / SP,08/06/2023,18:30,Presidente Vargas / Fortaleza
+068,Aparecidense / GO,Brusque / SC,08/06/2023,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+069,Figueirense / SC,Ypiranga / RS,08/06/2023,21:30,Orlando Scarpelli / Florianopolis
+070,Amazonas / AM,Botafogo / PB,07/06/2023,16:00,Carlos Zamith / Manaus
+071,Ypiranga / RS,São José / RS,11/06/2023,19:00,Colosso da Lagoa / Erechim
+072,Paysandu / PA,Sao Bernardo / SP,12/06/2023,20:00,Leônidas Sobré de Castro / Belem
+073,Operário / PR,CSA / AL,11/06/2023,16:30,Germano Kruger / Ponta Grossa
+074,América / RN,Brusque / SC,11/06/2023,19:00,Arena das Dunas / Natal
+075,Volta Redonda / RJ,Botafogo / PB,10/06/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+076,Confiança / SE,Náutico / PE,12/06/2023,21:30,Lourival Baptista / Aracaju
+077,Floresta / CE,Altos / PI,11/06/2023,19:00,Presidente Vargas / Fortaleza
+078,Aparecidense / GO,Remo / PA,11/06/2023,16:30,Anibal Batista de Toledo / Aparecida de Goiania
+079,Figueirense / SC,Pouso Alegre / MG,12/06/2023,20:00,Orlando Scarpelli / Florianopolis
+080,Amazonas / AM,Manaus / AM,11/06/2023,16:00,Carlos Zamith / Manaus
+081,Ypiranga / RS,Operário / PR,18/06/2023,16:30,Colosso da Lagoa / Erechim
+082,Paysandu / PA,Floresta / CE,18/06/2023,19:00,Leônidas Sobré de Castro / Belem
+083,Sao Bernardo / SP,Volta Redonda / RJ,19/06/2023,21:30,1º de Maio / Sao Bernardo do Campo
+084,América / RN,Confiança / SE,17/06/2023,16:00,Arena das Dunas / Natal
+085,Pouso Alegre / MG,Remo / PA,17/06/2023,16:30,Irmão Gino Maria Rossi / Pouso Alegre
+086,CSA / AL,Aparecidense / GO,20/06/2023,20:00,Rei Pelé / Maceio
+087,Botafogo / PB,Náutico / PE,19/06/2023,20:00,José Américo de Almeida Filho / Joao Pessoa
+088,Altos / PI,Amazonas / AM,17/06/2023,16:00,Lindolfo Monteiro / Teresina
+089,Manaus / AM,São José / RS,18/06/2023,16:00,Ismael Benigno / Manaus
+090,Brusque / SC,Figueirense / SC,17/06/2023,19:00,Augusto Bauer / Brusque
+091,São José / RS,Sao Bernardo / SP,25/06/2023,19:00,Francisco Novelletto Neto / Porto Alegre
+092,Remo / PA,Figueirense / SC,24/06/2023,16:30,Olímpico do Pará / Belem
+093,Operário / PR,Aparecidense / GO,26/06/2023,20:00,Germano Kruger / Ponta Grossa
+094,Náutico / PE,Amazonas / AM,28/06/2023,21:30,Eládio de Barros Carvalho / Recife
+095,Volta Redonda / RJ,Ypiranga / RS,25/06/2023,16:30,Sylvio Raulino de Oliveira / Volta Redonda
+096,CSA / AL,América / RN,28/06/2023,20:00,Rei Pelé / Maceio
+097,Botafogo / PB,Paysandu / PA,27/06/2023,20:00,José Américo de Almeida Filho / Joao Pessoa
+098,Altos / PI,Pouso Alegre / MG,25/06/2023,16:00,Lindolfo Monteiro / Teresina
+099,Manaus / AM,Confiança / SE,24/06/2023,16:00,Ismael Benigno / Manaus
+100,Brusque / SC,Floresta / CE,24/06/2023,17:00,Augusto Bauer / Brusque
+101,São José / RS,América / RN,03/07/2023,20:00,Francisco Novelletto Neto / Porto Alegre
+102,Paysandu / PA,Brusque / SC,01/07/2023,19:00,Leônidas Sobré de Castro / Belem
+103,Sao Bernardo / SP,Botafogo / PB,01/07/2023,16:00,1º de Maio / Sao Bernardo do Campo
+104,Náutico / PE,Altos / PI,03/07/2023,20:00,Eládio de Barros Carvalho / Recife
+105,Volta Redonda / RJ,CSA / AL,02/07/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+106,Confiança / SE,Ypiranga / RS,01/07/2023,16:00,Lourival Baptista / Aracaju
+107,Floresta / CE,Remo / PA,02/07/2023,19:00,Presidente Vargas / Fortaleza
+108,Aparecidense / GO,Manaus / AM,01/07/2023,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+109,Figueirense / SC,Operário / PR,02/07/2023,16:30,Orlando Scarpelli / Florianopolis
+110,Amazonas / AM,Pouso Alegre / MG,02/07/2023,16:00,Carlos Zamith / Manaus
+111,Ypiranga / RS,Náutico / PE,10/07/2023,20:00,Colosso da Lagoa / Erechim
+112,Remo / PA,Operário / PR,10/07/2023,20:30,Evandro Almeida / Belem
+113,Sao Bernardo / SP,Altos / PI,08/07/2023,19:00,1º de Maio / Sao Bernardo do Campo
+114,América / RN,Manaus / AM,09/07/2023,16:30,Arena das Dunas / Natal
+115,Pouso Alegre / MG,Floresta / CE,09/07/2023,16:30,Irmão Gino Maria Rossi / Pouso Alegre
+116,Confiança / SE,Volta Redonda / RJ,10/07/2023,20:00,Lourival Baptista / Aracaju
+117,Botafogo / PB,Brusque / SC,08/07/2023,16:00,José Américo de Almeida Filho / Joao Pessoa
+118,Aparecidense / GO,São José / RS,09/07/2023,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+119,Figueirense / SC,CSA / AL,09/07/2023,19:00,Orlando Scarpelli / Florianopolis
+120,Amazonas / AM,Paysandu / PA,08/07/2023,16:00,Carlos Zamith / Manaus
+121,Ypiranga / RS,Pouso Alegre / MG,16/07/2023,19:00,Colosso da Lagoa / Erechim
+122,Paysandu / PA,Remo / PA,17/07/2023,20:00,Olímpico do Pará / Belem
+123,Operário / PR,Floresta / CE,16/07/2023,16:30,Germano Kruger / Ponta Grossa
+124,Náutico / PE,Figueirense / SC,15/07/2023,16:30,Eládio de Barros Carvalho / Recife
+125,Volta Redonda / RJ,Amazonas / AM,17/07/2023,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+126,CSA / AL,São José / RS,16/07/2023,16:00,Rei Pelé / Maceio
+127,Botafogo / PB,Aparecidense / GO,15/07/2023,19:00,José Américo de Almeida Filho / Joao Pessoa
+128,Altos / PI,América / RN,16/07/2023,16:00,Lindolfo Monteiro / Teresina
+129,Manaus / AM,Sao Bernardo / SP,15/07/2023,16:00,Arena da Amazônia / Manaus
+130,Brusque / SC,Confiança / SE,15/07/2023,16:00,Augusto Bauer / Brusque
+131,São José / RS,Volta Redonda / RJ,24/07/2023,20:00,Francisco Novelletto Neto / Porto Alegre
+132,Paysandu / PA,CSA / AL,23/07/2023,19:00,Leônidas Sobré de Castro / Belem
+133,Sao Bernardo / SP,América / RN,22/07/2023,19:00,1º de Maio / Sao Bernardo do Campo
+134,Náutico / PE,Remo / PA,23/07/2023,19:00,Eládio de Barros Carvalho / Recife
+135,Pouso Alegre / MG,Aparecidense / GO,22/07/2023,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+136,Confiança / SE,Operário / PR,22/07/2023,16:00,Lourival Baptista / Aracaju
+137,Floresta / CE,Figueirense / SC,24/07/2023,20:00,Presidente Vargas / Fortaleza
+138,Altos / PI,Botafogo / PB,23/07/2023,16:00,Lindolfo Monteiro / Teresina
+139,Manaus / AM,Brusque / SC,23/07/2023,16:00,Arena da Amazônia / Manaus
+140,Amazonas / AM,Ypiranga / RS,22/07/2023,16:00,Carlos Zamith / Manaus
+141,São José / RS,Confiança / SE,29/07/2023,16:00,Francisco Novelletto Neto / Porto Alegre
+142,Remo / PA,Ypiranga / RS,29/07/2023,19:00,Olímpico do Pará / Belem
+143,Operário / PR,Náutico / PE,29/07/2023,16:00,Germano Kruger / Ponta Grossa
+144,América / RN,Paysandu / PA,30/07/2023,16:00,Arena das Dunas / Natal
+145,Volta Redonda / RJ,Altos / PI,29/07/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+146,CSA / AL,Pouso Alegre / MG,30/07/2023,16:00,Rei Pelé / Maceio
+147,Botafogo / PB,Manaus / AM,30/07/2023,19:00,José Américo de Almeida Filho / Joao Pessoa
+148,Aparecidense / GO,Floresta / CE,31/07/2023,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+149,Figueirense / SC,Amazonas / AM,30/07/2023,19:00,Orlando Scarpelli / Florianopolis
+150,Brusque / SC,Sao Bernardo / SP,31/07/2023,20:00,Augusto Bauer / Brusque
+151,Ypiranga / RS,Brusque / SC,05/08/2023,19:00,Colosso da Lagoa / Erechim
+152,Remo / PA,Volta Redonda / RJ,05/08/2023,19:00,Olímpico do Pará / Belem
+153,Operário / PR,Sao Bernardo / SP,06/08/2023,16:00,Germano Kruger / Ponta Grossa
+154,Náutico / PE,CSA / AL,06/08/2023,16:00,Eládio de Barros Carvalho / Recife
+155,Pouso Alegre / MG,Manaus / AM,05/08/2023,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+156,Confiança / SE,Floresta / CE,07/08/2023,20:00,Lourival Baptista / Aracaju
+157,Botafogo / PB,São José / RS,07/08/2023,20:00,José Américo de Almeida Filho / Joao Pessoa
+158,Altos / PI,Paysandu / PA,06/08/2023,16:00,Lindolfo Monteiro / Teresina
+159,Figueirense / SC,América / RN,06/08/2023,11:00,Orlando Scarpelli / Florianopolis
+160,Amazonas / AM,Aparecidense / GO,05/08/2023,16:00,Carlos Zamith / Manaus
+161,São José / RS,Figueirense / SC,13/08/2023,19:00,Francisco Novelletto Neto / Porto Alegre
+162,Paysandu / PA,Náutico / PE,13/08/2023,16:00,Leônidas Sobré de Castro / Belem
+163,Sao Bernardo / SP,Amazonas / AM,12/08/2023,16:00,1º de Maio / Sao Bernardo do Campo
+164,América / RN,Pouso Alegre / MG,13/08/2023,19:00,Arena das Dunas / Natal
+165,Volta Redonda / RJ,Operário / PR,12/08/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+166,CSA / AL,Botafogo / PB,13/08/2023,16:00,Rei Pelé / Maceio
+167,Floresta / CE,Ypiranga / RS,14/08/2023,20:00,Presidente Vargas / Fortaleza
+168,Aparecidense / GO,Confiança / SE,12/08/2023,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+169,Manaus / AM,Remo / PA,13/08/2023,16:00,Ismael Benigno / Manaus
+170,Brusque / SC,Altos / PI,12/08/2023,19:00,Augusto Bauer / Brusque
+171,São José / RS,Amazonas / AM,19/08/2023,19:00,Francisco Novelletto Neto / Porto Alegre
+172,Paysandu / PA,Pouso Alegre / MG,20/08/2023,19:00,Leônidas Sobré de Castro / Belem
+173,Sao Bernardo / SP,Ypiranga / RS,21/08/2023,20:00,1º de Maio / Sao Bernardo do Campo
+174,América / RN,Aparecidense / GO,21/08/2023,20:00,Arena das Dunas / Natal
+175,Volta Redonda / RJ,Figueirense / SC,20/08/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+176,CSA / AL,Remo / PA,20/08/2023,16:00,Rei Pelé / Maceio
+177,Botafogo / PB,Confiança / SE,19/08/2023,16:00,José Américo de Almeida Filho / Joao Pessoa
+178,Altos / PI,Operário / PR,19/08/2023,19:00,Lindolfo Monteiro / Teresina
+179,Manaus / AM,Floresta / CE,20/08/2023,16:00,Arena da Amazônia / Manaus
+180,Brusque / SC,Náutico / PE,19/08/2023,16:00,Augusto Bauer / Brusque
+181,Ypiranga / RS,Botafogo / PB,26/08/2023,16:00,Colosso da Lagoa / Erechim
+182,Remo / PA,Altos / PI,26/08/2023,16:00,Evandro Almeida / Belem
+183,Operário / PR,Brusque / SC,26/08/2023,16:00,Germano Kruger / Ponta Grossa
+184,Náutico / PE,Sao Bernardo / SP,26/08/2023,16:00,Eládio de Barros Carvalho / Recife
+185,Pouso Alegre / MG,São José / RS,26/08/2023,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+186,Confiança / SE,Paysandu / PA,26/08/2023,16:00,Lourival Baptista / Aracaju
+187,Floresta / CE,América / RN,26/08/2023,16:00,Presidente Vargas / Fortaleza
+188,Aparecidense / GO,Volta Redonda / RJ,26/08/2023,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+189,Figueirense / SC,Manaus / AM,26/08/2023,16:00,Orlando Scarpelli / Florianopolis
+190,Amazonas / AM,CSA / AL,26/08/2023,16:00,Carlos Zamith / Manaus
+191,Sao Bernardo / SP,Operário / PR,03/09/2023,16:00,1º de Maio / Sao Bernardo do Campo
+192,São José / RS,Brusque / SC,02/09/2023,16:00,Francisco Novelletto Neto / Porto Alegre
+193,Paysandu / PA,Volta Redonda / RJ,03/09/2023,17:00,Leônidas Sobré de Castro / Belem
+194,Botafogo / PB,Amazonas / AM,03/09/2023,18:00,José Américo de Almeida Filho / Joao Pessoa
+195,Operário / PR,São José / RS,10/09/2023,16:00,Germano Kruger / Ponta Grossa
+196,Brusque / SC,Sao Bernardo / SP,09/09/2023,19:00,Augusto Bauer / Brusque
+197,Volta Redonda / RJ,Botafogo / PB,10/09/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+198,Amazonas / AM,Paysandu / PA,09/09/2023,17:00,Arena da Amazônia / Manaus
+199,Brusque / SC,Operário / PR,17/09/2023,19:00,Augusto Bauer / Brusque
+200,Sao Bernardo / SP,São José / RS,16/09/2023,16:00,1º de Maio / Sao Bernardo do Campo
+201,Amazonas / AM,Volta Redonda / RJ,16/09/2023,18:00,Arena da Amazônia / Manaus
+202,Paysandu / PA,Botafogo / PB,17/09/2023,16:00,Olímpico do Pará / Belem
+203,Operário / PR,Brusque / SC,23/09/2023,19:00,Germano Kruger / Ponta Grossa
+204,São José / RS,Sao Bernardo / SP,23/09/2023,16:00,Francisco Novelletto Neto / Porto Alegre
+205,Volta Redonda / RJ,Amazonas / AM,23/09/2023,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+206,Botafogo / PB,Paysandu / PA,23/09/2023,16:00,José Américo de Almeida Filho / Joao Pessoa
+207,São José / RS,Operário / PR,01/10/2023,16:00,Francisco Novelletto Neto / Porto Alegre
+208,Sao Bernardo / SP,Brusque / SC,30/09/2023,16:00,1º de Maio / Sao Bernardo do Campo
+209,Botafogo / PB,Volta Redonda / RJ,30/09/2023,19:00,José Américo de Almeida Filho / Joao Pessoa
+210,Paysandu / PA,Amazonas / AM,01/10/2023,17:30,Olímpico do Pará / Belem
+211,Operário / PR,Sao Bernardo / SP,08/10/2023,16:00,Germano Kruger / Ponta Grossa
+212,Brusque / SC,São José / RS,08/10/2023,16:00,Augusto Bauer / Brusque
+213,Volta Redonda / RJ,Paysandu / PA,07/10/2023,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+214,Amazonas / AM,Botafogo / PB,07/10/2023,18:00,Arena da Amazônia / Manaus
+215,Amazonas / AM,Brusque / SC,15/10/2023,18:00,Arena da Amazônia / Manaus
+216,Brusque / SC,Amazonas / AM,22/10/2023,17:00,Augusto Bauer / Brusque

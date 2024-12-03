@@ -1,381 +1,381 @@
-Game,Home,Away
-001,Flamengo / RJ,Palmeiras / SP
-002,Corinthians / SP,Atlético / GO
-003,São Paulo / SP,Fluminense / RJ
-004,Atlético Mineiro / MG,Fortaleza / CE
-005,Internacional / RS,Sport / PE
-006,Ceará / CE,Grêmio / RS
-007,Bahia / BA,Santos / SP
-008,Athletico Paranaense / PR,América / MG
-009,Chapecoense / SC,Red Bull Bragantino / SP
-010,Cuiabá / MT,Juventude / RS
-011,Fluminense / RJ,Cuiabá / MT
-012,Palmeiras / SP,Chapecoense / SC
-013,Santos / SP,Ceará / CE
-014,América / MG,Corinthians / SP
-015,Grêmio / RS,Flamengo / RJ
-016,Fortaleza / CE,Internacional / RS
-017,Sport / PE,Atlético Mineiro / MG
-018,Red Bull Bragantino / SP,Bahia / BA
-019,Juventude / RS,Athletico Paranaense / PR
-020,Atlético / GO,São Paulo / SP
-021,Flamengo / RJ,América / MG
-022,Palmeiras / SP,Corinthians / SP
-023,Santos / SP,Juventude / RS
-024,Atlético Mineiro / MG,São Paulo / SP
-025,Grêmio / RS,Athletico Paranaense / PR
-026,Fortaleza / CE,Sport / PE
-027,Bahia / BA,Internacional / RS
-028,Red Bull Bragantino / SP,Fluminense / RJ
-029,Chapecoense / SC,Ceará / CE
-030,Cuiabá / MT,Atlético / GO
-031,Fluminense / RJ,Santos / SP
-032,Corinthians / SP,Red Bull Bragantino / SP
-033,São Paulo / SP,Chapecoense / SC
-034,América / MG,Cuiabá / MT
-035,Internacional / RS,Atlético Mineiro / MG
-036,Ceará / CE,Bahia / BA
-037,Sport / PE,Grêmio / RS
-038,Athletico Paranaense / PR,Flamengo / RJ
-039,Juventude / RS,Palmeiras / SP
-040,Atlético / GO,Fortaleza / CE
-041,Flamengo / RJ,Red Bull Bragantino / SP
-042,Palmeiras / SP,América / MG
-043,Santos / SP,São Paulo / SP
-044,Atlético Mineiro / MG,Chapecoense / SC
-045,Internacional / RS,Ceará / CE
-046,Fortaleza / CE,Fluminense / RJ
-047,Bahia / BA,Corinthians / SP
-048,Athletico Paranaense / PR,Atlético / GO
-049,Juventude / RS,Sport / PE
-050,Cuiabá / MT,Grêmio / RS
-051,Flamengo / RJ,Fortaleza / CE
-052,Corinthians / SP,Sport / PE
-053,São Paulo / SP,Cuiabá / MT
-054,América / MG,Juventude / RS
-055,Grêmio / RS,Santos / SP
-056,Ceará / CE,Atlético Mineiro / MG
-057,Bahia / BA,Athletico Paranaense / PR
-058,Red Bull Bragantino / SP,Palmeiras / SP
-059,Chapecoense / SC,Internacional / RS
-060,Atlético / GO,Fluminense / RJ
-061,Fluminense / RJ,Corinthians / SP
-062,Palmeiras / SP,Bahia / BA
-063,Santos / SP,Atlético Mineiro / MG
-064,América / MG,Internacional / RS
-065,Grêmio / RS,Fortaleza / CE
-066,Ceará / CE,São Paulo / SP
-067,Sport / PE,Cuiabá / MT
-068,Athletico Paranaense / PR,Chapecoense / SC
-069,Juventude / RS,Flamengo / RJ
-070,Atlético / GO,Red Bull Bragantino / SP
-071,Fluminense / RJ,Athletico Paranaense / PR
-072,Corinthians / SP,São Paulo / SP
-073,Santos / SP,Sport / PE
-074,Atlético Mineiro / MG,Atlético / GO
-075,Internacional / RS,Palmeiras / SP
-076,Fortaleza / CE,Chapecoense / SC
-077,Bahia / BA,América / MG
-078,Red Bull Bragantino / SP,Ceará / CE
-079,Juventude / RS,Grêmio / RS
-080,Cuiabá / MT,Flamengo / RJ
-081,Flamengo / RJ,Fluminense / RJ
-082,Corinthians / SP,Internacional / RS
-083,São Paulo / SP,Red Bull Bragantino / SP
-084,América / MG,Santos / SP
-085,Grêmio / RS,Atlético / GO
-086,Ceará / CE,Juventude / RS
-087,Sport / PE,Palmeiras / SP
-088,Athletico Paranaense / PR,Fortaleza / CE
-089,Chapecoense / SC,Bahia / BA
-090,Cuiabá / MT,Atlético Mineiro / MG
-091,Fluminense / RJ,Ceará / CE
-092,Palmeiras / SP,Grêmio / RS
-093,Santos / SP,Athletico Paranaense / PR
-094,Atlético Mineiro / MG,Flamengo / RJ
-095,Internacional / RS,São Paulo / SP
-096,Fortaleza / CE,América / MG
-097,Bahia / BA,Juventude / RS
-098,Red Bull Bragantino / SP,Cuiabá / MT
-099,Chapecoense / SC,Corinthians / SP
-100,Atlético / GO,Sport / PE
-101,Flamengo / RJ,Chapecoense / SC
-102,Palmeiras / SP,Santos / SP
-103,São Paulo / SP,Bahia / BA
-104,América / MG,Atlético Mineiro / MG
-105,Grêmio / RS,Internacional / RS
-106,Fortaleza / CE,Corinthians / SP
-107,Sport / PE,Fluminense / RJ
-108,Athletico Paranaense / PR,Red Bull Bragantino / SP
-109,Juventude / RS,Atlético / GO
-110,Cuiabá / MT,Ceará / CE
-111,Fluminense / RJ,Grêmio / RS
-112,Corinthians / SP,Atlético Mineiro / MG
-113,São Paulo / SP,Fortaleza / CE
-114,América / MG,Sport / PE
-115,Internacional / RS,Juventude / RS
-116,Ceará / CE,Athletico Paranaense / PR
-117,Bahia / BA,Flamengo / RJ
-118,Red Bull Bragantino / SP,Santos / SP
-119,Chapecoense / SC,Cuiabá / MT
-120,Atlético / GO,Palmeiras / SP
-121,Flamengo / RJ,São Paulo / SP
-122,Palmeiras / SP,Fluminense / RJ
-123,Santos / SP,Atlético / GO
-124,Atlético Mineiro / MG,Bahia / BA
-125,Grêmio / RS,América / MG
-126,Fortaleza / CE,Red Bull Bragantino / SP
-127,Sport / PE,Ceará / CE
-128,Athletico Paranaense / PR,Internacional / RS
-129,Juventude / RS,Chapecoense / SC
-130,Cuiabá / MT,Corinthians / SP
-131,Fluminense / RJ,Juventude / RS
-132,Corinthians / SP,Flamengo / RJ
-133,São Paulo / SP,Palmeiras / SP
-134,Atlético Mineiro / MG,Athletico Paranaense / PR
-135,Internacional / RS,Cuiabá / MT
-136,Ceará / CE,Fortaleza / CE
-137,Bahia / BA,Sport / PE
-138,Red Bull Bragantino / SP,Grêmio / RS
-139,Chapecoense / SC,Santos / SP
-140,Atlético / GO,América / MG
-141,Flamengo / RJ,Internacional / RS
-142,Palmeiras / SP,Fortaleza / CE
-143,Santos / SP,Corinthians / SP
-144,América / MG,Fluminense / RJ
-145,Grêmio / RS,Chapecoense / SC
-146,Ceará / CE,Atlético / GO
-147,Sport / PE,Red Bull Bragantino / SP
-148,Athletico Paranaense / PR,São Paulo / SP
-149,Juventude / RS,Atlético Mineiro / MG
-150,Cuiabá / MT,Bahia / BA
-151,Flamengo / RJ,Sport / PE
-152,Corinthians / SP,Ceará / CE
-153,São Paulo / SP,Grêmio / RS
-154,Atlético Mineiro / MG,Palmeiras / SP
-155,Internacional / RS,Fluminense / RJ
-156,Fortaleza / CE,Santos / SP
-157,Bahia / BA,Atlético / GO
-158,Red Bull Bragantino / SP,Juventude / RS
-159,Chapecoense / SC,América / MG
-160,Cuiabá / MT,Athletico Paranaense / PR
-161,Fluminense / RJ,Atlético Mineiro / MG
-162,Palmeiras / SP,Cuiabá / MT
-163,Santos / SP,Internacional / RS
-164,América / MG,Red Bull Bragantino / SP
-165,Grêmio / RS,Bahia / BA
-166,Ceará / CE,Flamengo / RJ
-167,Sport / PE,São Paulo / SP
-168,Athletico Paranaense / PR,Corinthians / SP
-169,Juventude / RS,Fortaleza / CE
-170,Atlético / GO,Chapecoense / SC
-171,Fluminense / RJ,Bahia / BA
-172,Palmeiras / SP,Athletico Paranaense / PR
-173,Santos / SP,Flamengo / RJ
-174,América / MG,Ceará / CE
-175,Grêmio / RS,Corinthians / SP
-176,Fortaleza / CE,Cuiabá / MT
-177,Sport / PE,Chapecoense / SC
-178,Red Bull Bragantino / SP,Atlético Mineiro / MG
-179,Juventude / RS,São Paulo / SP
-180,Atlético / GO,Internacional / RS
-181,Flamengo / RJ,Atlético / GO
-182,Corinthians / SP,Juventude / RS
-183,São Paulo / SP,América / MG
-184,Atlético Mineiro / MG,Grêmio / RS
-185,Internacional / RS,Red Bull Bragantino / SP
-186,Ceará / CE,Palmeiras / SP
-187,Bahia / BA,Fortaleza / CE
-188,Athletico Paranaense / PR,Sport / PE
-189,Chapecoense / SC,Fluminense / RJ
-190,Cuiabá / MT,Santos / SP
-191,Fluminense / RJ,São Paulo / SP
-192,Palmeiras / SP,Flamengo / RJ
-193,Santos / SP,Bahia / BA
-194,América / MG,Athletico Paranaense / PR
-195,Grêmio / RS,Ceará / CE
-196,Fortaleza / CE,Atlético Mineiro / MG
-197,Sport / PE,Internacional / RS
-198,Red Bull Bragantino / SP,Chapecoense / SC
-199,Juventude / RS,Cuiabá / MT
-200,Atlético / GO,Corinthians / SP
-201,Flamengo / RJ,Grêmio / RS
-202,Corinthians / SP,América / MG
-203,São Paulo / SP,Atlético / GO
-204,Atlético Mineiro / MG,Sport / PE
-205,Internacional / RS,Fortaleza / CE
-206,Ceará / CE,Santos / SP
-207,Bahia / BA,Red Bull Bragantino / SP
-208,Athletico Paranaense / PR,Juventude / RS
-209,Chapecoense / SC,Palmeiras / SP
-210,Cuiabá / MT,Fluminense / RJ
-211,Fluminense / RJ,Red Bull Bragantino / SP
-212,Corinthians / SP,Palmeiras / SP
-213,São Paulo / SP,Atlético Mineiro / MG
-214,América / MG,Flamengo / RJ
-215,Internacional / RS,Bahia / BA
-216,Ceará / CE,Chapecoense / SC
-217,Sport / PE,Fortaleza / CE
-218,Athletico Paranaense / PR,Grêmio / RS
-219,Juventude / RS,Santos / SP
-220,Atlético / GO,Cuiabá / MT
-221,Flamengo / RJ,Athletico Paranaense / PR
-222,Palmeiras / SP,Juventude / RS
-223,Santos / SP,Fluminense / RJ
-224,Atlético Mineiro / MG,Internacional / RS
-225,Grêmio / RS,Sport / PE
-226,Fortaleza / CE,Atlético / GO
-227,Bahia / BA,Ceará / CE
-228,Red Bull Bragantino / SP,Corinthians / SP
-229,Chapecoense / SC,São Paulo / SP
-230,Cuiabá / MT,América / MG
-231,Fluminense / RJ,Fortaleza / CE
-232,Corinthians / SP,Bahia / BA
-233,São Paulo / SP,Santos / SP
-234,América / MG,Palmeiras / SP
-235,Grêmio / RS,Cuiabá / MT
-236,Ceará / CE,Internacional / RS
-237,Sport / PE,Juventude / RS
-238,Red Bull Bragantino / SP,Flamengo / RJ
-239,Chapecoense / SC,Atlético Mineiro / MG
-240,Atlético / GO,Athletico Paranaense / PR
-241,Fluminense / RJ,Atlético / GO
-242,Palmeiras / SP,Red Bull Bragantino / SP
-243,Santos / SP,Grêmio / RS
-244,Atlético Mineiro / MG,Ceará / CE
-245,Internacional / RS,Chapecoense / SC
-246,Fortaleza / CE,Flamengo / RJ
-247,Sport / PE,Corinthians / SP
-248,Athletico Paranaense / PR,Bahia / BA
-249,Juventude / RS,América / MG
-250,Cuiabá / MT,São Paulo / SP
-251,Flamengo / RJ,Juventude / RS
-252,Corinthians / SP,Fluminense / RJ
-253,São Paulo / SP,Ceará / CE
-254,Atlético Mineiro / MG,Santos / SP
-255,Internacional / RS,América / MG
-256,Fortaleza / CE,Grêmio / RS
-257,Bahia / BA,Palmeiras / SP
-258,Red Bull Bragantino / SP,Atlético / GO
-259,Chapecoense / SC,Athletico Paranaense / PR
-260,Cuiabá / MT,Sport / PE
-261,Flamengo / RJ,Cuiabá / MT
-262,Palmeiras / SP,Internacional / RS
-263,São Paulo / SP,Corinthians / SP
-264,América / MG,Bahia / BA
-265,Grêmio / RS,Juventude / RS
-266,Ceará / CE,Red Bull Bragantino / SP
-267,Sport / PE,Santos / SP
-268,Athletico Paranaense / PR,Fluminense / RJ
-269,Chapecoense / SC,Fortaleza / CE
-270,Atlético / GO,Atlético Mineiro / MG
-271,Fluminense / RJ,Flamengo / RJ
-272,Palmeiras / SP,Sport / PE
-273,Santos / SP,América / MG
-274,Atlético Mineiro / MG,Cuiabá / MT
-275,Internacional / RS,Corinthians / SP
-276,Fortaleza / CE,Athletico Paranaense / PR
-277,Bahia / BA,Chapecoense / SC
-278,Red Bull Bragantino / SP,São Paulo / SP
-279,Juventude / RS,Ceará / CE
-280,Atlético / GO,Grêmio / RS
-281,Flamengo / RJ,Atlético Mineiro / MG
-282,Corinthians / SP,Chapecoense / SC
-283,São Paulo / SP,Internacional / RS
-284,América / MG,Fortaleza / CE
-285,Grêmio / RS,Palmeiras / SP
-286,Ceará / CE,Fluminense / RJ
-287,Sport / PE,Atlético / GO
-288,Athletico Paranaense / PR,Santos / SP
-289,Juventude / RS,Bahia / BA
-290,Cuiabá / MT,Red Bull Bragantino / SP
-291,Fluminense / RJ,Sport / PE
-292,Corinthians / SP,Fortaleza / CE
-293,Santos / SP,Palmeiras / SP
-294,Atlético Mineiro / MG,América / MG
-295,Internacional / RS,Grêmio / RS
-296,Ceará / CE,Cuiabá / MT
-297,Bahia / BA,São Paulo / SP
-298,Red Bull Bragantino / SP,Athletico Paranaense / PR
-299,Chapecoense / SC,Flamengo / RJ
-300,Atlético / GO,Juventude / RS
-301,Flamengo / RJ,Bahia / BA
-302,Palmeiras / SP,Atlético / GO
-303,Santos / SP,Red Bull Bragantino / SP
-304,Atlético Mineiro / MG,Corinthians / SP
-305,Grêmio / RS,Fluminense / RJ
-306,Fortaleza / CE,São Paulo / SP
-307,Sport / PE,América / MG
-308,Athletico Paranaense / PR,Ceará / CE
-309,Juventude / RS,Internacional / RS
-310,Cuiabá / MT,Chapecoense / SC
-311,Fluminense / RJ,Palmeiras / SP
-312,Corinthians / SP,Cuiabá / MT
-313,São Paulo / SP,Flamengo / RJ
-314,América / MG,Grêmio / RS
-315,Internacional / RS,Athletico Paranaense / PR
-316,Ceará / CE,Sport / PE
-317,Bahia / BA,Atlético Mineiro / MG
-318,Red Bull Bragantino / SP,Fortaleza / CE
-319,Chapecoense / SC,Juventude / RS
-320,Atlético / GO,Santos / SP
-321,Flamengo / RJ,Corinthians / SP
-322,Palmeiras / SP,São Paulo / SP
-323,Santos / SP,Chapecoense / SC
-324,América / MG,Atlético / GO
-325,Grêmio / RS,Red Bull Bragantino / SP
-326,Fortaleza / CE,Ceará / CE
-327,Sport / PE,Bahia / BA
-328,Athletico Paranaense / PR,Atlético Mineiro / MG
-329,Juventude / RS,Fluminense / RJ
-330,Cuiabá / MT,Internacional / RS
-331,Fluminense / RJ,América / MG
-332,Corinthians / SP,Santos / SP
-333,São Paulo / SP,Athletico Paranaense / PR
-334,Atlético Mineiro / MG,Juventude / RS
-335,Internacional / RS,Flamengo / RJ
-336,Fortaleza / CE,Palmeiras / SP
-337,Bahia / BA,Cuiabá / MT
-338,Red Bull Bragantino / SP,Sport / PE
-339,Chapecoense / SC,Grêmio / RS
-340,Atlético / GO,Ceará / CE
-341,Fluminense / RJ,Internacional / RS
-342,Palmeiras / SP,Atlético Mineiro / MG
-343,Santos / SP,Fortaleza / CE
-344,América / MG,Chapecoense / SC
-345,Grêmio / RS,São Paulo / SP
-346,Ceará / CE,Corinthians / SP
-347,Sport / PE,Flamengo / RJ
-348,Athletico Paranaense / PR,Cuiabá / MT
-349,Juventude / RS,Red Bull Bragantino / SP
-350,Atlético / GO,Bahia / BA
-351,Flamengo / RJ,Ceará / CE
-352,Corinthians / SP,Athletico Paranaense / PR
-353,São Paulo / SP,Sport / PE
-354,Atlético Mineiro / MG,Fluminense / RJ
-355,Internacional / RS,Santos / SP
-356,Fortaleza / CE,Juventude / RS
-357,Bahia / BA,Grêmio / RS
-358,Red Bull Bragantino / SP,América / MG
-359,Chapecoense / SC,Atlético / GO
-360,Cuiabá / MT,Palmeiras / SP
-361,Flamengo / RJ,Santos / SP
-362,Corinthians / SP,Grêmio / RS
-363,São Paulo / SP,Juventude / RS
-364,Atlético Mineiro / MG,Red Bull Bragantino / SP
-365,Internacional / RS,Atlético / GO
-366,Ceará / CE,América / MG
-367,Bahia / BA,Fluminense / RJ
-368,Athletico Paranaense / PR,Palmeiras / SP
-369,Chapecoense / SC,Sport / PE
-370,Cuiabá / MT,Fortaleza / CE
-371,Fluminense / RJ,Chapecoense / SC
-372,Palmeiras / SP,Ceará / CE
-373,Santos / SP,Cuiabá / MT
-374,América / MG,São Paulo / SP
-375,Grêmio / RS,Atlético Mineiro / MG
-376,Fortaleza / CE,Bahia / BA
-377,Sport / PE,Athletico Paranaense / PR
-378,Red Bull Bragantino / SP,Internacional / RS
-379,Juventude / RS,Corinthians / SP
-380,Atlético / GO,Flamengo / RJ
+Game,Home,Away,Date,Time,Stadium
+001,Flamengo / RJ,Palmeiras / SP,30/05/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
+002,Corinthians / SP,Atlético / GO,30/05/2021,18:15,Arena Corinthians / Sao Paulo
+003,São Paulo / SP,Fluminense / RJ,29/05/2021,21:00,Cícero Pompeu de Toledo / Sao Paulo
+004,Atlético Mineiro / MG,Fortaleza / CE,30/05/2021,11:00,Magalhães Pinto / Belo Horizonte
+005,Internacional / RS,Sport / PE,30/05/2021,20:30,José Pinheiro Borda / Porto Alegre
+006,Ceará / CE,Grêmio / RS,30/05/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+007,Bahia / BA,Santos / SP,29/05/2021,20:00,Roberto Santos / Salvador
+008,Athletico Paranaense / PR,América / MG,30/05/2021,18:15,Joaquim Américo Guimarães / Curitiba
+009,Chapecoense / SC,Red Bull Bragantino / SP,30/05/2021,18:15,Índio Condá / Chapeco
+010,Cuiabá / MT,Juventude / RS,29/05/2021,19:00,Arena Pantanal / Cuiaba
+011,Fluminense / RJ,Cuiabá / MT,06/06/2021,11:00,São Januário / Rio de Janeiro
+012,Palmeiras / SP,Chapecoense / SC,06/06/2021,18:15,Allianz Parque / Sao Paulo
+013,Santos / SP,Ceará / CE,05/06/2021,21:00,Urbano Caldeira / Santos
+014,América / MG,Corinthians / SP,06/06/2021,16:00,Raimundo Sampaio / Belo Horizonte
+015,Grêmio / RS,Flamengo / RJ,23/11/2021,21:00,Arena do Grêmio / Porto Alegre
+016,Fortaleza / CE,Internacional / RS,06/06/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+017,Sport / PE,Atlético Mineiro / MG,06/06/2021,20:30,Adelmar da Costa Carvalho / Recife
+018,Red Bull Bragantino / SP,Bahia / BA,05/06/2021,21:00,Nabi Abi Chedid / Braganca Paulista
+019,Juventude / RS,Athletico Paranaense / PR,06/06/2021,18:15,Alfredo Jaconi / Caxias do Sul
+020,Atlético / GO,São Paulo / SP,05/06/2021,19:00,Antônio Accioly / Goiania
+021,Flamengo / RJ,América / MG,13/06/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
+022,Palmeiras / SP,Corinthians / SP,12/06/2021,19:00,Allianz Parque / Sao Paulo
+023,Santos / SP,Juventude / RS,12/06/2021,19:00,Urbano Caldeira / Santos
+024,Atlético Mineiro / MG,São Paulo / SP,13/06/2021,16:00,Magalhães Pinto / Belo Horizonte
+025,Grêmio / RS,Athletico Paranaense / PR,13/06/2021,16:00,Arena do Grêmio / Porto Alegre
+026,Fortaleza / CE,Sport / PE,13/06/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+027,Bahia / BA,Internacional / RS,13/06/2021,20:30,Roberto Santos / Salvador
+028,Red Bull Bragantino / SP,Fluminense / RJ,13/06/2021,20:30,Nabi Abi Chedid / Braganca Paulista
+029,Chapecoense / SC,Ceará / CE,13/06/2021,20:30,Índio Condá / Chapeco
+030,Cuiabá / MT,Atlético / GO,21/07/2021,19:00,Arena Pantanal / Cuiaba
+031,Fluminense / RJ,Santos / SP,17/06/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+032,Corinthians / SP,Red Bull Bragantino / SP,16/06/2021,20:30,Arena Corinthians / Sao Paulo
+033,São Paulo / SP,Chapecoense / SC,16/06/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+034,América / MG,Cuiabá / MT,17/06/2021,16:00,Raimundo Sampaio / Belo Horizonte
+035,Internacional / RS,Atlético Mineiro / MG,16/06/2021,19:00,José Pinheiro Borda / Porto Alegre
+036,Ceará / CE,Bahia / BA,17/06/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+037,Sport / PE,Grêmio / RS,17/06/2021,19:00,Adelmar da Costa Carvalho / Recife
+038,Athletico Paranaense / PR,Flamengo / RJ,02/11/2021,16:00,Joaquim Américo Guimarães / Curitiba
+039,Juventude / RS,Palmeiras / SP,16/06/2021,21:30,Alfredo Jaconi / Caxias do Sul
+040,Atlético / GO,Fortaleza / CE,17/06/2021,19:00,Antônio Accioly / Goiania
+041,Flamengo / RJ,Red Bull Bragantino / SP,19/06/2021,21:00,Jornalista Mário Filho / Rio de Janeiro
+042,Palmeiras / SP,América / MG,20/06/2021,11:00,Allianz Parque / Sao Paulo
+043,Santos / SP,São Paulo / SP,20/06/2021,18:15,Urbano Caldeira / Santos
+044,Atlético Mineiro / MG,Chapecoense / SC,21/06/2021,20:00,Magalhães Pinto / Belo Horizonte
+045,Internacional / RS,Ceará / CE,20/06/2021,16:00,José Pinheiro Borda / Porto Alegre
+046,Fortaleza / CE,Fluminense / RJ,20/06/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
+047,Bahia / BA,Corinthians / SP,20/06/2021,16:00,Roberto Santos / Salvador
+048,Athletico Paranaense / PR,Atlético / GO,20/06/2021,18:15,Joaquim Américo Guimarães / Curitiba
+049,Juventude / RS,Sport / PE,20/06/2021,20:30,Alfredo Jaconi / Caxias do Sul
+050,Cuiabá / MT,Grêmio / RS,18/08/2021,19:00,Arena Pantanal / Cuiaba
+051,Flamengo / RJ,Fortaleza / CE,23/06/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+052,Corinthians / SP,Sport / PE,24/06/2021,19:00,Arena Corinthians / Sao Paulo
+053,São Paulo / SP,Cuiabá / MT,23/06/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+054,América / MG,Juventude / RS,24/06/2021,16:00,Raimundo Sampaio / Belo Horizonte
+055,Grêmio / RS,Santos / SP,24/06/2021,21:30,Arena do Grêmio / Porto Alegre
+056,Ceará / CE,Atlético Mineiro / MG,24/06/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+057,Bahia / BA,Athletico Paranaense / PR,24/06/2021,21:30,Roberto Santos / Salvador
+058,Red Bull Bragantino / SP,Palmeiras / SP,23/06/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+059,Chapecoense / SC,Internacional / RS,24/06/2021,19:00,Índio Condá / Chapeco
+060,Atlético / GO,Fluminense / RJ,23/06/2021,19:00,Antônio Accioly / Goiania
+061,Fluminense / RJ,Corinthians / SP,27/06/2021,16:00,São Januário / Rio de Janeiro
+062,Palmeiras / SP,Bahia / BA,27/06/2021,20:00,Allianz Parque / Sao Paulo
+063,Santos / SP,Atlético Mineiro / MG,27/06/2021,20:30,Urbano Caldeira / Santos
+064,América / MG,Internacional / RS,27/06/2021,20:30,Raimundo Sampaio / Belo Horizonte
+065,Grêmio / RS,Fortaleza / CE,27/06/2021,20:00,Arena do Grêmio / Porto Alegre
+066,Ceará / CE,São Paulo / SP,27/06/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+067,Sport / PE,Cuiabá / MT,27/06/2021,20:30,Adelmar da Costa Carvalho / Recife
+068,Athletico Paranaense / PR,Chapecoense / SC,27/06/2021,20:00,Joaquim Américo Guimarães / Curitiba
+069,Juventude / RS,Flamengo / RJ,27/06/2021,11:00,Alfredo Jaconi / Caxias do Sul
+070,Atlético / GO,Red Bull Bragantino / SP,28/06/2021,20:00,Antônio Accioly / Goiania
+071,Fluminense / RJ,Athletico Paranaense / PR,30/06/2021,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+072,Corinthians / SP,São Paulo / SP,30/06/2021,21:30,Arena Corinthians / Sao Paulo
+073,Santos / SP,Sport / PE,30/06/2021,20:30,Urbano Caldeira / Santos
+074,Atlético Mineiro / MG,Atlético / GO,01/07/2021,19:00,Magalhães Pinto / Belo Horizonte
+075,Internacional / RS,Palmeiras / SP,30/06/2021,19:00,José Pinheiro Borda / Porto Alegre
+076,Fortaleza / CE,Chapecoense / SC,30/06/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+077,Bahia / BA,América / MG,30/06/2021,19:00,Roberto Santos / Salvador
+078,Red Bull Bragantino / SP,Ceará / CE,01/07/2021,16:00,Nabi Abi Chedid / Braganca Paulista
+079,Juventude / RS,Grêmio / RS,30/06/2021,21:30,Alfredo Jaconi / Caxias do Sul
+080,Cuiabá / MT,Flamengo / RJ,01/07/2021,20:00,Arena Pantanal / Cuiaba
+081,Flamengo / RJ,Fluminense / RJ,04/07/2021,16:00,Arena Corinthians / Sao Paulo
+082,Corinthians / SP,Internacional / RS,03/07/2021,21:00,Arena Corinthians / Sao Paulo
+083,São Paulo / SP,Red Bull Bragantino / SP,04/07/2021,18:15,Cícero Pompeu de Toledo / Sao Paulo
+084,América / MG,Santos / SP,03/07/2021,19:00,Raimundo Sampaio / Belo Horizonte
+085,Grêmio / RS,Atlético / GO,04/07/2021,20:30,Arena do Grêmio / Porto Alegre
+086,Ceará / CE,Juventude / RS,04/07/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
+087,Sport / PE,Palmeiras / SP,04/07/2021,16:00,Adelmar da Costa Carvalho / Recife
+088,Athletico Paranaense / PR,Fortaleza / CE,03/07/2021,19:00,Joaquim Américo Guimarães / Curitiba
+089,Chapecoense / SC,Bahia / BA,04/07/2021,11:00,Índio Condá / Chapeco
+090,Cuiabá / MT,Atlético Mineiro / MG,04/07/2021,18:15,Arena Pantanal / Cuiaba
+091,Fluminense / RJ,Ceará / CE,07/07/2021,21:30,São Januário / Rio de Janeiro
+092,Palmeiras / SP,Grêmio / RS,07/07/2021,19:00,Allianz Parque / Sao Paulo
+093,Santos / SP,Athletico Paranaense / PR,06/07/2021,19:30,Urbano Caldeira / Santos
+094,Atlético Mineiro / MG,Flamengo / RJ,07/07/2021,19:00,Magalhães Pinto / Belo Horizonte
+095,Internacional / RS,São Paulo / SP,07/07/2021,21:30,José Pinheiro Borda / Porto Alegre
+096,Fortaleza / CE,América / MG,07/07/2021,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+097,Bahia / BA,Juventude / RS,07/07/2021,18:00,Roberto Santos / Salvador
+098,Red Bull Bragantino / SP,Cuiabá / MT,07/07/2021,18:00,Nabi Abi Chedid / Braganca Paulista
+099,Chapecoense / SC,Corinthians / SP,08/07/2021,21:00,Índio Condá / Chapeco
+100,Atlético / GO,Sport / PE,07/07/2021,19:15,Antônio Accioly / Goiania
+101,Flamengo / RJ,Chapecoense / SC,11/07/2021,18:15,Jornalista Mário Filho / Rio de Janeiro
+102,Palmeiras / SP,Santos / SP,10/07/2021,16:30,Allianz Parque / Sao Paulo
+103,São Paulo / SP,Bahia / BA,10/07/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+104,América / MG,Atlético Mineiro / MG,10/07/2021,19:00,Raimundo Sampaio / Belo Horizonte
+105,Grêmio / RS,Internacional / RS,10/07/2021,16:30,Arena do Grêmio / Porto Alegre
+106,Fortaleza / CE,Corinthians / SP,11/07/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+107,Sport / PE,Fluminense / RJ,10/07/2021,19:00,Adelmar da Costa Carvalho / Recife
+108,Athletico Paranaense / PR,Red Bull Bragantino / SP,10/07/2021,17:00,Joaquim Américo Guimarães / Curitiba
+109,Juventude / RS,Atlético / GO,11/07/2021,11:00,Alfredo Jaconi / Caxias do Sul
+110,Cuiabá / MT,Ceará / CE,11/07/2021,18:15,Arena Pantanal / Cuiaba
+111,Fluminense / RJ,Grêmio / RS,17/07/2021,21:00,Jornalista Mário Filho / Rio de Janeiro
+112,Corinthians / SP,Atlético Mineiro / MG,17/07/2021,19:00,Arena Corinthians / Sao Paulo
+113,São Paulo / SP,Fortaleza / CE,17/07/2021,17:00,Cícero Pompeu de Toledo / Sao Paulo
+114,América / MG,Sport / PE,19/07/2021,20:00,Raimundo Sampaio / Belo Horizonte
+115,Internacional / RS,Juventude / RS,18/07/2021,20:30,José Pinheiro Borda / Porto Alegre
+116,Ceará / CE,Athletico Paranaense / PR,17/07/2021,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+117,Bahia / BA,Flamengo / RJ,18/07/2021,18:15,Roberto Santos / Salvador
+118,Red Bull Bragantino / SP,Santos / SP,18/07/2021,20:30,Nabi Abi Chedid / Braganca Paulista
+119,Chapecoense / SC,Cuiabá / MT,18/07/2021,11:00,Índio Condá / Chapeco
+120,Atlético / GO,Palmeiras / SP,18/07/2021,16:00,Antônio Accioly / Goiania
+121,Flamengo / RJ,São Paulo / SP,25/07/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
+122,Palmeiras / SP,Fluminense / RJ,24/07/2021,19:00,Allianz Parque / Sao Paulo
+123,Santos / SP,Atlético / GO,25/07/2021,18:15,Urbano Caldeira / Santos
+124,Atlético Mineiro / MG,Bahia / BA,25/07/2021,11:00,Magalhães Pinto / Belo Horizonte
+125,Grêmio / RS,América / MG,24/07/2021,17:00,Arena do Grêmio / Porto Alegre
+126,Fortaleza / CE,Red Bull Bragantino / SP,25/07/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+127,Sport / PE,Ceará / CE,25/07/2021,20:30,Adelmar da Costa Carvalho / Recife
+128,Athletico Paranaense / PR,Internacional / RS,25/07/2021,18:15,Joaquim Américo Guimarães / Curitiba
+129,Juventude / RS,Chapecoense / SC,26/07/2021,18:00,Alfredo Jaconi / Caxias do Sul
+130,Cuiabá / MT,Corinthians / SP,26/07/2021,20:00,Arena Pantanal / Cuiaba
+131,Fluminense / RJ,Juventude / RS,02/09/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+132,Corinthians / SP,Flamengo / RJ,01/08/2021,16:00,Arena Corinthians / Sao Paulo
+133,São Paulo / SP,Palmeiras / SP,31/07/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+134,Atlético Mineiro / MG,Athletico Paranaense / PR,01/08/2021,16:00,Magalhães Pinto / Belo Horizonte
+135,Internacional / RS,Cuiabá / MT,31/07/2021,20:00,José Pinheiro Borda / Porto Alegre
+136,Ceará / CE,Fortaleza / CE,01/08/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+137,Bahia / BA,Sport / PE,01/08/2021,18:15,Roberto Santos / Salvador
+138,Red Bull Bragantino / SP,Grêmio / RS,31/07/2021,21:00,Nabi Abi Chedid / Braganca Paulista
+139,Chapecoense / SC,Santos / SP,01/08/2021,18:15,Índio Condá / Chapeco
+140,Atlético / GO,América / MG,01/08/2021,20:30,Antônio Accioly / Goiania
+141,Flamengo / RJ,Internacional / RS,08/08/2021,18:15,Jornalista Mário Filho / Rio de Janeiro
+142,Palmeiras / SP,Fortaleza / CE,07/08/2021,21:00,Allianz Parque / Sao Paulo
+143,Santos / SP,Corinthians / SP,08/08/2021,16:00,Urbano Caldeira / Santos
+144,América / MG,Fluminense / RJ,08/08/2021,16:00,Raimundo Sampaio / Belo Horizonte
+145,Grêmio / RS,Chapecoense / SC,09/08/2021,20:00,Arena do Grêmio / Porto Alegre
+146,Ceará / CE,Atlético / GO,08/08/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
+147,Sport / PE,Red Bull Bragantino / SP,06/08/2021,19:00,Adelmar da Costa Carvalho / Recife
+148,Athletico Paranaense / PR,São Paulo / SP,07/08/2021,18:00,Joaquim Américo Guimarães / Curitiba
+149,Juventude / RS,Atlético Mineiro / MG,08/08/2021,16:00,Alfredo Jaconi / Caxias do Sul
+150,Cuiabá / MT,Bahia / BA,07/08/2021,21:00,Arena Pantanal / Cuiaba
+151,Flamengo / RJ,Sport / PE,15/08/2021,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+152,Corinthians / SP,Ceará / CE,15/08/2021,16:00,Arena Corinthians / Sao Paulo
+153,São Paulo / SP,Grêmio / RS,14/08/2021,21:00,Cícero Pompeu de Toledo / Sao Paulo
+154,Atlético Mineiro / MG,Palmeiras / SP,14/08/2021,19:00,Magalhães Pinto / Belo Horizonte
+155,Internacional / RS,Fluminense / RJ,15/08/2021,20:30,José Pinheiro Borda / Porto Alegre
+156,Fortaleza / CE,Santos / SP,15/08/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
+157,Bahia / BA,Atlético / GO,15/08/2021,18:15,Roberto Santos / Salvador
+158,Red Bull Bragantino / SP,Juventude / RS,14/08/2021,17:00,Nabi Abi Chedid / Braganca Paulista
+159,Chapecoense / SC,América / MG,16/08/2021,20:00,Índio Condá / Chapeco
+160,Cuiabá / MT,Athletico Paranaense / PR,15/08/2021,18:15,Arena Pantanal / Cuiaba
+161,Fluminense / RJ,Atlético Mineiro / MG,23/08/2021,20:00,São Januário / Rio de Janeiro
+162,Palmeiras / SP,Cuiabá / MT,22/08/2021,11:00,Allianz Parque / Sao Paulo
+163,Santos / SP,Internacional / RS,22/08/2021,18:15,Urbano Caldeira / Santos
+164,América / MG,Red Bull Bragantino / SP,23/08/2021,20:00,Raimundo Sampaio / Belo Horizonte
+165,Grêmio / RS,Bahia / BA,21/08/2021,19:00,Arena do Grêmio / Porto Alegre
+166,Ceará / CE,Flamengo / RJ,22/08/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+167,Sport / PE,São Paulo / SP,22/08/2021,20:30,Adelmar da Costa Carvalho / Recife
+168,Athletico Paranaense / PR,Corinthians / SP,22/08/2021,16:00,Joaquim Américo Guimarães / Curitiba
+169,Juventude / RS,Fortaleza / CE,21/08/2021,21:00,Alfredo Jaconi / Caxias do Sul
+170,Atlético / GO,Chapecoense / SC,21/08/2021,17:00,Antônio Accioly / Goiania
+171,Fluminense / RJ,Bahia / BA,30/08/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+172,Palmeiras / SP,Athletico Paranaense / PR,28/08/2021,21:00,Allianz Parque / Sao Paulo
+173,Santos / SP,Flamengo / RJ,28/08/2021,19:00,Urbano Caldeira / Santos
+174,América / MG,Ceará / CE,29/08/2021,11:00,Raimundo Sampaio / Belo Horizonte
+175,Grêmio / RS,Corinthians / SP,28/08/2021,21:00,Arena do Grêmio / Porto Alegre
+176,Fortaleza / CE,Cuiabá / MT,30/08/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+177,Sport / PE,Chapecoense / SC,28/08/2021,17:00,Adelmar da Costa Carvalho / Recife
+178,Red Bull Bragantino / SP,Atlético Mineiro / MG,29/08/2021,20:30,Nabi Abi Chedid / Braganca Paulista
+179,Juventude / RS,São Paulo / SP,29/08/2021,16:00,Alfredo Jaconi / Caxias do Sul
+180,Atlético / GO,Internacional / RS,29/08/2021,18:15,Antônio Accioly / Goiania
+181,Flamengo / RJ,Atlético / GO,05/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+182,Corinthians / SP,Juventude / RS,07/09/2021,21:30,Arena Corinthians / Sao Paulo
+183,São Paulo / SP,América / MG,22/09/2021,20:30,Cícero Pompeu de Toledo / Sao Paulo
+184,Atlético Mineiro / MG,Grêmio / RS,03/11/2021,21:00,Magalhães Pinto / Belo Horizonte
+185,Internacional / RS,Red Bull Bragantino / SP,21/10/2021,20:00,José Pinheiro Borda / Porto Alegre
+186,Ceará / CE,Palmeiras / SP,20/10/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+187,Bahia / BA,Fortaleza / CE,04/09/2021,21:00,Roberto Santos / Salvador
+188,Athletico Paranaense / PR,Sport / PE,05/09/2021,18:15,Joaquim Américo Guimarães / Curitiba
+189,Chapecoense / SC,Fluminense / RJ,07/09/2021,21:30,Índio Condá / Chapeco
+190,Cuiabá / MT,Santos / SP,04/09/2021,21:00,Arena Pantanal / Cuiaba
+191,Fluminense / RJ,São Paulo / SP,12/09/2021,20:30,Jornalista Mário Filho / Rio de Janeiro
+192,Palmeiras / SP,Flamengo / RJ,12/09/2021,16:00,Allianz Parque / Sao Paulo
+193,Santos / SP,Bahia / BA,11/09/2021,21:00,Urbano Caldeira / Santos
+194,América / MG,Athletico Paranaense / PR,11/09/2021,16:00,Raimundo Sampaio / Belo Horizonte
+195,Grêmio / RS,Ceará / CE,12/09/2021,11:00,Arena do Grêmio / Porto Alegre
+196,Fortaleza / CE,Atlético Mineiro / MG,12/09/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+197,Sport / PE,Internacional / RS,13/09/2021,20:00,Adelmar da Costa Carvalho / Recife
+198,Red Bull Bragantino / SP,Chapecoense / SC,11/09/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+199,Juventude / RS,Cuiabá / MT,11/09/2021,17:00,Alfredo Jaconi / Caxias do Sul
+200,Atlético / GO,Corinthians / SP,12/09/2021,18:15,Antônio Accioly / Goiania
+201,Flamengo / RJ,Grêmio / RS,19/09/2021,20:30,Jornalista Mário Filho / Rio de Janeiro
+202,Corinthians / SP,América / MG,19/09/2021,18:15,Arena Corinthians / Sao Paulo
+203,São Paulo / SP,Atlético / GO,19/09/2021,16:00,Cícero Pompeu de Toledo / Sao Paulo
+204,Atlético Mineiro / MG,Sport / PE,18/09/2021,19:00,Magalhães Pinto / Belo Horizonte
+205,Internacional / RS,Fortaleza / CE,19/09/2021,11:00,José Pinheiro Borda / Porto Alegre
+206,Ceará / CE,Santos / SP,18/09/2021,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
+207,Bahia / BA,Red Bull Bragantino / SP,18/09/2021,21:00,Octávio Mangabeira / Salvador
+208,Athletico Paranaense / PR,Juventude / RS,18/09/2021,18:45,Joaquim Américo Guimarães / Curitiba
+209,Chapecoense / SC,Palmeiras / SP,18/09/2021,17:00,Índio Condá / Chapeco
+210,Cuiabá / MT,Fluminense / RJ,20/09/2021,20:00,Arena Pantanal / Cuiaba
+211,Fluminense / RJ,Red Bull Bragantino / SP,26/09/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
+212,Corinthians / SP,Palmeiras / SP,25/09/2021,19:00,Arena Corinthians / Sao Paulo
+213,São Paulo / SP,Atlético Mineiro / MG,25/09/2021,21:00,Cícero Pompeu de Toledo / Sao Paulo
+214,América / MG,Flamengo / RJ,26/09/2021,11:00,Raimundo Sampaio / Belo Horizonte
+215,Internacional / RS,Bahia / BA,26/09/2021,16:00,José Pinheiro Borda / Porto Alegre
+216,Ceará / CE,Chapecoense / SC,25/09/2021,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+217,Sport / PE,Fortaleza / CE,26/09/2021,18:15,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+218,Athletico Paranaense / PR,Grêmio / RS,26/09/2021,18:15,Joaquim Américo Guimarães / Curitiba
+219,Juventude / RS,Santos / SP,26/09/2021,16:00,Alfredo Jaconi / Caxias do Sul
+220,Atlético / GO,Cuiabá / MT,26/09/2021,20:30,Antônio Accioly / Goiania
+221,Flamengo / RJ,Athletico Paranaense / PR,03/10/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
+222,Palmeiras / SP,Juventude / RS,03/10/2021,18:15,Allianz Parque / Sao Paulo
+223,Santos / SP,Fluminense / RJ,27/10/2021,19:00,Urbano Caldeira / Santos
+224,Atlético Mineiro / MG,Internacional / RS,02/10/2021,21:00,Magalhães Pinto / Belo Horizonte
+225,Grêmio / RS,Sport / PE,03/10/2021,20:30,Arena do Grêmio / Porto Alegre
+226,Fortaleza / CE,Atlético / GO,02/10/2021,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+227,Bahia / BA,Ceará / CE,27/10/2021,19:00,Octávio Mangabeira / Salvador
+228,Red Bull Bragantino / SP,Corinthians / SP,02/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+229,Chapecoense / SC,São Paulo / SP,03/10/2021,16:00,Índio Condá / Chapeco
+230,Cuiabá / MT,América / MG,02/10/2021,17:00,Arena Pantanal / Cuiaba
+231,Fluminense / RJ,Fortaleza / CE,06/10/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+232,Corinthians / SP,Bahia / BA,05/10/2021,21:30,Arena Corinthians / Sao Paulo
+233,São Paulo / SP,Santos / SP,07/10/2021,18:30,Cícero Pompeu de Toledo / Sao Paulo
+234,América / MG,Palmeiras / SP,06/10/2021,21:30,Raimundo Sampaio / Belo Horizonte
+235,Grêmio / RS,Cuiabá / MT,06/10/2021,21:30,Arena do Grêmio / Porto Alegre
+236,Ceará / CE,Internacional / RS,06/10/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+237,Sport / PE,Juventude / RS,06/10/2021,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+238,Red Bull Bragantino / SP,Flamengo / RJ,06/10/2021,20:30,Nabi Abi Chedid / Braganca Paulista
+239,Chapecoense / SC,Atlético Mineiro / MG,06/10/2021,19:00,Índio Condá / Chapeco
+240,Atlético / GO,Athletico Paranaense / PR,06/10/2021,19:00,Antônio Accioly / Goiania
+241,Fluminense / RJ,Atlético / GO,09/10/2021,16:30,Jornalista Mário Filho / Rio de Janeiro
+242,Palmeiras / SP,Red Bull Bragantino / SP,09/10/2021,21:00,Allianz Parque / Sao Paulo
+243,Santos / SP,Grêmio / RS,10/10/2021,16:00,Urbano Caldeira / Santos
+244,Atlético Mineiro / MG,Ceará / CE,09/10/2021,16:30,Magalhães Pinto / Belo Horizonte
+245,Internacional / RS,Chapecoense / SC,10/10/2021,11:00,José Pinheiro Borda / Porto Alegre
+246,Fortaleza / CE,Flamengo / RJ,09/10/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+247,Sport / PE,Corinthians / SP,09/10/2021,16:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+248,Athletico Paranaense / PR,Bahia / BA,09/10/2021,19:00,Joaquim Américo Guimarães / Curitiba
+249,Juventude / RS,América / MG,09/10/2021,21:00,Alfredo Jaconi / Caxias do Sul
+250,Cuiabá / MT,São Paulo / SP,11/10/2021,20:00,Arena Pantanal / Cuiaba
+251,Flamengo / RJ,Juventude / RS,13/10/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+252,Corinthians / SP,Fluminense / RJ,13/10/2021,21:00,Arena Corinthians / Sao Paulo
+253,São Paulo / SP,Ceará / CE,14/10/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+254,Atlético Mineiro / MG,Santos / SP,13/10/2021,19:00,Magalhães Pinto / Belo Horizonte
+255,Internacional / RS,América / MG,13/10/2021,21:30,José Pinheiro Borda / Porto Alegre
+256,Fortaleza / CE,Grêmio / RS,13/10/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+257,Bahia / BA,Palmeiras / SP,12/10/2021,21:30,Octávio Mangabeira / Salvador
+258,Red Bull Bragantino / SP,Atlético / GO,12/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+259,Chapecoense / SC,Athletico Paranaense / PR,13/10/2021,19:00,Índio Condá / Chapeco
+260,Cuiabá / MT,Sport / PE,14/10/2021,19:00,Arena Pantanal / Cuiaba
+261,Flamengo / RJ,Cuiabá / MT,17/10/2021,20:30,Jornalista Mário Filho / Rio de Janeiro
+262,Palmeiras / SP,Internacional / RS,17/10/2021,16:00,Allianz Parque / Sao Paulo
+263,São Paulo / SP,Corinthians / SP,18/10/2021,20:00,Cícero Pompeu de Toledo / Sao Paulo
+264,América / MG,Bahia / BA,16/10/2021,21:00,Raimundo Sampaio / Belo Horizonte
+265,Grêmio / RS,Juventude / RS,17/10/2021,18:15,Arena do Grêmio / Porto Alegre
+266,Ceará / CE,Red Bull Bragantino / SP,17/10/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
+267,Sport / PE,Santos / SP,17/10/2021,20:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+268,Athletico Paranaense / PR,Fluminense / RJ,17/10/2021,16:00,Joaquim Américo Guimarães / Curitiba
+269,Chapecoense / SC,Fortaleza / CE,16/10/2021,19:00,Índio Condá / Chapeco
+270,Atlético / GO,Atlético Mineiro / MG,17/10/2021,18:15,Antônio Accioly / Goiania
+271,Fluminense / RJ,Flamengo / RJ,23/10/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+272,Palmeiras / SP,Sport / PE,25/10/2021,21:30,Allianz Parque / Sao Paulo
+273,Santos / SP,América / MG,23/10/2021,17:00,Urbano Caldeira / Santos
+274,Atlético Mineiro / MG,Cuiabá / MT,24/10/2021,16:00,Magalhães Pinto / Belo Horizonte
+275,Internacional / RS,Corinthians / SP,24/10/2021,16:00,José Pinheiro Borda / Porto Alegre
+276,Fortaleza / CE,Athletico Paranaense / PR,23/10/2021,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+277,Bahia / BA,Chapecoense / SC,24/10/2021,20:30,Octávio Mangabeira / Salvador
+278,Red Bull Bragantino / SP,São Paulo / SP,24/10/2021,18:15,Nabi Abi Chedid / Braganca Paulista
+279,Juventude / RS,Ceará / CE,23/10/2021,17:00,Alfredo Jaconi / Caxias do Sul
+280,Atlético / GO,Grêmio / RS,25/10/2021,20:00,Antônio Accioly / Goiania
+281,Flamengo / RJ,Atlético Mineiro / MG,30/10/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+282,Corinthians / SP,Chapecoense / SC,01/11/2021,21:30,Arena Corinthians / Sao Paulo
+283,São Paulo / SP,Internacional / RS,31/10/2021,18:15,Cícero Pompeu de Toledo / Sao Paulo
+284,América / MG,Fortaleza / CE,30/10/2021,21:00,Raimundo Sampaio / Belo Horizonte
+285,Grêmio / RS,Palmeiras / SP,31/10/2021,16:00,Arena do Grêmio / Porto Alegre
+286,Ceará / CE,Fluminense / RJ,31/10/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+287,Sport / PE,Atlético / GO,31/10/2021,20:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+288,Athletico Paranaense / PR,Santos / SP,30/10/2021,17:00,Joaquim Américo Guimarães / Curitiba
+289,Juventude / RS,Bahia / BA,30/10/2021,19:15,Alfredo Jaconi / Caxias do Sul
+290,Cuiabá / MT,Red Bull Bragantino / SP,01/11/2021,20:00,Arena Pantanal / Cuiaba
+291,Fluminense / RJ,Sport / PE,06/11/2021,21:00,Jornalista Mário Filho / Rio de Janeiro
+292,Corinthians / SP,Fortaleza / CE,06/11/2021,17:00,Arena Corinthians / Sao Paulo
+293,Santos / SP,Palmeiras / SP,07/11/2021,16:00,Urbano Caldeira / Santos
+294,Atlético Mineiro / MG,América / MG,07/11/2021,16:00,Magalhães Pinto / Belo Horizonte
+295,Internacional / RS,Grêmio / RS,06/11/2021,19:00,José Pinheiro Borda / Porto Alegre
+296,Ceará / CE,Cuiabá / MT,07/11/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+297,Bahia / BA,São Paulo / SP,07/11/2021,18:15,Octávio Mangabeira / Salvador
+298,Red Bull Bragantino / SP,Athletico Paranaense / PR,07/11/2021,16:00,Nabi Abi Chedid / Braganca Paulista
+299,Chapecoense / SC,Flamengo / RJ,08/11/2021,20:00,Índio Condá / Chapeco
+300,Atlético / GO,Juventude / RS,23/11/2021,19:00,Antônio Accioly / Goiania
+301,Flamengo / RJ,Bahia / BA,11/11/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
+302,Palmeiras / SP,Atlético / GO,10/11/2021,20:30,Allianz Parque / Sao Paulo
+303,Santos / SP,Red Bull Bragantino / SP,10/11/2021,19:00,Urbano Caldeira / Santos
+304,Atlético Mineiro / MG,Corinthians / SP,10/11/2021,19:00,Magalhães Pinto / Belo Horizonte
+305,Grêmio / RS,Fluminense / RJ,09/11/2021,21:30,Arena do Grêmio / Porto Alegre
+306,Fortaleza / CE,São Paulo / SP,10/11/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+307,Sport / PE,América / MG,10/11/2021,21:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+308,Athletico Paranaense / PR,Ceará / CE,10/11/2021,18:30,Joaquim Américo Guimarães / Curitiba
+309,Juventude / RS,Internacional / RS,10/11/2021,21:30,Alfredo Jaconi / Caxias do Sul
+310,Cuiabá / MT,Chapecoense / SC,04/11/2021,21:00,Arena Pantanal / Cuiaba
+311,Fluminense / RJ,Palmeiras / SP,14/11/2021,18:15,Jornalista Mário Filho / Rio de Janeiro
+312,Corinthians / SP,Cuiabá / MT,13/11/2021,21:00,Arena Corinthians / Sao Paulo
+313,São Paulo / SP,Flamengo / RJ,14/11/2021,16:00,Cícero Pompeu de Toledo / Sao Paulo
+314,América / MG,Grêmio / RS,13/11/2021,18:30,Raimundo Sampaio / Belo Horizonte
+315,Internacional / RS,Athletico Paranaense / PR,13/11/2021,19:00,José Pinheiro Borda / Porto Alegre
+316,Ceará / CE,Sport / PE,14/11/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+317,Bahia / BA,Atlético Mineiro / MG,02/12/2021,18:00,Octávio Mangabeira / Salvador
+318,Red Bull Bragantino / SP,Fortaleza / CE,13/11/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+319,Chapecoense / SC,Juventude / RS,14/11/2021,19:00,Índio Condá / Chapeco
+320,Atlético / GO,Santos / SP,13/11/2021,17:00,Antônio Accioly / Goiania
+321,Flamengo / RJ,Corinthians / SP,17/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+322,Palmeiras / SP,São Paulo / SP,17/11/2021,20:30,Allianz Parque / Sao Paulo
+323,Santos / SP,Chapecoense / SC,17/11/2021,19:00,Urbano Caldeira / Santos
+324,América / MG,Atlético / GO,17/11/2021,19:00,Raimundo Sampaio / Belo Horizonte
+325,Grêmio / RS,Red Bull Bragantino / SP,16/11/2021,18:00,Arena do Grêmio / Porto Alegre
+326,Fortaleza / CE,Ceará / CE,17/11/2021,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+327,Sport / PE,Bahia / BA,18/11/2021,21:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+328,Athletico Paranaense / PR,Atlético Mineiro / MG,16/11/2021,16:00,Joaquim Américo Guimarães / Curitiba
+329,Juventude / RS,Fluminense / RJ,17/11/2021,20:30,Alfredo Jaconi / Caxias do Sul
+330,Cuiabá / MT,Internacional / RS,17/11/2021,19:00,Arena Pantanal / Cuiaba
+331,Fluminense / RJ,América / MG,21/11/2021,17:00,Jornalista Mário Filho / Rio de Janeiro
+332,Corinthians / SP,Santos / SP,21/11/2021,16:00,Arena Corinthians / Sao Paulo
+333,São Paulo / SP,Athletico Paranaense / PR,24/11/2021,21:30,Cícero Pompeu de Toledo / Sao Paulo
+334,Atlético Mineiro / MG,Juventude / RS,20/11/2021,19:00,Magalhães Pinto / Belo Horizonte
+335,Internacional / RS,Flamengo / RJ,20/11/2021,21:30,José Pinheiro Borda / Porto Alegre
+336,Fortaleza / CE,Palmeiras / SP,20/11/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+337,Bahia / BA,Cuiabá / MT,21/11/2021,19:00,Octávio Mangabeira / Salvador
+338,Red Bull Bragantino / SP,Sport / PE,28/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+339,Chapecoense / SC,Grêmio / RS,20/11/2021,19:00,Índio Condá / Chapeco
+340,Atlético / GO,Ceará / CE,20/11/2021,21:00,Antônio Accioly / Goiania
+341,Fluminense / RJ,Internacional / RS,24/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+342,Palmeiras / SP,Atlético Mineiro / MG,23/11/2021,21:30,Allianz Parque / Sao Paulo
+343,Santos / SP,Fortaleza / CE,25/11/2021,19:00,Urbano Caldeira / Santos
+344,América / MG,Chapecoense / SC,30/11/2021,21:00,Raimundo Sampaio / Belo Horizonte
+345,Grêmio / RS,São Paulo / SP,02/12/2021,20:00,Arena do Grêmio / Porto Alegre
+346,Ceará / CE,Corinthians / SP,25/11/2021,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+347,Sport / PE,Flamengo / RJ,03/12/2021,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+348,Athletico Paranaense / PR,Cuiabá / MT,03/12/2021,19:00,Joaquim Américo Guimarães / Curitiba
+349,Juventude / RS,Red Bull Bragantino / SP,30/11/2021,19:00,Alfredo Jaconi / Caxias do Sul
+350,Atlético / GO,Bahia / BA,29/11/2021,19:00,Antônio Accioly / Goiania
+351,Flamengo / RJ,Ceará / CE,30/11/2021,20:00,Jornalista Mário Filho / Rio de Janeiro
+352,Corinthians / SP,Athletico Paranaense / PR,28/11/2021,16:00,Arena Corinthians / Sao Paulo
+353,São Paulo / SP,Sport / PE,27/11/2021,21:30,Cícero Pompeu de Toledo / Sao Paulo
+354,Atlético Mineiro / MG,Fluminense / RJ,28/11/2021,16:00,Magalhães Pinto / Belo Horizonte
+355,Internacional / RS,Santos / SP,28/11/2021,19:00,José Pinheiro Borda / Porto Alegre
+356,Fortaleza / CE,Juventude / RS,03/12/2021,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
+357,Bahia / BA,Grêmio / RS,26/11/2021,19:00,Octávio Mangabeira / Salvador
+358,Red Bull Bragantino / SP,América / MG,27/11/2021,19:30,Nabi Abi Chedid / Braganca Paulista
+359,Chapecoense / SC,Atlético / GO,03/12/2021,20:00,Índio Condá / Chapeco
+360,Cuiabá / MT,Palmeiras / SP,30/11/2021,22:00,Arena Pantanal / Cuiaba
+361,Flamengo / RJ,Santos / SP,06/12/2021,20:00,Jornalista Mário Filho / Rio de Janeiro
+362,Corinthians / SP,Grêmio / RS,05/12/2021,16:00,Arena Corinthians / Sao Paulo
+363,São Paulo / SP,Juventude / RS,06/12/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+364,Atlético Mineiro / MG,Red Bull Bragantino / SP,05/12/2021,16:00,Magalhães Pinto / Belo Horizonte
+365,Internacional / RS,Atlético / GO,06/12/2021,20:00,José Pinheiro Borda / Porto Alegre
+366,Ceará / CE,América / MG,05/12/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+367,Bahia / BA,Fluminense / RJ,05/12/2021,16:00,Octávio Mangabeira / Salvador
+368,Athletico Paranaense / PR,Palmeiras / SP,06/12/2021,19:00,Joaquim Américo Guimarães / Curitiba
+369,Chapecoense / SC,Sport / PE,06/12/2021,21:00,Índio Condá / Chapeco
+370,Cuiabá / MT,Fortaleza / CE,06/12/2021,20:00,Arena Pantanal / Cuiaba
+371,Fluminense / RJ,Chapecoense / SC,09/12/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+372,Palmeiras / SP,Ceará / CE,09/12/2021,21:30,Arena Barueri / Barueri
+373,Santos / SP,Cuiabá / MT,09/12/2021,21:30,Urbano Caldeira / Santos
+374,América / MG,São Paulo / SP,09/12/2021,21:30,Raimundo Sampaio / Belo Horizonte
+375,Grêmio / RS,Atlético Mineiro / MG,09/12/2021,21:30,Arena do Grêmio / Porto Alegre
+376,Fortaleza / CE,Bahia / BA,09/12/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+377,Sport / PE,Athletico Paranaense / PR,09/12/2021,21:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+378,Red Bull Bragantino / SP,Internacional / RS,09/12/2021,21:30,Nabi Abi Chedid / Braganca Paulista
+379,Juventude / RS,Corinthians / SP,09/12/2021,21:30,Alfredo Jaconi / Caxias do Sul
+380,Atlético / GO,Flamengo / RJ,09/12/2021,21:30,Antônio Accioly / Goiania

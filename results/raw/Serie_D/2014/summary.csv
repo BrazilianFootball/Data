@@ -1,196 +1,196 @@
-Game,Home,Away
-002,Santos / AP,Princesa do Solimões / AM
-003,Genus / RO,Atlético / AC
-004,Guarany / CE,Ríver / PI
-005,Remo / PA,Moto Club / MA
-006,Baraúnas / RN,Central / PE
-007,Coruripe / AL,Jacuipense / BA
-008,Porto / PE,Globo / RN
-009,Vitória da Conquista / BA,Betim / MG
-010,Villa Nova / MG,Brasiliense / DF
-011,Itaporã / MS,Anapolina / GO
-012,Luziânia / DF,Tombense / MG
-013,Goianesia / GO,Operário / MT
-014,Cabofriense / RJ,Guarani / SC
-015,Ituano / SP,Brasil / RS
-016,Metropolitano / SC,Boavista / RJ
-017,Pelotas / RS,Penapolense / SP
-018,Princesa do Solimões / AM,Rio Branco / AC
-019,Atlético / AC,Santos / AP
-020,São Raimundo / RR,Genus / RO
-021,Ríver / PI,Remo / PA
-022,Moto Club / MA,Interporto / TO
-023,Central / PE,Campinense / PB
-024,Jacuipense / BA,Baraúnas / RN
-025,Confiança / SE,Porto / PE
-026,Globo / RN,Vitória da Conquista / BA
-027,Brasiliense / DF,Estrela do Norte / ES
-028,Anapolina / GO,Villa Nova / MG
-029,Grêmio Barueri / SP,Luziânia / DF
-030,Tombense / MG,Goianesia / GO
-031,Guarani / SC,Maringá / PR
-032,Brasil / RS,Cabofriense / RJ
-033,Londrina / PR,Metropolitano / SC
-034,Boavista / RJ,Pelotas / RS
-035,Atlético / AC,São Raimundo / RR
-036,Santos / AP,Rio Branco / AC
-037,Genus / RO,Princesa do Solimões / AM
-038,Guarany / CE,Interporto / TO
-039,Ríver / PI,Moto Club / MA
-040,Baraúnas / RN,Coruripe / AL
-041,Campinense / PB,Jacuipense / BA
-042,Betim / MG,Globo / RN
-043,Vitória da Conquista / BA,Confiança / SE
-044,Villa Nova / MG,Itaporã / MS
-045,Estrela do Norte / ES,Anapolina / GO
-046,Operário / MT,Tombense / MG
-047,Goianesia / GO,Grêmio Barueri / SP
-048,Cabofriense / RJ,Ituano / SP
-049,Maringá / PR,Brasil / RS
-050,Penapolense / SP,Boavista / RJ
-051,Pelotas / RS,Londrina / PR
-052,Princesa do Solimões / AM,Atlético / AC
-053,São Raimundo / RR,Santos / AP
-054,Rio Branco / AC,Genus / RO
-055,Interporto / TO,Remo / PA
-056,Moto Club / MA,Guarany / CE
-057,Central / PE,Coruripe / AL
-058,Campinense / PB,Baraúnas / RN
-059,Betim / MG,Porto / PE
-060,Globo / RN,Confiança / SE
-061,Brasiliense / DF,Itaporã / MS
-062,Estrela do Norte / ES,Villa Nova / MG
-063,Operário / MT,Luziânia / DF
-064,Tombense / MG,Grêmio Barueri / SP
-065,Guarani / SC,Ituano / SP
-067,Penapolense / SP,Metropolitano / SC
-068,Boavista / RJ,Londrina / PR
-069,Rio Branco / AC,Atlético / AC
-070,São Raimundo / RR,Princesa do Solimões / AM
-071,Santos / AP,Genus / RO
-072,Interporto / TO,Ríver / PI
-073,Remo / PA,Guarany / CE
-074,Coruripe / AL,Campinense / PB
-075,Jacuipense / BA,Central / PE
-076,Confiança / SE,Betim / MG
-077,Porto / PE,Vitória da Conquista / BA
-078,Itaporã / MS,Estrela do Norte / ES
-079,Anapolina / GO,Brasiliense / DF
-081,Luziânia / DF,Goianesia / GO
-082,Ituano / SP,Maringá / PR
-083,Brasil / RS,Guarani / SC
-084,Londrina / PR,Penapolense / SP
-085,Metropolitano / SC,Pelotas / RS
-086,Atlético / AC,Rio Branco / AC
-087,Princesa do Solimões / AM,São Raimundo / RR
-088,Genus / RO,Santos / AP
-089,Ríver / PI,Interporto / TO
-090,Guarany / CE,Remo / PA
-091,Coruripe / AL,Central / PE
-092,Baraúnas / RN,Campinense / PB
-093,Porto / PE,Betim / MG
-094,Confiança / SE,Globo / RN
-095,Itaporã / MS,Brasiliense / DF
-096,Villa Nova / MG,Estrela do Norte / ES
-097,Luziânia / DF,Operário / MT
-098,Grêmio Barueri / SP,Tombense / MG
-099,Ituano / SP,Guarani / SC
-100,Cabofriense / RJ,Maringá / PR
-101,Metropolitano / SC,Penapolense / SP
-102,Londrina / PR,Boavista / RJ
-103,Rio Branco / AC,Santos / AP
-104,São Raimundo / RR,Atlético / AC
-105,Princesa do Solimões / AM,Genus / RO
-106,Moto Club / MA,Ríver / PI
-107,Interporto / TO,Guarany / CE
-108,Central / PE,Jacuipense / BA
-109,Campinense / PB,Coruripe / AL
-110,Vitória da Conquista / BA,Porto / PE
-111,Betim / MG,Confiança / SE
-112,Brasiliense / DF,Anapolina / GO
-113,Estrela do Norte / ES,Itaporã / MS
-114,Goianesia / GO,Luziânia / DF
-115,Operário / MT,Grêmio Barueri / SP
-116,Guarani / SC,Brasil / RS
-117,Maringá / PR,Ituano / SP
-118,Pelotas / RS,Metropolitano / SC
-119,Penapolense / SP,Londrina / PR
-120,Atlético / AC,Princesa do Solimões / AM
-121,Santos / AP,São Raimundo / RR
-122,Genus / RO,Rio Branco / AC
-123,Remo / PA,Interporto / TO
-124,Guarany / CE,Moto Club / MA
-125,Coruripe / AL,Baraúnas / RN
-126,Jacuipense / BA,Campinense / PB
-127,Globo / RN,Betim / MG
-128,Confiança / SE,Vitória da Conquista / BA
-130,Anapolina / GO,Estrela do Norte / ES
-131,Tombense / MG,Operário / MT
-132,Grêmio Barueri / SP,Goianesia / GO
-133,Ituano / SP,Cabofriense / RJ
-134,Brasil / RS,Maringá / PR
-135,Boavista / RJ,Penapolense / SP
-136,Londrina / PR,Pelotas / RS
-137,Rio Branco / AC,Princesa do Solimões / AM
-138,Santos / AP,Atlético / AC
-139,Genus / RO,São Raimundo / RR
-140,Remo / PA,Ríver / PI
-141,Interporto / TO,Moto Club / MA
-142,Campinense / PB,Central / PE
-143,Baraúnas / RN,Jacuipense / BA
-144,Porto / PE,Confiança / SE
-145,Vitória da Conquista / BA,Globo / RN
-146,Estrela do Norte / ES,Brasiliense / DF
-147,Villa Nova / MG,Anapolina / GO
-148,Luziânia / DF,Grêmio Barueri / SP
-149,Goianesia / GO,Tombense / MG
-150,Maringá / PR,Guarani / SC
-151,Cabofriense / RJ,Brasil / RS
-152,Metropolitano / SC,Londrina / PR
-153,Pelotas / RS,Boavista / RJ
-154,São Raimundo / RR,Rio Branco / AC
-155,Princesa do Solimões / AM,Santos / AP
-156,Atlético / AC,Genus / RO
-157,Ríver / PI,Guarany / CE
-158,Moto Club / MA,Remo / PA
-159,Central / PE,Baraúnas / RN
-160,Jacuipense / BA,Coruripe / AL
-161,Globo / RN,Porto / PE
-162,Betim / MG,Vitória da Conquista / BA
-163,Brasiliense / DF,Villa Nova / MG
-165,Tombense / MG,Luziânia / DF
-166,Operário / MT,Goianesia / GO
-167,Guarani / SC,Cabofriense / RJ
-168,Brasil / RS,Ituano / SP
-169,Boavista / RJ,Metropolitano / SC
-170,Penapolense / SP,Pelotas / RS
-171,Central / PE,Confiança / SE
-172,Metropolitano / SC,Tombense / MG
-173,Santos / AP,Londrina / PR
-174,Ituano / SP,Moto Club / MA
-175,Anapolina / GO,Rio Branco / AC
-176,Remo / PA,Brasiliense / DF
-177,Operário / MT,Brasil / RS
-178,Globo / RN,Jacuipense / BA
-179,Confiança / SE,Central / PE
-180,Tombense / MG,Metropolitano / SC
-181,Londrina / PR,Santos / AP
-182,Moto Club / MA,Ituano / SP
-183,Rio Branco / AC,Anapolina / GO
-184,Brasiliense / DF,Remo / PA
-185,Brasil / RS,Operário / MT
-186,Jacuipense / BA,Globo / RN
-187,Anapolina / GO,Londrina / PR
-188,Jacuipense / BA,Confiança / SE
-189,Moto Club / MA,Tombense / MG
-190,Brasil / RS,Brasiliense / DF
-191,Londrina / PR,Anapolina / GO
-192,Confiança / SE,Jacuipense / BA
-193,Tombense / MG,Moto Club / MA
-194,Brasiliense / DF,Brasil / RS
-195,Brasil / RS,Londrina / PR
-196,Tombense / MG,Confiança / SE
-197,Londrina / PR,Brasil / RS
-198,Confiança / SE,Tombense / MG
-199,Brasil / RS,Tombense / MG
-200,Tombense / MG,Brasil / RS
+Game,Home,Away,Date,Time,Stadium
+002,Santos / AP,Princesa do Solimões / AM,20/07/2014,16:00,Estádio Milton Corrêa / Macapá
+003,Genus / RO,Atlético / AC,30/07/2014,21:00,Aluízio Ferreira / Porto Velho/RO
+004,Guarany / CE,Ríver / PI,20/07/2014,16:00,Estádio Plácido Aderaldo Castelo / Sobral
+005,Remo / PA,Moto Club / MA,20/07/2014,15:30,São Benedito / Braganca
+006,Baraúnas / RN,Central / PE,20/07/2014,16:00,Leonardo Nogueira / Mossoró
+007,Coruripe / AL,Jacuipense / BA,20/07/2014,16:00,Gerson Amaral / Coruripe
+008,Porto / PE,Globo / RN,20/07/2014,16:00,Luiz José de Lacerda / Caruaru
+009,Vitória da Conquista / BA,Betim / MG,19/07/2014,16:00,Lomanto Junior / Vitoria da Conquista
+010,Villa Nova / MG,Brasiliense / DF,20/07/2014,16:00,Castor Cifuentes / Nova Lima
+011,Itaporã / MS,Anapolina / GO,20/07/2014,17:00,Estádio Fredis Saldivar / Dourados
+012,Luziânia / DF,Tombense / MG,20/07/2014,16:00,Zequinha Roriz / Luziania
+013,Goianesia / GO,Operário / MT,20/07/2014,16:00,Waldeir José de Oliveira / Goianesia
+014,Cabofriense / RJ,Guarani / SC,19/07/2014,19:30,Alair Corrêa / Cabo Frio
+015,Ituano / SP,Brasil / RS,19/07/2014,15:00,Novelli Junior / Itu
+016,Metropolitano / SC,Boavista / RJ,20/07/2014,16:00,Complexo Esportivo SESI / Blumenau
+017,Pelotas / RS,Penapolense / SP,20/07/2014,15:30,Antônio Vieira Ramos / Gravataí
+018,Princesa do Solimões / AM,Rio Branco / AC,27/07/2014,17:00,/ 
+019,Atlético / AC,Santos / AP,27/07/2014,19:00,Arena da Floresta / Rio Branco
+020,São Raimundo / RR,Genus / RO,27/07/2014,17:00,Raimundo Ribeiro de Souza / Boa Vista
+021,Ríver / PI,Remo / PA,27/07/2014,16:00,Governador Alberto Tavares Silva / Teresina
+022,Moto Club / MA,Interporto / TO,27/07/2014,17:00,Estádio Governador João Castelo / São Luis
+023,Central / PE,Campinense / PB,27/07/2014,16:00,Luiz José de Lacerda / Caruaru
+024,Jacuipense / BA,Baraúnas / RN,27/07/2014,16:00,Alberto Oliveira / Feira de Santana
+025,Confiança / SE,Porto / PE,27/07/2014,16:00,Presidente Médici / Itabaiana
+026,Globo / RN,Vitória da Conquista / BA,27/07/2014,16:00,Manoel Dantas Barretto / Ceará-Mirim
+027,Brasiliense / DF,Estrela do Norte / ES,27/07/2014,16:00,Elmo Serejo Farias / Taguatinga
+028,Anapolina / GO,Villa Nova / MG,27/07/2014,16:00,Jonas Duarte / Anápolis
+029,Grêmio Barueri / SP,Luziânia / DF,27/07/2014,16:00,Estádio Municipal Barueri / Barueri
+030,Tombense / MG,Goianesia / GO,26/07/2014,16:00,Antônio Guimarães de Almeida / Tombos
+031,Guarani / SC,Maringá / PR,27/07/2014,16:00,Renato Silveira / Palhoca
+032,Brasil / RS,Cabofriense / RJ,27/07/2014,16:00,Antônio Vieira Ramos / Gravataí
+033,Londrina / PR,Metropolitano / SC,27/07/2014,16:00,Municipal Jacy Scaff / Londrina
+034,Boavista / RJ,Pelotas / RS,26/07/2014,15:00,Eucy Resende de Mendonça / Saquarema
+035,Atlético / AC,São Raimundo / RR,03/08/2014,19:00,Arena da Floresta / Rio Branco
+036,Santos / AP,Rio Branco / AC,03/08/2014,16:00,Estádio Milton Corrêa / Macapá
+037,Genus / RO,Princesa do Solimões / AM,03/08/2014,17:00,Aluízio Ferreira / Porto Velho/RO
+038,Guarany / CE,Interporto / TO,10/08/2014,16:00,Estádio Plácido Aderaldo Castelo / Sobral
+039,Ríver / PI,Moto Club / MA,10/08/2014,17:00,Governador Alberto Tavares Silva / Teresina
+040,Baraúnas / RN,Coruripe / AL,03/08/2014,16:00,Leonardo Nogueira / Mossoró
+041,Campinense / PB,Jacuipense / BA,02/08/2014,16:00,Estádio José Américo de Almeida Filho / João Pessoa
+042,Betim / MG,Globo / RN,02/08/2014,16:00,Estádio Municipal João Lamego Neto / Ipatinga
+043,Vitória da Conquista / BA,Confiança / SE,02/08/2014,16:00,Lomanto Junior / Vitoria da Conquista
+044,Villa Nova / MG,Itaporã / MS,03/08/2014,16:00,Castor Cifuentes / Nova Lima
+045,Estrela do Norte / ES,Anapolina / GO,02/08/2014,16:00,Mário Monteiro / Cachoeiro de Itapemirim
+046,Operário / MT,Tombense / MG,03/08/2014,17:00,Arena Pantanal / Cuiabá
+047,Goianesia / GO,Grêmio Barueri / SP,03/08/2014,16:00,Waldeir José de Oliveira / Goianesia
+048,Cabofriense / RJ,Ituano / SP,02/08/2014,19:30,Alair Corrêa / Cabo Frio
+049,Maringá / PR,Brasil / RS,03/08/2014,16:00,Willie Davids / Maringa
+050,Penapolense / SP,Boavista / RJ,02/08/2014,15:00,Tenente Carriço / Penápolis
+051,Pelotas / RS,Londrina / PR,03/08/2014,15:30,Boca do Lobo / Pelotas
+052,Princesa do Solimões / AM,Atlético / AC,09/08/2014,21:00,/ 
+053,São Raimundo / RR,Santos / AP,10/08/2014,17:00,Raimundo Ribeiro de Souza / Boa Vista
+054,Rio Branco / AC,Genus / RO,10/08/2014,19:00,Arena da Floresta / Rio Branco
+055,Interporto / TO,Remo / PA,02/08/2014,16:00,General Sampaio / Porto Nacional
+056,Moto Club / MA,Guarany / CE,03/08/2014,17:00,Estádio Governador João Castelo / São Luis
+057,Central / PE,Coruripe / AL,10/08/2014,16:00,Luiz José de Lacerda / Caruaru
+058,Campinense / PB,Baraúnas / RN,10/08/2014,16:00,Ernani Sátyro / Campina Grande
+059,Betim / MG,Porto / PE,09/08/2014,16:00,Estádio Municipal João Lamego Neto / Ipatinga
+060,Globo / RN,Confiança / SE,10/08/2014,16:00,Manoel Dantas Barretto / Ceará-Mirim
+061,Brasiliense / DF,Itaporã / MS,10/08/2014,16:00,Mª de Lourdes Abadia / Ceilândia
+062,Estrela do Norte / ES,Villa Nova / MG,09/08/2014,16:00,Mário Monteiro / Cachoeiro de Itapemirim
+063,Operário / MT,Luziânia / DF,10/08/2014,19:00,Arena Pantanal / Cuiabá
+064,Tombense / MG,Grêmio Barueri / SP,09/08/2014,16:00,Antônio Guimarães de Almeida / Tombos
+065,Guarani / SC,Ituano / SP,10/08/2014,16:00,Renato Silveira / Palhoca
+067,Penapolense / SP,Metropolitano / SC,09/08/2014,15:00,Tenente Carriço / Penápolis
+068,Boavista / RJ,Londrina / PR,09/08/2014,15:00,Eucy Resende de Mendonça / Saquarema
+069,Rio Branco / AC,Atlético / AC,17/08/2014,19:00,Arena da Floresta / Rio Branco
+070,São Raimundo / RR,Princesa do Solimões / AM,17/08/2014,17:00,Raimundo Ribeiro de Souza / Boa Vista
+071,Santos / AP,Genus / RO,17/08/2014,16:00,Estádio Milton Corrêa / Macapá
+072,Interporto / TO,Ríver / PI,19/08/2014,20:30,General Sampaio / Porto Nacional
+073,Remo / PA,Guarany / CE,17/08/2014,15:30,São Benedito / Braganca
+074,Coruripe / AL,Campinense / PB,17/08/2014,16:00,Gerson Amaral / Coruripe
+075,Jacuipense / BA,Central / PE,17/08/2014,16:00,Alberto Oliveira / Feira de Santana
+076,Confiança / SE,Betim / MG,17/08/2014,16:00,Presidente Médici / Itabaiana
+077,Porto / PE,Vitória da Conquista / BA,18/08/2014,20:00,Luiz José de Lacerda / Caruaru
+078,Itaporã / MS,Estrela do Norte / ES,17/08/2014,17:00,Francisco Chaves Filho / Itaporã
+079,Anapolina / GO,Brasiliense / DF,17/08/2014,16:00,Jonas Duarte / Anápolis
+081,Luziânia / DF,Goianesia / GO,16/08/2014,15:30,Zequinha Roriz / Luziania
+082,Ituano / SP,Maringá / PR,16/08/2014,15:00,Novelli Junior / Itu
+083,Brasil / RS,Guarani / SC,17/08/2014,16:00,Boca do Lobo / Pelotas
+084,Londrina / PR,Penapolense / SP,17/08/2014,16:00,Municipal Jacy Scaff / Londrina
+085,Metropolitano / SC,Pelotas / RS,17/08/2014,16:00,Complexo Esportivo SESI / Blumenau
+086,Atlético / AC,Rio Branco / AC,24/08/2014,19:00,Arena da Floresta / Rio Branco
+087,Princesa do Solimões / AM,São Raimundo / RR,23/08/2014,18:00,/ 
+088,Genus / RO,Santos / AP,24/08/2014,19:00,Aluízio Ferreira / Porto Velho/RO
+089,Ríver / PI,Interporto / TO,24/08/2014,17:00,Governador Alberto Tavares Silva / Teresina
+090,Guarany / CE,Remo / PA,24/08/2014,17:00,Estádio Plácido Aderaldo Castelo / Sobral
+091,Coruripe / AL,Central / PE,24/08/2014,16:00,Gerson Amaral / Coruripe
+092,Baraúnas / RN,Campinense / PB,24/08/2014,16:00,Leonardo Nogueira / Mossoró
+093,Porto / PE,Betim / MG,24/08/2014,16:00,Luiz José de Lacerda / Caruaru
+094,Confiança / SE,Globo / RN,24/08/2014,16:00,Presidente Médici / Itabaiana
+095,Itaporã / MS,Brasiliense / DF,24/08/2014,16:00,Francisco Chaves Filho / Itaporã
+096,Villa Nova / MG,Estrela do Norte / ES,24/08/2014,16:00,Castor Cifuentes / Nova Lima
+097,Luziânia / DF,Operário / MT,23/08/2014,15:30,Zequinha Roriz / Luziania
+098,Grêmio Barueri / SP,Tombense / MG,22/08/2014,19:00,Estádio Municipal Barueri / Barueri
+099,Ituano / SP,Guarani / SC,23/08/2014,15:00,Novelli Junior / Itu
+100,Cabofriense / RJ,Maringá / PR,23/08/2014,19:30,Alair Corrêa / Cabo Frio
+101,Metropolitano / SC,Penapolense / SP,24/08/2014,16:00,Complexo Esportivo SESI / Blumenau
+102,Londrina / PR,Boavista / RJ,24/08/2014,16:00,Municipal Jacy Scaff / Londrina
+103,Rio Branco / AC,Santos / AP,31/08/2014,19:00,Arena da Floresta / Rio Branco
+104,São Raimundo / RR,Atlético / AC,30/08/2014,19:30,Raimundo Ribeiro de Souza / Boa Vista
+105,Princesa do Solimões / AM,Genus / RO,30/08/2014,18:00,/ 
+106,Moto Club / MA,Ríver / PI,31/08/2014,17:00,Estádio Governador João Castelo / São Luis
+107,Interporto / TO,Guarany / CE,30/08/2014,16:00,General Sampaio / Porto Nacional
+108,Central / PE,Jacuipense / BA,31/08/2014,16:00,Luiz José de Lacerda / Caruaru
+109,Campinense / PB,Coruripe / AL,31/08/2014,16:00,Ernani Sátyro / Campina Grande
+110,Vitória da Conquista / BA,Porto / PE,30/08/2014,16:00,Lomanto Junior / Vitoria da Conquista
+111,Betim / MG,Confiança / SE,30/08/2014,16:00,Estádio Municipal João Lamego Neto / Ipatinga
+112,Brasiliense / DF,Anapolina / GO,31/08/2014,16:00,Elmo Serejo Farias / Taguatinga
+113,Estrela do Norte / ES,Itaporã / MS,30/08/2014,16:00,Mário Monteiro / Cachoeiro de Itapemirim
+114,Goianesia / GO,Luziânia / DF,30/08/2014,16:00,Waldeir José de Oliveira / Goianesia
+115,Operário / MT,Grêmio Barueri / SP,31/08/2014,16:00,Arena Pantanal / Cuiabá
+116,Guarani / SC,Brasil / RS,31/08/2014,16:00,Renato Silveira / Palhoca
+117,Maringá / PR,Ituano / SP,31/08/2014,16:00,Willie Davids / Maringa
+118,Pelotas / RS,Metropolitano / SC,31/08/2014,15:30,Boca do Lobo / Pelotas
+119,Penapolense / SP,Londrina / PR,30/08/2014,15:00,Tenente Carriço / Penápolis
+120,Atlético / AC,Princesa do Solimões / AM,07/09/2014,19:00,Arena da Floresta / Rio Branco
+121,Santos / AP,São Raimundo / RR,07/09/2014,16:00,Estádio Milton Corrêa / Macapá
+122,Genus / RO,Rio Branco / AC,06/09/2014,19:00,Aluízio Ferreira / Porto Velho/RO
+123,Remo / PA,Interporto / TO,07/09/2014,15:30,São Benedito / Braganca
+124,Guarany / CE,Moto Club / MA,06/09/2014,17:00,Estádio Plácido Aderaldo Castelo / Sobral
+125,Coruripe / AL,Baraúnas / RN,06/09/2014,19:00,Gerson Amaral / Coruripe
+126,Jacuipense / BA,Campinense / PB,07/09/2014,16:00,Alberto Oliveira / Feira de Santana
+127,Globo / RN,Betim / MG,07/09/2014,16:00,Manoel Dantas Barretto / Ceará-Mirim
+128,Confiança / SE,Vitória da Conquista / BA,08/09/2014,20:30,Proletário Sabino Ribeiro / Aracajú
+130,Anapolina / GO,Estrela do Norte / ES,07/09/2014,16:00,Jonas Duarte / Anápolis
+131,Tombense / MG,Operário / MT,07/09/2014,16:00,Antônio Guimarães de Almeida / Tombos
+132,Grêmio Barueri / SP,Goianesia / GO,05/09/2014,19:00,Estádio Municipal Barueri / Barueri
+133,Ituano / SP,Cabofriense / RJ,06/09/2014,15:00,Novelli Junior / Itu
+134,Brasil / RS,Maringá / PR,07/09/2014,16:00,Estádio Bento da Silva Freitas / Pelotas
+135,Boavista / RJ,Penapolense / SP,06/09/2014,15:00,Elcyr Resende de Mendonça / Saquarema
+136,Londrina / PR,Pelotas / RS,07/09/2014,16:00,Municipal Jacy Scaff / Londrina
+137,Rio Branco / AC,Princesa do Solimões / AM,13/09/2014,20:00,Arena da Floresta / Rio Branco
+138,Santos / AP,Atlético / AC,14/09/2014,16:00,Estádio Milton Corrêa / Macapá
+139,Genus / RO,São Raimundo / RR,14/09/2014,19:00,Aluízio Ferreira / Porto Velho/RO
+140,Remo / PA,Ríver / PI,14/09/2014,15:30,São Benedito / Braganca
+141,Interporto / TO,Moto Club / MA,14/09/2014,16:00,General Sampaio / Porto Nacional
+142,Campinense / PB,Central / PE,14/09/2014,16:00,Ernani Sátyro / Campina Grande
+143,Baraúnas / RN,Jacuipense / BA,14/09/2014,16:00,Leonardo Nogueira / Mossoró
+144,Porto / PE,Confiança / SE,14/09/2014,16:00,Luiz José de Lacerda / Caruaru
+145,Vitória da Conquista / BA,Globo / RN,13/09/2014,16:00,Lomanto Junior / Vitoria da Conquista
+146,Estrela do Norte / ES,Brasiliense / DF,14/09/2014,16:00,Mário Monteiro / Cachoeiro de Itapemirim
+147,Villa Nova / MG,Anapolina / GO,14/09/2014,16:00,Castor Cifuentes / Nova Lima
+148,Luziânia / DF,Grêmio Barueri / SP,13/09/2014,16:00,Zequinha Roriz / Luziania
+149,Goianesia / GO,Tombense / MG,13/09/2014,16:00,Waldeir José de Oliveira / Goianesia
+150,Maringá / PR,Guarani / SC,14/09/2014,16:00,Willie Davids / Maringa
+151,Cabofriense / RJ,Brasil / RS,13/09/2014,19:30,Alair Corrêa / Cabo Frio
+152,Metropolitano / SC,Londrina / PR,14/09/2014,16:00,Complexo Esportivo SESI / Blumenau
+153,Pelotas / RS,Boavista / RJ,14/09/2014,16:00,Boca do Lobo / Pelotas
+154,São Raimundo / RR,Rio Branco / AC,20/09/2014,18:00,Raimundo Ribeiro de Souza / Boa Vista
+155,Princesa do Solimões / AM,Santos / AP,20/09/2014,18:00,/ 
+156,Atlético / AC,Genus / RO,20/09/2014,18:00,Arena da Floresta / Rio Branco
+157,Ríver / PI,Guarany / CE,21/09/2014,17:00,Governador Alberto Tavares Silva / Teresina
+158,Moto Club / MA,Remo / PA,21/09/2014,17:00,Estádio Governador João Castelo / São Luis
+159,Central / PE,Baraúnas / RN,21/09/2014,16:00,Luiz José de Lacerda / Caruaru
+160,Jacuipense / BA,Coruripe / AL,21/09/2014,16:00,Alberto Oliveira / Feira de Santana
+161,Globo / RN,Porto / PE,21/09/2014,16:00,Manoel Dantas Barretto / Ceará-Mirim
+162,Betim / MG,Vitória da Conquista / BA,19/09/2014,16:00,Estádio Municipal João Lamego Neto / Ipatinga
+163,Brasiliense / DF,Villa Nova / MG,21/09/2014,16:00,Elmo Serejo Farias / Taguatinga
+165,Tombense / MG,Luziânia / DF,21/09/2014,17:00,Antônio Guimarães de Almeida / Tombos
+166,Operário / MT,Goianesia / GO,21/09/2014,17:00,Presidente Dutra / Cuiabá
+167,Guarani / SC,Cabofriense / RJ,21/09/2014,16:00,Renato Silveira / Palhoca
+168,Brasil / RS,Ituano / SP,21/09/2014,16:00,Estádio Bento da Silva Freitas / Pelotas
+169,Boavista / RJ,Metropolitano / SC,21/09/2014,16:00,Elcyr Resende de Mendonça / Saquarema
+170,Penapolense / SP,Pelotas / RS,21/09/2014,16:00,Tenente Carriço / Penápolis
+171,Central / PE,Confiança / SE,28/09/2014,16:00,Luiz José de Lacerda / Caruaru
+172,Metropolitano / SC,Tombense / MG,28/09/2014,16:00,Complexo Esportivo SESI / Blumenau
+173,Santos / AP,Londrina / PR,28/09/2014,16:00,Estádio Milton Corrêa / Macapá
+174,Ituano / SP,Moto Club / MA,28/09/2014,15:00,Novelli Junior / Itu
+175,Anapolina / GO,Rio Branco / AC,28/09/2014,16:00,Jonas Duarte / Anápolis
+176,Remo / PA,Brasiliense / DF,28/09/2014,16:00,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
+177,Operário / MT,Brasil / RS,28/09/2014,16:00,Presidente Dutra / Cuiabá
+178,Globo / RN,Jacuipense / BA,28/09/2014,16:00,Manoel Dantas Barretto / Ceará-Mirim
+179,Confiança / SE,Central / PE,04/10/2014,16:00,Presidente Médici / Itabaiana
+180,Tombense / MG,Metropolitano / SC,04/10/2014,16:00,Antônio Guimarães de Almeida / Tombos
+181,Londrina / PR,Santos / AP,04/10/2014,19:00,Municipal Jacy Scaff / Londrina
+182,Moto Club / MA,Ituano / SP,03/10/2014,20:00,Estádio Governador João Castelo / São Luis
+183,Rio Branco / AC,Anapolina / GO,04/10/2014,19:00,Arena da Floresta / Rio Branco
+184,Brasiliense / DF,Remo / PA,04/10/2014,16:00,Elmo Serejo Farias / Taguatinga
+185,Brasil / RS,Operário / MT,04/10/2014,20:00,Estádio Bento da Silva Freitas / Pelotas
+186,Jacuipense / BA,Globo / RN,04/10/2014,16:00,Alberto Oliveira / Feira de Santana
+187,Anapolina / GO,Londrina / PR,12/10/2014,16:00,Jonas Duarte / Anápolis
+188,Jacuipense / BA,Confiança / SE,12/10/2014,16:00,Alberto Oliveira / Feira de Santana
+189,Moto Club / MA,Tombense / MG,12/10/2014,17:00,Estádio Governador João Castelo / São Luis
+190,Brasil / RS,Brasiliense / DF,12/10/2014,20:00,Estádio Bento da Silva Freitas / Pelotas
+191,Londrina / PR,Anapolina / GO,19/10/2014,17:00,Municipal Jacy Scaff / Londrina
+192,Confiança / SE,Jacuipense / BA,19/10/2014,17:00,Presidente Médici / Itabaiana
+193,Tombense / MG,Moto Club / MA,19/10/2014,17:00,Antônio Guimarães de Almeida / Tombos
+194,Brasiliense / DF,Brasil / RS,19/10/2014,16:00,Elmo Serejo Farias / Taguatinga
+195,Brasil / RS,Londrina / PR,25/10/2014,20:30,Estádio Bento da Silva Freitas / Pelotas
+196,Tombense / MG,Confiança / SE,25/10/2014,17:00,Antônio Guimarães de Almeida / Tombos
+197,Londrina / PR,Brasil / RS,01/11/2014,19:00,Municipal Jacy Scaff / Londrina
+198,Confiança / SE,Tombense / MG,02/11/2014,17:00,Presidente Médici / Itabaiana
+199,Brasil / RS,Tombense / MG,09/11/2014,20:30,Estádio Bento da Silva Freitas / Pelotas
+200,Tombense / MG,Brasil / RS,16/11/2014,17:00,Soares de Azevedo / Muriaé

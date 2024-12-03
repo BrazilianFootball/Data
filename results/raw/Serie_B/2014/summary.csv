@@ -1,380 +1,380 @@
-Game,Home,Away
-001,Red Bull Bragantino / SP,Náutico / PE
-002,Ponte Preta / SP,Icasa / CE
-003,Vasco da Gama / RJ,América / MG
-004,Santa Cruz / PE,ABC / RN
-005,Sampaio Corrêa / MA,Paraná / PR
-006,Ceará / CE,Oeste / SP
-008,Vila Nova / GO,Luverdense / MT
-009,América / RN,Avaí / SC
-010,Boa / MG,Atlético / GO
-011,Oeste / SP,América / RN
-012,Portuguesa / SP,Santa Cruz / PE
-013,Paraná / PR,Joinville / SC
-014,Náutico / PE,Vila Nova / GO
-015,Luverdense / MT,Vasco da Gama / RJ
-016,Icasa / CE,Sampaio Corrêa / MA
-017,Avaí / SC,Red Bull Bragantino / SP
-018,Atlético / GO,Ponte Preta / SP
-019,ABC / RN,Boa / MG
-020,América / MG,Ceará / CE
-021,Red Bull Bragantino / SP,Portuguesa / SP
-022,Ponte Preta / SP,Luverdense / MT
-023,Vasco da Gama / RJ,Atlético / GO
-024,Santa Cruz / PE,Paraná / PR
-025,Sampaio Corrêa / MA,Oeste / SP
-026,Ceará / CE,Náutico / PE
-027,Joinville / SC,Icasa / CE
-028,Vila Nova / GO,Avaí / SC
-029,América / RN,ABC / RN
-030,Boa / MG,América / MG
-031,Red Bull Bragantino / SP,América / MG
-032,Ponte Preta / SP,ABC / RN
-033,Vasco da Gama / RJ,Oeste / SP
-034,Santa Cruz / PE,Luverdense / MT
-035,Sampaio Corrêa / MA,Avaí / SC
-036,Ceará / CE,Paraná / PR
-037,Joinville / SC,Náutico / PE
-038,Vila Nova / GO,Icasa / CE
-039,América / RN,Atlético / GO
-040,Boa / MG,Portuguesa / SP
-041,Oeste / SP,Ponte Preta / SP
-042,Portuguesa / SP,América / RN
-043,Paraná / PR,Boa / MG
-044,Náutico / PE,Vasco da Gama / RJ
-045,Luverdense / MT,Red Bull Bragantino / SP
-046,Icasa / CE,Santa Cruz / PE
-047,Avaí / SC,Ceará / CE
-048,Atlético / GO,Joinville / SC
-049,ABC / RN,Sampaio Corrêa / MA
-050,América / MG,Vila Nova / GO
-051,Oeste / SP,Santa Cruz / PE
-052,Ponte Preta / SP,Vila Nova / GO
-053,Vasco da Gama / RJ,Sampaio Corrêa / MA
-054,Náutico / PE,Portuguesa / SP
-055,Luverdense / MT,Boa / MG
-056,Icasa / CE,Red Bull Bragantino / SP
-057,Avaí / SC,Paraná / PR
-058,Atlético / GO,ABC / RN
-059,América / RN,Ceará / CE
-060,América / MG,Joinville / SC
-061,Red Bull Bragantino / SP,Oeste / SP
-062,Portuguesa / SP,Atlético / GO
-063,Paraná / PR,Náutico / PE
-064,Santa Cruz / PE,América / MG
-065,Sampaio Corrêa / MA,Luverdense / MT
-066,Ceará / CE,Ponte Preta / SP
-067,Joinville / SC,Vasco da Gama / RJ
-068,Vila Nova / GO,América / RN
-069,ABC / RN,Icasa / CE
-070,Boa / MG,Avaí / SC
-071,Red Bull Bragantino / SP,Vasco da Gama / RJ
-072,Portuguesa / SP,Sampaio Corrêa / MA
-073,Paraná / PR,Ponte Preta / SP
-074,Náutico / PE,Avaí / SC
-075,Luverdense / MT,Icasa / CE
-076,Ceará / CE,Vila Nova / GO
-077,Joinville / SC,América / RN
-078,Atlético / GO,América / MG
-079,ABC / RN,Oeste / SP
-080,Boa / MG,Santa Cruz / PE
-081,Oeste / SP,Paraná / PR
-082,Ponte Preta / SP,Boa / MG
-083,Vasco da Gama / RJ,Portuguesa / SP
-084,Santa Cruz / PE,Joinville / SC
-085,Sampaio Corrêa / MA,Ceará / CE
-086,Icasa / CE,Atlético / GO
-087,Avaí / SC,ABC / RN
-088,Vila Nova / GO,Red Bull Bragantino / SP
-089,América / RN,Luverdense / MT
-090,América / MG,Náutico / PE
-091,Red Bull Bragantino / SP,Ceará / CE
-092,Portuguesa / SP,América / MG
-093,Paraná / PR,Luverdense / MT
-094,Santa Cruz / PE,Ponte Preta / SP
-095,Sampaio Corrêa / MA,América / RN
-096,Icasa / CE,Avaí / SC
-097,Joinville / SC,Vila Nova / GO
-098,Atlético / GO,Oeste / SP
-099,ABC / RN,Náutico / PE
-100,Boa / MG,Vasco da Gama / RJ
-101,Oeste / SP,Icasa / CE
-102,Ponte Preta / SP,Portuguesa / SP
-103,Vasco da Gama / RJ,Santa Cruz / PE
-104,Náutico / PE,Sampaio Corrêa / MA
-105,Luverdense / MT,ABC / RN
-106,Ceará / CE,Joinville / SC
-107,Avaí / SC,Atlético / GO
-108,Vila Nova / GO,Boa / MG
-109,América / RN,Red Bull Bragantino / SP
-110,América / MG,Paraná / PR
-111,Red Bull Bragantino / SP,Sampaio Corrêa / MA
-112,Portuguesa / SP,Paraná / PR
-113,Vasco da Gama / RJ,América / RN
-114,Náutico / PE,Boa / MG
-115,Luverdense / MT,Atlético / GO
-116,Ceará / CE,Icasa / CE
-117,Avaí / SC,Ponte Preta / SP
-118,Vila Nova / GO,Santa Cruz / PE
-119,ABC / RN,Joinville / SC
-120,América / MG,Oeste / SP
-121,Oeste / SP,Luverdense / MT
-122,Ponte Preta / SP,Vasco da Gama / RJ
-123,Paraná / PR,ABC / RN
-124,Santa Cruz / PE,Ceará / CE
-125,Sampaio Corrêa / MA,Vila Nova / GO
-126,Icasa / CE,Portuguesa / SP
-127,Joinville / SC,Avaí / SC
-128,Atlético / GO,Náutico / PE
-129,América / RN,América / MG
-130,Boa / MG,Red Bull Bragantino / SP
-131,Red Bull Bragantino / SP,Joinville / SC
-132,Portuguesa / SP,Oeste / SP
-133,Vasco da Gama / RJ,Paraná / PR
-134,Náutico / PE,Icasa / CE
-135,Sampaio Corrêa / MA,Ponte Preta / SP
-136,Ceará / CE,Boa / MG
-137,Avaí / SC,Luverdense / MT
-138,Vila Nova / GO,Atlético / GO
-139,América / RN,Santa Cruz / PE
-140,América / MG,ABC / RN
-141,Oeste / SP,Avaí / SC
-142,Ponte Preta / SP,Red Bull Bragantino / SP
-143,Paraná / PR,Vila Nova / GO
-144,Santa Cruz / PE,Náutico / PE
-145,Luverdense / MT,Portuguesa / SP
-146,Icasa / CE,América / MG
-147,Joinville / SC,Sampaio Corrêa / MA
-148,Atlético / GO,Ceará / CE
-149,ABC / RN,Vasco da Gama / RJ
-150,Boa / MG,América / RN
-151,Oeste / SP,Vila Nova / GO
-152,Ponte Preta / SP,Joinville / SC
-153,Vasco da Gama / RJ,Ceará / CE
-154,Santa Cruz / PE,Red Bull Bragantino / SP
-155,Luverdense / MT,Náutico / PE
-156,Icasa / CE,América / RN
-157,Avaí / SC,América / MG
-158,Atlético / GO,Paraná / PR
-159,ABC / RN,Portuguesa / SP
-160,Boa / MG,Sampaio Corrêa / MA
-161,Red Bull Bragantino / SP,Atlético / GO
-162,Portuguesa / SP,Avaí / SC
-163,Paraná / PR,Icasa / CE
-164,Náutico / PE,Oeste / SP
-165,Sampaio Corrêa / MA,Santa Cruz / PE
-166,Ceará / CE,ABC / RN
-167,Joinville / SC,Boa / MG
-168,Vila Nova / GO,Vasco da Gama / RJ
-169,América / RN,Ponte Preta / SP
-170,América / MG,Luverdense / MT
-171,Oeste / SP,Boa / MG
-172,Portuguesa / SP,Ceará / CE
-173,Paraná / PR,Red Bull Bragantino / SP
-174,Náutico / PE,América / RN
-175,Luverdense / MT,Joinville / SC
-176,Icasa / CE,Vasco da Gama / RJ
-177,Avaí / SC,Santa Cruz / PE
-178,Atlético / GO,Sampaio Corrêa / MA
-179,ABC / RN,Vila Nova / GO
-180,América / MG,Ponte Preta / SP
-181,Red Bull Bragantino / SP,ABC / RN
-182,Ponte Preta / SP,Náutico / PE
-183,Vasco da Gama / RJ,Avaí / SC
-184,Santa Cruz / PE,Atlético / GO
-185,Sampaio Corrêa / MA,América / MG
-186,Ceará / CE,Luverdense / MT
-187,Joinville / SC,Oeste / SP
-188,Vila Nova / GO,Portuguesa / SP
-189,América / RN,Paraná / PR
-190,Boa / MG,Icasa / CE
-191,Oeste / SP,Ceará / CE
-192,Portuguesa / SP,Joinville / SC
-193,Paraná / PR,Sampaio Corrêa / MA
-194,Náutico / PE,Red Bull Bragantino / SP
-195,Luverdense / MT,Vila Nova / GO
-196,Icasa / CE,Ponte Preta / SP
-197,Avaí / SC,América / RN
-198,Atlético / GO,Boa / MG
-199,ABC / RN,Santa Cruz / PE
-200,América / MG,Vasco da Gama / RJ
-201,Red Bull Bragantino / SP,Avaí / SC
-202,Ponte Preta / SP,Atlético / GO
-203,Vasco da Gama / RJ,Luverdense / MT
-204,Santa Cruz / PE,Portuguesa / SP
-205,Sampaio Corrêa / MA,Icasa / CE
-206,Ceará / CE,América / MG
-207,Joinville / SC,Paraná / PR
-208,Vila Nova / GO,Náutico / PE
-209,América / RN,Oeste / SP
-210,Boa / MG,ABC / RN
-211,Oeste / SP,Sampaio Corrêa / MA
-212,Portuguesa / SP,Red Bull Bragantino / SP
-213,Paraná / PR,Santa Cruz / PE
-214,Náutico / PE,Ceará / CE
-215,Luverdense / MT,Ponte Preta / SP
-216,Icasa / CE,Joinville / SC
-217,Avaí / SC,Vila Nova / GO
-218,Atlético / GO,Vasco da Gama / RJ
-219,ABC / RN,América / RN
-220,América / MG,Boa / MG
-221,Oeste / SP,Vasco da Gama / RJ
-222,Portuguesa / SP,Boa / MG
-223,Paraná / PR,Ceará / CE
-224,Náutico / PE,Joinville / SC
-225,Luverdense / MT,Santa Cruz / PE
-226,Icasa / CE,Vila Nova / GO
-227,Avaí / SC,Sampaio Corrêa / MA
-228,Atlético / GO,América / RN
-229,ABC / RN,Ponte Preta / SP
-230,América / MG,Red Bull Bragantino / SP
-231,Red Bull Bragantino / SP,Luverdense / MT
-232,Ponte Preta / SP,Oeste / SP
-233,Vasco da Gama / RJ,Náutico / PE
-234,Santa Cruz / PE,Icasa / CE
-235,Sampaio Corrêa / MA,ABC / RN
-236,Ceará / CE,Avaí / SC
-237,Joinville / SC,Atlético / GO
-238,Vila Nova / GO,América / MG
-239,América / RN,Portuguesa / SP
-240,Boa / MG,Paraná / PR
-241,Red Bull Bragantino / SP,Icasa / CE
-242,Portuguesa / SP,Náutico / PE
-243,Paraná / PR,Avaí / SC
-244,Santa Cruz / PE,Oeste / SP
-245,Sampaio Corrêa / MA,Vasco da Gama / RJ
-246,Ceará / CE,América / RN
-247,Joinville / SC,América / MG
-248,Vila Nova / GO,Ponte Preta / SP
-249,ABC / RN,Atlético / GO
-250,Boa / MG,Luverdense / MT
-251,Oeste / SP,Red Bull Bragantino / SP
-252,Ponte Preta / SP,Ceará / CE
-253,Vasco da Gama / RJ,Joinville / SC
-254,Náutico / PE,Paraná / PR
-255,Luverdense / MT,Sampaio Corrêa / MA
-256,Icasa / CE,ABC / RN
-257,Avaí / SC,Boa / MG
-258,Atlético / GO,Portuguesa / SP
-259,América / RN,Vila Nova / GO
-260,América / MG,Santa Cruz / PE
-261,Oeste / SP,ABC / RN
-262,Ponte Preta / SP,Paraná / PR
-263,Vasco da Gama / RJ,Red Bull Bragantino / SP
-264,Santa Cruz / PE,Boa / MG
-265,Sampaio Corrêa / MA,Portuguesa / SP
-266,Icasa / CE,Luverdense / MT
-267,Avaí / SC,Náutico / PE
-268,Vila Nova / GO,Ceará / CE
-269,América / RN,Joinville / SC
-270,América / MG,Atlético / GO
-271,Red Bull Bragantino / SP,Vila Nova / GO
-272,Portuguesa / SP,Vasco da Gama / RJ
-273,Paraná / PR,Oeste / SP
-274,Náutico / PE,América / MG
-275,Luverdense / MT,América / RN
-276,Ceará / CE,Sampaio Corrêa / MA
-277,Joinville / SC,Santa Cruz / PE
-278,Atlético / GO,Icasa / CE
-279,ABC / RN,Avaí / SC
-280,Boa / MG,Ponte Preta / SP
-281,Oeste / SP,Atlético / GO
-282,Ponte Preta / SP,Santa Cruz / PE
-283,Vasco da Gama / RJ,Boa / MG
-284,Náutico / PE,ABC / RN
-285,Luverdense / MT,Paraná / PR
-286,Ceará / CE,Red Bull Bragantino / SP
-287,Avaí / SC,Icasa / CE
-288,Vila Nova / GO,Joinville / SC
-289,América / RN,Sampaio Corrêa / MA
-290,América / MG,Portuguesa / SP
-291,Red Bull Bragantino / SP,América / RN
-292,Portuguesa / SP,Ponte Preta / SP
-293,Paraná / PR,América / MG
-294,Santa Cruz / PE,Vasco da Gama / RJ
-295,Sampaio Corrêa / MA,Náutico / PE
-296,Icasa / CE,Oeste / SP
-297,Joinville / SC,Ceará / CE
-298,Atlético / GO,Avaí / SC
-299,ABC / RN,Luverdense / MT
-300,Boa / MG,Vila Nova / GO
-301,Oeste / SP,América / MG
-302,Ponte Preta / SP,Avaí / SC
-303,Paraná / PR,Portuguesa / SP
-304,Santa Cruz / PE,Vila Nova / GO
-305,Sampaio Corrêa / MA,Red Bull Bragantino / SP
-306,Icasa / CE,Ceará / CE
-307,Joinville / SC,ABC / RN
-308,Atlético / GO,Luverdense / MT
-309,América / RN,Vasco da Gama / RJ
-310,Boa / MG,Náutico / PE
-311,Red Bull Bragantino / SP,Boa / MG
-312,Portuguesa / SP,Icasa / CE
-313,Vasco da Gama / RJ,Ponte Preta / SP
-314,Náutico / PE,Atlético / GO
-315,Luverdense / MT,Oeste / SP
-316,Ceará / CE,Santa Cruz / PE
-317,Avaí / SC,Joinville / SC
-318,Vila Nova / GO,Sampaio Corrêa / MA
-319,ABC / RN,Paraná / PR
-320,América / MG,América / RN
-321,Oeste / SP,Portuguesa / SP
-322,Ponte Preta / SP,Sampaio Corrêa / MA
-323,Paraná / PR,Vasco da Gama / RJ
-324,Santa Cruz / PE,América / RN
-325,Luverdense / MT,Avaí / SC
-326,Icasa / CE,Náutico / PE
-327,Joinville / SC,Red Bull Bragantino / SP
-328,Atlético / GO,Vila Nova / GO
-329,ABC / RN,América / MG
-330,Boa / MG,Ceará / CE
-331,Red Bull Bragantino / SP,Ponte Preta / SP
-332,Portuguesa / SP,Luverdense / MT
-333,Vasco da Gama / RJ,ABC / RN
-334,Náutico / PE,Santa Cruz / PE
-335,Sampaio Corrêa / MA,Joinville / SC
-336,Ceará / CE,Atlético / GO
-337,Avaí / SC,Oeste / SP
-338,Vila Nova / GO,Paraná / PR
-339,América / RN,Boa / MG
-340,América / MG,Icasa / CE
-341,Red Bull Bragantino / SP,Santa Cruz / PE
-342,Portuguesa / SP,ABC / RN
-343,Paraná / PR,Atlético / GO
-344,Náutico / PE,Luverdense / MT
-345,Sampaio Corrêa / MA,Boa / MG
-346,Ceará / CE,Vasco da Gama / RJ
-347,Joinville / SC,Ponte Preta / SP
-348,Vila Nova / GO,Oeste / SP
-349,América / RN,Icasa / CE
-350,América / MG,Avaí / SC
-351,Oeste / SP,Náutico / PE
-352,Ponte Preta / SP,América / RN
-353,Vasco da Gama / RJ,Vila Nova / GO
-354,Santa Cruz / PE,Sampaio Corrêa / MA
-355,Luverdense / MT,América / MG
-356,Icasa / CE,Paraná / PR
-357,Avaí / SC,Portuguesa / SP
-358,Atlético / GO,Red Bull Bragantino / SP
-359,ABC / RN,Ceará / CE
-360,Boa / MG,Joinville / SC
-361,Red Bull Bragantino / SP,Paraná / PR
-362,Ponte Preta / SP,América / MG
-363,Vasco da Gama / RJ,Icasa / CE
-364,Santa Cruz / PE,Avaí / SC
-365,Sampaio Corrêa / MA,Atlético / GO
-366,Ceará / CE,Portuguesa / SP
-367,Joinville / SC,Luverdense / MT
-368,Vila Nova / GO,ABC / RN
-369,América / RN,Náutico / PE
-370,Boa / MG,Oeste / SP
-371,Oeste / SP,Joinville / SC
-372,Portuguesa / SP,Vila Nova / GO
-373,Paraná / PR,América / RN
-374,Náutico / PE,Ponte Preta / SP
-375,Luverdense / MT,Ceará / CE
-376,Icasa / CE,Boa / MG
-377,Avaí / SC,Vasco da Gama / RJ
-378,Atlético / GO,Santa Cruz / PE
-379,ABC / RN,Red Bull Bragantino / SP
-380,América / MG,Sampaio Corrêa / MA
+Game,Home,Away,Date,Time,Stadium
+001,Red Bull Bragantino / SP,Náutico / PE,19/04/2014,16:20,Nabi Abi Chedid / Bragança Paulista
+002,Ponte Preta / SP,Icasa / CE,18/04/2014,21:50,Moisés Lucarelli / Campinas
+003,Vasco da Gama / RJ,América / MG,19/04/2014,16:20,São Januário / Rio de Janeiro
+004,Santa Cruz / PE,ABC / RN,19/04/2014,16:20,José do Rego Maciel / Recife
+005,Sampaio Corrêa / MA,Paraná / PR,18/04/2014,19:30,Estádio Governador João Castelo / São Luis
+006,Ceará / CE,Oeste / SP,19/04/2014,21:00,Governador Plácido Castelo / Fortaleza
+008,Vila Nova / GO,Luverdense / MT,18/04/2014,19:30,Serra Dourada / Goiânia
+009,América / RN,Avaí / SC,19/04/2014,21:00,Arena das Dunas / Natal
+010,Boa / MG,Atlético / GO,19/04/2014,16:20,Dilzon Melo / Varginha
+011,Oeste / SP,América / RN,26/04/2014,16:20,Estádio Municipal dos Amaros / Itápolis
+012,Portuguesa / SP,Santa Cruz / PE,26/04/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
+013,Paraná / PR,Joinville / SC,25/04/2014,21:00,Durival Britto e Silva / Curitiba
+014,Náutico / PE,Vila Nova / GO,26/04/2014,16:20,Arena Pernambuco / São Lourenço da Mata
+015,Luverdense / MT,Vasco da Gama / RJ,26/04/2014,16:20,Arena Pantanal / Cuiabá
+016,Icasa / CE,Sampaio Corrêa / MA,25/04/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+017,Avaí / SC,Red Bull Bragantino / SP,22/04/2014,21:50,Aderbal Ramos da Silva / Florianópolis
+018,Atlético / GO,Ponte Preta / SP,26/04/2014,16:20,Serra Dourada / Goiânia
+019,ABC / RN,Boa / MG,26/04/2014,21:00,Iberezão / Santa Cruz
+020,América / MG,Ceará / CE,26/04/2014,21:00,Estádio Raimundo Sampaio / Belo Horizonte
+021,Red Bull Bragantino / SP,Portuguesa / SP,29/04/2014,21:50,Nabi Abi Chedid / Bragança Paulista
+022,Ponte Preta / SP,Luverdense / MT,03/05/2014,16:20,Moisés Lucarelli / Campinas
+023,Vasco da Gama / RJ,Atlético / GO,03/05/2014,16:20,São Januário / Rio de Janeiro
+024,Santa Cruz / PE,Paraná / PR,02/05/2014,21:00,José do Rego Maciel / Recife
+025,Sampaio Corrêa / MA,Oeste / SP,03/05/2014,21:00,Estádio Governador João Castelo / São Luis
+026,Ceará / CE,Náutico / PE,03/05/2014,16:20,Governador Plácido Castelo / Fortaleza
+027,Joinville / SC,Icasa / CE,02/05/2014,19:30,Arena Joinville / Joinville
+028,Vila Nova / GO,Avaí / SC,03/05/2014,21:00,Serra Dourada / Goiânia
+029,América / RN,ABC / RN,03/05/2014,16:20,Arena das Dunas / Natal
+030,Boa / MG,América / MG,03/05/2014,16:20,Dilzon Melo / Varginha
+031,Red Bull Bragantino / SP,América / MG,10/05/2014,21:00,Nabi Abi Chedid / Bragança Paulista
+032,Ponte Preta / SP,ABC / RN,10/05/2014,16:20,Moisés Lucarelli / Campinas
+033,Vasco da Gama / RJ,Oeste / SP,10/05/2014,16:20,São Januário / Rio de Janeiro
+034,Santa Cruz / PE,Luverdense / MT,10/05/2014,16:20,Arena Pernambuco / São Lourenço da Mata
+035,Sampaio Corrêa / MA,Avaí / SC,07/06/2014,16:20,Estádio Governador João Castelo / São Luis
+036,Ceará / CE,Paraná / PR,10/05/2014,21:00,Governador Plácido Castelo / Fortaleza
+037,Joinville / SC,Náutico / PE,10/05/2014,16:20,Arena Joinville / Joinville
+038,Vila Nova / GO,Icasa / CE,09/05/2014,21:00,Serra Dourada / Goiânia
+039,América / RN,Atlético / GO,10/05/2014,16:20,Arena das Dunas / Natal
+040,Boa / MG,Portuguesa / SP,06/05/2014,21:50,Dilzon Melo / Varginha
+041,Oeste / SP,Ponte Preta / SP,13/05/2014,21:50,Estádio Municipal dos Amaros / Itápolis
+042,Portuguesa / SP,América / RN,17/05/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
+043,Paraná / PR,Boa / MG,16/05/2014,21:00,Durival Britto e Silva / Curitiba
+044,Náutico / PE,Vasco da Gama / RJ,12/08/2014,21:00,Arena Pernambuco / São Lourenço da Mata
+045,Luverdense / MT,Red Bull Bragantino / SP,17/05/2014,21:00,Municipal Passo das Emas / Lucas do R. Verde
+046,Icasa / CE,Santa Cruz / PE,17/05/2014,16:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+047,Avaí / SC,Ceará / CE,17/05/2014,16:20,Aderbal Ramos da Silva / Florianópolis
+048,Atlético / GO,Joinville / SC,17/05/2014,21:00,Serra Dourada / Goiânia
+049,ABC / RN,Sampaio Corrêa / MA,17/05/2014,16:20,Iberezão / Santa Cruz
+050,América / MG,Vila Nova / GO,17/05/2014,16:20,Estádio Raimundo Sampaio / Belo Horizonte
+051,Oeste / SP,Santa Cruz / PE,20/05/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+052,Ponte Preta / SP,Vila Nova / GO,20/05/2014,19:30,Moisés Lucarelli / Campinas
+053,Vasco da Gama / RJ,Sampaio Corrêa / MA,20/05/2014,21:50,Governador Alberto Tavares Silva / Teresina
+054,Náutico / PE,Portuguesa / SP,20/05/2014,21:50,Arena Pernambuco / São Lourenço da Mata
+055,Luverdense / MT,Boa / MG,20/05/2014,21:50,Municipal Passo das Emas / Lucas do R. Verde
+056,Icasa / CE,Red Bull Bragantino / SP,20/05/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+057,Avaí / SC,Paraná / PR,20/05/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+058,Atlético / GO,ABC / RN,20/05/2014,19:30,Serra Dourada / Goiânia
+059,América / RN,Ceará / CE,20/05/2014,21:50,Arena das Dunas / Natal
+060,América / MG,Joinville / SC,20/05/2014,19:30,Governador Magalhães Pinto / Belo Horizonte
+061,Red Bull Bragantino / SP,Oeste / SP,23/05/2014,19:30,Nabi Abi Chedid / Bragança Paulista
+062,Portuguesa / SP,Atlético / GO,24/05/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
+063,Paraná / PR,Náutico / PE,24/05/2014,21:00,Durival Britto e Silva / Curitiba
+064,Santa Cruz / PE,América / MG,23/05/2014,19:30,Eládio de Barros Carvalho / Recife
+065,Sampaio Corrêa / MA,Luverdense / MT,24/05/2014,16:20,Estádio Governador João Castelo / São Luis
+066,Ceará / CE,Ponte Preta / SP,23/05/2014,21:50,Horácio Domingos de Sousa / Horizonte
+067,Joinville / SC,Vasco da Gama / RJ,24/05/2014,16:20,Arena Joinville / Joinville
+068,Vila Nova / GO,América / RN,24/05/2014,16:20,Serra Dourada / Goiânia
+069,ABC / RN,Icasa / CE,24/05/2014,21:00,Iberezão / Santa Cruz
+070,Boa / MG,Avaí / SC,23/05/2014,19:30,Dilzon Melo / Varginha
+071,Red Bull Bragantino / SP,Vasco da Gama / RJ,27/05/2014,21:50,Nabi Abi Chedid / Bragança Paulista
+072,Portuguesa / SP,Sampaio Corrêa / MA,27/05/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+073,Paraná / PR,Ponte Preta / SP,27/05/2014,19:30,Durival Britto e Silva / Curitiba
+074,Náutico / PE,Avaí / SC,27/05/2014,21:50,Eládio de Barros Carvalho / Recife
+075,Luverdense / MT,Icasa / CE,27/05/2014,21:50,Municipal Passo das Emas / Lucas do R. Verde
+076,Ceará / CE,Vila Nova / GO,27/05/2014,21:50,Horácio Domingos de Sousa / Horizonte
+077,Joinville / SC,América / RN,27/05/2014,19:30,Arena Joinville / Joinville
+078,Atlético / GO,América / MG,27/05/2014,21:50,Serra Dourada / Goiânia
+079,ABC / RN,Oeste / SP,27/05/2014,19:30,Iberezão / Santa Cruz
+080,Boa / MG,Santa Cruz / PE,27/05/2014,19:30,Dilzon Melo / Varginha
+081,Oeste / SP,Paraná / PR,30/05/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+082,Ponte Preta / SP,Boa / MG,31/05/2014,16:20,Moisés Lucarelli / Campinas
+083,Vasco da Gama / RJ,Portuguesa / SP,31/05/2014,16:20,Estádio General Raulino de Oliveira / Volta Redonda
+084,Santa Cruz / PE,Joinville / SC,30/05/2014,21:50,Eládio de Barros Carvalho / Recife
+085,Sampaio Corrêa / MA,Ceará / CE,31/05/2014,16:20,Estádio Governador João Castelo / São Luis
+086,Icasa / CE,Atlético / GO,31/05/2014,21:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+087,Avaí / SC,ABC / RN,30/05/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+088,Vila Nova / GO,Red Bull Bragantino / SP,31/05/2014,21:00,Serra Dourada / Goiânia
+089,América / RN,Luverdense / MT,30/05/2014,19:30,José Nazareno do Nascimento  / Goianinha
+090,América / MG,Náutico / PE,31/05/2014,16:20,Soares de Azevedo / Muriaé
+091,Red Bull Bragantino / SP,Ceará / CE,03/06/2014,19:30,Nabi Abi Chedid / Bragança Paulista
+092,Portuguesa / SP,América / MG,03/06/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+093,Paraná / PR,Luverdense / MT,06/06/2014,19:30,Durival Britto e Silva / Curitiba
+094,Santa Cruz / PE,Ponte Preta / SP,03/06/2014,19:30,José do Rego Maciel / Recife
+095,Sampaio Corrêa / MA,América / RN,03/06/2014,19:30,Estádio Governador João Castelo / São Luis
+096,Icasa / CE,Avaí / SC,03/06/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+097,Joinville / SC,Vila Nova / GO,06/06/2014,19:30,Arena Joinville / Joinville
+098,Atlético / GO,Oeste / SP,22/07/2014,19:30,Serra Dourada / Goiânia
+099,ABC / RN,Náutico / PE,03/06/2014,21:50,Iberezão / Santa Cruz
+100,Boa / MG,Vasco da Gama / RJ,03/06/2014,21:50,Dilzon Melo / Varginha
+101,Oeste / SP,Icasa / CE,15/07/2014,21:50,Estádio Municipal dos Amaros / Itápolis
+102,Ponte Preta / SP,Portuguesa / SP,15/07/2014,19:30,Moisés Lucarelli / Campinas
+103,Vasco da Gama / RJ,Santa Cruz / PE,15/07/2014,21:50,Arena Pantanal / Cuiabá
+104,Náutico / PE,Sampaio Corrêa / MA,15/07/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+105,Luverdense / MT,ABC / RN,15/07/2014,21:50,Passo das Emas / Lucas do Rio Verde
+106,Ceará / CE,Joinville / SC,15/07/2014,21:50,Presidente Vargas / Fortaleza
+107,Avaí / SC,Atlético / GO,15/07/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+108,Vila Nova / GO,Boa / MG,15/07/2014,19:30,Serra Dourada / Goiânia
+109,América / RN,Red Bull Bragantino / SP,15/07/2014,21:50,Arena das Dunas / Natal
+110,América / MG,Paraná / PR,15/07/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+111,Red Bull Bragantino / SP,Sampaio Corrêa / MA,19/07/2014,21:00,Nabi Abi Chedid / Bragança Paulista
+112,Portuguesa / SP,Paraná / PR,18/07/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+113,Vasco da Gama / RJ,América / RN,19/07/2014,16:20,São Januário / Rio de Janeiro
+114,Náutico / PE,Boa / MG,19/07/2014,21:00,Arena Pernambuco / São Lourenço da Mata
+115,Luverdense / MT,Atlético / GO,19/07/2014,16:20,Passo das Emas / Lucas do Rio Verde
+116,Ceará / CE,Icasa / CE,19/07/2014,16:20,Governador Plácido Castelo / Fortaleza
+117,Avaí / SC,Ponte Preta / SP,18/07/2014,21:50,Aderbal Ramos da Silva / Florianópolis
+118,Vila Nova / GO,Santa Cruz / PE,19/07/2014,16:20,Serra Dourada / Goiânia
+119,ABC / RN,Joinville / SC,18/07/2014,19:30,Maria Lamas Farache / Natal
+120,América / MG,Oeste / SP,18/07/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+121,Oeste / SP,Luverdense / MT,25/07/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+122,Ponte Preta / SP,Vasco da Gama / RJ,26/07/2014,16:20,Moisés Lucarelli / Campinas
+123,Paraná / PR,ABC / RN,26/07/2014,21:00,Durival Britto e Silva / Curitiba
+124,Santa Cruz / PE,Ceará / CE,26/07/2014,16:20,José do Rego Maciel / Recife
+125,Sampaio Corrêa / MA,Vila Nova / GO,26/07/2014,21:00,Estádio Governador João Castelo / São Luis
+126,Icasa / CE,Portuguesa / SP,22/07/2014,19:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+127,Joinville / SC,Avaí / SC,26/07/2014,16:20,Arena Joinville / Joinville
+128,Atlético / GO,Náutico / PE,26/07/2014,16:20,Serra Dourada / Goiânia
+129,América / RN,América / MG,25/07/2014,21:00,Arena das Dunas / Natal
+130,Boa / MG,Red Bull Bragantino / SP,25/07/2014,21:00,Dilzon Melo / Varginha
+131,Red Bull Bragantino / SP,Joinville / SC,02/08/2014,16:20,Nabi Abi Chedid / Bragança Paulista
+132,Portuguesa / SP,Oeste / SP,29/07/2014,21:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+133,Vasco da Gama / RJ,Paraná / PR,02/08/2014,16:20,São Januário / Rio de Janeiro
+134,Náutico / PE,Icasa / CE,29/07/2014,19:00,Arena Pernambuco / São Lourenço da Mata
+135,Sampaio Corrêa / MA,Ponte Preta / SP,02/08/2014,16:20,Estádio Governador João Castelo / São Luis
+136,Ceará / CE,Boa / MG,02/08/2014,21:00,Presidente Vargas / Fortaleza
+137,Avaí / SC,Luverdense / MT,01/08/2014,21:00,Aderbal Ramos da Silva / Florianópolis
+138,Vila Nova / GO,Atlético / GO,01/08/2014,21:00,Serra Dourada / Goiânia
+139,América / RN,Santa Cruz / PE,02/08/2014,16:20,Arena das Dunas / Natal
+140,América / MG,ABC / RN,02/08/2014,16:20,Estádio Raimundo Sampaio / Belo Horizonte
+141,Oeste / SP,Avaí / SC,09/08/2014,21:00,Estádio Municipal dos Amaros / Itápolis
+142,Ponte Preta / SP,Red Bull Bragantino / SP,08/08/2014,21:00,Moisés Lucarelli / Campinas
+143,Paraná / PR,Vila Nova / GO,09/08/2014,16:20,Durival Britto e Silva / Curitiba
+144,Santa Cruz / PE,Náutico / PE,09/08/2014,16:20,José do Rego Maciel / Recife
+145,Luverdense / MT,Portuguesa / SP,05/08/2014,19:30,Passo das Emas / Lucas do Rio Verde
+146,Icasa / CE,América / MG,08/08/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+147,Joinville / SC,Sampaio Corrêa / MA,05/08/2014,21:00,Arena Joinville / Joinville
+148,Atlético / GO,Ceará / CE,08/08/2014,19:30,Serra Dourada / Goiânia
+149,ABC / RN,Vasco da Gama / RJ,09/08/2014,16:20,Arena das Dunas / Natal
+150,Boa / MG,América / RN,09/08/2014,21:00,Dilzon Melo / Varginha
+151,Oeste / SP,Vila Nova / GO,16/08/2014,21:00,Estádio Municipal dos Amaros / Itápolis
+152,Ponte Preta / SP,Joinville / SC,15/08/2014,21:00,Moisés Lucarelli / Campinas
+153,Vasco da Gama / RJ,Ceará / CE,16/08/2014,16:20,São Januário / Rio de Janeiro
+154,Santa Cruz / PE,Red Bull Bragantino / SP,14/10/2014,19:30,José do Rego Maciel / Recife
+155,Luverdense / MT,Náutico / PE,16/08/2014,16:20,Arena Pantanal / Cuiabá
+156,Icasa / CE,América / RN,16/08/2014,16:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+157,Avaí / SC,América / MG,12/08/2014,21:00,Aderbal Ramos da Silva / Florianópolis
+158,Atlético / GO,Paraná / PR,15/08/2014,19:30,Serra Dourada / Goiânia
+159,ABC / RN,Portuguesa / SP,12/08/2014,19:30,Arena das Dunas / Natal
+160,Boa / MG,Sampaio Corrêa / MA,16/08/2014,21:00,Dilzon Melo / Varginha
+161,Red Bull Bragantino / SP,Atlético / GO,19/08/2014,21:50,Nabi Abi Chedid / Bragança Paulista
+162,Portuguesa / SP,Avaí / SC,19/08/2014,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
+163,Paraná / PR,Icasa / CE,19/08/2014,19:30,Durival Britto e Silva / Curitiba
+164,Náutico / PE,Oeste / SP,19/08/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+165,Sampaio Corrêa / MA,Santa Cruz / PE,19/08/2014,19:30,Estádio Governador João Castelo / São Luis
+166,Ceará / CE,ABC / RN,19/08/2014,19:30,Presidente Vargas / Fortaleza
+167,Joinville / SC,Boa / MG,19/08/2014,19:30,Arena Joinville / Joinville
+168,Vila Nova / GO,Vasco da Gama / RJ,19/08/2014,21:50,Estádio Nacional / Brasília
+169,América / RN,Ponte Preta / SP,19/08/2014,19:30,Arena das Dunas / Natal
+170,América / MG,Luverdense / MT,19/08/2014,21:50,Estádio Raimundo Sampaio / Belo Horizonte
+171,Oeste / SP,Boa / MG,22/08/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+172,Portuguesa / SP,Ceará / CE,23/08/2014,16:10,Dr. Oswaldo Teixeira Duarte / São Paulo
+173,Paraná / PR,Red Bull Bragantino / SP,23/08/2014,16:10,Durival Britto e Silva / Curitiba
+174,Náutico / PE,América / RN,23/08/2014,16:10,Arena Pernambuco / São Lourenço da Mata
+175,Luverdense / MT,Joinville / SC,23/08/2014,21:00,Passo das Emas / Lucas do Rio Verde
+176,Icasa / CE,Vasco da Gama / RJ,22/08/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+177,Avaí / SC,Santa Cruz / PE,23/08/2014,16:10,Aderbal Ramos da Silva / Florianópolis
+178,Atlético / GO,Sampaio Corrêa / MA,23/08/2014,16:10,Serra Dourada / Goiânia
+179,ABC / RN,Vila Nova / GO,23/08/2014,21:00,Maria Lamas Farache / Natal
+180,América / MG,Ponte Preta / SP,22/08/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+181,Red Bull Bragantino / SP,ABC / RN,30/08/2014,16:10,Nabi Abi Chedid / Bragança Paulista
+182,Ponte Preta / SP,Náutico / PE,30/08/2014,16:10,Moisés Lucarelli / Campinas
+183,Vasco da Gama / RJ,Avaí / SC,30/08/2014,16:10,São Januário / Rio de Janeiro
+184,Santa Cruz / PE,Atlético / GO,29/08/2014,20:30,José do Rego Maciel / Recife
+185,Sampaio Corrêa / MA,América / MG,29/08/2014,20:30,Estádio Governador João Castelo / São Luis
+186,Ceará / CE,Luverdense / MT,30/08/2014,21:00,Governador Plácido Castelo / Fortaleza
+187,Joinville / SC,Oeste / SP,29/08/2014,20:30,Arena Joinville / Joinville
+188,Vila Nova / GO,Portuguesa / SP,26/08/2014,21:50,Serra Dourada / Goiânia
+189,América / RN,Paraná / PR,30/08/2014,16:10,Arena das Dunas / Natal
+190,Boa / MG,Icasa / CE,26/08/2014,19:30,Dilzon Melo / Varginha
+191,Oeste / SP,Ceará / CE,06/09/2014,21:00,Estádio Municipal dos Amaros / Itápolis
+192,Portuguesa / SP,Joinville / SC,02/09/2014,20:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+193,Paraná / PR,Sampaio Corrêa / MA,02/09/2014,19:30,Durival Britto e Silva / Curitiba
+194,Náutico / PE,Red Bull Bragantino / SP,06/09/2014,16:10,Arena Pernambuco / São Lourenço da Mata
+195,Luverdense / MT,Vila Nova / GO,06/09/2014,21:00,Passo das Emas / Lucas do Rio Verde
+196,Icasa / CE,Ponte Preta / SP,05/09/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+197,Avaí / SC,América / RN,06/09/2014,16:10,Aderbal Ramos da Silva / Florianópolis
+198,Atlético / GO,Boa / MG,02/09/2014,19:30,Serra Dourada / Goiânia
+199,ABC / RN,Santa Cruz / PE,06/09/2014,16:10,Arena das Dunas / Natal
+200,América / MG,Vasco da Gama / RJ,06/09/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
+201,Red Bull Bragantino / SP,Avaí / SC,09/09/2014,19:30,Nabi Abi Chedid / Bragança Paulista
+202,Ponte Preta / SP,Atlético / GO,09/09/2014,17:00,Moisés Lucarelli / Campinas
+203,Vasco da Gama / RJ,Luverdense / MT,09/09/2014,19:30,São Januário / Rio de Janeiro
+204,Santa Cruz / PE,Portuguesa / SP,09/09/2014,19:30,José do Rego Maciel / Recife
+205,Sampaio Corrêa / MA,Icasa / CE,09/09/2014,19:30,Estádio Governador João Castelo / São Luis
+206,Ceará / CE,América / MG,09/09/2014,19:30,Governador Plácido Castelo / Fortaleza
+207,Joinville / SC,Paraná / PR,08/09/2014,21:00,Arena Joinville / Joinville
+208,Vila Nova / GO,Náutico / PE,09/09/2014,19:30,Serra Dourada / Goiânia
+209,América / RN,Oeste / SP,09/09/2014,19:30,Arena das Dunas / Natal
+210,Boa / MG,ABC / RN,09/09/2014,17:00,Dilzon Melo / Varginha
+211,Oeste / SP,Sampaio Corrêa / MA,12/09/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+212,Portuguesa / SP,Red Bull Bragantino / SP,13/09/2014,21:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+213,Paraná / PR,Santa Cruz / PE,13/09/2014,16:10,Durival Britto e Silva / Curitiba
+214,Náutico / PE,Ceará / CE,12/09/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+215,Luverdense / MT,Ponte Preta / SP,12/09/2014,21:50,Passo das Emas / Lucas do Rio Verde
+216,Icasa / CE,Joinville / SC,12/09/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+217,Avaí / SC,Vila Nova / GO,13/09/2014,21:00,Aderbal Ramos da Silva / Florianópolis
+218,Atlético / GO,Vasco da Gama / RJ,13/09/2014,16:10,Estádio Nacional / Brasília
+219,ABC / RN,América / RN,13/09/2014,16:10,Arena das Dunas / Natal
+220,América / MG,Boa / MG,13/09/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
+221,Oeste / SP,Vasco da Gama / RJ,16/09/2014,21:50,Arena da Amazônia / Manaus
+222,Portuguesa / SP,Boa / MG,16/09/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+223,Paraná / PR,Ceará / CE,16/09/2014,19:30,Durival Britto e Silva / Curitiba
+224,Náutico / PE,Joinville / SC,16/09/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+225,Luverdense / MT,Santa Cruz / PE,16/09/2014,21:50,Passo das Emas / Lucas do Rio Verde
+226,Icasa / CE,Vila Nova / GO,16/09/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+227,Avaí / SC,Sampaio Corrêa / MA,16/09/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+228,Atlético / GO,América / RN,16/09/2014,19:30,Serra Dourada / Goiânia
+229,ABC / RN,Ponte Preta / SP,16/09/2014,21:50,Arena das Dunas / Natal
+230,América / MG,Red Bull Bragantino / SP,16/09/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+231,Red Bull Bragantino / SP,Luverdense / MT,20/09/2014,21:00,Nabi Abi Chedid / Bragança Paulista
+232,Ponte Preta / SP,Oeste / SP,20/09/2014,16:10,Moisés Lucarelli / Campinas
+233,Vasco da Gama / RJ,Náutico / PE,20/09/2014,16:10,São Januário / Rio de Janeiro
+234,Santa Cruz / PE,Icasa / CE,20/09/2014,16:10,José do Rego Maciel / Recife
+235,Sampaio Corrêa / MA,ABC / RN,20/09/2014,16:10,Estádio Governador João Castelo / São Luis
+236,Ceará / CE,Avaí / SC,19/09/2014,21:50,Governador Plácido Castelo / Fortaleza
+237,Joinville / SC,Atlético / GO,20/09/2014,16:10,Arena Joinville / Joinville
+238,Vila Nova / GO,América / MG,20/09/2014,16:10,Serra Dourada / Goiânia
+239,América / RN,Portuguesa / SP,19/09/2014,19:30,Arena das Dunas / Natal
+240,Boa / MG,Paraná / PR,20/09/2014,21:00,Dilzon Melo / Varginha
+241,Red Bull Bragantino / SP,Icasa / CE,23/09/2014,19:30,Nabi Abi Chedid / Bragança Paulista
+242,Portuguesa / SP,Náutico / PE,23/09/2014,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
+243,Paraná / PR,Avaí / SC,23/09/2014,19:30,Durival Britto e Silva / Curitiba
+244,Santa Cruz / PE,Oeste / SP,23/09/2014,21:50,José do Rego Maciel / Recife
+245,Sampaio Corrêa / MA,Vasco da Gama / RJ,23/09/2014,21:50,Estádio Governador João Castelo / São Luis
+246,Ceará / CE,América / RN,23/09/2014,21:50,Governador Plácido Castelo / Fortaleza
+247,Joinville / SC,América / MG,23/09/2014,19:30,Arena Joinville / Joinville
+248,Vila Nova / GO,Ponte Preta / SP,23/09/2014,19:30,Serra Dourada / Goiânia
+249,ABC / RN,Atlético / GO,23/09/2014,19:30,Maria Lamas Farache / Natal
+250,Boa / MG,Luverdense / MT,23/09/2014,19:30,Dilzon Melo / Varginha
+251,Oeste / SP,Red Bull Bragantino / SP,27/09/2014,16:10,Estádio Municipal dos Amaros / Itápolis
+252,Ponte Preta / SP,Ceará / CE,27/09/2014,16:10,Moisés Lucarelli / Campinas
+253,Vasco da Gama / RJ,Joinville / SC,26/09/2014,21:50,São Januário / Rio de Janeiro
+254,Náutico / PE,Paraná / PR,26/09/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+255,Luverdense / MT,Sampaio Corrêa / MA,26/09/2014,19:30,Passo das Emas / Lucas do Rio Verde
+256,Icasa / CE,ABC / RN,27/09/2014,21:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+257,Avaí / SC,Boa / MG,27/09/2014,16:10,Aderbal Ramos da Silva / Florianópolis
+258,Atlético / GO,Portuguesa / SP,27/09/2014,21:00,Serra Dourada / Goiânia
+259,América / RN,Vila Nova / GO,26/09/2014,19:30,Arena das Dunas / Natal
+260,América / MG,Santa Cruz / PE,27/09/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
+261,Oeste / SP,ABC / RN,04/10/2014,21:00,Estádio Municipal dos Amaros / Itápolis
+262,Ponte Preta / SP,Paraná / PR,30/09/2014,20:30,Moisés Lucarelli / Campinas
+263,Vasco da Gama / RJ,Red Bull Bragantino / SP,03/10/2014,21:00,São Januário / Rio de Janeiro
+264,Santa Cruz / PE,Boa / MG,03/10/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+265,Sampaio Corrêa / MA,Portuguesa / SP,30/09/2014,19:30,Estádio Governador João Castelo / São Luis
+266,Icasa / CE,Luverdense / MT,30/09/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+267,Avaí / SC,Náutico / PE,04/10/2014,16:20,Aderbal Ramos da Silva / Florianópolis
+268,Vila Nova / GO,Ceará / CE,30/09/2014,19:30,Serra Dourada / Goiânia
+269,América / RN,Joinville / SC,04/10/2014,21:00,Arena das Dunas / Natal
+270,América / MG,Atlético / GO,03/10/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+271,Red Bull Bragantino / SP,Vila Nova / GO,07/10/2014,19:30,Nabi Abi Chedid / Bragança Paulista
+272,Portuguesa / SP,Vasco da Gama / RJ,07/10/2014,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
+273,Paraná / PR,Oeste / SP,07/10/2014,19:30,Durival Britto e Silva / Curitiba
+274,Náutico / PE,América / MG,07/10/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+275,Luverdense / MT,América / RN,07/10/2014,21:50,Passo das Emas / Lucas do Rio Verde
+276,Ceará / CE,Sampaio Corrêa / MA,07/10/2014,19:30,Governador Plácido Castelo / Fortaleza
+277,Joinville / SC,Santa Cruz / PE,07/10/2014,21:50,Arena Joinville / Joinville
+278,Atlético / GO,Icasa / CE,07/10/2014,19:30,Serra Dourada / Goiânia
+279,ABC / RN,Avaí / SC,07/10/2014,21:50,Maria Lamas Farache / Natal
+280,Boa / MG,Ponte Preta / SP,07/10/2014,19:30,Dilzon Melo / Varginha
+281,Oeste / SP,Atlético / GO,10/10/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+282,Ponte Preta / SP,Santa Cruz / PE,11/10/2014,16:10,Moisés Lucarelli / Campinas
+283,Vasco da Gama / RJ,Boa / MG,10/10/2014,19:30,São Januário / Rio de Janeiro
+284,Náutico / PE,ABC / RN,11/10/2014,16:10,Arena Pernambuco / São Lourenço da Mata
+285,Luverdense / MT,Paraná / PR,11/10/2014,21:00,Passo das Emas / Lucas do Rio Verde
+286,Ceará / CE,Red Bull Bragantino / SP,10/10/2014,19:30,Governador Plácido Castelo / Fortaleza
+287,Avaí / SC,Icasa / CE,11/10/2014,21:00,Aderbal Ramos da Silva / Florianópolis
+288,Vila Nova / GO,Joinville / SC,10/10/2014,19:30,Serra Dourada / Goiânia
+289,América / RN,Sampaio Corrêa / MA,11/10/2014,16:20,Arena das Dunas / Natal
+290,América / MG,Portuguesa / SP,11/10/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
+291,Red Bull Bragantino / SP,América / RN,18/10/2014,16:20,Nabi Abi Chedid / Bragança Paulista
+292,Portuguesa / SP,Ponte Preta / SP,17/10/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+293,Paraná / PR,América / MG,17/10/2014,21:50,Durival Britto e Silva / Curitiba
+294,Santa Cruz / PE,Vasco da Gama / RJ,18/10/2014,16:10,Arena Pernambuco / São Lourenço da Mata
+295,Sampaio Corrêa / MA,Náutico / PE,18/10/2014,16:10,Estádio Governador João Castelo / São Luis
+296,Icasa / CE,Oeste / SP,17/10/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+297,Joinville / SC,Ceará / CE,18/10/2014,16:10,Arena Joinville / Joinville
+298,Atlético / GO,Avaí / SC,14/10/2014,21:00,Serra Dourada / Goiânia
+299,ABC / RN,Luverdense / MT,18/10/2014,21:00,Maria Lamas Farache / Natal
+300,Boa / MG,Vila Nova / GO,14/10/2014,19:30,Dilzon Melo / Varginha
+301,Oeste / SP,América / MG,21/10/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+302,Ponte Preta / SP,Avaí / SC,21/10/2014,19:30,Moisés Lucarelli / Campinas
+303,Paraná / PR,Portuguesa / SP,21/10/2014,19:30,Durival Britto e Silva / Curitiba
+304,Santa Cruz / PE,Vila Nova / GO,28/10/2014,19:30,Arena Pernambuco / São Lourenço da Mata
+305,Sampaio Corrêa / MA,Red Bull Bragantino / SP,21/10/2014,19:30,Estádio Governador João Castelo / São Luis
+306,Icasa / CE,Ceará / CE,21/10/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+307,Joinville / SC,ABC / RN,21/10/2014,21:50,Arena Joinville / Joinville
+308,Atlético / GO,Luverdense / MT,21/10/2014,21:50,Serra Dourada / Goiânia
+309,América / RN,Vasco da Gama / RJ,21/10/2014,19:30,Arena das Dunas / Natal
+310,Boa / MG,Náutico / PE,21/10/2014,21:50,Dilzon Melo / Varginha
+311,Red Bull Bragantino / SP,Boa / MG,25/10/2014,16:20,Nabi Abi Chedid / Bragança Paulista
+312,Portuguesa / SP,Icasa / CE,24/10/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+313,Vasco da Gama / RJ,Ponte Preta / SP,25/10/2014,16:20,São Januário / Rio de Janeiro
+314,Náutico / PE,Atlético / GO,25/10/2014,17:20,Arena Pernambuco / São Lourenço da Mata
+315,Luverdense / MT,Oeste / SP,25/10/2014,21:00,Passo das Emas / Lucas do Rio Verde
+316,Ceará / CE,Santa Cruz / PE,24/10/2014,21:50,Governador Plácido Castelo / Fortaleza
+317,Avaí / SC,Joinville / SC,24/10/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+318,Vila Nova / GO,Sampaio Corrêa / MA,25/10/2014,21:00,Serra Dourada / Goiânia
+319,ABC / RN,Paraná / PR,24/10/2014,21:50,Maria Lamas Farache / Natal
+320,América / MG,América / RN,24/10/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+321,Oeste / SP,Portuguesa / SP,28/10/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+322,Ponte Preta / SP,Sampaio Corrêa / MA,01/11/2014,16:20,Moisés Lucarelli / Campinas
+323,Paraná / PR,Vasco da Gama / RJ,31/10/2014,21:50,Durival Britto e Silva / Curitiba
+324,Santa Cruz / PE,América / RN,01/11/2014,17:20,Arena Pernambuco / São Lourenço da Mata
+325,Luverdense / MT,Avaí / SC,28/10/2014,21:50,Passo das Emas / Lucas do Rio Verde
+326,Icasa / CE,Náutico / PE,01/11/2014,17:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+327,Joinville / SC,Red Bull Bragantino / SP,28/10/2014,21:50,Arena Joinville / Joinville
+328,Atlético / GO,Vila Nova / GO,31/10/2014,19:30,Serra Dourada / Goiânia
+329,ABC / RN,América / MG,01/11/2014,17:20,Maria Lamas Farache / Natal
+330,Boa / MG,Ceará / CE,01/11/2014,21:00,Dilzon Melo / Varginha
+331,Red Bull Bragantino / SP,Ponte Preta / SP,08/11/2014,16:20,Nabi Abi Chedid / Bragança Paulista
+332,Portuguesa / SP,Luverdense / MT,08/11/2014,21:00,Dr. Oswaldo Teixeira Duarte / São Paulo
+333,Vasco da Gama / RJ,ABC / RN,08/11/2014,16:20,Jornalista Mario Filho / Rio de Janeiro
+334,Náutico / PE,Santa Cruz / PE,08/11/2014,17:20,Arena Pernambuco / São Lourenço da Mata
+335,Sampaio Corrêa / MA,Joinville / SC,04/11/2014,21:50,Estádio Governador João Castelo / São Luis
+336,Ceará / CE,Atlético / GO,07/11/2014,21:00,Governador Plácido Castelo / Fortaleza
+337,Avaí / SC,Oeste / SP,04/11/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+338,Vila Nova / GO,Paraná / PR,08/11/2014,21:00,Serra Dourada / Goiânia
+339,América / RN,Boa / MG,07/11/2014,19:30,Arena das Dunas / Natal
+340,América / MG,Icasa / CE,08/11/2014,17:20,Estádio Raimundo Sampaio / Belo Horizonte
+341,Red Bull Bragantino / SP,Santa Cruz / PE,15/11/2014,17:20,Nabi Abi Chedid / Bragança Paulista
+342,Portuguesa / SP,ABC / RN,11/11/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+343,Paraná / PR,Atlético / GO,11/11/2014,21:00,Durival Britto e Silva / Curitiba
+344,Náutico / PE,Luverdense / MT,15/11/2014,17:20,Arena Pernambuco / São Lourenço da Mata
+345,Sampaio Corrêa / MA,Boa / MG,15/11/2014,21:00,Estádio Governador João Castelo / São Luis
+346,Ceará / CE,Vasco da Gama / RJ,15/11/2014,16:20,Governador Plácido Castelo / Fortaleza
+347,Joinville / SC,Ponte Preta / SP,15/11/2014,16:20,Arena Joinville / Joinville
+348,Vila Nova / GO,Oeste / SP,14/11/2014,19:30,Serra Dourada / Goiânia
+349,América / RN,Icasa / CE,15/11/2014,21:00,José Nazareno do Nascimento  / Goianinha
+350,América / MG,Avaí / SC,14/11/2014,21:50,Estádio Raimundo Sampaio / Belo Horizonte
+351,Oeste / SP,Náutico / PE,18/11/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+352,Ponte Preta / SP,América / RN,18/11/2014,21:50,Moisés Lucarelli / Campinas
+353,Vasco da Gama / RJ,Vila Nova / GO,18/11/2014,21:50,São Januário / Rio de Janeiro
+354,Santa Cruz / PE,Sampaio Corrêa / MA,18/11/2014,21:50,José do Rego Maciel / Recife
+355,Luverdense / MT,América / MG,18/11/2014,21:50,Passo das Emas / Lucas do Rio Verde
+356,Icasa / CE,Paraná / PR,18/11/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+357,Avaí / SC,Portuguesa / SP,18/11/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+358,Atlético / GO,Red Bull Bragantino / SP,18/11/2014,19:30,Serra Dourada / Goiânia
+359,ABC / RN,Ceará / CE,18/11/2014,21:50,Arena das Dunas / Natal
+360,Boa / MG,Joinville / SC,18/11/2014,21:50,Dilzon Melo / Varginha
+361,Red Bull Bragantino / SP,Paraná / PR,21/11/2014,21:00,Nabi Abi Chedid / Bragança Paulista
+362,Ponte Preta / SP,América / MG,22/11/2014,16:20,Moisés Lucarelli / Campinas
+363,Vasco da Gama / RJ,Icasa / CE,22/11/2014,16:20,Jornalista Mario Filho / Rio de Janeiro
+364,Santa Cruz / PE,Avaí / SC,22/11/2014,17:20,José do Rego Maciel / Recife
+365,Sampaio Corrêa / MA,Atlético / GO,22/11/2014,21:00,Estádio Governador João Castelo / São Luis
+366,Ceará / CE,Portuguesa / SP,22/11/2014,21:00,Governador Plácido Castelo / Fortaleza
+367,Joinville / SC,Luverdense / MT,22/11/2014,16:20,Arena Joinville / Joinville
+368,Vila Nova / GO,ABC / RN,21/11/2014,21:00,Serra Dourada / Goiânia
+369,América / RN,Náutico / PE,21/11/2014,19:30,Arena das Dunas / Natal
+370,Boa / MG,Oeste / SP,22/11/2014,16:20,Dilzon Melo / Varginha
+371,Oeste / SP,Joinville / SC,29/11/2014,16:20,Estádio Municipal dos Amaros / Itápolis
+372,Portuguesa / SP,Vila Nova / GO,28/11/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
+373,Paraná / PR,América / RN,29/11/2014,16:20,Durival Britto e Silva / Curitiba
+374,Náutico / PE,Ponte Preta / SP,29/11/2014,16:20,Arena Pernambuco / São Lourenço da Mata
+375,Luverdense / MT,Ceará / CE,29/11/2014,16:20,Passo das Emas / Lucas do Rio Verde
+376,Icasa / CE,Boa / MG,29/11/2014,16:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+377,Avaí / SC,Vasco da Gama / RJ,29/11/2014,16:20,Aderbal Ramos da Silva / Florianópolis
+378,Atlético / GO,Santa Cruz / PE,29/11/2014,16:20,Serra Dourada / Goiânia
+379,ABC / RN,Red Bull Bragantino / SP,29/11/2014,16:20,Maria Lamas Farache / Natal
+380,América / MG,Sampaio Corrêa / MA,29/11/2014,16:20,Estádio Raimundo Sampaio / Belo Horizonte

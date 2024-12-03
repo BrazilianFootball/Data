@@ -1,217 +1,217 @@
-Game,Home,Away
-001,Ypiranga / RS,Aparecidense / GO
-002,Botafogo / PB,São José / RS
-003,Atlético / CE,Campinense / PB
-004,ABC / RN,Paysandu / PA
-005,Brasil / RS,Manaus / AM
-006,Altos / PI,Botafogo / SP
-007,Mirassol / SP,Ferroviário / CE
-008,Volta Redonda / RJ,Figueirense / SC
-009,Remo / PA,Vitória / BA
-010,Floresta / CE,Confiança / SE
-011,São José / RS,Volta Redonda / RJ
-012,Campinense / PB,Brasil / RS
-013,Confiança / SE,Ypiranga / RS
-014,Vitória / BA,Floresta / CE
-015,Botafogo / SP,Botafogo / PB
-016,Manaus / AM,Remo / PA
-017,Figueirense / SC,Altos / PI
-018,Aparecidense / GO,Mirassol / SP
-019,Ferroviário / CE,ABC / RN
-020,Paysandu / PA,Atlético / CE
-021,Ypiranga / RS,Vitória / BA
-022,Botafogo / PB,Confiança / SE
-023,Atlético / CE,Ferroviário / CE
-024,ABC / RN,Campinense / PB
-025,Brasil / RS,Botafogo / SP
-026,Manaus / AM,Aparecidense / GO
-027,Mirassol / SP,Paysandu / PA
-028,Volta Redonda / RJ,Altos / PI
-029,Remo / PA,São José / RS
-030,Floresta / CE,Figueirense / SC
-031,São José / RS,Brasil / RS
-032,Campinense / PB,Aparecidense / GO
-033,Confiança / SE,Remo / PA
-034,Vitória / BA,Manaus / AM
-035,Botafogo / SP,Floresta / CE
-036,Altos / PI,ABC / RN
-037,Figueirense / SC,Mirassol / SP
-038,Volta Redonda / RJ,Atlético / CE
-039,Ferroviário / CE,Botafogo / PB
-040,Paysandu / PA,Ypiranga / RS
-041,Ypiranga / RS,Floresta / CE
-042,Botafogo / PB,Altos / PI
-043,Atlético / CE,Figueirense / SC
-044,ABC / RN,Volta Redonda / RJ
-045,Brasil / RS,Remo / PA
-046,Manaus / AM,Confiança / SE
-047,Mirassol / SP,Campinense / PB
-048,Aparecidense / GO,Vitória / BA
-049,Ferroviário / CE,São José / RS
-050,Paysandu / PA,Botafogo / SP
-051,São José / RS,Paysandu / PA
-052,Campinense / PB,Ypiranga / RS
-053,Confiança / SE,Ferroviário / CE
-054,Vitória / BA,Botafogo / PB
-055,Botafogo / SP,ABC / RN
-056,Altos / PI,Atlético / CE
-057,Figueirense / SC,Aparecidense / GO
-058,Volta Redonda / RJ,Brasil / RS
-059,Remo / PA,Mirassol / SP
-060,Floresta / CE,Manaus / AM
-061,Ypiranga / RS,Remo / PA
-062,Botafogo / PB,Campinense / PB
-063,Atlético / CE,ABC / RN
-064,Vitória / BA,Confiança / SE
-065,Brasil / RS,Figueirense / SC
-066,Manaus / AM,São José / RS
-067,Mirassol / SP,Altos / PI
-068,Aparecidense / GO,Floresta / CE
-069,Ferroviário / CE,Botafogo / SP
-070,Paysandu / PA,Volta Redonda / RJ
-071,São José / RS,Atlético / CE
-072,Campinense / PB,Vitória / BA
-073,Confiança / SE,Aparecidense / GO
-074,ABC / RN,Brasil / RS
-075,Botafogo / SP,Mirassol / SP
-076,Altos / PI,Ypiranga / RS
-077,Figueirense / SC,Ferroviário / CE
-078,Volta Redonda / RJ,Botafogo / PB
-079,Remo / PA,Floresta / CE
-080,Paysandu / PA,Manaus / AM
-081,Ypiranga / RS,Figueirense / SC
-082,Botafogo / PB,ABC / RN
-083,Confiança / SE,Botafogo / SP
-084,Vitória / BA,Volta Redonda / RJ
-085,Ferroviário / CE,Paysandu / PA
-086,Manaus / AM,Altos / PI
-087,Mirassol / SP,Brasil / RS
-088,Aparecidense / GO,São José / RS
-089,Remo / PA,Campinense / PB
-090,Floresta / CE,Atlético / CE
-091,São José / RS,Floresta / CE
-092,Campinense / PB,Manaus / AM
-093,Atlético / CE,Vitória / BA
-094,ABC / RN,Mirassol / SP
-095,Brasil / RS,Ypiranga / RS
-096,Botafogo / SP,Aparecidense / GO
-097,Figueirense / SC,Confiança / SE
-098,Volta Redonda / RJ,Remo / PA
-099,Altos / PI,Ferroviário / CE
-100,Paysandu / PA,Botafogo / PB
-101,Ypiranga / RS,ABC / RN
-102,Botafogo / PB,Atlético / CE
-103,Confiança / SE,Campinense / PB
-104,Vitória / BA,Botafogo / SP
-105,Brasil / RS,Ferroviário / CE
-106,Manaus / AM,Figueirense / SC
-107,Mirassol / SP,São José / RS
-108,Aparecidense / GO,Paysandu / PA
-109,Remo / PA,Altos / PI
-110,Floresta / CE,Volta Redonda / RJ
-111,São José / RS,Campinense / PB
-112,Botafogo / PB,Mirassol / SP
-113,Atlético / CE,Ypiranga / RS
-114,ABC / RN,Confiança / SE
-115,Botafogo / SP,Manaus / AM
-116,Altos / PI,Vitória / BA
-117,Figueirense / SC,Remo / PA
-118,Volta Redonda / RJ,Aparecidense / GO
-119,Ferroviário / CE,Floresta / CE
-120,Paysandu / PA,Brasil / RS
-121,Ypiranga / RS,São José / RS
-122,Campinense / PB,Botafogo / SP
-123,Confiança / SE,Volta Redonda / RJ
-124,Vitória / BA,Figueirense / SC
-125,Brasil / RS,Botafogo / PB
-126,Manaus / AM,Ferroviário / CE
-127,Mirassol / SP,Atlético / CE
-128,Aparecidense / GO,ABC / RN
-129,Remo / PA,Paysandu / PA
-130,Floresta / CE,Altos / PI
-131,São José / RS,Vitória / BA
-132,Botafogo / PB,Floresta / CE
-133,Atlético / CE,Remo / PA
-134,ABC / RN,Manaus / AM
-135,Botafogo / SP,Ypiranga / RS
-136,Altos / PI,Brasil / RS
-137,Figueirense / SC,Campinense / PB
-138,Volta Redonda / RJ,Mirassol / SP
-139,Ferroviário / CE,Aparecidense / GO
-140,Paysandu / PA,Confiança / SE
-141,Ypiranga / RS,Botafogo / PB
-142,Campinense / PB,Ferroviário / CE
-143,Confiança / SE,São José / RS
-144,Vitória / BA,Paysandu / PA
-145,Brasil / RS,Atlético / CE
-146,Manaus / AM,Volta Redonda / RJ
-147,Figueirense / SC,Botafogo / SP
-148,Aparecidense / GO,Altos / PI
-149,Remo / PA,ABC / RN
-150,Floresta / CE,Mirassol / SP
-151,São José / RS,Botafogo / SP
-152,Botafogo / PB,Remo / PA
-153,Atlético / CE,Manaus / AM
-154,ABC / RN,Floresta / CE
-155,Brasil / RS,Aparecidense / GO
-156,Altos / PI,Campinense / PB
-157,Mirassol / SP,Confiança / SE
-158,Volta Redonda / RJ,Ypiranga / RS
-159,Ferroviário / CE,Vitória / BA
-160,Paysandu / PA,Figueirense / SC
-161,Ypiranga / RS,Mirassol / SP
-162,Campinense / PB,Paysandu / PA
-163,Confiança / SE,Altos / PI
-164,Vitória / BA,ABC / RN
-165,Botafogo / SP,Volta Redonda / RJ
-166,Manaus / AM,Botafogo / PB
-167,Figueirense / SC,São José / RS
-168,Aparecidense / GO,Atlético / CE
-169,Remo / PA,Ferroviário / CE
-170,Floresta / CE,Brasil / RS
-171,Ypiranga / RS,Manaus / AM
-172,Botafogo / PB,Figueirense / SC
-173,Atlético / CE,Botafogo / SP
-174,ABC / RN,São José / RS
-175,Brasil / RS,Confiança / SE
-176,Altos / PI,Paysandu / PA
-177,Mirassol / SP,Vitória / BA
-178,Volta Redonda / RJ,Ferroviário / CE
-179,Remo / PA,Aparecidense / GO
-180,Floresta / CE,Campinense / PB
-181,São José / RS,Altos / PI
-182,Campinense / PB,Volta Redonda / RJ
-183,Confiança / SE,Atlético / CE
-184,Vitória / BA,Brasil / RS
-185,Botafogo / SP,Remo / PA
-186,Manaus / AM,Mirassol / SP
-187,Figueirense / SC,ABC / RN
-188,Aparecidense / GO,Botafogo / PB
-189,Ferroviário / CE,Ypiranga / RS
-190,Paysandu / PA,Floresta / CE
-191,ABC / RN,Figueirense / SC
-192,Aparecidense / GO,Mirassol / SP
-193,Vitória / BA,Paysandu / PA
-194,Botafogo / SP,Volta Redonda / RJ
-195,Paysandu / PA,ABC / RN
-196,Mirassol / SP,Botafogo / SP
-197,Figueirense / SC,Vitória / BA
-198,Volta Redonda / RJ,Aparecidense / GO
-199,Figueirense / SC,Paysandu / PA
-200,Volta Redonda / RJ,Mirassol / SP
-201,Aparecidense / GO,Botafogo / SP
-202,Vitória / BA,ABC / RN
-203,ABC / RN,Vitória / BA
-204,Mirassol / SP,Volta Redonda / RJ
-205,Paysandu / PA,Figueirense / SC
-206,Botafogo / SP,Aparecidense / GO
-207,ABC / RN,Paysandu / PA
-208,Aparecidense / GO,Volta Redonda / RJ
-209,Vitória / BA,Figueirense / SC
-210,Botafogo / SP,Mirassol / SP
-211,Paysandu / PA,Vitória / BA
-212,Figueirense / SC,ABC / RN
-213,Mirassol / SP,Aparecidense / GO
-214,Volta Redonda / RJ,Botafogo / SP
-215,ABC / RN,Mirassol / SP
-216,Mirassol / SP,ABC / RN
+Game,Home,Away,Date,Time,Stadium
+001,Ypiranga / RS,Aparecidense / GO,09/04/2022,11:00,Colosso da Lagoa / Erechim
+002,Botafogo / PB,São José / RS,09/04/2022,18:00,José Américo de Almeida Filho / Joao Pessoa
+003,Atlético / CE,Campinense / PB,09/04/2022,15:00,Horácio Domingos de Sousa / Horizonte
+004,ABC / RN,Paysandu / PA,20/04/2022,19:00,Maria Lamas Farache / Natal
+005,Brasil / RS,Manaus / AM,11/04/2022,20:00,Bento da Silva Freitas / Pelotas
+006,Altos / PI,Botafogo / SP,10/04/2022,18:00,Lindolfo Monteiro / Teresina
+007,Mirassol / SP,Ferroviário / CE,10/04/2022,19:00,José Maria de Campos Maia / Mirassol
+008,Volta Redonda / RJ,Figueirense / SC,09/04/2022,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+009,Remo / PA,Vitória / BA,09/04/2022,17:00,Evandro Almeida / Belem
+010,Floresta / CE,Confiança / SE,10/04/2022,16:00,João Ronaldo / Pacajus
+011,São José / RS,Volta Redonda / RJ,16/04/2022,11:00,Francisco Novelletto Neto / Porto Alegre
+012,Campinense / PB,Brasil / RS,17/04/2022,17:00,Ernani Sátyro / Campina Grande
+013,Confiança / SE,Ypiranga / RS,16/04/2022,16:00,Lourival Baptista / Aracaju
+014,Vitória / BA,Floresta / CE,16/04/2022,21:00,Manoel Barradas / Salvador
+015,Botafogo / SP,Botafogo / PB,17/04/2022,11:00,Santa Cruz / Ribeirao Preto
+016,Manaus / AM,Remo / PA,16/04/2022,19:00,Arena da Amazônia / Manaus
+017,Figueirense / SC,Altos / PI,18/04/2022,20:00,Orlando Scarpelli / Florianopolis
+018,Aparecidense / GO,Mirassol / SP,17/04/2022,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+019,Ferroviário / CE,ABC / RN,16/04/2022,17:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+020,Paysandu / PA,Atlético / CE,17/04/2022,19:00,Arena do Município Verde / Paragominas
+021,Ypiranga / RS,Vitória / BA,24/04/2022,18:00,Colosso da Lagoa / Erechim
+022,Botafogo / PB,Confiança / SE,23/04/2022,16:00,José Américo de Almeida Filho / Joao Pessoa
+023,Atlético / CE,Ferroviário / CE,23/04/2022,17:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+024,ABC / RN,Campinense / PB,23/04/2022,21:00,Maria Lamas Farache / Natal
+025,Brasil / RS,Botafogo / SP,23/04/2022,11:00,Bento da Silva Freitas / Pelotas
+026,Manaus / AM,Aparecidense / GO,24/04/2022,16:00,Arena da Amazônia / Manaus
+027,Mirassol / SP,Paysandu / PA,25/04/2022,20:00,José Maria de Campos Maia / Mirassol
+028,Volta Redonda / RJ,Altos / PI,24/04/2022,11:00,Sylvio Raulino de Oliveira / Volta Redonda
+029,Remo / PA,São José / RS,23/04/2022,19:00,Evandro Almeida / Belem
+030,Floresta / CE,Figueirense / SC,24/04/2022,15:00,Horácio Domingos de Sousa / Horizonte
+031,São José / RS,Brasil / RS,01/05/2022,17:00,Francisco Novelletto Neto / Porto Alegre
+032,Campinense / PB,Aparecidense / GO,30/04/2022,18:00,Ernani Sátyro / Campina Grande
+033,Confiança / SE,Remo / PA,01/05/2022,19:00,Lourival Baptista / Aracaju
+034,Vitória / BA,Manaus / AM,30/04/2022,19:00,Manoel Barradas / Salvador
+035,Botafogo / SP,Floresta / CE,02/05/2022,20:00,Ademar Pereira de Barros / Araraquara
+036,Altos / PI,ABC / RN,04/05/2022,19:00,Lindolfo Monteiro / Teresina
+037,Figueirense / SC,Mirassol / SP,01/05/2022,11:00,Orlando Scarpelli / Florianopolis
+038,Volta Redonda / RJ,Atlético / CE,30/04/2022,15:00,Sylvio Raulino de Oliveira / Volta Redonda
+039,Ferroviário / CE,Botafogo / PB,01/05/2022,15:00,Vila Olimpica Elzir Cabral / Fortaleza
+040,Paysandu / PA,Ypiranga / RS,30/04/2022,17:00,Arena do Município Verde / Paragominas
+041,Ypiranga / RS,Floresta / CE,08/05/2022,11:00,Colosso da Lagoa / Erechim
+042,Botafogo / PB,Altos / PI,07/05/2022,18:00,José Américo de Almeida Filho / Joao Pessoa
+043,Atlético / CE,Figueirense / SC,08/05/2022,15:00,Horácio Domingos de Sousa / Horizonte
+044,ABC / RN,Volta Redonda / RJ,08/05/2022,17:00,Maria Lamas Farache / Natal
+045,Brasil / RS,Remo / PA,07/05/2022,19:00,Bento da Silva Freitas / Pelotas
+046,Manaus / AM,Confiança / SE,07/05/2022,17:00,Arena da Amazônia / Manaus
+047,Mirassol / SP,Campinense / PB,07/05/2022,11:00,José Maria de Campos Maia / Mirassol
+048,Aparecidense / GO,Vitória / BA,09/05/2022,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+049,Ferroviário / CE,São José / RS,07/05/2022,15:00,Vila Olimpica Elzir Cabral / Fortaleza
+050,Paysandu / PA,Botafogo / SP,08/05/2022,19:00,Leônidas Sobré de Castro / Belem
+051,São José / RS,Paysandu / PA,15/05/2022,19:00,Francisco Novelletto Neto / Porto Alegre
+052,Campinense / PB,Ypiranga / RS,18/05/2022,18:00,Ernani Sátyro / Campina Grande
+053,Confiança / SE,Ferroviário / CE,17/05/2022,20:00,Lourival Baptista / Aracaju
+054,Vitória / BA,Botafogo / PB,18/05/2022,20:30,Manoel Barradas / Salvador
+055,Botafogo / SP,ABC / RN,14/05/2022,17:00,Santa Cruz / Ribeirao Preto
+056,Altos / PI,Atlético / CE,14/05/2022,15:00,Lindolfo Monteiro / Teresina
+057,Figueirense / SC,Aparecidense / GO,15/05/2022,11:00,Orlando Scarpelli / Florianopolis
+058,Volta Redonda / RJ,Brasil / RS,15/05/2022,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+059,Remo / PA,Mirassol / SP,15/05/2022,17:00,Evandro Almeida / Belem
+060,Floresta / CE,Manaus / AM,14/05/2022,19:00,João Ronaldo / Pacajus
+061,Ypiranga / RS,Remo / PA,23/05/2022,20:00,Colosso da Lagoa / Erechim
+062,Botafogo / PB,Campinense / PB,25/05/2022,20:00,José Américo de Almeida Filho / Joao Pessoa
+063,Atlético / CE,ABC / RN,21/05/2022,17:00,João Ronaldo / Pacajus
+064,Vitória / BA,Confiança / SE,22/05/2022,17:00,Manoel Barradas / Salvador
+065,Brasil / RS,Figueirense / SC,21/05/2022,18:00,Bento da Silva Freitas / Pelotas
+066,Manaus / AM,São José / RS,22/05/2022,16:00,Arena da Amazônia / Manaus
+067,Mirassol / SP,Altos / PI,22/05/2022,11:00,José Maria de Campos Maia / Mirassol
+068,Aparecidense / GO,Floresta / CE,22/05/2022,18:00,Anibal Batista de Toledo / Aparecida de Goiania
+069,Ferroviário / CE,Botafogo / SP,21/05/2022,15:00,Presidente Vargas / Fortaleza
+070,Paysandu / PA,Volta Redonda / RJ,22/05/2022,19:00,Leônidas Sobré de Castro / Belem
+071,São José / RS,Atlético / CE,28/05/2022,11:00,Francisco Novelletto Neto / Porto Alegre
+072,Campinense / PB,Vitória / BA,28/05/2022,17:00,Ernani Sátyro / Campina Grande
+073,Confiança / SE,Aparecidense / GO,28/05/2022,18:00,Lourival Baptista / Aracaju
+074,ABC / RN,Brasil / RS,28/05/2022,19:00,Maria Lamas Farache / Natal
+075,Botafogo / SP,Mirassol / SP,29/05/2022,17:00,Santa Cruz / Ribeirao Preto
+076,Altos / PI,Ypiranga / RS,29/05/2022,15:00,Lindolfo Monteiro / Teresina
+077,Figueirense / SC,Ferroviário / CE,28/05/2022,15:00,Orlando Scarpelli / Florianopolis
+078,Volta Redonda / RJ,Botafogo / PB,29/05/2022,11:00,Nivaldo Pereira / Nova Iguacu
+079,Remo / PA,Floresta / CE,29/05/2022,19:00,Evandro Almeida / Belem
+080,Paysandu / PA,Manaus / AM,30/05/2022,20:00,Leônidas Sobré de Castro / Belem
+081,Ypiranga / RS,Figueirense / SC,04/06/2022,11:00,Colosso da Lagoa / Erechim
+082,Botafogo / PB,ABC / RN,04/06/2022,17:00,José Américo de Almeida Filho / Joao Pessoa
+083,Confiança / SE,Botafogo / SP,04/06/2022,18:00,Lourival Baptista / Aracaju
+084,Vitória / BA,Volta Redonda / RJ,05/06/2022,16:00,Manoel Barradas / Salvador
+085,Ferroviário / CE,Paysandu / PA,05/06/2022,19:00,Presidente Vargas / Fortaleza
+086,Manaus / AM,Altos / PI,05/06/2022,16:30,Ismael Benigno / Manaus
+087,Mirassol / SP,Brasil / RS,04/06/2022,19:00,José Maria de Campos Maia / Mirassol
+088,Aparecidense / GO,São José / RS,05/06/2022,18:00,Anibal Batista de Toledo / Aparecida de Goiania
+089,Remo / PA,Campinense / PB,06/06/2022,20:00,Evandro Almeida / Belem
+090,Floresta / CE,Atlético / CE,03/06/2022,15:00,Presidente Vargas / Fortaleza
+091,São José / RS,Floresta / CE,11/06/2022,15:00,Francisco Novelletto Neto / Porto Alegre
+092,Campinense / PB,Manaus / AM,11/06/2022,17:00,Ernani Sátyro / Campina Grande
+093,Atlético / CE,Vitória / BA,11/06/2022,19:00,Presidente Vargas / Fortaleza
+094,ABC / RN,Mirassol / SP,12/06/2022,17:00,Maria Lamas Farache / Natal
+095,Brasil / RS,Ypiranga / RS,11/06/2022,11:00,Bento da Silva Freitas / Pelotas
+096,Botafogo / SP,Aparecidense / GO,13/06/2022,19:00,Santa Cruz / Ribeirao Preto
+097,Figueirense / SC,Confiança / SE,12/06/2022,18:00,Orlando Scarpelli / Florianopolis
+098,Volta Redonda / RJ,Remo / PA,13/06/2022,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+099,Altos / PI,Ferroviário / CE,12/06/2022,15:00,Lindolfo Monteiro / Teresina
+100,Paysandu / PA,Botafogo / PB,12/06/2022,19:00,Leônidas Sobré de Castro / Belem
+101,Ypiranga / RS,ABC / RN,20/06/2022,20:00,Colosso da Lagoa / Erechim
+102,Botafogo / PB,Atlético / CE,19/06/2022,16:00,José Américo de Almeida Filho / Joao Pessoa
+103,Confiança / SE,Campinense / PB,18/06/2022,17:00,Lourival Baptista / Aracaju
+104,Vitória / BA,Botafogo / SP,19/06/2022,17:00,Manoel Barradas / Salvador
+105,Brasil / RS,Ferroviário / CE,18/06/2022,15:00,Bento da Silva Freitas / Pelotas
+106,Manaus / AM,Figueirense / SC,18/06/2022,18:00,Arena da Amazônia / Manaus
+107,Mirassol / SP,São José / RS,19/06/2022,11:00,José Maria de Campos Maia / Mirassol
+108,Aparecidense / GO,Paysandu / PA,18/06/2022,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+109,Remo / PA,Altos / PI,19/06/2022,19:00,Evandro Almeida / Belem
+110,Floresta / CE,Volta Redonda / RJ,20/06/2022,18:00,Presidente Vargas / Fortaleza
+111,São José / RS,Campinense / PB,26/06/2022,16:00,Francisco Novelletto Neto / Porto Alegre
+112,Botafogo / PB,Mirassol / SP,03/08/2022,19:00,José Américo de Almeida Filho / Joao Pessoa
+113,Atlético / CE,Ypiranga / RS,26/06/2022,15:00,Horácio Domingos de Sousa / Horizonte
+114,ABC / RN,Confiança / SE,25/06/2022,17:00,Maria Lamas Farache / Natal
+115,Botafogo / SP,Manaus / AM,26/06/2022,11:00,Santa Cruz / Ribeirao Preto
+116,Altos / PI,Vitória / BA,25/06/2022,19:00,Lindolfo Monteiro / Teresina
+117,Figueirense / SC,Remo / PA,27/06/2022,20:00,Orlando Scarpelli / Florianopolis
+118,Volta Redonda / RJ,Aparecidense / GO,26/06/2022,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+119,Ferroviário / CE,Floresta / CE,26/06/2022,17:00,Presidente Vargas / Fortaleza
+120,Paysandu / PA,Brasil / RS,26/06/2022,19:00,Leônidas Sobré de Castro / Belem
+121,Ypiranga / RS,São José / RS,03/07/2022,19:00,Colosso da Lagoa / Erechim
+122,Campinense / PB,Botafogo / SP,03/07/2022,18:00,Ernani Sátyro / Campina Grande
+123,Confiança / SE,Volta Redonda / RJ,02/07/2022,18:00,Lourival Baptista / Aracaju
+124,Vitória / BA,Figueirense / SC,02/07/2022,19:00,Manoel Barradas / Salvador
+125,Brasil / RS,Botafogo / PB,03/07/2022,11:00,Bento da Silva Freitas / Pelotas
+126,Manaus / AM,Ferroviário / CE,02/07/2022,17:00,Arena da Amazônia / Manaus
+127,Mirassol / SP,Atlético / CE,03/07/2022,16:00,José Maria de Campos Maia / Mirassol
+128,Aparecidense / GO,ABC / RN,04/07/2022,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+129,Remo / PA,Paysandu / PA,03/07/2022,17:00,Evandro Almeida / Belem
+130,Floresta / CE,Altos / PI,02/07/2022,15:00,Presidente Vargas / Fortaleza
+131,São José / RS,Vitória / BA,10/07/2022,17:00,Francisco Novelletto Neto / Porto Alegre
+132,Botafogo / PB,Floresta / CE,09/07/2022,17:00,José Américo de Almeida Filho / Joao Pessoa
+133,Atlético / CE,Remo / PA,10/07/2022,19:00,Presidente Vargas / Fortaleza
+134,ABC / RN,Manaus / AM,11/07/2022,20:00,Maria Lamas Farache / Natal
+135,Botafogo / SP,Ypiranga / RS,10/07/2022,11:00,Santa Cruz / Ribeirao Preto
+136,Altos / PI,Brasil / RS,10/07/2022,15:00,Lindolfo Monteiro / Teresina
+137,Figueirense / SC,Campinense / PB,09/07/2022,18:00,Orlando Scarpelli / Florianopolis
+138,Volta Redonda / RJ,Mirassol / SP,10/07/2022,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+139,Ferroviário / CE,Aparecidense / GO,09/07/2022,15:00,Vila Olimpica Elzir Cabral / Fortaleza
+140,Paysandu / PA,Confiança / SE,09/07/2022,19:00,Leônidas Sobré de Castro / Belem
+141,Ypiranga / RS,Botafogo / PB,16/07/2022,18:00,Colosso da Lagoa / Erechim
+142,Campinense / PB,Ferroviário / CE,16/07/2022,17:00,Ernani Sátyro / Campina Grande
+143,Confiança / SE,São José / RS,17/07/2022,18:00,Lourival Baptista / Aracaju
+144,Vitória / BA,Paysandu / PA,17/07/2022,16:00,Manoel Barradas / Salvador
+145,Brasil / RS,Atlético / CE,17/07/2022,11:00,Bento da Silva Freitas / Pelotas
+146,Manaus / AM,Volta Redonda / RJ,18/07/2022,20:00,Arena da Amazônia / Manaus
+147,Figueirense / SC,Botafogo / SP,16/07/2022,15:00,Orlando Scarpelli / Florianopolis
+148,Aparecidense / GO,Altos / PI,17/07/2022,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+149,Remo / PA,ABC / RN,17/07/2022,19:00,Evandro Almeida / Belem
+150,Floresta / CE,Mirassol / SP,16/07/2022,19:00,Presidente Vargas / Fortaleza
+151,São José / RS,Botafogo / SP,23/07/2022,11:00,Francisco Novelletto Neto / Porto Alegre
+152,Botafogo / PB,Remo / PA,24/07/2022,19:00,José Américo de Almeida Filho / Joao Pessoa
+153,Atlético / CE,Manaus / AM,23/07/2022,15:00,Horácio Domingos de Sousa / Horizonte
+154,ABC / RN,Floresta / CE,23/07/2022,17:00,Maria Lamas Farache / Natal
+155,Brasil / RS,Aparecidense / GO,24/07/2022,20:00,Bento da Silva Freitas / Pelotas
+156,Altos / PI,Campinense / PB,24/07/2022,15:00,Lindolfo Monteiro / Teresina
+157,Mirassol / SP,Confiança / SE,25/07/2022,20:00,José Maria de Campos Maia / Mirassol
+158,Volta Redonda / RJ,Ypiranga / RS,25/07/2022,20:30,Sylvio Raulino de Oliveira / Volta Redonda
+159,Ferroviário / CE,Vitória / BA,24/07/2022,16:00,Presidente Vargas / Fortaleza
+160,Paysandu / PA,Figueirense / SC,25/07/2022,18:00,Leônidas Sobré de Castro / Belem
+161,Ypiranga / RS,Mirassol / SP,30/07/2022,11:00,Colosso da Lagoa / Erechim
+162,Campinense / PB,Paysandu / PA,30/07/2022,19:00,Ernani Sátyro / Campina Grande
+163,Confiança / SE,Altos / PI,30/07/2022,18:00,Lourival Baptista / Aracaju
+164,Vitória / BA,ABC / RN,31/07/2022,16:00,Manoel Barradas / Salvador
+165,Botafogo / SP,Volta Redonda / RJ,31/07/2022,11:00,Santa Cruz / Ribeirao Preto
+166,Manaus / AM,Botafogo / PB,30/07/2022,17:00,Arena da Amazônia / Manaus
+167,Figueirense / SC,São José / RS,31/07/2022,19:00,Orlando Scarpelli / Florianopolis
+168,Aparecidense / GO,Atlético / CE,31/07/2022,20:00,Anibal Batista de Toledo / Aparecida de Goiania
+169,Remo / PA,Ferroviário / CE,01/08/2022,20:00,Evandro Almeida / Belem
+170,Floresta / CE,Brasil / RS,31/07/2022,15:00,Presidente Vargas / Fortaleza
+171,Ypiranga / RS,Manaus / AM,06/08/2022,18:00,Colosso da Lagoa / Erechim
+172,Botafogo / PB,Figueirense / SC,08/08/2022,20:00,José Américo de Almeida Filho / Joao Pessoa
+173,Atlético / CE,Botafogo / SP,06/08/2022,15:00,Horácio Domingos de Sousa / Horizonte
+174,ABC / RN,São José / RS,06/08/2022,17:00,Maria Lamas Farache / Natal
+175,Brasil / RS,Confiança / SE,07/08/2022,11:00,Bento da Silva Freitas / Pelotas
+176,Altos / PI,Paysandu / PA,06/08/2022,19:00,Lindolfo Monteiro / Teresina
+177,Mirassol / SP,Vitória / BA,07/08/2022,19:00,José Maria de Campos Maia / Mirassol
+178,Volta Redonda / RJ,Ferroviário / CE,07/08/2022,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+179,Remo / PA,Aparecidense / GO,07/08/2022,17:00,Evandro Almeida / Belem
+180,Floresta / CE,Campinense / PB,07/08/2022,15:00,Presidente Vargas / Fortaleza
+181,São José / RS,Altos / PI,13/08/2022,17:00,Francisco Novelletto Neto / Porto Alegre
+182,Campinense / PB,Volta Redonda / RJ,13/08/2022,17:00,Ernani Sátyro / Campina Grande
+183,Confiança / SE,Atlético / CE,13/08/2022,17:00,Lourival Baptista / Aracaju
+184,Vitória / BA,Brasil / RS,13/08/2022,17:00,Manoel Barradas / Salvador
+185,Botafogo / SP,Remo / PA,13/08/2022,17:00,Santa Cruz / Ribeirao Preto
+186,Manaus / AM,Mirassol / SP,13/08/2022,17:00,Arena da Amazônia / Manaus
+187,Figueirense / SC,ABC / RN,13/08/2022,17:00,Orlando Scarpelli / Florianopolis
+188,Aparecidense / GO,Botafogo / PB,13/08/2022,17:00,Anibal Batista de Toledo / Aparecida de Goiania
+189,Ferroviário / CE,Ypiranga / RS,13/08/2022,17:00,Presidente Vargas / Fortaleza
+190,Paysandu / PA,Floresta / CE,13/08/2022,17:00,Leônidas Sobré de Castro / Belem
+191,ABC / RN,Figueirense / SC,20/08/2022,17:00,Maria Lamas Farache / Natal
+192,Aparecidense / GO,Mirassol / SP,21/08/2022,19:00,Anibal Batista de Toledo / Aparecida de Goiania
+193,Vitória / BA,Paysandu / PA,21/08/2022,16:00,Manoel Barradas / Salvador
+194,Botafogo / SP,Volta Redonda / RJ,21/08/2022,11:00,Santa Cruz / Ribeirao Preto
+195,Paysandu / PA,ABC / RN,27/08/2022,17:00,Leônidas Sobré de Castro / Belem
+196,Mirassol / SP,Botafogo / SP,27/08/2022,19:00,José Maria de Campos Maia / Mirassol
+197,Figueirense / SC,Vitória / BA,28/08/2022,17:00,Orlando Scarpelli / Florianopolis
+198,Volta Redonda / RJ,Aparecidense / GO,29/08/2022,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+199,Figueirense / SC,Paysandu / PA,03/09/2022,17:00,Orlando Scarpelli / Florianopolis
+200,Volta Redonda / RJ,Mirassol / SP,04/09/2022,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+201,Aparecidense / GO,Botafogo / SP,04/09/2022,15:00,Anibal Batista de Toledo / Aparecida de Goiania
+202,Vitória / BA,ABC / RN,04/09/2022,17:00,Manoel Barradas / Salvador
+203,ABC / RN,Vitória / BA,10/09/2022,17:00,Maria Lamas Farache / Natal
+204,Mirassol / SP,Volta Redonda / RJ,11/09/2022,19:00,José Maria de Campos Maia / Mirassol
+205,Paysandu / PA,Figueirense / SC,11/09/2022,17:00,Leônidas Sobré de Castro / Belem
+206,Botafogo / SP,Aparecidense / GO,11/09/2022,11:00,Santa Cruz / Ribeirao Preto
+207,ABC / RN,Paysandu / PA,17/09/2022,21:00,Maria Lamas Farache / Natal
+208,Aparecidense / GO,Volta Redonda / RJ,17/09/2022,15:00,Anibal Batista de Toledo / Aparecida de Goiania
+209,Vitória / BA,Figueirense / SC,18/09/2022,16:00,Manoel Barradas / Salvador
+210,Botafogo / SP,Mirassol / SP,19/09/2022,20:00,Santa Cruz / Ribeirao Preto
+211,Paysandu / PA,Vitória / BA,24/09/2022,17:00,Leônidas Sobré de Castro / Belem
+212,Figueirense / SC,ABC / RN,24/09/2022,17:00,Orlando Scarpelli / Florianopolis
+213,Mirassol / SP,Aparecidense / GO,25/09/2022,17:00,José Maria de Campos Maia / Mirassol
+214,Volta Redonda / RJ,Botafogo / SP,25/09/2022,17:00,Sylvio Raulino de Oliveira / Volta Redonda
+215,ABC / RN,Mirassol / SP,01/10/2022,17:00,Maria Lamas Farache / Natal
+216,Mirassol / SP,ABC / RN,08/10/2022,17:00,José Maria de Campos Maia / Mirassol

@@ -1,195 +1,195 @@
-Game,Home,Away
-001,América / RN,ABC / RN
-002,Cuiabá / MT,Remo / PA
-003,Fortaleza / CE,Ríver / PI
-004,Salgueiro / PE,Botafogo / PB
-005,ASA / AL,Confiança / SE
-006,Botafogo / SP,Mogi Mirim / SP
-007,Portuguesa / SP,Macaé / RJ
-008,Boa / MG,Tombense / MG
-009,Guarani / SP,Guaratinguetá / SP
-010,Juventude / RS,Ypiranga / RS
-011,ABC / RN,Salgueiro / PE
-012,Remo / PA,ASA / AL
-013,Ríver / PI,América / RN
-014,Botafogo / PB,Cuiabá / MT
-015,Confiança / SE,Fortaleza / CE
-016,Mogi Mirim / SP,Portuguesa / SP
-017,Macaé / RJ,Boa / MG
-018,Tombense / MG,Guarani / SP
-019,Guaratinguetá / SP,Juventude / RS
-020,Ypiranga / RS,Botafogo / SP
-021,América / RN,Fortaleza / CE
-022,Cuiabá / MT,Confiança / SE
-023,Ríver / PI,Remo / PA
-024,Botafogo / PB,ABC / RN
-025,ASA / AL,Salgueiro / PE
-026,Botafogo / SP,Boa / MG
-027,Portuguesa / SP,Ypiranga / RS
-028,Tombense / MG,Macaé / RJ
-029,Guaratinguetá / SP,Mogi Mirim / SP
-030,Juventude / RS,Guarani / SP
-031,ABC / RN,Confiança / SE
-032,Remo / PA,Botafogo / PB
-033,Fortaleza / CE,Cuiabá / MT
-034,Salgueiro / PE,América / RN
-035,ASA / AL,Ríver / PI
-036,Mogi Mirim / SP,Tombense / MG
-037,Portuguesa / SP,Botafogo / SP
-038,Boa / MG,Juventude / RS
-039,Guarani / SP,Macaé / RJ
-040,Ypiranga / RS,Guaratinguetá / SP
-041,América / RN,ASA / AL
-042,Cuiabá / MT,Salgueiro / PE
-043,Fortaleza / CE,ABC / RN
-044,Botafogo / PB,Ríver / PI
-045,Confiança / SE,Remo / PA
-046,Botafogo / SP,Guaratinguetá / SP
-047,Macaé / RJ,Mogi Mirim / SP
-048,Tombense / MG,Ypiranga / RS
-049,Guarani / SP,Boa / MG
-050,Juventude / RS,Portuguesa / SP
-051,América / RN,Botafogo / PB
-052,Remo / PA,ABC / RN
-053,Ríver / PI,Confiança / SE
-054,Salgueiro / PE,Fortaleza / CE
-055,ASA / AL,Cuiabá / MT
-056,Botafogo / SP,Juventude / RS
-057,Portuguesa / SP,Guarani / SP
-058,Boa / MG,Mogi Mirim / SP
-059,Guaratinguetá / SP,Tombense / MG
-060,Ypiranga / RS,Macaé / RJ
-061,ABC / RN,Ríver / PI
-062,Cuiabá / MT,América / RN
-063,Fortaleza / CE,ASA / AL
-064,Salgueiro / PE,Remo / PA
-065,Confiança / SE,Botafogo / PB
-066,Mogi Mirim / SP,Ypiranga / RS
-067,Macaé / RJ,Guaratinguetá / SP
-068,Boa / MG,Portuguesa / SP
-069,Guarani / SP,Botafogo / SP
-070,Juventude / RS,Tombense / MG
-071,ABC / RN,Cuiabá / MT
-072,Remo / PA,Fortaleza / CE
-073,Ríver / PI,Salgueiro / PE
-074,Botafogo / PB,ASA / AL
-075,Confiança / SE,América / RN
-076,Mogi Mirim / SP,Guarani / SP
-077,Macaé / RJ,Juventude / RS
-078,Tombense / MG,Botafogo / SP
-079,Guaratinguetá / SP,Portuguesa / SP
-080,Ypiranga / RS,Boa / MG
-081,América / RN,Remo / PA
-082,Cuiabá / MT,Ríver / PI
-083,Fortaleza / CE,Botafogo / PB
-084,Salgueiro / PE,Confiança / SE
-085,ASA / AL,ABC / RN
-086,Botafogo / SP,Macaé / RJ
-087,Portuguesa / SP,Tombense / MG
-088,Boa / MG,Guaratinguetá / SP
-089,Guarani / SP,Ypiranga / RS
-090,Juventude / RS,Mogi Mirim / SP
-091,ABC / RN,América / RN
-092,Remo / PA,Cuiabá / MT
-093,Ríver / PI,Fortaleza / CE
-094,Botafogo / PB,Salgueiro / PE
-095,Confiança / SE,ASA / AL
-096,Mogi Mirim / SP,Botafogo / SP
-097,Macaé / RJ,Portuguesa / SP
-098,Tombense / MG,Boa / MG
-099,Guaratinguetá / SP,Guarani / SP
-100,Ypiranga / RS,Juventude / RS
-101,América / RN,Ríver / PI
-102,Cuiabá / MT,Botafogo / PB
-103,Fortaleza / CE,Confiança / SE
-104,Salgueiro / PE,ABC / RN
-105,ASA / AL,Remo / PA
-106,Botafogo / SP,Ypiranga / RS
-107,Portuguesa / SP,Mogi Mirim / SP
-108,Boa / MG,Macaé / RJ
-109,Guarani / SP,Tombense / MG
-110,Juventude / RS,Guaratinguetá / SP
-111,ABC / RN,Botafogo / PB
-112,Remo / PA,Ríver / PI
-113,Fortaleza / CE,América / RN
-114,Salgueiro / PE,ASA / AL
-115,Confiança / SE,Cuiabá / MT
-116,Mogi Mirim / SP,Guaratinguetá / SP
-117,Macaé / RJ,Tombense / MG
-118,Boa / MG,Botafogo / SP
-119,Guarani / SP,Juventude / RS
-120,Ypiranga / RS,Portuguesa / SP
-121,América / RN,Salgueiro / PE
-122,Cuiabá / MT,Fortaleza / CE
-123,Ríver / PI,ASA / AL
-124,Botafogo / PB,Remo / PA
-125,Confiança / SE,ABC / RN
-126,Botafogo / SP,Portuguesa / SP
-127,Macaé / RJ,Guarani / SP
-128,Tombense / MG,Mogi Mirim / SP
-129,Guaratinguetá / SP,Ypiranga / RS
-130,Juventude / RS,Boa / MG
-131,ABC / RN,Fortaleza / CE
-132,Remo / PA,Confiança / SE
-133,Ríver / PI,Botafogo / PB
-134,Salgueiro / PE,Cuiabá / MT
-135,ASA / AL,América / RN
-136,Mogi Mirim / SP,Macaé / RJ
-137,Portuguesa / SP,Juventude / RS
-138,Boa / MG,Guarani / SP
-139,Guaratinguetá / SP,Botafogo / SP
-140,Ypiranga / RS,Tombense / MG
-141,ABC / RN,Remo / PA
-142,Cuiabá / MT,ASA / AL
-143,Fortaleza / CE,Salgueiro / PE
-144,Botafogo / PB,América / RN
-145,Confiança / SE,Ríver / PI
-146,Mogi Mirim / SP,Boa / MG
-147,Macaé / RJ,Ypiranga / RS
-148,Tombense / MG,Guaratinguetá / SP
-149,Guarani / SP,Portuguesa / SP
-150,Juventude / RS,Botafogo / SP
-151,América / RN,Cuiabá / MT
-152,Remo / PA,Salgueiro / PE
-153,Ríver / PI,ABC / RN
-154,Botafogo / PB,Confiança / SE
-155,ASA / AL,Fortaleza / CE
-156,Botafogo / SP,Guarani / SP
-157,Portuguesa / SP,Boa / MG
-158,Tombense / MG,Juventude / RS
-159,Guaratinguetá / SP,Macaé / RJ
-160,Ypiranga / RS,Mogi Mirim / SP
-161,América / RN,Confiança / SE
-162,Cuiabá / MT,ABC / RN
-163,Fortaleza / CE,Remo / PA
-164,Salgueiro / PE,Ríver / PI
-165,ASA / AL,Botafogo / PB
-166,Botafogo / SP,Tombense / MG
-167,Portuguesa / SP,Guaratinguetá / SP
-168,Boa / MG,Ypiranga / RS
-169,Guarani / SP,Mogi Mirim / SP
-170,Juventude / RS,Macaé / RJ
-171,ABC / RN,ASA / AL
-172,Remo / PA,América / RN
-173,Ríver / PI,Cuiabá / MT
-174,Botafogo / PB,Fortaleza / CE
-175,Confiança / SE,Salgueiro / PE
-176,Mogi Mirim / SP,Juventude / RS
-177,Macaé / RJ,Botafogo / SP
-178,Tombense / MG,Portuguesa / SP
-179,Guaratinguetá / SP,Boa / MG
-180,Ypiranga / RS,Guarani / SP
-181,Juventude / RS,Fortaleza / CE
-182,Botafogo / PB,Boa / MG
-183,Botafogo / SP,ABC / RN
-184,ASA / AL,Guarani / SP
-185,Fortaleza / CE,Juventude / RS
-186,Boa / MG,Botafogo / PB
-187,ABC / RN,Botafogo / SP
-188,Guarani / SP,ASA / AL
-189,Juventude / RS,Boa / MG
-190,Boa / MG,Juventude / RS
-191,ABC / RN,Guarani / SP
-192,Guarani / SP,ABC / RN
-193,Guarani / SP,Boa / MG
-194,Boa / MG,Guarani / SP
+Game,Home,Away,Date,Time,Stadium
+001,América / RN,ABC / RN,22/05/2016,19:00,Arena das Dunas  / Natal
+002,Cuiabá / MT,Remo / PA,21/05/2016,19:00,Arena Pantanal / Cuiabá
+003,Fortaleza / CE,Ríver / PI,23/05/2016,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+004,Salgueiro / PE,Botafogo / PB,25/05/2016,20:30,Cornélio de Barros Muniz / Salgueiro
+005,ASA / AL,Confiança / SE,22/05/2016,16:00,Coaracy da Mata Fonseca / Arapiraca
+006,Botafogo / SP,Mogi Mirim / SP,22/05/2016,19:00,Santa Cruz / Ribeirão Preto
+007,Portuguesa / SP,Macaé / RJ,23/05/2016,15:00,Oswaldo Teixeira Duarte / São Paulo
+008,Boa / MG,Tombense / MG,22/05/2016,16:00,Dilzon Luís de Melo / Varginha
+009,Guarani / SP,Guaratinguetá / SP,22/05/2016,11:00,Brinco de Ouro da Princesa / Campinas
+010,Juventude / RS,Ypiranga / RS,23/05/2016,20:30,Arena do Grêmio / Porto Alegre
+011,ABC / RN,Salgueiro / PE,28/05/2016,20:00,Maria Lamas Farache / Natal
+012,Remo / PA,ASA / AL,30/05/2016,20:00,Olímpico do Pará / Belém
+013,Ríver / PI,América / RN,29/05/2016,16:00,Governador Alberto Silva / Teresina
+014,Botafogo / PB,Cuiabá / MT,28/05/2016,19:00,José Américo de Almeida Filho  / Joao Pessoa
+015,Confiança / SE,Fortaleza / CE,29/05/2016,19:00,Lourival Baptista / Aracaju
+016,Mogi Mirim / SP,Portuguesa / SP,29/05/2016,11:00,Romildo Vitor Gomes Ferreira / Mogi Mirim
+017,Macaé / RJ,Boa / MG,28/05/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+018,Tombense / MG,Guarani / SP,28/05/2016,15:30,Antônio Guimarães de Almeida / Tombos
+019,Guaratinguetá / SP,Juventude / RS,29/05/2016,11:00,Comendador Agostinho Prada / Limeira
+020,Ypiranga / RS,Botafogo / SP,29/05/2016,16:00,Colosso da Lagoa / Erechim
+021,América / RN,Fortaleza / CE,06/06/2016,20:00,Arena das Dunas  / Natal
+022,Cuiabá / MT,Confiança / SE,05/06/2016,17:00,Arena Pantanal / Cuiabá
+023,Ríver / PI,Remo / PA,05/06/2016,19:00,Governador Alberto Silva / Teresina
+024,Botafogo / PB,ABC / RN,05/06/2016,16:00,José Américo de Almeida Filho  / Joao Pessoa
+025,ASA / AL,Salgueiro / PE,05/06/2016,16:00,Coaracy da Mata Fonseca / Arapiraca
+026,Botafogo / SP,Boa / MG,05/06/2016,16:00,Santa Cruz / Ribeirão Preto
+027,Portuguesa / SP,Ypiranga / RS,04/06/2016,16:00,Oswaldo Teixeira Duarte / São Paulo
+028,Tombense / MG,Macaé / RJ,04/06/2016,15:30,Antônio Guimarães de Almeida / Tombos
+029,Guaratinguetá / SP,Mogi Mirim / SP,05/06/2016,11:00,Comendador Agostinho Prada / Limeira
+030,Juventude / RS,Guarani / SP,04/06/2016,19:00,Alfredo Jaconi / Caxias do Sul
+031,ABC / RN,Confiança / SE,11/06/2016,19:00,Maria Lamas Farache / Natal
+032,Remo / PA,Botafogo / PB,11/06/2016,18:00,Olímpico do Pará / Belém
+033,Fortaleza / CE,Cuiabá / MT,12/06/2016,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+034,Salgueiro / PE,América / RN,12/06/2016,19:00,Cornélio de Barros Muniz / Salgueiro
+035,ASA / AL,Ríver / PI,12/06/2016,16:00,Coaracy da Mata Fonseca / Arapiraca
+036,Mogi Mirim / SP,Tombense / MG,11/06/2016,15:30,Romildo Vitor Gomes Ferreira / Mogi Mirim
+037,Portuguesa / SP,Botafogo / SP,12/06/2016,11:00,Oswaldo Teixeira Duarte / São Paulo
+038,Boa / MG,Juventude / RS,13/06/2016,19:00,Dilzon Luís de Melo / Varginha
+039,Guarani / SP,Macaé / RJ,12/06/2016,16:00,Brinco de Ouro da Princesa / Campinas
+040,Ypiranga / RS,Guaratinguetá / SP,12/06/2016,15:00,Colosso da Lagoa / Erechim
+041,América / RN,ASA / AL,19/06/2016,16:00,Arena das Dunas  / Natal
+042,Cuiabá / MT,Salgueiro / PE,19/06/2016,17:00,Arena Pantanal / Cuiabá
+043,Fortaleza / CE,ABC / RN,18/06/2016,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+044,Botafogo / PB,Ríver / PI,19/06/2016,16:00,José Américo de Almeida Filho  / Joao Pessoa
+045,Confiança / SE,Remo / PA,19/06/2016,19:00,Lourival Baptista / Aracaju
+046,Botafogo / SP,Guaratinguetá / SP,20/06/2016,20:00,Santa Cruz / Ribeirão Preto
+047,Macaé / RJ,Mogi Mirim / SP,18/06/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+048,Tombense / MG,Ypiranga / RS,18/06/2016,15:30,Antônio Guimarães de Almeida / Tombos
+049,Guarani / SP,Boa / MG,19/06/2016,11:00,Brinco de Ouro da Princesa / Campinas
+050,Juventude / RS,Portuguesa / SP,18/06/2016,19:00,Alfredo Jaconi / Caxias do Sul
+051,América / RN,Botafogo / PB,25/06/2016,19:00,Arena das Dunas  / Natal
+052,Remo / PA,ABC / RN,25/06/2016,18:00,Olímpico do Pará / Belém
+053,Ríver / PI,Confiança / SE,26/06/2016,16:00,Governador Alberto Silva / Teresina
+054,Salgueiro / PE,Fortaleza / CE,26/06/2016,19:00,Cornélio de Barros Muniz / Salgueiro
+055,ASA / AL,Cuiabá / MT,26/06/2016,16:00,Coaracy da Mata Fonseca / Arapiraca
+056,Botafogo / SP,Juventude / RS,26/06/2016,11:00,Santa Cruz / Ribeirão Preto
+057,Portuguesa / SP,Guarani / SP,27/06/2016,20:00,Oswaldo Teixeira Duarte / São Paulo
+058,Boa / MG,Mogi Mirim / SP,26/06/2016,16:00,Dilzon Luís de Melo / Varginha
+059,Guaratinguetá / SP,Tombense / MG,26/06/2016,11:00,Comendador Agostinho Prada / Limeira
+060,Ypiranga / RS,Macaé / RJ,26/06/2016,15:00,Colosso da Lagoa / Erechim
+061,ABC / RN,Ríver / PI,02/07/2016,19:00,Maria Lamas Farache / Natal
+062,Cuiabá / MT,América / RN,03/07/2016,19:00,Arena Pantanal / Cuiabá
+063,Fortaleza / CE,ASA / AL,03/07/2016,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+064,Salgueiro / PE,Remo / PA,04/07/2016,19:15,Cornélio de Barros Muniz / Salgueiro
+065,Confiança / SE,Botafogo / PB,03/07/2016,16:00,Lourival Baptista / Aracaju
+066,Mogi Mirim / SP,Ypiranga / RS,02/07/2016,15:30,Romildo Vitor Gomes Ferreira / Mogi Mirim
+067,Macaé / RJ,Guaratinguetá / SP,02/07/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+068,Boa / MG,Portuguesa / SP,03/07/2016,11:00,Dilzon Luís de Melo / Varginha
+069,Guarani / SP,Botafogo / SP,02/07/2016,19:00,Brinco de Ouro da Princesa / Campinas
+070,Juventude / RS,Tombense / MG,03/07/2016,16:00,Alfredo Jaconi / Caxias do Sul
+071,ABC / RN,Cuiabá / MT,10/07/2016,16:00,Maria Lamas Farache / Natal
+072,Remo / PA,Fortaleza / CE,10/07/2016,18:30,Olímpico do Pará / Belém
+073,Ríver / PI,Salgueiro / PE,10/07/2016,16:00,Governador Alberto Silva / Teresina
+074,Botafogo / PB,ASA / AL,10/07/2016,16:00,José Américo de Almeida Filho  / Joao Pessoa
+075,Confiança / SE,América / RN,10/07/2016,19:00,Lourival Baptista / Aracaju
+076,Mogi Mirim / SP,Guarani / SP,11/07/2016,19:15,Romildo Vitor Gomes Ferreira / Mogi Mirim
+077,Macaé / RJ,Juventude / RS,09/07/2016,19:00,Cláudio Moacyr Azevedo / Macaé
+078,Tombense / MG,Botafogo / SP,10/07/2016,11:00,Antônio Guimarães de Almeida / Tombos
+079,Guaratinguetá / SP,Portuguesa / SP,09/07/2016,19:00,Comendador Agostinho Prada / Limeira
+080,Ypiranga / RS,Boa / MG,10/07/2016,15:00,Colosso da Lagoa / Erechim
+081,América / RN,Remo / PA,16/07/2016,16:00,Arena das Dunas  / Natal
+082,Cuiabá / MT,Ríver / PI,17/07/2016,16:00,Arena Pantanal / Cuiabá
+083,Fortaleza / CE,Botafogo / PB,17/07/2016,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+084,Salgueiro / PE,Confiança / SE,17/07/2016,16:00,Cornélio de Barros Muniz / Salgueiro
+085,ASA / AL,ABC / RN,16/07/2016,19:00,Coaracy da Mata Fonseca / Arapiraca
+086,Botafogo / SP,Macaé / RJ,17/07/2016,16:00,Santa Cruz / Ribeirão Preto
+087,Portuguesa / SP,Tombense / MG,18/07/2016,19:15,Oswaldo Teixeira Duarte / São Paulo
+088,Boa / MG,Guaratinguetá / SP,16/07/2016,16:00,Dilzon Luís de Melo / Varginha
+089,Guarani / SP,Ypiranga / RS,17/07/2016,11:30,Brinco de Ouro da Princesa / Campinas
+090,Juventude / RS,Mogi Mirim / SP,17/07/2016,15:30,Alfredo Jaconi / Caxias do Sul
+091,ABC / RN,América / RN,23/07/2016,19:00,Maria Lamas Farache / Natal
+092,Remo / PA,Cuiabá / MT,25/07/2016,19:15,Olímpico do Pará / Belém
+093,Ríver / PI,Fortaleza / CE,23/07/2016,16:00,Governador Alberto Silva / Teresina
+094,Botafogo / PB,Salgueiro / PE,24/07/2016,19:00,José Américo de Almeida Filho  / Joao Pessoa
+095,Confiança / SE,ASA / AL,24/07/2016,16:00,Lourival Baptista / Aracaju
+096,Mogi Mirim / SP,Botafogo / SP,23/07/2016,15:30,Romildo Vitor Gomes Ferreira / Mogi Mirim
+097,Macaé / RJ,Portuguesa / SP,23/07/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+098,Tombense / MG,Boa / MG,24/07/2016,11:00,Antônio Guimarães de Almeida / Tombos
+099,Guaratinguetá / SP,Guarani / SP,24/07/2016,16:00,Comendador Agostinho Prada / Limeira
+100,Ypiranga / RS,Juventude / RS,24/07/2016,11:30,Colosso da Lagoa / Erechim
+101,América / RN,Ríver / PI,31/07/2016,16:00,José Nazareno do Nascimento / Goianinha
+102,Cuiabá / MT,Botafogo / PB,31/07/2016,16:00,Arena Pantanal / Cuiabá
+103,Fortaleza / CE,Confiança / SE,31/07/2016,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+104,Salgueiro / PE,ABC / RN,01/08/2016,19:15,Cornélio de Barros Muniz / Salgueiro
+105,ASA / AL,Remo / PA,30/07/2016,20:30,Coaracy da Mata Fonseca / Arapiraca
+106,Botafogo / SP,Ypiranga / RS,31/07/2016,19:00,Santa Cruz / Ribeirão Preto
+107,Portuguesa / SP,Mogi Mirim / SP,30/07/2016,19:00,Oswaldo Teixeira Duarte / São Paulo
+108,Boa / MG,Macaé / RJ,31/07/2016,11:00,Dilzon Luís de Melo / Varginha
+109,Guarani / SP,Tombense / MG,31/07/2016,11:30,Brinco de Ouro da Princesa / Campinas
+110,Juventude / RS,Guaratinguetá / SP,31/07/2016,16:00,Alfredo Jaconi / Caxias do Sul
+111,ABC / RN,Botafogo / PB,07/08/2016,16:00,Maria Lamas Farache / Natal
+112,Remo / PA,Ríver / PI,06/08/2016,19:00,Olímpico do Pará / Belém
+113,Fortaleza / CE,América / RN,07/08/2016,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+114,Salgueiro / PE,ASA / AL,07/08/2016,16:00,Cornélio de Barros Muniz / Salgueiro
+115,Confiança / SE,Cuiabá / MT,07/08/2016,16:00,Lourival Baptista / Aracaju
+116,Mogi Mirim / SP,Guaratinguetá / SP,06/08/2016,15:30,Romildo Vitor Gomes Ferreira / Mogi Mirim
+117,Macaé / RJ,Tombense / MG,06/08/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+118,Boa / MG,Botafogo / SP,07/08/2016,11:00,Dilzon Luís de Melo / Varginha
+119,Guarani / SP,Juventude / RS,08/08/2016,19:15,Brinco de Ouro da Princesa / Campinas
+120,Ypiranga / RS,Portuguesa / SP,07/08/2016,11:00,Colosso da Lagoa / Erechim
+121,América / RN,Salgueiro / PE,13/08/2016,16:00,Arena das Dunas  / Natal
+122,Cuiabá / MT,Fortaleza / CE,14/08/2016,19:00,Arena Pantanal / Cuiabá
+123,Ríver / PI,ASA / AL,14/08/2016,16:00,Governador Alberto Silva / Teresina
+124,Botafogo / PB,Remo / PA,13/08/2016,18:00,José Américo de Almeida Filho  / Joao Pessoa
+125,Confiança / SE,ABC / RN,14/08/2016,16:00,Lourival Baptista / Aracaju
+126,Botafogo / SP,Portuguesa / SP,15/08/2016,19:15,Santa Cruz / Ribeirão Preto
+127,Macaé / RJ,Guarani / SP,13/08/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+128,Tombense / MG,Mogi Mirim / SP,14/08/2016,11:00,Antônio Guimarães de Almeida / Tombos
+129,Guaratinguetá / SP,Ypiranga / RS,14/08/2016,11:00,Nicolau Alayon / São Paulo
+130,Juventude / RS,Boa / MG,14/08/2016,11:00,Alfredo Jaconi / Caxias do Sul
+131,ABC / RN,Fortaleza / CE,20/08/2016,20:00,Maria Lamas Farache / Natal
+132,Remo / PA,Confiança / SE,22/08/2016,19:15,Olímpico do Pará / Belém
+133,Ríver / PI,Botafogo / PB,20/08/2016,16:00,Governador Alberto Silva / Teresina
+134,Salgueiro / PE,Cuiabá / MT,21/08/2016,16:00,Cornélio de Barros Muniz / Salgueiro
+135,ASA / AL,América / RN,21/08/2016,19:00,Coaracy da Mata Fonseca / Arapiraca
+136,Mogi Mirim / SP,Macaé / RJ,20/08/2016,15:30,Romildo Vitor Gomes Ferreira / Mogi Mirim
+137,Portuguesa / SP,Juventude / RS,20/08/2016,15:00,Oswaldo Teixeira Duarte / São Paulo
+138,Boa / MG,Guarani / SP,21/08/2016,19:30,Dilzon Luís de Melo / Varginha
+139,Guaratinguetá / SP,Botafogo / SP,21/08/2016,11:00,Frederico Dalmaso / Sertaozinho
+140,Ypiranga / RS,Tombense / MG,21/08/2016,15:00,Colosso da Lagoa / Erechim
+141,ABC / RN,Remo / PA,29/08/2016,19:15,Maria Lamas Farache / Natal
+142,Cuiabá / MT,ASA / AL,28/08/2016,16:00,Arena Pantanal / Cuiabá
+143,Fortaleza / CE,Salgueiro / PE,27/08/2016,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+144,Botafogo / PB,América / RN,27/08/2016,19:00,José Américo de Almeida Filho  / Joao Pessoa
+145,Confiança / SE,Ríver / PI,28/08/2016,16:00,Lourival Baptista / Aracaju
+146,Mogi Mirim / SP,Boa / MG,27/08/2016,15:30,Romildo Vitor Gomes Ferreira / Mogi Mirim
+147,Macaé / RJ,Ypiranga / RS,27/08/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+148,Tombense / MG,Guaratinguetá / SP,28/08/2016,11:00,Antônio Guimarães de Almeida / Tombos
+149,Guarani / SP,Portuguesa / SP,28/08/2016,19:30,Brinco de Ouro da Princesa / Campinas
+150,Juventude / RS,Botafogo / SP,28/08/2016,19:00,Alfredo Jaconi / Caxias do Sul
+151,América / RN,Cuiabá / MT,04/09/2016,16:00,Arena das Dunas  / Natal
+152,Remo / PA,Salgueiro / PE,04/09/2016,18:30,Olímpico do Pará / Belém
+153,Ríver / PI,ABC / RN,05/09/2016,19:15,Lindolfo Monteiro / Teresina
+154,Botafogo / PB,Confiança / SE,04/09/2016,16:00,José Américo de Almeida Filho  / Joao Pessoa
+155,ASA / AL,Fortaleza / CE,04/09/2016,16:00,Coaracy da Mata Fonseca / Arapiraca
+156,Botafogo / SP,Guarani / SP,05/09/2016,19:15,Santa Cruz / Ribeirão Preto
+157,Portuguesa / SP,Boa / MG,04/09/2016,11:00,Oswaldo Teixeira Duarte / São Paulo
+158,Tombense / MG,Juventude / RS,03/09/2016,15:00,Antônio Guimarães de Almeida / Tombos
+159,Guaratinguetá / SP,Macaé / RJ,04/09/2016,11:00,Frederico Dalmaso / Sertaozinho
+160,Ypiranga / RS,Mogi Mirim / SP,04/09/2016,15:00,Colosso da Lagoa / Erechim
+161,América / RN,Confiança / SE,10/09/2016,19:00,Arena das Dunas  / Natal
+162,Cuiabá / MT,ABC / RN,11/09/2016,16:00,Arena Pantanal / Cuiabá
+163,Fortaleza / CE,Remo / PA,10/09/2016,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+164,Salgueiro / PE,Ríver / PI,11/09/2016,16:00,Cornélio de Barros Muniz / Salgueiro
+165,ASA / AL,Botafogo / PB,11/09/2016,16:00,Coaracy da Mata Fonseca / Arapiraca
+166,Botafogo / SP,Tombense / MG,10/09/2016,19:00,Santa Cruz / Ribeirão Preto
+167,Portuguesa / SP,Guaratinguetá / SP,11/09/2016,19:30,José Liberatti / Osasco
+168,Boa / MG,Ypiranga / RS,11/09/2016,11:00,Dilzon Luís de Melo / Varginha
+169,Guarani / SP,Mogi Mirim / SP,12/09/2016,19:15,Brinco de Ouro da Princesa / Campinas
+170,Juventude / RS,Macaé / RJ,11/09/2016,11:30,Alfredo Jaconi / Caxias do Sul
+171,ABC / RN,ASA / AL,18/09/2016,19:00,Maria Lamas Farache / Natal
+172,Remo / PA,América / RN,18/09/2016,19:00,Olímpico do Pará / Belém
+173,Ríver / PI,Cuiabá / MT,18/09/2016,19:00,Lindolfo Monteiro / Teresina
+174,Botafogo / PB,Fortaleza / CE,18/09/2016,19:00,José Américo de Almeida Filho  / Joao Pessoa
+175,Confiança / SE,Salgueiro / PE,18/09/2016,19:00,Lourival Baptista / Aracaju
+176,Mogi Mirim / SP,Juventude / RS,18/09/2016,16:00,Romildo Vitor Gomes Ferreira / Mogi Mirim
+177,Macaé / RJ,Botafogo / SP,18/09/2016,16:00,Cláudio Moacyr Azevedo / Macaé
+178,Tombense / MG,Portuguesa / SP,18/09/2016,16:00,Antônio Guimarães de Almeida / Tombos
+179,Guaratinguetá / SP,Boa / MG,18/09/2016,16:00,Frederico Dalmaso / Sertaozinho
+180,Ypiranga / RS,Guarani / SP,18/09/2016,16:00,Colosso da Lagoa / Erechim
+181,Juventude / RS,Fortaleza / CE,03/10/2016,19:15,Alfredo Jaconi / Caxias do Sul
+182,Botafogo / PB,Boa / MG,30/09/2016,21:00,José Américo de Almeida Filho  / Joao Pessoa
+183,Botafogo / SP,ABC / RN,30/09/2016,19:00,Santa Cruz / Ribeirão Preto
+184,ASA / AL,Guarani / SP,01/10/2016,19:00,Coaracy da Mata Fonseca / Arapiraca
+185,Fortaleza / CE,Juventude / RS,09/10/2016,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+186,Boa / MG,Botafogo / PB,09/10/2016,11:00,Dilzon Luís de Melo / Varginha
+187,ABC / RN,Botafogo / SP,07/10/2016,19:00,Maria Lamas Farache / Natal
+188,Guarani / SP,ASA / AL,08/10/2016,18:30,Brinco de Ouro da Princesa / Campinas
+189,Juventude / RS,Boa / MG,15/10/2016,18:30,Alfredo Jaconi / Caxias do Sul
+190,Boa / MG,Juventude / RS,22/10/2016,21:00,Dilzon Luís de Melo / Varginha
+191,ABC / RN,Guarani / SP,16/10/2016,21:00,Maria Lamas Farache / Natal
+192,Guarani / SP,ABC / RN,23/10/2016,21:00,Brinco de Ouro da Princesa / Campinas
+193,Guarani / SP,Boa / MG,29/10/2016,19:15,Brinco de Ouro da Princesa / Campinas
+194,Boa / MG,Guarani / SP,05/11/2016,18:45,Dilzon Luís de Melo / Varginha

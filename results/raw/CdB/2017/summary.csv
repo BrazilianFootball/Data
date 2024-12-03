@@ -1,121 +1,121 @@
-Game,Home,Away
-001,Vitória da Conquista / BA,Coritiba / PR
-002,Campinense / PB,Ponte Preta / SP
-003,Luziânia / DF,Vitória / BA
-004,Ferroviária / SP,ASA / AL
-005,São Bento / SP,Paraná / PR
-006,PSTC / PR,Ypiranga / RS
-007,Audax / SP,América / RN
-008,7 de Setembro / MS,Ríver / PI
-009,Gurupi / TO,Londrina / PR
-010,S. Francisco / PA,Botafogo / PB
-011,Sinop / MT,Salgueiro / PE
-012,Altos / PI,CRB / AL
-013,Rondoniense / RO,Cuiabá / MT
-014,São Raimundo / RR,Boa / MG
-015,CSA / AL,Sport / PE
-016,Caldense / MG,Corinthians / SP
-017,Atlético / AC,América / MG
-018,São José / RS,Sampaio Corrêa / MA
-019,Santos / AP,Vasco da Gama / RJ
-020,Moto Club / MA,São Paulo / SP
-021,Desportiva / ES,Avaí / SC
-022,Boavista / RJ,Ceará / CE
-023,Friburguense / RJ,Oeste / SP
-024,Brusque / SC,Remo / PA
-025,URT / MG,Luverdense / MT
-026,Anápolis / GO,Red Bull Bragantino / SP
-027,Ceilândia / DF,ABC / RN
-028,Uniclinic / CE,Portuguesa / SP
-029,Comercial / MS,Joinville / SC
-030,São Raimundo / PA,Fortaleza / CE
-031,Murici / AL,Juventude / RS
-032,Guarani / CE,Náutico / PE
-033,Volta Redonda / RJ,Cruzeiro / MG
-034,Globo / RN,Fluminense / RJ
-035,Princesa do Solimões / AM,Internacional / RS
-036,Itabaiana / SE,Goiás / GO
-037,Rio Branco / AC,Figueirense / SC
-038,Santo André / SP,Criciúma / SC
-039,Sergipe / SE,Bahia / BA
-040,Fast Clube / AM,Vila Nova / GO
-041,Murici / AL,América / MG
-042,Portuguesa / SP,Boavista / RJ
-043,Sinop / MT,Fluminense / RJ
-044,Criciúma / SC,Altos / PI
-045,Vitória / BA,Red Bull Bragantino / SP
-046,Sport / PE,7 de Setembro / MS
-047,Cruzeiro / MG,S. Francisco / PA
-048,Internacional / RS,Oeste / SP
-049,Coritiba / PR,ASA / AL
-050,Paraná / PR,Bahia / BA
-051,Sampaio Corrêa / MA,Guarani / CE
-052,Joinville / SC,São Raimundo / PA
-053,Avaí / SC,Luverdense / MT
-054,Ponte Preta / SP,Cuiabá / MT
-055,PSTC / PR,São Paulo / SP
-056,ABC / RN,Audax / SP
-057,Gurupi / TO,Rio Branco / AC
-058,Brusque / SC,Corinthians / SP
-059,Boa / MG,Goiás / GO
-060,Vila Nova / GO,Vasco da Gama / RJ
-061,Goiás / GO,Cuiabá / MT
-062,São Paulo / SP,ABC / RN
-063,Joinville / SC,Gurupi / TO
-064,Boavista / RJ,Sport / PE
-065,Murici / AL,Cruzeiro / MG
-066,Sampaio Corrêa / MA,Internacional / RS
-067,Vasco da Gama / RJ,Vitória / BA
-068,Criciúma / SC,Fluminense / RJ
-069,Luverdense / MT,Corinthians / SP
-070,ASA / AL,Paraná / PR
-071,Fluminense / RJ,Criciúma / SC
-072,Vitória / BA,Vasco da Gama / RJ
-073,ABC / RN,São Paulo / SP
-074,Gurupi / TO,Joinville / SC
-075,Cruzeiro / MG,Murici / AL
-076,Sport / PE,Boavista / RJ
-077,Internacional / RS,Sampaio Corrêa / MA
-078,Corinthians / SP,Luverdense / MT
-079,Cuiabá / MT,Goiás / GO
-080,Paraná / PR,ASA / AL
-081,Sport / PE,Joinville / SC
-082,Internacional / RS,Corinthians / SP
-083,Vitória / BA,Paraná / PR
-084,Goiás / GO,Fluminense / RJ
-085,São Paulo / SP,Cruzeiro / MG
-086,Paraná / PR,Vitória / BA
-087,Cruzeiro / MG,São Paulo / SP
-088,Joinville / SC,Sport / PE
-089,Fluminense / RJ,Goiás / GO
-090,Corinthians / SP,Internacional / RS
-091,Santos / SP,Paysandu / PA
-092,Botafogo / RJ,Sport / PE
-093,Cruzeiro / MG,Chapecoense / SC
-094,Flamengo / RJ,Atlético / GO
-095,Santa Cruz / PE,Athletico Paranaense / PR
-096,Paraná / PR,Atlético Mineiro / MG
-097,Grêmio / RS,Fluminense / RJ
-098,Palmeiras / SP,Internacional / RS
-099,Paysandu / PA,Santos / SP
-100,Atlético / GO,Flamengo / RJ
-101,Atlético Mineiro / MG,Paraná / PR
-102,Athletico Paranaense / PR,Santa Cruz / PE
-103,Fluminense / RJ,Grêmio / RS
-104,Internacional / RS,Palmeiras / SP
-105,Sport / PE,Botafogo / RJ
-106,Chapecoense / SC,Cruzeiro / MG
-107,Grêmio / RS,Athletico Paranaense / PR
-108,Palmeiras / SP,Cruzeiro / MG
-109,Flamengo / RJ,Santos / SP
-110,Atlético Mineiro / MG,Botafogo / RJ
-111,Botafogo / RJ,Atlético Mineiro / MG
-112,Santos / SP,Flamengo / RJ
-113,Cruzeiro / MG,Palmeiras / SP
-114,Athletico Paranaense / PR,Grêmio / RS
-115,Botafogo / RJ,Flamengo / RJ
-116,Grêmio / RS,Cruzeiro / MG
-117,Flamengo / RJ,Botafogo / RJ
-118,Cruzeiro / MG,Grêmio / RS
-119,Flamengo / RJ,Cruzeiro / MG
-120,Cruzeiro / MG,Flamengo / RJ
+Game,Home,Away,Date,Time,Stadium
+001,Vitória da Conquista / BA,Coritiba / PR,08/02/2017,19:15,Lomanto Júnior / Vitoria da Conquista
+002,Campinense / PB,Ponte Preta / SP,08/02/2017,19:30,Ernani Sátyro / Campina Grande
+003,Luziânia / DF,Vitória / BA,08/02/2017,19:30,Zequinha Roriz / Luziania
+004,Ferroviária / SP,ASA / AL,08/02/2017,20:30,Ademar Pereira de Barros / Araraquara
+005,São Bento / SP,Paraná / PR,08/02/2017,20:30,Walter Ribeiro / Sorocaba
+006,PSTC / PR,Ypiranga / RS,08/02/2017,20:30,Ubirajara Medeiros / Cornelio Procopio
+007,Audax / SP,América / RN,08/02/2017,20:30,José Liberatti / Osasco
+008,7 de Setembro / MS,Ríver / PI,08/02/2017,21:30,Frédis Saldivar / Dourados
+009,Gurupi / TO,Londrina / PR,08/02/2017,21:30,Gilberto Resende Rocha / Gurupi
+010,S. Francisco / PA,Botafogo / PB,08/02/2017,21:30,Estadual de Santarém (Jader Barbalho) / Santarém
+011,Sinop / MT,Salgueiro / PE,16/02/2017,21:30,Massami Uriu / Sinop
+012,Altos / PI,CRB / AL,08/02/2017,21:30,Lindolfo Monteiro / Teresina
+013,Rondoniense / RO,Cuiabá / MT,08/02/2017,21:30,Aluizio Pinheiro Ferreira / Porto Velho
+014,São Raimundo / RR,Boa / MG,08/02/2017,21:30,Vila Olímpica Roberto Marinho / Boa Vista
+015,CSA / AL,Sport / PE,08/02/2017,22:30,Rei Pelé / Maceió
+016,Caldense / MG,Corinthians / SP,08/02/2017,21:45,Ronaldo Junqueira / Pocos de Caldas
+017,Atlético / AC,América / MG,08/02/2017,23:30,Arena da Floresta / Rio Branco
+018,São José / RS,Sampaio Corrêa / MA,09/02/2017,19:15,Estádio do Vale / Novo Hamburgo
+019,Santos / AP,Vasco da Gama / RJ,09/02/2017,21:00,Arena das Dunas  / Natal
+020,Moto Club / MA,São Paulo / SP,09/02/2017,21:30,Governador João Castelo / Sao Luis
+021,Desportiva / ES,Avaí / SC,15/02/2017,19:15,Alencar de Araripe / Cariacica
+022,Boavista / RJ,Ceará / CE,15/02/2017,16:00,Elcyr Resende de Mendonça / Saquarema
+023,Friburguense / RJ,Oeste / SP,15/02/2017,20:30,Eduardo Guinle / Nova Friburgo
+024,Brusque / SC,Remo / PA,16/02/2017,19:15,Augusto Bauer / Brusque
+025,URT / MG,Luverdense / MT,15/02/2017,20:30,Zama Maciel / Patos de Minas
+026,Anápolis / GO,Red Bull Bragantino / SP,15/02/2017,19:15,Jonas Ferreira Duarte / Anápolis
+027,Ceilândia / DF,ABC / RN,15/02/2017,16:00,Mª de Lourdes Abadia / Ceilândia
+028,Uniclinic / CE,Portuguesa / SP,15/02/2017,21:30,Horácio Domingos de Sousa / Horizonte
+029,Comercial / MS,Joinville / SC,15/02/2017,20:45,Estádio Pedro Pedrossian / Campo Grande
+030,São Raimundo / PA,Fortaleza / CE,15/02/2017,21:30,Estadual de Santarém (Jader Barbalho) / Santarém
+031,Murici / AL,Juventude / RS,08/02/2017,17:00,José Gomes da Costa / Murici
+032,Guarani / CE,Náutico / PE,15/02/2017,22:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+033,Volta Redonda / RJ,Cruzeiro / MG,15/02/2017,21:45,Sylvio Raulino de Oliveira / Volta Redonda
+034,Globo / RN,Fluminense / RJ,15/02/2017,21:45,Manoel Dantas Barretto / Ceara-Mirim
+035,Princesa do Solimões / AM,Internacional / RS,15/02/2017,21:45,Arnaldo Busatto / Cascavel
+036,Itabaiana / SE,Goiás / GO,15/02/2017,21:30,Etelvino Mendonça / Itabaiana
+037,Rio Branco / AC,Figueirense / SC,15/02/2017,23:30,Arena da Floresta / Rio Branco
+038,Santo André / SP,Criciúma / SC,16/02/2017,16:00,Bruno José Daniel / Santo André
+039,Sergipe / SE,Bahia / BA,16/02/2017,21:30,Lourival Baptista / Aracaju
+040,Fast Clube / AM,Vila Nova / GO,16/02/2017,22:30,Arena da Amazônia / Manaus
+041,Murici / AL,América / MG,22/02/2017,16:00,José Gomes da Costa / Murici
+042,Portuguesa / SP,Boavista / RJ,22/02/2017,19:30,Oswaldo Teixeira Duarte / São Paulo
+043,Sinop / MT,Fluminense / RJ,01/03/2017,19:30,Massami Uriu / Sinop
+044,Criciúma / SC,Altos / PI,22/02/2017,19:30,Heriberto Hulse / Criciuma
+045,Vitória / BA,Red Bull Bragantino / SP,22/02/2017,19:30,Manoel Barradas / Salvador
+046,Sport / PE,7 de Setembro / MS,22/02/2017,21:45,Aldemar da Costa Carvalho / Recife
+047,Cruzeiro / MG,S. Francisco / PA,22/02/2017,21:45,Magalhães Pinto  / Belo Horizonte
+048,Internacional / RS,Oeste / SP,22/02/2017,21:45,José Pinheiro Borda / Porto Alegre
+049,Coritiba / PR,ASA / AL,23/02/2017,21:30,Major Antônio Couto Pereira / Curitiba
+050,Paraná / PR,Bahia / BA,08/03/2017,19:30,Durival Britto e Silva / Curitiba
+051,Sampaio Corrêa / MA,Guarani / CE,01/03/2017,20:30,Governador João Castelo / Sao Luis
+052,Joinville / SC,São Raimundo / PA,01/03/2017,19:30,Arena Joinville / Joinville
+053,Avaí / SC,Luverdense / MT,01/03/2017,19:30,Aderbal Ramos da Silva / Florianópolis
+054,Ponte Preta / SP,Cuiabá / MT,02/03/2017,19:30,Moisés Lucarelli / Campinas
+055,PSTC / PR,São Paulo / SP,01/03/2017,19:30,Jacy Scaff / Londrina
+056,ABC / RN,Audax / SP,01/03/2017,19:30,Maria Lamas Farache / Natal
+057,Gurupi / TO,Rio Branco / AC,01/03/2017,20:30,Gilberto Resende Rocha / Gurupi
+058,Brusque / SC,Corinthians / SP,01/03/2017,21:45,Augusto Bauer / Brusque
+059,Boa / MG,Goiás / GO,01/03/2017,21:45,Dilzon Luís de Melo / Varginha
+060,Vila Nova / GO,Vasco da Gama / RJ,01/03/2017,21:45,Serra Dourada / Goiânia
+061,Goiás / GO,Cuiabá / MT,08/03/2017,19:30,Serra Dourada / Goiânia
+062,São Paulo / SP,ABC / RN,08/03/2017,19:30,Cícero Pompeu de Toledo / Sao Paulo
+063,Joinville / SC,Gurupi / TO,08/03/2017,20:30,Arena Joinville / Joinville
+064,Boavista / RJ,Sport / PE,08/03/2017,21:45,Elcyr Resende de Mendonça / Saquarema
+065,Murici / AL,Cruzeiro / MG,08/03/2017,21:45,José Gomes da Costa / Murici
+066,Sampaio Corrêa / MA,Internacional / RS,08/03/2017,21:45,Governador João Castelo / Sao Luis
+067,Vasco da Gama / RJ,Vitória / BA,09/03/2017,19:15,São Januário / Rio de Janeiro
+068,Criciúma / SC,Fluminense / RJ,09/03/2017,19:15,Heriberto Hulse / Criciuma
+069,Luverdense / MT,Corinthians / SP,09/03/2017,21:30,Arena Pantanal / Cuiabá
+070,ASA / AL,Paraná / PR,16/03/2017,21:30,Coaracy da Mata Fonseca / Arapiraca
+071,Fluminense / RJ,Criciúma / SC,15/03/2017,19:30,Giulite Coutinho / Mesquita
+072,Vitória / BA,Vasco da Gama / RJ,16/03/2017,19:30,Manoel Barradas / Salvador
+073,ABC / RN,São Paulo / SP,15/03/2017,19:30,Maria Lamas Farache / Natal
+074,Gurupi / TO,Joinville / SC,15/03/2017,20:30,Gilberto Resende Rocha / Gurupi
+075,Cruzeiro / MG,Murici / AL,15/03/2017,21:45,Magalhães Pinto  / Belo Horizonte
+076,Sport / PE,Boavista / RJ,15/03/2017,21:45,Aldemar da Costa Carvalho / Recife
+077,Internacional / RS,Sampaio Corrêa / MA,15/03/2017,21:45,José Pinheiro Borda / Porto Alegre
+078,Corinthians / SP,Luverdense / MT,16/03/2017,19:30,Arena Corinthians / Sao Paulo
+079,Cuiabá / MT,Goiás / GO,16/03/2017,21:30,Arena Pantanal / Cuiabá
+080,Paraná / PR,ASA / AL,05/04/2017,20:30,Durival Britto e Silva / Curitiba
+081,Sport / PE,Joinville / SC,12/04/2017,21:45,Aldemar da Costa Carvalho / Recife
+082,Internacional / RS,Corinthians / SP,12/04/2017,21:45,José Pinheiro Borda / Porto Alegre
+083,Vitória / BA,Paraná / PR,13/04/2017,19:15,Manoel Barradas / Salvador
+084,Goiás / GO,Fluminense / RJ,13/04/2017,21:30,Serra Dourada / Goiânia
+085,São Paulo / SP,Cruzeiro / MG,13/04/2017,21:30,Cícero Pompeu de Toledo / Sao Paulo
+086,Paraná / PR,Vitória / BA,19/04/2017,19:30,Durival Britto e Silva / Curitiba
+087,Cruzeiro / MG,São Paulo / SP,19/04/2017,19:30,Magalhães Pinto  / Belo Horizonte
+088,Joinville / SC,Sport / PE,19/04/2017,21:45,Arena Joinville / Joinville
+089,Fluminense / RJ,Goiás / GO,19/04/2017,21:45,Jornalista Mário Filho / Rio de Janeiro
+090,Corinthians / SP,Internacional / RS,19/04/2017,21:45,Arena Corinthians / Sao Paulo
+091,Santos / SP,Paysandu / PA,26/04/2017,19:30,Urbano Caldeira / Santos
+092,Botafogo / RJ,Sport / PE,26/04/2017,21:45,Estádio Olímpico João Havelange / Rio de Janeiro
+093,Cruzeiro / MG,Chapecoense / SC,03/05/2017,21:45,Magalhães Pinto  / Belo Horizonte
+094,Flamengo / RJ,Atlético / GO,10/05/2017,19:30,Jornalista Mário Filho / Rio de Janeiro
+095,Santa Cruz / PE,Athletico Paranaense / PR,10/05/2017,21:45,José do Rego Maciel / Recife
+096,Paraná / PR,Atlético Mineiro / MG,24/05/2017,21:45,Major Antônio Couto Pereira / Curitiba
+097,Grêmio / RS,Fluminense / RJ,17/05/2017,21:45,Arena do Grêmio / Porto Alegre
+098,Palmeiras / SP,Internacional / RS,17/05/2017,21:45,Parque Antártica / São Paulo
+099,Paysandu / PA,Santos / SP,10/05/2017,21:45,Olímpico do Pará / Belém
+100,Atlético / GO,Flamengo / RJ,24/05/2017,21:45,Serra Dourada / Goiânia
+101,Atlético Mineiro / MG,Paraná / PR,31/05/2017,21:45,Raimundo Sampaio / Belo Horizonte
+102,Athletico Paranaense / PR,Santa Cruz / PE,31/05/2017,19:30,Joaquim Américo Guimarães / Curitiba
+103,Fluminense / RJ,Grêmio / RS,31/05/2017,19:30,Jornalista Mário Filho / Rio de Janeiro
+104,Internacional / RS,Palmeiras / SP,31/05/2017,21:45,José Pinheiro Borda / Porto Alegre
+105,Sport / PE,Botafogo / RJ,31/05/2017,21:45,Aldemar da Costa Carvalho / Recife
+106,Chapecoense / SC,Cruzeiro / MG,01/06/2017,21:30,Índio Condá / Chapecó
+107,Grêmio / RS,Athletico Paranaense / PR,28/06/2017,19:30,Arena do Grêmio / Porto Alegre
+108,Palmeiras / SP,Cruzeiro / MG,28/06/2017,21:45,Parque Antártica / São Paulo
+109,Flamengo / RJ,Santos / SP,28/06/2017,21:45,Luso Brasileiro / Rio de Janeiro
+110,Atlético Mineiro / MG,Botafogo / RJ,29/06/2017,19:30,Raimundo Sampaio / Belo Horizonte
+111,Botafogo / RJ,Atlético Mineiro / MG,26/07/2017,19:30,Estádio Olímpico João Havelange / Rio de Janeiro
+112,Santos / SP,Flamengo / RJ,26/07/2017,21:45,Urbano Caldeira / Santos
+113,Cruzeiro / MG,Palmeiras / SP,26/07/2017,21:45,Magalhães Pinto / Belo Horizonte
+114,Athletico Paranaense / PR,Grêmio / RS,27/07/2017,21:45,Joaquim Américo Guimarães / Curitiba
+115,Botafogo / RJ,Flamengo / RJ,16/08/2017,21:45,Estádio Olímpico João Havelange / Rio de Janeiro
+116,Grêmio / RS,Cruzeiro / MG,16/08/2017,21:45,Arena do Grêmio / Porto Alegre
+117,Flamengo / RJ,Botafogo / RJ,23/08/2017,21:45,Jornalista Mário Filho / Rio de Janeiro
+118,Cruzeiro / MG,Grêmio / RS,23/08/2017,21:45,Magalhães Pinto / Belo Horizonte
+119,Flamengo / RJ,Cruzeiro / MG,07/09/2017,21:45,Jornalista Mário Filho / Rio de Janeiro
+120,Cruzeiro / MG,Flamengo / RJ,27/09/2017,21:45,Magalhães Pinto / Belo Horizonte

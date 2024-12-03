@@ -1,519 +1,519 @@
-Game,Home,Away
-001,Santana / AP,G.A.S. / RR
-002,Tocantinópolis / TO,Picos / PI
-003,Real Ariquemes / RO,Brasiliense / DF
-004,Aquidauanense / MS,Rio Branco / ES
-005,G.A.S. / RR,Santana / AP
-006,Picos / PI,Tocantinópolis / TO
-007,Brasiliense / DF,Real Ariquemes / RO
-008,Rio Branco / ES,Aquidauanense / MS
-009,G.A.S. / RR,Penarol / AM
-010,Fast Clube / AM,Ypiranga / AP
-011,Castanhal / PA,Galvez / AC
-012,Atlético / AC,São Raimundo / RR
-013,Galvez / AC,G.A.S. / RR
-014,Ypiranga / AP,Atlético / AC
-015,Penarol / AM,Castanhal / PA
-016,São Raimundo / RR,Fast Clube / AM
-017,G.A.S. / RR,Ypiranga / AP
-018,Castanhal / PA,São Raimundo / RR
-019,Fast Clube / AM,Penarol / AM
-020,Galvez / AC,Atlético / AC
-021,G.A.S. / RR,Castanhal / PA
-022,Ypiranga / AP,São Raimundo / RR
-023,Penarol / AM,Galvez / AC
-024,Atlético / AC,Fast Clube / AM
-025,São Raimundo / RR,G.A.S. / RR
-026,Castanhal / PA,Ypiranga / AP
-027,Atlético / AC,Penarol / AM
-028,Fast Clube / AM,Galvez / AC
-029,G.A.S. / RR,Fast Clube / AM
-030,Penarol / AM,Ypiranga / AP
-031,Castanhal / PA,Atlético / AC
-032,Galvez / AC,São Raimundo / RR
-033,Atlético / AC,G.A.S. / RR
-034,Ypiranga / AP,Galvez / AC
-035,Fast Clube / AM,Castanhal / PA
-036,São Raimundo / RR,Penarol / AM
-037,G.A.S. / RR,Atlético / AC
-038,Galvez / AC,Ypiranga / AP
-039,Castanhal / PA,Fast Clube / AM
-040,Penarol / AM,São Raimundo / RR
-041,Fast Clube / AM,G.A.S. / RR
-042,Ypiranga / AP,Penarol / AM
-043,Atlético / AC,Castanhal / PA
-044,São Raimundo / RR,Galvez / AC
-045,Sampaio / RR,São Raimundo / RR
-046,Ypiranga / AP,Castanhal / PA
-047,Penarol / AM,Atlético / AC
-048,Galvez / AC,Fast Clube / AM
-049,Castanhal / PA,Sampaio / RR
-050,São Raimundo / RR,Ypiranga / AP
-051,Galvez / AC,Penarol / AM
-052,Fast Clube / AM,Atlético / AC
-053,Ypiranga / AP,Sampaio / RR
-054,São Raimundo / RR,Castanhal / PA
-055,Penarol / AM,Fast Clube / AM
-056,Atlético / AC,Galvez / AC
-057,Sampaio / RR,Galvez / AC
-058,Atlético / AC,Ypiranga / AP
-059,Castanhal / PA,Penarol / AM
-060,Fast Clube / AM,São Raimundo / RR
-061,Penarol / AM,Sampaio / RR
-062,Ypiranga / AP,Fast Clube / AM
-063,Galvez / AC,Castanhal / PA
-064,São Raimundo / RR,Atlético / AC
-065,Imperatriz / MA,Palmas / TO
-066,Guarany / CE,Paragominas / PA
-067,Juventude / MA,4 de Julho / PI
-068,Tocantinópolis / TO,Moto Club / MA
-069,4 de Julho / PI,Imperatriz / MA
-070,Paragominas / PA,Tocantinópolis / TO
-071,Palmas / TO,Juventude / MA
-072,Moto Club / MA,Guarany / CE
-073,Imperatriz / MA,Paragominas / PA
-074,Juventude / MA,Moto Club / MA
-075,Guarany / CE,Palmas / TO
-076,4 de Julho / PI,Tocantinópolis / TO
-077,Imperatriz / MA,Juventude / MA
-078,Paragominas / PA,Moto Club / MA
-079,Palmas / TO,4 de Julho / PI
-080,Tocantinópolis / TO,Guarany / CE
-081,Moto Club / MA,Imperatriz / MA
-082,Juventude / MA,Paragominas / PA
-083,Tocantinópolis / TO,Palmas / TO
-084,Guarany / CE,4 de Julho / PI
-085,Imperatriz / MA,Guarany / CE
-086,Palmas / TO,Paragominas / PA
-087,Juventude / MA,Tocantinópolis / TO
-088,4 de Julho / PI,Moto Club / MA
-089,Tocantinópolis / TO,Imperatriz / MA
-090,Paragominas / PA,4 de Julho / PI
-091,Guarany / CE,Juventude / MA
-092,Moto Club / MA,Palmas / TO
-093,Imperatriz / MA,Tocantinópolis / TO
-094,4 de Julho / PI,Paragominas / PA
-095,Juventude / MA,Guarany / CE
-096,Palmas / TO,Moto Club / MA
-097,Guarany / CE,Imperatriz / MA
-098,Paragominas / PA,Palmas / TO
-099,Tocantinópolis / TO,Juventude / MA
-100,Moto Club / MA,4 de Julho / PI
-101,Imperatriz / MA,Moto Club / MA
-102,Paragominas / PA,Juventude / MA
-103,Palmas / TO,Tocantinópolis / TO
-104,4 de Julho / PI,Guarany / CE
-105,Juventude / MA,Imperatriz / MA
-106,Moto Club / MA,Paragominas / PA
-107,4 de Julho / PI,Palmas / TO
-108,Guarany / CE,Tocantinópolis / TO
-109,Paragominas / PA,Imperatriz / MA
-110,Moto Club / MA,Juventude / MA
-111,Palmas / TO,Guarany / CE
-112,Tocantinópolis / TO,4 de Julho / PI
-113,Imperatriz / MA,4 de Julho / PI
-114,Tocantinópolis / TO,Paragominas / PA
-115,Juventude / MA,Palmas / TO
-116,Guarany / CE,Moto Club / MA
-117,Palmas / TO,Imperatriz / MA
-118,Paragominas / PA,Guarany / CE
-119,4 de Julho / PI,Juventude / MA
-120,Moto Club / MA,Tocantinópolis / TO
-121,Treze / PB,ABC / RN
-122,América / RN,Central / PE
-123,Sousa / PB,Atlético / CE
-124,Caucaia / CE,Campinense / PB
-125,Atlético / CE,Treze / PB
-126,Central / PE,Caucaia / CE
-127,ABC / RN,Sousa / PB
-128,Campinense / PB,América / RN
-129,Treze / PB,Central / PE
-130,Sousa / PB,Campinense / PB
-131,América / RN,ABC / RN
-132,Atlético / CE,Caucaia / CE
-133,Treze / PB,Sousa / PB
-134,Central / PE,Campinense / PB
-135,ABC / RN,Atlético / CE
-136,Caucaia / CE,América / RN
-137,Campinense / PB,Treze / PB
-138,Sousa / PB,Central / PE
-139,Caucaia / CE,ABC / RN
-140,América / RN,Atlético / CE
-141,Treze / PB,América / RN
-142,ABC / RN,Central / PE
-143,Sousa / PB,Caucaia / CE
-144,Atlético / CE,Campinense / PB
-145,Caucaia / CE,Treze / PB
-146,Central / PE,Atlético / CE
-147,América / RN,Sousa / PB
-148,Campinense / PB,ABC / RN
-149,Treze / PB,Caucaia / CE
-150,Atlético / CE,Central / PE
-151,Sousa / PB,América / RN
-152,ABC / RN,Campinense / PB
-153,América / RN,Treze / PB
-154,Central / PE,ABC / RN
-155,Caucaia / CE,Sousa / PB
-156,Campinense / PB,Atlético / CE
-157,Treze / PB,Campinense / PB
-158,Central / PE,Sousa / PB
-159,ABC / RN,Caucaia / CE
-160,Atlético / CE,América / RN
-161,Sousa / PB,Treze / PB
-162,Campinense / PB,Central / PE
-163,Atlético / CE,ABC / RN
-164,América / RN,Caucaia / CE
-165,Central / PE,Treze / PB
-166,Campinense / PB,Sousa / PB
-167,ABC / RN,América / RN
-168,Caucaia / CE,Atlético / CE
-169,Treze / PB,Atlético / CE
-170,Caucaia / CE,Central / PE
-171,Sousa / PB,ABC / RN
-172,América / RN,Campinense / PB
-173,ABC / RN,Treze / PB
-174,Central / PE,América / RN
-175,Atlético / CE,Sousa / PB
-176,Campinense / PB,Caucaia / CE
-177,Bahia de Feira / BA,Sergipe / SE
-178,Itabaiana / SE,Juazeirense / BA
-179,Retrô / PE,Murici / AL
-180,ASA / AL,Atlético / BA
-181,Murici / AL,Bahia de Feira / BA
-182,Juazeirense / BA,ASA / AL
-183,Sergipe / SE,Retrô / PE
-184,Atlético / BA,Itabaiana / SE
-185,Bahia de Feira / BA,Juazeirense / BA
-186,Retrô / PE,Atlético / BA
-187,Itabaiana / SE,Sergipe / SE
-188,Murici / AL,ASA / AL
-189,Bahia de Feira / BA,Retrô / PE
-190,Juazeirense / BA,Atlético / BA
-191,Sergipe / SE,Murici / AL
-192,ASA / AL,Itabaiana / SE
-193,Atlético / BA,Bahia de Feira / BA
-194,Retrô / PE,Juazeirense / BA
-195,ASA / AL,Sergipe / SE
-196,Itabaiana / SE,Murici / AL
-197,Bahia de Feira / BA,Itabaiana / SE
-198,Sergipe / SE,Juazeirense / BA
-199,Retrô / PE,ASA / AL
-200,Murici / AL,Atlético / BA
-201,ASA / AL,Bahia de Feira / BA
-202,Juazeirense / BA,Murici / AL
-203,Itabaiana / SE,Retrô / PE
-204,Atlético / BA,Sergipe / SE
-205,Bahia de Feira / BA,ASA / AL
-206,Murici / AL,Juazeirense / BA
-207,Retrô / PE,Itabaiana / SE
-208,Sergipe / SE,Atlético / BA
-209,Itabaiana / SE,Bahia de Feira / BA
-210,Juazeirense / BA,Sergipe / SE
-211,ASA / AL,Retrô / PE
-212,Atlético / BA,Murici / AL
-213,Bahia de Feira / BA,Atlético / BA
-214,Juazeirense / BA,Retrô / PE
-215,Sergipe / SE,ASA / AL
-216,Murici / AL,Itabaiana / SE
-217,Retrô / PE,Bahia de Feira / BA
-218,Atlético / BA,Juazeirense / BA
-219,Murici / AL,Sergipe / SE
-220,Itabaiana / SE,ASA / AL
-221,Juazeirense / BA,Bahia de Feira / BA
-222,Atlético / BA,Retrô / PE
-223,Sergipe / SE,Itabaiana / SE
-224,ASA / AL,Murici / AL
-225,Bahia de Feira / BA,Murici / AL
-226,ASA / AL,Juazeirense / BA
-227,Retrô / PE,Sergipe / SE
-228,Itabaiana / SE,Atlético / BA
-229,Sergipe / SE,Bahia de Feira / BA
-230,Juazeirense / BA,Itabaiana / SE
-231,Murici / AL,Retrô / PE
-232,Atlético / BA,ASA / AL
-233,União de Rondonópolis / MT,Porto Velho / RO
-234,Jaraguá / GO,Gama / DF
-235,Brasiliense / DF,Goianesia / GO
-236,Aparecidense / GO,Nova Mutum / MT
-237,Goianesia / GO,União de Rondonópolis / MT
-238,Gama / DF,Aparecidense / GO
-239,Porto Velho / RO,Brasiliense / DF
-240,Nova Mutum / MT,Jaraguá / GO
-241,União de Rondonópolis / MT,Gama / DF
-242,Brasiliense / DF,Nova Mutum / MT
-243,Jaraguá / GO,Porto Velho / RO
-244,Goianesia / GO,Aparecidense / GO
-245,União de Rondonópolis / MT,Brasiliense / DF
-246,Gama / DF,Nova Mutum / MT
-247,Porto Velho / RO,Goianesia / GO
-248,Aparecidense / GO,Jaraguá / GO
-249,Nova Mutum / MT,União de Rondonópolis / MT
-250,Brasiliense / DF,Gama / DF
-251,Aparecidense / GO,Porto Velho / RO
-252,Jaraguá / GO,Goianesia / GO
-253,União de Rondonópolis / MT,Jaraguá / GO
-254,Porto Velho / RO,Gama / DF
-255,Brasiliense / DF,Aparecidense / GO
-256,Goianesia / GO,Nova Mutum / MT
-257,Aparecidense / GO,União de Rondonópolis / MT
-258,Gama / DF,Goianesia / GO
-259,Jaraguá / GO,Brasiliense / DF
-260,Nova Mutum / MT,Porto Velho / RO
-261,União de Rondonópolis / MT,Aparecidense / GO
-262,Goianesia / GO,Gama / DF
-263,Brasiliense / DF,Jaraguá / GO
-264,Porto Velho / RO,Nova Mutum / MT
-265,Jaraguá / GO,União de Rondonópolis / MT
-266,Gama / DF,Porto Velho / RO
-267,Aparecidense / GO,Brasiliense / DF
-268,Nova Mutum / MT,Goianesia / GO
-269,União de Rondonópolis / MT,Nova Mutum / MT
-270,Gama / DF,Brasiliense / DF
-271,Porto Velho / RO,Aparecidense / GO
-272,Goianesia / GO,Jaraguá / GO
-273,Brasiliense / DF,União de Rondonópolis / MT
-274,Nova Mutum / MT,Gama / DF
-275,Goianesia / GO,Porto Velho / RO
-276,Jaraguá / GO,Aparecidense / GO
-277,Gama / DF,União de Rondonópolis / MT
-278,Nova Mutum / MT,Brasiliense / DF
-279,Porto Velho / RO,Jaraguá / GO
-280,Aparecidense / GO,Goianesia / GO
-281,União de Rondonópolis / MT,Goianesia / GO
-282,Aparecidense / GO,Gama / DF
-283,Brasiliense / DF,Porto Velho / RO
-284,Jaraguá / GO,Nova Mutum / MT
-285,Porto Velho / RO,União de Rondonópolis / MT
-286,Gama / DF,Jaraguá / GO
-287,Goianesia / GO,Brasiliense / DF
-288,Nova Mutum / MT,Aparecidense / GO
-289,Rio Branco / ES,Caldense / MG
-290,Boa / MG,Águia Negra / MS
-291,Ferroviária / SP,Uberlândia / MG
-292,Atlético Patrocinense / MG,Rio Branco - VN / ES
-293,Uberlândia / MG,Rio Branco / ES
-294,Águia Negra / MS,Atlético Patrocinense / MG
-295,Caldense / MG,Ferroviária / SP
-296,Rio Branco - VN / ES,Boa / MG
-297,Rio Branco / ES,Águia Negra / MS
-298,Ferroviária / SP,Rio Branco - VN / ES
-299,Boa / MG,Caldense / MG
-300,Uberlândia / MG,Atlético Patrocinense / MG
-301,Rio Branco / ES,Ferroviária / SP
-302,Águia Negra / MS,Rio Branco - VN / ES
-303,Caldense / MG,Uberlândia / MG
-304,Atlético Patrocinense / MG,Boa / MG
-305,Rio Branco - VN / ES,Rio Branco / ES
-306,Ferroviária / SP,Águia Negra / MS
-307,Atlético Patrocinense / MG,Caldense / MG
-308,Boa / MG,Uberlândia / MG
-309,Rio Branco / ES,Boa / MG
-310,Caldense / MG,Águia Negra / MS
-311,Ferroviária / SP,Atlético Patrocinense / MG
-312,Uberlândia / MG,Rio Branco - VN / ES
-313,Atlético Patrocinense / MG,Rio Branco / ES
-314,Águia Negra / MS,Uberlândia / MG
-315,Boa / MG,Ferroviária / SP
-316,Rio Branco - VN / ES,Caldense / MG
-317,Rio Branco / ES,Atlético Patrocinense / MG
-318,Uberlândia / MG,Águia Negra / MS
-319,Ferroviária / SP,Boa / MG
-320,Caldense / MG,Rio Branco - VN / ES
-321,Boa / MG,Rio Branco / ES
-322,Águia Negra / MS,Caldense / MG
-323,Atlético Patrocinense / MG,Ferroviária / SP
-324,Rio Branco - VN / ES,Uberlândia / MG
-325,Rio Branco / ES,Rio Branco - VN / ES
-326,Águia Negra / MS,Ferroviária / SP
-327,Caldense / MG,Atlético Patrocinense / MG
-328,Uberlândia / MG,Boa / MG
-329,Ferroviária / SP,Rio Branco / ES
-330,Rio Branco - VN / ES,Águia Negra / MS
-331,Uberlândia / MG,Caldense / MG
-332,Boa / MG,Atlético Patrocinense / MG
-333,Águia Negra / MS,Rio Branco / ES
-334,Rio Branco - VN / ES,Ferroviária / SP
-335,Caldense / MG,Boa / MG
-336,Atlético Patrocinense / MG,Uberlândia / MG
-337,Rio Branco / ES,Uberlândia / MG
-338,Atlético Patrocinense / MG,Águia Negra / MS
-339,Ferroviária / SP,Caldense / MG
-340,Boa / MG,Rio Branco - VN / ES
-341,Caldense / MG,Rio Branco / ES
-342,Águia Negra / MS,Boa / MG
-343,Uberlândia / MG,Ferroviária / SP
-344,Rio Branco - VN / ES,Atlético Patrocinense / MG
-345,Bangu / RJ,Santo André / SP
-346,Portuguesa / SP,Cianorte / PR
-347,Boavista / RJ,São Bento / SP
-348,Inter de Limeira / SP,Madureira / RJ
-349,São Bento / SP,Bangu / RJ
-350,Cianorte / PR,Inter de Limeira / SP
-351,Santo André / SP,Boavista / RJ
-352,Madureira / RJ,Portuguesa / SP
-353,Bangu / RJ,Cianorte / PR
-354,Boavista / RJ,Madureira / RJ
-355,Portuguesa / SP,Santo André / SP
-356,São Bento / SP,Inter de Limeira / SP
-357,Bangu / RJ,Boavista / RJ
-358,Cianorte / PR,Madureira / RJ
-359,Santo André / SP,São Bento / SP
-360,Inter de Limeira / SP,Portuguesa / SP
-361,Madureira / RJ,Bangu / RJ
-362,Boavista / RJ,Cianorte / PR
-363,Inter de Limeira / SP,Santo André / SP
-364,Portuguesa / SP,São Bento / SP
-365,Bangu / RJ,Portuguesa / SP
-366,Santo André / SP,Cianorte / PR
-367,Boavista / RJ,Inter de Limeira / SP
-368,São Bento / SP,Madureira / RJ
-369,Inter de Limeira / SP,Bangu / RJ
-370,Cianorte / PR,São Bento / SP
-371,Portuguesa / SP,Boavista / RJ
-372,Madureira / RJ,Santo André / SP
-373,Bangu / RJ,Inter de Limeira / SP
-374,São Bento / SP,Cianorte / PR
-375,Boavista / RJ,Portuguesa / SP
-376,Santo André / SP,Madureira / RJ
-377,Portuguesa / SP,Bangu / RJ
-378,Cianorte / PR,Santo André / SP
-379,Inter de Limeira / SP,Boavista / RJ
-380,Madureira / RJ,São Bento / SP
-381,Bangu / RJ,Madureira / RJ
-382,Cianorte / PR,Boavista / RJ
-383,Santo André / SP,Inter de Limeira / SP
-384,São Bento / SP,Portuguesa / SP
-385,Boavista / RJ,Bangu / RJ
-386,Madureira / RJ,Cianorte / PR
-387,São Bento / SP,Santo André / SP
-388,Portuguesa / SP,Inter de Limeira / SP
-389,Cianorte / PR,Bangu / RJ
-390,Madureira / RJ,Boavista / RJ
-391,Santo André / SP,Portuguesa / SP
-392,Inter de Limeira / SP,São Bento / SP
-393,Bangu / RJ,São Bento / SP
-394,Inter de Limeira / SP,Cianorte / PR
-395,Boavista / RJ,Santo André / SP
-396,Portuguesa / SP,Madureira / RJ
-397,Santo André / SP,Bangu / RJ
-398,Cianorte / PR,Portuguesa / SP
-399,São Bento / SP,Boavista / RJ
-400,Madureira / RJ,Inter de Limeira / SP
-401,Aimoré / RS,Marcílio Dias / SC
-402,Rio Branco Sport Club / PR,Esportivo / RS
-403,Cascavel / PR,Joinville / SC
-404,Juventus / SC,Caxias / RS
-405,Joinville / SC,Aimoré / RS
-406,Esportivo / RS,Juventus / SC
-407,Marcílio Dias / SC,Cascavel / PR
-408,Caxias / RS,Rio Branco Sport Club / PR
-409,Aimoré / RS,Esportivo / RS
-410,Cascavel / PR,Caxias / RS
-411,Rio Branco Sport Club / PR,Marcílio Dias / SC
-412,Joinville / SC,Juventus / SC
-413,Aimoré / RS,Cascavel / PR
-414,Esportivo / RS,Caxias / RS
-415,Marcílio Dias / SC,Joinville / SC
-416,Juventus / SC,Rio Branco Sport Club / PR
-417,Caxias / RS,Aimoré / RS
-418,Cascavel / PR,Esportivo / RS
-419,Juventus / SC,Marcílio Dias / SC
-420,Rio Branco Sport Club / PR,Joinville / SC
-421,Aimoré / RS,Rio Branco Sport Club / PR
-422,Marcílio Dias / SC,Esportivo / RS
-423,Cascavel / PR,Juventus / SC
-424,Joinville / SC,Caxias / RS
-425,Juventus / SC,Aimoré / RS
-426,Esportivo / RS,Joinville / SC
-427,Rio Branco Sport Club / PR,Cascavel / PR
-428,Caxias / RS,Marcílio Dias / SC
-429,Aimoré / RS,Juventus / SC
-430,Joinville / SC,Esportivo / RS
-431,Cascavel / PR,Rio Branco Sport Club / PR
-432,Marcílio Dias / SC,Caxias / RS
-433,Rio Branco Sport Club / PR,Aimoré / RS
-434,Esportivo / RS,Marcílio Dias / SC
-435,Juventus / SC,Cascavel / PR
-436,Caxias / RS,Joinville / SC
-437,Aimoré / RS,Caxias / RS
-438,Esportivo / RS,Cascavel / PR
-439,Marcílio Dias / SC,Juventus / SC
-440,Joinville / SC,Rio Branco Sport Club / PR
-441,Cascavel / PR,Aimoré / RS
-442,Caxias / RS,Esportivo / RS
-443,Joinville / SC,Marcílio Dias / SC
-444,Rio Branco Sport Club / PR,Juventus / SC
-445,Esportivo / RS,Aimoré / RS
-446,Caxias / RS,Cascavel / PR
-447,Marcílio Dias / SC,Rio Branco Sport Club / PR
-448,Juventus / SC,Joinville / SC
-449,Aimoré / RS,Joinville / SC
-450,Juventus / SC,Esportivo / RS
-451,Cascavel / PR,Marcílio Dias / SC
-452,Rio Branco Sport Club / PR,Caxias / RS
-453,Marcílio Dias / SC,Aimoré / RS
-454,Esportivo / RS,Rio Branco Sport Club / PR
-455,Joinville / SC,Cascavel / PR
-456,Caxias / RS,Juventus / SC
-457,Moto Club / MA,Castanhal / PA
-458,Penarol / AM,4 de Julho / PI
-459,Galvez / AC,Guarany / CE
-460,Paragominas / PA,São Raimundo / RR
-461,Retrô / PE,ABC / RN
-462,América / RN,Itabaiana / SE
-463,Atlético / CE,Juazeirense / BA
-464,Sergipe / SE,Campinense / PB
-465,Caldense / MG,Aparecidense / GO
-466,União de Rondonópolis / MT,Boa / MG
-467,Brasiliense / DF,Ferroviária / SP
-468,Uberlândia / MG,Nova Mutum / MT
-469,Caxias / RS,Portuguesa / SP
-470,Cianorte / PR,Cascavel / PR
-471,Bangu / RJ,Joinville / SC
-472,Esportivo / RS,Santo André / SP
-473,Castanhal / PA,Moto Club / MA
-474,4 de Julho / PI,Penarol / AM
-475,Guarany / CE,Galvez / AC
-476,São Raimundo / RR,Paragominas / PA
-477,ABC / RN,Retrô / PE
-478,Itabaiana / SE,América / RN
-479,Juazeirense / BA,Atlético / CE
-480,Campinense / PB,Sergipe / SE
-481,Aparecidense / GO,Caldense / MG
-482,Boa / MG,União de Rondonópolis / MT
-483,Ferroviária / SP,Brasiliense / DF
-484,Nova Mutum / MT,Uberlândia / MG
-485,Portuguesa / SP,Caxias / RS
-486,Cascavel / PR,Cianorte / PR
-487,Joinville / SC,Bangu / RJ
-488,Santo André / SP,Esportivo / RS
-489,América / RN,Moto Club / MA
-490,4 de Julho / PI,ABC / RN
-491,Campinense / PB,Guarany / CE
-492,Atlético / CE,Paragominas / PA
-493,Cianorte / PR,Aparecidense / GO
-494,Caxias / RS,União de Rondonópolis / MT
-495,Esportivo / RS,Ferroviária / SP
-496,Uberlândia / MG,Joinville / SC
-497,Moto Club / MA,América / RN
-498,ABC / RN,4 de Julho / PI
-499,Guarany / CE,Campinense / PB
-500,Paragominas / PA,Atlético / CE
-501,Aparecidense / GO,Cianorte / PR
-502,União de Rondonópolis / MT,Caxias / RS
-503,Ferroviária / SP,Esportivo / RS
-504,Joinville / SC,Uberlândia / MG
-505,Atlético / CE,Ferroviária / SP
-506,América / RN,Campinense / PB
-507,Caxias / RS,ABC / RN
-508,Uberlândia / MG,Aparecidense / GO
-509,Ferroviária / SP,Atlético / CE
-510,Campinense / PB,América / RN
-511,ABC / RN,Caxias / RS
-512,Aparecidense / GO,Uberlândia / MG
-513,Aparecidense / GO,ABC / RN
-514,Atlético / CE,Campinense / PB
-515,ABC / RN,Aparecidense / GO
-516,Campinense / PB,Atlético / CE
-517,Campinense / PB,Aparecidense / GO
-518,Aparecidense / GO,Campinense / PB
+Game,Home,Away,Date,Time,Stadium
+001,Santana / AP,G.A.S. / RR,26/05/2021,15:00,Milton de Souza Correia / Macapa
+002,Tocantinópolis / TO,Picos / PI,26/05/2021,16:00,João Ribeiro / Tocantinopolis
+003,Real Ariquemes / RO,Brasiliense / DF,26/05/2021,16:00,Gentil Valério de Lima / Ariquemes
+004,Aquidauanense / MS,Rio Branco / ES,26/05/2021,16:00,Municipal de Aquidauana / Aquidauana
+005,G.A.S. / RR,Santana / AP,30/05/2021,17:00,Flamarion Vasconcelos / Boa Vista
+006,Picos / PI,Tocantinópolis / TO,30/05/2021,16:00,Municipal Helvídio Nunes de Barros / Picos
+007,Brasiliense / DF,Real Ariquemes / RO,30/05/2021,15:00,Elmo Serejo Farias / Brasilia
+008,Rio Branco / ES,Aquidauanense / MS,30/05/2021,18:00,Kleber José de Andrade / Cariacica
+009,G.A.S. / RR,Penarol / AM,06/06/2021,17:00,Flamarion Vasconcelos / Boa Vista
+010,Fast Clube / AM,Ypiranga / AP,05/06/2021,17:00,Ismael Benigno / Manaus
+011,Castanhal / PA,Galvez / AC,06/06/2021,15:00,Maximino Porpino Filho / Castanhal
+012,Atlético / AC,São Raimundo / RR,06/06/2021,18:00,Antonio Aquino Lopes / Rio Branco
+013,Galvez / AC,G.A.S. / RR,13/06/2021,20:00,Arena Acreana / Rio Branco
+014,Ypiranga / AP,Atlético / AC,13/06/2021,16:00,Milton de Souza Correia / Macapa
+015,Penarol / AM,Castanhal / PA,13/06/2021,16:00,Floro de Mendonça / Itacoatiara
+016,São Raimundo / RR,Fast Clube / AM,12/06/2021,17:00,Flamarion Vasconcelos / Boa Vista
+017,G.A.S. / RR,Ypiranga / AP,19/06/2021,17:00,Flamarion Vasconcelos / Boa Vista
+018,Castanhal / PA,São Raimundo / RR,19/06/2021,15:00,Maximino Porpino Filho / Castanhal
+019,Fast Clube / AM,Penarol / AM,19/06/2021,18:00,Ismael Benigno / Manaus
+020,Galvez / AC,Atlético / AC,20/06/2021,18:00,Arena Acreana / Rio Branco
+021,G.A.S. / RR,Castanhal / PA,26/06/2021,17:00,Flamarion Vasconcelos / Boa Vista
+022,Ypiranga / AP,São Raimundo / RR,27/06/2021,16:00,Milton de Souza Correia / Macapa
+023,Penarol / AM,Galvez / AC,27/06/2021,16:00,Floro de Mendonça / Itacoatiara
+024,Atlético / AC,Fast Clube / AM,27/06/2021,20:00,Arena Acreana / Rio Branco
+025,São Raimundo / RR,G.A.S. / RR,03/07/2021,17:00,Flamarion Vasconcelos / Boa Vista
+026,Castanhal / PA,Ypiranga / AP,03/07/2021,15:00,Maximino Porpino Filho / Castanhal
+027,Atlético / AC,Penarol / AM,04/07/2021,18:00,Arena Acreana / Rio Branco
+028,Fast Clube / AM,Galvez / AC,03/07/2021,18:00,Ismael Benigno / Manaus
+029,G.A.S. / RR,Fast Clube / AM,10/07/2021,18:00,Flamarion Vasconcelos / Boa Vista
+030,Penarol / AM,Ypiranga / AP,11/07/2021,16:00,Floro de Mendonça / Itacoatiara
+031,Castanhal / PA,Atlético / AC,10/07/2021,15:00,Maximino Porpino Filho / Castanhal
+032,Galvez / AC,São Raimundo / RR,11/07/2021,17:00,Antonio Aquino Lopes / Rio Branco
+033,Atlético / AC,G.A.S. / RR,18/07/2021,18:00,Antonio Aquino Lopes / Rio Branco
+034,Ypiranga / AP,Galvez / AC,17/07/2021,16:00,Milton de Souza Correia / Macapa
+035,Fast Clube / AM,Castanhal / PA,17/07/2021,17:00,Ismael Benigno / Manaus
+036,São Raimundo / RR,Penarol / AM,17/07/2021,17:00,Flamarion Vasconcelos / Boa Vista
+037,G.A.S. / RR,Atlético / AC,24/07/2021,18:00,Flamarion Vasconcelos / Boa Vista
+038,Galvez / AC,Ypiranga / AP,25/07/2021,17:00,Arena Acreana / Rio Branco
+039,Castanhal / PA,Fast Clube / AM,24/07/2021,15:00,Maximino Porpino Filho / Castanhal
+040,Penarol / AM,São Raimundo / RR,25/07/2021,16:00,Floro de Mendonça / Itacoatiara
+041,Fast Clube / AM,G.A.S. / RR,31/07/2021,18:00,Ismael Benigno / Manaus
+042,Ypiranga / AP,Penarol / AM,01/08/2021,18:00,Milton de Souza Correia / Macapa
+043,Atlético / AC,Castanhal / PA,01/08/2021,18:00,Antonio Aquino Lopes / Rio Branco
+044,São Raimundo / RR,Galvez / AC,31/07/2021,17:00,Flamarion Vasconcelos / Boa Vista
+045,Sampaio / RR,São Raimundo / RR,07/08/2021,18:00,Flamarion Vasconcelos / Boa Vista
+046,Ypiranga / AP,Castanhal / PA,08/08/2021,18:00,Milton de Souza Correia / Macapa
+047,Penarol / AM,Atlético / AC,08/08/2021,16:00,Floro de Mendonça / Itacoatiara
+048,Galvez / AC,Fast Clube / AM,08/08/2021,17:00,Arena Acreana / Rio Branco
+049,Castanhal / PA,Sampaio / RR,15/08/2021,15:00,Maximino Porpino Filho / Castanhal
+050,São Raimundo / RR,Ypiranga / AP,14/08/2021,17:00,Flamarion Vasconcelos / Boa Vista
+051,Galvez / AC,Penarol / AM,15/08/2021,17:00,Arena Acreana / Rio Branco
+052,Fast Clube / AM,Atlético / AC,14/08/2021,18:00,Ismael Benigno / Manaus
+053,Ypiranga / AP,Sampaio / RR,22/08/2021,18:00,Milton de Souza Correia / Macapa
+054,São Raimundo / RR,Castanhal / PA,21/08/2021,17:00,Flamarion Vasconcelos / Boa Vista
+055,Penarol / AM,Fast Clube / AM,22/08/2021,16:00,Floro de Mendonça / Itacoatiara
+056,Atlético / AC,Galvez / AC,22/08/2021,17:30,Antonio Aquino Lopes / Rio Branco
+057,Sampaio / RR,Galvez / AC,28/08/2021,18:00,Flamarion Vasconcelos / Boa Vista
+058,Atlético / AC,Ypiranga / AP,29/08/2021,18:00,Antonio Aquino Lopes / Rio Branco
+059,Castanhal / PA,Penarol / AM,29/08/2021,15:00,Maximino Porpino Filho / Castanhal
+060,Fast Clube / AM,São Raimundo / RR,28/08/2021,18:00,Ismael Benigno / Manaus
+061,Penarol / AM,Sampaio / RR,05/09/2021,17:00,Ismael Benigno / Manaus
+062,Ypiranga / AP,Fast Clube / AM,05/09/2021,17:00,Milton de Souza Correia / Macapa
+063,Galvez / AC,Castanhal / PA,05/09/2021,17:00,Arena Acreana / Rio Branco
+064,São Raimundo / RR,Atlético / AC,05/09/2021,17:00,Flamarion Vasconcelos / Boa Vista
+065,Imperatriz / MA,Palmas / TO,06/06/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+066,Guarany / CE,Paragominas / PA,05/06/2021,15:00,Plácido Aderaldo Castelo / Sobral
+067,Juventude / MA,4 de Julho / PI,05/06/2021,15:00,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+068,Tocantinópolis / TO,Moto Club / MA,06/06/2021,16:00,João Ribeiro / Tocantinopolis
+069,4 de Julho / PI,Imperatriz / MA,12/06/2021,19:00,Arena Ytacoatiara / Piripiri
+070,Paragominas / PA,Tocantinópolis / TO,13/06/2021,16:00,Arena do Município Verde / Paragominas
+071,Palmas / TO,Juventude / MA,12/06/2021,16:00,Nilton Santos / Palmas
+072,Moto Club / MA,Guarany / CE,12/06/2021,15:30,Nhozinho Santos / Sao Luis
+073,Imperatriz / MA,Paragominas / PA,19/06/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+074,Juventude / MA,Moto Club / MA,20/06/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+075,Guarany / CE,Palmas / TO,19/06/2021,15:00,Plácido Aderaldo Castelo / Sobral
+076,4 de Julho / PI,Tocantinópolis / TO,19/06/2021,16:00,Arena Ytacoatiara / Piripiri
+077,Imperatriz / MA,Juventude / MA,26/06/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+078,Paragominas / PA,Moto Club / MA,27/06/2021,16:00,Arena do Município Verde / Paragominas
+079,Palmas / TO,4 de Julho / PI,26/06/2021,16:00,Nilton Santos / Palmas
+080,Tocantinópolis / TO,Guarany / CE,27/06/2021,16:00,João Ribeiro / Tocantinopolis
+081,Moto Club / MA,Imperatriz / MA,04/07/2021,15:30,Nhozinho Santos / Sao Luis
+082,Juventude / MA,Paragominas / PA,03/07/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+083,Tocantinópolis / TO,Palmas / TO,03/07/2021,16:00,João Ribeiro / Tocantinopolis
+084,Guarany / CE,4 de Julho / PI,03/07/2021,15:00,Plácido Aderaldo Castelo / Sobral
+085,Imperatriz / MA,Guarany / CE,10/07/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+086,Palmas / TO,Paragominas / PA,10/07/2021,16:00,Nilton Santos / Palmas
+087,Juventude / MA,Tocantinópolis / TO,11/07/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+088,4 de Julho / PI,Moto Club / MA,10/07/2021,16:00,Arena Ytacoatiara / Piripiri
+089,Tocantinópolis / TO,Imperatriz / MA,17/07/2021,16:00,João Ribeiro / Tocantinopolis
+090,Paragominas / PA,4 de Julho / PI,18/07/2021,16:00,Arena do Município Verde / Paragominas
+091,Guarany / CE,Juventude / MA,17/07/2021,15:00,Plácido Aderaldo Castelo / Sobral
+092,Moto Club / MA,Palmas / TO,17/07/2021,15:30,Nhozinho Santos / Sao Luis
+093,Imperatriz / MA,Tocantinópolis / TO,24/07/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+094,4 de Julho / PI,Paragominas / PA,24/07/2021,16:00,Arena Ytacoatiara / Piripiri
+095,Juventude / MA,Guarany / CE,24/07/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+096,Palmas / TO,Moto Club / MA,24/07/2021,15:30,Nilton Santos / Palmas
+097,Guarany / CE,Imperatriz / MA,31/07/2021,15:00,Plácido Aderaldo Castelo / Sobral
+098,Paragominas / PA,Palmas / TO,01/08/2021,16:00,Arena do Município Verde / Paragominas
+099,Tocantinópolis / TO,Juventude / MA,31/07/2021,16:00,João Ribeiro / Tocantinopolis
+100,Moto Club / MA,4 de Julho / PI,31/07/2021,15:30,Nhozinho Santos / Sao Luis
+101,Imperatriz / MA,Moto Club / MA,07/08/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+102,Paragominas / PA,Juventude / MA,08/08/2021,16:00,Arena do Município Verde / Paragominas
+103,Palmas / TO,Tocantinópolis / TO,07/08/2021,15:30,Nilton Santos / Palmas
+104,4 de Julho / PI,Guarany / CE,07/08/2021,16:00,Arena Ytacoatiara / Piripiri
+105,Juventude / MA,Imperatriz / MA,14/08/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+106,Moto Club / MA,Paragominas / PA,14/08/2021,15:30,Nhozinho Santos / Sao Luis
+107,4 de Julho / PI,Palmas / TO,14/08/2021,16:00,Arena Ytacoatiara / Piripiri
+108,Guarany / CE,Tocantinópolis / TO,14/08/2021,15:00,Plácido Aderaldo Castelo / Sobral
+109,Paragominas / PA,Imperatriz / MA,21/08/2021,18:00,Arena do Município Verde / Paragominas
+110,Moto Club / MA,Juventude / MA,21/08/2021,15:30,Nhozinho Santos / Sao Luis
+111,Palmas / TO,Guarany / CE,21/08/2021,15:30,Nilton Santos / Palmas
+112,Tocantinópolis / TO,4 de Julho / PI,21/08/2021,16:00,João Ribeiro / Tocantinopolis
+113,Imperatriz / MA,4 de Julho / PI,28/08/2021,16:00,Frei Epifânio D´abadia / Imperatriz
+114,Tocantinópolis / TO,Paragominas / PA,28/08/2021,16:00,João Ribeiro / Tocantinopolis
+115,Juventude / MA,Palmas / TO,28/08/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+116,Guarany / CE,Moto Club / MA,28/08/2021,15:00,Plácido Aderaldo Castelo / Sobral
+117,Palmas / TO,Imperatriz / MA,04/09/2021,15:00,Nilton Santos / Palmas
+118,Paragominas / PA,Guarany / CE,04/09/2021,15:00,Arena do Município Verde / Paragominas
+119,4 de Julho / PI,Juventude / MA,04/09/2021,15:00,Arena Ytacoatiara / Piripiri
+120,Moto Club / MA,Tocantinópolis / TO,04/09/2021,15:00,Nhozinho Santos / Sao Luis
+121,Treze / PB,ABC / RN,06/06/2021,16:00,Ernani Sátyro / Campina Grande
+122,América / RN,Central / PE,05/06/2021,15:00,Arena das Dunas / Natal
+123,Sousa / PB,Atlético / CE,05/06/2021,16:00,Antônio Mariz / Sousa
+124,Caucaia / CE,Campinense / PB,06/06/2021,16:00,Raimundo de Oliveira / Caucaia
+125,Atlético / CE,Treze / PB,12/06/2021,15:00,Horácio Domingos de Sousa / Horizonte
+126,Central / PE,Caucaia / CE,13/06/2021,15:00,Luíz José de Lacerda / Caruaru
+127,ABC / RN,Sousa / PB,13/06/2021,16:00,Maria Lamas Farache / Natal
+128,Campinense / PB,América / RN,13/06/2021,15:00,Ernani Sátyro / Campina Grande
+129,Treze / PB,Central / PE,20/06/2021,16:00,Ernani Sátyro / Campina Grande
+130,Sousa / PB,Campinense / PB,23/06/2021,16:00,Antônio Mariz / Sousa
+131,América / RN,ABC / RN,20/06/2021,16:00,Arena das Dunas / Natal
+132,Atlético / CE,Caucaia / CE,20/06/2021,15:00,Horácio Domingos de Sousa / Horizonte
+133,Treze / PB,Sousa / PB,27/06/2021,16:00,Ernani Sátyro / Campina Grande
+134,Central / PE,Campinense / PB,27/06/2021,15:00,Luíz José de Lacerda / Caruaru
+135,ABC / RN,Atlético / CE,27/06/2021,15:00,Maria Lamas Farache / Natal
+136,Caucaia / CE,América / RN,26/06/2021,16:00,Raimundo de Oliveira / Caucaia
+137,Campinense / PB,Treze / PB,03/07/2021,15:00,Ernani Sátyro / Campina Grande
+138,Sousa / PB,Central / PE,04/07/2021,16:00,Antônio Mariz / Sousa
+139,Caucaia / CE,ABC / RN,03/07/2021,16:00,Raimundo de Oliveira / Caucaia
+140,América / RN,Atlético / CE,03/07/2021,15:00,Arena das Dunas / Natal
+141,Treze / PB,América / RN,11/07/2021,16:00,Ernani Sátyro / Campina Grande
+142,ABC / RN,Central / PE,11/07/2021,16:00,Maria Lamas Farache / Natal
+143,Sousa / PB,Caucaia / CE,10/07/2021,16:00,Antônio Mariz / Sousa
+144,Atlético / CE,Campinense / PB,10/07/2021,15:00,Horácio Domingos de Sousa / Horizonte
+145,Caucaia / CE,Treze / PB,17/07/2021,16:00,Raimundo de Oliveira / Caucaia
+146,Central / PE,Atlético / CE,18/07/2021,15:00,Luíz José de Lacerda / Caruaru
+147,América / RN,Sousa / PB,17/07/2021,15:00,Arena das Dunas / Natal
+148,Campinense / PB,ABC / RN,17/07/2021,15:00,Ernani Sátyro / Campina Grande
+149,Treze / PB,Caucaia / CE,25/07/2021,16:00,Ernani Sátyro / Campina Grande
+150,Atlético / CE,Central / PE,24/07/2021,15:00,Horácio Domingos de Sousa / Horizonte
+151,Sousa / PB,América / RN,24/07/2021,16:00,Antônio Mariz / Sousa
+152,ABC / RN,Campinense / PB,24/07/2021,16:00,Maria Lamas Farache / Natal
+153,América / RN,Treze / PB,31/07/2021,15:00,Arena das Dunas / Natal
+154,Central / PE,ABC / RN,01/08/2021,16:00,Luíz José de Lacerda / Caruaru
+155,Caucaia / CE,Sousa / PB,31/07/2021,16:00,Raimundo de Oliveira / Caucaia
+156,Campinense / PB,Atlético / CE,31/07/2021,15:00,Ernani Sátyro / Campina Grande
+157,Treze / PB,Campinense / PB,08/08/2021,16:00,Ernani Sátyro / Campina Grande
+158,Central / PE,Sousa / PB,08/08/2021,15:00,Luíz José de Lacerda / Caruaru
+159,ABC / RN,Caucaia / CE,09/08/2021,16:00,Maria Lamas Farache / Natal
+160,Atlético / CE,América / RN,07/08/2021,15:00,Horácio Domingos de Sousa / Horizonte
+161,Sousa / PB,Treze / PB,14/08/2021,16:00,Antônio Mariz / Sousa
+162,Campinense / PB,Central / PE,14/08/2021,15:00,Ernani Sátyro / Campina Grande
+163,Atlético / CE,ABC / RN,15/08/2021,15:00,Horácio Domingos de Sousa / Horizonte
+164,América / RN,Caucaia / CE,13/08/2021,15:00,Arena das Dunas / Natal
+165,Central / PE,Treze / PB,22/08/2021,15:00,Luíz José de Lacerda / Caruaru
+166,Campinense / PB,Sousa / PB,21/08/2021,15:00,Ernani Sátyro / Campina Grande
+167,ABC / RN,América / RN,22/08/2021,16:00,Maria Lamas Farache / Natal
+168,Caucaia / CE,Atlético / CE,20/08/2021,16:00,Raimundo de Oliveira / Caucaia
+169,Treze / PB,Atlético / CE,29/08/2021,16:00,Ernani Sátyro / Campina Grande
+170,Caucaia / CE,Central / PE,27/08/2021,16:00,Raimundo de Oliveira / Caucaia
+171,Sousa / PB,ABC / RN,28/08/2021,16:00,Antônio Mariz / Sousa
+172,América / RN,Campinense / PB,28/08/2021,15:00,Arena das Dunas / Natal
+173,ABC / RN,Treze / PB,05/09/2021,15:00,Maria Lamas Farache / Natal
+174,Central / PE,América / RN,05/09/2021,15:00,Luíz José de Lacerda / Caruaru
+175,Atlético / CE,Sousa / PB,05/09/2021,15:00,Horácio Domingos de Sousa / Horizonte
+176,Campinense / PB,Caucaia / CE,05/09/2021,15:00,Ernani Sátyro / Campina Grande
+177,Bahia de Feira / BA,Sergipe / SE,05/06/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+178,Itabaiana / SE,Juazeirense / BA,06/06/2021,16:00,Etelvino Mendonça / Itabaiana
+179,Retrô / PE,Murici / AL,06/06/2021,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+180,ASA / AL,Atlético / BA,06/06/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+181,Murici / AL,Bahia de Feira / BA,12/06/2021,16:00,José Gomes da Costa / Murici
+182,Juazeirense / BA,ASA / AL,13/06/2021,16:00,Adauto Moraes / Juazeiro
+183,Sergipe / SE,Retrô / PE,13/06/2021,15:00,Lourival Baptista / Aracaju
+184,Atlético / BA,Itabaiana / SE,12/06/2021,16:00,Antônio Carneiro / Alagoinhas
+185,Bahia de Feira / BA,Juazeirense / BA,19/06/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+186,Retrô / PE,Atlético / BA,20/06/2021,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+187,Itabaiana / SE,Sergipe / SE,20/06/2021,16:00,Etelvino Mendonça / Itabaiana
+188,Murici / AL,ASA / AL,19/06/2021,16:00,José Gomes da Costa / Murici
+189,Bahia de Feira / BA,Retrô / PE,27/06/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+190,Juazeirense / BA,Atlético / BA,27/06/2021,16:00,Adauto Moraes / Juazeiro
+191,Sergipe / SE,Murici / AL,27/06/2021,16:00,Lourival Baptista / Aracaju
+192,ASA / AL,Itabaiana / SE,27/06/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+193,Atlético / BA,Bahia de Feira / BA,03/07/2021,16:00,Antônio Carneiro / Alagoinhas
+194,Retrô / PE,Juazeirense / BA,04/07/2021,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+195,ASA / AL,Sergipe / SE,03/07/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+196,Itabaiana / SE,Murici / AL,04/07/2021,16:00,Etelvino Mendonça / Itabaiana
+197,Bahia de Feira / BA,Itabaiana / SE,11/07/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+198,Sergipe / SE,Juazeirense / BA,11/07/2021,16:00,Lourival Baptista / Aracaju
+199,Retrô / PE,ASA / AL,11/07/2021,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+200,Murici / AL,Atlético / BA,10/07/2021,16:00,José Gomes da Costa / Murici
+201,ASA / AL,Bahia de Feira / BA,18/07/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+202,Juazeirense / BA,Murici / AL,17/07/2021,16:00,Adauto Moraes / Juazeiro
+203,Itabaiana / SE,Retrô / PE,18/07/2021,16:00,Etelvino Mendonça / Itabaiana
+204,Atlético / BA,Sergipe / SE,18/07/2021,16:00,Antônio Carneiro / Alagoinhas
+205,Bahia de Feira / BA,ASA / AL,25/07/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+206,Murici / AL,Juazeirense / BA,24/07/2021,16:00,José Gomes da Costa / Murici
+207,Retrô / PE,Itabaiana / SE,25/07/2021,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+208,Sergipe / SE,Atlético / BA,25/07/2021,16:00,Lourival Baptista / Aracaju
+209,Itabaiana / SE,Bahia de Feira / BA,01/08/2021,16:00,Etelvino Mendonça / Itabaiana
+210,Juazeirense / BA,Sergipe / SE,31/07/2021,16:00,Adauto Moraes / Juazeiro
+211,ASA / AL,Retrô / PE,01/08/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+212,Atlético / BA,Murici / AL,31/07/2021,16:00,Antônio Carneiro / Alagoinhas
+213,Bahia de Feira / BA,Atlético / BA,08/08/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+214,Juazeirense / BA,Retrô / PE,08/08/2021,16:00,Adauto Moraes / Juazeiro
+215,Sergipe / SE,ASA / AL,08/08/2021,16:00,Lourival Baptista / Aracaju
+216,Murici / AL,Itabaiana / SE,07/08/2021,15:00,Estádio da UNIVERSIDADE FEDERAL DE ALAGOAS / Maceio
+217,Retrô / PE,Bahia de Feira / BA,15/08/2021,16:00,Adelmar da Costa Carvalho / Recife
+218,Atlético / BA,Juazeirense / BA,14/08/2021,16:00,Estádio Municipal Antônio Carneiro Neto / Cruz do Espirito Santo
+219,Murici / AL,Sergipe / SE,14/08/2021,15:00,Estádio da UNIVERSIDADE FEDERAL DE ALAGOAS / Maceio
+220,Itabaiana / SE,ASA / AL,15/08/2021,16:00,Paulo Barreto de Menezes / Lagarto
+221,Juazeirense / BA,Bahia de Feira / BA,21/08/2021,16:00,Adauto Moraes / Juazeiro
+222,Atlético / BA,Retrô / PE,21/08/2021,16:00,Antônio Carneiro / Alagoinhas
+223,Sergipe / SE,Itabaiana / SE,22/08/2021,16:00,Lourival Baptista / Aracaju
+224,ASA / AL,Murici / AL,22/08/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+225,Bahia de Feira / BA,Murici / AL,29/08/2021,16:00,Professor Jodilton Souza   / Feira de Santana
+226,ASA / AL,Juazeirense / BA,29/08/2021,16:00,Coaracy da Mata Fonseca / Arapiraca
+227,Retrô / PE,Sergipe / SE,29/08/2021,16:00,Adelmar da Costa Carvalho / Recife
+228,Itabaiana / SE,Atlético / BA,29/08/2021,16:00,Paulo Barreto de Menezes / Lagarto
+229,Sergipe / SE,Bahia de Feira / BA,05/09/2021,16:00,Lourival Baptista / Aracaju
+230,Juazeirense / BA,Itabaiana / SE,05/09/2021,16:00,Adauto Moraes / Juazeiro
+231,Murici / AL,Retrô / PE,05/09/2021,16:00,José Gomes da Costa / Murici
+232,Atlético / BA,ASA / AL,05/09/2021,16:00,Antônio Carneiro / Alagoinhas
+233,União de Rondonópolis / MT,Porto Velho / RO,06/06/2021,16:00,Luthero Lopes / Rondonopolis
+234,Jaraguá / GO,Gama / DF,05/06/2021,15:30,Amintas de Freitas / Jaragua
+235,Brasiliense / DF,Goianesia / GO,05/06/2021,15:00,Ciro Machado do Espirito Santo  / Brasilia
+236,Aparecidense / GO,Nova Mutum / MT,06/06/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+237,Goianesia / GO,União de Rondonópolis / MT,13/06/2021,16:00,Waldeir José de Oliveira / Goianesia
+238,Gama / DF,Aparecidense / GO,12/06/2021,15:30,Abadião / Ceilândia
+239,Porto Velho / RO,Brasiliense / DF,13/06/2021,16:00,Aluizio Pinheiro Ferreira / Porto Velho
+240,Nova Mutum / MT,Jaraguá / GO,13/06/2021,16:00,Valdir Doilho Wons / Nova Mutum
+241,União de Rondonópolis / MT,Gama / DF,19/06/2021,16:00,Luthero Lopes / Rondonopolis
+242,Brasiliense / DF,Nova Mutum / MT,19/06/2021,15:00,Elmo Serejo Farias / Brasilia
+243,Jaraguá / GO,Porto Velho / RO,19/06/2021,15:30,Amintas de Freitas / Jaragua
+244,Goianesia / GO,Aparecidense / GO,19/06/2021,16:00,Waldeir José de Oliveira / Goianesia
+245,União de Rondonópolis / MT,Brasiliense / DF,26/06/2021,16:00,Luthero Lopes / Rondonopolis
+246,Gama / DF,Nova Mutum / MT,26/06/2021,15:30,Abadião / Ceilândia
+247,Porto Velho / RO,Goianesia / GO,26/06/2021,16:00,Aluizio Pinheiro Ferreira / Porto Velho
+248,Aparecidense / GO,Jaraguá / GO,26/06/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+249,Nova Mutum / MT,União de Rondonópolis / MT,04/07/2021,16:00,Valdir Doilho Wons / Nova Mutum
+250,Brasiliense / DF,Gama / DF,03/07/2021,15:00,Elmo Serejo Farias / Brasilia
+251,Aparecidense / GO,Porto Velho / RO,03/07/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+252,Jaraguá / GO,Goianesia / GO,04/07/2021,15:30,Amintas de Freitas / Jaragua
+253,União de Rondonópolis / MT,Jaraguá / GO,10/07/2021,16:00,Luthero Lopes / Rondonopolis
+254,Porto Velho / RO,Gama / DF,10/07/2021,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+255,Brasiliense / DF,Aparecidense / GO,10/07/2021,15:00,Elmo Serejo Farias / Brasilia
+256,Goianesia / GO,Nova Mutum / MT,10/07/2021,16:00,Waldeir José de Oliveira / Goianesia
+257,Aparecidense / GO,União de Rondonópolis / MT,17/07/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+258,Gama / DF,Goianesia / GO,17/07/2021,15:30,Estádio Nacional Mané Garrincha / Brasilia
+259,Jaraguá / GO,Brasiliense / DF,18/07/2021,15:00,Amintas de Freitas / Jaragua
+260,Nova Mutum / MT,Porto Velho / RO,18/07/2021,16:00,Valdir Doilho Wons / Nova Mutum
+261,União de Rondonópolis / MT,Aparecidense / GO,25/07/2021,16:00,Luthero Lopes / Rondonopolis
+262,Goianesia / GO,Gama / DF,24/07/2021,15:00,Waldeir José de Oliveira / Goianesia
+263,Brasiliense / DF,Jaraguá / GO,24/07/2021,15:00,Elmo Serejo Farias / Brasilia
+264,Porto Velho / RO,Nova Mutum / MT,24/07/2021,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+265,Jaraguá / GO,União de Rondonópolis / MT,31/07/2021,15:30,Amintas de Freitas / Jaragua
+266,Gama / DF,Porto Velho / RO,31/07/2021,15:00,Estádio Nacional Mané Garrincha / Brasilia
+267,Aparecidense / GO,Brasiliense / DF,31/07/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+268,Nova Mutum / MT,Goianesia / GO,01/08/2021,16:00,Valdir Doilho Wons / Nova Mutum
+269,União de Rondonópolis / MT,Nova Mutum / MT,07/08/2021,16:00,Luthero Lopes / Rondonopolis
+270,Gama / DF,Brasiliense / DF,07/08/2021,15:00,Ciro Machado do Espirito Santo  / Brasilia
+271,Porto Velho / RO,Aparecidense / GO,07/08/2021,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+272,Goianesia / GO,Jaraguá / GO,07/08/2021,16:00,Waldeir José de Oliveira / Goianesia
+273,Brasiliense / DF,União de Rondonópolis / MT,14/08/2021,16:00,Elmo Serejo Farias / Brasilia
+274,Nova Mutum / MT,Gama / DF,15/08/2021,16:00,Valdir Doilho Wons / Nova Mutum
+275,Goianesia / GO,Porto Velho / RO,14/08/2021,16:00,Waldeir José de Oliveira / Goianesia
+276,Jaraguá / GO,Aparecidense / GO,14/08/2021,15:30,Amintas de Freitas / Jaragua
+277,Gama / DF,União de Rondonópolis / MT,21/08/2021,15:00,Ciro Machado do Espirito Santo  / Brasilia
+278,Nova Mutum / MT,Brasiliense / DF,22/08/2021,16:00,Valdir Doilho Wons / Nova Mutum
+279,Porto Velho / RO,Jaraguá / GO,21/08/2021,16:30,Aluizio Pinheiro Ferreira / Porto Velho
+280,Aparecidense / GO,Goianesia / GO,21/08/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+281,União de Rondonópolis / MT,Goianesia / GO,28/08/2021,16:00,Luthero Lopes / Rondonopolis
+282,Aparecidense / GO,Gama / DF,28/08/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+283,Brasiliense / DF,Porto Velho / RO,28/08/2021,16:00,Elmo Serejo Farias / Brasilia
+284,Jaraguá / GO,Nova Mutum / MT,28/08/2021,15:30,Amintas de Freitas / Jaragua
+285,Porto Velho / RO,União de Rondonópolis / MT,04/09/2021,16:00,Aluizio Pinheiro Ferreira / Porto Velho
+286,Gama / DF,Jaraguá / GO,04/09/2021,16:00,Ciro Machado do Espirito Santo  / Brasilia
+287,Goianesia / GO,Brasiliense / DF,04/09/2021,16:00,Waldeir José de Oliveira / Goianesia
+288,Nova Mutum / MT,Aparecidense / GO,04/09/2021,16:00,Valdir Doilho Wons / Nova Mutum
+289,Rio Branco / ES,Caldense / MG,06/06/2021,15:00,Kleber José de Andrade / Cariacica
+290,Boa / MG,Águia Negra / MS,05/06/2021,17:00,Dilzon Luís de Melo / Varginha
+291,Ferroviária / SP,Uberlândia / MG,05/06/2021,17:00,Walter Ribeiro / Sorocaba
+292,Atlético Patrocinense / MG,Rio Branco - VN / ES,06/06/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+293,Uberlândia / MG,Rio Branco / ES,12/06/2021,16:00,Parque do Sabiá / Uberlandia
+294,Águia Negra / MS,Atlético Patrocinense / MG,30/06/2021,17:00,Iliê Vidal / Rio Brilhante
+295,Caldense / MG,Ferroviária / SP,13/06/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+296,Rio Branco - VN / ES,Boa / MG,13/06/2021,15:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+297,Rio Branco / ES,Águia Negra / MS,20/06/2021,15:00,Kleber José de Andrade / Cariacica
+298,Ferroviária / SP,Rio Branco - VN / ES,19/06/2021,17:00,Ademar Pereira de Barros / Araraquara
+299,Boa / MG,Caldense / MG,20/06/2021,17:00,Dilzon Luís de Melo / Varginha
+300,Uberlândia / MG,Atlético Patrocinense / MG,19/06/2021,16:00,Parque do Sabiá / Uberlandia
+301,Rio Branco / ES,Ferroviária / SP,27/06/2021,15:00,Kleber José de Andrade / Cariacica
+302,Águia Negra / MS,Rio Branco - VN / ES,27/06/2021,16:00,Iliê Vidal / Rio Brilhante
+303,Caldense / MG,Uberlândia / MG,26/06/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+304,Atlético Patrocinense / MG,Boa / MG,26/06/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+305,Rio Branco - VN / ES,Rio Branco / ES,04/07/2021,15:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+306,Ferroviária / SP,Águia Negra / MS,03/07/2021,17:00,Ademar Pereira de Barros / Araraquara
+307,Atlético Patrocinense / MG,Caldense / MG,05/07/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+308,Boa / MG,Uberlândia / MG,03/07/2021,17:00,Dilzon Luís de Melo / Varginha
+309,Rio Branco / ES,Boa / MG,11/07/2021,15:00,Kleber José de Andrade / Cariacica
+310,Caldense / MG,Águia Negra / MS,10/07/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+311,Ferroviária / SP,Atlético Patrocinense / MG,10/07/2021,17:00,Ademar Pereira de Barros / Araraquara
+312,Uberlândia / MG,Rio Branco - VN / ES,11/07/2021,16:00,Parque do Sabiá / Uberlandia
+313,Atlético Patrocinense / MG,Rio Branco / ES,18/07/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+314,Águia Negra / MS,Uberlândia / MG,19/07/2021,17:00,Iliê Vidal / Rio Brilhante
+315,Boa / MG,Ferroviária / SP,17/07/2021,17:00,Dilzon Luís de Melo / Varginha
+316,Rio Branco - VN / ES,Caldense / MG,18/07/2021,15:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+317,Rio Branco / ES,Atlético Patrocinense / MG,25/07/2021,15:00,Kleber José de Andrade / Cariacica
+318,Uberlândia / MG,Águia Negra / MS,24/07/2021,16:00,Parque do Sabiá / Uberlandia
+319,Ferroviária / SP,Boa / MG,25/07/2021,15:00,Ademar Pereira de Barros / Araraquara
+320,Caldense / MG,Rio Branco - VN / ES,24/07/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+321,Boa / MG,Rio Branco / ES,31/07/2021,17:00,Dilzon Luís de Melo / Varginha
+322,Águia Negra / MS,Caldense / MG,01/08/2021,16:00,Iliê Vidal / Rio Brilhante
+323,Atlético Patrocinense / MG,Ferroviária / SP,01/08/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+324,Rio Branco - VN / ES,Uberlândia / MG,01/08/2021,15:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+325,Rio Branco / ES,Rio Branco - VN / ES,08/08/2021,15:00,Kleber José de Andrade / Cariacica
+326,Águia Negra / MS,Ferroviária / SP,06/08/2021,17:00,Iliê Vidal / Rio Brilhante
+327,Caldense / MG,Atlético Patrocinense / MG,07/08/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+328,Uberlândia / MG,Boa / MG,07/08/2021,16:00,Parque do Sabiá / Uberlandia
+329,Ferroviária / SP,Rio Branco / ES,14/08/2021,17:00,Ademar Pereira de Barros / Araraquara
+330,Rio Branco - VN / ES,Águia Negra / MS,15/08/2021,15:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+331,Uberlândia / MG,Caldense / MG,14/08/2021,16:00,Parque do Sabiá / Uberlandia
+332,Boa / MG,Atlético Patrocinense / MG,14/08/2021,17:00,Dilzon Luís de Melo / Varginha
+333,Águia Negra / MS,Rio Branco / ES,23/08/2021,17:00,Iliê Vidal / Rio Brilhante
+334,Rio Branco - VN / ES,Ferroviária / SP,22/08/2021,15:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+335,Caldense / MG,Boa / MG,21/08/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+336,Atlético Patrocinense / MG,Uberlândia / MG,22/08/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+337,Rio Branco / ES,Uberlândia / MG,28/08/2021,15:00,Kleber José de Andrade / Cariacica
+338,Atlético Patrocinense / MG,Águia Negra / MS,29/08/2021,16:00,Pedro Alves do Nascimento / Patrocinio
+339,Ferroviária / SP,Caldense / MG,28/08/2021,17:00,Ademar Pereira de Barros / Araraquara
+340,Boa / MG,Rio Branco - VN / ES,28/08/2021,17:00,Dilzon Luís de Melo / Varginha
+341,Caldense / MG,Rio Branco / ES,05/09/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+342,Águia Negra / MS,Boa / MG,05/09/2021,16:00,Iliê Vidal / Rio Brilhante
+343,Uberlândia / MG,Ferroviária / SP,05/09/2021,16:00,Parque do Sabiá / Uberlandia
+344,Rio Branco - VN / ES,Atlético Patrocinense / MG,05/09/2021,16:00,Estádio Olimpio Perim / Venda Nova do Imigrante
+345,Bangu / RJ,Santo André / SP,05/06/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+346,Portuguesa / SP,Cianorte / PR,05/06/2021,19:00,Oswaldo Teixeira Duarte / Sao Paulo
+347,Boavista / RJ,São Bento / SP,06/06/2021,18:00,Elcyr Resende de Mendonça / Saquarema
+348,Inter de Limeira / SP,Madureira / RJ,06/06/2021,17:00,Major José Levy Sobrinho / Limeira
+349,São Bento / SP,Bangu / RJ,12/06/2021,16:00,Walter Ribeiro / Sorocaba
+350,Cianorte / PR,Inter de Limeira / SP,13/06/2021,16:00,Albino Turbay / Cianorte
+351,Santo André / SP,Boavista / RJ,13/06/2021,15:00,José Batista Pereira Fernandes / Diadema
+352,Madureira / RJ,Portuguesa / SP,13/06/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+353,Bangu / RJ,Cianorte / PR,20/06/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+354,Boavista / RJ,Madureira / RJ,19/06/2021,15:00,Elcyr Resende de Mendonça / Saquarema
+355,Portuguesa / SP,Santo André / SP,19/06/2021,15:00,Oswaldo Teixeira Duarte / Sao Paulo
+356,São Bento / SP,Inter de Limeira / SP,20/06/2021,16:00,Walter Ribeiro / Sorocaba
+357,Bangu / RJ,Boavista / RJ,27/06/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+358,Cianorte / PR,Madureira / RJ,27/06/2021,16:00,Albino Turbay / Cianorte
+359,Santo André / SP,São Bento / SP,26/06/2021,15:00,José Batista Pereira Fernandes / Diadema
+360,Inter de Limeira / SP,Portuguesa / SP,26/06/2021,17:00,Major José Levy Sobrinho / Limeira
+361,Madureira / RJ,Bangu / RJ,04/07/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+362,Boavista / RJ,Cianorte / PR,03/07/2021,15:00,Elcyr Resende de Mendonça / Saquarema
+363,Inter de Limeira / SP,Santo André / SP,03/07/2021,17:00,Major José Levy Sobrinho / Limeira
+364,Portuguesa / SP,São Bento / SP,04/07/2021,19:00,Oswaldo Teixeira Duarte / Sao Paulo
+365,Bangu / RJ,Portuguesa / SP,10/07/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+366,Santo André / SP,Cianorte / PR,10/07/2021,15:00,José Batista Pereira Fernandes / Diadema
+367,Boavista / RJ,Inter de Limeira / SP,11/07/2021,16:00,Elcyr Resende de Mendonça / Saquarema
+368,São Bento / SP,Madureira / RJ,10/07/2021,16:00,Walter Ribeiro / Sorocaba
+369,Inter de Limeira / SP,Bangu / RJ,17/07/2021,17:00,Major José Levy Sobrinho / Limeira
+370,Cianorte / PR,São Bento / SP,17/07/2021,16:00,Albino Turbay / Cianorte
+371,Portuguesa / SP,Boavista / RJ,17/07/2021,19:00,Oswaldo Teixeira Duarte / Sao Paulo
+372,Madureira / RJ,Santo André / SP,17/07/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+373,Bangu / RJ,Inter de Limeira / SP,24/07/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+374,São Bento / SP,Cianorte / PR,24/07/2021,15:00,Walter Ribeiro / Sorocaba
+375,Boavista / RJ,Portuguesa / SP,24/07/2021,15:00,Elcyr Resende de Mendonça / Saquarema
+376,Santo André / SP,Madureira / RJ,24/07/2021,15:00,José Batista Pereira Fernandes / Diadema
+377,Portuguesa / SP,Bangu / RJ,31/07/2021,19:00,Oswaldo Teixeira Duarte / Sao Paulo
+378,Cianorte / PR,Santo André / SP,01/08/2021,16:00,Albino Turbay / Cianorte
+379,Inter de Limeira / SP,Boavista / RJ,31/07/2021,17:00,Major José Levy Sobrinho / Limeira
+380,Madureira / RJ,São Bento / SP,31/07/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+381,Bangu / RJ,Madureira / RJ,08/08/2021,15:00,Jânio Moraes / Nova Iguacu
+382,Cianorte / PR,Boavista / RJ,08/08/2021,16:00,Albino Turbay / Cianorte
+383,Santo André / SP,Inter de Limeira / SP,07/08/2021,15:00,José Batista Pereira Fernandes / Diadema
+384,São Bento / SP,Portuguesa / SP,07/08/2021,16:00,Walter Ribeiro / Sorocaba
+385,Boavista / RJ,Bangu / RJ,14/08/2021,15:00,Elcyr Resende de Mendonça / Saquarema
+386,Madureira / RJ,Cianorte / PR,15/08/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+387,São Bento / SP,Santo André / SP,14/08/2021,15:00,Walter Ribeiro / Sorocaba
+388,Portuguesa / SP,Inter de Limeira / SP,14/08/2021,15:00,Oswaldo Teixeira Duarte / São Paulo
+389,Cianorte / PR,Bangu / RJ,22/08/2021,16:00,Albino Turbay / Cianorte
+390,Madureira / RJ,Boavista / RJ,22/08/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+391,Santo André / SP,Portuguesa / SP,21/08/2021,15:00,José Batista Pereira Fernandes / Diadema
+392,Inter de Limeira / SP,São Bento / SP,21/08/2021,17:00,Major José Levy Sobrinho / Limeira
+393,Bangu / RJ,São Bento / SP,28/08/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+394,Inter de Limeira / SP,Cianorte / PR,28/08/2021,17:00,Major José Levy Sobrinho / Limeira
+395,Boavista / RJ,Santo André / SP,28/08/2021,15:00,Elcyr Resende de Mendonça / Saquarema
+396,Portuguesa / SP,Madureira / RJ,28/08/2021,19:00,Oswaldo Teixeira Duarte / Sao Paulo
+397,Santo André / SP,Bangu / RJ,04/09/2021,15:00,José Batista Pereira Fernandes / Diadema
+398,Cianorte / PR,Portuguesa / SP,04/09/2021,15:00,Albino Turbay / Cianorte
+399,São Bento / SP,Boavista / RJ,04/09/2021,15:00,Walter Ribeiro / Sorocaba
+400,Madureira / RJ,Inter de Limeira / SP,04/09/2021,15:00,Aniceto Moscoso / Rio de Janeiro
+401,Aimoré / RS,Marcílio Dias / SC,06/06/2021,16:00,João Corrêa da Silveira / Sao Leopoldo
+402,Rio Branco Sport Club / PR,Esportivo / RS,06/06/2021,15:00,Nelson Medrado Dias / Paranagua
+403,Cascavel / PR,Joinville / SC,05/06/2021,16:00,Arnaldo Busatto / Cascavel
+404,Juventus / SC,Caxias / RS,06/06/2021,16:00,João Marcatto / Jaragua do Sul
+405,Joinville / SC,Aimoré / RS,12/06/2021,15:00,Arena Joinville / Joinville
+406,Esportivo / RS,Juventus / SC,12/06/2021,19:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+407,Marcílio Dias / SC,Cascavel / PR,13/06/2021,15:00,Hercílio Luz / Itajai
+408,Caxias / RS,Rio Branco Sport Club / PR,13/06/2021,16:00,Francisco Stédile / Caxias do Sul
+409,Aimoré / RS,Esportivo / RS,20/06/2021,16:00,João Corrêa da Silveira / Sao Leopoldo
+410,Cascavel / PR,Caxias / RS,19/06/2021,16:00,Arnaldo Busatto / Cascavel
+411,Rio Branco Sport Club / PR,Marcílio Dias / SC,20/06/2021,15:00,Nelson Medrado Dias / Paranagua
+412,Joinville / SC,Juventus / SC,19/06/2021,15:00,Arena Joinville / Joinville
+413,Aimoré / RS,Cascavel / PR,27/06/2021,15:00,João Corrêa da Silveira / Sao Leopoldo
+414,Esportivo / RS,Caxias / RS,26/06/2021,19:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+415,Marcílio Dias / SC,Joinville / SC,26/06/2021,15:00,Hercílio Luz / Itajai
+416,Juventus / SC,Rio Branco Sport Club / PR,27/06/2021,15:00,João Marcatto / Jaragua do Sul
+417,Caxias / RS,Aimoré / RS,04/07/2021,15:00,Francisco Stédile / Caxias do Sul
+418,Cascavel / PR,Esportivo / RS,03/07/2021,16:00,Arnaldo Busatto / Cascavel
+419,Juventus / SC,Marcílio Dias / SC,04/07/2021,15:00,João Marcatto / Jaragua do Sul
+420,Rio Branco Sport Club / PR,Joinville / SC,04/07/2021,15:00,Nelson Medrado Dias / Paranagua
+421,Aimoré / RS,Rio Branco Sport Club / PR,11/07/2021,15:00,João Corrêa da Silveira / Sao Leopoldo
+422,Marcílio Dias / SC,Esportivo / RS,10/07/2021,15:00,Hercílio Luz / Itajai
+423,Cascavel / PR,Juventus / SC,10/07/2021,16:00,Arnaldo Busatto / Cascavel
+424,Joinville / SC,Caxias / RS,10/07/2021,15:00,Arena Joinville / Joinville
+425,Juventus / SC,Aimoré / RS,18/07/2021,15:00,João Marcatto / Jaragua do Sul
+426,Esportivo / RS,Joinville / SC,17/07/2021,19:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+427,Rio Branco Sport Club / PR,Cascavel / PR,18/07/2021,15:00,Nelson Medrado Dias / Paranagua
+428,Caxias / RS,Marcílio Dias / SC,18/07/2021,15:00,Francisco Stédile / Caxias do Sul
+429,Aimoré / RS,Juventus / SC,25/07/2021,15:00,João Corrêa da Silveira / Sao Leopoldo
+430,Joinville / SC,Esportivo / RS,24/07/2021,15:00,Arena Joinville / Joinville
+431,Cascavel / PR,Rio Branco Sport Club / PR,24/07/2021,16:00,Arnaldo Busatto / Cascavel
+432,Marcílio Dias / SC,Caxias / RS,24/07/2021,15:00,Hercílio Luz / Itajai
+433,Rio Branco Sport Club / PR,Aimoré / RS,01/08/2021,15:00,Nelson Medrado Dias / Paranagua
+434,Esportivo / RS,Marcílio Dias / SC,31/07/2021,16:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+435,Juventus / SC,Cascavel / PR,31/07/2021,15:00,João Marcatto / Jaragua do Sul
+436,Caxias / RS,Joinville / SC,01/08/2021,15:00,Francisco Stédile / Caxias do Sul
+437,Aimoré / RS,Caxias / RS,08/08/2021,15:00,João Corrêa da Silveira / Sao Leopoldo
+438,Esportivo / RS,Cascavel / PR,07/08/2021,16:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+439,Marcílio Dias / SC,Juventus / SC,07/08/2021,15:00,Hercílio Luz / Itajai
+440,Joinville / SC,Rio Branco Sport Club / PR,07/08/2021,15:00,Arena Joinville / Joinville
+441,Cascavel / PR,Aimoré / RS,14/08/2021,15:00,Arnaldo Busatto / Cascavel
+442,Caxias / RS,Esportivo / RS,14/08/2021,15:00,Francisco Stédile / Caxias do Sul
+443,Joinville / SC,Marcílio Dias / SC,14/08/2021,15:00,Arena Joinville / Joinville
+444,Rio Branco Sport Club / PR,Juventus / SC,15/08/2021,15:00,Nelson Medrado Dias / Paranagua
+445,Esportivo / RS,Aimoré / RS,21/08/2021,16:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+446,Caxias / RS,Cascavel / PR,21/08/2021,15:00,Francisco Stédile / Caxias do Sul
+447,Marcílio Dias / SC,Rio Branco Sport Club / PR,21/08/2021,15:00,Hercílio Luz / Itajai
+448,Juventus / SC,Joinville / SC,21/08/2021,15:00,João Marcatto / Jaragua do Sul
+449,Aimoré / RS,Joinville / SC,28/08/2021,15:00,João Corrêa da Silveira / Sao Leopoldo
+450,Juventus / SC,Esportivo / RS,28/08/2021,15:00,João Marcatto / Jaragua do Sul
+451,Cascavel / PR,Marcílio Dias / SC,28/08/2021,15:00,Arnaldo Busatto / Cascavel
+452,Rio Branco Sport Club / PR,Caxias / RS,29/08/2021,15:00,Nelson Medrado Dias / Paranagua
+453,Marcílio Dias / SC,Aimoré / RS,04/09/2021,15:00,Hercílio Luz / Itajai
+454,Esportivo / RS,Rio Branco Sport Club / PR,04/09/2021,15:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+455,Joinville / SC,Cascavel / PR,04/09/2021,15:00,Arena Joinville / Joinville
+456,Caxias / RS,Juventus / SC,04/09/2021,15:00,Francisco Stédile / Caxias do Sul
+457,Moto Club / MA,Castanhal / PA,12/09/2021,15:30,Nhozinho Santos / Sao Luis
+458,Penarol / AM,4 de Julho / PI,12/09/2021,16:00,Floro de Mendonça / Itacoatiara
+459,Galvez / AC,Guarany / CE,13/09/2021,17:00,Arena Acreana / Rio Branco
+460,Paragominas / PA,São Raimundo / RR,12/09/2021,16:00,Arena do Município Verde / Paragominas
+461,Retrô / PE,ABC / RN,12/09/2021,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+462,América / RN,Itabaiana / SE,11/09/2021,15:00,Arena das Dunas / Natal
+463,Atlético / CE,Juazeirense / BA,11/09/2021,15:00,Horácio Domingos de Sousa / Horizonte
+464,Sergipe / SE,Campinense / PB,12/09/2021,16:00,Lourival Baptista / Aracaju
+465,Caldense / MG,Aparecidense / GO,11/09/2021,16:00,Ronaldo Junqueira / Pocos de Caldas
+466,União de Rondonópolis / MT,Boa / MG,11/09/2021,16:00,Luthero Lopes / Rondonopolis
+467,Brasiliense / DF,Ferroviária / SP,12/09/2021,15:00,Ciro Machado  / Brasilia
+468,Uberlândia / MG,Nova Mutum / MT,12/09/2021,16:00,Parque do Sabiá / Uberlandia
+469,Caxias / RS,Portuguesa / SP,12/09/2021,15:00,Francisco Stédile / Caxias do Sul
+470,Cianorte / PR,Cascavel / PR,12/09/2021,16:00,Albino Turbay / Cianorte
+471,Bangu / RJ,Joinville / SC,11/09/2021,15:00,Guilherme da Silveira Filho / Rio de Janeiro
+472,Esportivo / RS,Santo André / SP,11/09/2021,16:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+473,Castanhal / PA,Moto Club / MA,19/09/2021,15:00,Maximino Porpino Filho / Castanhal
+474,4 de Julho / PI,Penarol / AM,18/09/2021,16:00,Arena Ytacoatiara / Piripiri
+475,Guarany / CE,Galvez / AC,20/09/2021,15:00,Plácido Aderaldo Castelo / Sobral
+476,São Raimundo / RR,Paragominas / PA,19/09/2021,17:00,Flamarion Vasconcelos / Boa Vista
+477,ABC / RN,Retrô / PE,19/09/2021,16:00,Maria Lamas Farache / Natal
+478,Itabaiana / SE,América / RN,19/09/2021,16:00,Paulo Barreto de Menezes / Lagarto
+479,Juazeirense / BA,Atlético / CE,18/09/2021,16:00,Adauto Moraes / Juazeiro
+480,Campinense / PB,Sergipe / SE,18/09/2021,15:00,Ernani Sátyro / Campina Grande
+481,Aparecidense / GO,Caldense / MG,17/09/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+482,Boa / MG,União de Rondonópolis / MT,18/09/2021,17:00,Dilzon Luís de Melo / Varginha
+483,Ferroviária / SP,Brasiliense / DF,18/09/2021,17:00,Ademar Pereira de Barros / Araraquara
+484,Nova Mutum / MT,Uberlândia / MG,19/09/2021,16:00,Valdir Doilho Wons / Nova Mutum
+485,Portuguesa / SP,Caxias / RS,18/09/2021,16:00,Oswaldo Teixeira Duarte / Sao Paulo
+486,Cascavel / PR,Cianorte / PR,18/09/2021,16:00,Arnaldo Busatto / Cascavel
+487,Joinville / SC,Bangu / RJ,18/09/2021,15:00,Arena Joinville / Joinville
+488,Santo André / SP,Esportivo / RS,18/09/2021,15:00,José Batista Pereira Fernandes / Diadema
+489,América / RN,Moto Club / MA,26/09/2021,16:00,Arena das Dunas / Natal
+490,4 de Julho / PI,ABC / RN,26/09/2021,15:00,Arena Ytacoatiara / Piripiri
+491,Campinense / PB,Guarany / CE,25/09/2021,16:00,Ernani Sátyro / Campina Grande
+492,Atlético / CE,Paragominas / PA,25/09/2021,15:00,Horácio Domingos de Sousa / Horizonte
+493,Cianorte / PR,Aparecidense / GO,26/09/2021,16:00,Albino Turbay / Cianorte
+494,Caxias / RS,União de Rondonópolis / MT,25/09/2021,16:00,Francisco Stédile / Caxias do Sul
+495,Esportivo / RS,Ferroviária / SP,25/09/2021,16:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+496,Uberlândia / MG,Joinville / SC,26/09/2021,16:00,Parque do Sabiá / Uberlandia
+497,Moto Club / MA,América / RN,03/10/2021,15:00,Nhozinho Santos / Sao Luis
+498,ABC / RN,4 de Julho / PI,03/10/2021,16:00,Maria Lamas Farache / Natal
+499,Guarany / CE,Campinense / PB,03/10/2021,15:00,Plácido Aderaldo Castelo / Sobral
+500,Paragominas / PA,Atlético / CE,03/10/2021,16:00,Arena do Município Verde / Paragominas
+501,Aparecidense / GO,Cianorte / PR,02/10/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+502,União de Rondonópolis / MT,Caxias / RS,02/10/2021,16:00,Luthero Lopes / Rondonopolis
+503,Ferroviária / SP,Esportivo / RS,03/10/2021,16:00,Ademar Pereira de Barros / Araraquara
+504,Joinville / SC,Uberlândia / MG,02/10/2021,15:00,Arena Joinville / Joinville
+505,Atlético / CE,Ferroviária / SP,10/10/2021,15:00,Horácio Domingos de Sousa / Horizonte
+506,América / RN,Campinense / PB,09/10/2021,17:30,Arena das Dunas / Natal
+507,Caxias / RS,ABC / RN,10/10/2021,17:30,Francisco Stédile / Caxias do Sul
+508,Uberlândia / MG,Aparecidense / GO,09/10/2021,15:00,Parque do Sabiá / Uberlandia
+509,Ferroviária / SP,Atlético / CE,17/10/2021,15:00,Ademar Pereira de Barros / Araraquara
+510,Campinense / PB,América / RN,16/10/2021,17:30,Ernani Sátyro / Campina Grande
+511,ABC / RN,Caxias / RS,17/10/2021,17:30,Maria Lamas Farache / Natal
+512,Aparecidense / GO,Uberlândia / MG,16/10/2021,15:00,Anibal Batista de Toledo / Aparecida de Goiania
+513,Aparecidense / GO,ABC / RN,24/10/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+514,Atlético / CE,Campinense / PB,23/10/2021,15:00,Horácio Domingos de Sousa / Horizonte
+515,ABC / RN,Aparecidense / GO,31/10/2021,16:00,Maria Lamas Farache / Natal
+516,Campinense / PB,Atlético / CE,30/10/2021,16:00,Ernani Sátyro / Campina Grande
+517,Campinense / PB,Aparecidense / GO,06/11/2021,16:00,Ernani Sátyro / Campina Grande
+518,Aparecidense / GO,Campinense / PB,13/11/2021,16:00,Anibal Batista de Toledo / Aparecida de Goiania

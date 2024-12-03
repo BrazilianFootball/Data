@@ -1,267 +1,267 @@
-Game,Home,Away
-001,Genus / RO,Nacional / AM
-002,Atlético / AC,Trem / AP
-003,Palmas / TO,S. Francisco / PA
-004,Princesa do Solimões / AM,Bare / RR
-005,Nautico / RR,Rio Branco / AC
-006,São Raimundo / PA,Rondoniense / RO
-007,Santos / AP,Moto Club / MA
-008,Águia de Marabá / PA,Tocantinópolis / TO
-009,Juazeirense / BA,Icasa / CE
-010,Maranhão / MA,Altos / PI
-011,Parnahyba / PI,CSA / AL
-012,Guarani / CE,Central / PE
-013,Sousa / PB,Globo / RN
-014,Galicia / BA,América / PE
-015,Serra Talhada / PE,Uniclinic / CE
-016,Potiguar / RN,Itabaiana / SE
-017,Sergipe / SE,Fluminense de Feira / BA
-018,Murici / AL,Campinense / PB
-019,Araguaia / MT,Aparecidense / GO
-020,Ceilândia / DF,Comercial / MS
-021,7 de Setembro / MS,Luziânia / DF
-022,Anápolis / GO,Sinop / MT
-023,Goianesia / GO,Volta Redonda / RJ
-024,URT / MG,Desportiva / ES
-025,Espirito Santo / ES,Caldense / MG
-026,Boavista / RJ,Audax / SP
-027,São Bento / SP,São José / RS
-028,Villa Nova / MG,Portuguesa / RJ
-029,Novo Hamburgo / RS,J. Malucelli / PR
-030,Madureira / RJ,Brusque / SC
-031,Internacional / SC,Linense / SP
-032,PSTC / PR,São Paulo / RS
-033,Caxias / RS,Metropolitano / SC
-034,Ituano / SP,Maringá / PR
-035,Nacional / AM,Atlético / AC
-036,Trem / AP,Genus / RO
-037,S. Francisco / PA,Princesa do Solimões / AM
-038,Bare / RR,Palmas / TO
-039,Rio Branco / AC,São Raimundo / PA
-040,Rondoniense / RO,Nautico / RR
-041,Moto Club / MA,Águia de Marabá / PA
-042,Tocantinópolis / TO,Santos / AP
-043,Icasa / CE,Maranhão / MA
-044,Altos / PI,Juazeirense / BA
-045,CSA / AL,Guarani / CE
-046,Central / PE,Parnahyba / PI
-047,Globo / RN,Galicia / BA
-048,América / PE,Sousa / PB
-049,Uniclinic / CE,Potiguar / RN
-050,Itabaiana / SE,Serra Talhada / PE
-051,Fluminense de Feira / BA,Murici / AL
-052,Campinense / PB,Sergipe / SE
-053,Aparecidense / GO,Ceilândia / DF
-054,Comercial / MS,Araguaia / MT
-055,Luziânia / DF,Anápolis / GO
-056,Sinop / MT,7 de Setembro / MS
-057,Volta Redonda / RJ,URT / MG
-058,Desportiva / ES,Goianesia / GO
-059,Caldense / MG,Boavista / RJ
-060,Audax / SP,Espirito Santo / ES
-061,São José / RS,Villa Nova / MG
-062,Portuguesa / RJ,São Bento / SP
-063,J. Malucelli / PR,Madureira / RJ
-064,Brusque / SC,Novo Hamburgo / RS
-065,Linense / SP,PSTC / PR
-066,São Paulo / RS,Internacional / SC
-067,Metropolitano / SC,Ituano / SP
-068,Maringá / PR,Caxias / RS
-069,Nacional / AM,Trem / AP
-070,Genus / RO,Atlético / AC
-071,S. Francisco / PA,Bare / RR
-072,Palmas / TO,Princesa do Solimões / AM
-073,Rio Branco / AC,Rondoniense / RO
-074,Nautico / RR,São Raimundo / PA
-075,Moto Club / MA,Tocantinópolis / TO
-076,Santos / AP,Águia de Marabá / PA
-077,Altos / PI,Icasa / CE
-078,Juazeirense / BA,Maranhão / MA
-079,CSA / AL,Central / PE
-080,Guarani / CE,Parnahyba / PI
-081,Globo / RN,América / PE
-082,Sousa / PB,Galicia / BA
-083,Uniclinic / CE,Itabaiana / SE
-084,Serra Talhada / PE,Potiguar / RN
-085,Fluminense de Feira / BA,Campinense / PB
-086,Sergipe / SE,Murici / AL
-087,Comercial / MS,Aparecidense / GO
-088,Araguaia / MT,Ceilândia / DF
-089,Luziânia / DF,Sinop / MT
-090,Anápolis / GO,7 de Setembro / MS
-091,Volta Redonda / RJ,Desportiva / ES
-092,Goianesia / GO,URT / MG
-093,Caldense / MG,Audax / SP
-094,Espirito Santo / ES,Boavista / RJ
-095,São José / RS,Portuguesa / RJ
-096,São Bento / SP,Villa Nova / MG
-097,Brusque / SC,J. Malucelli / PR
-098,Madureira / RJ,Novo Hamburgo / RS
-099,Linense / SP,São Paulo / RS
-100,PSTC / PR,Internacional / SC
-101,Metropolitano / SC,Maringá / PR
-102,Caxias / RS,Ituano / SP
-103,Atlético / AC,Genus / RO
-104,Trem / AP,Nacional / AM
-105,Princesa do Solimões / AM,Palmas / TO
-106,Bare / RR,S. Francisco / PA
-107,São Raimundo / PA,Nautico / RR
-108,Rondoniense / RO,Rio Branco / AC
-109,Águia de Marabá / PA,Santos / AP
-110,Tocantinópolis / TO,Moto Club / MA
-111,Maranhão / MA,Juazeirense / BA
-112,Icasa / CE,Altos / PI
-113,Parnahyba / PI,Guarani / CE
-114,Central / PE,CSA / AL
-115,Galicia / BA,Sousa / PB
-116,América / PE,Globo / RN
-117,Potiguar / RN,Serra Talhada / PE
-118,Itabaiana / SE,Uniclinic / CE
-119,Murici / AL,Sergipe / SE
-120,Campinense / PB,Fluminense de Feira / BA
-121,Ceilândia / DF,Araguaia / MT
-122,Aparecidense / GO,Comercial / MS
-123,7 de Setembro / MS,Anápolis / GO
-124,Sinop / MT,Luziânia / DF
-125,URT / MG,Goianesia / GO
-126,Desportiva / ES,Volta Redonda / RJ
-127,Boavista / RJ,Espirito Santo / ES
-128,Audax / SP,Caldense / MG
-129,Villa Nova / MG,São Bento / SP
-130,Portuguesa / RJ,São José / RS
-131,Novo Hamburgo / RS,Madureira / RJ
-132,J. Malucelli / PR,Brusque / SC
-133,Internacional / SC,PSTC / PR
-134,São Paulo / RS,Linense / SP
-135,Ituano / SP,Caxias / RS
-136,Maringá / PR,Metropolitano / SC
-137,Atlético / AC,Nacional / AM
-138,Genus / RO,Trem / AP
-139,Princesa do Solimões / AM,S. Francisco / PA
-140,Palmas / TO,Bare / RR
-141,São Raimundo / PA,Rio Branco / AC
-142,Nautico / RR,Rondoniense / RO
-143,Águia de Marabá / PA,Moto Club / MA
-144,Santos / AP,Tocantinópolis / TO
-145,Maranhão / MA,Icasa / CE
-146,Juazeirense / BA,Altos / PI
-147,Guarani / CE,CSA / AL
-148,Parnahyba / PI,Central / PE
-149,Galicia / BA,Globo / RN
-150,Sousa / PB,América / PE
-151,Potiguar / RN,Uniclinic / CE
-152,Serra Talhada / PE,Itabaiana / SE
-153,Murici / AL,Fluminense de Feira / BA
-154,Sergipe / SE,Campinense / PB
-155,Ceilândia / DF,Aparecidense / GO
-156,Araguaia / MT,Comercial / MS
-157,Anápolis / GO,Luziânia / DF
-158,7 de Setembro / MS,Sinop / MT
-159,URT / MG,Volta Redonda / RJ
-160,Goianesia / GO,Desportiva / ES
-161,Boavista / RJ,Caldense / MG
-162,Espirito Santo / ES,Audax / SP
-163,Villa Nova / MG,São José / RS
-164,São Bento / SP,Portuguesa / RJ
-165,Madureira / RJ,J. Malucelli / PR
-166,Novo Hamburgo / RS,Brusque / SC
-167,PSTC / PR,Linense / SP
-168,Internacional / SC,São Paulo / RS
-169,Ituano / SP,Metropolitano / SC
-170,Caxias / RS,Maringá / PR
-171,Nacional / AM,Genus / RO
-172,Trem / AP,Atlético / AC
-173,S. Francisco / PA,Palmas / TO
-174,Bare / RR,Princesa do Solimões / AM
-175,Rio Branco / AC,Nautico / RR
-176,Rondoniense / RO,São Raimundo / PA
-177,Moto Club / MA,Santos / AP
-178,Tocantinópolis / TO,Águia de Marabá / PA
-179,Icasa / CE,Juazeirense / BA
-180,Altos / PI,Maranhão / MA
-181,CSA / AL,Parnahyba / PI
-182,Central / PE,Guarani / CE
-183,Globo / RN,Sousa / PB
-184,América / PE,Galicia / BA
-185,Uniclinic / CE,Serra Talhada / PE
-186,Itabaiana / SE,Potiguar / RN
-187,Fluminense de Feira / BA,Sergipe / SE
-188,Campinense / PB,Murici / AL
-189,Aparecidense / GO,Araguaia / MT
-190,Comercial / MS,Ceilândia / DF
-191,Luziânia / DF,7 de Setembro / MS
-192,Sinop / MT,Anápolis / GO
-193,Volta Redonda / RJ,Goianesia / GO
-194,Desportiva / ES,URT / MG
-195,Caldense / MG,Espirito Santo / ES
-196,Audax / SP,Boavista / RJ
-197,São José / RS,São Bento / SP
-198,Portuguesa / RJ,Villa Nova / MG
-199,J. Malucelli / PR,Novo Hamburgo / RS
-200,Brusque / SC,Madureira / RJ
-201,Linense / SP,Internacional / SC
-202,São Paulo / RS,PSTC / PR
-203,Metropolitano / SC,Caxias / RS
-204,Maringá / PR,Ituano / SP
-205,Aparecidense / GO,Ceilândia / DF
-206,Espirito Santo / ES,J. Malucelli / PR
-207,Caxias / RS,Internacional / SC
-208,América / PE,Altos / PI
-209,Parnahyba / PI,CSA / AL
-210,Fluminense de Feira / BA,7 de Setembro / MS
-211,URT / MG,Volta Redonda / RJ
-212,Anápolis / GO,Caldense / MG
-213,Brusque / SC,São Bento / SP
-214,Linense / SP,Ituano / SP
-215,Itabaiana / SE,Uniclinic / CE
-216,Campinense / PB,Globo / RN
-217,Palmas / TO,Princesa do Solimões / AM
-218,Nautico / RR,Atlético / AC
-219,Ituano / SP,Linense / SP
-220,Ceilândia / DF,Aparecidense / GO
-221,São Bento / SP,Brusque / SC
-222,Internacional / SC,Caxias / RS
-223,Juazeirense / BA,São Raimundo / PA
-224,Moto Club / MA,Águia de Marabá / PA
-225,CSA / AL,Parnahyba / PI
-226,Uniclinic / CE,Itabaiana / SE
-227,Volta Redonda / RJ,URT / MG
-228,Caldense / MG,Anápolis / GO
-229,J. Malucelli / PR,Espirito Santo / ES
-230,Altos / PI,América / PE
-231,7 de Setembro / MS,Fluminense de Feira / BA
-232,Globo / RN,Campinense / PB
-233,Princesa do Solimões / AM,Palmas / TO
-234,São Raimundo / PA,Juazeirense / BA
-235,Águia de Marabá / PA,Moto Club / MA
-236,Atlético / AC,Nautico / RR
-237,J. Malucelli / PR,São Bento / SP
-238,CSA / AL,Altos / PI
-239,Fluminense de Feira / BA,Ceilândia / DF
-240,Anápolis / GO,Volta Redonda / RJ
-241,Campinense / PB,Itabaiana / SE
-242,Internacional / SC,Ituano / SP
-243,Princesa do Solimões / AM,Atlético / AC
-244,Moto Club / MA,Juazeirense / BA
-245,Ituano / SP,Internacional / SC
-246,Ceilândia / DF,Fluminense de Feira / BA
-247,São Bento / SP,J. Malucelli / PR
-248,Altos / PI,CSA / AL
-249,Volta Redonda / RJ,Anápolis / GO
-250,Itabaiana / SE,Campinense / PB
-251,Atlético / AC,Princesa do Solimões / AM
-252,Juazeirense / BA,Moto Club / MA
-253,Moto Club / MA,Atlético / AC
-254,Ituano / SP,CSA / AL
-255,Fluminense de Feira / BA,Volta Redonda / RJ
-256,Itabaiana / SE,São Bento / SP
-257,Volta Redonda / RJ,Fluminense de Feira / BA
-258,CSA / AL,Ituano / SP
-259,São Bento / SP,Itabaiana / SE
-260,Atlético / AC,Moto Club / MA
-261,Moto Club / MA,Volta Redonda / RJ
-262,CSA / AL,São Bento / SP
-263,Volta Redonda / RJ,Moto Club / MA
-264,São Bento / SP,CSA / AL
-265,CSA / AL,Volta Redonda / RJ
-266,Volta Redonda / RJ,CSA / AL
+Game,Home,Away,Date,Time,Stadium
+001,Genus / RO,Nacional / AM,12/06/2016,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+002,Atlético / AC,Trem / AP,12/06/2016,17:30,Arena da Floresta / Rio Branco
+003,Palmas / TO,S. Francisco / PA,12/06/2016,16:00,Nilton Santos / Palmas
+004,Princesa do Solimões / AM,Bare / RR,12/06/2016,16:30,Gilberto Mestrinho / Manacapuru
+005,Nautico / RR,Rio Branco / AC,12/06/2016,17:00,Vila Olímpica Roberto Marinho / Boa Vista
+006,São Raimundo / PA,Rondoniense / RO,12/06/2016,17:00,Estadual de Santarém (Jader Barbalho) / Santarém
+007,Santos / AP,Moto Club / MA,12/06/2016,17:00,Milton de Souza Correia / Macapa
+008,Águia de Marabá / PA,Tocantinópolis / TO,12/06/2016,17:00,Zinho Oliveira / Marabá
+009,Juazeirense / BA,Icasa / CE,12/06/2016,16:00,Adauto Moraes / Juazeiro
+010,Maranhão / MA,Altos / PI,12/06/2016,16:00,Governador João Castelo / Sao Luis
+011,Parnahyba / PI,CSA / AL,12/06/2016,17:00,Mão Santa / Parnaiba
+012,Guarani / CE,Central / PE,12/06/2016,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+013,Sousa / PB,Globo / RN,12/06/2016,16:00,Antônio Mariz / Sousa
+014,Galicia / BA,América / PE,12/06/2016,16:00,José Rocha / 
+015,Serra Talhada / PE,Uniclinic / CE,12/06/2016,16:00,Nildo Pereira de Menezes / Serra Talhada
+016,Potiguar / RN,Itabaiana / SE,12/06/2016,17:00,Leonardo Nogueira / Mossoro
+017,Sergipe / SE,Fluminense de Feira / BA,12/06/2016,16:00,Lourival Baptista / Aracaju
+018,Murici / AL,Campinense / PB,12/06/2016,16:00,José Gomes da Costa / Murici
+019,Araguaia / MT,Aparecidense / GO,12/06/2016,17:00,José Valeriano Costa / Barra do Garças
+020,Ceilândia / DF,Comercial / MS,12/06/2016,16:00,Mª de Lourdes Abadia / Ceilândia
+021,7 de Setembro / MS,Luziânia / DF,12/06/2016,18:30,Frédis Saldivar / Dourados
+022,Anápolis / GO,Sinop / MT,12/06/2016,16:00,Jonas Ferreira Duarte / Anápolis
+023,Goianesia / GO,Volta Redonda / RJ,12/06/2016,16:00,Waldeir José de Oliveira / Goianesia
+024,URT / MG,Desportiva / ES,12/06/2016,16:00,Zama Maciel / Patos de Minas
+025,Espirito Santo / ES,Caldense / MG,12/06/2016,16:00,Alencar de Araripe / Cariacica
+026,Boavista / RJ,Audax / SP,12/06/2016,11:00,Nivaldo Pereira / Queimados
+027,São Bento / SP,São José / RS,12/06/2016,11:00,Walter Ribeiro / Sorocaba
+028,Villa Nova / MG,Portuguesa / RJ,12/06/2016,16:00,Castor Cifuentes / Nova Lima
+029,Novo Hamburgo / RS,J. Malucelli / PR,12/06/2016,16:00,Estádio do Vale / Novo Hamburgo
+030,Madureira / RJ,Brusque / SC,12/06/2016,15:00,Aniceto Moscoso / Rio de Janeiro
+031,Internacional / SC,Linense / SP,12/06/2016,16:00,Vidal Ramos Júnior / Lages
+032,PSTC / PR,São Paulo / RS,12/06/2016,16:00,Jacy Scaff / Londrina
+033,Caxias / RS,Metropolitano / SC,12/06/2016,16:00,Francisco Stédile / Caxias do Sul
+034,Ituano / SP,Maringá / PR,12/06/2016,16:30,Novelli Junior / Itu
+035,Nacional / AM,Atlético / AC,18/06/2016,17:00,Arena da Amazônia / Manaus
+036,Trem / AP,Genus / RO,19/06/2016,17:00,Milton de Souza Correia / Macapa
+037,S. Francisco / PA,Princesa do Solimões / AM,19/06/2016,18:00,Estadual de Santarém (Jader Barbalho) / Santarém
+038,Bare / RR,Palmas / TO,19/06/2016,18:30,Vila Olímpica Roberto Marinho / Boa Vista
+039,Rio Branco / AC,São Raimundo / PA,19/06/2016,18:00,Arena da Floresta / Rio Branco
+040,Rondoniense / RO,Nautico / RR,19/06/2016,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+041,Moto Club / MA,Águia de Marabá / PA,19/06/2016,16:00,Governador João Castelo / Sao Luis
+042,Tocantinópolis / TO,Santos / AP,19/06/2016,16:00,João Ribeiro / Tocantinopolis
+043,Icasa / CE,Maranhão / MA,19/06/2016,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+044,Altos / PI,Juazeirense / BA,19/06/2016,17:00,Lindolfo Monteiro / Teresina
+045,CSA / AL,Guarani / CE,19/06/2016,16:30,Rei Pelé / Maceió
+046,Central / PE,Parnahyba / PI,19/06/2016,16:00,Luíz José de Lacerda / Caruaru
+047,Globo / RN,Galicia / BA,19/06/2016,17:00,Manoel Dantas Barretto / Ceara-Mirim
+048,América / PE,Sousa / PB,19/06/2016,16:00,Ademir Cunha / Paulista
+049,Uniclinic / CE,Potiguar / RN,20/06/2016,20:00,Presidente Vargas / Fortaleza
+050,Itabaiana / SE,Serra Talhada / PE,18/06/2016,16:00,Etelvino Medonça / Itabaiana
+051,Fluminense de Feira / BA,Murici / AL,19/06/2016,16:00,Alberto Oliveira / Feira de Santana
+052,Campinense / PB,Sergipe / SE,18/06/2016,16:00,Ernani Sátyro / Campina Grande
+053,Aparecidense / GO,Ceilândia / DF,18/06/2016,17:00,Anibal Batista de Toledo / Aparecida de Goiânia
+054,Comercial / MS,Araguaia / MT,18/06/2016,16:00,Jacques da Luz / Campo Grande
+055,Luziânia / DF,Anápolis / GO,18/06/2016,16:00,José Roriz Aguiar (Zequinha Roriz) / Luziania
+056,Sinop / MT,7 de Setembro / MS,19/06/2016,16:00,Massami Uriu / Sinop
+057,Volta Redonda / RJ,URT / MG,20/06/2016,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+058,Desportiva / ES,Goianesia / GO,18/06/2016,16:30,Alencar de Araripe / Cariacica
+059,Caldense / MG,Boavista / RJ,18/06/2016,16:00,Ronaldo Junqueira / Pocos de Caldas
+060,Audax / SP,Espirito Santo / ES,19/06/2016,16:00,José Liberatti / Osasco
+061,São José / RS,Villa Nova / MG,18/06/2016,16:00,Estádio do Vale / Novo Hamburgo
+062,Portuguesa / RJ,São Bento / SP,19/06/2016,15:00,São Januário / Rio de Janeiro
+063,J. Malucelli / PR,Madureira / RJ,19/06/2016,16:00,Janguito Malucelli / Curitiba
+064,Brusque / SC,Novo Hamburgo / RS,19/06/2016,16:00,Augusto Bauer / Brusque
+065,Linense / SP,PSTC / PR,19/06/2016,16:00,Gilberto Siqueira Lopes / Lins
+066,São Paulo / RS,Internacional / SC,19/06/2016,11:00,Aldo Dapuzzo / Rio Grande
+067,Metropolitano / SC,Ituano / SP,18/06/2016,16:00,Complexo Esportivo do SESI / Blumenau
+068,Maringá / PR,Caxias / RS,19/06/2016,16:00,Willie Davids / Maringa
+069,Nacional / AM,Trem / AP,26/06/2016,17:00,Arena da Amazônia / Manaus
+070,Genus / RO,Atlético / AC,26/06/2016,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+071,S. Francisco / PA,Bare / RR,26/06/2016,18:00,Estadual de Santarém (Jader Barbalho) / Santarém
+072,Palmas / TO,Princesa do Solimões / AM,26/06/2016,18:30,Nilton Santos / Palmas
+073,Rio Branco / AC,Rondoniense / RO,26/06/2016,17:30,Antonio Aquino Lopes / Rio Branco
+074,Nautico / RR,São Raimundo / PA,26/06/2016,19:30,Vila Olímpica Roberto Marinho / Boa Vista
+075,Moto Club / MA,Tocantinópolis / TO,26/06/2016,16:00,Governador João Castelo / Sao Luis
+076,Santos / AP,Águia de Marabá / PA,26/06/2016,17:00,Milton de Souza Correia / Macapa
+077,Altos / PI,Icasa / CE,25/06/2016,17:00,Governador Alberto Silva / Teresina
+078,Juazeirense / BA,Maranhão / MA,26/06/2016,16:00,Adauto Moraes / Juazeiro
+079,CSA / AL,Central / PE,26/06/2016,16:00,Rei Pelé / Maceió
+080,Guarani / CE,Parnahyba / PI,26/06/2016,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+081,Globo / RN,América / PE,26/06/2016,17:00,Manoel Dantas Barretto / Ceara-Mirim
+082,Sousa / PB,Galicia / BA,26/06/2016,16:00,Antônio Mariz / Sousa
+083,Uniclinic / CE,Itabaiana / SE,26/06/2016,16:00,Presidente Vargas / Fortaleza
+084,Serra Talhada / PE,Potiguar / RN,26/06/2016,16:00,Nildo Pereira de Menezes / Serra Talhada
+085,Fluminense de Feira / BA,Campinense / PB,26/06/2016,16:00,Alberto Oliveira / Feira de Santana
+086,Sergipe / SE,Murici / AL,26/06/2016,16:00,Lourival Baptista / Aracaju
+087,Comercial / MS,Aparecidense / GO,25/06/2016,16:00,Jacques da Luz / Campo Grande
+088,Araguaia / MT,Ceilândia / DF,26/06/2016,17:00,José Valeriano Costa / Barra do Garças
+089,Luziânia / DF,Sinop / MT,25/06/2016,16:00,José Roriz Aguiar (Zequinha Roriz) / Luziania
+090,Anápolis / GO,7 de Setembro / MS,26/06/2016,16:00,Jonas Ferreira Duarte / Anápolis
+091,Volta Redonda / RJ,Desportiva / ES,26/06/2016,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+092,Goianesia / GO,URT / MG,26/06/2016,16:00,Waldeir José de Oliveira / Goianesia
+093,Caldense / MG,Audax / SP,25/06/2016,16:00,Ronaldo Junqueira / Pocos de Caldas
+094,Espirito Santo / ES,Boavista / RJ,25/06/2016,16:30,Alencar de Araripe / Cariacica
+095,São José / RS,Portuguesa / RJ,25/06/2016,16:00,Passo D´Areia / Porto Alegre
+096,São Bento / SP,Villa Nova / MG,26/06/2016,16:30,Walter Ribeiro / Sorocaba
+097,Brusque / SC,J. Malucelli / PR,26/06/2016,16:00,Augusto Bauer / Brusque
+098,Madureira / RJ,Novo Hamburgo / RS,25/06/2016,11:00,Aniceto Moscoso / Rio de Janeiro
+099,Linense / SP,São Paulo / RS,26/06/2016,16:00,Gilberto Siqueira Lopes / Lins
+100,PSTC / PR,Internacional / SC,26/06/2016,16:00,Ubirajara Medeiros / Cornelio Procopio
+101,Metropolitano / SC,Maringá / PR,25/06/2016,16:00,Complexo Esportivo do SESI / Blumenau
+102,Caxias / RS,Ituano / SP,26/06/2016,15:00,Francisco Stédile / Caxias do Sul
+103,Atlético / AC,Genus / RO,03/07/2016,19:00,Antonio Aquino Lopes / Rio Branco
+104,Trem / AP,Nacional / AM,03/07/2016,16:00,Milton de Souza Correia / Macapa
+105,Princesa do Solimões / AM,Palmas / TO,03/07/2016,16:30,Gilberto Mestrinho / Manacapuru
+106,Bare / RR,S. Francisco / PA,03/07/2016,19:30,Vila Olímpica Roberto Marinho / Boa Vista
+107,São Raimundo / PA,Nautico / RR,03/07/2016,17:00,Estadual de Santarém (Jader Barbalho) / Santarém
+108,Rondoniense / RO,Rio Branco / AC,03/07/2016,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+109,Águia de Marabá / PA,Santos / AP,02/07/2016,17:00,Zinho Oliveira / Marabá
+110,Tocantinópolis / TO,Moto Club / MA,03/07/2016,16:00,João Ribeiro / Tocantinopolis
+111,Maranhão / MA,Juazeirense / BA,03/07/2016,16:00,Governador João Castelo / Sao Luis
+112,Icasa / CE,Altos / PI,03/07/2016,16:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+113,Parnahyba / PI,Guarani / CE,03/07/2016,16:00,Mão Santa / Parnaiba
+114,Central / PE,CSA / AL,03/07/2016,16:00,Luíz José de Lacerda / Caruaru
+115,Galicia / BA,Sousa / PB,03/07/2016,16:00,José Rocha / 
+116,América / PE,Globo / RN,03/07/2016,16:00,Ademir Cunha / Paulista
+117,Potiguar / RN,Serra Talhada / PE,03/07/2016,17:00,Leonardo Nogueira / Mossoro
+118,Itabaiana / SE,Uniclinic / CE,03/07/2016,17:00,Etelvino Medonça / Itabaiana
+119,Murici / AL,Sergipe / SE,03/07/2016,16:00,José Gomes da Costa / Murici
+120,Campinense / PB,Fluminense de Feira / BA,03/07/2016,16:00,Ernani Sátyro / Campina Grande
+121,Ceilândia / DF,Araguaia / MT,02/07/2016,15:30,Mª de Lourdes Abadia / Ceilândia
+122,Aparecidense / GO,Comercial / MS,02/07/2016,17:00,Anibal Batista de Toledo / Aparecida de Goiânia
+123,7 de Setembro / MS,Anápolis / GO,03/07/2016,16:00,Frédis Saldivar / Dourados
+124,Sinop / MT,Luziânia / DF,03/07/2016,17:00,Massami Uriu / Sinop
+125,URT / MG,Goianesia / GO,03/07/2016,16:00,Zama Maciel / Patos de Minas
+126,Desportiva / ES,Volta Redonda / RJ,02/07/2016,16:00,Alencar de Araripe / Cariacica
+127,Boavista / RJ,Espirito Santo / ES,03/07/2016,11:00,Nivaldo Pereira / Queimados
+128,Audax / SP,Caldense / MG,03/07/2016,16:30,José Liberatti / Osasco
+129,Villa Nova / MG,São Bento / SP,03/07/2016,11:00,Castor Cifuentes / Nova Lima
+130,Portuguesa / RJ,São José / RS,03/07/2016,15:00,Luso Brasileiro / Rio de Janeiro
+131,Novo Hamburgo / RS,Madureira / RJ,03/07/2016,16:00,Estádio do Vale / Novo Hamburgo
+132,J. Malucelli / PR,Brusque / SC,03/07/2016,16:00,Janguito Malucelli / Curitiba
+133,Internacional / SC,PSTC / PR,03/07/2016,16:00,Vidal Ramos Júnior / Lages
+134,São Paulo / RS,Linense / SP,03/07/2016,15:00,Aldo Dapuzzo / Rio Grande
+135,Ituano / SP,Caxias / RS,02/07/2016,15:00,Novelli Junior / Itu
+136,Maringá / PR,Metropolitano / SC,03/07/2016,11:00,Willie Davids / Maringa
+137,Atlético / AC,Nacional / AM,10/07/2016,19:00,Antonio Aquino Lopes / Rio Branco
+138,Genus / RO,Trem / AP,10/07/2016,19:00,Aluizio Pinheiro Ferreira / Porto Velho
+139,Princesa do Solimões / AM,S. Francisco / PA,10/07/2016,16:30,Gilberto Mestrinho / Manacapuru
+140,Palmas / TO,Bare / RR,09/07/2016,18:00,Nilton Santos / Palmas
+141,São Raimundo / PA,Rio Branco / AC,10/07/2016,17:00,Estadual de Santarém (Jader Barbalho) / Santarém
+142,Nautico / RR,Rondoniense / RO,10/07/2016,19:30,Vila Olímpica Roberto Marinho / Boa Vista
+143,Águia de Marabá / PA,Moto Club / MA,10/07/2016,16:00,Zinho Oliveira / Marabá
+144,Santos / AP,Tocantinópolis / TO,10/07/2016,17:00,Milton de Souza Correia / Macapa
+145,Maranhão / MA,Icasa / CE,10/07/2016,16:00,Governador João Castelo / Sao Luis
+146,Juazeirense / BA,Altos / PI,10/07/2016,16:00,Adauto Moraes / Juazeiro
+147,Guarani / CE,CSA / AL,10/07/2016,19:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+148,Parnahyba / PI,Central / PE,10/07/2016,16:00,Mão Santa / Parnaiba
+149,Galicia / BA,Globo / RN,10/07/2016,16:00,José Rocha / 
+150,Sousa / PB,América / PE,09/07/2016,16:00,Antônio Mariz / Sousa
+151,Potiguar / RN,Uniclinic / CE,10/07/2016,17:00,Leonardo Nogueira / Mossoro
+152,Serra Talhada / PE,Itabaiana / SE,10/07/2016,16:00,Nildo Pereira de Menezes / Serra Talhada
+153,Murici / AL,Fluminense de Feira / BA,10/07/2016,16:00,José Gomes da Costa / Murici
+154,Sergipe / SE,Campinense / PB,09/07/2016,20:00,Lourival Baptista / Aracaju
+155,Ceilândia / DF,Aparecidense / GO,09/07/2016,15:30,Mª de Lourdes Abadia / Ceilândia
+156,Araguaia / MT,Comercial / MS,08/07/2016,20:00,José Valeriano Costa / Barra do Garças
+157,Anápolis / GO,Luziânia / DF,10/07/2016,16:00,Jonas Ferreira Duarte / Anápolis
+158,7 de Setembro / MS,Sinop / MT,10/07/2016,16:00,Frédis Saldivar / Dourados
+159,URT / MG,Volta Redonda / RJ,10/07/2016,16:00,Zama Maciel / Patos de Minas
+160,Goianesia / GO,Desportiva / ES,10/07/2016,16:00,Waldeir José de Oliveira / Goianesia
+161,Boavista / RJ,Caldense / MG,10/07/2016,11:00,Nivaldo Pereira / Queimados
+162,Espirito Santo / ES,Audax / SP,09/07/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
+163,Villa Nova / MG,São José / RS,10/07/2016,16:00,Castor Cifuentes / Nova Lima
+164,São Bento / SP,Portuguesa / RJ,10/07/2016,11:00,Walter Ribeiro / Sorocaba
+165,Madureira / RJ,J. Malucelli / PR,09/07/2016,11:00,Aniceto Moscoso / Rio de Janeiro
+166,Novo Hamburgo / RS,Brusque / SC,10/07/2016,16:00,Estádio do Vale / Novo Hamburgo
+167,PSTC / PR,Linense / SP,10/07/2016,11:00,Ubirajara Medeiros / Cornelio Procopio
+168,Internacional / SC,São Paulo / RS,10/07/2016,11:00,Vidal Ramos Júnior / Lages
+169,Ituano / SP,Metropolitano / SC,09/07/2016,15:00,Novelli Junior / Itu
+170,Caxias / RS,Maringá / PR,10/07/2016,16:30,Francisco Stédile / Caxias do Sul
+171,Nacional / AM,Genus / RO,17/07/2016,18:00,Ismael Benigno / Manaus
+172,Trem / AP,Atlético / AC,17/07/2016,18:00,Milton de Souza Correia / Macapa
+173,S. Francisco / PA,Palmas / TO,17/07/2016,18:00,Estadual de Santarém (Jader Barbalho) / Santarém
+174,Bare / RR,Princesa do Solimões / AM,17/07/2016,18:00,Vila Olímpica Roberto Marinho / Boa Vista
+175,Rio Branco / AC,Nautico / RR,17/07/2016,18:00,Arena da Floresta / Rio Branco
+176,Rondoniense / RO,São Raimundo / PA,17/07/2016,18:00,Aluizio Pinheiro Ferreira / Porto Velho
+177,Moto Club / MA,Santos / AP,17/07/2016,18:00,Governador João Castelo / Sao Luis
+178,Tocantinópolis / TO,Águia de Marabá / PA,17/07/2016,18:00,João Ribeiro / Tocantinopolis
+179,Icasa / CE,Juazeirense / BA,17/07/2016,18:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+180,Altos / PI,Maranhão / MA,17/07/2016,18:00,Lindolfo Monteiro / Teresina
+181,CSA / AL,Parnahyba / PI,17/07/2016,18:00,Rei Pelé / Maceió
+182,Central / PE,Guarani / CE,17/07/2016,18:00,Luíz José de Lacerda / Caruaru
+183,Globo / RN,Sousa / PB,17/07/2016,18:00,Manoel Dantas Barretto / Ceara-Mirim
+184,América / PE,Galicia / BA,17/07/2016,18:00,Ademir Cunha / Paulista
+185,Uniclinic / CE,Serra Talhada / PE,17/07/2016,18:00,Presidente Vargas / Fortaleza
+186,Itabaiana / SE,Potiguar / RN,17/07/2016,18:00,Etelvino Medonça / Itabaiana
+187,Fluminense de Feira / BA,Sergipe / SE,17/07/2016,18:00,Alberto Oliveira / Feira de Santana
+188,Campinense / PB,Murici / AL,17/07/2016,18:00,Ernani Sátyro / Campina Grande
+189,Aparecidense / GO,Araguaia / MT,17/07/2016,18:00,Anibal Batista de Toledo / Aparecida de Goiânia
+190,Comercial / MS,Ceilândia / DF,17/07/2016,18:00,Frédis Saldivar / Dourados
+191,Luziânia / DF,7 de Setembro / MS,17/07/2016,18:00,José Roriz Aguiar (Zequinha Roriz) / Luziania
+192,Sinop / MT,Anápolis / GO,17/07/2016,18:00,Massami Uriu / Sinop
+193,Volta Redonda / RJ,Goianesia / GO,17/07/2016,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+194,Desportiva / ES,URT / MG,17/07/2016,18:00,Alencar de Araripe / Cariacica
+195,Caldense / MG,Espirito Santo / ES,17/07/2016,18:00,Ronaldo Junqueira / Pocos de Caldas
+196,Audax / SP,Boavista / RJ,17/07/2016,18:00,José Liberatti / Osasco
+197,São José / RS,São Bento / SP,17/07/2016,18:00,Passo D´Areia / Porto Alegre
+198,Portuguesa / RJ,Villa Nova / MG,17/07/2016,18:00,Luso Brasileiro / Rio de Janeiro
+199,J. Malucelli / PR,Novo Hamburgo / RS,17/07/2016,18:00,Janguito Malucelli / Curitiba
+200,Brusque / SC,Madureira / RJ,17/07/2016,18:00,Augusto Bauer / Brusque
+201,Linense / SP,Internacional / SC,17/07/2016,18:00,Gilberto Siqueira Lopes / Lins
+202,São Paulo / RS,PSTC / PR,17/07/2016,18:00,Aldo Dapuzzo / Rio Grande
+203,Metropolitano / SC,Caxias / RS,17/07/2016,18:00,Complexo Esportivo do SESI / Blumenau
+204,Maringá / PR,Ituano / SP,17/07/2016,18:00,Willie Davids / Maringa
+205,Aparecidense / GO,Ceilândia / DF,23/07/2016,16:00,Anibal Batista de Toledo / Aparecida de Goiânia
+206,Espirito Santo / ES,J. Malucelli / PR,23/07/2016,16:00,Kleber José de Andrade (em obras) / Cariacica
+207,Caxias / RS,Internacional / SC,24/07/2016,15:00,Francisco Stédile / Caxias do Sul
+208,América / PE,Altos / PI,24/07/2016,16:00,Ademir Cunha / Paulista
+209,Parnahyba / PI,CSA / AL,24/07/2016,16:00,Mão Santa / Parnaiba
+210,Fluminense de Feira / BA,7 de Setembro / MS,24/07/2016,16:00,Alberto Oliveira / Feira de Santana
+211,URT / MG,Volta Redonda / RJ,24/07/2016,16:00,Zama Maciel / Patos de Minas
+212,Anápolis / GO,Caldense / MG,24/07/2016,16:00,Jonas Ferreira Duarte / Anápolis
+213,Brusque / SC,São Bento / SP,24/07/2016,11:00,Augusto Bauer / Brusque
+214,Linense / SP,Ituano / SP,24/07/2016,16:00,Gilberto Siqueira Lopes / Lins
+215,Itabaiana / SE,Uniclinic / CE,24/07/2016,17:00,Etelvino Medonça / Itabaiana
+216,Campinense / PB,Globo / RN,24/07/2016,19:00,Ernani Sátyro / Campina Grande
+217,Palmas / TO,Princesa do Solimões / AM,30/07/2016,18:30,Nilton Santos / Palmas
+218,Nautico / RR,Atlético / AC,30/07/2016,18:00,Vila Olímpica Roberto Marinho / Boa Vista
+219,Ituano / SP,Linense / SP,30/07/2016,15:00,Novelli Junior / Itu
+220,Ceilândia / DF,Aparecidense / GO,30/07/2016,15:30,Mª de Lourdes Abadia / Ceilândia
+221,São Bento / SP,Brusque / SC,30/07/2016,17:00,Walter Ribeiro / Sorocaba
+222,Internacional / SC,Caxias / RS,31/07/2016,11:00,Vidal Ramos Júnior / Lages
+223,Juazeirense / BA,São Raimundo / PA,31/07/2016,16:00,Adauto Moraes / Juazeiro
+224,Moto Club / MA,Águia de Marabá / PA,31/07/2016,16:00,Governador João Castelo / Sao Luis
+225,CSA / AL,Parnahyba / PI,31/07/2016,16:00,Rei Pelé / Maceió
+226,Uniclinic / CE,Itabaiana / SE,31/07/2016,16:00,Presidente Vargas / Fortaleza
+227,Volta Redonda / RJ,URT / MG,31/07/2016,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+228,Caldense / MG,Anápolis / GO,31/07/2016,16:00,Ronaldo Junqueira / Pocos de Caldas
+229,J. Malucelli / PR,Espirito Santo / ES,31/07/2016,16:00,Janguito Malucelli / Curitiba
+230,Altos / PI,América / PE,31/07/2016,16:00,Lindolfo Monteiro / Teresina
+231,7 de Setembro / MS,Fluminense de Feira / BA,31/07/2016,18:30,Frédis Saldivar / Dourados
+232,Globo / RN,Campinense / PB,31/07/2016,19:00,Manoel Dantas Barretto / Ceara-Mirim
+233,Princesa do Solimões / AM,Palmas / TO,07/08/2016,16:30,Gilberto Mestrinho / Manacapuru
+234,São Raimundo / PA,Juazeirense / BA,07/08/2016,17:00,Estadual de Santarém (Jader Barbalho) / Santarém
+235,Águia de Marabá / PA,Moto Club / MA,07/08/2016,16:00,Zinho Oliveira / Marabá
+236,Atlético / AC,Nautico / RR,07/08/2016,19:00,Antonio Aquino Lopes / Rio Branco
+237,J. Malucelli / PR,São Bento / SP,14/08/2016,15:30,Janguito Malucelli / Curitiba
+238,CSA / AL,Altos / PI,14/08/2016,16:00,Rei Pelé / Maceió
+239,Fluminense de Feira / BA,Ceilândia / DF,14/08/2016,16:00,Alberto Oliveira / Feira de Santana
+240,Anápolis / GO,Volta Redonda / RJ,14/08/2016,16:00,Jonas Ferreira Duarte / Anápolis
+241,Campinense / PB,Itabaiana / SE,14/08/2016,19:00,Ernani Sátyro / Campina Grande
+242,Internacional / SC,Ituano / SP,15/08/2016,20:00,Vidal Ramos Júnior / Lages
+243,Princesa do Solimões / AM,Atlético / AC,14/08/2016,16:30,Gilberto Mestrinho / Manacapuru
+244,Moto Club / MA,Juazeirense / BA,14/08/2016,16:00,Governador João Castelo / Sao Luis
+245,Ituano / SP,Internacional / SC,20/08/2016,15:00,Novelli Junior / Itu
+246,Ceilândia / DF,Fluminense de Feira / BA,20/08/2016,15:30,Mª de Lourdes Abadia / Ceilândia
+247,São Bento / SP,J. Malucelli / PR,20/08/2016,15:00,Walter Ribeiro / Sorocaba
+248,Altos / PI,CSA / AL,21/08/2016,16:00,Lindolfo Monteiro / Teresina
+249,Volta Redonda / RJ,Anápolis / GO,21/08/2016,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+250,Itabaiana / SE,Campinense / PB,21/08/2016,19:00,Etelvino Mendonça / Itabaiana
+251,Atlético / AC,Princesa do Solimões / AM,21/08/2016,19:00,Antonio Aquino Lopes / Rio Branco
+252,Juazeirense / BA,Moto Club / MA,21/08/2016,16:00,Adauto Moraes / Juazeiro
+253,Moto Club / MA,Atlético / AC,27/08/2016,17:00,Governador João Castelo / Sao Luis
+254,Ituano / SP,CSA / AL,27/08/2016,16:00,Novelli Junior / Itu
+255,Fluminense de Feira / BA,Volta Redonda / RJ,28/08/2016,16:00,Alberto Oliveira / Feira de Santana
+256,Itabaiana / SE,São Bento / SP,29/08/2016,20:00,Etelvino Mendonça / Itabaiana
+257,Volta Redonda / RJ,Fluminense de Feira / BA,03/09/2016,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+258,CSA / AL,Ituano / SP,04/09/2016,16:00,Rei Pelé / Maceió
+259,São Bento / SP,Itabaiana / SE,04/09/2016,18:30,Walter Ribeiro / Sorocaba
+260,Atlético / AC,Moto Club / MA,04/09/2016,19:00,Antonio Aquino Lopes / Rio Branco
+261,Moto Club / MA,Volta Redonda / RJ,11/09/2016,17:00,Governador João Castelo / Sao Luis
+262,CSA / AL,São Bento / SP,11/09/2016,16:00,Rei Pelé / Maceió
+263,Volta Redonda / RJ,Moto Club / MA,17/09/2016,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+264,São Bento / SP,CSA / AL,18/09/2016,16:00,Walter Ribeiro / Sorocaba
+265,CSA / AL,Volta Redonda / RJ,25/09/2016,19:00,Rei Pelé / Maceió
+266,Volta Redonda / RJ,CSA / AL,01/10/2016,21:00,Sylvio Raulino de Oliveira / Volta Redonda

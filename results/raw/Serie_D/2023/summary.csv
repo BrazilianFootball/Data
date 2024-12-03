@@ -1,511 +1,511 @@
-Game,Home,Away
-001,Aguia de Maraba / PA,Princesa do Solimões / AM
-002,Nacional / AM,Humaitá / AC
-003,Sao Francisco / AC,São Raimundo / RR
-004,Trem / AP,Tuna Luso / PA
-005,Ferroviário / CE,Fluminense / PI
-006,Parnahyba / PI,Tocantinópolis / TO
-007,Caucaia / CE,Cordino / MA
-008,Maranhão / MA,Atlético / CE
-009,Nacional / PB,Potiguar / RN
-010,Globo / RN,Sousa / PB
-011,Santa Cruz / PE,Iguatu / CE
-012,Pacajus / CE,Campinense / PB
-013,Bahia de Feira / BA,Sergipe / SE
-014,Falcon / SE,Retrô / PE
-015,Jacuipense / BA,ASA / AL
-016,Cruzeiro / AL,Atlético / BA
-017,Ceilândia / DF,Ipora / GO
-018,Anápolis / GO,Real Ariquemes / RO
-019,Interporto / TO,União de Rondonópolis / MT
-020,Operário Ceov / MT,Brasiliense / DF
-021,Nova Iguaçu / RJ,Atlhetic Ce / MG
-022,Ec Democrata / MG,Santo André / SP
-023,Portuguesa / RJ,Real Noroeste / ES
-024,Vitória / ES,Resende / RJ
-025,XV de Piracicaba / SP,Maringá / PR
-026,Cascavel / PR,Crac / GO
-027,Ferroviária / SP,Operário / MS
-028,Atlético Patrocinense / MG,Inter de Limeira / SP
-029,Aimoré / RS,Hercilio Luz / SC
-030,Sãojoseense / PR,Caxias / RS
-031,Novo Hamburgo / RS,Camboriu / SC
-032,Concordia Atlético Clube / SC,Brasil / RS
-033,São Raimundo / RR,Aguia de Maraba / PA
-034,Humaitá / AC,Trem / AP
-035,Princesa do Solimões / AM,Sao Francisco / AC
-036,Tuna Luso / PA,Nacional / AM
-037,Cordino / MA,Ferroviário / CE
-038,Tocantinópolis / TO,Maranhão / MA
-039,Fluminense / PI,Caucaia / CE
-040,Atlético / CE,Parnahyba / PI
-041,Iguatu / CE,Nacional / PB
-042,Sousa / PB,Pacajus / CE
-043,Potiguar / RN,Santa Cruz / PE
-044,Campinense / PB,Globo / RN
-045,ASA / AL,Bahia de Feira / BA
-046,Retrô / PE,Cruzeiro / AL
-047,Sergipe / SE,Jacuipense / BA
-048,Atlético / BA,Falcon / SE
-049,União de Rondonópolis / MT,Ceilândia / DF
-050,Real Ariquemes / RO,Operário Ceov / MT
-051,Ipora / GO,Interporto / TO
-052,Brasiliense / DF,Anápolis / GO
-053,Real Noroeste / ES,Nova Iguaçu / RJ
-054,Santo André / SP,Vitória / ES
-055,Atlhetic Ce / MG,Portuguesa / RJ
-056,Resende / RJ,Ec Democrata / MG
-057,Operário / MS,XV de Piracicaba / SP
-058,Crac / GO,Atlético Patrocinense / MG
-059,Maringá / PR,Ferroviária / SP
-060,Inter de Limeira / SP,Cascavel / PR
-061,Camboriu / SC,Aimoré / RS
-062,Caxias / RS,Concordia Atlético Clube / SC
-063,Hercilio Luz / SC,Novo Hamburgo / RS
-064,Brasil / RS,Sãojoseense / PR
-065,Aguia de Maraba / PA,Humaitá / AC
-066,Sao Francisco / AC,Tuna Luso / PA
-067,Nacional / AM,Princesa do Solimões / AM
-068,São Raimundo / RR,Trem / AP
-069,Ferroviário / CE,Tocantinópolis / TO
-070,Caucaia / CE,Atlético / CE
-071,Parnahyba / PI,Fluminense / PI
-072,Cordino / MA,Maranhão / MA
-073,Nacional / PB,Sousa / PB
-074,Santa Cruz / PE,Campinense / PB
-075,Globo / RN,Potiguar / RN
-076,Iguatu / CE,Pacajus / CE
-077,Bahia de Feira / BA,Retrô / PE
-078,Jacuipense / BA,Atlético / BA
-079,Falcon / SE,Sergipe / SE
-080,ASA / AL,Cruzeiro / AL
-081,Ceilândia / DF,Real Ariquemes / RO
-082,Interporto / TO,Brasiliense / DF
-083,Anápolis / GO,Ipora / GO
-084,União de Rondonópolis / MT,Operário Ceov / MT
-085,Nova Iguaçu / RJ,Santo André / SP
-086,Portuguesa / RJ,Resende / RJ
-087,Ec Democrata / MG,Atlhetic Ce / MG
-088,Real Noroeste / ES,Vitória / ES
-089,XV de Piracicaba / SP,Crac / GO
-090,Ferroviária / SP,Inter de Limeira / SP
-091,Cascavel / PR,Maringá / PR
-092,Operário / MS,Atlético Patrocinense / MG
-093,Aimoré / RS,Caxias / RS
-094,Novo Hamburgo / RS,Brasil / RS
-095,Sãojoseense / PR,Hercilio Luz / SC
-096,Camboriu / SC,Concordia Atlético Clube / SC
-097,Aguia de Maraba / PA,Sao Francisco / AC
-098,Humaitá / AC,Tuna Luso / PA
-099,Princesa do Solimões / AM,São Raimundo / RR
-100,Trem / AP,Nacional / AM
-101,Ferroviário / CE,Caucaia / CE
-102,Tocantinópolis / TO,Atlético / CE
-103,Fluminense / PI,Cordino / MA
-104,Maranhão / MA,Parnahyba / PI
-105,Nacional / PB,Santa Cruz / PE
-106,Sousa / PB,Campinense / PB
-107,Potiguar / RN,Iguatu / CE
-108,Pacajus / CE,Globo / RN
-109,Bahia de Feira / BA,Jacuipense / BA
-110,Retrô / PE,Atlético / BA
-111,Sergipe / SE,ASA / AL
-112,Cruzeiro / AL,Falcon / SE
-113,Ceilândia / DF,Interporto / TO
-114,Real Ariquemes / RO,Brasiliense / DF
-115,Ipora / GO,União de Rondonópolis / MT
-116,Operário Ceov / MT,Anápolis / GO
-117,Nova Iguaçu / RJ,Portuguesa / RJ
-118,Santo André / SP,Resende / RJ
-119,Atlhetic Ce / MG,Real Noroeste / ES
-120,Vitória / ES,Ec Democrata / MG
-121,XV de Piracicaba / SP,Ferroviária / SP
-122,Crac / GO,Inter de Limeira / SP
-123,Maringá / PR,Operário / MS
-124,Atlético Patrocinense / MG,Cascavel / PR
-125,Aimoré / RS,Novo Hamburgo / RS
-126,Caxias / RS,Brasil / RS
-127,Hercilio Luz / SC,Camboriu / SC
-128,Concordia Atlético Clube / SC,Sãojoseense / PR
-129,Tuna Luso / PA,Aguia de Maraba / PA
-130,Sao Francisco / AC,Humaitá / AC
-131,Trem / AP,Princesa do Solimões / AM
-132,Nacional / AM,São Raimundo / RR
-133,Atlético / CE,Ferroviário / CE
-134,Caucaia / CE,Tocantinópolis / TO
-135,Maranhão / MA,Fluminense / PI
-136,Parnahyba / PI,Cordino / MA
-137,Campinense / PB,Nacional / PB
-138,Santa Cruz / PE,Sousa / PB
-139,Pacajus / CE,Potiguar / RN
-140,Globo / RN,Iguatu / CE
-141,Atlético / BA,Bahia de Feira / BA
-142,Jacuipense / BA,Retrô / PE
-143,Cruzeiro / AL,Sergipe / SE
-144,Falcon / SE,ASA / AL
-145,Brasiliense / DF,Ceilândia / DF
-146,Interporto / TO,Real Ariquemes / RO
-147,Operário Ceov / MT,Ipora / GO
-148,Anápolis / GO,União de Rondonópolis / MT
-149,Resende / RJ,Nova Iguaçu / RJ
-150,Portuguesa / RJ,Santo André / SP
-151,Vitória / ES,Atlhetic Ce / MG
-152,Ec Democrata / MG,Real Noroeste / ES
-153,Inter de Limeira / SP,XV de Piracicaba / SP
-154,Ferroviária / SP,Crac / GO
-155,Atlético Patrocinense / MG,Maringá / PR
-156,Cascavel / PR,Operário / MS
-157,Brasil / RS,Aimoré / RS
-158,Novo Hamburgo / RS,Caxias / RS
-159,Concordia Atlético Clube / SC,Hercilio Luz / SC
-160,Sãojoseense / PR,Camboriu / SC
-161,Aguia de Maraba / PA,Nacional / AM
-162,Princesa do Solimões / AM,Humaitá / AC
-163,Sao Francisco / AC,Trem / AP
-164,São Raimundo / RR,Tuna Luso / PA
-165,Ferroviário / CE,Parnahyba / PI
-166,Fluminense / PI,Tocantinópolis / TO
-167,Caucaia / CE,Maranhão / MA
-168,Cordino / MA,Atlético / CE
-169,Nacional / PB,Globo / RN
-170,Potiguar / RN,Sousa / PB
-171,Santa Cruz / PE,Pacajus / CE
-172,Iguatu / CE,Campinense / PB
-173,Bahia de Feira / BA,Falcon / SE
-174,Sergipe / SE,Retrô / PE
-175,Jacuipense / BA,Cruzeiro / AL
-176,ASA / AL,Atlético / BA
-177,Ceilândia / DF,Anápolis / GO
-178,Ipora / GO,Real Ariquemes / RO
-179,Interporto / TO,Operário Ceov / MT
-180,União de Rondonópolis / MT,Brasiliense / DF
-181,Nova Iguaçu / RJ,Ec Democrata / MG
-182,Atlhetic Ce / MG,Santo André / SP
-183,Portuguesa / RJ,Vitória / ES
-184,Real Noroeste / ES,Resende / RJ
-185,XV de Piracicaba / SP,Cascavel / PR
-186,Maringá / PR,Crac / GO
-187,Ferroviária / SP,Atlético Patrocinense / MG
-188,Operário / MS,Inter de Limeira / SP
-189,Aimoré / RS,Sãojoseense / PR
-190,Hercilio Luz / SC,Caxias / RS
-191,Novo Hamburgo / RS,Concordia Atlético Clube / SC
-192,Camboriu / SC,Brasil / RS
-193,Trem / AP,Aguia de Maraba / PA
-194,Humaitá / AC,São Raimundo / RR
-195,Nacional / AM,Sao Francisco / AC
-196,Tuna Luso / PA,Princesa do Solimões / AM
-197,Maranhão / MA,Ferroviário / CE
-198,Tocantinópolis / TO,Cordino / MA
-199,Parnahyba / PI,Caucaia / CE
-200,Atlético / CE,Fluminense / PI
-201,Pacajus / CE,Nacional / PB
-202,Sousa / PB,Iguatu / CE
-203,Globo / RN,Santa Cruz / PE
-204,Campinense / PB,Potiguar / RN
-205,Cruzeiro / AL,Bahia de Feira / BA
-206,Retrô / PE,ASA / AL
-207,Falcon / SE,Jacuipense / BA
-208,Atlético / BA,Sergipe / SE
-209,Operário Ceov / MT,Ceilândia / DF
-210,Real Ariquemes / RO,União de Rondonópolis / MT
-211,Anápolis / GO,Interporto / TO
-212,Brasiliense / DF,Ipora / GO
-213,Vitória / ES,Nova Iguaçu / RJ
-214,Santo André / SP,Real Noroeste / ES
-215,Ec Democrata / MG,Portuguesa / RJ
-216,Resende / RJ,Atlhetic Ce / MG
-217,Atlético Patrocinense / MG,XV de Piracicaba / SP
-218,Crac / GO,Operário / MS
-219,Cascavel / PR,Ferroviária / SP
-220,Inter de Limeira / SP,Maringá / PR
-221,Concordia Atlético Clube / SC,Aimoré / RS
-222,Caxias / RS,Camboriu / SC
-223,Sãojoseense / PR,Novo Hamburgo / RS
-224,Brasil / RS,Hercilio Luz / SC
-225,Aguia de Maraba / PA,Trem / AP
-226,São Raimundo / RR,Humaitá / AC
-227,Sao Francisco / AC,Nacional / AM
-228,Princesa do Solimões / AM,Tuna Luso / PA
-229,Ferroviário / CE,Maranhão / MA
-230,Cordino / MA,Tocantinópolis / TO
-231,Caucaia / CE,Parnahyba / PI
-232,Fluminense / PI,Atlético / CE
-233,Nacional / PB,Pacajus / CE
-234,Iguatu / CE,Sousa / PB
-235,Santa Cruz / PE,Globo / RN
-236,Potiguar / RN,Campinense / PB
-237,Bahia de Feira / BA,Cruzeiro / AL
-238,ASA / AL,Retrô / PE
-239,Jacuipense / BA,Falcon / SE
-240,Sergipe / SE,Atlético / BA
-241,Ceilândia / DF,Operário Ceov / MT
-242,União de Rondonópolis / MT,Real Ariquemes / RO
-243,Interporto / TO,Anápolis / GO
-244,Ipora / GO,Brasiliense / DF
-245,Nova Iguaçu / RJ,Vitória / ES
-246,Real Noroeste / ES,Santo André / SP
-247,Portuguesa / RJ,Ec Democrata / MG
-248,Atlhetic Ce / MG,Resende / RJ
-249,XV de Piracicaba / SP,Atlético Patrocinense / MG
-250,Operário / MS,Crac / GO
-251,Ferroviária / SP,Cascavel / PR
-252,Maringá / PR,Inter de Limeira / SP
-253,Aimoré / RS,Concordia Atlético Clube / SC
-254,Camboriu / SC,Caxias / RS
-255,Novo Hamburgo / RS,Sãojoseense / PR
-256,Hercilio Luz / SC,Brasil / RS
-257,Nacional / AM,Aguia de Maraba / PA
-258,Humaitá / AC,Princesa do Solimões / AM
-259,Trem / AP,Sao Francisco / AC
-260,Tuna Luso / PA,São Raimundo / RR
-261,Parnahyba / PI,Ferroviário / CE
-262,Tocantinópolis / TO,Fluminense / PI
-263,Maranhão / MA,Caucaia / CE
-264,Atlético / CE,Cordino / MA
-265,Globo / RN,Nacional / PB
-266,Sousa / PB,Potiguar / RN
-267,Pacajus / CE,Santa Cruz / PE
-268,Campinense / PB,Iguatu / CE
-269,Falcon / SE,Bahia de Feira / BA
-270,Retrô / PE,Sergipe / SE
-271,Cruzeiro / AL,Jacuipense / BA
-272,Atlético / BA,ASA / AL
-273,Anápolis / GO,Ceilândia / DF
-274,Real Ariquemes / RO,Ipora / GO
-275,Operário Ceov / MT,Interporto / TO
-276,Brasiliense / DF,União de Rondonópolis / MT
-277,Ec Democrata / MG,Nova Iguaçu / RJ
-278,Santo André / SP,Atlhetic Ce / MG
-279,Vitória / ES,Portuguesa / RJ
-280,Resende / RJ,Real Noroeste / ES
-281,Cascavel / PR,XV de Piracicaba / SP
-282,Crac / GO,Maringá / PR
-283,Atlético Patrocinense / MG,Ferroviária / SP
-284,Inter de Limeira / SP,Operário / MS
-285,Sãojoseense / PR,Aimoré / RS
-286,Caxias / RS,Hercilio Luz / SC
-287,Concordia Atlético Clube / SC,Novo Hamburgo / RS
-288,Brasil / RS,Camboriu / SC
-289,Aguia de Maraba / PA,Tuna Luso / PA
-290,Humaitá / AC,Sao Francisco / AC
-291,Princesa do Solimões / AM,Trem / AP
-292,São Raimundo / RR,Nacional / AM
-293,Ferroviário / CE,Atlético / CE
-294,Tocantinópolis / TO,Caucaia / CE
-295,Fluminense / PI,Maranhão / MA
-296,Cordino / MA,Parnahyba / PI
-297,Nacional / PB,Campinense / PB
-298,Sousa / PB,Santa Cruz / PE
-299,Potiguar / RN,Pacajus / CE
-300,Iguatu / CE,Globo / RN
-301,Bahia de Feira / BA,Atlético / BA
-302,Retrô / PE,Jacuipense / BA
-303,Sergipe / SE,Cruzeiro / AL
-304,ASA / AL,Falcon / SE
-305,Ceilândia / DF,Brasiliense / DF
-306,Real Ariquemes / RO,Interporto / TO
-307,Ipora / GO,Operário Ceov / MT
-308,União de Rondonópolis / MT,Anápolis / GO
-309,Nova Iguaçu / RJ,Resende / RJ
-310,Santo André / SP,Portuguesa / RJ
-311,Atlhetic Ce / MG,Vitória / ES
-312,Real Noroeste / ES,Ec Democrata / MG
-313,XV de Piracicaba / SP,Inter de Limeira / SP
-314,Crac / GO,Ferroviária / SP
-315,Maringá / PR,Atlético Patrocinense / MG
-316,Operário / MS,Cascavel / PR
-317,Aimoré / RS,Brasil / RS
-318,Caxias / RS,Novo Hamburgo / RS
-319,Hercilio Luz / SC,Concordia Atlético Clube / SC
-320,Camboriu / SC,Sãojoseense / PR
-321,Sao Francisco / AC,Aguia de Maraba / PA
-322,Tuna Luso / PA,Humaitá / AC
-323,São Raimundo / RR,Princesa do Solimões / AM
-324,Nacional / AM,Trem / AP
-325,Caucaia / CE,Ferroviário / CE
-326,Atlético / CE,Tocantinópolis / TO
-327,Cordino / MA,Fluminense / PI
-328,Parnahyba / PI,Maranhão / MA
-329,Santa Cruz / PE,Nacional / PB
-330,Campinense / PB,Sousa / PB
-331,Iguatu / CE,Potiguar / RN
-332,Globo / RN,Pacajus / CE
-333,Jacuipense / BA,Bahia de Feira / BA
-334,Atlético / BA,Retrô / PE
-335,ASA / AL,Sergipe / SE
-336,Falcon / SE,Cruzeiro / AL
-337,Interporto / TO,Ceilândia / DF
-338,Brasiliense / DF,Real Ariquemes / RO
-339,União de Rondonópolis / MT,Ipora / GO
-340,Anápolis / GO,Operário Ceov / MT
-341,Portuguesa / RJ,Nova Iguaçu / RJ
-342,Resende / RJ,Santo André / SP
-343,Real Noroeste / ES,Atlhetic Ce / MG
-344,Ec Democrata / MG,Vitória / ES
-345,Ferroviária / SP,XV de Piracicaba / SP
-346,Inter de Limeira / SP,Crac / GO
-347,Operário / MS,Maringá / PR
-348,Cascavel / PR,Atlético Patrocinense / MG
-349,Novo Hamburgo / RS,Aimoré / RS
-350,Brasil / RS,Caxias / RS
-351,Camboriu / SC,Hercilio Luz / SC
-352,Sãojoseense / PR,Concordia Atlético Clube / SC
-353,Humaitá / AC,Aguia de Maraba / PA
-354,Tuna Luso / PA,Sao Francisco / AC
-355,Princesa do Solimões / AM,Nacional / AM
-356,Trem / AP,São Raimundo / RR
-357,Tocantinópolis / TO,Ferroviário / CE
-358,Atlético / CE,Caucaia / CE
-359,Fluminense / PI,Parnahyba / PI
-360,Maranhão / MA,Cordino / MA
-361,Sousa / PB,Nacional / PB
-362,Campinense / PB,Santa Cruz / PE
-363,Potiguar / RN,Globo / RN
-364,Pacajus / CE,Iguatu / CE
-365,Retrô / PE,Bahia de Feira / BA
-366,Atlético / BA,Jacuipense / BA
-367,Sergipe / SE,Falcon / SE
-368,Cruzeiro / AL,ASA / AL
-369,Real Ariquemes / RO,Ceilândia / DF
-370,Brasiliense / DF,Interporto / TO
-371,Ipora / GO,Anápolis / GO
-372,Operário Ceov / MT,União de Rondonópolis / MT
-373,Santo André / SP,Nova Iguaçu / RJ
-374,Resende / RJ,Portuguesa / RJ
-375,Atlhetic Ce / MG,Ec Democrata / MG
-376,Vitória / ES,Real Noroeste / ES
-377,Crac / GO,XV de Piracicaba / SP
-378,Inter de Limeira / SP,Ferroviária / SP
-379,Maringá / PR,Cascavel / PR
-380,Atlético Patrocinense / MG,Operário / MS
-381,Caxias / RS,Aimoré / RS
-382,Brasil / RS,Novo Hamburgo / RS
-383,Hercilio Luz / SC,Sãojoseense / PR
-384,Concordia Atlético Clube / SC,Camboriu / SC
-385,Aguia de Maraba / PA,São Raimundo / RR
-386,Trem / AP,Humaitá / AC
-387,Sao Francisco / AC,Princesa do Solimões / AM
-388,Nacional / AM,Tuna Luso / PA
-389,Ferroviário / CE,Cordino / MA
-390,Maranhão / MA,Tocantinópolis / TO
-391,Caucaia / CE,Fluminense / PI
-392,Parnahyba / PI,Atlético / CE
-393,Nacional / PB,Iguatu / CE
-394,Pacajus / CE,Sousa / PB
-395,Santa Cruz / PE,Potiguar / RN
-396,Globo / RN,Campinense / PB
-397,Bahia de Feira / BA,ASA / AL
-398,Cruzeiro / AL,Retrô / PE
-399,Jacuipense / BA,Sergipe / SE
-400,Falcon / SE,Atlético / BA
-401,Ceilândia / DF,União de Rondonópolis / MT
-402,Operário Ceov / MT,Real Ariquemes / RO
-403,Interporto / TO,Ipora / GO
-404,Anápolis / GO,Brasiliense / DF
-405,Nova Iguaçu / RJ,Real Noroeste / ES
-406,Vitória / ES,Santo André / SP
-407,Portuguesa / RJ,Atlhetic Ce / MG
-408,Ec Democrata / MG,Resende / RJ
-409,XV de Piracicaba / SP,Operário / MS
-410,Atlético Patrocinense / MG,Crac / GO
-411,Ferroviária / SP,Maringá / PR
-412,Cascavel / PR,Inter de Limeira / SP
-413,Aimoré / RS,Camboriu / SC
-414,Concordia Atlético Clube / SC,Caxias / RS
-415,Novo Hamburgo / RS,Hercilio Luz / SC
-416,Sãojoseense / PR,Brasil / RS
-417,Princesa do Solimões / AM,Aguia de Maraba / PA
-418,Humaitá / AC,Nacional / AM
-419,São Raimundo / RR,Sao Francisco / AC
-420,Tuna Luso / PA,Trem / AP
-421,Fluminense / PI,Ferroviário / CE
-422,Tocantinópolis / TO,Parnahyba / PI
-423,Cordino / MA,Caucaia / CE
-424,Atlético / CE,Maranhão / MA
-425,Potiguar / RN,Nacional / PB
-426,Sousa / PB,Globo / RN
-427,Iguatu / CE,Santa Cruz / PE
-428,Campinense / PB,Pacajus / CE
-429,Sergipe / SE,Bahia de Feira / BA
-430,Retrô / PE,Falcon / SE
-431,ASA / AL,Jacuipense / BA
-432,Atlético / BA,Cruzeiro / AL
-433,Ipora / GO,Ceilândia / DF
-434,Real Ariquemes / RO,Anápolis / GO
-435,União de Rondonópolis / MT,Interporto / TO
-436,Brasiliense / DF,Operário Ceov / MT
-437,Atlhetic Ce / MG,Nova Iguaçu / RJ
-438,Santo André / SP,Ec Democrata / MG
-439,Real Noroeste / ES,Portuguesa / RJ
-440,Resende / RJ,Vitória / ES
-441,Maringá / PR,XV de Piracicaba / SP
-442,Crac / GO,Cascavel / PR
-443,Operário / MS,Ferroviária / SP
-444,Inter de Limeira / SP,Atlético Patrocinense / MG
-445,Hercilio Luz / SC,Aimoré / RS
-446,Caxias / RS,Sãojoseense / PR
-447,Camboriu / SC,Novo Hamburgo / RS
-448,Brasil / RS,Concordia Atlético Clube / SC
-449,Parnahyba / PI,Nacional / AM
-450,Aguia de Maraba / PA,Atlético / CE
-451,Princesa do Solimões / AM,Ferroviário / CE
-452,Maranhão / MA,Tuna Luso / PA
-453,Falcon / SE,Sousa / PB
-454,Potiguar / RN,Bahia de Feira / BA
-455,Pacajus / CE,Retrô / PE
-456,ASA / AL,Nacional / PB
-457,Vitória / ES,Ceilândia / DF
-458,Operário Ceov / MT,Portuguesa / RJ
-459,Brasiliense / DF,Atlhetic Ce / MG
-460,Ec Democrata / MG,Anápolis / GO
-461,Brasil / RS,Atlético Patrocinense / MG
-462,Inter de Limeira / SP,Caxias / RS
-463,Ferroviária / SP,Hercilio Luz / SC
-464,Camboriu / SC,Maringá / PR
-465,Nacional / AM,Parnahyba / PI
-466,Atlético / CE,Aguia de Maraba / PA
-467,Ferroviário / CE,Princesa do Solimões / AM
-468,Tuna Luso / PA,Maranhão / MA
-469,Sousa / PB,Falcon / SE
-470,Bahia de Feira / BA,Potiguar / RN
-471,Retrô / PE,Pacajus / CE
-472,Nacional / PB,ASA / AL
-473,Ceilândia / DF,Vitória / ES
-474,Portuguesa / RJ,Operário Ceov / MT
-475,Atlhetic Ce / MG,Brasiliense / DF
-476,Anápolis / GO,Ec Democrata / MG
-477,Atlético Patrocinense / MG,Brasil / RS
-478,Caxias / RS,Inter de Limeira / SP
-479,Hercilio Luz / SC,Ferroviária / SP
-480,Maringá / PR,Camboriu / SC
-481,Bahia de Feira / BA,Nacional / AM
-482,Atlético / CE,Sousa / PB
-483,Nacional / PB,Ferroviário / CE
-484,Maranhão / MA,Retrô / PE
-485,Caxias / RS,Ceilândia / DF
-486,Atlético Patrocinense / MG,Portuguesa / RJ
-487,Camboriu / SC,Atlhetic Ce / MG
-488,Ferroviária / SP,Anápolis / GO
-489,Nacional / AM,Bahia de Feira / BA
-490,Sousa / PB,Atlético / CE
-491,Ferroviário / CE,Nacional / PB
-492,Retrô / PE,Maranhão / MA
-493,Ceilândia / DF,Caxias / RS
-494,Portuguesa / RJ,Atlético Patrocinense / MG
-495,Atlhetic Ce / MG,Camboriu / SC
-496,Anápolis / GO,Ferroviária / SP
-497,Maranhão / MA,Ferroviário / CE
-498,Caxias / RS,Portuguesa / RJ
-499,Bahia de Feira / BA,Athletic Club / MG
-500,Ferroviaria / SP,Sousa / PB
-501,Ferroviário / CE,Maranhão / MA
-502,Portuguesa / RJ,Caxias / RS
-503,Athletic Club / MG,Bahia de Feira / BA
-504,Sousa / PB,Ferroviaria / SP
-505,Caxias / RS,Ferroviário / CE
-506,Ferroviaria / SP,Athletic Club / MG
-507,Ferroviário / CE,Caxias / RS
-508,Athletic Club / MG,Ferroviaria / SP
-509,Ferroviaria / SP,Ferroviário / CE
-510,Ferroviário / CE,Ferroviaria / SP
+Game,Home,Away,Date,Time,Stadium
+001,Aguia de Maraba / PA,Princesa do Solimões / AM,07/05/2023,16:00,Zinho Oliveira / Maraba
+002,Nacional / AM,Humaitá / AC,07/05/2023,16:00,Ismael Benigno / Manaus
+003,Sao Francisco / AC,São Raimundo / RR,07/05/2023,18:00,Antonio Aquino Lopes / Rio Branco
+004,Trem / AP,Tuna Luso / PA,06/05/2023,16:00,Milton de Souza Correia / Macapa
+005,Ferroviário / CE,Fluminense / PI,07/05/2023,17:00,Presidente Vargas / Fortaleza
+006,Parnahyba / PI,Tocantinópolis / TO,07/05/2023,17:00,Pedro Alelaf / Parnaiba
+007,Caucaia / CE,Cordino / MA,07/05/2023,15:00,Raimundo de Oliveira / Caucaia
+008,Maranhão / MA,Atlético / CE,07/05/2023,16:00,Nhozinho Santos / Sao Luis
+009,Nacional / PB,Potiguar / RN,07/05/2023,16:00,José Cavalcante / Patos
+010,Globo / RN,Sousa / PB,07/05/2023,16:00,Manoel Dantas Barretto / Ceara-Mirim
+011,Santa Cruz / PE,Iguatu / CE,08/05/2023,20:00,José do Rêgo Maciel / Recife
+012,Pacajus / CE,Campinense / PB,06/05/2023,19:00,João Ronaldo / Pacajus
+013,Bahia de Feira / BA,Sergipe / SE,06/05/2023,17:00,Professor Jodilton Souza   / Feira de Santana
+014,Falcon / SE,Retrô / PE,06/05/2023,16:00,Lourival Baptista / Aracaju
+015,Jacuipense / BA,ASA / AL,07/05/2023,16:00,Eliel Martins / Riachao do Jacuipe
+016,Cruzeiro / AL,Atlético / BA,07/05/2023,16:00,Coaracy da Mata Fonseca / Arapiraca
+017,Ceilândia / DF,Ipora / GO,06/05/2023,15:30,Mª de Lourdes Abadia / Ceilândia
+018,Anápolis / GO,Real Ariquemes / RO,06/05/2023,17:00,Jonas Ferreira Duarte / Anapolis
+019,Interporto / TO,União de Rondonópolis / MT,06/05/2023,16:00,General Sampaio / Porto Nacional
+020,Operário Ceov / MT,Brasiliense / DF,06/05/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+021,Nova Iguaçu / RJ,Atlhetic Ce / MG,06/05/2023,11:00,Jânio Moraes / Nova Iguacu
+022,Ec Democrata / MG,Santo André / SP,08/05/2023,20:30,José Mammud Abbas / 
+023,Portuguesa / RJ,Real Noroeste / ES,06/05/2023,18:00,Luso Brasileiro / Rio de Janeiro
+024,Vitória / ES,Resende / RJ,06/05/2023,15:00,Salvador Venâncio da Costa / Vitoria
+025,XV de Piracicaba / SP,Maringá / PR,06/05/2023,17:00,Barão de Serra Negra / Piracicaba
+026,Cascavel / PR,Crac / GO,06/05/2023,16:00,Arnaldo Busatto / Cascavel
+027,Ferroviária / SP,Operário / MS,06/05/2023,17:00,Ademar Pereira de Barros / Araraquara
+028,Atlético Patrocinense / MG,Inter de Limeira / SP,06/05/2023,18:00,Pedro Alves do Nascimento / Patrocinio
+029,Aimoré / RS,Hercilio Luz / SC,07/05/2023,16:00,João Corrêa da Silveira / Sao Leopoldo
+030,Sãojoseense / PR,Caxias / RS,06/05/2023,15:30,Estádio Municipal do Pinhão / Sao Jose dos Pinhais
+031,Novo Hamburgo / RS,Camboriu / SC,07/05/2023,18:00,Estádio do Vale / Novo Hamburgo
+032,Concordia Atlético Clube / SC,Brasil / RS,07/05/2023,15:00,Domingos Machado de Lima / Concordia
+033,São Raimundo / RR,Aguia de Maraba / PA,13/05/2023,17:00,Flamarion Vasconcelos / Boa Vista
+034,Humaitá / AC,Trem / AP,13/05/2023,18:00,Antonio Aquino Lopes / Rio Branco
+035,Princesa do Solimões / AM,Sao Francisco / AC,14/05/2023,17:00,Gilberto Mestrinho / Manacapuru
+036,Tuna Luso / PA,Nacional / AM,14/05/2023,15:00,Francisco Vasques / Belem
+037,Cordino / MA,Ferroviário / CE,13/05/2023,17:00,Leandro Cláudio da Silva / Barra do Corda
+038,Tocantinópolis / TO,Maranhão / MA,14/05/2023,16:00,João Ribeiro / Tocantinopolis
+039,Fluminense / PI,Caucaia / CE,14/05/2023,15:30,Jose Teixeira dos Santos / Teresina
+040,Atlético / CE,Parnahyba / PI,13/05/2023,15:00,Horácio Domingos de Sousa / Horizonte
+041,Iguatu / CE,Nacional / PB,13/05/2023,16:00,Antônio Moreno de Melo / Iguatu
+042,Sousa / PB,Pacajus / CE,14/05/2023,16:00,Antônio Mariz / Sousa
+043,Potiguar / RN,Santa Cruz / PE,14/05/2023,17:00,Leonardo Nogueira / Mossoro
+044,Campinense / PB,Globo / RN,14/05/2023,17:00,Ernani Sátyro / Campina Grande
+045,ASA / AL,Bahia de Feira / BA,13/05/2023,17:00,Coaracy da Mata Fonseca / Arapiraca
+046,Retrô / PE,Cruzeiro / AL,13/05/2023,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+047,Sergipe / SE,Jacuipense / BA,14/05/2023,17:00,Lourival Baptista / Aracaju
+048,Atlético / BA,Falcon / SE,13/05/2023,17:00,Antônio Carneiro / Alagoinhas
+049,União de Rondonópolis / MT,Ceilândia / DF,13/05/2023,16:00,Luthero Lopes / Rondonopolis
+050,Real Ariquemes / RO,Operário Ceov / MT,14/05/2023,16:00,Gentil Valério de Lima / Ariquemes
+051,Ipora / GO,Interporto / TO,14/05/2023,15:30,Francisco José Ferreira / Ipora
+052,Brasiliense / DF,Anápolis / GO,13/05/2023,17:00,Elmo Serejo Farias / Brasilia
+053,Real Noroeste / ES,Nova Iguaçu / RJ,13/05/2023,15:30,José Olimpio da Rocha / Aguia Branca
+054,Santo André / SP,Vitória / ES,13/05/2023,15:00,Bruno José Daniel / Santo Andre
+055,Atlhetic Ce / MG,Portuguesa / RJ,13/05/2023,17:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+056,Resende / RJ,Ec Democrata / MG,13/05/2023,15:00,Municipal de Resende / Resende
+057,Operário / MS,XV de Piracicaba / SP,14/05/2023,17:00,Jacques da Luz / Campo Grande
+058,Crac / GO,Atlético Patrocinense / MG,13/05/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+059,Maringá / PR,Ferroviária / SP,13/05/2023,19:00,Willie Davids / Maringa
+060,Inter de Limeira / SP,Cascavel / PR,13/05/2023,16:00,Major José Levy Sobrinho / Limeira
+061,Camboriu / SC,Aimoré / RS,13/05/2023,17:00,Estádio Eduardo Zeferino Tiago / Balneario Camboriu
+062,Caxias / RS,Concordia Atlético Clube / SC,14/05/2023,15:00,Francisco Stédile / Caxias do Sul
+063,Hercilio Luz / SC,Novo Hamburgo / RS,13/05/2023,15:00,Aníbal Torres Costa / Tubarao
+064,Brasil / RS,Sãojoseense / PR,14/05/2023,16:00,Bento da Silva Freitas / Pelotas
+065,Aguia de Maraba / PA,Humaitá / AC,21/05/2023,16:00,Zinho Oliveira / Maraba
+066,Sao Francisco / AC,Tuna Luso / PA,21/05/2023,18:00,Antonio Aquino Lopes / Rio Branco
+067,Nacional / AM,Princesa do Solimões / AM,20/05/2023,16:00,Ismael Benigno / Manaus
+068,São Raimundo / RR,Trem / AP,21/05/2023,17:00,Flamarion Vasconcelos / Boa Vista
+069,Ferroviário / CE,Tocantinópolis / TO,21/05/2023,17:00,Presidente Vargas / Fortaleza
+070,Caucaia / CE,Atlético / CE,21/05/2023,16:00,Raimundo de Oliveira / Caucaia
+071,Parnahyba / PI,Fluminense / PI,21/05/2023,17:00,Pedro Alelaf / Parnaiba
+072,Cordino / MA,Maranhão / MA,20/05/2023,17:00,Leandro Cláudio da Silva / Barra do Corda
+073,Nacional / PB,Sousa / PB,21/05/2023,16:00,José Cavalcanti / Patos
+074,Santa Cruz / PE,Campinense / PB,21/05/2023,16:00,José do Rêgo Maciel / Recife
+075,Globo / RN,Potiguar / RN,21/05/2023,16:00,Manoel Dantas Barretto / Ceara-Mirim
+076,Iguatu / CE,Pacajus / CE,20/05/2023,16:00,Antônio Moreno de Melo / Iguatu
+077,Bahia de Feira / BA,Retrô / PE,20/05/2023,17:00,Professor Jodilton Souza   / Feira de Santana
+078,Jacuipense / BA,Atlético / BA,21/05/2023,16:00,Eliel Martins / Riachao do Jacuipe
+079,Falcon / SE,Sergipe / SE,20/05/2023,16:00,Lourival Baptista / Aracaju
+080,ASA / AL,Cruzeiro / AL,20/05/2023,17:00,Coaracy da Mata Fonseca / Arapiraca
+081,Ceilândia / DF,Real Ariquemes / RO,20/05/2023,15:30,Mª de Lourdes Abadia / Ceilândia
+082,Interporto / TO,Brasiliense / DF,20/05/2023,16:00,General Sampaio / Porto Nacional
+083,Anápolis / GO,Ipora / GO,20/05/2023,17:00,Jonas Ferreira Duarte / Anapolis
+084,União de Rondonópolis / MT,Operário Ceov / MT,20/05/2023,16:00,Luthero Lopes / Rondonopolis
+085,Nova Iguaçu / RJ,Santo André / SP,20/05/2023,15:00,Jânio Moraes / Nova Iguacu
+086,Portuguesa / RJ,Resende / RJ,20/05/2023,18:00,Luso Brasileiro / Rio de Janeiro
+087,Ec Democrata / MG,Atlhetic Ce / MG,22/05/2023,20:30,José Mammud Abbas / 
+088,Real Noroeste / ES,Vitória / ES,20/05/2023,15:30,José Olimpio da Rocha / Aguia Branca
+089,XV de Piracicaba / SP,Crac / GO,20/05/2023,17:00,Barão de Serra Negra / Piracicaba
+090,Ferroviária / SP,Inter de Limeira / SP,20/05/2023,17:00,Ademar Pereira de Barros / Araraquara
+091,Cascavel / PR,Maringá / PR,20/05/2023,16:00,Arnaldo Busatto / Cascavel
+092,Operário / MS,Atlético Patrocinense / MG,21/05/2023,17:00,Jacques da Luz / Campo Grande
+093,Aimoré / RS,Caxias / RS,21/05/2023,16:00,João Corrêa da Silveira / Sao Leopoldo
+094,Novo Hamburgo / RS,Brasil / RS,21/05/2023,18:00,Estádio do Vale / Novo Hamburgo
+095,Sãojoseense / PR,Hercilio Luz / SC,20/05/2023,15:30,Estádio Municipal do Pinhão / Sao Jose dos Pinhais
+096,Camboriu / SC,Concordia Atlético Clube / SC,20/05/2023,19:00,Estádio Eduardo Zeferino Tiago / Balneario Camboriu
+097,Aguia de Maraba / PA,Sao Francisco / AC,29/05/2023,20:00,Zinho Oliveira / Maraba
+098,Humaitá / AC,Tuna Luso / PA,27/05/2023,18:00,Antonio Aquino Lopes / Rio Branco
+099,Princesa do Solimões / AM,São Raimundo / RR,28/05/2023,17:00,Gilberto Mestrinho / Manacapuru
+100,Trem / AP,Nacional / AM,27/05/2023,16:00,Milton de Souza Correia / Macapa
+101,Ferroviário / CE,Caucaia / CE,28/05/2023,17:00,Presidente Vargas / Fortaleza
+102,Tocantinópolis / TO,Atlético / CE,28/05/2023,16:00,João Ribeiro / Tocantinopolis
+103,Fluminense / PI,Cordino / MA,28/05/2023,15:30,Jose Teixeira dos Santos / Teresina
+104,Maranhão / MA,Parnahyba / PI,27/05/2023,16:00,Governador João Castelo / Sao Luis
+105,Nacional / PB,Santa Cruz / PE,28/05/2023,16:00,José Cavalcante / Patos
+106,Sousa / PB,Campinense / PB,28/05/2023,16:00,Antônio Mariz / Sousa
+107,Potiguar / RN,Iguatu / CE,28/05/2023,17:00,Leonardo Nogueira / Mossoro
+108,Pacajus / CE,Globo / RN,27/05/2023,19:00,João Ronaldo / Pacajus
+109,Bahia de Feira / BA,Jacuipense / BA,27/05/2023,17:00,Professor Jodilton Souza   / Feira de Santana
+110,Retrô / PE,Atlético / BA,27/05/2023,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+111,Sergipe / SE,ASA / AL,27/05/2023,16:00,Lourival Baptista / Aracaju
+112,Cruzeiro / AL,Falcon / SE,28/05/2023,16:00,Coaracy da Mata Fonseca / Arapiraca
+113,Ceilândia / DF,Interporto / TO,27/05/2023,15:30,Mª de Lourdes Abadia / Ceilândia
+114,Real Ariquemes / RO,Brasiliense / DF,28/05/2023,16:00,Gentil Valério de Lima / Ariquemes
+115,Ipora / GO,União de Rondonópolis / MT,28/05/2023,15:30,Francisco José Ferreira / Ipora
+116,Operário Ceov / MT,Anápolis / GO,27/05/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+117,Nova Iguaçu / RJ,Portuguesa / RJ,27/05/2023,15:00,Jânio Moraes / Nova Iguacu
+118,Santo André / SP,Resende / RJ,27/05/2023,15:00,Bruno José Daniel / Santo Andre
+119,Atlhetic Ce / MG,Real Noroeste / ES,27/05/2023,16:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+120,Vitória / ES,Ec Democrata / MG,27/05/2023,15:00,Salvador Venâncio da Costa / Vitoria
+121,XV de Piracicaba / SP,Ferroviária / SP,27/05/2023,17:00,Barão de Serra Negra / Piracicaba
+122,Crac / GO,Inter de Limeira / SP,27/05/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+123,Maringá / PR,Operário / MS,27/05/2023,19:00,Willie Davids / Maringa
+124,Atlético Patrocinense / MG,Cascavel / PR,27/05/2023,18:00,Pedro Alves do Nascimento / Patrocinio
+125,Aimoré / RS,Novo Hamburgo / RS,28/05/2023,16:00,João Corrêa da Silveira / Sao Leopoldo
+126,Caxias / RS,Brasil / RS,27/05/2023,15:00,Francisco Stédile / Caxias do Sul
+127,Hercilio Luz / SC,Camboriu / SC,27/05/2023,15:00,Aníbal Torres Costa / Tubarao
+128,Concordia Atlético Clube / SC,Sãojoseense / PR,28/05/2023,15:00,Domingos Machado de Lima / Concordia
+129,Tuna Luso / PA,Aguia de Maraba / PA,04/06/2023,15:00,Francisco Vasques / Belem
+130,Sao Francisco / AC,Humaitá / AC,04/06/2023,18:00,Antonio Aquino Lopes / Rio Branco
+131,Trem / AP,Princesa do Solimões / AM,05/06/2023,20:00,Milton de Souza Correia / Macapa
+132,Nacional / AM,São Raimundo / RR,04/06/2023,16:00,Ismael Benigno / Manaus
+133,Atlético / CE,Ferroviário / CE,03/06/2023,15:00,Horácio Domingos de Sousa / Horizonte
+134,Caucaia / CE,Tocantinópolis / TO,04/06/2023,16:00,Raimundo de Oliveira / Caucaia
+135,Maranhão / MA,Fluminense / PI,03/06/2023,16:00,Governador João Castelo / Sao Luis
+136,Parnahyba / PI,Cordino / MA,03/06/2023,19:00,Pedro Alelaf / Parnaiba
+137,Campinense / PB,Nacional / PB,01/06/2023,17:00,Ernani Sátyro / Campina Grande
+138,Santa Cruz / PE,Sousa / PB,03/06/2023,16:00,José do Rêgo Maciel / Recife
+139,Pacajus / CE,Potiguar / RN,03/06/2023,19:00,João Ronaldo / Pacajus
+140,Globo / RN,Iguatu / CE,04/06/2023,15:30,Manoel Dantas Barretto / Ceara-Mirim
+141,Atlético / BA,Bahia de Feira / BA,03/06/2023,17:00,Antônio Carneiro / Alagoinhas
+142,Jacuipense / BA,Retrô / PE,04/06/2023,16:00,Eliel Martins / Riachao do Jacuipe
+143,Cruzeiro / AL,Sergipe / SE,03/06/2023,17:00,Coaracy da Mata Fonseca / Arapiraca
+144,Falcon / SE,ASA / AL,03/06/2023,16:00,Lourival Baptista / Aracaju
+145,Brasiliense / DF,Ceilândia / DF,03/06/2023,16:00,Elmo Serejo Farias / Brasilia
+146,Interporto / TO,Real Ariquemes / RO,03/06/2023,16:00,General Sampaio / Porto Nacional
+147,Operário Ceov / MT,Ipora / GO,03/06/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+148,Anápolis / GO,União de Rondonópolis / MT,03/06/2023,17:00,Jonas Ferreira Duarte / Anapolis
+149,Resende / RJ,Nova Iguaçu / RJ,03/06/2023,15:00,Municipal de Resende / Resende
+150,Portuguesa / RJ,Santo André / SP,03/06/2023,18:00,Luso Brasileiro / Rio de Janeiro
+151,Vitória / ES,Atlhetic Ce / MG,03/06/2023,15:00,Salvador Venâncio da Costa / Vitoria
+152,Ec Democrata / MG,Real Noroeste / ES,04/06/2023,16:00,José Mammud Abbas / 
+153,Inter de Limeira / SP,XV de Piracicaba / SP,03/06/2023,16:00,Major José Levy Sobrinho / Limeira
+154,Ferroviária / SP,Crac / GO,03/06/2023,17:00,Ademar Pereira de Barros / Araraquara
+155,Atlético Patrocinense / MG,Maringá / PR,03/06/2023,18:00,Pedro Alves do Nascimento / Patrocinio
+156,Cascavel / PR,Operário / MS,03/06/2023,16:00,Arnaldo Busatto / Cascavel
+157,Brasil / RS,Aimoré / RS,04/06/2023,16:00,Bento da Silva Freitas / Pelotas
+158,Novo Hamburgo / RS,Caxias / RS,04/06/2023,18:00,Estádio do Vale / Novo Hamburgo
+159,Concordia Atlético Clube / SC,Hercilio Luz / SC,04/06/2023,15:00,Domingos Machado de Lima / Concordia
+160,Sãojoseense / PR,Camboriu / SC,03/06/2023,15:30,Estádio Municipal do Pinhão / Sao Jose dos Pinhais
+161,Aguia de Maraba / PA,Nacional / AM,07/06/2023,20:00,Zinho Oliveira / Maraba
+162,Princesa do Solimões / AM,Humaitá / AC,08/06/2023,19:00,Gilberto Mestrinho / Manacapuru
+163,Sao Francisco / AC,Trem / AP,08/06/2023,18:00,Antonio Aquino Lopes / Rio Branco
+164,São Raimundo / RR,Tuna Luso / PA,07/06/2023,20:00,Flamarion Vasconcelos / Boa Vista
+165,Ferroviário / CE,Parnahyba / PI,07/06/2023,20:00,Presidente Vargas / Fortaleza
+166,Fluminense / PI,Tocantinópolis / TO,07/06/2023,15:30,Jose Teixeira dos Santos / Teresina
+167,Caucaia / CE,Maranhão / MA,08/06/2023,16:00,Raimundo de Oliveira / Caucaia
+168,Cordino / MA,Atlético / CE,07/06/2023,19:00,Leandro Cláudio da Silva / Barra do Corda
+169,Nacional / PB,Globo / RN,07/06/2023,20:00,José Cavalcante / Patos
+170,Potiguar / RN,Sousa / PB,06/06/2023,20:00,Leonardo Nogueira / Mossoro
+171,Santa Cruz / PE,Pacajus / CE,08/06/2023,19:30,José do Rêgo Maciel / Recife
+172,Iguatu / CE,Campinense / PB,07/06/2023,19:00,Antônio Moreno de Melo / Iguatu
+173,Bahia de Feira / BA,Falcon / SE,07/06/2023,19:00,Professor Jodilton Souza   / Feira de Santana
+174,Sergipe / SE,Retrô / PE,07/06/2023,20:00,Lourival Baptista / Aracaju
+175,Jacuipense / BA,Cruzeiro / AL,08/06/2023,19:00,Eliel Martins / Riachao do Jacuipe
+176,ASA / AL,Atlético / BA,07/06/2023,20:00,Coaracy da Mata Fonseca / Arapiraca
+177,Ceilândia / DF,Anápolis / GO,07/06/2023,15:30,Mª de Lourdes Abadia / Ceilândia
+178,Ipora / GO,Real Ariquemes / RO,07/06/2023,15:30,Francisco José Ferreira / Ipora
+179,Interporto / TO,Operário Ceov / MT,07/06/2023,16:00,General Sampaio / Porto Nacional
+180,União de Rondonópolis / MT,Brasiliense / DF,07/06/2023,16:00,Luthero Lopes / Rondonopolis
+181,Nova Iguaçu / RJ,Ec Democrata / MG,07/06/2023,15:00,Jânio Moraes / Nova Iguacu
+182,Atlhetic Ce / MG,Santo André / SP,07/06/2023,19:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+183,Portuguesa / RJ,Vitória / ES,07/06/2023,20:00,Luso Brasileiro / Rio de Janeiro
+184,Real Noroeste / ES,Resende / RJ,07/06/2023,19:00,José Olimpio da Rocha / Aguia Branca
+185,XV de Piracicaba / SP,Cascavel / PR,07/06/2023,20:00,Barão de Serra Negra / Piracicaba
+186,Maringá / PR,Crac / GO,07/06/2023,20:00,Willie Davids / Maringa
+187,Ferroviária / SP,Atlético Patrocinense / MG,07/06/2023,19:00,Ademar Pereira de Barros / Araraquara
+188,Operário / MS,Inter de Limeira / SP,07/06/2023,21:00,Jacques da Luz / Campo Grande
+189,Aimoré / RS,Sãojoseense / PR,07/06/2023,20:00,João Corrêa da Silveira / Sao Leopoldo
+190,Hercilio Luz / SC,Caxias / RS,07/06/2023,19:00,Aníbal Torres Costa / Tubarao
+191,Novo Hamburgo / RS,Concordia Atlético Clube / SC,07/06/2023,20:00,Estádio do Vale / Novo Hamburgo
+192,Camboriu / SC,Brasil / RS,07/06/2023,19:00,Estádio Eduardo Zeferino Tiago / Balneario Camboriu
+193,Trem / AP,Aguia de Maraba / PA,11/06/2023,16:00,Milton de Souza Correia / Macapa
+194,Humaitá / AC,São Raimundo / RR,11/06/2023,18:00,Antonio Aquino Lopes / Rio Branco
+195,Nacional / AM,Sao Francisco / AC,11/06/2023,16:00,Ismael Benigno / Manaus
+196,Tuna Luso / PA,Princesa do Solimões / AM,11/06/2023,15:00,Francisco Vasques / Belem
+197,Maranhão / MA,Ferroviário / CE,11/06/2023,16:00,Governador João Castelo / Sao Luis
+198,Tocantinópolis / TO,Cordino / MA,11/06/2023,16:00,João Ribeiro / Tocantinopolis
+199,Parnahyba / PI,Caucaia / CE,11/06/2023,17:00,Pedro Alelaf / Parnaiba
+200,Atlético / CE,Fluminense / PI,10/06/2023,15:00,Horácio Domingos de Sousa / Horizonte
+201,Pacajus / CE,Nacional / PB,11/06/2023,16:00,João Ronaldo / Pacajus
+202,Sousa / PB,Iguatu / CE,11/06/2023,16:00,Antônio Mariz / Sousa
+203,Globo / RN,Santa Cruz / PE,11/06/2023,15:30,Manoel Dantas Barretto / Ceara-Mirim
+204,Campinense / PB,Potiguar / RN,10/06/2023,17:00,Ernani Sátyro / Campina Grande
+205,Cruzeiro / AL,Bahia de Feira / BA,11/06/2023,19:00,Coaracy da Mata Fonseca / Arapiraca
+206,Retrô / PE,ASA / AL,11/06/2023,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+207,Falcon / SE,Jacuipense / BA,11/06/2023,16:00,Lourival Baptista / Aracaju
+208,Atlético / BA,Sergipe / SE,10/06/2023,17:00,Antônio Carneiro / Alagoinhas
+209,Operário Ceov / MT,Ceilândia / DF,11/06/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+210,Real Ariquemes / RO,União de Rondonópolis / MT,11/06/2023,16:00,Gentil Valério de Lima / Ariquemes
+211,Anápolis / GO,Interporto / TO,10/06/2023,17:00,Jonas Ferreira Duarte / Anapolis
+212,Brasiliense / DF,Ipora / GO,11/06/2023,16:00,Elmo Serejo Farias / Brasilia
+213,Vitória / ES,Nova Iguaçu / RJ,10/06/2023,15:00,Salvador Venâncio da Costa / Vitoria
+214,Santo André / SP,Real Noroeste / ES,10/06/2023,15:00,Bruno José Daniel / Santo Andre
+215,Ec Democrata / MG,Portuguesa / RJ,11/06/2023,16:00,José Mammud Abbas / 
+216,Resende / RJ,Atlhetic Ce / MG,11/06/2023,15:00,Municipal de Resende / Resende
+217,Atlético Patrocinense / MG,XV de Piracicaba / SP,10/06/2023,16:00,Pedro Alves do Nascimento / Patrocinio
+218,Crac / GO,Operário / MS,10/06/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+219,Cascavel / PR,Ferroviária / SP,10/06/2023,16:00,Arnaldo Busatto / Cascavel
+220,Inter de Limeira / SP,Maringá / PR,10/06/2023,17:00,Major José Levy Sobrinho / Limeira
+221,Concordia Atlético Clube / SC,Aimoré / RS,11/06/2023,15:00,Domingos Machado de Lima / Concordia
+222,Caxias / RS,Camboriu / SC,10/06/2023,15:00,Francisco Stédile / Caxias do Sul
+223,Sãojoseense / PR,Novo Hamburgo / RS,11/06/2023,15:30,Estádio Municipal do Pinhão / Sao Jose dos Pinhais
+224,Brasil / RS,Hercilio Luz / SC,11/06/2023,16:00,Bento da Silva Freitas / Pelotas
+225,Aguia de Maraba / PA,Trem / AP,14/06/2023,20:00,Zinho Oliveira / Maraba
+226,São Raimundo / RR,Humaitá / AC,14/06/2023,20:00,Flamarion Vasconcelos / Boa Vista
+227,Sao Francisco / AC,Nacional / AM,14/06/2023,20:00,Antonio Aquino Lopes / Rio Branco
+228,Princesa do Solimões / AM,Tuna Luso / PA,14/06/2023,20:00,Gilberto Mestrinho / Manacapuru
+229,Ferroviário / CE,Maranhão / MA,14/06/2023,20:00,Presidente Vargas / Fortaleza
+230,Cordino / MA,Tocantinópolis / TO,14/06/2023,18:00,Leandro Cláudio da Silva / Barra do Corda
+231,Caucaia / CE,Parnahyba / PI,14/06/2023,15:00,Raimundo de Oliveira / Caucaia
+232,Fluminense / PI,Atlético / CE,14/06/2023,15:30,Jose Teixeira dos Santos / Teresina
+233,Nacional / PB,Pacajus / CE,14/06/2023,20:00,José Cavalcante / Patos
+234,Iguatu / CE,Sousa / PB,15/06/2023,19:00,Antônio Moreno de Melo / Iguatu
+235,Santa Cruz / PE,Globo / RN,14/06/2023,20:00,José do Rêgo Maciel / Recife
+236,Potiguar / RN,Campinense / PB,14/06/2023,20:00,Manoel Leonardo Nogueira / 
+237,Bahia de Feira / BA,Cruzeiro / AL,14/06/2023,19:00,Professor Jodilton Souza   / Feira de Santana
+238,ASA / AL,Retrô / PE,14/06/2023,20:00,Coaracy da Mata Fonseca / Arapiraca
+239,Jacuipense / BA,Falcon / SE,15/06/2023,19:00,Eliel Martins / Riachao do Jacuipe
+240,Sergipe / SE,Atlético / BA,14/06/2023,20:00,Lourival Baptista / Aracaju
+241,Ceilândia / DF,Operário Ceov / MT,14/06/2023,15:30,Abadião / Ceilândia
+242,União de Rondonópolis / MT,Real Ariquemes / RO,14/06/2023,16:00,Luthero Lopes / Rondonopolis
+243,Interporto / TO,Anápolis / GO,14/06/2023,16:00,General Sampaio / Porto Nacional
+244,Ipora / GO,Brasiliense / DF,14/06/2023,15:30,Francisco José Ferreira / Ipora
+245,Nova Iguaçu / RJ,Vitória / ES,14/06/2023,15:00,Jânio Moraes / Nova Iguacu
+246,Real Noroeste / ES,Santo André / SP,14/06/2023,19:00,José Olimpio da Rocha / Aguia Branca
+247,Portuguesa / RJ,Ec Democrata / MG,14/06/2023,20:00,Luso Brasileiro / Rio de Janeiro
+248,Atlhetic Ce / MG,Resende / RJ,14/06/2023,19:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+249,XV de Piracicaba / SP,Atlético Patrocinense / MG,14/06/2023,20:00,Barão de Serra Negra / Piracicaba
+250,Operário / MS,Crac / GO,14/06/2023,20:00,Jacques da Luz / Campo Grande
+251,Ferroviária / SP,Cascavel / PR,14/06/2023,19:00,José Maria de Campos Maia / Mirassol
+252,Maringá / PR,Inter de Limeira / SP,14/06/2023,20:00,Willie Davids / Maringa
+253,Aimoré / RS,Concordia Atlético Clube / SC,14/06/2023,19:00,João Corrêa da Silveira / Sao Leopoldo
+254,Camboriu / SC,Caxias / RS,14/06/2023,19:00,Estádio Eduardo Zeferino Tiago / Balneario Camboriu
+255,Novo Hamburgo / RS,Sãojoseense / PR,14/06/2023,20:00,Estádio do Vale / Novo Hamburgo
+256,Hercilio Luz / SC,Brasil / RS,14/06/2023,19:00,Aníbal Torres Costa / Tubarao
+257,Nacional / AM,Aguia de Maraba / PA,17/06/2023,16:00,Ismael Benigno / Manaus
+258,Humaitá / AC,Princesa do Solimões / AM,17/06/2023,18:00,Antonio Aquino Lopes / Rio Branco
+259,Trem / AP,Sao Francisco / AC,18/06/2023,16:00,Milton de Souza Correia / Macapa
+260,Tuna Luso / PA,São Raimundo / RR,18/06/2023,15:00,Francisco Vasques / Belem
+261,Parnahyba / PI,Ferroviário / CE,17/06/2023,19:00,Pedro Alelaf / Parnaiba
+262,Tocantinópolis / TO,Fluminense / PI,17/06/2023,16:00,João Ribeiro / Tocantinopolis
+263,Maranhão / MA,Caucaia / CE,17/06/2023,16:00,Governador João Castelo / Sao Luis
+264,Atlético / CE,Cordino / MA,18/06/2023,15:00,Horácio Domingos de Sousa / Horizonte
+265,Globo / RN,Nacional / PB,18/06/2023,15:30,Manoel Dantas Barretto / Ceara-Mirim
+266,Sousa / PB,Potiguar / RN,18/06/2023,16:00,Antônio Mariz / Sousa
+267,Pacajus / CE,Santa Cruz / PE,17/06/2023,19:00,João Ronaldo / Pacajus
+268,Campinense / PB,Iguatu / CE,20/06/2023,20:00,Ernani Sátyro / Campina Grande
+269,Falcon / SE,Bahia de Feira / BA,18/06/2023,16:00,Lourival Baptista / Aracaju
+270,Retrô / PE,Sergipe / SE,18/06/2023,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+271,Cruzeiro / AL,Jacuipense / BA,18/06/2023,16:00,Coaracy da Mata Fonseca / Arapiraca
+272,Atlético / BA,ASA / AL,17/06/2023,17:00,Antônio Carneiro / Alagoinhas
+273,Anápolis / GO,Ceilândia / DF,18/06/2023,16:00,Jonas Ferreira Duarte / Anapolis
+274,Real Ariquemes / RO,Ipora / GO,18/06/2023,16:00,Gentil Valério de Lima / Ariquemes
+275,Operário Ceov / MT,Interporto / TO,18/06/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+276,Brasiliense / DF,União de Rondonópolis / MT,18/06/2023,16:00,Elmo Serejo Farias / Brasilia
+277,Ec Democrata / MG,Nova Iguaçu / RJ,19/06/2023,20:30,José Mammud Abbas / 
+278,Santo André / SP,Atlhetic Ce / MG,17/06/2023,15:00,Bruno José Daniel / Santo Andre
+279,Vitória / ES,Portuguesa / RJ,17/06/2023,15:00,Salvador Venâncio da Costa / Vitoria
+280,Resende / RJ,Real Noroeste / ES,17/06/2023,15:00,Municipal de Resende / Resende
+281,Cascavel / PR,XV de Piracicaba / SP,18/06/2023,16:00,Arnaldo Busatto / Cascavel
+282,Crac / GO,Maringá / PR,17/06/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+283,Atlético Patrocinense / MG,Ferroviária / SP,18/06/2023,11:00,Pedro Alves do Nascimento / Patrocinio
+284,Inter de Limeira / SP,Operário / MS,17/06/2023,16:00,Major José Levy Sobrinho / Limeira
+285,Sãojoseense / PR,Aimoré / RS,19/06/2023,15:00,Pinhão / Sao Jose dos Pinhais
+286,Caxias / RS,Hercilio Luz / SC,19/06/2023,19:00,Francisco Stédile / Caxias do Sul
+287,Concordia Atlético Clube / SC,Novo Hamburgo / RS,18/06/2023,15:00,Domingos Machado de Lima / Concordia
+288,Brasil / RS,Camboriu / SC,18/06/2023,16:00,Bento da Silva Freitas / Pelotas
+289,Aguia de Maraba / PA,Tuna Luso / PA,24/06/2023,18:00,Zinho Oliveira / Maraba
+290,Humaitá / AC,Sao Francisco / AC,24/06/2023,18:00,Antonio Aquino Lopes / Rio Branco
+291,Princesa do Solimões / AM,Trem / AP,25/06/2023,17:00,Gilberto Mestrinho / Manacapuru
+292,São Raimundo / RR,Nacional / AM,24/06/2023,17:00,Flamarion Vasconcelos / Boa Vista
+293,Ferroviário / CE,Atlético / CE,28/06/2023,19:00,Presidente Vargas / Fortaleza
+294,Tocantinópolis / TO,Caucaia / CE,24/06/2023,16:00,João Ribeiro / Tocantinopolis
+295,Fluminense / PI,Maranhão / MA,28/06/2023,15:30,Jose Teixeira dos Santos / Pedro II
+296,Cordino / MA,Parnahyba / PI,28/06/2023,15:00,Leandro Cláudio da Silva / Barra do Corda
+297,Nacional / PB,Campinense / PB,28/06/2023,20:00,José Cavalcante / Patos
+298,Sousa / PB,Santa Cruz / PE,28/06/2023,20:00,Antônio Mariz / Sousa
+299,Potiguar / RN,Pacajus / CE,27/06/2023,20:00,Leonardo Nogueira / Mossoro
+300,Iguatu / CE,Globo / RN,28/06/2023,19:00,Antônio Moreno de Melo / Iguatu
+301,Bahia de Feira / BA,Atlético / BA,28/06/2023,19:00,Professor Jodilton Souza   / Feira de Santana
+302,Retrô / PE,Jacuipense / BA,28/06/2023,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+303,Sergipe / SE,Cruzeiro / AL,27/06/2023,20:00,Lourival Baptista / Aracaju
+304,ASA / AL,Falcon / SE,28/06/2023,20:00,Coaracy da Mata Fonseca / Arapiraca
+305,Ceilândia / DF,Brasiliense / DF,24/06/2023,15:30,Abadião / Ceilândia
+306,Real Ariquemes / RO,Interporto / TO,25/06/2023,16:00,Gentil Valério de Lima / Ariquemes
+307,Ipora / GO,Operário Ceov / MT,25/06/2023,15:30,Francisco José Ferreira / Ipora
+308,União de Rondonópolis / MT,Anápolis / GO,24/06/2023,19:00,Luthero Lopes / Rondonopolis
+309,Nova Iguaçu / RJ,Resende / RJ,24/06/2023,11:00,Jânio Moraes / Nova Iguacu
+310,Santo André / SP,Portuguesa / RJ,24/06/2023,15:00,Bruno José Daniel / Santo Andre
+311,Atlhetic Ce / MG,Vitória / ES,24/06/2023,15:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+312,Real Noroeste / ES,Ec Democrata / MG,24/06/2023,15:30,José Olimpio da Rocha / Aguia Branca
+313,XV de Piracicaba / SP,Inter de Limeira / SP,24/06/2023,17:15,Barão de Serra Negra / Piracicaba
+314,Crac / GO,Ferroviária / SP,24/06/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+315,Maringá / PR,Atlético Patrocinense / MG,24/06/2023,19:00,Willie Davids / Maringa
+316,Operário / MS,Cascavel / PR,24/06/2023,17:00,Jacques da Luz / Campo Grande
+317,Aimoré / RS,Brasil / RS,25/06/2023,16:00,João Corrêa da Silveira / Sao Leopoldo
+318,Caxias / RS,Novo Hamburgo / RS,25/06/2023,15:00,Francisco Stédile / Caxias do Sul
+319,Hercilio Luz / SC,Concordia Atlético Clube / SC,24/06/2023,15:00,Aníbal Torres Costa / Tubarao
+320,Camboriu / SC,Sãojoseense / PR,24/06/2023,17:00,Hercílio Luz / Itajai
+321,Sao Francisco / AC,Aguia de Maraba / PA,02/07/2023,18:00,Antonio Aquino Lopes / Rio Branco
+322,Tuna Luso / PA,Humaitá / AC,01/07/2023,15:00,Francisco Vasques / Belem
+323,São Raimundo / RR,Princesa do Solimões / AM,01/07/2023,17:00,Flamarion Vasconcelos / Boa Vista
+324,Nacional / AM,Trem / AP,01/07/2023,16:00,Ismael Benigno / Manaus
+325,Caucaia / CE,Ferroviário / CE,02/07/2023,16:00,Raimundo de Oliveira / Caucaia
+326,Atlético / CE,Tocantinópolis / TO,01/07/2023,15:00,Horácio Domingos de Sousa / Horizonte
+327,Cordino / MA,Fluminense / PI,01/07/2023,15:00,Leandro Cláudio da Silva / Barra do Corda
+328,Parnahyba / PI,Maranhão / MA,02/07/2023,17:00,Pedro Alelaf / Parnaiba
+329,Santa Cruz / PE,Nacional / PB,01/07/2023,20:00,José do Rêgo Maciel / Recife
+330,Campinense / PB,Sousa / PB,03/07/2023,20:00,Ernani Sátyro / Campina Grande
+331,Iguatu / CE,Potiguar / RN,01/07/2023,16:00,Antônio Moreno de Melo / Iguatu
+332,Globo / RN,Pacajus / CE,02/07/2023,15:30,Manoel Dantas Barretto / Ceara-Mirim
+333,Jacuipense / BA,Bahia de Feira / BA,02/07/2023,16:00,Eliel Martins / Riachao do Jacuipe
+334,Atlético / BA,Retrô / PE,01/07/2023,15:00,Manoel Barradas / Salvador
+335,ASA / AL,Sergipe / SE,01/07/2023,17:00,Coaracy da Mata Fonseca / Arapiraca
+336,Falcon / SE,Cruzeiro / AL,02/07/2023,16:00,Lourival Baptista / Aracaju
+337,Interporto / TO,Ceilândia / DF,02/07/2023,15:30,General Sampaio / Porto Nacional
+338,Brasiliense / DF,Real Ariquemes / RO,02/07/2023,16:00,Elmo Serejo Farias / Brasilia
+339,União de Rondonópolis / MT,Ipora / GO,01/07/2023,16:00,Luthero Lopes / Rondonopolis
+340,Anápolis / GO,Operário Ceov / MT,01/07/2023,17:00,Jonas Ferreira Duarte / Anapolis
+341,Portuguesa / RJ,Nova Iguaçu / RJ,01/07/2023,18:00,Luso Brasileiro / Rio de Janeiro
+342,Resende / RJ,Santo André / SP,01/07/2023,15:00,Municipal de Resende / Resende
+343,Real Noroeste / ES,Atlhetic Ce / MG,01/07/2023,15:30,José Olimpio da Rocha / Aguia Branca
+344,Ec Democrata / MG,Vitória / ES,03/07/2023,20:30,José Mammud Abbas / 
+345,Ferroviária / SP,XV de Piracicaba / SP,01/07/2023,17:00,Ademar Pereira de Barros / Araraquara
+346,Inter de Limeira / SP,Crac / GO,01/07/2023,16:00,Major José Levy Sobrinho / Limeira
+347,Operário / MS,Maringá / PR,01/07/2023,17:00,Jacques da Luz / Campo Grande
+348,Cascavel / PR,Atlético Patrocinense / MG,02/07/2023,16:00,Arnaldo Busatto / Cascavel
+349,Novo Hamburgo / RS,Aimoré / RS,02/07/2023,18:00,Estádio do Vale / Novo Hamburgo
+350,Brasil / RS,Caxias / RS,02/07/2023,15:00,Bento da Silva Freitas / Pelotas
+351,Camboriu / SC,Hercilio Luz / SC,01/07/2023,17:00,Hercílio Luz / Itajai
+352,Sãojoseense / PR,Concordia Atlético Clube / SC,01/07/2023,15:00,Pinhão / Sao Jose dos Pinhais
+353,Humaitá / AC,Aguia de Maraba / PA,08/07/2023,18:00,Antonio Aquino Lopes / Rio Branco
+354,Tuna Luso / PA,Sao Francisco / AC,09/07/2023,15:00,Francisco Vasques / Belem
+355,Princesa do Solimões / AM,Nacional / AM,09/07/2023,17:00,Gilberto Mestrinho / Manacapuru
+356,Trem / AP,São Raimundo / RR,09/07/2023,16:00,Milton de Souza Correia / Macapa
+357,Tocantinópolis / TO,Ferroviário / CE,08/07/2023,16:00,João Ribeiro / Tocantinopolis
+358,Atlético / CE,Caucaia / CE,09/07/2023,15:00,Horácio Domingos de Sousa / Horizonte
+359,Fluminense / PI,Parnahyba / PI,09/07/2023,15:30,Jose Teixeira dos Santos / Pedro II
+360,Maranhão / MA,Cordino / MA,08/07/2023,16:00,Governador João Castelo / Sao Luis
+361,Sousa / PB,Nacional / PB,09/07/2023,16:00,Antônio Mariz / Sousa
+362,Campinense / PB,Santa Cruz / PE,10/07/2023,20:00,Ernani Sátyro / Campina Grande
+363,Potiguar / RN,Globo / RN,09/07/2023,15:00,Maria Lamas Farache / Natal
+364,Pacajus / CE,Iguatu / CE,08/07/2023,19:00,João Ronaldo / Pacajus
+365,Retrô / PE,Bahia de Feira / BA,08/07/2023,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+366,Atlético / BA,Jacuipense / BA,08/07/2023,15:00,Manoel Barradas / Salvador
+367,Sergipe / SE,Falcon / SE,08/07/2023,16:00,Lourival Baptista / Aracaju
+368,Cruzeiro / AL,ASA / AL,09/07/2023,16:00,Coaracy da Mata Fonseca / Arapiraca
+369,Real Ariquemes / RO,Ceilândia / DF,09/07/2023,16:00,Gentil Valério de Lima / Ariquemes
+370,Brasiliense / DF,Interporto / TO,10/07/2023,20:00,Elmo Serejo Farias / Brasilia
+371,Ipora / GO,Anápolis / GO,09/07/2023,15:30,Francisco José Ferreira / Ipora
+372,Operário Ceov / MT,União de Rondonópolis / MT,09/07/2023,17:00,Benedito Laurindo de Souza / Varzea Grande
+373,Santo André / SP,Nova Iguaçu / RJ,08/07/2023,15:00,Bruno José Daniel / Santo Andre
+374,Resende / RJ,Portuguesa / RJ,08/07/2023,15:00,Municipal de Resende / Resende
+375,Atlhetic Ce / MG,Ec Democrata / MG,08/07/2023,15:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+376,Vitória / ES,Real Noroeste / ES,09/07/2023,15:00,Salvador Venâncio da Costa / Vitoria
+377,Crac / GO,XV de Piracicaba / SP,08/07/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+378,Inter de Limeira / SP,Ferroviária / SP,08/07/2023,16:00,Major José Levy Sobrinho / Limeira
+379,Maringá / PR,Cascavel / PR,08/07/2023,19:00,Willie Davids / Maringa
+380,Atlético Patrocinense / MG,Operário / MS,09/07/2023,11:00,Pedro Alves do Nascimento / Patrocinio
+381,Caxias / RS,Aimoré / RS,08/07/2023,15:00,Francisco Stédile / Caxias do Sul
+382,Brasil / RS,Novo Hamburgo / RS,09/07/2023,16:00,Bento da Silva Freitas / Pelotas
+383,Hercilio Luz / SC,Sãojoseense / PR,08/07/2023,15:00,Aníbal Torres Costa / Tubarao
+384,Concordia Atlético Clube / SC,Camboriu / SC,09/07/2023,15:00,Domingos Machado de Lima / Concordia
+385,Aguia de Maraba / PA,São Raimundo / RR,15/07/2023,18:00,Zinho Oliveira / Maraba
+386,Trem / AP,Humaitá / AC,16/07/2023,16:00,Milton de Souza Correia / Macapa
+387,Sao Francisco / AC,Princesa do Solimões / AM,16/07/2023,18:00,Antonio Aquino Lopes / Rio Branco
+388,Nacional / AM,Tuna Luso / PA,16/07/2023,16:00,Ismael Benigno / Manaus
+389,Ferroviário / CE,Cordino / MA,16/07/2023,17:00,Presidente Vargas / Fortaleza
+390,Maranhão / MA,Tocantinópolis / TO,16/07/2023,16:00,Governador João Castelo / Sao Luis
+391,Caucaia / CE,Fluminense / PI,16/07/2023,16:00,Raimundo de Oliveira / Caucaia
+392,Parnahyba / PI,Atlético / CE,15/07/2023,19:00,Pedro Alelaf / Parnaiba
+393,Nacional / PB,Iguatu / CE,16/07/2023,16:00,José Cavalcante / Patos
+394,Pacajus / CE,Sousa / PB,15/07/2023,19:00,João Ronaldo / Pacajus
+395,Santa Cruz / PE,Potiguar / RN,16/07/2023,16:00,José do Rêgo Maciel / Recife
+396,Globo / RN,Campinense / PB,16/07/2023,15:30,Manoel Dantas Barretto / Ceara-Mirim
+397,Bahia de Feira / BA,ASA / AL,15/07/2023,17:00,Professor Jodilton Souza   / Feira de Santana
+398,Cruzeiro / AL,Retrô / PE,16/07/2023,16:00,Coaracy da Mata Fonseca / Arapiraca
+399,Jacuipense / BA,Sergipe / SE,16/07/2023,16:00,Eliel Martins / Riachao do Jacuipe
+400,Falcon / SE,Atlético / BA,15/07/2023,16:00,Lourival Baptista / Aracaju
+401,Ceilândia / DF,União de Rondonópolis / MT,16/07/2023,15:30,Abadião / Ceilândia
+402,Operário Ceov / MT,Real Ariquemes / RO,15/07/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+403,Interporto / TO,Ipora / GO,15/07/2023,16:00,General Sampaio / Porto Nacional
+404,Anápolis / GO,Brasiliense / DF,15/07/2023,17:00,Jonas Ferreira Duarte / Anapolis
+405,Nova Iguaçu / RJ,Real Noroeste / ES,15/07/2023,11:00,Jânio Moraes / Nova Iguacu
+406,Vitória / ES,Santo André / SP,15/07/2023,15:00,Salvador Venâncio da Costa / Vitoria
+407,Portuguesa / RJ,Atlhetic Ce / MG,15/07/2023,16:00,Luso Brasileiro / Rio de Janeiro
+408,Ec Democrata / MG,Resende / RJ,17/07/2023,20:30,José Mammud Abbas / 
+409,XV de Piracicaba / SP,Operário / MS,15/07/2023,17:00,Barão de Serra Negra / Piracicaba
+410,Atlético Patrocinense / MG,Crac / GO,16/07/2023,11:00,Pedro Alves do Nascimento / Patrocinio
+411,Ferroviária / SP,Maringá / PR,15/07/2023,17:00,Ademar Pereira de Barros / Araraquara
+412,Cascavel / PR,Inter de Limeira / SP,16/07/2023,16:00,Arnaldo Busatto / Cascavel
+413,Aimoré / RS,Camboriu / SC,16/07/2023,16:00,João Corrêa da Silveira / Sao Leopoldo
+414,Concordia Atlético Clube / SC,Caxias / RS,16/07/2023,15:00,Domingos Machado de Lima / Concordia
+415,Novo Hamburgo / RS,Hercilio Luz / SC,16/07/2023,16:00,Estádio do Vale / Novo Hamburgo
+416,Sãojoseense / PR,Brasil / RS,15/07/2023,15:00,Pinhão / Sao Jose dos Pinhais
+417,Princesa do Solimões / AM,Aguia de Maraba / PA,22/07/2023,17:00,Gilberto Mestrinho / Manacapuru
+418,Humaitá / AC,Nacional / AM,22/07/2023,17:00,Antonio Aquino Lopes / Rio Branco
+419,São Raimundo / RR,Sao Francisco / AC,22/07/2023,17:00,Flamarion Vasconcelos / Boa Vista
+420,Tuna Luso / PA,Trem / AP,22/07/2023,17:00,Olímpico do Pará / Belem
+421,Fluminense / PI,Ferroviário / CE,22/07/2023,15:00,Jose Teixeira dos Santos / Pedro II
+422,Tocantinópolis / TO,Parnahyba / PI,22/07/2023,15:00,João Ribeiro / Tocantinopolis
+423,Cordino / MA,Caucaia / CE,22/07/2023,15:00,Leandro Cláudio da Silva / Barra do Corda
+424,Atlético / CE,Maranhão / MA,22/07/2023,15:00,Horácio Domingos de Sousa / Horizonte
+425,Potiguar / RN,Nacional / PB,23/07/2023,18:00,Maria Lamas Farache / Natal
+426,Sousa / PB,Globo / RN,23/07/2023,18:00,Antônio Mariz / Sousa
+427,Iguatu / CE,Santa Cruz / PE,23/07/2023,18:00,Antônio Moreno de Melo / Iguatu
+428,Campinense / PB,Pacajus / CE,23/07/2023,18:00,Ernani Sátyro / Campina Grande
+429,Sergipe / SE,Bahia de Feira / BA,23/07/2023,18:00,Lourival Baptista / Aracaju
+430,Retrô / PE,Falcon / SE,23/07/2023,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+431,ASA / AL,Jacuipense / BA,23/07/2023,18:00,Coaracy da Mata Fonseca / Arapiraca
+432,Atlético / BA,Cruzeiro / AL,23/07/2023,18:00,Antônio Carneiro / Alagoinhas
+433,Ipora / GO,Ceilândia / DF,23/07/2023,16:00,Francisco José Ferreira / Ipora
+434,Real Ariquemes / RO,Anápolis / GO,23/07/2023,16:00,Gentil Valério de Lima / Ariquemes
+435,União de Rondonópolis / MT,Interporto / TO,23/07/2023,16:00,Luthero Lopes / Rondonopolis
+436,Brasiliense / DF,Operário Ceov / MT,23/07/2023,16:00,Elmo Serejo Farias / Brasilia
+437,Atlhetic Ce / MG,Nova Iguaçu / RJ,23/07/2023,15:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+438,Santo André / SP,Ec Democrata / MG,23/07/2023,15:00,Bruno José Daniel / Santo Andre
+439,Real Noroeste / ES,Portuguesa / RJ,23/07/2023,15:00,José Olimpio da Rocha / Aguia Branca
+440,Resende / RJ,Vitória / ES,23/07/2023,15:00,Municipal de Resende / Resende
+441,Maringá / PR,XV de Piracicaba / SP,22/07/2023,18:00,Willie Davids / Maringa
+442,Crac / GO,Cascavel / PR,22/07/2023,18:00,Genervino Evangelista da Fonseca / Catalao
+443,Operário / MS,Ferroviária / SP,22/07/2023,18:00,Estádio Municipal Sotero Zarate / Sidrolandia
+444,Inter de Limeira / SP,Atlético Patrocinense / MG,22/07/2023,18:00,Major José Levy Sobrinho / Limeira
+445,Hercilio Luz / SC,Aimoré / RS,22/07/2023,18:00,Aníbal Torres Costa / Tubarao
+446,Caxias / RS,Sãojoseense / PR,22/07/2023,18:00,Centenário / Rosario do Sul
+447,Camboriu / SC,Novo Hamburgo / RS,22/07/2023,18:00,Hercílio Luz / Itajai
+448,Brasil / RS,Concordia Atlético Clube / SC,22/07/2023,18:00,Bento da Silva Freitas / Pelotas
+449,Parnahyba / PI,Nacional / AM,30/07/2023,15:00,Pedro Alelaf / Parnaiba
+450,Aguia de Maraba / PA,Atlético / CE,31/07/2023,20:00,Zinho Oliveira / Maraba
+451,Princesa do Solimões / AM,Ferroviário / CE,31/07/2023,21:00,Gilberto Mestrinho / Manacapuru
+452,Maranhão / MA,Tuna Luso / PA,29/07/2023,16:00,Governador João Castelo / Sao Luis
+453,Falcon / SE,Sousa / PB,29/07/2023,16:00,Lourival Baptista / Aracaju
+454,Potiguar / RN,Bahia de Feira / BA,30/07/2023,17:00,Manoel Leonardo Nogueira / 
+455,Pacajus / CE,Retrô / PE,30/07/2023,17:00,João Ronaldo / Pacajus
+456,ASA / AL,Nacional / PB,29/07/2023,17:00,Coaracy da Mata Fonseca / Arapiraca
+457,Vitória / ES,Ceilândia / DF,29/07/2023,15:00,Salvador Venâncio da Costa / Vitoria
+458,Operário Ceov / MT,Portuguesa / RJ,30/07/2023,16:00,Benedito Laurindo de Souza / Varzea Grande
+459,Brasiliense / DF,Atlhetic Ce / MG,30/07/2023,16:00,Elmo Serejo Farias / Brasilia
+460,Ec Democrata / MG,Anápolis / GO,31/07/2023,20:30,José Mammud Abbas / 
+461,Brasil / RS,Atlético Patrocinense / MG,30/07/2023,16:00,Bento da Silva Freitas / Pelotas
+462,Inter de Limeira / SP,Caxias / RS,29/07/2023,16:00,Major José Levy Sobrinho / Limeira
+463,Ferroviária / SP,Hercilio Luz / SC,29/07/2023,17:00,Ademar Pereira de Barros / Araraquara
+464,Camboriu / SC,Maringá / PR,29/07/2023,17:00,Hercílio Luz / Itajai
+465,Nacional / AM,Parnahyba / PI,06/08/2023,16:00,Ismael Benigno / Manaus
+466,Atlético / CE,Aguia de Maraba / PA,06/08/2023,15:00,Presidente Vargas / Fortaleza
+467,Ferroviário / CE,Princesa do Solimões / AM,05/08/2023,17:00,Presidente Vargas / Fortaleza
+468,Tuna Luso / PA,Maranhão / MA,06/08/2023,16:00,Francisco Vasques / Belem
+469,Sousa / PB,Falcon / SE,06/08/2023,16:00,Antônio Mariz / Sousa
+470,Bahia de Feira / BA,Potiguar / RN,05/08/2023,17:00,Professor Jodilton Souza   / Feira de Santana
+471,Retrô / PE,Pacajus / CE,06/08/2023,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+472,Nacional / PB,ASA / AL,06/08/2023,16:00,José Cavalcanti / Patos
+473,Ceilândia / DF,Vitória / ES,05/08/2023,15:30,Abadião / Ceilândia
+474,Portuguesa / RJ,Operário Ceov / MT,05/08/2023,16:00,Luso Brasileiro / Rio de Janeiro
+475,Atlhetic Ce / MG,Brasiliense / DF,05/08/2023,15:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+476,Anápolis / GO,Ec Democrata / MG,06/08/2023,16:00,Olímpico Pedro Ludovico / Goiania
+477,Atlético Patrocinense / MG,Brasil / RS,06/08/2023,11:00,Pedro Alves do Nascimento / Patrocinio
+478,Caxias / RS,Inter de Limeira / SP,06/08/2023,15:00,Francisco Stédile / Caxias do Sul
+479,Hercilio Luz / SC,Ferroviária / SP,05/08/2023,15:00,Aníbal Torres Costa / Tubarao
+480,Maringá / PR,Camboriu / SC,06/08/2023,19:00,Willie Davids / Maringa
+481,Bahia de Feira / BA,Nacional / AM,14/08/2023,19:00,Professor Jodilton Souza   / Feira de Santana
+482,Atlético / CE,Sousa / PB,12/08/2023,15:00,Presidente Vargas / Fortaleza
+483,Nacional / PB,Ferroviário / CE,13/08/2023,16:00,José Cavalcanti / Patos
+484,Maranhão / MA,Retrô / PE,13/08/2023,16:00,Governador João Castelo / Sao Luis
+485,Caxias / RS,Ceilândia / DF,13/08/2023,16:00,Francisco Stédile / Caxias do Sul
+486,Atlético Patrocinense / MG,Portuguesa / RJ,12/08/2023,18:00,Pedro Alves do Nascimento / Patrocinio
+487,Camboriu / SC,Atlhetic Ce / MG,12/08/2023,17:00,Hercílio Luz / Itajai
+488,Ferroviária / SP,Anápolis / GO,12/08/2023,17:00,Ademar Pereira de Barros / Araraquara
+489,Nacional / AM,Bahia de Feira / BA,19/08/2023,16:00,Ismael Benigno / Manaus
+490,Sousa / PB,Atlético / CE,20/08/2023,16:00,Antônio Mariz / Sousa
+491,Ferroviário / CE,Nacional / PB,20/08/2023,17:00,Presidente Vargas / Fortaleza
+492,Retrô / PE,Maranhão / MA,19/08/2023,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+493,Ceilândia / DF,Caxias / RS,19/08/2023,15:30,Abadião / Ceilândia
+494,Portuguesa / RJ,Atlético Patrocinense / MG,20/08/2023,16:00,Luso Brasileiro / Rio de Janeiro
+495,Atlhetic Ce / MG,Camboriu / SC,19/08/2023,16:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+496,Anápolis / GO,Ferroviária / SP,20/08/2023,16:00,Olímpico Pedro Ludovico / Goiania
+497,Maranhão / MA,Ferroviário / CE,27/08/2023,15:00,Governador João Castelo / Sao Luis
+498,Caxias / RS,Portuguesa / RJ,27/08/2023,17:30,Francisco Stédile / Caxias do Sul
+499,Bahia de Feira / BA,Athletic Club / MG,26/08/2023,17:30,Professor Jodilton Souza   / Feira de Santana
+500,Ferroviaria / SP,Sousa / PB,26/08/2023,15:00,Ademar Pereira de Barros / Araraquara
+501,Ferroviário / CE,Maranhão / MA,03/09/2023,17:30,Presidente Vargas / Fortaleza
+502,Portuguesa / RJ,Caxias / RS,02/09/2023,15:00,Luso Brasileiro / Rio de Janeiro
+503,Athletic Club / MG,Bahia de Feira / BA,02/09/2023,17:30,Magalhães Pinto / Belo Horizonte
+504,Sousa / PB,Ferroviaria / SP,03/09/2023,15:00,Antônio Mariz / Sousa
+505,Caxias / RS,Ferroviário / CE,07/09/2023,15:00,Francisco Stédile / Caxias do Sul
+506,Ferroviaria / SP,Athletic Club / MG,06/09/2023,20:00,Ademar Pereira de Barros / Araraquara
+507,Ferroviário / CE,Caxias / RS,10/09/2023,17:30,Presidente Vargas / Fortaleza
+508,Athletic Club / MG,Ferroviaria / SP,10/09/2023,15:00,Raimundo Sampaio / Belo Horizonte
+509,Ferroviaria / SP,Ferroviário / CE,13/09/2023,20:00,Ademar Pereira de Barros / Araraquara
+510,Ferroviário / CE,Ferroviaria / SP,16/09/2023,16:00,Presidente Vargas / Fortaleza

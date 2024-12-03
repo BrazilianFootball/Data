@@ -1,121 +1,121 @@
-Game,Home,Away
-001,Ríver / PI,Bahia / BA
-002,São Luiz / RS,América / RN
-003,Coruripe / AL,Juventude / RS
-004,XV de Piracicaba / SP,Londrina / PR
-005,Caxias / RS,Botafogo / RJ
-006,Toledo / PR,Náutico / PE
-007,Palmas / TO,Paraná / PR
-008,Bahia de Feira / BA,Luverdense / MT
-009,Brusque / SC,Sport / PE
-010,Frei Paulistano / SE,Remo / PA
-011,Manaus / AM,Coritiba / PR
-012,Gama / DF,Brasil / RS
-013,São Raimundo / RR,Cruzeiro / MG
-014,Vilhenense / RO,Boa / MG
-015,Brasiliense / DF,Paysandu / PA
-016,Independente / PA,CRB / AL
-017,Moto Club / MA,Fluminense / RJ
-018,Atlético / BA,Botafogo / PB
-019,Novorizontino / SP,Figueirense / SC
-020,Vitória / ES,CSA / AL
-021,Boavista / RJ,Chapecoense / SC
-022,Caucaia / CE,São José / RS
-023,União de Rondonópolis / MT,Atlético / GO
-024,Operário / MT,Santa Cruz / PE
-025,Imperatriz / MA,Vitória / BA
-026,Lagarto / SE,Volta Redonda / RJ
-027,Bragantino / PA,Ceará / CE
-028,Bangu / RJ,Oeste / SP
-029,Campinense / PB,Atlético Mineiro / MG
-030,Afogados / PE,Atlético / AC
-031,Novo Hamburgo / RS,Ponte Preta / SP
-032,Galvez / AC,Vila Nova / GO
-033,Altos / PI,Vasco da Gama / RJ
-034,Aquidauanense / MS,ABC / RN
-035,Fast Clube / AM,Goiás / GO
-036,Santo André / SP,Criciúma / SC
-037,Santos / AP,América / MG
-038,Barbalha / CE,Operário / PR
-039,Ferroviária / SP,Avaí / SC
-040,Águia Negra / MS,Sampaio Corrêa / MA
-041,Vitória / ES,Figueirense / SC
-042,Paysandu / PA,CRB / AL
-043,Náutico / PE,Botafogo / RJ
-044,Oeste / SP,Ceará / CE
-045,Brusque / SC,Remo / PA
-046,XV de Piracicaba / SP,Juventude / RS
-047,Paraná / PR,Bahia de Feira / BA
-048,Ríver / PI,América / RN
-049,Ferroviária / SP,Águia Negra / MS
-050,Afogados / PE,Atlético Mineiro / MG
-051,São José / RS,Chapecoense / SC
-052,Ponte Preta / SP,Vila Nova / GO
-053,Fluminense / RJ,Botafogo / PB
-054,Santo André / SP,Goiás / GO
-055,Brasil / RS,Manaus / AM
-056,Boa / MG,Cruzeiro / MG
-057,Atlético / GO,Santa Cruz / PE
-058,Vitória / BA,Lagarto / SE
-059,Operário / PR,América / MG
-060,Vasco da Gama / RJ,ABC / RN
-061,Botafogo / RJ,Paraná / PR
-062,Juventude / RS,América / RN
-063,Figueirense / SC,Fluminense / RJ
-064,Ceará / CE,Vitória / BA
-065,Ferroviária / SP,América / MG
-066,Cruzeiro / MG,CRB / AL
-067,Atlético / GO,São José / RS
-068,Vasco da Gama / RJ,Goiás / GO
-069,Ponte Preta / SP,Afogados / PE
-070,Brasil / RS,Brusque / SC
-071,Paraná / PR,Botafogo / RJ
-072,CRB / AL,Cruzeiro / MG
-073,Vitória / BA,Ceará / CE
-074,América / RN,Juventude / RS
-075,São José / RS,Atlético / GO
-076,Goiás / GO,Vasco da Gama / RJ
-077,América / MG,Ferroviária / SP
-078,Afogados / PE,Ponte Preta / SP
-079,Brusque / SC,Brasil / RS
-080,Fluminense / RJ,Figueirense / SC
-081,Fluminense / RJ,Atlético / GO
-082,Brusque / SC,Ceará / CE
-083,Botafogo / RJ,Vasco da Gama / RJ
-084,Ponte Preta / SP,América / MG
-085,Juventude / RS,CRB / AL
-086,Atlético / GO,Fluminense / RJ
-087,Ceará / CE,Brusque / SC
-088,Vasco da Gama / RJ,Botafogo / RJ
-089,América / MG,Ponte Preta / SP
-090,CRB / AL,Juventude / RS
-091,Fortaleza / CE,São Paulo / SP
-092,São Paulo / SP,Fortaleza / CE
-093,Botafogo / RJ,Cuiabá / MT
-094,Santos / SP,Ceará / CE
-095,Atlético / GO,Internacional / RS
-096,Athletico Paranaense / PR,Flamengo / RJ
-097,Corinthians / SP,América / MG
-098,Red Bull Bragantino / SP,Palmeiras / SP
-099,Grêmio / RS,Juventude / RS
-100,Cuiabá / MT,Botafogo / RJ
-101,Ceará / CE,Santos / SP
-102,Internacional / RS,Atlético / GO
-103,Flamengo / RJ,Athletico Paranaense / PR
-104,América / MG,Corinthians / SP
-105,Palmeiras / SP,Red Bull Bragantino / SP
-106,Juventude / RS,Grêmio / RS
-107,Flamengo / RJ,São Paulo / SP
-108,Cuiabá / MT,Grêmio / RS
-109,Internacional / RS,América / MG
-110,Palmeiras / SP,Ceará / CE
-111,São Paulo / SP,Flamengo / RJ
-112,Grêmio / RS,Cuiabá / MT
-113,América / MG,Internacional / RS
-114,Ceará / CE,Palmeiras / SP
-115,Grêmio / RS,São Paulo / SP
-116,Palmeiras / SP,América / MG
-117,São Paulo / SP,Grêmio / RS
-118,América / MG,Palmeiras / SP
-119,Grêmio / RS,Palmeiras / SP
-120,Palmeiras / SP,Grêmio / RS
+Game,Home,Away,Date,Time,Stadium
+001,Ríver / PI,Bahia / BA,05/02/2020,21:30,Governador Alberto Silva / Teresina
+002,São Luiz / RS,América / RN,05/02/2020,20:30,19 de Outubro / Ijui
+003,Coruripe / AL,Juventude / RS,05/02/2020,15:30,Gerson Amaral / Coruripe
+004,XV de Piracicaba / SP,Londrina / PR,05/02/2020,20:30,Barão de Serra Negra / Piracicaba
+005,Caxias / RS,Botafogo / RJ,05/02/2020,21:30,Francisco Stédile / Caxias do Sul
+006,Toledo / PR,Náutico / PE,12/02/2020,21:30,14 de Dezembro / Toledo
+007,Palmas / TO,Paraná / PR,05/02/2020,21:30,Nilton Santos / Palmas
+008,Bahia de Feira / BA,Luverdense / MT,05/02/2020,20:30,Professor Jodilton Souza   / Feira de Santana
+009,Brusque / SC,Sport / PE,12/02/2020,19:15,Augusto Bauer / Brusque
+010,Frei Paulistano / SE,Remo / PA,12/02/2020,16:00,Jairton Menezes de Mendonça  / Frei Paulo
+011,Manaus / AM,Coritiba / PR,12/02/2020,22:30,Arena da Amazônia / Manaus
+012,Gama / DF,Brasil / RS,12/02/2020,20:30,Valmir Campelo Bezerra / Gama
+013,São Raimundo / RR,Cruzeiro / MG,13/02/2020,21:30,Flamarion Vasconcelos / Boa Vista
+014,Vilhenense / RO,Boa / MG,05/02/2020,20:30,Arnaldo Lopes Martins / Vilhena
+015,Brasiliense / DF,Paysandu / PA,06/02/2020,19:15,José Roriz Aguiar / Luziania
+016,Independente / PA,CRB / AL,05/02/2020,15:30,Evandro Almeida / Belem
+017,Moto Club / MA,Fluminense / RJ,26/02/2020,21:30,Governador João Castelo / Sao Luis
+018,Atlético / BA,Botafogo / PB,12/02/2020,20:30,Antônio Carneiro / Alagoinhas
+019,Novorizontino / SP,Figueirense / SC,06/02/2020,16:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+020,Vitória / ES,CSA / AL,06/02/2020,20:30,Salvador Venâncio da Costa / Vitoria
+021,Boavista / RJ,Chapecoense / SC,19/02/2020,19:15,Elcyr Resende de Mendonça / Saquarema
+022,Caucaia / CE,São José / RS,12/02/2020,16:00,Raimundo de Oliveira / Caucaia
+023,União de Rondonópolis / MT,Atlético / GO,06/02/2020,21:30,Luthero Lopes / Rondonopolis
+024,Operário / MT,Santa Cruz / PE,05/02/2020,21:30,Arena Pantanal / Cuiaba
+025,Imperatriz / MA,Vitória / BA,11/02/2020,21:30,Frei Epifânio D´abadia / Imperatriz
+026,Lagarto / SE,Volta Redonda / RJ,19/02/2020,15:30,Estádio Estadual Gov Albano Franco / Simao Dias
+027,Bragantino / PA,Ceará / CE,12/02/2020,15:30,São Benedito / Braganca
+028,Bangu / RJ,Oeste / SP,12/02/2020,16:00,Guilherme da Silveira Filho / Rio de Janeiro
+029,Campinense / PB,Atlético Mineiro / MG,12/02/2020,21:30,Ernani Sátyro / Campina Grande
+030,Afogados / PE,Atlético / AC,13/02/2020,20:30,Valdemar Viana de Araújo / Afogados da Ingazeira
+031,Novo Hamburgo / RS,Ponte Preta / SP,13/02/2020,19:15,Estádio do Vale / Novo Hamburgo
+032,Galvez / AC,Vila Nova / GO,12/02/2020,21:30,Arena da Floresta / Rio Branco
+033,Altos / PI,Vasco da Gama / RJ,12/02/2020,21:30,Governador Alberto Silva / Teresina
+034,Aquidauanense / MS,ABC / RN,05/02/2020,21:30,Municipal de Aquidauana / Aquidauana
+035,Fast Clube / AM,Goiás / GO,05/02/2020,22:30,Arena da Amazônia / Manaus
+036,Santo André / SP,Criciúma / SC,05/02/2020,16:30,Bruno José Daniel / Santo Andre
+037,Santos / AP,América / MG,05/02/2020,20:30,Milton de Souza Correia / Macapa
+038,Barbalha / CE,Operário / PR,05/02/2020,15:30,Antônio Lírio Callou / Barbalha
+039,Ferroviária / SP,Avaí / SC,13/02/2020,16:30,Ademar Pereira de Barros / Araraquara
+040,Águia Negra / MS,Sampaio Corrêa / MA,12/02/2020,21:30,Iliê Vidal / Rio Brilhante
+041,Vitória / ES,Figueirense / SC,18/02/2020,21:30,Salvador Venâncio da Costa / Vitoria
+042,Paysandu / PA,CRB / AL,19/02/2020,19:15,Leônidas Sobré de Castro / Belem
+043,Náutico / PE,Botafogo / RJ,19/02/2020,21:30,Eládio de Barros Carvalho / Recife
+044,Oeste / SP,Ceará / CE,19/02/2020,21:30,Arena Barueri / Barueri
+045,Brusque / SC,Remo / PA,20/02/2020,21:30,Augusto Bauer / Brusque
+046,XV de Piracicaba / SP,Juventude / RS,26/02/2020,16:30,Barão de Serra Negra / Piracicaba
+047,Paraná / PR,Bahia de Feira / BA,26/02/2020,19:15,Durival Britto e Silva / Curitiba
+048,Ríver / PI,América / RN,26/02/2020,20:30,Governador Alberto Silva / Teresina
+049,Ferroviária / SP,Águia Negra / MS,26/02/2020,20:30,Ademar Pereira de Barros / Araraquara
+050,Afogados / PE,Atlético Mineiro / MG,26/02/2020,21:30,Valdemar Viana de Araújo / Afogados da Ingazeira
+051,São José / RS,Chapecoense / SC,27/02/2020,19:15,Francisco Novelletto Neto / Porto Alegre
+052,Ponte Preta / SP,Vila Nova / GO,27/02/2020,21:30,Moisés Lucarelli / Campinas
+053,Fluminense / RJ,Botafogo / PB,04/03/2020,19:15,Jornalista Mário Filho / Rio de Janeiro
+054,Santo André / SP,Goiás / GO,04/03/2020,19:15,Bruno José Daniel / Santo Andre
+055,Brasil / RS,Manaus / AM,04/03/2020,20:30,Bento da Silva Freitas / Pelotas
+056,Boa / MG,Cruzeiro / MG,04/03/2020,21:30,Dilzon Luís de Melo / Varginha
+057,Atlético / GO,Santa Cruz / PE,04/03/2020,21:30,Olímpico Pedro Ludovico / Goiania
+058,Vitória / BA,Lagarto / SE,05/03/2020,19:15,Manoel Barradas / Salvador
+059,Operário / PR,América / MG,05/03/2020,20:00,Germano Kruger / Ponta Grossa
+060,Vasco da Gama / RJ,ABC / RN,05/03/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
+061,Botafogo / RJ,Paraná / PR,10/03/2020,19:15,Nilton Santos / Rio de Janeiro
+062,Juventude / RS,América / RN,11/03/2020,19:15,Alfredo Jaconi / Caxias do Sul
+063,Figueirense / SC,Fluminense / RJ,11/03/2020,19:15,Orlando Scarpelli / Florianopolis
+064,Ceará / CE,Vitória / BA,12/03/2020,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+065,Ferroviária / SP,América / MG,11/03/2020,19:15,Ademar Pereira de Barros / Araraquara
+066,Cruzeiro / MG,CRB / AL,11/03/2020,21:30,Magalhães Pinto / Belo Horizonte
+067,Atlético / GO,São José / RS,11/03/2020,21:30,Olímpico Pedro Ludovico / Goiania
+068,Vasco da Gama / RJ,Goiás / GO,12/03/2020,21:30,São Januário / Rio de Janeiro
+069,Ponte Preta / SP,Afogados / PE,12/03/2020,19:15,Moisés Lucarelli / Campinas
+070,Brasil / RS,Brusque / SC,12/03/2020,21:30,Bento da Silva Freitas / Pelotas
+071,Paraná / PR,Botafogo / RJ,26/08/2020,19:00,Durival Britto e Silva / Curitiba
+072,CRB / AL,Cruzeiro / MG,26/08/2020,16:00,Rei Pelé / Maceio
+073,Vitória / BA,Ceará / CE,26/08/2020,21:30,Manoel Barradas / Salvador
+074,América / RN,Juventude / RS,26/08/2020,16:00,Arena das Dunas / Natal
+075,São José / RS,Atlético / GO,27/08/2020,21:30,Francisco Novelletto Neto / Porto Alegre
+076,Goiás / GO,Vasco da Gama / RJ,26/08/2020,21:30,Hailé Pinheiro / Goiania
+077,América / MG,Ferroviária / SP,25/08/2020,19:00,Raimundo Sampaio / Belo Horizonte
+078,Afogados / PE,Ponte Preta / SP,25/08/2020,16:00,Valdemar Viana de Araújo / Afogados da Ingazeira
+079,Brusque / SC,Brasil / RS,27/08/2020,19:00,Augusto Bauer / Brusque
+080,Fluminense / RJ,Figueirense / SC,25/08/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
+081,Fluminense / RJ,Atlético / GO,16/09/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
+082,Brusque / SC,Ceará / CE,16/09/2020,21:30,Augusto Bauer / Brusque
+083,Botafogo / RJ,Vasco da Gama / RJ,17/09/2020,19:00,Nilton Santos / Rio de Janeiro
+084,Ponte Preta / SP,América / MG,16/09/2020,19:00,Moisés Lucarelli / Campinas
+085,Juventude / RS,CRB / AL,17/09/2020,16:00,Alfredo Jaconi / Caxias do Sul
+086,Atlético / GO,Fluminense / RJ,24/09/2020,20:00,Olímpico Pedro Ludovico / Goiania
+087,Ceará / CE,Brusque / SC,23/09/2020,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+088,Vasco da Gama / RJ,Botafogo / RJ,23/09/2020,21:30,São Januário / Rio de Janeiro
+089,América / MG,Ponte Preta / SP,22/09/2020,21:30,Raimundo Sampaio / Belo Horizonte
+090,CRB / AL,Juventude / RS,22/09/2020,19:00,Rei Pelé / Maceio
+091,Fortaleza / CE,São Paulo / SP,14/10/2020,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+092,São Paulo / SP,Fortaleza / CE,25/10/2020,20:30,Cícero Pompeu de Toledo / Sao Paulo
+093,Botafogo / RJ,Cuiabá / MT,27/10/2020,21:30,Nilton Santos / Rio de Janeiro
+094,Santos / SP,Ceará / CE,28/10/2020,16:00,Urbano Caldeira / Santos
+095,Atlético / GO,Internacional / RS,28/10/2020,19:00,Olímpico Pedro Ludovico / Goiania
+096,Athletico Paranaense / PR,Flamengo / RJ,28/10/2020,21:30,Joaquim Américo Guimarães / Curitiba
+097,Corinthians / SP,América / MG,28/10/2020,21:30,Arena Corinthians / Sao Paulo
+098,Red Bull Bragantino / SP,Palmeiras / SP,29/10/2020,19:00,Nabi Abi Chedid / Braganca Paulista
+099,Grêmio / RS,Juventude / RS,29/10/2020,21:30,Arena do Grêmio / Porto Alegre
+100,Cuiabá / MT,Botafogo / RJ,03/11/2020,19:00,Arena Pantanal / Cuiaba
+101,Ceará / CE,Santos / SP,04/11/2020,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+102,Internacional / RS,Atlético / GO,03/11/2020,21:30,José Pinheiro Borda / Porto Alegre
+103,Flamengo / RJ,Athletico Paranaense / PR,04/11/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
+104,América / MG,Corinthians / SP,04/11/2020,21:30,Raimundo Sampaio / Belo Horizonte
+105,Palmeiras / SP,Red Bull Bragantino / SP,05/11/2020,19:00,Allianz Parque / Sao Paulo
+106,Juventude / RS,Grêmio / RS,05/11/2020,21:30,Alfredo Jaconi / Caxias do Sul
+107,Flamengo / RJ,São Paulo / SP,11/11/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
+108,Cuiabá / MT,Grêmio / RS,11/11/2020,19:00,Arena Pantanal / Cuiaba
+109,Internacional / RS,América / MG,11/11/2020,21:30,José Pinheiro Borda / Porto Alegre
+110,Palmeiras / SP,Ceará / CE,11/11/2020,16:30,Allianz Parque / Sao Paulo
+111,São Paulo / SP,Flamengo / RJ,18/11/2020,21:30,Cícero Pompeu de Toledo / Sao Paulo
+112,Grêmio / RS,Cuiabá / MT,18/11/2020,16:30,Arena do Grêmio / Porto Alegre
+113,América / MG,Internacional / RS,18/11/2020,21:30,Raimundo Sampaio / Belo Horizonte
+114,Ceará / CE,Palmeiras / SP,18/11/2020,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+115,Grêmio / RS,São Paulo / SP,23/12/2020,21:30,Arena do Grêmio / Porto Alegre
+116,Palmeiras / SP,América / MG,23/12/2020,21:30,Allianz Parque / Sao Paulo
+117,São Paulo / SP,Grêmio / RS,30/12/2020,21:30,Cícero Pompeu de Toledo / Sao Paulo
+118,América / MG,Palmeiras / SP,30/12/2020,21:30,Raimundo Sampaio / Belo Horizonte
+119,Grêmio / RS,Palmeiras / SP,28/02/2021,21:00,Arena do Grêmio / Porto Alegre
+120,Palmeiras / SP,Grêmio / RS,07/03/2021,18:00,Allianz Parque / Sao Paulo

@@ -1,194 +1,194 @@
-Game,Home,Away
-001,Moto Club / MA,Sampaio Corrêa / MA
-002,CSA / AL,ASA / AL
-003,Botafogo / PB,Cuiabá / MT
-004,Confiança / SE,Salgueiro / PE
-005,Remo / PA,Fortaleza / CE
-006,Red Bull Bragantino / SP,Botafogo / SP
-007,Volta Redonda / RJ,Macaé / RJ
-008,Tombense / MG,Tupi / MG
-009,Mogi Mirim / SP,São Bento / SP
-010,Ypiranga / RS,Joinville / SC
-011,Sampaio Corrêa / MA,CSA / AL
-012,ASA / AL,Remo / PA
-013,Cuiabá / MT,Confiança / SE
-014,Salgueiro / PE,Moto Club / MA
-015,Fortaleza / CE,Botafogo / PB
-016,Botafogo / SP,Mogi Mirim / SP
-017,Macaé / RJ,Red Bull Bragantino / SP
-018,Tupi / MG,Ypiranga / RS
-019,São Bento / SP,Tombense / MG
-020,Joinville / SC,Volta Redonda / RJ
-021,Moto Club / MA,Confiança / SE
-022,ASA / AL,Sampaio Corrêa / MA
-023,Botafogo / PB,CSA / AL
-024,Salgueiro / PE,Fortaleza / CE
-025,Remo / PA,Cuiabá / MT
-026,Red Bull Bragantino / SP,Ypiranga / RS
-027,Volta Redonda / RJ,Botafogo / SP
-028,Tombense / MG,Mogi Mirim / SP
-029,São Bento / SP,Macaé / RJ
-030,Joinville / SC,Tupi / MG
-031,Sampaio Corrêa / MA,Cuiabá / MT
-032,CSA / AL,Moto Club / MA
-033,Botafogo / PB,Salgueiro / PE
-034,Confiança / SE,Remo / PA
-035,Fortaleza / CE,ASA / AL
-036,Botafogo / SP,Joinville / SC
-037,Volta Redonda / RJ,Tombense / MG
-038,Tupi / MG,São Bento / SP
-039,Mogi Mirim / SP,Red Bull Bragantino / SP
-040,Ypiranga / RS,Macaé / RJ
-041,Moto Club / MA,Botafogo / PB
-042,ASA / AL,Salgueiro / PE
-043,Cuiabá / MT,Fortaleza / CE
-044,Confiança / SE,Sampaio Corrêa / MA
-045,Remo / PA,CSA / AL
-046,Red Bull Bragantino / SP,Volta Redonda / RJ
-047,Macaé / RJ,Tupi / MG
-048,Tombense / MG,Joinville / SC
-049,São Bento / SP,Botafogo / SP
-050,Ypiranga / RS,Mogi Mirim / SP
-051,Moto Club / MA,ASA / AL
-052,CSA / AL,Confiança / SE
-053,Botafogo / PB,Remo / PA
-054,Salgueiro / PE,Cuiabá / MT
-055,Fortaleza / CE,Sampaio Corrêa / MA
-056,Botafogo / SP,Macaé / RJ
-057,Volta Redonda / RJ,Ypiranga / RS
-058,Tombense / MG,Red Bull Bragantino / SP
-059,Mogi Mirim / SP,Tupi / MG
-060,Joinville / SC,São Bento / SP
-061,Sampaio Corrêa / MA,Salgueiro / PE
-062,CSA / AL,Fortaleza / CE
-063,Cuiabá / MT,ASA / AL
-064,Confiança / SE,Botafogo / PB
-065,Remo / PA,Moto Club / MA
-066,Red Bull Bragantino / SP,São Bento / SP
-067,Macaé / RJ,Joinville / SC
-068,Tupi / MG,Botafogo / SP
-069,Mogi Mirim / SP,Volta Redonda / RJ
-070,Ypiranga / RS,Tombense / MG
-071,Sampaio Corrêa / MA,Remo / PA
-072,ASA / AL,Botafogo / PB
-073,Cuiabá / MT,Moto Club / MA
-074,Salgueiro / PE,CSA / AL
-075,Fortaleza / CE,Confiança / SE
-076,Botafogo / SP,Tombense / MG
-077,Macaé / RJ,Mogi Mirim / SP
-078,Tupi / MG,Volta Redonda / RJ
-079,São Bento / SP,Ypiranga / RS
-080,Joinville / SC,Red Bull Bragantino / SP
-081,Moto Club / MA,Fortaleza / CE
-082,CSA / AL,Cuiabá / MT
-083,Botafogo / PB,Sampaio Corrêa / MA
-084,Confiança / SE,ASA / AL
-085,Remo / PA,Salgueiro / PE
-086,Red Bull Bragantino / SP,Tupi / MG
-087,Volta Redonda / RJ,São Bento / SP
-088,Tombense / MG,Macaé / RJ
-089,Mogi Mirim / SP,Joinville / SC
-090,Ypiranga / RS,Botafogo / SP
-091,Sampaio Corrêa / MA,Moto Club / MA
-092,Salgueiro / PE,Confiança / SE
-093,ASA / AL,CSA / AL
-094,Botafogo / SP,Red Bull Bragantino / SP
-095,Macaé / RJ,Volta Redonda / RJ
-096,São Bento / SP,Mogi Mirim / SP
-097,Fortaleza / CE,Remo / PA
-098,Cuiabá / MT,Botafogo / PB
-099,Joinville / SC,Ypiranga / RS
-100,Tupi / MG,Tombense / MG
-101,Moto Club / MA,Salgueiro / PE
-102,Remo / PA,ASA / AL
-103,Tombense / MG,São Bento / SP
-104,Mogi Mirim / SP,Botafogo / SP
-105,Red Bull Bragantino / SP,Macaé / RJ
-106,Volta Redonda / RJ,Joinville / SC
-107,CSA / AL,Sampaio Corrêa / MA
-108,Ypiranga / RS,Tupi / MG
-109,Confiança / SE,Cuiabá / MT
-110,Botafogo / PB,Fortaleza / CE
-111,Cuiabá / MT,Remo / PA
-112,Sampaio Corrêa / MA,ASA / AL
-113,Fortaleza / CE,Salgueiro / PE
-114,Macaé / RJ,São Bento / SP
-115,Mogi Mirim / SP,Tombense / MG
-116,Tupi / MG,Joinville / SC
-117,CSA / AL,Botafogo / PB
-118,Ypiranga / RS,Red Bull Bragantino / SP
-119,Botafogo / SP,Volta Redonda / RJ
-120,Confiança / SE,Moto Club / MA
-121,Moto Club / MA,CSA / AL
-122,Salgueiro / PE,Botafogo / PB
-123,ASA / AL,Fortaleza / CE
-124,Macaé / RJ,Ypiranga / RS
-125,Tombense / MG,Volta Redonda / RJ
-126,Red Bull Bragantino / SP,Mogi Mirim / SP
-127,São Bento / SP,Tupi / MG
-128,Remo / PA,Confiança / SE
-129,Cuiabá / MT,Sampaio Corrêa / MA
-130,Joinville / SC,Botafogo / SP
-131,Sampaio Corrêa / MA,Confiança / SE
-132,Salgueiro / PE,ASA / AL
-133,Volta Redonda / RJ,Red Bull Bragantino / SP
-135,Tupi / MG,Macaé / RJ
-136,Botafogo / PB,Moto Club / MA
-137,Fortaleza / CE,Cuiabá / MT
-138,Joinville / SC,Tombense / MG
-139,Botafogo / SP,São Bento / SP
-140,CSA / AL,Remo / PA
-141,Confiança / SE,CSA / AL
-142,Macaé / RJ,Botafogo / SP
-143,Red Bull Bragantino / SP,Tombense / MG
-144,Tupi / MG,Mogi Mirim / SP
-145,São Bento / SP,Joinville / SC
-146,Sampaio Corrêa / MA,Fortaleza / CE
-147,Ypiranga / RS,Volta Redonda / RJ
-148,ASA / AL,Moto Club / MA
-149,Remo / PA,Botafogo / PB
-150,Cuiabá / MT,Salgueiro / PE
-151,Botafogo / SP,Tupi / MG
-152,Tombense / MG,Ypiranga / RS
-153,São Bento / SP,Red Bull Bragantino / SP
-154,Moto Club / MA,Remo / PA
-155,Salgueiro / PE,Sampaio Corrêa / MA
-156,Joinville / SC,Macaé / RJ
-157,ASA / AL,Cuiabá / MT
-158,Botafogo / PB,Confiança / SE
-159,Volta Redonda / RJ,Mogi Mirim / SP
-160,Fortaleza / CE,CSA / AL
-161,Ypiranga / RS,São Bento / SP
-162,Botafogo / PB,ASA / AL
-163,Tombense / MG,Botafogo / SP
-164,Mogi Mirim / SP,Macaé / RJ
-165,Moto Club / MA,Cuiabá / MT
-166,Red Bull Bragantino / SP,Joinville / SC
-167,Remo / PA,Sampaio Corrêa / MA
-168,Confiança / SE,Fortaleza / CE
-169,Volta Redonda / RJ,Tupi / MG
-170,CSA / AL,Salgueiro / PE
-171,Botafogo / SP,Ypiranga / RS
-172,Macaé / RJ,Tombense / MG
-173,Tupi / MG,Red Bull Bragantino / SP
-174,São Bento / SP,Volta Redonda / RJ
-175,Joinville / SC,Mogi Mirim / SP
-176,Sampaio Corrêa / MA,Botafogo / PB
-177,ASA / AL,Confiança / SE
-178,Cuiabá / MT,CSA / AL
-179,Salgueiro / PE,Remo / PA
-180,Fortaleza / CE,Moto Club / MA
-181,Volta Redonda / RJ,Sampaio Corrêa / MA
-182,Fortaleza / CE,Tupi / MG
-183,Tombense / MG,CSA / AL
-184,Confiança / SE,São Bento / SP
-185,Sampaio Corrêa / MA,Volta Redonda / RJ
-186,Tupi / MG,Fortaleza / CE
-187,CSA / AL,Tombense / MG
-188,São Bento / SP,Confiança / SE
-189,Fortaleza / CE,Sampaio Corrêa / MA
-190,São Bento / SP,CSA / AL
-191,Sampaio Corrêa / MA,Fortaleza / CE
-192,CSA / AL,São Bento / SP
-193,Fortaleza / CE,CSA / AL
-194,CSA / AL,Fortaleza / CE
+Game,Home,Away,Date,Time,Stadium
+001,Moto Club / MA,Sampaio Corrêa / MA,13/05/2017,16:00,Governador João Castelo / Sao Luis
+002,CSA / AL,ASA / AL,14/05/2017,16:00,Rei Pelé / Maceió
+003,Botafogo / PB,Cuiabá / MT,14/05/2017,16:00,José Américo de Almeida Filho  / Joao Pessoa
+004,Confiança / SE,Salgueiro / PE,15/05/2017,20:30,Lourival Baptista / Aracaju
+005,Remo / PA,Fortaleza / CE,14/05/2017,19:00,Olímpico do Pará / Belém
+006,Red Bull Bragantino / SP,Botafogo / SP,13/05/2017,19:30,Nabi Abi Chedid / Bragança Paulista
+007,Volta Redonda / RJ,Macaé / RJ,13/05/2017,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+008,Tombense / MG,Tupi / MG,13/05/2017,15:30,Antônio Guimarães de Almeida / Tombos
+009,Mogi Mirim / SP,São Bento / SP,13/05/2017,15:30,José Liberatti / Osasco
+010,Ypiranga / RS,Joinville / SC,14/05/2017,15:30,Colosso da Lagoa / Erechim
+011,Sampaio Corrêa / MA,CSA / AL,20/05/2017,16:00,Governador João Castelo / Sao Luis
+012,ASA / AL,Remo / PA,20/05/2017,16:30,Coaracy da Mata Fonseca / Arapiraca
+013,Cuiabá / MT,Confiança / SE,21/05/2017,17:00,Arena Pantanal / Cuiabá
+014,Salgueiro / PE,Moto Club / MA,21/05/2017,16:00,Cornélio de Barros Muniz / Salgueiro
+015,Fortaleza / CE,Botafogo / PB,19/05/2017,19:00,Presidente Vargas / Fortaleza
+016,Botafogo / SP,Mogi Mirim / SP,20/05/2017,19:30,Santa Cruz / Ribeirão Preto
+017,Macaé / RJ,Red Bull Bragantino / SP,20/05/2017,15:00,Elcyr Resende de Mendonça / Saquarema
+018,Tupi / MG,Ypiranga / RS,20/05/2017,16:00,Mário Helênio / Juiz de Fora
+019,São Bento / SP,Tombense / MG,20/05/2017,17:00,Walter Ribeiro / Sorocaba
+020,Joinville / SC,Volta Redonda / RJ,21/05/2017,16:00,Arena Joinville / Joinville
+021,Moto Club / MA,Confiança / SE,27/05/2017,16:00,Governador João Castelo / Sao Luis
+022,ASA / AL,Sampaio Corrêa / MA,28/05/2017,16:00,Coaracy da Mata Fonseca / Arapiraca
+023,Botafogo / PB,CSA / AL,28/05/2017,16:00,José Américo de Almeida Filho / Joao Pessoa
+024,Salgueiro / PE,Fortaleza / CE,27/05/2017,20:00,Cornélio de Barros Muniz / Salgueiro
+025,Remo / PA,Cuiabá / MT,28/05/2017,19:00,Olímpico do Pará / Belém
+026,Red Bull Bragantino / SP,Ypiranga / RS,27/05/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+027,Volta Redonda / RJ,Botafogo / SP,29/05/2017,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+028,Tombense / MG,Mogi Mirim / SP,27/05/2017,15:30,Antônio Guimarães de Almeida / Tombos
+029,São Bento / SP,Macaé / RJ,27/05/2017,17:00,Walter Ribeiro / Sorocaba
+030,Joinville / SC,Tupi / MG,26/05/2017,19:00,Arena Joinville / Joinville
+031,Sampaio Corrêa / MA,Cuiabá / MT,03/06/2017,16:00,Governador João Castelo / Sao Luis
+032,CSA / AL,Moto Club / MA,04/06/2017,16:00,Rei Pelé / Maceió
+033,Botafogo / PB,Salgueiro / PE,04/06/2017,16:00,José Américo de Almeida Filho / Joao Pessoa
+034,Confiança / SE,Remo / PA,05/06/2017,21:00,Lourival Baptista / Aracaju
+035,Fortaleza / CE,ASA / AL,03/06/2017,20:30,Presidente Vargas / Fortaleza
+036,Botafogo / SP,Joinville / SC,04/06/2017,18:00,Santa Cruz / Ribeirão Preto
+037,Volta Redonda / RJ,Tombense / MG,03/06/2017,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+038,Tupi / MG,São Bento / SP,03/06/2017,16:00,Mário Helênio / Juiz de Fora
+039,Mogi Mirim / SP,Red Bull Bragantino / SP,03/06/2017,15:30,Vail Chaves / Mogi Mirim
+040,Ypiranga / RS,Macaé / RJ,04/06/2017,15:00,Colosso da Lagoa / Erechim
+041,Moto Club / MA,Botafogo / PB,10/06/2017,16:00,Governador João Castelo / Sao Luis
+042,ASA / AL,Salgueiro / PE,11/06/2017,16:00,Coaracy da Mata Fonseca / Arapiraca
+043,Cuiabá / MT,Fortaleza / CE,11/06/2017,18:00,Arena Pantanal / Cuiabá
+044,Confiança / SE,Sampaio Corrêa / MA,12/06/2017,20:30,Lourival Baptista / Aracaju
+045,Remo / PA,CSA / AL,10/06/2017,19:30,Olímpico do Pará / Belém
+046,Red Bull Bragantino / SP,Volta Redonda / RJ,10/06/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+047,Macaé / RJ,Tupi / MG,10/06/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+048,Tombense / MG,Joinville / SC,10/06/2017,15:30,Antônio Guimarães de Almeida / Tombos
+049,São Bento / SP,Botafogo / SP,12/06/2017,21:00,Walter Ribeiro / Sorocaba
+050,Ypiranga / RS,Mogi Mirim / SP,11/06/2017,15:00,Colosso da Lagoa / Erechim
+051,Moto Club / MA,ASA / AL,17/06/2017,16:00,Governador João Castelo / Sao Luis
+052,CSA / AL,Confiança / SE,16/06/2017,20:00,Rei Pelé / Maceió
+053,Botafogo / PB,Remo / PA,19/06/2017,21:00,José Américo de Almeida Filho / Joao Pessoa
+054,Salgueiro / PE,Cuiabá / MT,18/06/2017,16:00,Cornélio de Barros Muniz / Salgueiro
+055,Fortaleza / CE,Sampaio Corrêa / MA,18/06/2017,18:00,Presidente Vargas / Fortaleza
+056,Botafogo / SP,Macaé / RJ,18/06/2017,16:00,Santa Cruz / Ribeirão Preto
+057,Volta Redonda / RJ,Ypiranga / RS,17/06/2017,18:00,Sylvio Raulino de Oliveira / Volta Redonda
+058,Tombense / MG,Red Bull Bragantino / SP,17/06/2017,15:30,Antônio Guimarães de Almeida / Tombos
+059,Mogi Mirim / SP,Tupi / MG,17/06/2017,15:30,Vail Chaves / Mogi Mirim
+060,Joinville / SC,São Bento / SP,18/06/2017,15:00,Arena Joinville / Joinville
+061,Sampaio Corrêa / MA,Salgueiro / PE,25/06/2017,15:30,Nhozinho Santos / São Luis
+062,CSA / AL,Fortaleza / CE,26/06/2017,21:00,Rei Pelé / Maceió
+063,Cuiabá / MT,ASA / AL,25/06/2017,17:00,Arena Pantanal / Cuiabá
+064,Confiança / SE,Botafogo / PB,24/06/2017,16:00,Lourival Baptista / Aracaju
+065,Remo / PA,Moto Club / MA,24/06/2017,18:00,Olímpico do Pará / Belém
+066,Red Bull Bragantino / SP,São Bento / SP,24/06/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+067,Macaé / RJ,Joinville / SC,24/06/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+068,Tupi / MG,Botafogo / SP,24/06/2017,20:00,Mário Helênio / Juiz de Fora
+069,Mogi Mirim / SP,Volta Redonda / RJ,24/06/2017,15:30,Vail Chaves / Mogi Mirim
+070,Ypiranga / RS,Tombense / MG,25/06/2017,15:00,Colosso da Lagoa / Erechim
+071,Sampaio Corrêa / MA,Remo / PA,03/07/2017,21:00,Governador João Castelo / Sao Luis
+072,ASA / AL,Botafogo / PB,02/07/2017,16:00,Coaracy da Mata Fonseca / Arapiraca
+073,Cuiabá / MT,Moto Club / MA,02/07/2017,19:00,Arena Pantanal / Cuiabá
+074,Salgueiro / PE,CSA / AL,02/07/2017,16:00,Cornélio de Barros Muniz / Salgueiro
+075,Fortaleza / CE,Confiança / SE,02/07/2017,18:00,Presidente Vargas / Fortaleza
+076,Botafogo / SP,Tombense / MG,02/07/2017,16:00,Santa Cruz / Ribeirão Preto
+077,Macaé / RJ,Mogi Mirim / SP,01/07/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+078,Tupi / MG,Volta Redonda / RJ,01/07/2017,21:00,Mário Helênio / Juiz de Fora
+079,São Bento / SP,Ypiranga / RS,01/07/2017,17:00,Walter Ribeiro / Sorocaba
+080,Joinville / SC,Red Bull Bragantino / SP,02/07/2017,15:00,Arena Joinville / Joinville
+081,Moto Club / MA,Fortaleza / CE,08/07/2017,20:00,Governador João Castelo / Sao Luis
+082,CSA / AL,Cuiabá / MT,09/07/2017,16:00,Rei Pelé / Maceió
+083,Botafogo / PB,Sampaio Corrêa / MA,09/07/2017,16:00,José Américo de Almeida Filho / Joao Pessoa
+084,Confiança / SE,ASA / AL,10/07/2017,20:30,Lourival Baptista / Aracaju
+085,Remo / PA,Salgueiro / PE,09/07/2017,18:00,Olímpico do Pará / Belém
+086,Red Bull Bragantino / SP,Tupi / MG,08/07/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+087,Volta Redonda / RJ,São Bento / SP,09/07/2017,11:00,Sylvio Raulino de Oliveira / Volta Redonda
+088,Tombense / MG,Macaé / RJ,08/07/2017,16:00,Antônio Guimarães de Almeida / Tombos
+089,Mogi Mirim / SP,Joinville / SC,10/07/2017,21:00,Vail Chaves / Mogi Mirim
+090,Ypiranga / RS,Botafogo / SP,09/07/2017,15:00,Colosso da Lagoa / Erechim
+091,Sampaio Corrêa / MA,Moto Club / MA,15/07/2017,16:00,Governador João Castelo / Sao Luis
+092,Salgueiro / PE,Confiança / SE,15/07/2017,20:00,Cornélio de Barros Muniz / Salgueiro
+093,ASA / AL,CSA / AL,15/07/2017,21:00,Coaracy da Mata Fonseca / Arapiraca
+094,Botafogo / SP,Red Bull Bragantino / SP,17/07/2017,21:00,Santa Cruz / Ribeirão Preto
+095,Macaé / RJ,Volta Redonda / RJ,15/07/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+096,São Bento / SP,Mogi Mirim / SP,15/07/2017,17:00,Walter Ribeiro / Sorocaba
+097,Fortaleza / CE,Remo / PA,16/07/2017,18:00,Presidente Vargas / Fortaleza
+098,Cuiabá / MT,Botafogo / PB,16/07/2017,19:00,Arena Pantanal / Cuiabá
+099,Joinville / SC,Ypiranga / RS,16/07/2017,15:00,Arena Joinville / Joinville
+100,Tupi / MG,Tombense / MG,16/07/2017,11:00,Mário Helênio / Juiz de Fora
+101,Moto Club / MA,Salgueiro / PE,22/07/2017,17:00,Governador João Castelo / Sao Luis
+102,Remo / PA,ASA / AL,24/07/2017,21:00,Olímpico do Pará / Belém
+103,Tombense / MG,São Bento / SP,22/07/2017,15:30,Antônio Guimarães de Almeida / Tombos
+104,Mogi Mirim / SP,Botafogo / SP,22/07/2017,15:30,Vail Chaves / Mogi Mirim
+105,Red Bull Bragantino / SP,Macaé / RJ,22/07/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+106,Volta Redonda / RJ,Joinville / SC,22/07/2017,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+107,CSA / AL,Sampaio Corrêa / MA,23/07/2017,16:00,Rei Pelé / Maceió
+108,Ypiranga / RS,Tupi / MG,23/07/2017,15:00,Colosso da Lagoa / Erechim
+109,Confiança / SE,Cuiabá / MT,24/07/2017,20:30,Lourival Baptista / Aracaju
+110,Botafogo / PB,Fortaleza / CE,21/07/2017,21:00,José Américo de Almeida Filho / Joao Pessoa
+111,Cuiabá / MT,Remo / PA,31/07/2017,21:00,Arena Pantanal / Cuiabá
+112,Sampaio Corrêa / MA,ASA / AL,29/07/2017,17:00,Governador João Castelo / Sao Luis
+113,Fortaleza / CE,Salgueiro / PE,29/07/2017,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+114,Macaé / RJ,São Bento / SP,29/07/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+115,Mogi Mirim / SP,Tombense / MG,29/07/2017,15:30,Vail Chaves / Mogi Mirim
+116,Tupi / MG,Joinville / SC,29/07/2017,16:00,Mário Helênio / Juiz de Fora
+117,CSA / AL,Botafogo / PB,30/07/2017,16:00,Rei Pelé / Maceió
+118,Ypiranga / RS,Red Bull Bragantino / SP,30/07/2017,15:00,Colosso da Lagoa / Erechim
+119,Botafogo / SP,Volta Redonda / RJ,30/07/2017,16:00,Santa Cruz / Ribeirão Preto
+120,Confiança / SE,Moto Club / MA,31/07/2017,20:30,Lourival Baptista / Aracaju
+121,Moto Club / MA,CSA / AL,05/08/2017,18:00,Governador João Castelo / Sao Luis
+122,Salgueiro / PE,Botafogo / PB,05/08/2017,20:00,Cornélio de Barros Muniz / Salgueiro
+123,ASA / AL,Fortaleza / CE,05/08/2017,20:00,Coaracy da Mata Fonseca / Arapiraca
+124,Macaé / RJ,Ypiranga / RS,05/08/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+125,Tombense / MG,Volta Redonda / RJ,05/08/2017,15:30,Antônio Guimarães de Almeida / Tombos
+126,Red Bull Bragantino / SP,Mogi Mirim / SP,05/08/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+127,São Bento / SP,Tupi / MG,05/08/2017,17:00,Walter Ribeiro / Sorocaba
+128,Remo / PA,Confiança / SE,06/08/2017,18:00,Olímpico do Pará / Belém
+129,Cuiabá / MT,Sampaio Corrêa / MA,06/08/2017,19:00,Arena Pantanal / Cuiabá
+130,Joinville / SC,Botafogo / SP,06/08/2017,15:00,Arena Joinville / Joinville
+131,Sampaio Corrêa / MA,Confiança / SE,12/08/2017,17:00,Governador João Castelo / Sao Luis
+132,Salgueiro / PE,ASA / AL,12/08/2017,20:00,Cornélio de Barros Muniz / Salgueiro
+133,Volta Redonda / RJ,Red Bull Bragantino / SP,12/08/2017,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+135,Tupi / MG,Macaé / RJ,12/08/2017,16:00,Mário Helênio / Juiz de Fora
+136,Botafogo / PB,Moto Club / MA,13/08/2017,16:00,José Américo de Almeida Filho / Joao Pessoa
+137,Fortaleza / CE,Cuiabá / MT,13/08/2017,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+138,Joinville / SC,Tombense / MG,13/08/2017,15:00,Arena Joinville / Joinville
+139,Botafogo / SP,São Bento / SP,13/08/2017,16:00,Santa Cruz / Ribeirão Preto
+140,CSA / AL,Remo / PA,12/08/2017,16:00,Rei Pelé / Maceió
+141,Confiança / SE,CSA / AL,19/08/2017,16:00,Lourival Baptista / Aracaju
+142,Macaé / RJ,Botafogo / SP,19/08/2017,15:00,Cláudio Moacyr Azevedo / Macaé
+143,Red Bull Bragantino / SP,Tombense / MG,19/08/2017,16:00,Nabi Abi Chedid / Bragança Paulista
+144,Tupi / MG,Mogi Mirim / SP,19/08/2017,16:00,Mário Helênio / Juiz de Fora
+145,São Bento / SP,Joinville / SC,18/08/2017,21:00,Walter Ribeiro / Sorocaba
+146,Sampaio Corrêa / MA,Fortaleza / CE,19/08/2017,20:00,Governador João Castelo / Sao Luis
+147,Ypiranga / RS,Volta Redonda / RJ,20/08/2017,15:00,Colosso da Lagoa / Erechim
+148,ASA / AL,Moto Club / MA,20/08/2017,16:00,Coaracy da Mata Fonseca / Arapiraca
+149,Remo / PA,Botafogo / PB,20/08/2017,18:00,Olímpico do Pará / Belém
+150,Cuiabá / MT,Salgueiro / PE,20/08/2017,19:00,Arena Pantanal / Cuiabá
+151,Botafogo / SP,Tupi / MG,26/08/2017,15:00,Santa Cruz / Ribeirão Preto
+152,Tombense / MG,Ypiranga / RS,26/08/2017,15:30,Antônio Guimarães de Almeida / Tombos
+153,São Bento / SP,Red Bull Bragantino / SP,26/08/2017,17:00,Walter Ribeiro / Sorocaba
+154,Moto Club / MA,Remo / PA,26/08/2017,17:15,Governador João Castelo / Sao Luis
+155,Salgueiro / PE,Sampaio Corrêa / MA,26/08/2017,20:00,Cornélio de Barros Muniz / Salgueiro
+156,Joinville / SC,Macaé / RJ,27/08/2017,15:00,Arena Joinville / Joinville
+157,ASA / AL,Cuiabá / MT,27/08/2017,16:00,Coaracy da Mata Fonseca / Arapiraca
+158,Botafogo / PB,Confiança / SE,27/08/2017,16:00,José Américo de Almeida Filho / Joao Pessoa
+159,Volta Redonda / RJ,Mogi Mirim / SP,27/08/2017,15:00,Sylvio Raulino de Oliveira / Volta Redonda
+160,Fortaleza / CE,CSA / AL,27/08/2017,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+161,Ypiranga / RS,São Bento / SP,01/09/2017,19:30,Colosso da Lagoa / Erechim
+162,Botafogo / PB,ASA / AL,01/09/2017,21:30,José Américo de Almeida Filho / Joao Pessoa
+163,Tombense / MG,Botafogo / SP,02/09/2017,15:30,Antônio Guimarães de Almeida / Tombos
+164,Mogi Mirim / SP,Macaé / RJ,02/09/2017,15:30,Vail Chaves / Mogi Mirim
+165,Moto Club / MA,Cuiabá / MT,02/09/2017,17:00,Governador João Castelo / Sao Luis
+166,Red Bull Bragantino / SP,Joinville / SC,03/09/2017,15:00,Nabi Abi Chedid / Bragança Paulista
+167,Remo / PA,Sampaio Corrêa / MA,02/09/2017,16:15,Olímpico do Pará / Belém
+168,Confiança / SE,Fortaleza / CE,03/09/2017,19:00,Lourival Baptista / Aracaju
+169,Volta Redonda / RJ,Tupi / MG,04/09/2017,21:00,Sylvio Raulino de Oliveira / Volta Redonda
+170,CSA / AL,Salgueiro / PE,04/09/2017,19:00,Rei Pelé / Maceió
+171,Botafogo / SP,Ypiranga / RS,09/09/2017,17:00,Santa Cruz / Ribeirão Preto
+172,Macaé / RJ,Tombense / MG,09/09/2017,17:00,Cláudio Moacyr Azevedo / Macaé
+173,Tupi / MG,Red Bull Bragantino / SP,09/09/2017,17:00,Mário Helênio / Juiz de Fora
+174,São Bento / SP,Volta Redonda / RJ,09/09/2017,17:00,Walter Ribeiro / Sorocaba
+175,Joinville / SC,Mogi Mirim / SP,09/09/2017,17:00,Arena Joinville / Joinville
+176,Sampaio Corrêa / MA,Botafogo / PB,09/09/2017,19:30,Governador João Castelo / Sao Luis
+177,ASA / AL,Confiança / SE,09/09/2017,19:30,Coaracy da Mata Fonseca / Arapiraca
+178,Cuiabá / MT,CSA / AL,09/09/2017,19:30,Arena Pantanal / Cuiabá
+179,Salgueiro / PE,Remo / PA,09/09/2017,19:30,Cornélio de Barros Muniz / Salgueiro
+180,Fortaleza / CE,Moto Club / MA,09/09/2017,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+181,Volta Redonda / RJ,Sampaio Corrêa / MA,16/09/2017,19:30,Sylvio Raulino de Oliveira / Volta Redonda
+182,Fortaleza / CE,Tupi / MG,16/09/2017,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+183,Tombense / MG,CSA / AL,18/09/2017,20:45,Antônio Guimarães de Almeida / Tombos
+184,Confiança / SE,São Bento / SP,17/09/2017,19:00,Lourival Baptista / Aracaju
+185,Sampaio Corrêa / MA,Volta Redonda / RJ,23/09/2017,16:30,Governador João Castelo / Sao Luis
+186,Tupi / MG,Fortaleza / CE,23/09/2017,20:30,Mário Helênio / Juiz de Fora
+187,CSA / AL,Tombense / MG,25/09/2017,20:30,Rei Pelé / Maceió
+188,São Bento / SP,Confiança / SE,24/09/2017,19:00,Walter Ribeiro / Sorocaba
+189,Fortaleza / CE,Sampaio Corrêa / MA,02/10/2017,20:45,Governador Plácido Aderaldo Castelo / Fortaleza
+190,São Bento / SP,CSA / AL,01/10/2017,19:00,Walter Ribeiro / Sorocaba
+191,Sampaio Corrêa / MA,Fortaleza / CE,07/10/2017,17:00,Governador João Castelo / Sao Luis
+192,CSA / AL,São Bento / SP,07/10/2017,19:30,Rei Pelé / Maceió
+193,Fortaleza / CE,CSA / AL,14/10/2017,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+194,CSA / AL,Fortaleza / CE,21/10/2017,19:00,Rei Pelé / Maceio

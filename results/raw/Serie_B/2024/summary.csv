@@ -1,308 +1,380 @@
-Game,Home,Away
-001,Vila Nova / GO,Guarani / SP
-002,Ponte Preta / SP,Coritiba / PR
-003,Botafogo / SP,América / MG
-004,Gremio Novorizontino - / SP,CRB / AL
-005,Santos / SP,Paysandu / PA
-006,Chapecoense / SC,Ituano / SP
-007,Brusque / SC,Mirassol / SP
-008,Operário / PR,Avaí / SC
-009,Amazonas / AM,Sport / PE
-010,Ceará / CE,Goiás / GO
-011,Goiás / GO,Ponte Preta / SP
-012,Guarani / SP,Chapecoense / SC
-013,Mirassol / SP,Ceará / CE
-014,Ituano / SP,Operário / PR
-015,América / MG,Gremio Novorizontino - / SP
-016,Avaí / SC,Santos / SP
-017,CRB / AL,Amazonas / AM
-018,Coritiba / PR,Brusque / SC
-019,Paysandu / PA,Botafogo / SP
-020,Sport / PE,Vila Nova / GO
-021,Vila Nova / GO,Operário / PR
-022,Ponte Preta / SP,Amazonas / AM
-023,Botafogo / SP,Mirassol / SP
-024,Ituano / SP,Gremio Novorizontino - / SP
-025,Santos / SP,Guarani / SP
-026,Chapecoense / SC,América / MG
-027,Brusque / SC,Goiás / GO
-028,Coritiba / PR,Sport / PE
-029,Paysandu / PA,Avaí / SC
-030,Ceará / CE,CRB / AL
-031,Goiás / GO,Ituano / SP
-032,Guarani / SP,Botafogo / SP
-033,Mirassol / SP,Paysandu / PA
-034,Gremio Novorizontino - / SP,Ceará / CE
-035,América / MG,Vila Nova / GO
-036,Avaí / SC,Coritiba / PR
-037,CRB / AL,Chapecoense / SC
-038,Operário / PR,Ponte Preta / SP
-039,Amazonas / AM,Santos / SP
-040,Sport / PE,Brusque / SC
-041,Vila Nova / GO,Gremio Novorizontino - / SP
-042,Ponte Preta / SP,Santos / SP
-043,Botafogo / SP,Chapecoense / SC
-044,Ituano / SP,Sport / PE
-045,América / MG,Mirassol / SP
-046,Avaí / SC,CRB / AL
-047,Brusque / SC,Operário / PR
-048,Coritiba / PR,Guarani / SP
-049,Paysandu / PA,Goiás / GO
-050,Ceará / CE,Amazonas / AM
-051,Goiás / GO,Botafogo / SP
-052,Guarani / SP,América / MG
-053,Mirassol / SP,Ituano / SP
-054,Gremio Novorizontino - / SP,Coritiba / PR
-055,Santos / SP,Brusque / SC
-056,Chapecoense / SC,Ponte Preta / SP
-057,CRB / AL,Vila Nova / GO
-058,Operário / PR,Ceará / CE
-059,Amazonas / AM,Paysandu / PA
-060,Sport / PE,Avaí / SC
-061,Vila Nova / GO,Brusque / SC
-062,Guarani / SP,Paysandu / PA
-063,Botafogo / SP,Gremio Novorizontino - / SP
-064,Ituano / SP,Ponte Preta / SP
-065,América / MG,Santos / SP
-066,Avaí / SC,Goiás / GO
-067,CRB / AL,Sport / PE
-068,Coritiba / PR,Operário / PR
-069,Amazonas / AM,Mirassol / SP
-070,Ceará / CE,Chapecoense / SC
-071,Goiás / GO,Sport / PE
-072,Ponte Preta / SP,CRB / AL
-073,Mirassol / SP,Guarani / SP
-074,Ituano / SP,Avaí / SC
-075,Santos / SP,Botafogo / SP
-076,Chapecoense / SC,Vila Nova / GO
-077,Brusque / SC,Gremio Novorizontino - / SP
-078,Operário / PR,Amazonas / AM
-079,Paysandu / PA,América / MG
-080,Ceará / CE,Coritiba / PR
-081,Vila Nova / GO,Ceará / CE
-082,Guarani / SP,Operário / PR
-083,Mirassol / SP,Goiás / GO
-084,Gremio Novorizontino - / SP,Santos / SP
-085,América / MG,Ponte Preta / SP
-086,Avaí / SC,Chapecoense / SC
-087,CRB / AL,Botafogo / SP
-088,Coritiba / PR,Ituano / SP
-089,Amazonas / AM,Brusque / SC
-090,Sport / PE,Paysandu / PA
-091,Goiás / GO,Coritiba / PR
-092,Ponte Preta / SP,Gremio Novorizontino - / SP
-093,Botafogo / SP,Vila Nova / GO
-094,Ituano / SP,Paysandu / PA
-095,América / MG,CRB / AL
-096,Avaí / SC,Guarani / SP
-097,Brusque / SC,Ceará / CE
-098,Operário / PR,Santos / SP
-099,Amazonas / AM,Chapecoense / SC
-100,Sport / PE,Mirassol / SP
-101,Vila Nova / GO,Mirassol / SP
-102,Guarani / SP,Ituano / SP
-103,Botafogo / SP,Ponte Preta / SP
-104,Gremio Novorizontino - / SP,Amazonas / AM
-105,Santos / SP,Goiás / GO
-106,Chapecoense / SC,Operário / PR
-107,Brusque / SC,Avaí / SC
-108,Coritiba / PR,América / MG
-109,Paysandu / PA,CRB / AL
-110,Ceará / CE,Sport / PE
-111,Vila Nova / GO,Goiás / GO
-112,Ponte Preta / SP,Ceará / CE
-113,Mirassol / SP,Santos / SP
-114,Ituano / SP,Brusque / SC
-115,América / MG,Avaí / SC
-116,Chapecoense / SC,Paysandu / PA
-117,CRB / AL,Guarani / SP
-118,Operário / PR,Botafogo / SP
-119,Amazonas / AM,Coritiba / PR
-120,Sport / PE,Gremio Novorizontino - / SP
-121,Goiás / GO,América / MG
-122,Guarani / SP,Ponte Preta / SP
-123,Botafogo / SP,Sport / PE
-124,Gremio Novorizontino - / SP,Mirassol / SP
-125,Santos / SP,Chapecoense / SC
-126,Avaí / SC,Amazonas / AM
-127,CRB / AL,Brusque / SC
-128,Coritiba / PR,Vila Nova / GO
-129,Paysandu / PA,Operário / PR
-130,Ceará / CE,Ituano / SP
-131,Goiás / GO,Chapecoense / SC
-132,Guarani / SP,Sport / PE
-133,Mirassol / SP,CRB / AL
-134,Ituano / SP,Botafogo / SP
-135,América / MG,Operário / PR
-136,Avaí / SC,Gremio Novorizontino - / SP
-137,Brusque / SC,Ponte Preta / SP
-138,Coritiba / PR,Paysandu / PA
-139,Amazonas / AM,Vila Nova / GO
-140,Ceará / CE,Santos / SP
-141,Vila Nova / GO,Avaí / SC
-142,Ponte Preta / SP,Mirassol / SP
-143,Botafogo / SP,Amazonas / AM
-144,Gremio Novorizontino - / SP,Guarani / SP
-145,Santos / SP,Ituano / SP
-146,Chapecoense / SC,Brusque / SC
-147,CRB / AL,Coritiba / PR
-148,Operário / PR,Goiás / GO
-149,Paysandu / PA,Ceará / CE
-150,Sport / PE,América / MG
-151,Vila Nova / GO,Santos / SP
-152,Guarani / SP,Goiás / GO
-153,Botafogo / SP,Brusque / SC
-154,Gremio Novorizontino - / SP,Chapecoense / SC
-155,América / MG,Amazonas / AM
-156,Avaí / SC,Ceará / CE
-157,CRB / AL,Ituano / SP
-158,Coritiba / PR,Mirassol / SP
-159,Paysandu / PA,Ponte Preta / SP
-161,Goiás / GO,CRB / AL
-162,Ponte Preta / SP,Vila Nova / GO
-163,Mirassol / SP,Avaí / SC
-164,Ituano / SP,América / MG
-165,Santos / SP,Coritiba / PR
-166,Chapecoense / SC,Sport / PE
-167,Brusque / SC,Paysandu / PA
-168,Operário / PR,Gremio Novorizontino - / SP
-169,Amazonas / AM,Guarani / SP
-170,Ceará / CE,Botafogo / SP
-172,Guarani / SP,Brusque / SC
-173,Mirassol / SP,Operário / PR
-174,Ituano / SP,Vila Nova / GO
-175,América / MG,Ceará / CE
-176,Avaí / SC,Botafogo / SP
-177,CRB / AL,Santos / SP
-178,Coritiba / PR,Chapecoense / SC
-179,Paysandu / PA,Gremio Novorizontino - / SP
-180,Sport / PE,Ponte Preta / SP
-181,Vila Nova / GO,Paysandu / PA
-182,Ponte Preta / SP,Avaí / SC
-183,Botafogo / SP,Coritiba / PR
-184,Gremio Novorizontino - / SP,Goiás / GO
-185,Santos / SP,Sport / PE
-186,Chapecoense / SC,Mirassol / SP
-187,Brusque / SC,América / MG
-188,Operário / PR,CRB / AL
-189,Amazonas / AM,Ituano / SP
-190,Ceará / CE,Guarani / SP
-191,Goiás / GO,Ceará / CE
-192,Guarani / SP,Vila Nova / GO
-193,Mirassol / SP,Brusque / SC
-194,Ituano / SP,Chapecoense / SC
-195,América / MG,Botafogo / SP
-196,Avaí / SC,Operário / PR
-197,CRB / AL,Gremio Novorizontino - / SP
-198,Coritiba / PR,Ponte Preta / SP
-199,Paysandu / PA,Santos / SP
-200,Sport / PE,Amazonas / AM
-201,Vila Nova / GO,Sport / PE
-202,Ponte Preta / SP,Goiás / GO
-203,Botafogo / SP,Paysandu / PA
-204,Gremio Novorizontino - / SP,América / MG
-205,Santos / SP,Avaí / SC
-206,Chapecoense / SC,Guarani / SP
-207,Brusque / SC,Coritiba / PR
-208,Operário / PR,Ituano / SP
-209,Amazonas / AM,CRB / AL
-210,Ceará / CE,Mirassol / SP
-211,Goiás / GO,Brusque / SC
-212,Guarani / SP,Santos / SP
-213,Mirassol / SP,Botafogo / SP
-214,Gremio Novorizontino - / SP,Ituano / SP
-215,América / MG,Chapecoense / SC
-216,Avaí / SC,Paysandu / PA
-217,CRB / AL,Ceará / CE
-218,Operário / PR,Vila Nova / GO
-219,Amazonas / AM,Ponte Preta / SP
-221,Vila Nova / GO,América / MG
-222,Ponte Preta / SP,Operário / PR
-223,Botafogo / SP,Guarani / SP
-224,Ituano / SP,Goiás / GO
-225,Santos / SP,Amazonas / AM
-226,Chapecoense / SC,CRB / AL
-227,Brusque / SC,Sport / PE
-228,Coritiba / PR,Avaí / SC
-229,Paysandu / PA,Mirassol / SP
-230,Ceará / CE,Gremio Novorizontino - / SP
-231,Goiás / GO,Paysandu / PA
-232,Guarani / SP,Coritiba / PR
-233,Mirassol / SP,América / MG
-234,Gremio Novorizontino - / SP,Vila Nova / GO
-235,Santos / SP,Ponte Preta / SP
-236,Chapecoense / SC,Botafogo / SP
-237,CRB / AL,Avaí / SC
-238,Operário / PR,Brusque / SC
-239,Amazonas / AM,Ceará / CE
-240,Sport / PE,Ituano / SP
-241,Vila Nova / GO,CRB / AL
-242,Ponte Preta / SP,Chapecoense / SC
-243,Botafogo / SP,Goiás / GO
-244,Ituano / SP,Mirassol / SP
-245,América / MG,Guarani / SP
-246,Avaí / SC,Sport / PE
-247,Brusque / SC,Santos / SP
-248,Coritiba / PR,Gremio Novorizontino - / SP
-249,Paysandu / PA,Amazonas / AM
-250,Ceará / CE,Operário / PR
-251,Goiás / GO,Avaí / SC
-252,Ponte Preta / SP,Ituano / SP
-253,Mirassol / SP,Amazonas / AM
-254,Gremio Novorizontino - / SP,Botafogo / SP
-255,Santos / SP,América / MG
-256,Chapecoense / SC,Ceará / CE
-257,Brusque / SC,Vila Nova / GO
-258,Operário / PR,Coritiba / PR
-259,Paysandu / PA,Guarani / SP
-260,Sport / PE,CRB / AL
-261,Vila Nova / GO,Chapecoense / SC
-262,Guarani / SP,Mirassol / SP
-263,Botafogo / SP,Santos / SP
-264,Gremio Novorizontino - / SP,Brusque / SC
-265,América / MG,Paysandu / PA
-266,Avaí / SC,Ituano / SP
-267,CRB / AL,Ponte Preta / SP
-268,Coritiba / PR,Ceará / CE
-269,Amazonas / AM,Operário / PR
-270,Sport / PE,Goiás / GO
-271,Goiás / GO,Mirassol / SP
-272,Ponte Preta / SP,América / MG
-273,Botafogo / SP,CRB / AL
-274,Ituano / SP,Coritiba / PR
-275,Santos / SP,Gremio Novorizontino - / SP
-276,Chapecoense / SC,Avaí / SC
-277,Brusque / SC,Amazonas / AM
-278,Operário / PR,Guarani / SP
-279,Paysandu / PA,Sport / PE
-280,Ceará / CE,Vila Nova / GO
-281,Vila Nova / GO,Botafogo / SP
-282,Guarani / SP,Avaí / SC
-283,Mirassol / SP,Sport / PE
-284,Gremio Novorizontino - / SP,Ponte Preta / SP
-285,Santos / SP,Operário / PR
-286,Chapecoense / SC,Amazonas / AM
-287,CRB / AL,América / MG
-288,Coritiba / PR,Goiás / GO
-289,Paysandu / PA,Ituano / SP
-290,Ceará / CE,Brusque / SC
-291,Goiás / GO,Santos / SP
-292,Ponte Preta / SP,Botafogo / SP
-293,Mirassol / SP,Vila Nova / GO
-294,Ituano / SP,Guarani / SP
-295,América / MG,Coritiba / PR
-296,Avaí / SC,Brusque / SC
-297,CRB / AL,Paysandu / PA
-298,Operário / PR,Chapecoense / SC
-299,Amazonas / AM,Gremio Novorizontino - / SP
-300,Sport / PE,Ceará / CE
-301,Goiás / GO,Vila Nova / GO
-302,Guarani / SP,CRB / AL
-303,Botafogo / SP,Operário / PR
-304,Gremio Novorizontino - / SP,Sport / PE
-305,Santos / SP,Mirassol / SP
-306,Avaí / SC,América / MG
-307,Brusque / SC,Ituano / SP
-308,Coritiba / PR,Amazonas / AM
-309,Paysandu / PA,Chapecoense / SC
-310,Ceará / CE,Ponte Preta / SP
+Game,Home,Away,Date,Time,Stadium
+001,Vila Nova / GO,Guarani / SP,22/04/2024,21:00,Onésio Brasileiro Alvarenga / Goiania
+002,Ponte Preta / SP,Coritiba / PR,21/04/2024,18:00,Moisés Lucarelli / Campinas
+003,Botafogo / SP,América / MG,19/04/2024,19:00,Santa Cruz / Ribeirao Preto
+004,Gremio Novorizontino - / SP,CRB / AL,19/04/2024,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+005,Santos / SP,Paysandu / PA,20/04/2024,16:30,Urbano Caldeira / Santos
+006,Chapecoense / SC,Ituano / SP,20/04/2024,15:30,Índio Condá / Chapeco
+007,Brusque / SC,Mirassol / SP,23/04/2024,21:00,Hercílio Luz / Itajai
+008,Operário / PR,Avaí / SC,19/04/2024,21:00,Germano Kruger / Ponta Grossa
+009,Amazonas / AM,Sport / PE,20/04/2024,17:00,Arena da Amazônia / Manaus
+010,Ceará / CE,Goiás / GO,20/04/2024,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+011,Goiás / GO,Ponte Preta / SP,28/04/2024,18:30,Hailé Pinheiro / Goiania
+012,Guarani / SP,Chapecoense / SC,26/04/2024,21:00,Brinco de Ouro da Princesa / Campinas
+013,Mirassol / SP,Ceará / CE,29/04/2024,19:30,José Maria de Campos Maia / Mirassol
+014,Ituano / SP,Operário / PR,26/04/2024,19:00,Novelli Junior / Itu
+015,América / MG,Gremio Novorizontino - / SP,27/04/2024,18:00,Raimundo Sampaio / Belo Horizonte
+016,Avaí / SC,Santos / SP,26/04/2024,20:00,Aderbal Ramos da Silva / Florianopolis
+017,CRB / AL,Amazonas / AM,27/04/2024,17:00,Rei Pelé / Maceio
+018,Coritiba / PR,Brusque / SC,28/04/2024,16:00,Major Antônio Couto Pereira / Curitiba
+019,Paysandu / PA,Botafogo / SP,27/04/2024,17:00,Olímpico do Pará / Belem
+020,Sport / PE,Vila Nova / GO,26/04/2024,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+021,Vila Nova / GO,Operário / PR,04/05/2024,18:00,Onésio Brasileiro Alvarenga / Goiania
+022,Ponte Preta / SP,Amazonas / AM,06/05/2024,20:00,Moisés Lucarelli / Campinas
+023,Botafogo / SP,Mirassol / SP,07/05/2024,21:00,Santa Cruz / Ribeirao Preto
+024,Ituano / SP,Gremio Novorizontino - / SP,04/05/2024,21:00,Novelli Junior / Itu
+025,Santos / SP,Guarani / SP,06/05/2024,21:00,Urbano Caldeira / Santos
+026,Chapecoense / SC,América / MG,04/05/2024,17:00,Índio Condá / Chapeco
+027,Brusque / SC,Goiás / GO,05/05/2024,16:00,Hercílio Luz / Itajai
+028,Coritiba / PR,Sport / PE,03/05/2024,21:30,Major Antônio Couto Pereira / Curitiba
+029,Paysandu / PA,Avaí / SC,03/05/2024,19:00,Leônidas Sobré de Castro / Belem
+030,Ceará / CE,CRB / AL,06/05/2024,19:00,Presidente Vargas / Fortaleza
+031,Goiás / GO,Ituano / SP,10/05/2024,21:30,Hailé Pinheiro / Goiania
+032,Guarani / SP,Botafogo / SP,11/05/2024,17:00,Brinco de Ouro da Princesa / Campinas
+033,Mirassol / SP,Paysandu / PA,12/05/2024,16:00,José Maria de Campos Maia / Mirassol
+034,Gremio Novorizontino - / SP,Ceará / CE,10/05/2024,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+035,América / MG,Vila Nova / GO,08/05/2024,21:00,Raimundo Sampaio / Belo Horizonte
+036,Avaí / SC,Coritiba / PR,11/05/2024,21:00,Aderbal Ramos da Silva / Florianopolis
+037,CRB / AL,Chapecoense / SC,10/05/2024,21:30,Rei Pelé / Maceio
+038,Operário / PR,Ponte Preta / SP,11/05/2024,17:00,Germano Kruger / Ponta Grossa
+039,Amazonas / AM,Santos / SP,11/05/2024,17:00,Arena da Amazônia / Manaus
+040,Sport / PE,Brusque / SC,11/05/2024,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+041,Vila Nova / GO,Gremio Novorizontino - / SP,14/05/2024,19:00,Onésio Brasileiro Alvarenga / Goiania
+042,Ponte Preta / SP,Santos / SP,15/05/2024,21:30,Moisés Lucarelli / Campinas
+043,Botafogo / SP,Chapecoense / SC,14/05/2024,21:30,Santa Cruz / Ribeirao Preto
+044,Ituano / SP,Sport / PE,15/05/2024,19:00,Novelli Junior / Itu
+045,América / MG,Mirassol / SP,15/05/2024,19:00,Raimundo Sampaio / Belo Horizonte
+046,Avaí / SC,CRB / AL,14/05/2024,19:00,Aderbal Ramos da Silva / Florianopolis
+047,Brusque / SC,Operário / PR,15/05/2024,19:00,Hercílio Luz / Itajai
+048,Coritiba / PR,Guarani / SP,14/05/2024,21:30,Major Antônio Couto Pereira / Curitiba
+049,Paysandu / PA,Goiás / GO,15/05/2024,21:30,Leônidas Sobré de Castro / Belem
+050,Ceará / CE,Amazonas / AM,15/05/2024,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+051,Goiás / GO,Botafogo / SP,18/05/2024,18:30,Hailé Pinheiro / Goiania
+052,Guarani / SP,América / MG,20/05/2024,21:00,Brinco de Ouro da Princesa / Campinas
+053,Mirassol / SP,Ituano / SP,19/05/2024,16:00,José Maria de Campos Maia / Mirassol
+054,Gremio Novorizontino - / SP,Coritiba / PR,17/05/2024,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+055,Santos / SP,Brusque / SC,19/05/2024,11:00,Urbano Caldeira / Santos
+056,Chapecoense / SC,Ponte Preta / SP,21/05/2024,17:00,Índio Condá / Chapeco
+057,CRB / AL,Vila Nova / GO,17/05/2024,19:00,Rei Pelé / Maceio
+058,Operário / PR,Ceará / CE,19/05/2024,16:00,Germano Kruger / Ponta Grossa
+059,Amazonas / AM,Paysandu / PA,18/05/2024,17:30,Arena da Amazônia / Manaus
+060,Sport / PE,Avaí / SC,18/05/2024,21:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+061,Vila Nova / GO,Brusque / SC,26/05/2024,17:00,Onésio Brasileiro Alvarenga / Goiania
+062,Guarani / SP,Paysandu / PA,25/05/2024,21:00,Brinco de Ouro da Princesa / Campinas
+063,Botafogo / SP,Gremio Novorizontino - / SP,27/05/2024,21:00,Santa Cruz / Ribeirao Preto
+064,Ituano / SP,Ponte Preta / SP,26/05/2024,16:00,Novelli Junior / Itu
+065,América / MG,Santos / SP,24/05/2024,21:30,Raimundo Sampaio / Belo Horizonte
+066,Avaí / SC,Goiás / GO,27/05/2024,21:30,Aderbal Ramos da Silva / Florianopolis
+067,CRB / AL,Sport / PE,11/09/2024,21:30,Rei Pelé / Maceio
+068,Coritiba / PR,Operário / PR,27/05/2024,19:00,Major Antônio Couto Pereira / Curitiba
+069,Amazonas / AM,Mirassol / SP,28/05/2024,19:00,Arena da Amazônia / Manaus
+070,Ceará / CE,Chapecoense / SC,26/05/2024,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+071,Goiás / GO,Sport / PE,31/05/2024,21:30,Hailé Pinheiro / Goiania
+072,Ponte Preta / SP,CRB / AL,02/06/2024,16:00,Moisés Lucarelli / Campinas
+073,Mirassol / SP,Guarani / SP,04/06/2024,19:00,José Maria de Campos Maia / Mirassol
+074,Ituano / SP,Avaí / SC,02/06/2024,18:30,Novelli Junior / Itu
+075,Santos / SP,Botafogo / SP,03/06/2024,20:00,Jacy Scaff / Londrina
+076,Chapecoense / SC,Vila Nova / GO,02/06/2024,16:00,Índio Condá / Chapeco
+077,Brusque / SC,Gremio Novorizontino - / SP,01/06/2024,17:00,Hercílio Luz / Itajai
+078,Operário / PR,Amazonas / AM,03/06/2024,21:00,Germano Kruger / Ponta Grossa
+079,Paysandu / PA,América / MG,04/06/2024,21:30,Leônidas Sobré de Castro / Belem
+080,Ceará / CE,Coritiba / PR,31/05/2024,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+081,Vila Nova / GO,Ceará / CE,10/06/2024,19:00,Onésio Brasileiro Alvarenga / Goiania
+082,Guarani / SP,Operário / PR,08/06/2024,17:00,Brinco de Ouro da Princesa / Campinas
+083,Mirassol / SP,Goiás / GO,11/06/2024,19:00,José Maria de Campos Maia / Mirassol
+084,Gremio Novorizontino - / SP,Santos / SP,07/06/2024,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+085,América / MG,Ponte Preta / SP,09/06/2024,18:30,Raimundo Sampaio / Belo Horizonte
+086,Avaí / SC,Chapecoense / SC,09/06/2024,16:00,Aderbal Ramos da Silva / Florianopolis
+087,CRB / AL,Botafogo / SP,17/07/2024,20:30,Rei Pelé / Maceio
+088,Coritiba / PR,Ituano / SP,07/06/2024,19:00,Major Antônio Couto Pereira / Curitiba
+089,Amazonas / AM,Brusque / SC,08/06/2024,17:00,Carlos Zamith / Manaus
+090,Sport / PE,Paysandu / PA,10/06/2024,21:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+091,Goiás / GO,Coritiba / PR,16/06/2024,18:30,Hailé Pinheiro / Goiania
+092,Ponte Preta / SP,Gremio Novorizontino - / SP,15/06/2024,17:00,Moisés Lucarelli / Campinas
+093,Botafogo / SP,Vila Nova / GO,16/06/2024,11:00,Santa Cruz / Ribeirao Preto
+094,Ituano / SP,Paysandu / PA,15/06/2024,18:00,Novelli Junior / Itu
+095,América / MG,CRB / AL,15/06/2024,15:30,Raimundo Sampaio / Belo Horizonte
+096,Avaí / SC,Guarani / SP,14/06/2024,21:00,Aderbal Ramos da Silva / Florianopolis
+097,Brusque / SC,Ceará / CE,16/06/2024,16:00,Hercílio Luz / Itajai
+098,Operário / PR,Santos / SP,14/06/2024,19:00,Germano Kruger / Ponta Grossa
+099,Amazonas / AM,Chapecoense / SC,13/06/2024,21:00,Carlos Zamith / Manaus
+100,Sport / PE,Mirassol / SP,16/06/2024,18:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+101,Vila Nova / GO,Mirassol / SP,20/06/2024,19:00,Onésio Brasileiro Alvarenga / Goiania
+102,Guarani / SP,Ituano / SP,18/06/2024,19:00,Brinco de Ouro da Princesa / Campinas
+103,Botafogo / SP,Ponte Preta / SP,19/06/2024,21:00,Santa Cruz / Ribeirao Preto
+104,Gremio Novorizontino - / SP,Amazonas / AM,18/06/2024,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+105,Santos / SP,Goiás / GO,19/06/2024,19:00,Urbano Caldeira / Santos
+106,Chapecoense / SC,Operário / PR,17/06/2024,21:00,Índio Condá / Chapeco
+107,Brusque / SC,Avaí / SC,19/06/2024,21:30,Hercílio Luz / Itajai
+108,Coritiba / PR,América / MG,19/06/2024,21:30,Major Antônio Couto Pereira / Curitiba
+109,Paysandu / PA,CRB / AL,18/06/2024,21:30,Leônidas Sobré de Castro / Belem
+110,Ceará / CE,Sport / PE,20/06/2024,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+111,Vila Nova / GO,Goiás / GO,23/06/2024,18:30,Onésio Brasileiro Alvarenga / Goiania
+112,Ponte Preta / SP,Ceará / CE,25/06/2024,21:00,Moisés Lucarelli / Campinas
+113,Mirassol / SP,Santos / SP,25/06/2024,19:00,José Maria de Campos Maia / Mirassol
+114,Ituano / SP,Brusque / SC,22/06/2024,21:00,Novelli Junior / Itu
+115,América / MG,Avaí / SC,25/06/2024,19:00,Raimundo Sampaio / Belo Horizonte
+116,Chapecoense / SC,Paysandu / PA,23/06/2024,16:00,Índio Condá / Chapeco
+117,CRB / AL,Guarani / SP,22/06/2024,17:00,Rei Pelé / Maceio
+118,Operário / PR,Botafogo / SP,22/06/2024,17:00,Germano Kruger / Ponta Grossa
+119,Amazonas / AM,Coritiba / PR,25/06/2024,21:30,Carlos Zamith / Manaus
+120,Sport / PE,Gremio Novorizontino - / SP,24/06/2024,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+121,Goiás / GO,América / MG,02/07/2024,18:30,Hailé Pinheiro / Goiania
+122,Guarani / SP,Ponte Preta / SP,30/06/2024,18:30,Brinco de Ouro da Princesa / Campinas
+123,Botafogo / SP,Sport / PE,29/06/2024,17:00,Santa Cruz / Ribeirao Preto
+124,Gremio Novorizontino - / SP,Mirassol / SP,02/07/2024,20:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+125,Santos / SP,Chapecoense / SC,01/07/2024,19:00,Urbano Caldeira / Santos
+126,Avaí / SC,Amazonas / AM,30/06/2024,11:00,Aderbal Ramos da Silva / Florianopolis
+127,CRB / AL,Brusque / SC,01/07/2024,21:00,Rei Pelé / Maceio
+128,Coritiba / PR,Vila Nova / GO,29/06/2024,16:00,Major Antônio Couto Pereira / Curitiba
+129,Paysandu / PA,Operário / PR,30/06/2024,16:00,Leônidas Sobré de Castro / Belem
+130,Ceará / CE,Ituano / SP,29/06/2024,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
+131,Goiás / GO,Chapecoense / SC,06/07/2024,17:00,Hailé Pinheiro / Goiania
+132,Guarani / SP,Sport / PE,07/07/2024,18:30,Brinco de Ouro da Princesa / Campinas
+133,Mirassol / SP,CRB / AL,09/07/2024,21:00,José Maria de Campos Maia / Mirassol
+134,Ituano / SP,Botafogo / SP,07/07/2024,16:00,Novelli Junior / Itu
+135,América / MG,Operário / PR,06/07/2024,11:00,Raimundo Sampaio / Belo Horizonte
+136,Avaí / SC,Gremio Novorizontino - / SP,08/07/2024,20:00,Aderbal Ramos da Silva / Florianopolis
+137,Brusque / SC,Ponte Preta / SP,05/07/2024,21:00,Hercílio Luz / Itajai
+138,Coritiba / PR,Paysandu / PA,07/07/2024,11:00,Major Antônio Couto Pereira / Curitiba
+139,Amazonas / AM,Vila Nova / GO,08/07/2024,21:00,Carlos Zamith / Manaus
+140,Ceará / CE,Santos / SP,05/07/2024,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+141,Vila Nova / GO,Avaí / SC,14/07/2024,16:00,Onésio Brasileiro Alvarenga / Goiania
+142,Ponte Preta / SP,Mirassol / SP,12/07/2024,19:00,Moisés Lucarelli / Campinas
+143,Botafogo / SP,Amazonas / AM,14/07/2024,21:00,Santa Cruz / Ribeirao Preto
+144,Gremio Novorizontino - / SP,Guarani / SP,13/07/2024,15:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+145,Santos / SP,Ituano / SP,15/07/2024,20:00,Urbano Caldeira / Santos
+146,Chapecoense / SC,Brusque / SC,14/07/2024,18:30,Índio Condá / Chapeco
+147,CRB / AL,Coritiba / PR,13/07/2024,18:00,Rei Pelé / Maceio
+148,Operário / PR,Goiás / GO,17/07/2024,21:00,Germano Kruger / Ponta Grossa
+149,Paysandu / PA,Ceará / CE,12/07/2024,21:30,Leônidas Sobré de Castro / Belem
+150,Sport / PE,América / MG,13/07/2024,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+151,Vila Nova / GO,Santos / SP,18/07/2024,20:00,Onésio Brasileiro Alvarenga / Goiania
+152,Guarani / SP,Goiás / GO,21/07/2024,16:00,Brinco de Ouro da Princesa / Campinas
+153,Botafogo / SP,Brusque / SC,21/07/2024,18:30,Santa Cruz / Ribeirao Preto
+154,Gremio Novorizontino - / SP,Chapecoense / SC,18/07/2024,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+155,América / MG,Amazonas / AM,20/07/2024,17:00,Raimundo Sampaio / Belo Horizonte
+156,Avaí / SC,Ceará / CE,19/07/2024,19:00,Aderbal Ramos da Silva / Florianopolis
+157,CRB / AL,Ituano / SP,20/07/2024,17:00,Rei Pelé / Maceio
+158,Coritiba / PR,Mirassol / SP,19/07/2024,21:30,Major Antônio Couto Pereira / Curitiba
+159,Paysandu / PA,Ponte Preta / SP,20/07/2024,18:00,Leônidas Sobré de Castro / Belem
+160,Sport / PE,Operário / PR,16/10/2024,21:30,Adelmar da Costa Carvalho / Recife
+161,Goiás / GO,CRB / AL,25/07/2024,21:30,Hailé Pinheiro / Goiania
+162,Ponte Preta / SP,Vila Nova / GO,23/07/2024,21:30,Moisés Lucarelli / Campinas
+163,Mirassol / SP,Avaí / SC,23/07/2024,20:00,José Maria de Campos Maia / Mirassol
+164,Ituano / SP,América / MG,23/07/2024,21:00,Novelli Junior / Itu
+165,Santos / SP,Coritiba / PR,22/07/2024,20:00,Urbano Caldeira / Santos
+166,Chapecoense / SC,Sport / PE,23/07/2024,19:00,Índio Condá / Chapeco
+167,Brusque / SC,Paysandu / PA,24/07/2024,21:00,Aderbal Ramos da Silva / Florianopolis
+168,Operário / PR,Gremio Novorizontino - / SP,23/07/2024,19:00,Germano Kruger / Ponta Grossa
+169,Amazonas / AM,Guarani / SP,24/07/2024,21:30,Carlos Zamith / Manaus
+170,Ceará / CE,Botafogo / SP,25/07/2024,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+171,Goiás / GO,Amazonas / AM,25/10/2024,21:30,Hailé Pinheiro / Goiania
+172,Guarani / SP,Brusque / SC,28/07/2024,16:00,Brinco de Ouro da Princesa / Campinas
+173,Mirassol / SP,Operário / PR,27/07/2024,17:00,José Maria de Campos Maia / Mirassol
+174,Ituano / SP,Vila Nova / GO,26/07/2024,21:30,Novelli Junior / Itu
+175,América / MG,Ceará / CE,28/07/2024,18:30,Raimundo Sampaio / Belo Horizonte
+176,Avaí / SC,Botafogo / SP,30/07/2024,21:00,Aderbal Ramos da Silva / Florianopolis
+177,CRB / AL,Santos / SP,28/07/2024,18:30,Rei Pelé / Maceio
+178,Coritiba / PR,Chapecoense / SC,27/07/2024,17:00,Major Antônio Couto Pereira / Curitiba
+179,Paysandu / PA,Gremio Novorizontino - / SP,29/07/2024,18:30,Leônidas Sobré de Castro / Belem
+180,Sport / PE,Ponte Preta / SP,27/07/2024,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+181,Vila Nova / GO,Paysandu / PA,05/08/2024,21:00,Onésio Brasileiro Alvarenga / Goiania
+182,Ponte Preta / SP,Avaí / SC,04/08/2024,16:00,Moisés Lucarelli / Campinas
+183,Botafogo / SP,Coritiba / PR,03/08/2024,17:00,Santa Cruz / Ribeirao Preto
+184,Gremio Novorizontino - / SP,Goiás / GO,04/08/2024,18:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+185,Santos / SP,Sport / PE,02/08/2024,21:30,Urbano Caldeira / Santos
+186,Chapecoense / SC,Mirassol / SP,05/08/2024,18:30,Índio Condá / Chapeco
+187,Brusque / SC,América / MG,02/08/2024,19:00,Aderbal Ramos da Silva / Florianopolis
+188,Operário / PR,CRB / AL,04/08/2024,18:30,Germano Kruger / Ponta Grossa
+189,Amazonas / AM,Ituano / SP,03/08/2024,21:30,Carlos Zamith / Manaus
+190,Ceará / CE,Guarani / SP,06/08/2024,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
+191,Goiás / GO,Ceará / CE,12/08/2024,21:00,Hailé Pinheiro / Goiania
+192,Guarani / SP,Vila Nova / GO,12/08/2024,20:00,Brinco de Ouro da Princesa / Campinas
+193,Mirassol / SP,Brusque / SC,09/08/2024,21:00,José Maria de Campos Maia / Mirassol
+194,Ituano / SP,Chapecoense / SC,10/08/2024,17:00,Novelli Junior / Itu
+195,América / MG,Botafogo / SP,09/08/2024,21:30,Raimundo Sampaio / Belo Horizonte
+196,Avaí / SC,Operário / PR,09/08/2024,19:15,Aderbal Ramos da Silva / Florianopolis
+197,CRB / AL,Gremio Novorizontino - / SP,11/08/2024,18:30,Rei Pelé / Maceio
+198,Coritiba / PR,Ponte Preta / SP,11/08/2024,16:00,Major Antônio Couto Pereira / Curitiba
+199,Paysandu / PA,Santos / SP,09/08/2024,20:00,Olímpico do Pará / Belem
+200,Sport / PE,Amazonas / AM,10/08/2024,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+201,Vila Nova / GO,Sport / PE,16/08/2024,21:00,Onésio Brasileiro Alvarenga / Goiania
+202,Ponte Preta / SP,Goiás / GO,16/08/2024,19:00,Moisés Lucarelli / Campinas
+203,Botafogo / SP,Paysandu / PA,18/08/2024,18:30,Santa Cruz / Ribeirao Preto
+204,Gremio Novorizontino - / SP,América / MG,16/08/2024,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+205,Santos / SP,Avaí / SC,17/08/2024,16:00,Urbano Caldeira / Santos
+206,Chapecoense / SC,Guarani / SP,17/08/2024,15:30,Índio Condá / Chapeco
+207,Brusque / SC,Coritiba / PR,18/08/2024,16:00,Aderbal Ramos da Silva / Florianopolis
+208,Operário / PR,Ituano / SP,15/08/2024,21:00,Germano Kruger / Ponta Grossa
+209,Amazonas / AM,CRB / AL,17/08/2024,18:00,Arena da Amazônia / Manaus
+210,Ceará / CE,Mirassol / SP,17/08/2024,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+211,Goiás / GO,Brusque / SC,21/08/2024,21:00,Hailé Pinheiro / Goiania
+212,Guarani / SP,Santos / SP,21/08/2024,19:00,Brinco de Ouro da Princesa / Campinas
+213,Mirassol / SP,Botafogo / SP,21/08/2024,19:00,José Maria de Campos Maia / Mirassol
+214,Gremio Novorizontino - / SP,Ituano / SP,20/08/2024,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+215,América / MG,Chapecoense / SC,21/08/2024,19:00,Raimundo Sampaio / Belo Horizonte
+216,Avaí / SC,Paysandu / PA,22/08/2024,20:00,Aderbal Ramos da Silva / Florianopolis
+217,CRB / AL,Ceará / CE,21/08/2024,20:00,Rei Pelé / Maceio
+218,Operário / PR,Vila Nova / GO,20/08/2024,21:30,Germano Kruger / Ponta Grossa
+219,Amazonas / AM,Ponte Preta / SP,20/08/2024,21:00,Arena da Amazônia / Manaus
+221,Vila Nova / GO,América / MG,25/08/2024,18:30,Onésio Brasileiro Alvarenga / Goiania
+222,Ponte Preta / SP,Operário / PR,23/08/2024,21:30,Moisés Lucarelli / Campinas
+223,Botafogo / SP,Guarani / SP,09/10/2024,20:00,Santa Cruz / Ribeirao Preto
+224,Ituano / SP,Goiás / GO,24/08/2024,17:00,Novelli Junior / Itu
+225,Santos / SP,Amazonas / AM,24/08/2024,16:00,Urbano Caldeira / Santos
+226,Chapecoense / SC,CRB / AL,25/08/2024,18:30,Índio Condá / Chapeco
+227,Brusque / SC,Sport / PE,27/08/2024,21:00,Aderbal Ramos da Silva / Florianopolis
+228,Coritiba / PR,Avaí / SC,27/08/2024,21:30,Major Antônio Couto Pereira / Curitiba
+229,Paysandu / PA,Mirassol / SP,26/08/2024,18:30,Leônidas Sobré de Castro / Belem
+230,Ceará / CE,Gremio Novorizontino - / SP,26/08/2024,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
+231,Goiás / GO,Paysandu / PA,01/09/2024,18:30,Hailé Pinheiro / Goiania
+232,Guarani / SP,Coritiba / PR,03/09/2024,21:30,Brinco de Ouro da Princesa / Campinas
+233,Mirassol / SP,América / MG,03/09/2024,19:00,José Maria de Campos Maia / Mirassol
+234,Gremio Novorizontino - / SP,Vila Nova / GO,31/08/2024,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+235,Santos / SP,Ponte Preta / SP,30/08/2024,21:30,Urbano Caldeira / Santos
+236,Chapecoense / SC,Botafogo / SP,31/08/2024,17:00,Índio Condá / Chapeco
+237,CRB / AL,Avaí / SC,31/08/2024,18:00,Rei Pelé / Maceio
+238,Operário / PR,Brusque / SC,02/09/2024,21:30,Germano Kruger / Ponta Grossa
+239,Amazonas / AM,Ceará / CE,01/09/2024,16:00,Arena da Amazônia / Manaus
+240,Sport / PE,Ituano / SP,02/09/2024,19:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+241,Vila Nova / GO,CRB / AL,04/09/2024,20:00,Onésio Brasileiro Alvarenga / Goiania
+242,Ponte Preta / SP,Chapecoense / SC,09/09/2024,21:30,Moisés Lucarelli / Campinas
+243,Botafogo / SP,Goiás / GO,09/09/2024,20:00,Santa Cruz / Ribeirao Preto
+244,Ituano / SP,Mirassol / SP,07/09/2024,16:00,Novelli Junior / Itu
+245,América / MG,Guarani / SP,08/09/2024,18:30,Raimundo Sampaio / Belo Horizonte
+246,Avaí / SC,Sport / PE,07/09/2024,19:00,Aderbal Ramos da Silva / Florianopolis
+247,Brusque / SC,Santos / SP,07/09/2024,16:00,Arena Joinville / Joinville
+248,Coritiba / PR,Gremio Novorizontino - / SP,08/09/2024,18:30,Major Antônio Couto Pereira / Curitiba
+249,Paysandu / PA,Amazonas / AM,05/09/2024,21:30,Leônidas Sobré de Castro / Belem
+250,Ceará / CE,Operário / PR,08/09/2024,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+251,Goiás / GO,Avaí / SC,13/09/2024,21:30,Hailé Pinheiro / Goiania
+252,Ponte Preta / SP,Ituano / SP,13/09/2024,21:30,Moisés Lucarelli / Campinas
+253,Mirassol / SP,Amazonas / AM,14/09/2024,18:00,José Maria de Campos Maia / Mirassol
+254,Gremio Novorizontino - / SP,Botafogo / SP,13/09/2024,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+255,Santos / SP,América / MG,15/09/2024,16:00,Urbano Caldeira / Santos
+256,Chapecoense / SC,Ceará / CE,15/09/2024,18:30,Índio Condá / Chapeco
+257,Brusque / SC,Vila Nova / GO,14/09/2024,17:00,Hercílio Luz / Itajai
+258,Operário / PR,Coritiba / PR,15/09/2024,16:00,Germano Kruger / Ponta Grossa
+259,Paysandu / PA,Guarani / SP,14/09/2024,17:00,Leônidas Sobré de Castro / Belem
+260,Sport / PE,CRB / AL,15/09/2024,18:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+261,Vila Nova / GO,Chapecoense / SC,18/09/2024,19:30,Onésio Brasileiro Alvarenga / Goiania
+262,Guarani / SP,Mirassol / SP,17/09/2024,21:30,Brinco de Ouro da Princesa / Campinas
+263,Botafogo / SP,Santos / SP,19/09/2024,21:30,Santa Cruz / Ribeirao Preto
+264,Gremio Novorizontino - / SP,Brusque / SC,17/09/2024,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+265,América / MG,Paysandu / PA,18/09/2024,21:30,Raimundo Sampaio / Belo Horizonte
+266,Avaí / SC,Ituano / SP,17/09/2024,21:30,Aderbal Ramos da Silva / Florianopolis
+267,CRB / AL,Ponte Preta / SP,19/09/2024,19:30,Rei Pelé / Maceio
+268,Coritiba / PR,Ceará / CE,18/09/2024,21:30,Major Antônio Couto Pereira / Curitiba
+269,Amazonas / AM,Operário / PR,18/09/2024,21:00,Arena da Amazônia / Manaus
+270,Sport / PE,Goiás / GO,18/09/2024,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+271,Goiás / GO,Mirassol / SP,21/09/2024,17:00,Hailé Pinheiro / Goiania
+272,Ponte Preta / SP,América / MG,24/09/2024,21:30,Moisés Lucarelli / Campinas
+273,Botafogo / SP,CRB / AL,24/09/2024,21:30,Santa Cruz / Ribeirao Preto
+274,Ituano / SP,Coritiba / PR,21/09/2024,18:00,Novelli Junior / Itu
+275,Santos / SP,Gremio Novorizontino - / SP,23/09/2024,21:00,Urbano Caldeira / Santos
+276,Chapecoense / SC,Avaí / SC,22/09/2024,16:00,Índio Condá / Chapeco
+277,Brusque / SC,Amazonas / AM,23/09/2024,21:30,Hercílio Luz / Itajai
+278,Operário / PR,Guarani / SP,24/09/2024,19:00,Germano Kruger / Ponta Grossa
+279,Paysandu / PA,Sport / PE,23/09/2024,18:30,Leônidas Sobré de Castro / Belem
+280,Ceará / CE,Vila Nova / GO,22/09/2024,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+281,Vila Nova / GO,Botafogo / SP,28/09/2024,17:00,Onésio Brasileiro Alvarenga / Goiania
+282,Guarani / SP,Avaí / SC,30/09/2024,21:30,Brinco de Ouro da Princesa / Campinas
+283,Mirassol / SP,Sport / PE,29/09/2024,18:30,José Maria de Campos Maia / Mirassol
+284,Gremio Novorizontino - / SP,Ponte Preta / SP,30/09/2024,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+285,Santos / SP,Operário / PR,28/09/2024,18:00,Urbano Caldeira / Santos
+286,Chapecoense / SC,Amazonas / AM,26/09/2024,19:00,Índio Condá / Chapeco
+287,CRB / AL,América / MG,29/09/2024,16:00,Rei Pelé / Maceio
+288,Coritiba / PR,Goiás / GO,27/09/2024,21:30,Major Antônio Couto Pereira / Curitiba
+289,Paysandu / PA,Ituano / SP,27/09/2024,21:30,Leônidas Sobré de Castro / Belem
+290,Ceará / CE,Brusque / SC,27/09/2024,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+291,Goiás / GO,Santos / SP,07/10/2024,21:00,Hailé Pinheiro / Goiania
+292,Ponte Preta / SP,Botafogo / SP,05/10/2024,17:00,Moisés Lucarelli / Campinas
+293,Mirassol / SP,Vila Nova / GO,05/10/2024,18:00,José Maria de Campos Maia / Mirassol
+294,Ituano / SP,Guarani / SP,05/10/2024,17:00,Novelli Junior / Itu
+295,América / MG,Coritiba / PR,04/10/2024,19:00,Raimundo Sampaio / Belo Horizonte
+296,Avaí / SC,Brusque / SC,04/10/2024,21:30,Aderbal Ramos da Silva / Florianopolis
+297,CRB / AL,Paysandu / PA,04/10/2024,20:00,Rei Pelé / Maceio
+298,Operário / PR,Chapecoense / SC,03/10/2024,21:30,Germano Kruger / Ponta Grossa
+299,Amazonas / AM,Gremio Novorizontino - / SP,04/10/2024,21:30,Arena da Amazônia / Manaus
+300,Sport / PE,Ceará / CE,07/10/2024,21:00,Adelmar da Costa Carvalho / Recife
+301,Goiás / GO,Vila Nova / GO,13/10/2024,18:30,Hailé Pinheiro / Goiania
+302,Guarani / SP,CRB / AL,14/10/2024,21:00,Brinco de Ouro da Princesa / Campinas
+303,Botafogo / SP,Operário / PR,12/10/2024,21:30,Santa Cruz / Ribeirao Preto
+304,Gremio Novorizontino - / SP,Sport / PE,11/10/2024,18:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+305,Santos / SP,Mirassol / SP,12/10/2024,18:30,Urbano Caldeira / Santos
+306,Avaí / SC,América / MG,11/10/2024,21:00,Aderbal Ramos da Silva / Florianopolis
+307,Brusque / SC,Ituano / SP,14/10/2024,18:30,Augusto Bauer / Brusque
+308,Coritiba / PR,Amazonas / AM,13/10/2024,16:00,Major Antônio Couto Pereira / Curitiba
+309,Paysandu / PA,Chapecoense / SC,09/10/2024,21:00,Leônidas Sobré de Castro / Belem
+310,Ceará / CE,Ponte Preta / SP,12/10/2024,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+311,Vila Nova / GO,Coritiba / PR,19/10/2024,16:00,Onésio Brasileiro Alvarenga / Goiania
+312,Ponte Preta / SP,Guarani / SP,20/10/2024,18:30,Moisés Lucarelli / Campinas
+313,Mirassol / SP,Gremio Novorizontino - / SP,19/10/2024,17:00,José Maria de Campos Maia / Mirassol
+314,Ituano / SP,Ceará / CE,19/10/2024,17:00,Novelli Junior / Itu
+315,América / MG,Goiás / GO,17/10/2024,20:00,Raimundo Sampaio / Belo Horizonte
+316,Chapecoense / SC,Santos / SP,16/10/2024,20:00,Índio Condá / Chapeco
+317,Brusque / SC,CRB / AL,18/10/2024,19:00,Augusto Bauer / Brusque
+318,Operário / PR,Paysandu / PA,20/10/2024,11:00,Germano Kruger / Ponta Grossa
+319,Amazonas / AM,Avaí / SC,18/10/2024,21:30,Arena da Amazônia / Manaus
+320,Sport / PE,Botafogo / SP,20/10/2024,19:30,Adelmar da Costa Carvalho / Recife
+321,Vila Nova / GO,Amazonas / AM,22/10/2024,21:30,Onésio Brasileiro Alvarenga / Goiania
+322,Ponte Preta / SP,Brusque / SC,23/10/2024,19:00,Moisés Lucarelli / Campinas
+323,Botafogo / SP,Ituano / SP,23/10/2024,20:00,Santa Cruz / Ribeirao Preto
+324,Gremio Novorizontino - / SP,Avaí / SC,22/10/2024,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+325,Santos / SP,Ceará / CE,22/10/2024,19:00,Urbano Caldeira / Santos
+326,Chapecoense / SC,Goiás / GO,21/10/2024,20:00,Índio Condá / Chapeco
+327,CRB / AL,Mirassol / SP,22/10/2024,19:00,Rei Pelé / Maceio
+328,Operário / PR,América / MG,23/10/2024,21:30,Germano Kruger / Ponta Grossa
+329,Paysandu / PA,Coritiba / PR,23/10/2024,19:30,Leônidas Sobré de Castro / Belem
+330,Sport / PE,Guarani / SP,24/10/2024,21:30,Adelmar da Costa Carvalho / Recife
+331,Goiás / GO,Operário / PR,29/10/2024,19:00,Hailé Pinheiro / Goiania
+332,Guarani / SP,Gremio Novorizontino - / SP,29/10/2024,21:30,Brinco de Ouro da Princesa / Campinas
+333,Mirassol / SP,Ponte Preta / SP,26/10/2024,17:00,José Maria de Campos Maia / Mirassol
+334,Ituano / SP,Santos / SP,28/10/2024,19:00,Novelli Junior / Itu
+335,América / MG,Sport / PE,28/10/2024,21:00,Raimundo Sampaio / Belo Horizonte
+336,Avaí / SC,Vila Nova / GO,25/10/2024,21:30,Aderbal Ramos da Silva / Florianopolis
+337,Brusque / SC,Chapecoense / SC,29/10/2024,19:00,Augusto Bauer / Brusque
+338,Coritiba / PR,CRB / AL,28/10/2024,18:00,Major Antônio Couto Pereira / Curitiba
+339,Amazonas / AM,Botafogo / SP,29/10/2024,21:30,Arena da Amazônia / Manaus
+340,Ceará / CE,Paysandu / PA,26/10/2024,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+341,Goiás / GO,Guarani / SP,02/11/2024,17:00,Hailé Pinheiro / Goiania
+342,Ponte Preta / SP,Paysandu / PA,04/11/2024,21:00,Moisés Lucarelli / Campinas
+343,Mirassol / SP,Coritiba / PR,05/11/2024,21:30,José Maria de Campos Maia / Mirassol
+344,Ituano / SP,CRB / AL,04/11/2024,21:15,Novelli Junior / Itu
+345,Santos / SP,Vila Nova / GO,02/11/2024,16:30,Urbano Caldeira / Santos
+346,Chapecoense / SC,Gremio Novorizontino - / SP,02/11/2024,17:00,Índio Condá / Chapeco
+347,Brusque / SC,Botafogo / SP,05/11/2024,21:00,Augusto Bauer / Brusque
+348,Operário / PR,Sport / PE,04/11/2024,19:00,Germano Kruger / Ponta Grossa
+349,Amazonas / AM,América / MG,05/11/2024,19:00,Arena da Amazônia / Manaus
+350,Ceará / CE,Avaí / SC,03/11/2024,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+351,Vila Nova / GO,Ponte Preta / SP,11/11/2024,18:30,Onésio Brasileiro Alvarenga / Goiania
+352,Guarani / SP,Amazonas / AM,12/11/2024,21:00,Brinco de Ouro da Princesa / Campinas
+353,Botafogo / SP,Ceará / CE,12/11/2024,21:30,Santa Cruz / Ribeirao Preto
+354,Gremio Novorizontino - / SP,Operário / PR,09/11/2024,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+355,América / MG,Ituano / SP,12/11/2024,19:00,Raimundo Sampaio / Belo Horizonte
+356,Avaí / SC,Mirassol / SP,10/11/2024,19:00,Aderbal Ramos da Silva / Florianopolis
+357,CRB / AL,Goiás / GO,09/11/2024,17:00,Rei Pelé / Maceio
+358,Coritiba / PR,Santos / SP,11/11/2024,21:00,Major Antônio Couto Pereira / Curitiba
+359,Paysandu / PA,Brusque / SC,11/11/2024,21:00,Leônidas Sobré de Castro / Belem
+360,Sport / PE,Chapecoense / SC,10/11/2024,18:30,Adelmar da Costa Carvalho / Recife
+361,Vila Nova / GO,Ituano / SP,16/11/2024,21:00,Onésio Brasileiro Alvarenga / Goiania
+362,Ponte Preta / SP,Sport / PE,16/11/2024,21:30,Moisés Lucarelli / Campinas
+363,Botafogo / SP,Avaí / SC,18/11/2024,21:00,Santa Cruz / Ribeirao Preto
+364,Gremio Novorizontino - / SP,Paysandu / PA,16/11/2024,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+365,Santos / SP,CRB / AL,17/11/2024,16:00,Urbano Caldeira / Santos
+366,Chapecoense / SC,Coritiba / PR,17/11/2024,16:00,Índio Condá / Chapeco
+367,Brusque / SC,Guarani / SP,17/11/2024,11:00,Augusto Bauer / Brusque
+368,Operário / PR,Mirassol / SP,15/11/2024,16:00,Germano Kruger / Ponta Grossa
+369,Amazonas / AM,Goiás / GO,16/11/2024,19:00,Carlos Zamith / Manaus
+370,Ceará / CE,América / MG,18/11/2024,21:45,Governador Plácido Aderaldo Castelo / Fortaleza
+371,Goiás / GO,Gremio Novorizontino - / SP,24/11/2024,18:30,Hailé Pinheiro / Goiania
+372,Guarani / SP,Ceará / CE,24/11/2024,18:30,Brinco de Ouro da Princesa / Campinas
+373,Mirassol / SP,Chapecoense / SC,24/11/2024,18:30,José Maria de Campos Maia / Mirassol
+374,Ituano / SP,Amazonas / AM,22/11/2024,21:30,Novelli Junior / Itu
+375,América / MG,Brusque / SC,24/11/2024,18:30,Raimundo Sampaio / Belo Horizonte
+376,Avaí / SC,Ponte Preta / SP,22/11/2024,20:00,Aderbal Ramos da Silva / Florianopolis
+377,CRB / AL,Operário / PR,24/11/2024,16:00,Rei Pelé / Maceio
+378,Coritiba / PR,Botafogo / SP,22/11/2024,19:00,Major Antônio Couto Pereira / Curitiba
+379,Paysandu / PA,Vila Nova / GO,24/11/2024,16:00,Olímpico do Pará / Belem
+380,Sport / PE,Santos / SP,24/11/2024,18:30,Adelmar da Costa Carvalho / Recife

@@ -1,123 +1,123 @@
-Game,Home,Away
-001,Águia Negra / MS,Vitória / BA
-002,Campinense / PB,Bahia / BA
-003,Madureira / RJ,Paysandu / PA
-004,4 de Julho / PI,Confiança / SE
-005,Real Brasília / DF,América / RN
-006,Rio Branco / ES,Sampaio Corrêa / MA
-007,Cianorte / PR,Paraná / PR
-008,Juazeirense / BA,Sport / PE
-009,Moto Club / MA,Botafogo / RJ
-010,Ypiranga / AP,Santa Cruz / PE
-011,Uberlândia / MG,Luverdense / MT
-012,São Raimundo / RR,Cruzeiro / MG
-013,Gama / DF,Ponte Preta / SP
-014,Boavista / RJ,Goiás / GO
-015,Murici / AL,Juventude / RS
-016,Sergipe / SE,Cuiabá / MT
-017,Esportivo / RS,Remo / PA
-018,Mirassol / SP,Red Bull Bragantino / SP
-019,Juventude / MA,Operário / PR
-020,Picos / PI,Atlético / AC
-021,Goianesia / GO,CRB / AL
-022,Porto Velho / RO,Ferroviário / CE
-023,Nova Mutum / MT,Tombense / MG
-024,Atlético / BA,Vila Nova / GO
-025,Retrô / PE,Brusque / SC
-026,Galvez / AC,Atlético / GO
-027,Caxias / RS,Fortaleza / CE
-028,Rio Branco - VN / ES,ABC / RN
-029,Guarany / CE,CSA / AL
-030,Palmas / TO,Avaí / SC
-031,Castanhal / PA,Volta Redonda / RJ
-032,Santa Cruz / RS,Joinville / SC
-033,Salgueiro / PE,Corinthians / SP
-034,Marília / SP,Criciúma / SC
-035,Treze / PB,América / MG
-036,Jaraguá / GO,Manaus / AM
-037,Cascavel / PR,Figueirense / SC
-038,União de Rondonópolis / MT,Coritiba / PR
-039,Penarol / AM,Ypiranga / RS
-040,Caldense / MG,Vasco da Gama / RJ
-041,Corinthians / SP,Retrô / PE
-042,Luverdense / MT,Red Bull Bragantino / SP
-043,Coritiba / PR,Operário / PR
-044,Fortaleza / CE,Ypiranga / RS
-045,Picos / PI,Boavista / RJ
-046,Juazeirense / BA,Volta Redonda / RJ
-047,Vitória / BA,Rio Branco / ES
-048,Bahia / BA,Manaus / AM
-049,Tombense / MG,Vasco da Gama / RJ
-050,Criciúma / SC,Ponte Preta / SP
-051,Vila Nova / GO,Juventude / RS
-052,Cianorte / PR,Santa Cruz / PE
-053,Paysandu / PA,CRB / AL
-054,CSA / AL,Remo / PA
-055,América / MG,Ferroviário / CE
-056,ABC / RN,Botafogo / RJ
-057,América / RN,Cruzeiro / MG
-058,Avaí / SC,Cascavel / PR
-059,4 de Julho / PI,Cuiabá / MT
-060,Joinville / SC,Atlético / GO
-061,Cianorte / PR,Santos / SP
-062,Vila Nova / GO,Bahia / BA
-063,CRB / AL,Palmeiras / SP
-064,4 de Julho / PI,São Paulo / SP
-065,Fluminense / RJ,Red Bull Bragantino / SP
-066,Fortaleza / CE,Ceará / CE
-067,Grêmio / RS,Brasiliense / DF
-068,América / MG,Criciúma / SC
-069,Avaí / SC,Athletico Paranaense / PR
-070,Remo / PA,Atlético Mineiro / MG
-071,Corinthians / SP,Atlético / GO
-072,Vitória / BA,Internacional / RS
-073,Cruzeiro / MG,Juazeirense / BA
-074,Chapecoense / SC,ABC / RN
-075,Coritiba / PR,Flamengo / RJ
-076,Boavista / RJ,Vasco da Gama / RJ
-077,Santos / SP,Cianorte / PR
-078,Bahia / BA,Vila Nova / GO
-079,Palmeiras / SP,CRB / AL
-080,São Paulo / SP,4 de Julho / PI
-081,Red Bull Bragantino / SP,Fluminense / RJ
-082,Ceará / CE,Fortaleza / CE
-083,Brasiliense / DF,Grêmio / RS
-084,Criciúma / SC,América / MG
-085,Athletico Paranaense / PR,Avaí / SC
-086,Atlético Mineiro / MG,Remo / PA
-087,Atlético / GO,Corinthians / SP
-088,Internacional / RS,Vitória / BA
-089,Juazeirense / BA,Cruzeiro / MG
-090,ABC / RN,Chapecoense / SC
-091,Flamengo / RJ,Coritiba / PR
-092,Vasco da Gama / RJ,Boavista / RJ
-093,São Paulo / SP,Vasco da Gama / RJ
-094,Criciúma / SC,Fluminense / RJ
-095,Vitória / BA,Grêmio / RS
-096,Fortaleza / CE,CRB / AL
-097,Flamengo / RJ,ABC / RN
-098,Athletico Paranaense / PR,Atlético / GO
-099,Atlético Mineiro / MG,Bahia / BA
-100,Santos / SP,Juazeirense / BA
-101,Vasco da Gama / RJ,São Paulo / SP
-102,Fluminense / RJ,Criciúma / SC
-103,Grêmio / RS,Vitória / BA
-104,CRB / AL,Fortaleza / CE
-105,ABC / RN,Flamengo / RJ
-106,Atlético / GO,Athletico Paranaense / PR
-107,Bahia / BA,Atlético Mineiro / MG
-108,Juazeirense / BA,Santos / SP
-109,Athletico Paranaense / PR,Santos / SP
-110,Grêmio / RS,Flamengo / RJ
-111,São Paulo / SP,Fortaleza / CE
-112,Fluminense / RJ,Atlético Mineiro / MG
-113,Santos / SP,Athletico Paranaense / PR
-114,Flamengo / RJ,Grêmio / RS
-115,Fortaleza / CE,São Paulo / SP
-116,Atlético Mineiro / MG,Fluminense / RJ
-117,Athletico Paranaense / PR,Flamengo / RJ
-118,Atlético Mineiro / MG,Fortaleza / CE
-119,Flamengo / RJ,Athletico Paranaense / PR
-120,Fortaleza / CE,Atlético Mineiro / MG
-121,Atlético Mineiro / MG,Athletico Paranaense / PR
-122,Athletico Paranaense / PR,Atlético Mineiro / MG
+Game,Home,Away,Date,Time,Stadium
+001,Águia Negra / MS,Vitória / BA,09/03/2021,19:15,Iliê Vidal / Rio Brilhante
+002,Campinense / PB,Bahia / BA,09/03/2021,21:30,Ernani Sátyro / Campina Grande
+003,Madureira / RJ,Paysandu / PA,10/03/2021,15:30,Aniceto Moscoso / Rio de Janeiro
+004,4 de Julho / PI,Confiança / SE,10/03/2021,16:00,Arena Ytacoatiara / Piripiri
+005,Real Brasília / DF,América / RN,11/03/2021,15:30,José Roriz Aguiar / Luziania
+006,Rio Branco / ES,Sampaio Corrêa / MA,10/03/2021,18:00,Kleber José de Andrade / Cariacica
+007,Cianorte / PR,Paraná / PR,10/03/2021,18:00,Albino Turbay / Cianorte
+008,Juazeirense / BA,Sport / PE,10/03/2021,19:15,Adauto Moraes / Juazeiro
+009,Moto Club / MA,Botafogo / RJ,10/03/2021,21:30,Governador João Castelo / Sao Luis
+010,Ypiranga / AP,Santa Cruz / PE,26/03/2021,15:30,Giulite Coutinho / Mesquita
+011,Uberlândia / MG,Luverdense / MT,11/03/2021,17:00,Parque do Sabiá / Uberlandia
+012,São Raimundo / RR,Cruzeiro / MG,11/03/2021,19:15,Flamarion Vasconcelos / Boa Vista
+013,Gama / DF,Ponte Preta / SP,10/03/2021,15:30,José Roriz Aguiar / Luziania
+014,Boavista / RJ,Goiás / GO,11/03/2021,21:30,Elcyr Resende de Mendonça / Saquarema
+015,Murici / AL,Juventude / RS,16/03/2021,21:30,José Gomes da Costa / Murici
+016,Sergipe / SE,Cuiabá / MT,16/03/2021,19:15,Etelvino Mendonça / Itabaiana
+017,Esportivo / RS,Remo / PA,17/03/2021,20:00,Pq. Esp. Montanha dos Vinhedos / Bento Goncalves
+018,Mirassol / SP,Red Bull Bragantino / SP,18/03/2021,20:00,Kleber José de Andrade / Cariacica
+019,Juventude / MA,Operário / PR,17/03/2021,15:30,Estádio Municipal Marcos Pinheiro Neto / Sao Mateus do Maranhao
+020,Picos / PI,Atlético / AC,17/03/2021,16:00,Municipal Helvídio Nunes de Barros / Picos
+021,Goianesia / GO,CRB / AL,27/03/2021,15:30,Giulite Coutinho / Mesquita
+022,Porto Velho / RO,Ferroviário / CE,25/03/2021,15:30,De Los Larios / Duque de Caxias
+023,Nova Mutum / MT,Tombense / MG,17/03/2021,16:30,Valdir Doilho Wons / Nova Mutum
+024,Atlético / BA,Vila Nova / GO,17/03/2021,17:00,Antônio Carneiro / Alagoinhas
+025,Retrô / PE,Brusque / SC,17/03/2021,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+026,Galvez / AC,Atlético / GO,17/03/2021,17:00,Arena Pantanal / Cuiaba
+027,Caxias / RS,Fortaleza / CE,17/03/2021,20:00,Francisco Stédile / Caxias do Sul
+028,Rio Branco - VN / ES,ABC / RN,17/03/2021,15:30,Estádio Olimpio Perim / Venda Nova do Imigrante
+029,Guarany / CE,CSA / AL,17/03/2021,15:30,Plácido Aderaldo Castelo / Sobral
+030,Palmas / TO,Avaí / SC,25/03/2021,15:30,Arnaldo Busatto / Cascavel
+031,Castanhal / PA,Volta Redonda / RJ,17/03/2021,15:30,Maximino Porpino Filho / Castanhal
+032,Santa Cruz / RS,Joinville / SC,17/03/2021,20:00,Estádio dos Plátanos / Santa Cruz do Sul
+033,Salgueiro / PE,Corinthians / SP,17/03/2021,21:30,Cornélio de Barros Muniz / Salgueiro
+034,Marília / SP,Criciúma / SC,18/03/2021,15:30,Kleber José de Andrade / Cariacica
+035,Treze / PB,América / MG,18/03/2021,18:00,Ernani Sátyro / Campina Grande
+036,Jaraguá / GO,Manaus / AM,26/03/2021,15:30,Jânio Moraes / Nova Iguacu
+037,Cascavel / PR,Figueirense / SC,18/03/2021,18:00,Arnaldo Busatto / Cascavel
+038,União de Rondonópolis / MT,Coritiba / PR,18/03/2021,17:30,Luthero Lopes / Rondonopolis
+039,Penarol / AM,Ypiranga / RS,18/03/2021,20:00,Arena da Amazônia / Manaus
+040,Caldense / MG,Vasco da Gama / RJ,18/03/2021,17:30,Ronaldo Junqueira / Pocos de Caldas
+041,Corinthians / SP,Retrô / PE,26/03/2021,21:30,Elcyr Resende de Mendonça / Saquarema
+042,Luverdense / MT,Red Bull Bragantino / SP,01/04/2021,17:00,Passo das Emas / Lucas do Rio Verde
+043,Coritiba / PR,Operário / PR,06/04/2021,19:00,Arena Joinville / Joinville
+044,Fortaleza / CE,Ypiranga / RS,06/04/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+045,Picos / PI,Boavista / RJ,07/04/2021,16:00,Municipal Helvídio Nunes de Barros / Picos
+046,Juazeirense / BA,Volta Redonda / RJ,07/04/2021,16:00,Adauto Moraes / Juazeiro
+047,Vitória / BA,Rio Branco / ES,07/04/2021,19:00,Manoel Barradas / Salvador
+048,Bahia / BA,Manaus / AM,07/04/2021,21:30,Roberto Santos / Salvador
+049,Tombense / MG,Vasco da Gama / RJ,07/04/2021,21:30,Antônio Guimarães de Almeida / Tombos
+050,Criciúma / SC,Ponte Preta / SP,08/04/2021,19:00,Heriberto Hulse / Criciuma
+051,Vila Nova / GO,Juventude / RS,08/04/2021,21:30,Onésio Brasileiro Alvarenga / Goiania
+052,Cianorte / PR,Santa Cruz / PE,13/04/2021,19:00,Albino Turbay / Cianorte
+053,Paysandu / PA,CRB / AL,13/04/2021,16:45,Leônidas Sobré de Castro / Belem
+054,CSA / AL,Remo / PA,13/04/2021,21:30,Rei Pelé / Maceio
+055,América / MG,Ferroviário / CE,14/04/2021,19:00,Raimundo Sampaio / Belo Horizonte
+056,ABC / RN,Botafogo / RJ,14/04/2021,21:30,Maria Lamas Farache / Natal
+057,América / RN,Cruzeiro / MG,14/04/2021,21:30,Arena das Dunas / Natal
+058,Avaí / SC,Cascavel / PR,15/04/2021,19:00,Aderbal Ramos da Silva / Florianopolis
+059,4 de Julho / PI,Cuiabá / MT,15/04/2021,19:00,Lindolfo Monteiro / Teresina
+060,Joinville / SC,Atlético / GO,15/04/2021,21:30,Arena Joinville / Joinville
+061,Cianorte / PR,Santos / SP,01/06/2021,19:00,Albino Turbay / Cianorte
+062,Vila Nova / GO,Bahia / BA,01/06/2021,16:30,Onésio Brasileiro Alvarenga / Goiania
+063,CRB / AL,Palmeiras / SP,03/06/2021,21:30,Rei Pelé / Maceio
+064,4 de Julho / PI,São Paulo / SP,01/06/2021,21:30,Governador Alberto Silva / Teresina
+065,Fluminense / RJ,Red Bull Bragantino / SP,02/06/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+066,Fortaleza / CE,Ceará / CE,02/06/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+067,Grêmio / RS,Brasiliense / DF,02/06/2021,16:30,Arena do Grêmio / Porto Alegre
+068,América / MG,Criciúma / SC,02/06/2021,21:30,Raimundo Sampaio / Belo Horizonte
+069,Avaí / SC,Athletico Paranaense / PR,03/06/2021,19:00,Aderbal Ramos da Silva / Florianopolis
+070,Remo / PA,Atlético Mineiro / MG,02/06/2021,19:00,Evandro Almeida / Belem
+071,Corinthians / SP,Atlético / GO,02/06/2021,21:30,Arena Corinthians / Sao Paulo
+072,Vitória / BA,Internacional / RS,03/06/2021,19:00,Manoel Barradas / Salvador
+073,Cruzeiro / MG,Juazeirense / BA,03/06/2021,16:30,Magalhães Pinto / Belo Horizonte
+074,Chapecoense / SC,ABC / RN,02/06/2021,16:30,Índio Condá / Chapeco
+075,Coritiba / PR,Flamengo / RJ,10/06/2021,19:00,Major Antônio Couto Pereira / Curitiba
+076,Boavista / RJ,Vasco da Gama / RJ,01/06/2021,21:30,Elcyr Resende de Mendonça / Saquarema
+077,Santos / SP,Cianorte / PR,08/06/2021,16:30,Urbano Caldeira / Santos
+078,Bahia / BA,Vila Nova / GO,09/06/2021,19:00,Roberto Santos / Salvador
+079,Palmeiras / SP,CRB / AL,09/06/2021,19:00,Allianz Parque / Sao Paulo
+080,São Paulo / SP,4 de Julho / PI,08/06/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
+081,Red Bull Bragantino / SP,Fluminense / RJ,09/06/2021,21:30,Nabi Abi Chedid / Braganca Paulista
+082,Ceará / CE,Fortaleza / CE,10/06/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+083,Brasiliense / DF,Grêmio / RS,10/06/2021,15:30,Elmo Serejo Farias / Brasilia
+084,Criciúma / SC,América / MG,09/06/2021,21:30,Heriberto Hulse / Criciuma
+085,Athletico Paranaense / PR,Avaí / SC,09/06/2021,19:00,Joaquim Américo Guimarães / Curitiba
+086,Atlético Mineiro / MG,Remo / PA,10/06/2021,19:00,Magalhães Pinto / Belo Horizonte
+087,Atlético / GO,Corinthians / SP,09/06/2021,21:30,Antônio Accioly / Goiania
+088,Internacional / RS,Vitória / BA,10/06/2021,21:30,José Pinheiro Borda / Porto Alegre
+089,Juazeirense / BA,Cruzeiro / MG,09/06/2021,19:00,Adauto Moraes / Juazeiro
+090,ABC / RN,Chapecoense / SC,09/06/2021,16:30,Maria Lamas Farache / Natal
+091,Flamengo / RJ,Coritiba / PR,16/06/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+092,Vasco da Gama / RJ,Boavista / RJ,09/06/2021,16:30,São Januário / Rio de Janeiro
+093,São Paulo / SP,Vasco da Gama / RJ,28/07/2021,21:30,Cícero Pompeu de Toledo / Sao Paulo
+094,Criciúma / SC,Fluminense / RJ,27/07/2021,19:15,Heriberto Hulse / Criciuma
+095,Vitória / BA,Grêmio / RS,27/07/2021,21:30,Manoel Barradas / Salvador
+096,Fortaleza / CE,CRB / AL,29/07/2021,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
+097,Flamengo / RJ,ABC / RN,29/07/2021,20:00,Jornalista Mário Filho / Rio de Janeiro
+098,Athletico Paranaense / PR,Atlético / GO,28/07/2021,16:30,Joaquim Américo Guimarães / Curitiba
+099,Atlético Mineiro / MG,Bahia / BA,28/07/2021,21:30,Magalhães Pinto / Belo Horizonte
+100,Santos / SP,Juazeirense / BA,28/07/2021,19:15,Urbano Caldeira / Santos
+101,Vasco da Gama / RJ,São Paulo / SP,04/08/2021,21:30,São Januário / Rio de Janeiro
+102,Fluminense / RJ,Criciúma / SC,31/07/2021,16:30,Jornalista Mário Filho / Rio de Janeiro
+103,Grêmio / RS,Vitória / BA,03/08/2021,19:00,Arena do Grêmio / Porto Alegre
+104,CRB / AL,Fortaleza / CE,04/08/2021,16:30,Rei Pelé / Maceio
+105,ABC / RN,Flamengo / RJ,05/08/2021,21:30,Arena das Dunas / Natal
+106,Atlético / GO,Athletico Paranaense / PR,04/08/2021,19:15,Antônio Accioly / Goiania
+107,Bahia / BA,Atlético Mineiro / MG,04/08/2021,21:30,Alberto Oliveira / Feira de Santana
+108,Juazeirense / BA,Santos / SP,05/08/2021,19:15,Adauto Moraes / Juazeiro
+109,Athletico Paranaense / PR,Santos / SP,25/08/2021,19:00,Joaquim Américo Guimarães / Curitiba
+110,Grêmio / RS,Flamengo / RJ,25/08/2021,21:30,Arena do Grêmio / Porto Alegre
+111,São Paulo / SP,Fortaleza / CE,25/08/2021,21:30,Cícero Pompeu de Toledo / Sao Paulo
+112,Fluminense / RJ,Atlético Mineiro / MG,26/08/2021,21:30,Nilton Santos / Rio de Janeiro
+113,Santos / SP,Athletico Paranaense / PR,14/09/2021,21:30,Urbano Caldeira / Santos
+114,Flamengo / RJ,Grêmio / RS,15/09/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+115,Fortaleza / CE,São Paulo / SP,15/09/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+116,Atlético Mineiro / MG,Fluminense / RJ,15/09/2021,19:00,Magalhães Pinto / Belo Horizonte
+117,Athletico Paranaense / PR,Flamengo / RJ,20/10/2021,21:30,Joaquim Américo Guimarães / Curitiba
+118,Atlético Mineiro / MG,Fortaleza / CE,20/10/2021,21:30,Magalhães Pinto / Belo Horizonte
+119,Flamengo / RJ,Athletico Paranaense / PR,27/10/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+120,Fortaleza / CE,Atlético Mineiro / MG,27/10/2021,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+121,Atlético Mineiro / MG,Athletico Paranaense / PR,12/12/2021,17:30,Magalhães Pinto / Belo Horizonte
+122,Athletico Paranaense / PR,Atlético Mineiro / MG,15/12/2021,21:30,Joaquim Américo Guimarães / Curitiba
