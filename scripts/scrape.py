@@ -399,6 +399,7 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                 time = games[game]["Time"]
                 stadium = games[game]["Stadium"]
                 players = games[game]["Players"]
+                red_cards, yellow_cards, goals, changes = [], [], [], []
                 if players[0][1] == players[-1][1]:
                     continue
 

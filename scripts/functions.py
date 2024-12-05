@@ -162,6 +162,7 @@ def treat_club(club):
     club = club.replace("G.a.s / RR", "G.A.S. / RR")
     club = club.replace("Cse / AL", "CSE / AL")
     club = club.replace("Ca Patrocinense / MG", "Atlético Patrocinense / MG")
+    club = club.replace("Atlético / GO", "Atlético Goianiense / GO")
 
     return club
 
