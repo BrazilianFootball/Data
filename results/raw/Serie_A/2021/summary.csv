@@ -1,6 +1,6 @@
 Game,Home,Away,Date,Time,Stadium
 001,Flamengo / RJ,Palmeiras / SP,30/05/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
-002,Corinthians / SP,Atlético / GO,30/05/2021,18:15,Arena Corinthians / Sao Paulo
+002,Corinthians / SP,Atlético Goianiense / GO,30/05/2021,18:15,Arena Corinthians / Sao Paulo
 003,São Paulo / SP,Fluminense / RJ,29/05/2021,21:00,Cícero Pompeu de Toledo / Sao Paulo
 004,Atlético Mineiro / MG,Fortaleza / CE,30/05/2021,11:00,Magalhães Pinto / Belo Horizonte
 005,Internacional / RS,Sport / PE,30/05/2021,20:30,José Pinheiro Borda / Porto Alegre
@@ -18,7 +18,7 @@ Game,Home,Away,Date,Time,Stadium
 017,Sport / PE,Atlético Mineiro / MG,06/06/2021,20:30,Adelmar da Costa Carvalho / Recife
 018,Red Bull Bragantino / SP,Bahia / BA,05/06/2021,21:00,Nabi Abi Chedid / Braganca Paulista
 019,Juventude / RS,Athletico Paranaense / PR,06/06/2021,18:15,Alfredo Jaconi / Caxias do Sul
-020,Atlético / GO,São Paulo / SP,05/06/2021,19:00,Antônio Accioly / Goiania
+020,Atlético Goianiense / GO,São Paulo / SP,05/06/2021,19:00,Antônio Accioly / Goiania
 021,Flamengo / RJ,América / MG,13/06/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
 022,Palmeiras / SP,Corinthians / SP,12/06/2021,19:00,Allianz Parque / Sao Paulo
 023,Santos / SP,Juventude / RS,12/06/2021,19:00,Urbano Caldeira / Santos
@@ -28,7 +28,7 @@ Game,Home,Away,Date,Time,Stadium
 027,Bahia / BA,Internacional / RS,13/06/2021,20:30,Roberto Santos / Salvador
 028,Red Bull Bragantino / SP,Fluminense / RJ,13/06/2021,20:30,Nabi Abi Chedid / Braganca Paulista
 029,Chapecoense / SC,Ceará / CE,13/06/2021,20:30,Índio Condá / Chapeco
-030,Cuiabá / MT,Atlético / GO,21/07/2021,19:00,Arena Pantanal / Cuiaba
+030,Cuiabá / MT,Atlético Goianiense / GO,21/07/2021,19:00,Arena Pantanal / Cuiaba
 031,Fluminense / RJ,Santos / SP,17/06/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
 032,Corinthians / SP,Red Bull Bragantino / SP,16/06/2021,20:30,Arena Corinthians / Sao Paulo
 033,São Paulo / SP,Chapecoense / SC,16/06/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
@@ -38,7 +38,7 @@ Game,Home,Away,Date,Time,Stadium
 037,Sport / PE,Grêmio / RS,17/06/2021,19:00,Adelmar da Costa Carvalho / Recife
 038,Athletico Paranaense / PR,Flamengo / RJ,02/11/2021,16:00,Joaquim Américo Guimarães / Curitiba
 039,Juventude / RS,Palmeiras / SP,16/06/2021,21:30,Alfredo Jaconi / Caxias do Sul
-040,Atlético / GO,Fortaleza / CE,17/06/2021,19:00,Antônio Accioly / Goiania
+040,Atlético Goianiense / GO,Fortaleza / CE,17/06/2021,19:00,Antônio Accioly / Goiania
 041,Flamengo / RJ,Red Bull Bragantino / SP,19/06/2021,21:00,Jornalista Mário Filho / Rio de Janeiro
 042,Palmeiras / SP,América / MG,20/06/2021,11:00,Allianz Parque / Sao Paulo
 043,Santos / SP,São Paulo / SP,20/06/2021,18:15,Urbano Caldeira / Santos
@@ -46,7 +46,7 @@ Game,Home,Away,Date,Time,Stadium
 045,Internacional / RS,Ceará / CE,20/06/2021,16:00,José Pinheiro Borda / Porto Alegre
 046,Fortaleza / CE,Fluminense / RJ,20/06/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
 047,Bahia / BA,Corinthians / SP,20/06/2021,16:00,Roberto Santos / Salvador
-048,Athletico Paranaense / PR,Atlético / GO,20/06/2021,18:15,Joaquim Américo Guimarães / Curitiba
+048,Athletico Paranaense / PR,Atlético Goianiense / GO,20/06/2021,18:15,Joaquim Américo Guimarães / Curitiba
 049,Juventude / RS,Sport / PE,20/06/2021,20:30,Alfredo Jaconi / Caxias do Sul
 050,Cuiabá / MT,Grêmio / RS,18/08/2021,19:00,Arena Pantanal / Cuiaba
 051,Flamengo / RJ,Fortaleza / CE,23/06/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
@@ -58,7 +58,7 @@ Game,Home,Away,Date,Time,Stadium
 057,Bahia / BA,Athletico Paranaense / PR,24/06/2021,21:30,Roberto Santos / Salvador
 058,Red Bull Bragantino / SP,Palmeiras / SP,23/06/2021,19:00,Nabi Abi Chedid / Braganca Paulista
 059,Chapecoense / SC,Internacional / RS,24/06/2021,19:00,Índio Condá / Chapeco
-060,Atlético / GO,Fluminense / RJ,23/06/2021,19:00,Antônio Accioly / Goiania
+060,Atlético Goianiense / GO,Fluminense / RJ,23/06/2021,19:00,Antônio Accioly / Goiania
 061,Fluminense / RJ,Corinthians / SP,27/06/2021,16:00,São Januário / Rio de Janeiro
 062,Palmeiras / SP,Bahia / BA,27/06/2021,20:00,Allianz Parque / Sao Paulo
 063,Santos / SP,Atlético Mineiro / MG,27/06/2021,20:30,Urbano Caldeira / Santos
@@ -68,11 +68,11 @@ Game,Home,Away,Date,Time,Stadium
 067,Sport / PE,Cuiabá / MT,27/06/2021,20:30,Adelmar da Costa Carvalho / Recife
 068,Athletico Paranaense / PR,Chapecoense / SC,27/06/2021,20:00,Joaquim Américo Guimarães / Curitiba
 069,Juventude / RS,Flamengo / RJ,27/06/2021,11:00,Alfredo Jaconi / Caxias do Sul
-070,Atlético / GO,Red Bull Bragantino / SP,28/06/2021,20:00,Antônio Accioly / Goiania
+070,Atlético Goianiense / GO,Red Bull Bragantino / SP,28/06/2021,20:00,Antônio Accioly / Goiania
 071,Fluminense / RJ,Athletico Paranaense / PR,30/06/2021,16:00,Sylvio Raulino de Oliveira / Volta Redonda
 072,Corinthians / SP,São Paulo / SP,30/06/2021,21:30,Arena Corinthians / Sao Paulo
 073,Santos / SP,Sport / PE,30/06/2021,20:30,Urbano Caldeira / Santos
-074,Atlético Mineiro / MG,Atlético / GO,01/07/2021,19:00,Magalhães Pinto / Belo Horizonte
+074,Atlético Mineiro / MG,Atlético Goianiense / GO,01/07/2021,19:00,Magalhães Pinto / Belo Horizonte
 075,Internacional / RS,Palmeiras / SP,30/06/2021,19:00,José Pinheiro Borda / Porto Alegre
 076,Fortaleza / CE,Chapecoense / SC,30/06/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
 077,Bahia / BA,América / MG,30/06/2021,19:00,Roberto Santos / Salvador
@@ -83,7 +83,7 @@ Game,Home,Away,Date,Time,Stadium
 082,Corinthians / SP,Internacional / RS,03/07/2021,21:00,Arena Corinthians / Sao Paulo
 083,São Paulo / SP,Red Bull Bragantino / SP,04/07/2021,18:15,Cícero Pompeu de Toledo / Sao Paulo
 084,América / MG,Santos / SP,03/07/2021,19:00,Raimundo Sampaio / Belo Horizonte
-085,Grêmio / RS,Atlético / GO,04/07/2021,20:30,Arena do Grêmio / Porto Alegre
+085,Grêmio / RS,Atlético Goianiense / GO,04/07/2021,20:30,Arena do Grêmio / Porto Alegre
 086,Ceará / CE,Juventude / RS,04/07/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
 087,Sport / PE,Palmeiras / SP,04/07/2021,16:00,Adelmar da Costa Carvalho / Recife
 088,Athletico Paranaense / PR,Fortaleza / CE,03/07/2021,19:00,Joaquim Américo Guimarães / Curitiba
@@ -98,7 +98,7 @@ Game,Home,Away,Date,Time,Stadium
 097,Bahia / BA,Juventude / RS,07/07/2021,18:00,Roberto Santos / Salvador
 098,Red Bull Bragantino / SP,Cuiabá / MT,07/07/2021,18:00,Nabi Abi Chedid / Braganca Paulista
 099,Chapecoense / SC,Corinthians / SP,08/07/2021,21:00,Índio Condá / Chapeco
-100,Atlético / GO,Sport / PE,07/07/2021,19:15,Antônio Accioly / Goiania
+100,Atlético Goianiense / GO,Sport / PE,07/07/2021,19:15,Antônio Accioly / Goiania
 101,Flamengo / RJ,Chapecoense / SC,11/07/2021,18:15,Jornalista Mário Filho / Rio de Janeiro
 102,Palmeiras / SP,Santos / SP,10/07/2021,16:30,Allianz Parque / Sao Paulo
 103,São Paulo / SP,Bahia / BA,10/07/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
@@ -107,7 +107,7 @@ Game,Home,Away,Date,Time,Stadium
 106,Fortaleza / CE,Corinthians / SP,11/07/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
 107,Sport / PE,Fluminense / RJ,10/07/2021,19:00,Adelmar da Costa Carvalho / Recife
 108,Athletico Paranaense / PR,Red Bull Bragantino / SP,10/07/2021,17:00,Joaquim Américo Guimarães / Curitiba
-109,Juventude / RS,Atlético / GO,11/07/2021,11:00,Alfredo Jaconi / Caxias do Sul
+109,Juventude / RS,Atlético Goianiense / GO,11/07/2021,11:00,Alfredo Jaconi / Caxias do Sul
 110,Cuiabá / MT,Ceará / CE,11/07/2021,18:15,Arena Pantanal / Cuiaba
 111,Fluminense / RJ,Grêmio / RS,17/07/2021,21:00,Jornalista Mário Filho / Rio de Janeiro
 112,Corinthians / SP,Atlético Mineiro / MG,17/07/2021,19:00,Arena Corinthians / Sao Paulo
@@ -118,10 +118,10 @@ Game,Home,Away,Date,Time,Stadium
 117,Bahia / BA,Flamengo / RJ,18/07/2021,18:15,Roberto Santos / Salvador
 118,Red Bull Bragantino / SP,Santos / SP,18/07/2021,20:30,Nabi Abi Chedid / Braganca Paulista
 119,Chapecoense / SC,Cuiabá / MT,18/07/2021,11:00,Índio Condá / Chapeco
-120,Atlético / GO,Palmeiras / SP,18/07/2021,16:00,Antônio Accioly / Goiania
+120,Atlético Goianiense / GO,Palmeiras / SP,18/07/2021,16:00,Antônio Accioly / Goiania
 121,Flamengo / RJ,São Paulo / SP,25/07/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
 122,Palmeiras / SP,Fluminense / RJ,24/07/2021,19:00,Allianz Parque / Sao Paulo
-123,Santos / SP,Atlético / GO,25/07/2021,18:15,Urbano Caldeira / Santos
+123,Santos / SP,Atlético Goianiense / GO,25/07/2021,18:15,Urbano Caldeira / Santos
 124,Atlético Mineiro / MG,Bahia / BA,25/07/2021,11:00,Magalhães Pinto / Belo Horizonte
 125,Grêmio / RS,América / MG,24/07/2021,17:00,Arena do Grêmio / Porto Alegre
 126,Fortaleza / CE,Red Bull Bragantino / SP,25/07/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
@@ -138,13 +138,13 @@ Game,Home,Away,Date,Time,Stadium
 137,Bahia / BA,Sport / PE,01/08/2021,18:15,Roberto Santos / Salvador
 138,Red Bull Bragantino / SP,Grêmio / RS,31/07/2021,21:00,Nabi Abi Chedid / Braganca Paulista
 139,Chapecoense / SC,Santos / SP,01/08/2021,18:15,Índio Condá / Chapeco
-140,Atlético / GO,América / MG,01/08/2021,20:30,Antônio Accioly / Goiania
+140,Atlético Goianiense / GO,América / MG,01/08/2021,20:30,Antônio Accioly / Goiania
 141,Flamengo / RJ,Internacional / RS,08/08/2021,18:15,Jornalista Mário Filho / Rio de Janeiro
 142,Palmeiras / SP,Fortaleza / CE,07/08/2021,21:00,Allianz Parque / Sao Paulo
 143,Santos / SP,Corinthians / SP,08/08/2021,16:00,Urbano Caldeira / Santos
 144,América / MG,Fluminense / RJ,08/08/2021,16:00,Raimundo Sampaio / Belo Horizonte
 145,Grêmio / RS,Chapecoense / SC,09/08/2021,20:00,Arena do Grêmio / Porto Alegre
-146,Ceará / CE,Atlético / GO,08/08/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
+146,Ceará / CE,Atlético Goianiense / GO,08/08/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
 147,Sport / PE,Red Bull Bragantino / SP,06/08/2021,19:00,Adelmar da Costa Carvalho / Recife
 148,Athletico Paranaense / PR,São Paulo / SP,07/08/2021,18:00,Joaquim Américo Guimarães / Curitiba
 149,Juventude / RS,Atlético Mineiro / MG,08/08/2021,16:00,Alfredo Jaconi / Caxias do Sul
@@ -155,7 +155,7 @@ Game,Home,Away,Date,Time,Stadium
 154,Atlético Mineiro / MG,Palmeiras / SP,14/08/2021,19:00,Magalhães Pinto / Belo Horizonte
 155,Internacional / RS,Fluminense / RJ,15/08/2021,20:30,José Pinheiro Borda / Porto Alegre
 156,Fortaleza / CE,Santos / SP,15/08/2021,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
-157,Bahia / BA,Atlético / GO,15/08/2021,18:15,Roberto Santos / Salvador
+157,Bahia / BA,Atlético Goianiense / GO,15/08/2021,18:15,Roberto Santos / Salvador
 158,Red Bull Bragantino / SP,Juventude / RS,14/08/2021,17:00,Nabi Abi Chedid / Braganca Paulista
 159,Chapecoense / SC,América / MG,16/08/2021,20:00,Índio Condá / Chapeco
 160,Cuiabá / MT,Athletico Paranaense / PR,15/08/2021,18:15,Arena Pantanal / Cuiaba
@@ -168,7 +168,7 @@ Game,Home,Away,Date,Time,Stadium
 167,Sport / PE,São Paulo / SP,22/08/2021,20:30,Adelmar da Costa Carvalho / Recife
 168,Athletico Paranaense / PR,Corinthians / SP,22/08/2021,16:00,Joaquim Américo Guimarães / Curitiba
 169,Juventude / RS,Fortaleza / CE,21/08/2021,21:00,Alfredo Jaconi / Caxias do Sul
-170,Atlético / GO,Chapecoense / SC,21/08/2021,17:00,Antônio Accioly / Goiania
+170,Atlético Goianiense / GO,Chapecoense / SC,21/08/2021,17:00,Antônio Accioly / Goiania
 171,Fluminense / RJ,Bahia / BA,30/08/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
 172,Palmeiras / SP,Athletico Paranaense / PR,28/08/2021,21:00,Allianz Parque / Sao Paulo
 173,Santos / SP,Flamengo / RJ,28/08/2021,19:00,Urbano Caldeira / Santos
@@ -178,8 +178,8 @@ Game,Home,Away,Date,Time,Stadium
 177,Sport / PE,Chapecoense / SC,28/08/2021,17:00,Adelmar da Costa Carvalho / Recife
 178,Red Bull Bragantino / SP,Atlético Mineiro / MG,29/08/2021,20:30,Nabi Abi Chedid / Braganca Paulista
 179,Juventude / RS,São Paulo / SP,29/08/2021,16:00,Alfredo Jaconi / Caxias do Sul
-180,Atlético / GO,Internacional / RS,29/08/2021,18:15,Antônio Accioly / Goiania
-181,Flamengo / RJ,Atlético / GO,05/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
+180,Atlético Goianiense / GO,Internacional / RS,29/08/2021,18:15,Antônio Accioly / Goiania
+181,Flamengo / RJ,Atlético Goianiense / GO,05/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
 182,Corinthians / SP,Juventude / RS,07/09/2021,21:30,Arena Corinthians / Sao Paulo
 183,São Paulo / SP,América / MG,22/09/2021,20:30,Cícero Pompeu de Toledo / Sao Paulo
 184,Atlético Mineiro / MG,Grêmio / RS,03/11/2021,21:00,Magalhães Pinto / Belo Horizonte
@@ -198,10 +198,10 @@ Game,Home,Away,Date,Time,Stadium
 197,Sport / PE,Internacional / RS,13/09/2021,20:00,Adelmar da Costa Carvalho / Recife
 198,Red Bull Bragantino / SP,Chapecoense / SC,11/09/2021,19:00,Nabi Abi Chedid / Braganca Paulista
 199,Juventude / RS,Cuiabá / MT,11/09/2021,17:00,Alfredo Jaconi / Caxias do Sul
-200,Atlético / GO,Corinthians / SP,12/09/2021,18:15,Antônio Accioly / Goiania
+200,Atlético Goianiense / GO,Corinthians / SP,12/09/2021,18:15,Antônio Accioly / Goiania
 201,Flamengo / RJ,Grêmio / RS,19/09/2021,20:30,Jornalista Mário Filho / Rio de Janeiro
 202,Corinthians / SP,América / MG,19/09/2021,18:15,Arena Corinthians / Sao Paulo
-203,São Paulo / SP,Atlético / GO,19/09/2021,16:00,Cícero Pompeu de Toledo / Sao Paulo
+203,São Paulo / SP,Atlético Goianiense / GO,19/09/2021,16:00,Cícero Pompeu de Toledo / Sao Paulo
 204,Atlético Mineiro / MG,Sport / PE,18/09/2021,19:00,Magalhães Pinto / Belo Horizonte
 205,Internacional / RS,Fortaleza / CE,19/09/2021,11:00,José Pinheiro Borda / Porto Alegre
 206,Ceará / CE,Santos / SP,18/09/2021,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
@@ -218,13 +218,13 @@ Game,Home,Away,Date,Time,Stadium
 217,Sport / PE,Fortaleza / CE,26/09/2021,18:15,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 218,Athletico Paranaense / PR,Grêmio / RS,26/09/2021,18:15,Joaquim Américo Guimarães / Curitiba
 219,Juventude / RS,Santos / SP,26/09/2021,16:00,Alfredo Jaconi / Caxias do Sul
-220,Atlético / GO,Cuiabá / MT,26/09/2021,20:30,Antônio Accioly / Goiania
+220,Atlético Goianiense / GO,Cuiabá / MT,26/09/2021,20:30,Antônio Accioly / Goiania
 221,Flamengo / RJ,Athletico Paranaense / PR,03/10/2021,16:00,Jornalista Mário Filho / Rio de Janeiro
 222,Palmeiras / SP,Juventude / RS,03/10/2021,18:15,Allianz Parque / Sao Paulo
 223,Santos / SP,Fluminense / RJ,27/10/2021,19:00,Urbano Caldeira / Santos
 224,Atlético Mineiro / MG,Internacional / RS,02/10/2021,21:00,Magalhães Pinto / Belo Horizonte
 225,Grêmio / RS,Sport / PE,03/10/2021,20:30,Arena do Grêmio / Porto Alegre
-226,Fortaleza / CE,Atlético / GO,02/10/2021,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
+226,Fortaleza / CE,Atlético Goianiense / GO,02/10/2021,17:00,Governador Plácido Aderaldo Castelo / Fortaleza
 227,Bahia / BA,Ceará / CE,27/10/2021,19:00,Octávio Mangabeira / Salvador
 228,Red Bull Bragantino / SP,Corinthians / SP,02/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
 229,Chapecoense / SC,São Paulo / SP,03/10/2021,16:00,Índio Condá / Chapeco
@@ -238,8 +238,8 @@ Game,Home,Away,Date,Time,Stadium
 237,Sport / PE,Juventude / RS,06/10/2021,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 238,Red Bull Bragantino / SP,Flamengo / RJ,06/10/2021,20:30,Nabi Abi Chedid / Braganca Paulista
 239,Chapecoense / SC,Atlético Mineiro / MG,06/10/2021,19:00,Índio Condá / Chapeco
-240,Atlético / GO,Athletico Paranaense / PR,06/10/2021,19:00,Antônio Accioly / Goiania
-241,Fluminense / RJ,Atlético / GO,09/10/2021,16:30,Jornalista Mário Filho / Rio de Janeiro
+240,Atlético Goianiense / GO,Athletico Paranaense / PR,06/10/2021,19:00,Antônio Accioly / Goiania
+241,Fluminense / RJ,Atlético Goianiense / GO,09/10/2021,16:30,Jornalista Mário Filho / Rio de Janeiro
 242,Palmeiras / SP,Red Bull Bragantino / SP,09/10/2021,21:00,Allianz Parque / Sao Paulo
 243,Santos / SP,Grêmio / RS,10/10/2021,16:00,Urbano Caldeira / Santos
 244,Atlético Mineiro / MG,Ceará / CE,09/10/2021,16:30,Magalhães Pinto / Belo Horizonte
@@ -256,7 +256,7 @@ Game,Home,Away,Date,Time,Stadium
 255,Internacional / RS,América / MG,13/10/2021,21:30,José Pinheiro Borda / Porto Alegre
 256,Fortaleza / CE,Grêmio / RS,13/10/2021,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
 257,Bahia / BA,Palmeiras / SP,12/10/2021,21:30,Octávio Mangabeira / Salvador
-258,Red Bull Bragantino / SP,Atlético / GO,12/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
+258,Red Bull Bragantino / SP,Atlético Goianiense / GO,12/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
 259,Chapecoense / SC,Athletico Paranaense / PR,13/10/2021,19:00,Índio Condá / Chapeco
 260,Cuiabá / MT,Sport / PE,14/10/2021,19:00,Arena Pantanal / Cuiaba
 261,Flamengo / RJ,Cuiabá / MT,17/10/2021,20:30,Jornalista Mário Filho / Rio de Janeiro
@@ -268,7 +268,7 @@ Game,Home,Away,Date,Time,Stadium
 267,Sport / PE,Santos / SP,17/10/2021,20:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 268,Athletico Paranaense / PR,Fluminense / RJ,17/10/2021,16:00,Joaquim Américo Guimarães / Curitiba
 269,Chapecoense / SC,Fortaleza / CE,16/10/2021,19:00,Índio Condá / Chapeco
-270,Atlético / GO,Atlético Mineiro / MG,17/10/2021,18:15,Antônio Accioly / Goiania
+270,Atlético Goianiense / GO,Atlético Mineiro / MG,17/10/2021,18:15,Antônio Accioly / Goiania
 271,Fluminense / RJ,Flamengo / RJ,23/10/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
 272,Palmeiras / SP,Sport / PE,25/10/2021,21:30,Allianz Parque / Sao Paulo
 273,Santos / SP,América / MG,23/10/2021,17:00,Urbano Caldeira / Santos
@@ -278,14 +278,14 @@ Game,Home,Away,Date,Time,Stadium
 277,Bahia / BA,Chapecoense / SC,24/10/2021,20:30,Octávio Mangabeira / Salvador
 278,Red Bull Bragantino / SP,São Paulo / SP,24/10/2021,18:15,Nabi Abi Chedid / Braganca Paulista
 279,Juventude / RS,Ceará / CE,23/10/2021,17:00,Alfredo Jaconi / Caxias do Sul
-280,Atlético / GO,Grêmio / RS,25/10/2021,20:00,Antônio Accioly / Goiania
+280,Atlético Goianiense / GO,Grêmio / RS,25/10/2021,20:00,Antônio Accioly / Goiania
 281,Flamengo / RJ,Atlético Mineiro / MG,30/10/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
 282,Corinthians / SP,Chapecoense / SC,01/11/2021,21:30,Arena Corinthians / Sao Paulo
 283,São Paulo / SP,Internacional / RS,31/10/2021,18:15,Cícero Pompeu de Toledo / Sao Paulo
 284,América / MG,Fortaleza / CE,30/10/2021,21:00,Raimundo Sampaio / Belo Horizonte
 285,Grêmio / RS,Palmeiras / SP,31/10/2021,16:00,Arena do Grêmio / Porto Alegre
 286,Ceará / CE,Fluminense / RJ,31/10/2021,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
-287,Sport / PE,Atlético / GO,31/10/2021,20:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+287,Sport / PE,Atlético Goianiense / GO,31/10/2021,20:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 288,Athletico Paranaense / PR,Santos / SP,30/10/2021,17:00,Joaquim Américo Guimarães / Curitiba
 289,Juventude / RS,Bahia / BA,30/10/2021,19:15,Alfredo Jaconi / Caxias do Sul
 290,Cuiabá / MT,Red Bull Bragantino / SP,01/11/2021,20:00,Arena Pantanal / Cuiaba
@@ -298,9 +298,9 @@ Game,Home,Away,Date,Time,Stadium
 297,Bahia / BA,São Paulo / SP,07/11/2021,18:15,Octávio Mangabeira / Salvador
 298,Red Bull Bragantino / SP,Athletico Paranaense / PR,07/11/2021,16:00,Nabi Abi Chedid / Braganca Paulista
 299,Chapecoense / SC,Flamengo / RJ,08/11/2021,20:00,Índio Condá / Chapeco
-300,Atlético / GO,Juventude / RS,23/11/2021,19:00,Antônio Accioly / Goiania
+300,Atlético Goianiense / GO,Juventude / RS,23/11/2021,19:00,Antônio Accioly / Goiania
 301,Flamengo / RJ,Bahia / BA,11/11/2021,19:00,Jornalista Mário Filho / Rio de Janeiro
-302,Palmeiras / SP,Atlético / GO,10/11/2021,20:30,Allianz Parque / Sao Paulo
+302,Palmeiras / SP,Atlético Goianiense / GO,10/11/2021,20:30,Allianz Parque / Sao Paulo
 303,Santos / SP,Red Bull Bragantino / SP,10/11/2021,19:00,Urbano Caldeira / Santos
 304,Atlético Mineiro / MG,Corinthians / SP,10/11/2021,19:00,Magalhães Pinto / Belo Horizonte
 305,Grêmio / RS,Fluminense / RJ,09/11/2021,21:30,Arena do Grêmio / Porto Alegre
@@ -318,11 +318,11 @@ Game,Home,Away,Date,Time,Stadium
 317,Bahia / BA,Atlético Mineiro / MG,02/12/2021,18:00,Octávio Mangabeira / Salvador
 318,Red Bull Bragantino / SP,Fortaleza / CE,13/11/2021,19:00,Nabi Abi Chedid / Braganca Paulista
 319,Chapecoense / SC,Juventude / RS,14/11/2021,19:00,Índio Condá / Chapeco
-320,Atlético / GO,Santos / SP,13/11/2021,17:00,Antônio Accioly / Goiania
+320,Atlético Goianiense / GO,Santos / SP,13/11/2021,17:00,Antônio Accioly / Goiania
 321,Flamengo / RJ,Corinthians / SP,17/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
 322,Palmeiras / SP,São Paulo / SP,17/11/2021,20:30,Allianz Parque / Sao Paulo
 323,Santos / SP,Chapecoense / SC,17/11/2021,19:00,Urbano Caldeira / Santos
-324,América / MG,Atlético / GO,17/11/2021,19:00,Raimundo Sampaio / Belo Horizonte
+324,América / MG,Atlético Goianiense / GO,17/11/2021,19:00,Raimundo Sampaio / Belo Horizonte
 325,Grêmio / RS,Red Bull Bragantino / SP,16/11/2021,18:00,Arena do Grêmio / Porto Alegre
 326,Fortaleza / CE,Ceará / CE,17/11/2021,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
 327,Sport / PE,Bahia / BA,18/11/2021,21:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
@@ -338,7 +338,7 @@ Game,Home,Away,Date,Time,Stadium
 337,Bahia / BA,Cuiabá / MT,21/11/2021,19:00,Octávio Mangabeira / Salvador
 338,Red Bull Bragantino / SP,Sport / PE,28/10/2021,19:00,Nabi Abi Chedid / Braganca Paulista
 339,Chapecoense / SC,Grêmio / RS,20/11/2021,19:00,Índio Condá / Chapeco
-340,Atlético / GO,Ceará / CE,20/11/2021,21:00,Antônio Accioly / Goiania
+340,Atlético Goianiense / GO,Ceará / CE,20/11/2021,21:00,Antônio Accioly / Goiania
 341,Fluminense / RJ,Internacional / RS,24/11/2021,21:30,Jornalista Mário Filho / Rio de Janeiro
 342,Palmeiras / SP,Atlético Mineiro / MG,23/11/2021,21:30,Allianz Parque / Sao Paulo
 343,Santos / SP,Fortaleza / CE,25/11/2021,19:00,Urbano Caldeira / Santos
@@ -348,7 +348,7 @@ Game,Home,Away,Date,Time,Stadium
 347,Sport / PE,Flamengo / RJ,03/12/2021,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 348,Athletico Paranaense / PR,Cuiabá / MT,03/12/2021,19:00,Joaquim Américo Guimarães / Curitiba
 349,Juventude / RS,Red Bull Bragantino / SP,30/11/2021,19:00,Alfredo Jaconi / Caxias do Sul
-350,Atlético / GO,Bahia / BA,29/11/2021,19:00,Antônio Accioly / Goiania
+350,Atlético Goianiense / GO,Bahia / BA,29/11/2021,19:00,Antônio Accioly / Goiania
 351,Flamengo / RJ,Ceará / CE,30/11/2021,20:00,Jornalista Mário Filho / Rio de Janeiro
 352,Corinthians / SP,Athletico Paranaense / PR,28/11/2021,16:00,Arena Corinthians / Sao Paulo
 353,São Paulo / SP,Sport / PE,27/11/2021,21:30,Cícero Pompeu de Toledo / Sao Paulo
@@ -357,13 +357,13 @@ Game,Home,Away,Date,Time,Stadium
 356,Fortaleza / CE,Juventude / RS,03/12/2021,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
 357,Bahia / BA,Grêmio / RS,26/11/2021,19:00,Octávio Mangabeira / Salvador
 358,Red Bull Bragantino / SP,América / MG,27/11/2021,19:30,Nabi Abi Chedid / Braganca Paulista
-359,Chapecoense / SC,Atlético / GO,03/12/2021,20:00,Índio Condá / Chapeco
+359,Chapecoense / SC,Atlético Goianiense / GO,03/12/2021,20:00,Índio Condá / Chapeco
 360,Cuiabá / MT,Palmeiras / SP,30/11/2021,22:00,Arena Pantanal / Cuiaba
 361,Flamengo / RJ,Santos / SP,06/12/2021,20:00,Jornalista Mário Filho / Rio de Janeiro
 362,Corinthians / SP,Grêmio / RS,05/12/2021,16:00,Arena Corinthians / Sao Paulo
 363,São Paulo / SP,Juventude / RS,06/12/2021,19:00,Cícero Pompeu de Toledo / Sao Paulo
 364,Atlético Mineiro / MG,Red Bull Bragantino / SP,05/12/2021,16:00,Magalhães Pinto / Belo Horizonte
-365,Internacional / RS,Atlético / GO,06/12/2021,20:00,José Pinheiro Borda / Porto Alegre
+365,Internacional / RS,Atlético Goianiense / GO,06/12/2021,20:00,José Pinheiro Borda / Porto Alegre
 366,Ceará / CE,América / MG,05/12/2021,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
 367,Bahia / BA,Fluminense / RJ,05/12/2021,16:00,Octávio Mangabeira / Salvador
 368,Athletico Paranaense / PR,Palmeiras / SP,06/12/2021,19:00,Joaquim Américo Guimarães / Curitiba
@@ -378,4 +378,4 @@ Game,Home,Away,Date,Time,Stadium
 377,Sport / PE,Athletico Paranaense / PR,09/12/2021,21:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 378,Red Bull Bragantino / SP,Internacional / RS,09/12/2021,21:30,Nabi Abi Chedid / Braganca Paulista
 379,Juventude / RS,Corinthians / SP,09/12/2021,21:30,Alfredo Jaconi / Caxias do Sul
-380,Atlético / GO,Flamengo / RJ,09/12/2021,21:30,Antônio Accioly / Goiania
+380,Atlético Goianiense / GO,Flamengo / RJ,09/12/2021,21:30,Antônio Accioly / Goiania

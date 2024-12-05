@@ -7,7 +7,7 @@ Game,Home,Away,Date,Time,Stadium
 006,Ceará / CE,Oeste / SP,19/04/2014,21:00,Governador Plácido Castelo / Fortaleza
 008,Vila Nova / GO,Luverdense / MT,18/04/2014,19:30,Serra Dourada / Goiânia
 009,América / RN,Avaí / SC,19/04/2014,21:00,Arena das Dunas / Natal
-010,Boa / MG,Atlético / GO,19/04/2014,16:20,Dilzon Melo / Varginha
+010,Boa / MG,Atlético Goianiense / GO,19/04/2014,16:20,Dilzon Melo / Varginha
 011,Oeste / SP,América / RN,26/04/2014,16:20,Estádio Municipal dos Amaros / Itápolis
 012,Portuguesa / SP,Santa Cruz / PE,26/04/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
 013,Paraná / PR,Joinville / SC,25/04/2014,21:00,Durival Britto e Silva / Curitiba
@@ -15,12 +15,12 @@ Game,Home,Away,Date,Time,Stadium
 015,Luverdense / MT,Vasco da Gama / RJ,26/04/2014,16:20,Arena Pantanal / Cuiabá
 016,Icasa / CE,Sampaio Corrêa / MA,25/04/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 017,Avaí / SC,Red Bull Bragantino / SP,22/04/2014,21:50,Aderbal Ramos da Silva / Florianópolis
-018,Atlético / GO,Ponte Preta / SP,26/04/2014,16:20,Serra Dourada / Goiânia
+018,Atlético Goianiense / GO,Ponte Preta / SP,26/04/2014,16:20,Serra Dourada / Goiânia
 019,ABC / RN,Boa / MG,26/04/2014,21:00,Iberezão / Santa Cruz
 020,América / MG,Ceará / CE,26/04/2014,21:00,Estádio Raimundo Sampaio / Belo Horizonte
 021,Red Bull Bragantino / SP,Portuguesa / SP,29/04/2014,21:50,Nabi Abi Chedid / Bragança Paulista
 022,Ponte Preta / SP,Luverdense / MT,03/05/2014,16:20,Moisés Lucarelli / Campinas
-023,Vasco da Gama / RJ,Atlético / GO,03/05/2014,16:20,São Januário / Rio de Janeiro
+023,Vasco da Gama / RJ,Atlético Goianiense / GO,03/05/2014,16:20,São Januário / Rio de Janeiro
 024,Santa Cruz / PE,Paraná / PR,02/05/2014,21:00,José do Rego Maciel / Recife
 025,Sampaio Corrêa / MA,Oeste / SP,03/05/2014,21:00,Estádio Governador João Castelo / São Luis
 026,Ceará / CE,Náutico / PE,03/05/2014,16:20,Governador Plácido Castelo / Fortaleza
@@ -36,7 +36,7 @@ Game,Home,Away,Date,Time,Stadium
 036,Ceará / CE,Paraná / PR,10/05/2014,21:00,Governador Plácido Castelo / Fortaleza
 037,Joinville / SC,Náutico / PE,10/05/2014,16:20,Arena Joinville / Joinville
 038,Vila Nova / GO,Icasa / CE,09/05/2014,21:00,Serra Dourada / Goiânia
-039,América / RN,Atlético / GO,10/05/2014,16:20,Arena das Dunas / Natal
+039,América / RN,Atlético Goianiense / GO,10/05/2014,16:20,Arena das Dunas / Natal
 040,Boa / MG,Portuguesa / SP,06/05/2014,21:50,Dilzon Melo / Varginha
 041,Oeste / SP,Ponte Preta / SP,13/05/2014,21:50,Estádio Municipal dos Amaros / Itápolis
 042,Portuguesa / SP,América / RN,17/05/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
@@ -45,7 +45,7 @@ Game,Home,Away,Date,Time,Stadium
 045,Luverdense / MT,Red Bull Bragantino / SP,17/05/2014,21:00,Municipal Passo das Emas / Lucas do R. Verde
 046,Icasa / CE,Santa Cruz / PE,17/05/2014,16:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 047,Avaí / SC,Ceará / CE,17/05/2014,16:20,Aderbal Ramos da Silva / Florianópolis
-048,Atlético / GO,Joinville / SC,17/05/2014,21:00,Serra Dourada / Goiânia
+048,Atlético Goianiense / GO,Joinville / SC,17/05/2014,21:00,Serra Dourada / Goiânia
 049,ABC / RN,Sampaio Corrêa / MA,17/05/2014,16:20,Iberezão / Santa Cruz
 050,América / MG,Vila Nova / GO,17/05/2014,16:20,Estádio Raimundo Sampaio / Belo Horizonte
 051,Oeste / SP,Santa Cruz / PE,20/05/2014,19:30,Estádio Municipal dos Amaros / Itápolis
@@ -55,11 +55,11 @@ Game,Home,Away,Date,Time,Stadium
 055,Luverdense / MT,Boa / MG,20/05/2014,21:50,Municipal Passo das Emas / Lucas do R. Verde
 056,Icasa / CE,Red Bull Bragantino / SP,20/05/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 057,Avaí / SC,Paraná / PR,20/05/2014,19:30,Aderbal Ramos da Silva / Florianópolis
-058,Atlético / GO,ABC / RN,20/05/2014,19:30,Serra Dourada / Goiânia
+058,Atlético Goianiense / GO,ABC / RN,20/05/2014,19:30,Serra Dourada / Goiânia
 059,América / RN,Ceará / CE,20/05/2014,21:50,Arena das Dunas / Natal
 060,América / MG,Joinville / SC,20/05/2014,19:30,Governador Magalhães Pinto / Belo Horizonte
 061,Red Bull Bragantino / SP,Oeste / SP,23/05/2014,19:30,Nabi Abi Chedid / Bragança Paulista
-062,Portuguesa / SP,Atlético / GO,24/05/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
+062,Portuguesa / SP,Atlético Goianiense / GO,24/05/2014,16:20,Dr. Oswaldo Teixeira Duarte / São Paulo
 063,Paraná / PR,Náutico / PE,24/05/2014,21:00,Durival Britto e Silva / Curitiba
 064,Santa Cruz / PE,América / MG,23/05/2014,19:30,Eládio de Barros Carvalho / Recife
 065,Sampaio Corrêa / MA,Luverdense / MT,24/05/2014,16:20,Estádio Governador João Castelo / São Luis
@@ -75,7 +75,7 @@ Game,Home,Away,Date,Time,Stadium
 075,Luverdense / MT,Icasa / CE,27/05/2014,21:50,Municipal Passo das Emas / Lucas do R. Verde
 076,Ceará / CE,Vila Nova / GO,27/05/2014,21:50,Horácio Domingos de Sousa / Horizonte
 077,Joinville / SC,América / RN,27/05/2014,19:30,Arena Joinville / Joinville
-078,Atlético / GO,América / MG,27/05/2014,21:50,Serra Dourada / Goiânia
+078,Atlético Goianiense / GO,América / MG,27/05/2014,21:50,Serra Dourada / Goiânia
 079,ABC / RN,Oeste / SP,27/05/2014,19:30,Iberezão / Santa Cruz
 080,Boa / MG,Santa Cruz / PE,27/05/2014,19:30,Dilzon Melo / Varginha
 081,Oeste / SP,Paraná / PR,30/05/2014,19:30,Estádio Municipal dos Amaros / Itápolis
@@ -83,7 +83,7 @@ Game,Home,Away,Date,Time,Stadium
 083,Vasco da Gama / RJ,Portuguesa / SP,31/05/2014,16:20,Estádio General Raulino de Oliveira / Volta Redonda
 084,Santa Cruz / PE,Joinville / SC,30/05/2014,21:50,Eládio de Barros Carvalho / Recife
 085,Sampaio Corrêa / MA,Ceará / CE,31/05/2014,16:20,Estádio Governador João Castelo / São Luis
-086,Icasa / CE,Atlético / GO,31/05/2014,21:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
+086,Icasa / CE,Atlético Goianiense / GO,31/05/2014,21:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 087,Avaí / SC,ABC / RN,30/05/2014,19:30,Aderbal Ramos da Silva / Florianópolis
 088,Vila Nova / GO,Red Bull Bragantino / SP,31/05/2014,21:00,Serra Dourada / Goiânia
 089,América / RN,Luverdense / MT,30/05/2014,19:30,José Nazareno do Nascimento  / Goianinha
@@ -95,7 +95,7 @@ Game,Home,Away,Date,Time,Stadium
 095,Sampaio Corrêa / MA,América / RN,03/06/2014,19:30,Estádio Governador João Castelo / São Luis
 096,Icasa / CE,Avaí / SC,03/06/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 097,Joinville / SC,Vila Nova / GO,06/06/2014,19:30,Arena Joinville / Joinville
-098,Atlético / GO,Oeste / SP,22/07/2014,19:30,Serra Dourada / Goiânia
+098,Atlético Goianiense / GO,Oeste / SP,22/07/2014,19:30,Serra Dourada / Goiânia
 099,ABC / RN,Náutico / PE,03/06/2014,21:50,Iberezão / Santa Cruz
 100,Boa / MG,Vasco da Gama / RJ,03/06/2014,21:50,Dilzon Melo / Varginha
 101,Oeste / SP,Icasa / CE,15/07/2014,21:50,Estádio Municipal dos Amaros / Itápolis
@@ -104,7 +104,7 @@ Game,Home,Away,Date,Time,Stadium
 104,Náutico / PE,Sampaio Corrêa / MA,15/07/2014,19:30,Arena Pernambuco / São Lourenço da Mata
 105,Luverdense / MT,ABC / RN,15/07/2014,21:50,Passo das Emas / Lucas do Rio Verde
 106,Ceará / CE,Joinville / SC,15/07/2014,21:50,Presidente Vargas / Fortaleza
-107,Avaí / SC,Atlético / GO,15/07/2014,19:30,Aderbal Ramos da Silva / Florianópolis
+107,Avaí / SC,Atlético Goianiense / GO,15/07/2014,19:30,Aderbal Ramos da Silva / Florianópolis
 108,Vila Nova / GO,Boa / MG,15/07/2014,19:30,Serra Dourada / Goiânia
 109,América / RN,Red Bull Bragantino / SP,15/07/2014,21:50,Arena das Dunas / Natal
 110,América / MG,Paraná / PR,15/07/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
@@ -112,7 +112,7 @@ Game,Home,Away,Date,Time,Stadium
 112,Portuguesa / SP,Paraná / PR,18/07/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
 113,Vasco da Gama / RJ,América / RN,19/07/2014,16:20,São Januário / Rio de Janeiro
 114,Náutico / PE,Boa / MG,19/07/2014,21:00,Arena Pernambuco / São Lourenço da Mata
-115,Luverdense / MT,Atlético / GO,19/07/2014,16:20,Passo das Emas / Lucas do Rio Verde
+115,Luverdense / MT,Atlético Goianiense / GO,19/07/2014,16:20,Passo das Emas / Lucas do Rio Verde
 116,Ceará / CE,Icasa / CE,19/07/2014,16:20,Governador Plácido Castelo / Fortaleza
 117,Avaí / SC,Ponte Preta / SP,18/07/2014,21:50,Aderbal Ramos da Silva / Florianópolis
 118,Vila Nova / GO,Santa Cruz / PE,19/07/2014,16:20,Serra Dourada / Goiânia
@@ -125,7 +125,7 @@ Game,Home,Away,Date,Time,Stadium
 125,Sampaio Corrêa / MA,Vila Nova / GO,26/07/2014,21:00,Estádio Governador João Castelo / São Luis
 126,Icasa / CE,Portuguesa / SP,22/07/2014,19:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 127,Joinville / SC,Avaí / SC,26/07/2014,16:20,Arena Joinville / Joinville
-128,Atlético / GO,Náutico / PE,26/07/2014,16:20,Serra Dourada / Goiânia
+128,Atlético Goianiense / GO,Náutico / PE,26/07/2014,16:20,Serra Dourada / Goiânia
 129,América / RN,América / MG,25/07/2014,21:00,Arena das Dunas / Natal
 130,Boa / MG,Red Bull Bragantino / SP,25/07/2014,21:00,Dilzon Melo / Varginha
 131,Red Bull Bragantino / SP,Joinville / SC,02/08/2014,16:20,Nabi Abi Chedid / Bragança Paulista
@@ -135,7 +135,7 @@ Game,Home,Away,Date,Time,Stadium
 135,Sampaio Corrêa / MA,Ponte Preta / SP,02/08/2014,16:20,Estádio Governador João Castelo / São Luis
 136,Ceará / CE,Boa / MG,02/08/2014,21:00,Presidente Vargas / Fortaleza
 137,Avaí / SC,Luverdense / MT,01/08/2014,21:00,Aderbal Ramos da Silva / Florianópolis
-138,Vila Nova / GO,Atlético / GO,01/08/2014,21:00,Serra Dourada / Goiânia
+138,Vila Nova / GO,Atlético Goianiense / GO,01/08/2014,21:00,Serra Dourada / Goiânia
 139,América / RN,Santa Cruz / PE,02/08/2014,16:20,Arena das Dunas / Natal
 140,América / MG,ABC / RN,02/08/2014,16:20,Estádio Raimundo Sampaio / Belo Horizonte
 141,Oeste / SP,Avaí / SC,09/08/2014,21:00,Estádio Municipal dos Amaros / Itápolis
@@ -145,7 +145,7 @@ Game,Home,Away,Date,Time,Stadium
 145,Luverdense / MT,Portuguesa / SP,05/08/2014,19:30,Passo das Emas / Lucas do Rio Verde
 146,Icasa / CE,América / MG,08/08/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 147,Joinville / SC,Sampaio Corrêa / MA,05/08/2014,21:00,Arena Joinville / Joinville
-148,Atlético / GO,Ceará / CE,08/08/2014,19:30,Serra Dourada / Goiânia
+148,Atlético Goianiense / GO,Ceará / CE,08/08/2014,19:30,Serra Dourada / Goiânia
 149,ABC / RN,Vasco da Gama / RJ,09/08/2014,16:20,Arena das Dunas / Natal
 150,Boa / MG,América / RN,09/08/2014,21:00,Dilzon Melo / Varginha
 151,Oeste / SP,Vila Nova / GO,16/08/2014,21:00,Estádio Municipal dos Amaros / Itápolis
@@ -155,10 +155,10 @@ Game,Home,Away,Date,Time,Stadium
 155,Luverdense / MT,Náutico / PE,16/08/2014,16:20,Arena Pantanal / Cuiabá
 156,Icasa / CE,América / RN,16/08/2014,16:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 157,Avaí / SC,América / MG,12/08/2014,21:00,Aderbal Ramos da Silva / Florianópolis
-158,Atlético / GO,Paraná / PR,15/08/2014,19:30,Serra Dourada / Goiânia
+158,Atlético Goianiense / GO,Paraná / PR,15/08/2014,19:30,Serra Dourada / Goiânia
 159,ABC / RN,Portuguesa / SP,12/08/2014,19:30,Arena das Dunas / Natal
 160,Boa / MG,Sampaio Corrêa / MA,16/08/2014,21:00,Dilzon Melo / Varginha
-161,Red Bull Bragantino / SP,Atlético / GO,19/08/2014,21:50,Nabi Abi Chedid / Bragança Paulista
+161,Red Bull Bragantino / SP,Atlético Goianiense / GO,19/08/2014,21:50,Nabi Abi Chedid / Bragança Paulista
 162,Portuguesa / SP,Avaí / SC,19/08/2014,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
 163,Paraná / PR,Icasa / CE,19/08/2014,19:30,Durival Britto e Silva / Curitiba
 164,Náutico / PE,Oeste / SP,19/08/2014,19:30,Arena Pernambuco / São Lourenço da Mata
@@ -175,13 +175,13 @@ Game,Home,Away,Date,Time,Stadium
 175,Luverdense / MT,Joinville / SC,23/08/2014,21:00,Passo das Emas / Lucas do Rio Verde
 176,Icasa / CE,Vasco da Gama / RJ,22/08/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 177,Avaí / SC,Santa Cruz / PE,23/08/2014,16:10,Aderbal Ramos da Silva / Florianópolis
-178,Atlético / GO,Sampaio Corrêa / MA,23/08/2014,16:10,Serra Dourada / Goiânia
+178,Atlético Goianiense / GO,Sampaio Corrêa / MA,23/08/2014,16:10,Serra Dourada / Goiânia
 179,ABC / RN,Vila Nova / GO,23/08/2014,21:00,Maria Lamas Farache / Natal
 180,América / MG,Ponte Preta / SP,22/08/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
 181,Red Bull Bragantino / SP,ABC / RN,30/08/2014,16:10,Nabi Abi Chedid / Bragança Paulista
 182,Ponte Preta / SP,Náutico / PE,30/08/2014,16:10,Moisés Lucarelli / Campinas
 183,Vasco da Gama / RJ,Avaí / SC,30/08/2014,16:10,São Januário / Rio de Janeiro
-184,Santa Cruz / PE,Atlético / GO,29/08/2014,20:30,José do Rego Maciel / Recife
+184,Santa Cruz / PE,Atlético Goianiense / GO,29/08/2014,20:30,José do Rego Maciel / Recife
 185,Sampaio Corrêa / MA,América / MG,29/08/2014,20:30,Estádio Governador João Castelo / São Luis
 186,Ceará / CE,Luverdense / MT,30/08/2014,21:00,Governador Plácido Castelo / Fortaleza
 187,Joinville / SC,Oeste / SP,29/08/2014,20:30,Arena Joinville / Joinville
@@ -195,11 +195,11 @@ Game,Home,Away,Date,Time,Stadium
 195,Luverdense / MT,Vila Nova / GO,06/09/2014,21:00,Passo das Emas / Lucas do Rio Verde
 196,Icasa / CE,Ponte Preta / SP,05/09/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 197,Avaí / SC,América / RN,06/09/2014,16:10,Aderbal Ramos da Silva / Florianópolis
-198,Atlético / GO,Boa / MG,02/09/2014,19:30,Serra Dourada / Goiânia
+198,Atlético Goianiense / GO,Boa / MG,02/09/2014,19:30,Serra Dourada / Goiânia
 199,ABC / RN,Santa Cruz / PE,06/09/2014,16:10,Arena das Dunas / Natal
 200,América / MG,Vasco da Gama / RJ,06/09/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
 201,Red Bull Bragantino / SP,Avaí / SC,09/09/2014,19:30,Nabi Abi Chedid / Bragança Paulista
-202,Ponte Preta / SP,Atlético / GO,09/09/2014,17:00,Moisés Lucarelli / Campinas
+202,Ponte Preta / SP,Atlético Goianiense / GO,09/09/2014,17:00,Moisés Lucarelli / Campinas
 203,Vasco da Gama / RJ,Luverdense / MT,09/09/2014,19:30,São Januário / Rio de Janeiro
 204,Santa Cruz / PE,Portuguesa / SP,09/09/2014,19:30,José do Rego Maciel / Recife
 205,Sampaio Corrêa / MA,Icasa / CE,09/09/2014,19:30,Estádio Governador João Castelo / São Luis
@@ -215,7 +215,7 @@ Game,Home,Away,Date,Time,Stadium
 215,Luverdense / MT,Ponte Preta / SP,12/09/2014,21:50,Passo das Emas / Lucas do Rio Verde
 216,Icasa / CE,Joinville / SC,12/09/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 217,Avaí / SC,Vila Nova / GO,13/09/2014,21:00,Aderbal Ramos da Silva / Florianópolis
-218,Atlético / GO,Vasco da Gama / RJ,13/09/2014,16:10,Estádio Nacional / Brasília
+218,Atlético Goianiense / GO,Vasco da Gama / RJ,13/09/2014,16:10,Estádio Nacional / Brasília
 219,ABC / RN,América / RN,13/09/2014,16:10,Arena das Dunas / Natal
 220,América / MG,Boa / MG,13/09/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
 221,Oeste / SP,Vasco da Gama / RJ,16/09/2014,21:50,Arena da Amazônia / Manaus
@@ -225,7 +225,7 @@ Game,Home,Away,Date,Time,Stadium
 225,Luverdense / MT,Santa Cruz / PE,16/09/2014,21:50,Passo das Emas / Lucas do Rio Verde
 226,Icasa / CE,Vila Nova / GO,16/09/2014,21:50,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 227,Avaí / SC,Sampaio Corrêa / MA,16/09/2014,19:30,Aderbal Ramos da Silva / Florianópolis
-228,Atlético / GO,América / RN,16/09/2014,19:30,Serra Dourada / Goiânia
+228,Atlético Goianiense / GO,América / RN,16/09/2014,19:30,Serra Dourada / Goiânia
 229,ABC / RN,Ponte Preta / SP,16/09/2014,21:50,Arena das Dunas / Natal
 230,América / MG,Red Bull Bragantino / SP,16/09/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
 231,Red Bull Bragantino / SP,Luverdense / MT,20/09/2014,21:00,Nabi Abi Chedid / Bragança Paulista
@@ -234,7 +234,7 @@ Game,Home,Away,Date,Time,Stadium
 234,Santa Cruz / PE,Icasa / CE,20/09/2014,16:10,José do Rego Maciel / Recife
 235,Sampaio Corrêa / MA,ABC / RN,20/09/2014,16:10,Estádio Governador João Castelo / São Luis
 236,Ceará / CE,Avaí / SC,19/09/2014,21:50,Governador Plácido Castelo / Fortaleza
-237,Joinville / SC,Atlético / GO,20/09/2014,16:10,Arena Joinville / Joinville
+237,Joinville / SC,Atlético Goianiense / GO,20/09/2014,16:10,Arena Joinville / Joinville
 238,Vila Nova / GO,América / MG,20/09/2014,16:10,Serra Dourada / Goiânia
 239,América / RN,Portuguesa / SP,19/09/2014,19:30,Arena das Dunas / Natal
 240,Boa / MG,Paraná / PR,20/09/2014,21:00,Dilzon Melo / Varginha
@@ -246,7 +246,7 @@ Game,Home,Away,Date,Time,Stadium
 246,Ceará / CE,América / RN,23/09/2014,21:50,Governador Plácido Castelo / Fortaleza
 247,Joinville / SC,América / MG,23/09/2014,19:30,Arena Joinville / Joinville
 248,Vila Nova / GO,Ponte Preta / SP,23/09/2014,19:30,Serra Dourada / Goiânia
-249,ABC / RN,Atlético / GO,23/09/2014,19:30,Maria Lamas Farache / Natal
+249,ABC / RN,Atlético Goianiense / GO,23/09/2014,19:30,Maria Lamas Farache / Natal
 250,Boa / MG,Luverdense / MT,23/09/2014,19:30,Dilzon Melo / Varginha
 251,Oeste / SP,Red Bull Bragantino / SP,27/09/2014,16:10,Estádio Municipal dos Amaros / Itápolis
 252,Ponte Preta / SP,Ceará / CE,27/09/2014,16:10,Moisés Lucarelli / Campinas
@@ -255,7 +255,7 @@ Game,Home,Away,Date,Time,Stadium
 255,Luverdense / MT,Sampaio Corrêa / MA,26/09/2014,19:30,Passo das Emas / Lucas do Rio Verde
 256,Icasa / CE,ABC / RN,27/09/2014,21:00,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 257,Avaí / SC,Boa / MG,27/09/2014,16:10,Aderbal Ramos da Silva / Florianópolis
-258,Atlético / GO,Portuguesa / SP,27/09/2014,21:00,Serra Dourada / Goiânia
+258,Atlético Goianiense / GO,Portuguesa / SP,27/09/2014,21:00,Serra Dourada / Goiânia
 259,América / RN,Vila Nova / GO,26/09/2014,19:30,Arena das Dunas / Natal
 260,América / MG,Santa Cruz / PE,27/09/2014,16:10,Estádio Raimundo Sampaio / Belo Horizonte
 261,Oeste / SP,ABC / RN,04/10/2014,21:00,Estádio Municipal dos Amaros / Itápolis
@@ -267,7 +267,7 @@ Game,Home,Away,Date,Time,Stadium
 267,Avaí / SC,Náutico / PE,04/10/2014,16:20,Aderbal Ramos da Silva / Florianópolis
 268,Vila Nova / GO,Ceará / CE,30/09/2014,19:30,Serra Dourada / Goiânia
 269,América / RN,Joinville / SC,04/10/2014,21:00,Arena das Dunas / Natal
-270,América / MG,Atlético / GO,03/10/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
+270,América / MG,Atlético Goianiense / GO,03/10/2014,19:30,Estádio Raimundo Sampaio / Belo Horizonte
 271,Red Bull Bragantino / SP,Vila Nova / GO,07/10/2014,19:30,Nabi Abi Chedid / Bragança Paulista
 272,Portuguesa / SP,Vasco da Gama / RJ,07/10/2014,21:50,Dr. Oswaldo Teixeira Duarte / São Paulo
 273,Paraná / PR,Oeste / SP,07/10/2014,19:30,Durival Britto e Silva / Curitiba
@@ -275,10 +275,10 @@ Game,Home,Away,Date,Time,Stadium
 275,Luverdense / MT,América / RN,07/10/2014,21:50,Passo das Emas / Lucas do Rio Verde
 276,Ceará / CE,Sampaio Corrêa / MA,07/10/2014,19:30,Governador Plácido Castelo / Fortaleza
 277,Joinville / SC,Santa Cruz / PE,07/10/2014,21:50,Arena Joinville / Joinville
-278,Atlético / GO,Icasa / CE,07/10/2014,19:30,Serra Dourada / Goiânia
+278,Atlético Goianiense / GO,Icasa / CE,07/10/2014,19:30,Serra Dourada / Goiânia
 279,ABC / RN,Avaí / SC,07/10/2014,21:50,Maria Lamas Farache / Natal
 280,Boa / MG,Ponte Preta / SP,07/10/2014,19:30,Dilzon Melo / Varginha
-281,Oeste / SP,Atlético / GO,10/10/2014,19:30,Estádio Municipal dos Amaros / Itápolis
+281,Oeste / SP,Atlético Goianiense / GO,10/10/2014,19:30,Estádio Municipal dos Amaros / Itápolis
 282,Ponte Preta / SP,Santa Cruz / PE,11/10/2014,16:10,Moisés Lucarelli / Campinas
 283,Vasco da Gama / RJ,Boa / MG,10/10/2014,19:30,São Januário / Rio de Janeiro
 284,Náutico / PE,ABC / RN,11/10/2014,16:10,Arena Pernambuco / São Lourenço da Mata
@@ -295,7 +295,7 @@ Game,Home,Away,Date,Time,Stadium
 295,Sampaio Corrêa / MA,Náutico / PE,18/10/2014,16:10,Estádio Governador João Castelo / São Luis
 296,Icasa / CE,Oeste / SP,17/10/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 297,Joinville / SC,Ceará / CE,18/10/2014,16:10,Arena Joinville / Joinville
-298,Atlético / GO,Avaí / SC,14/10/2014,21:00,Serra Dourada / Goiânia
+298,Atlético Goianiense / GO,Avaí / SC,14/10/2014,21:00,Serra Dourada / Goiânia
 299,ABC / RN,Luverdense / MT,18/10/2014,21:00,Maria Lamas Farache / Natal
 300,Boa / MG,Vila Nova / GO,14/10/2014,19:30,Dilzon Melo / Varginha
 301,Oeste / SP,América / MG,21/10/2014,19:30,Estádio Municipal dos Amaros / Itápolis
@@ -305,13 +305,13 @@ Game,Home,Away,Date,Time,Stadium
 305,Sampaio Corrêa / MA,Red Bull Bragantino / SP,21/10/2014,19:30,Estádio Governador João Castelo / São Luis
 306,Icasa / CE,Ceará / CE,21/10/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 307,Joinville / SC,ABC / RN,21/10/2014,21:50,Arena Joinville / Joinville
-308,Atlético / GO,Luverdense / MT,21/10/2014,21:50,Serra Dourada / Goiânia
+308,Atlético Goianiense / GO,Luverdense / MT,21/10/2014,21:50,Serra Dourada / Goiânia
 309,América / RN,Vasco da Gama / RJ,21/10/2014,19:30,Arena das Dunas / Natal
 310,Boa / MG,Náutico / PE,21/10/2014,21:50,Dilzon Melo / Varginha
 311,Red Bull Bragantino / SP,Boa / MG,25/10/2014,16:20,Nabi Abi Chedid / Bragança Paulista
 312,Portuguesa / SP,Icasa / CE,24/10/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
 313,Vasco da Gama / RJ,Ponte Preta / SP,25/10/2014,16:20,São Januário / Rio de Janeiro
-314,Náutico / PE,Atlético / GO,25/10/2014,17:20,Arena Pernambuco / São Lourenço da Mata
+314,Náutico / PE,Atlético Goianiense / GO,25/10/2014,17:20,Arena Pernambuco / São Lourenço da Mata
 315,Luverdense / MT,Oeste / SP,25/10/2014,21:00,Passo das Emas / Lucas do Rio Verde
 316,Ceará / CE,Santa Cruz / PE,24/10/2014,21:50,Governador Plácido Castelo / Fortaleza
 317,Avaí / SC,Joinville / SC,24/10/2014,19:30,Aderbal Ramos da Silva / Florianópolis
@@ -325,7 +325,7 @@ Game,Home,Away,Date,Time,Stadium
 325,Luverdense / MT,Avaí / SC,28/10/2014,21:50,Passo das Emas / Lucas do Rio Verde
 326,Icasa / CE,Náutico / PE,01/11/2014,17:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 327,Joinville / SC,Red Bull Bragantino / SP,28/10/2014,21:50,Arena Joinville / Joinville
-328,Atlético / GO,Vila Nova / GO,31/10/2014,19:30,Serra Dourada / Goiânia
+328,Atlético Goianiense / GO,Vila Nova / GO,31/10/2014,19:30,Serra Dourada / Goiânia
 329,ABC / RN,América / MG,01/11/2014,17:20,Maria Lamas Farache / Natal
 330,Boa / MG,Ceará / CE,01/11/2014,21:00,Dilzon Melo / Varginha
 331,Red Bull Bragantino / SP,Ponte Preta / SP,08/11/2014,16:20,Nabi Abi Chedid / Bragança Paulista
@@ -333,14 +333,14 @@ Game,Home,Away,Date,Time,Stadium
 333,Vasco da Gama / RJ,ABC / RN,08/11/2014,16:20,Jornalista Mario Filho / Rio de Janeiro
 334,Náutico / PE,Santa Cruz / PE,08/11/2014,17:20,Arena Pernambuco / São Lourenço da Mata
 335,Sampaio Corrêa / MA,Joinville / SC,04/11/2014,21:50,Estádio Governador João Castelo / São Luis
-336,Ceará / CE,Atlético / GO,07/11/2014,21:00,Governador Plácido Castelo / Fortaleza
+336,Ceará / CE,Atlético Goianiense / GO,07/11/2014,21:00,Governador Plácido Castelo / Fortaleza
 337,Avaí / SC,Oeste / SP,04/11/2014,19:30,Aderbal Ramos da Silva / Florianópolis
 338,Vila Nova / GO,Paraná / PR,08/11/2014,21:00,Serra Dourada / Goiânia
 339,América / RN,Boa / MG,07/11/2014,19:30,Arena das Dunas / Natal
 340,América / MG,Icasa / CE,08/11/2014,17:20,Estádio Raimundo Sampaio / Belo Horizonte
 341,Red Bull Bragantino / SP,Santa Cruz / PE,15/11/2014,17:20,Nabi Abi Chedid / Bragança Paulista
 342,Portuguesa / SP,ABC / RN,11/11/2014,19:30,Dr. Oswaldo Teixeira Duarte / São Paulo
-343,Paraná / PR,Atlético / GO,11/11/2014,21:00,Durival Britto e Silva / Curitiba
+343,Paraná / PR,Atlético Goianiense / GO,11/11/2014,21:00,Durival Britto e Silva / Curitiba
 344,Náutico / PE,Luverdense / MT,15/11/2014,17:20,Arena Pernambuco / São Lourenço da Mata
 345,Sampaio Corrêa / MA,Boa / MG,15/11/2014,21:00,Estádio Governador João Castelo / São Luis
 346,Ceará / CE,Vasco da Gama / RJ,15/11/2014,16:20,Governador Plácido Castelo / Fortaleza
@@ -355,14 +355,14 @@ Game,Home,Away,Date,Time,Stadium
 355,Luverdense / MT,América / MG,18/11/2014,21:50,Passo das Emas / Lucas do Rio Verde
 356,Icasa / CE,Paraná / PR,18/11/2014,19:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 357,Avaí / SC,Portuguesa / SP,18/11/2014,19:30,Aderbal Ramos da Silva / Florianópolis
-358,Atlético / GO,Red Bull Bragantino / SP,18/11/2014,19:30,Serra Dourada / Goiânia
+358,Atlético Goianiense / GO,Red Bull Bragantino / SP,18/11/2014,19:30,Serra Dourada / Goiânia
 359,ABC / RN,Ceará / CE,18/11/2014,21:50,Arena das Dunas / Natal
 360,Boa / MG,Joinville / SC,18/11/2014,21:50,Dilzon Melo / Varginha
 361,Red Bull Bragantino / SP,Paraná / PR,21/11/2014,21:00,Nabi Abi Chedid / Bragança Paulista
 362,Ponte Preta / SP,América / MG,22/11/2014,16:20,Moisés Lucarelli / Campinas
 363,Vasco da Gama / RJ,Icasa / CE,22/11/2014,16:20,Jornalista Mario Filho / Rio de Janeiro
 364,Santa Cruz / PE,Avaí / SC,22/11/2014,17:20,José do Rego Maciel / Recife
-365,Sampaio Corrêa / MA,Atlético / GO,22/11/2014,21:00,Estádio Governador João Castelo / São Luis
+365,Sampaio Corrêa / MA,Atlético Goianiense / GO,22/11/2014,21:00,Estádio Governador João Castelo / São Luis
 366,Ceará / CE,Portuguesa / SP,22/11/2014,21:00,Governador Plácido Castelo / Fortaleza
 367,Joinville / SC,Luverdense / MT,22/11/2014,16:20,Arena Joinville / Joinville
 368,Vila Nova / GO,ABC / RN,21/11/2014,21:00,Serra Dourada / Goiânia
@@ -375,6 +375,6 @@ Game,Home,Away,Date,Time,Stadium
 375,Luverdense / MT,Ceará / CE,29/11/2014,16:20,Passo das Emas / Lucas do Rio Verde
 376,Icasa / CE,Boa / MG,29/11/2014,16:20,Mauro Castelo Branco Sampaio / Juazeiro do Norte
 377,Avaí / SC,Vasco da Gama / RJ,29/11/2014,16:20,Aderbal Ramos da Silva / Florianópolis
-378,Atlético / GO,Santa Cruz / PE,29/11/2014,16:20,Serra Dourada / Goiânia
+378,Atlético Goianiense / GO,Santa Cruz / PE,29/11/2014,16:20,Serra Dourada / Goiânia
 379,ABC / RN,Red Bull Bragantino / SP,29/11/2014,16:20,Maria Lamas Farache / Natal
 380,América / MG,Sampaio Corrêa / MA,29/11/2014,16:20,Estádio Raimundo Sampaio / Belo Horizonte

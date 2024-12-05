@@ -5,7 +5,7 @@ Game,Home,Away,Date,Time,Stadium
 004,Figueirense / SC,Juventude / RS,13/04/2018,21:30,Orlando Scarpelli / Florianopolis
 005,Fortaleza / CE,Guarani / SP,13/04/2018,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
 006,Vila Nova / GO,Avaí / SC,14/04/2018,16:30,Serra Dourada / Goiania
-007,Atlético / GO,Criciúma / SC,13/04/2018,20:30,Olímpico Pedro Ludovico / Goiania
+007,Atlético Goianiense / GO,Criciúma / SC,13/04/2018,20:30,Olímpico Pedro Ludovico / Goiania
 008,CSA / AL,Goiás / GO,14/04/2018,16:30,Rei Pelé / Maceio
 009,Londrina / PR,Boa / MG,14/04/2018,16:30,Jacy Scaff / Londrina
 010,Sampaio Corrêa / MA,Coritiba / PR,14/04/2018,19:00,Governador João Castelo / Sao Luis
@@ -17,7 +17,7 @@ Game,Home,Away,Date,Time,Stadium
 016,Goiás / GO,Figueirense / SC,21/04/2018,16:30,Serra Dourada / Goiania
 017,Boa / MG,Fortaleza / CE,17/04/2018,19:15,Dilzon Luís de Melo / Varginha
 018,CRB / AL,Vila Nova / GO,21/04/2018,16:30,Rei Pelé / Maceio
-019,Coritiba / PR,Atlético / GO,17/04/2018,21:30,Major Antônio Couto Pereira / Curitiba
+019,Coritiba / PR,Atlético Goianiense / GO,17/04/2018,21:30,Major Antônio Couto Pereira / Curitiba
 020,Paysandu / PA,Londrina / PR,20/04/2018,21:30,Leônidas Sobré de Castro / Belem
 021,Ponte Preta / SP,Londrina / PR,28/04/2018,19:00,Moisés Lucarelli / Campinas
 022,São Bento / SP,Goiás / GO,28/04/2018,21:00,Walter Ribeiro / Sorocaba
@@ -25,7 +25,7 @@ Game,Home,Away,Date,Time,Stadium
 024,Figueirense / SC,Boa / MG,27/04/2018,19:15,Orlando Scarpelli / Florianopolis
 025,Fortaleza / CE,CRB / AL,24/04/2018,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 026,Vila Nova / GO,Sampaio Corrêa / MA,28/04/2018,16:30,Serra Dourada / Goiania
-027,Atlético / GO,Guarani / SP,24/04/2018,19:15,Olímpico Pedro Ludovico / Goiania
+027,Atlético Goianiense / GO,Guarani / SP,24/04/2018,19:15,Olímpico Pedro Ludovico / Goiania
 028,CSA / AL,Oeste / SP,27/04/2018,20:30,Rei Pelé / Maceio
 029,Coritiba / PR,Criciúma / SC,27/04/2018,21:30,Major Antônio Couto Pereira / Curitiba
 030,Paysandu / PA,Brasil / RS,28/04/2018,16:30,Leônidas Sobré de Castro / Belem
@@ -36,7 +36,7 @@ Game,Home,Away,Date,Time,Stadium
 035,Criciúma / SC,CSA / AL,01/05/2018,16:00,Heriberto Hulse / Criciuma
 036,Goiás / GO,Vila Nova / GO,05/05/2018,16:30,Serra Dourada / Goiania
 037,Boa / MG,Juventude / RS,01/05/2018,16:00,Dilzon Luís de Melo / Varginha
-038,CRB / AL,Atlético / GO,04/05/2018,20:30,Rei Pelé / Maceio
+038,CRB / AL,Atlético Goianiense / GO,04/05/2018,20:30,Rei Pelé / Maceio
 039,Londrina / PR,Fortaleza / CE,01/05/2018,16:30,Jacy Scaff / Londrina
 040,Sampaio Corrêa / MA,Paysandu / PA,04/05/2018,19:15,Governador João Castelo / Sao Luis
 041,Guarani / SP,Criciúma / SC,08/05/2018,19:15,Brinco de Ouro da Princesa / Campinas
@@ -45,11 +45,11 @@ Game,Home,Away,Date,Time,Stadium
 044,Figueirense / SC,Avaí / SC,12/05/2018,16:30,Orlando Scarpelli / Florianopolis
 045,Fortaleza / CE,Goiás / GO,12/05/2018,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
 046,Vila Nova / GO,Ponte Preta / SP,13/05/2018,16:00,Serra Dourada / Goiania
-047,Atlético / GO,Londrina / PR,11/05/2018,21:30,Olímpico Pedro Ludovico / Goiania
+047,Atlético Goianiense / GO,Londrina / PR,11/05/2018,21:30,Olímpico Pedro Ludovico / Goiania
 048,CSA / AL,Boa / MG,12/05/2018,16:30,Rei Pelé / Maceio
 049,Coritiba / PR,Brasil / RS,08/05/2018,21:30,Major Antônio Couto Pereira / Curitiba
 050,Sampaio Corrêa / MA,CRB / AL,07/05/2018,20:30,Governador João Castelo / Sao Luis
-051,Ponte Preta / SP,Atlético / GO,19/05/2018,16:30,Nabi Abi Chedid / Braganca Paulista
+051,Ponte Preta / SP,Atlético Goianiense / GO,19/05/2018,16:30,Nabi Abi Chedid / Braganca Paulista
 052,Oeste / SP,Vila Nova / GO,19/05/2018,16:30,Arena Barueri / Barueri
 053,Brasil / RS,Sampaio Corrêa / MA,19/05/2018,21:00,Bento da Silva Freitas / Pelotas
 054,Figueirense / SC,Fortaleza / CE,18/05/2018,21:30,Orlando Scarpelli / Florianopolis
@@ -65,7 +65,7 @@ Game,Home,Away,Date,Time,Stadium
 064,Avaí / SC,Paysandu / PA,25/05/2018,19:15,Aderbal Ramos da Silva / Florianopolis
 065,Fortaleza / CE,Criciúma / SC,22/05/2018,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 066,Goiás / GO,Boa / MG,26/05/2018,16:30,Serra Dourada / Goiania
-067,Atlético / GO,Oeste / SP,25/05/2018,19:15,Olímpico Pedro Ludovico / Goiania
+067,Atlético Goianiense / GO,Oeste / SP,25/05/2018,19:15,Olímpico Pedro Ludovico / Goiania
 068,CSA / AL,Figueirense / SC,22/05/2018,19:15,Rei Pelé / Maceio
 069,Coritiba / PR,Vila Nova / GO,25/05/2018,21:30,Major Antônio Couto Pereira / Curitiba
 070,Sampaio Corrêa / MA,Ponte Preta / SP,28/05/2018,20:00,Governador João Castelo / Sao Luis
@@ -75,13 +75,13 @@ Game,Home,Away,Date,Time,Stadium
 074,Avaí / SC,Criciúma / SC,01/06/2018,21:30,Aderbal Ramos da Silva / Florianopolis
 075,Fortaleza / CE,Sampaio Corrêa / MA,02/06/2018,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
 076,Vila Nova / GO,CSA / AL,01/06/2018,20:30,Serra Dourada / Goiania
-077,Atlético / GO,Goiás / GO,02/06/2018,16:30,Olímpico Pedro Ludovico / Goiania
+077,Atlético Goianiense / GO,Goiás / GO,02/06/2018,16:30,Olímpico Pedro Ludovico / Goiania
 078,CRB / AL,Brasil / RS,02/06/2018,16:30,Rei Pelé / Maceio
 079,Londrina / PR,Coritiba / PR,29/05/2018,21:30,Jacy Scaff / Londrina
 080,Paysandu / PA,Boa / MG,01/06/2018,21:30,Leônidas Sobré de Castro / Belem
 081,Ponte Preta / SP,Goiás / GO,05/06/2018,21:30,Moisés Lucarelli / Campinas
 082,Oeste / SP,Brasil / RS,05/06/2018,21:30,Arena Barueri / Barueri
-083,Juventude / RS,Atlético / GO,05/06/2018,19:15,Alfredo Jaconi / Caxias do Sul
+083,Juventude / RS,Atlético Goianiense / GO,05/06/2018,19:15,Alfredo Jaconi / Caxias do Sul
 084,Figueirense / SC,Londrina / PR,05/06/2018,19:15,Orlando Scarpelli / Florianopolis
 085,Criciúma / SC,Paysandu / PA,05/06/2018,19:15,Heriberto Hulse / Criciuma
 086,Vila Nova / GO,Fortaleza / CE,05/06/2018,21:30,Serra Dourada / Goiania
@@ -95,7 +95,7 @@ Game,Home,Away,Date,Time,Stadium
 094,Avaí / SC,Coritiba / PR,08/06/2018,21:30,Aderbal Ramos da Silva / Florianopolis
 095,Criciúma / SC,Boa / MG,09/06/2018,16:30,Heriberto Hulse / Criciuma
 096,Goiás / GO,Paysandu / PA,08/06/2018,20:30,Olímpico Pedro Ludovico / Goiania
-097,Atlético / GO,Figueirense / SC,09/06/2018,19:00,Olímpico Pedro Ludovico / Goiania
+097,Atlético Goianiense / GO,Figueirense / SC,09/06/2018,19:00,Olímpico Pedro Ludovico / Goiania
 098,CSA / AL,CRB / AL,09/06/2018,16:30,Rei Pelé / Maceio
 099,Londrina / PR,Juventude / RS,08/06/2018,19:15,Jacy Scaff / Londrina
 100,Sampaio Corrêa / MA,Oeste / SP,09/06/2018,16:30,Governador João Castelo / Sao Luis
@@ -104,7 +104,7 @@ Game,Home,Away,Date,Time,Stadium
 103,Juventude / RS,Coritiba / PR,11/06/2018,18:00,Alfredo Jaconi / Caxias do Sul
 104,Figueirense / SC,Sampaio Corrêa / MA,12/06/2018,20:30,Orlando Scarpelli / Florianopolis
 105,Fortaleza / CE,Brasil / RS,15/06/2018,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
-106,Vila Nova / GO,Atlético / GO,16/06/2018,18:30,Serra Dourada / Goiania
+106,Vila Nova / GO,Atlético Goianiense / GO,16/06/2018,18:30,Serra Dourada / Goiania
 107,Boa / MG,Avaí / SC,15/06/2018,20:30,Dilzon Luís de Melo / Varginha
 108,CRB / AL,Ponte Preta / SP,15/06/2018,21:30,Rei Pelé / Maceio
 109,Londrina / PR,Goiás / GO,12/06/2018,18:00,Jacy Scaff / Londrina
@@ -118,14 +118,14 @@ Game,Home,Away,Date,Time,Stadium
 117,Boa / MG,Vila Nova / GO,23/06/2018,19:00,Dilzon Luís de Melo / Varginha
 118,CRB / AL,Paysandu / PA,23/06/2018,21:00,Rei Pelé / Maceio
 119,Coritiba / PR,Figueirense / SC,23/06/2018,18:30,Major Antônio Couto Pereira / Curitiba
-120,Sampaio Corrêa / MA,Atlético / GO,23/06/2018,19:00,Governador João Castelo / Sao Luis
+120,Sampaio Corrêa / MA,Atlético Goianiense / GO,23/06/2018,19:00,Governador João Castelo / Sao Luis
 121,Guarani / SP,Boa / MG,29/06/2018,21:30,Brinco de Ouro da Princesa / Campinas
 122,Oeste / SP,Avaí / SC,26/06/2018,20:30,Arena Barueri / Barueri
 123,Juventude / RS,Vila Nova / GO,26/06/2018,19:15,Alfredo Jaconi / Caxias do Sul
 124,Figueirense / SC,Ponte Preta / SP,30/06/2018,18:00,Orlando Scarpelli / Florianopolis
 125,Criciúma / SC,São Bento / SP,30/06/2018,18:00,Heriberto Hulse / Criciuma
 126,Goiás / GO,CRB / AL,26/06/2018,21:30,Olímpico Pedro Ludovico / Goiania
-127,Atlético / GO,Brasil / RS,29/06/2018,19:15,Olímpico Pedro Ludovico / Goiania
+127,Atlético Goianiense / GO,Brasil / RS,29/06/2018,19:15,Olímpico Pedro Ludovico / Goiania
 128,CSA / AL,Coritiba / PR,29/06/2018,18:00,Rei Pelé / Maceio
 129,Londrina / PR,Sampaio Corrêa / MA,01/07/2018,18:00,Jacy Scaff / Londrina
 130,Paysandu / PA,Fortaleza / CE,30/06/2018,20:30,Olímpico do Pará / Belem
@@ -135,7 +135,7 @@ Game,Home,Away,Date,Time,Stadium
 134,Avaí / SC,Goiás / GO,04/07/2018,20:30,Aderbal Ramos da Silva / Florianopolis
 135,Criciúma / SC,Figueirense / SC,05/07/2018,21:00,Heriberto Hulse / Criciuma
 136,Vila Nova / GO,Londrina / PR,05/07/2018,20:30,Serra Dourada / Goiania
-137,Atlético / GO,Boa / MG,04/07/2018,20:30,Olímpico Pedro Ludovico / Goiania
+137,Atlético Goianiense / GO,Boa / MG,04/07/2018,20:30,Olímpico Pedro Ludovico / Goiania
 138,CRB / AL,São Bento / SP,04/07/2018,20:30,Rei Pelé / Maceio
 139,Coritiba / PR,Paysandu / PA,04/07/2018,18:00,Major Antônio Couto Pereira / Curitiba
 140,Sampaio Corrêa / MA,Juventude / RS,17/07/2018,20:30,Governador João Castelo / Sao Luis
@@ -143,7 +143,7 @@ Game,Home,Away,Date,Time,Stadium
 142,São Bento / SP,Ponte Preta / SP,14/07/2018,18:00,Walter Ribeiro / Sorocaba
 143,Brasil / RS,Juventude / RS,13/07/2018,18:00,Bento da Silva Freitas / Pelotas
 144,Figueirense / SC,Oeste / SP,09/07/2018,20:30,Orlando Scarpelli / Florianopolis
-145,Fortaleza / CE,Atlético / GO,14/07/2018,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+145,Fortaleza / CE,Atlético Goianiense / GO,14/07/2018,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
 146,Goiás / GO,Criciúma / SC,13/07/2018,20:30,Olímpico Pedro Ludovico / Goiania
 147,Boa / MG,CRB / AL,13/07/2018,20:30,Dilzon Luís de Melo / Varginha
 148,CSA / AL,Sampaio Corrêa / MA,13/07/2018,21:30,Rei Pelé / Maceio
@@ -152,7 +152,7 @@ Game,Home,Away,Date,Time,Stadium
 151,Guarani / SP,Figueirense / SC,17/07/2018,21:30,Brinco de Ouro da Princesa / Campinas
 152,Oeste / SP,Paysandu / PA,21/07/2018,19:00,Arena Barueri / Barueri
 153,Juventude / RS,CRB / AL,21/07/2018,16:30,Alfredo Jaconi / Caxias do Sul
-154,Avaí / SC,Atlético / GO,17/07/2018,19:15,Aderbal Ramos da Silva / Florianopolis
+154,Avaí / SC,Atlético Goianiense / GO,17/07/2018,19:15,Aderbal Ramos da Silva / Florianopolis
 155,Criciúma / SC,Londrina / PR,20/07/2018,19:15,Heriberto Hulse / Criciuma
 156,Vila Nova / GO,Brasil / RS,17/07/2018,20:30,Serra Dourada / Goiania
 157,Boa / MG,Ponte Preta / SP,21/07/2018,19:00,Dilzon Luís de Melo / Varginha
@@ -165,12 +165,12 @@ Game,Home,Away,Date,Time,Stadium
 164,Figueirense / SC,Vila Nova / GO,24/07/2018,19:15,Orlando Scarpelli / Florianopolis
 165,Fortaleza / CE,Avaí / SC,24/07/2018,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 166,Goiás / GO,Coritiba / PR,24/07/2018,19:15,Olímpico Pedro Ludovico / Goiania
-167,Atlético / GO,CSA / AL,23/07/2018,20:00,Olímpico Pedro Ludovico / Goiania
+167,Atlético Goianiense / GO,CSA / AL,23/07/2018,20:00,Olímpico Pedro Ludovico / Goiania
 168,CRB / AL,Criciúma / SC,24/07/2018,20:30,Rei Pelé / Maceio
 169,Londrina / PR,Oeste / SP,24/07/2018,19:15,Jacy Scaff / Londrina
 170,Paysandu / PA,Guarani / SP,24/07/2018,20:30,Leônidas Sobré de Castro / Belem
 171,Guarani / SP,Brasil / RS,28/07/2018,16:30,Brinco de Ouro da Princesa / Campinas
-172,São Bento / SP,Atlético / GO,28/07/2018,16:30,Walter Ribeiro / Sorocaba
+172,São Bento / SP,Atlético Goianiense / GO,28/07/2018,16:30,Walter Ribeiro / Sorocaba
 173,Juventude / RS,Fortaleza / CE,28/07/2018,16:30,Alfredo Jaconi / Caxias do Sul
 174,Avaí / SC,CSA / AL,27/07/2018,19:15,Aderbal Ramos da Silva / Florianopolis
 175,Criciúma / SC,Vila Nova / GO,28/07/2018,19:00,Heriberto Hulse / Criciuma
@@ -185,7 +185,7 @@ Game,Home,Away,Date,Time,Stadium
 184,Figueirense / SC,CRB / AL,31/07/2018,19:15,Orlando Scarpelli / Florianopolis
 185,Fortaleza / CE,Coritiba / PR,04/08/2018,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
 186,Vila Nova / GO,São Bento / SP,04/08/2018,16:30,Serra Dourada / Goiania
-187,Atlético / GO,Paysandu / PA,31/07/2018,21:30,Olímpico Pedro Ludovico / Goiania
+187,Atlético Goianiense / GO,Paysandu / PA,31/07/2018,21:30,Olímpico Pedro Ludovico / Goiania
 188,CSA / AL,Juventude / RS,03/08/2018,21:30,Rei Pelé / Maceio
 189,Londrina / PR,Guarani / SP,03/08/2018,19:15,Jacy Scaff / Londrina
 190,Sampaio Corrêa / MA,Criciúma / SC,04/08/2018,21:00,Governador João Castelo / Sao Luis
@@ -195,7 +195,7 @@ Game,Home,Away,Date,Time,Stadium
 194,Boa / MG,Londrina / PR,10/08/2018,20:30,Dilzon Luís de Melo / Varginha
 195,Coritiba / PR,Sampaio Corrêa / MA,10/08/2018,21:30,Major Antônio Couto Pereira / Curitiba
 196,Guarani / SP,Fortaleza / CE,11/08/2018,16:30,Brinco de Ouro da Princesa / Campinas
-197,Criciúma / SC,Atlético / GO,11/08/2018,16:30,Heriberto Hulse / Criciuma
+197,Criciúma / SC,Atlético Goianiense / GO,11/08/2018,16:30,Heriberto Hulse / Criciuma
 198,CRB / AL,Oeste / SP,11/08/2018,16:30,Rei Pelé / Maceio
 199,Juventude / RS,Figueirense / SC,11/08/2018,19:00,Alfredo Jaconi / Caxias do Sul
 200,São Bento / SP,Brasil / RS,11/08/2018,16:30,Walter Ribeiro / Sorocaba
@@ -205,7 +205,7 @@ Game,Home,Away,Date,Time,Stadium
 204,Vila Nova / GO,CRB / AL,17/08/2018,20:30,Serra Dourada / Goiania
 205,Figueirense / SC,Goiás / GO,17/08/2018,21:30,Orlando Scarpelli / Florianopolis
 206,Fortaleza / CE,Boa / MG,18/08/2018,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
-207,Atlético / GO,Coritiba / PR,18/08/2018,16:30,Antônio Accioly / Goiania
+207,Atlético Goianiense / GO,Coritiba / PR,18/08/2018,16:30,Antônio Accioly / Goiania
 208,Oeste / SP,Juventude / RS,18/08/2018,16:30,Arena Barueri / Barueri
 209,Sampaio Corrêa / MA,Guarani / SP,18/08/2018,19:00,Governador João Castelo / Sao Luis
 210,CSA / AL,São Bento / SP,18/08/2018,21:00,Rei Pelé / Maceio
@@ -216,12 +216,12 @@ Game,Home,Away,Date,Time,Stadium
 215,CRB / AL,Fortaleza / CE,21/08/2018,20:30,Rei Pelé / Maceio
 216,Goiás / GO,São Bento / SP,21/08/2018,20:30,Olímpico Pedro Ludovico / Goiania
 217,Boa / MG,Figueirense / SC,21/08/2018,20:30,Dilzon Luís de Melo / Varginha
-218,Guarani / SP,Atlético / GO,21/08/2018,21:30,Brinco de Ouro da Princesa / Campinas
+218,Guarani / SP,Atlético Goianiense / GO,21/08/2018,21:30,Brinco de Ouro da Princesa / Campinas
 219,Sampaio Corrêa / MA,Vila Nova / GO,21/08/2018,21:30,Governador João Castelo / Sao Luis
 220,Oeste / SP,CSA / AL,21/08/2018,21:30,Arena Barueri / Barueri
 221,Coritiba / PR,Oeste / SP,24/08/2018,19:15,Major Antônio Couto Pereira / Curitiba
 222,Figueirense / SC,Brasil / RS,24/08/2018,19:15,Orlando Scarpelli / Florianopolis
-223,Atlético / GO,CRB / AL,24/08/2018,21:30,Antônio Accioly / Goiania
+223,Atlético Goianiense / GO,CRB / AL,24/08/2018,21:30,Antônio Accioly / Goiania
 224,Fortaleza / CE,Londrina / PR,25/08/2018,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
 225,São Bento / SP,Avaí / SC,25/08/2018,16:30,Walter Ribeiro / Sorocaba
 226,Paysandu / PA,Sampaio Corrêa / MA,25/08/2018,16:30,Leônidas Sobré de Castro / Belem
@@ -236,13 +236,13 @@ Game,Home,Away,Date,Time,Stadium
 235,CRB / AL,Sampaio Corrêa / MA,31/08/2018,21:30,Rei Pelé / Maceio
 236,Avaí / SC,Figueirense / SC,01/09/2018,16:30,Aderbal Ramos da Silva / Florianopolis
 237,Boa / MG,CSA / AL,01/09/2018,21:00,Dilzon Luís de Melo / Varginha
-238,Londrina / PR,Atlético / GO,31/08/2018,19:15,Jacy Scaff / Londrina
+238,Londrina / PR,Atlético Goianiense / GO,31/08/2018,19:15,Jacy Scaff / Londrina
 239,Goiás / GO,Fortaleza / CE,01/09/2018,19:00,Olímpico Pedro Ludovico / Goiania
 240,Paysandu / PA,Juventude / RS,31/08/2018,19:15,Leônidas Sobré de Castro / Belem
 241,Vila Nova / GO,Oeste / SP,03/09/2018,20:00,Serra Dourada / Goiania
 242,Guarani / SP,Goiás / GO,04/09/2018,19:15,Brinco de Ouro da Princesa / Campinas
 243,Avaí / SC,CRB / AL,04/09/2018,19:15,Aderbal Ramos da Silva / Florianopolis
-244,Atlético / GO,Ponte Preta / SP,04/09/2018,19:15,Antônio Accioly / Goiania
+244,Atlético Goianiense / GO,Ponte Preta / SP,04/09/2018,19:15,Antônio Accioly / Goiania
 245,Coritiba / PR,Boa / MG,04/09/2018,19:15,Major Antônio Couto Pereira / Curitiba
 246,São Bento / SP,Paysandu / PA,04/09/2018,20:30,Walter Ribeiro / Sorocaba
 247,Juventude / RS,Criciúma / SC,04/09/2018,20:30,Alfredo Jaconi / Caxias do Sul
@@ -253,7 +253,7 @@ Game,Home,Away,Date,Time,Stadium
 252,CRB / AL,Guarani / SP,07/09/2018,16:00,Rei Pelé / Maceio
 253,Criciúma / SC,Fortaleza / CE,08/09/2018,16:30,Heriberto Hulse / Criciuma
 254,Paysandu / PA,Avaí / SC,07/09/2018,18:00,Leônidas Sobré de Castro / Belem
-255,Oeste / SP,Atlético / GO,07/09/2018,16:00,Arena Barueri / Barueri
+255,Oeste / SP,Atlético Goianiense / GO,07/09/2018,16:00,Arena Barueri / Barueri
 256,Juventude / RS,São Bento / SP,08/09/2018,16:30,Alfredo Jaconi / Caxias do Sul
 257,Londrina / PR,Brasil / RS,08/09/2018,16:30,Jacy Scaff / Londrina
 258,Figueirense / SC,CSA / AL,08/09/2018,16:30,Orlando Scarpelli / Florianopolis
@@ -267,9 +267,9 @@ Game,Home,Away,Date,Time,Stadium
 266,Brasil / RS,CRB / AL,15/09/2018,16:30,Bento da Silva Freitas / Pelotas
 267,Criciúma / SC,Avaí / SC,15/09/2018,16:30,Heriberto Hulse / Criciuma
 268,Boa / MG,Paysandu / PA,15/09/2018,16:30,Dilzon Luís de Melo / Varginha
-269,Goiás / GO,Atlético / GO,15/09/2018,19:00,Olímpico Pedro Ludovico / Goiania
+269,Goiás / GO,Atlético Goianiense / GO,15/09/2018,19:00,Olímpico Pedro Ludovico / Goiania
 270,Oeste / SP,Ponte Preta / SP,15/09/2018,21:00,Arena Barueri / Barueri
-271,Atlético / GO,Juventude / RS,18/09/2018,19:15,Antônio Accioly / Goiania
+271,Atlético Goianiense / GO,Juventude / RS,18/09/2018,19:15,Antônio Accioly / Goiania
 272,Londrina / PR,Figueirense / SC,18/09/2018,21:30,Jacy Scaff / Londrina
 273,Goiás / GO,Ponte Preta / SP,21/09/2018,19:15,Olímpico Pedro Ludovico / Goiania
 274,CRB / AL,Coritiba / PR,21/09/2018,20:30,Rei Pelé / Maceio
@@ -285,7 +285,7 @@ Game,Home,Away,Date,Time,Stadium
 284,Juventude / RS,Londrina / PR,27/09/2018,19:00,Alfredo Jaconi / Caxias do Sul
 285,Vila Nova / GO,Guarani / SP,28/09/2018,21:30,Serra Dourada / Goiania
 286,Oeste / SP,Sampaio Corrêa / MA,29/09/2018,16:30,Arena Barueri / Barueri
-287,Figueirense / SC,Atlético / GO,29/09/2018,16:30,Orlando Scarpelli / Florianopolis
+287,Figueirense / SC,Atlético Goianiense / GO,29/09/2018,16:30,Orlando Scarpelli / Florianopolis
 288,Coritiba / PR,Avaí / SC,29/09/2018,19:00,Major Antônio Couto Pereira / Curitiba
 289,CRB / AL,CSA / AL,29/09/2018,16:30,Rei Pelé / Maceio
 290,Boa / MG,Criciúma / SC,29/09/2018,21:00,Dilzon Luís de Melo / Varginha
@@ -297,12 +297,12 @@ Game,Home,Away,Date,Time,Stadium
 296,Brasil / RS,Fortaleza / CE,05/10/2018,20:30,Bento da Silva Freitas / Pelotas
 297,Avaí / SC,Boa / MG,05/10/2018,20:30,Aderbal Ramos da Silva / Florianopolis
 298,Ponte Preta / SP,CRB / AL,06/10/2018,18:30,Moisés Lucarelli / Campinas
-299,Atlético / GO,Vila Nova / GO,06/10/2018,16:30,Antônio Accioly / Goiania
+299,Atlético Goianiense / GO,Vila Nova / GO,06/10/2018,16:30,Antônio Accioly / Goiania
 300,Coritiba / PR,Juventude / RS,05/10/2018,21:00,Major Antônio Couto Pereira / Curitiba
 301,Paysandu / PA,CRB / AL,09/10/2018,19:15,Leônidas Sobré de Castro / Belem
 302,Criciúma / SC,Brasil / RS,09/10/2018,21:30,Heriberto Hulse / Criciuma
 303,Juventude / RS,Goiás / GO,12/10/2018,19:15,Alfredo Jaconi / Caxias do Sul
-304,Atlético / GO,Sampaio Corrêa / MA,12/10/2018,20:30,Antônio Accioly / Goiania
+304,Atlético Goianiense / GO,Sampaio Corrêa / MA,12/10/2018,20:30,Antônio Accioly / Goiania
 305,CSA / AL,Ponte Preta / SP,12/10/2018,21:30,Rei Pelé / Maceio
 306,Guarani / SP,Avaí / SC,13/10/2018,16:30,Brinco de Ouro da Princesa / Campinas
 307,Oeste / SP,Fortaleza / CE,13/10/2018,16:30,Arena Barueri / Barueri
@@ -310,7 +310,7 @@ Game,Home,Away,Date,Time,Stadium
 309,Figueirense / SC,Coritiba / PR,13/10/2018,19:00,Orlando Scarpelli / Florianopolis
 310,Londrina / PR,São Bento / SP,13/10/2018,21:00,Jacy Scaff / Londrina
 311,Vila Nova / GO,Juventude / RS,20/10/2018,16:30,Serra Dourada / Goiania
-312,Brasil / RS,Atlético / GO,16/10/2018,21:30,Bento da Silva Freitas / Pelotas
+312,Brasil / RS,Atlético Goianiense / GO,16/10/2018,21:30,Bento da Silva Freitas / Pelotas
 313,CRB / AL,Goiás / GO,19/10/2018,19:15,Rei Pelé / Maceio
 314,São Bento / SP,Criciúma / SC,19/10/2018,20:30,Walter Ribeiro / Sorocaba
 315,Ponte Preta / SP,Figueirense / SC,19/10/2018,21:30,Moisés Lucarelli / Campinas
@@ -325,7 +325,7 @@ Game,Home,Away,Date,Time,Stadium
 324,São Bento / SP,CRB / AL,27/10/2018,16:30,Walter Ribeiro / Sorocaba
 325,Londrina / PR,Vila Nova / GO,26/10/2018,19:15,Jacy Scaff / Londrina
 326,Guarani / SP,Oeste / SP,27/10/2018,16:30,Brinco de Ouro da Princesa / Campinas
-327,Boa / MG,Atlético / GO,27/10/2018,16:30,Dilzon Luís de Melo / Varginha
+327,Boa / MG,Atlético Goianiense / GO,27/10/2018,16:30,Dilzon Luís de Melo / Varginha
 328,Figueirense / SC,Criciúma / SC,27/10/2018,16:30,Orlando Scarpelli / Florianopolis
 329,Paysandu / PA,Coritiba / PR,27/10/2018,18:30,Leônidas Sobré de Castro / Belem
 330,Juventude / RS,Sampaio Corrêa / MA,26/10/2018,20:30,Alfredo Jaconi / Caxias do Sul
@@ -336,12 +336,12 @@ Game,Home,Away,Date,Time,Stadium
 335,Sampaio Corrêa / MA,CSA / AL,02/11/2018,21:30,Governador João Castelo / Sao Luis
 336,Avaí / SC,Londrina / PR,03/11/2018,16:30,Aderbal Ramos da Silva / Florianópolis
 337,CRB / AL,Boa / MG,03/11/2018,16:30,Rei Pelé / Maceio
-338,Atlético / GO,Fortaleza / CE,03/11/2018,17:00,Antônio Accioly / Goiania
+338,Atlético Goianiense / GO,Fortaleza / CE,03/11/2018,17:00,Antônio Accioly / Goiania
 339,Coritiba / PR,Guarani / SP,03/11/2018,19:30,Major Antônio Couto Pereira / Curitiba
 340,Ponte Preta / SP,São Bento / SP,02/11/2018,17:00,Moisés Lucarelli / Campinas
 341,Goiás / GO,Sampaio Corrêa / MA,05/11/2018,20:00,Olímpico Pedro Ludovico / Goiania
 342,Brasil / RS,Vila Nova / GO,06/11/2018,19:15,Bento da Silva Freitas / Pelotas
-343,Atlético / GO,Avaí / SC,06/11/2018,19:15,Antônio Accioly / Goiania
+343,Atlético Goianiense / GO,Avaí / SC,06/11/2018,19:15,Antônio Accioly / Goiania
 344,Londrina / PR,Criciúma / SC,06/11/2018,19:15,Jacy Scaff / Londrina
 345,Ponte Preta / SP,Boa / MG,06/11/2018,20:30,Moisés Lucarelli / Campinas
 346,São Bento / SP,Coritiba / PR,06/11/2018,20:30,Walter Ribeiro / Sorocaba
@@ -357,12 +357,12 @@ Game,Home,Away,Date,Time,Stadium
 356,Sampaio Corrêa / MA,São Bento / SP,10/11/2018,19:30,Governador João Castelo / Sao Luis
 357,Vila Nova / GO,Figueirense / SC,09/11/2018,19:15,Serra Dourada / Goiania
 358,Criciúma / SC,CRB / AL,10/11/2018,17:00,Heriberto Hulse / Criciuma
-359,CSA / AL,Atlético / GO,10/11/2018,17:00,Rei Pelé / Maceio
+359,CSA / AL,Atlético Goianiense / GO,10/11/2018,17:00,Rei Pelé / Maceio
 360,Guarani / SP,Paysandu / PA,10/11/2018,21:00,Brinco de Ouro da Princesa / Campinas
 361,Figueirense / SC,Paysandu / PA,13/11/2018,19:15,Orlando Scarpelli / Florianopolis
 362,Ponte Preta / SP,Coritiba / PR,13/11/2018,21:30,Moisés Lucarelli / Campinas
 363,Fortaleza / CE,Juventude / RS,15/11/2018,18:15,Governador Plácido Aderaldo Castelo / Fortaleza
-364,Atlético / GO,São Bento / SP,16/11/2018,20:30,Antônio Accioly / Goiania
+364,Atlético Goianiense / GO,São Bento / SP,16/11/2018,20:30,Antônio Accioly / Goiania
 365,Londrina / PR,CRB / AL,16/11/2018,21:30,Jacy Scaff / Londrina
 366,Brasil / RS,Guarani / SP,17/11/2018,17:00,Bento da Silva Freitas / Pelotas
 367,CSA / AL,Avaí / SC,17/11/2018,17:00,Rei Pelé / Maceio
@@ -378,4 +378,4 @@ Game,Home,Away,Date,Time,Stadium
 377,Boa / MG,Oeste / SP,24/11/2018,17:00,Dilzon Luís de Melo / Varginha
 378,CRB / AL,Figueirense / SC,24/11/2018,17:00,Rei Pelé / Maceio
 379,Coritiba / PR,Fortaleza / CE,23/11/2018,19:15,Major Antônio Couto Pereira / Curitiba
-380,Paysandu / PA,Atlético / GO,24/11/2018,17:00,Leônidas Sobré de Castro / Belem
+380,Paysandu / PA,Atlético Goianiense / GO,24/11/2018,17:00,Leônidas Sobré de Castro / Belem

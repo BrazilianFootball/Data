@@ -845,3 +845,14 @@
 
 -------------------------------------------------------------------------------------
 
+2024-12-05 10:14:42 [Scraping] - Beginning docket scraping.
+2024-12-05 10:16:42 [Scraping] - Docket scraping complete.
+                                   [INFO] 8 dockets addeds.
+2024-12-05 10:16:42 [Extract]  - Beginning info extract.
+2024-12-05 10:17:02 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2024-12-05 10:17:02 [Lineups]  - Beginning lineups treatment.
+2024-12-05 10:17:11 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+

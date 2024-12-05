@@ -38,7 +38,7 @@ Game,Home,Away,Date,Time,Stadium
 041,Confiança / SE,Ceará / CE,01/04/2015,22:00,Estadual Lourival Baptista / Aracaju
 042,Piauí / PI,Salgueiro / PE,31/03/2015,20:30,Governador Alberto Tavares Silva / Teresina
 043,Jacuipense / BA,Paraná / PR,01/04/2015,20:30,Eliel Martins / Riachão do Jacuípe
-044,Coruripe / AL,Atlético / GO,01/04/2015,20:30,Gerson Amaral / Coruripe
+044,Coruripe / AL,Atlético Goianiense / GO,01/04/2015,20:30,Gerson Amaral / Coruripe
 045,Globo / RN,América / RN,01/04/2015,20:30,Manoel Dantas Barretto / Ceará-Mirim
 046,Operário / MT,Avaí / SC,01/04/2015,21:30,Arena Pantanal / Cuiabá
 047,Cene / MS,Sport / PE,01/04/2015,22:00,Fredis Saldivar / Dourados
@@ -62,7 +62,7 @@ Game,Home,Away,Date,Time,Stadium
 068,Joinville / SC,Ituano / SP,15/04/2015,19:30,Arena Joinville / Joinville
 069,Ceará / CE,Confiança / SE,15/04/2015,22:00,Presidente Vargas / Fortaleza
 071,Boa / MG,Moto Club / MA,15/04/2015,20:30,Dilzon Melo / Varginha
-072,Atlético / GO,Coruripe / AL,30/04/2015,20:30,Serra Dourada / Goiânia
+072,Atlético Goianiense / GO,Coruripe / AL,30/04/2015,20:30,Serra Dourada / Goiânia
 073,Vasco da Gama / RJ,Rio Branco / AC,15/04/2015,22:00,São Januário / Rio de Janeiro
 074,Grêmio / RS,Campinense / PB,15/04/2015,22:00,Arena do Grêmio / Porto Alegre
 075,Fortaleza / CE,Ríver / PI,16/04/2015,21:50,Governador Plácido Castelo / Fortaleza
@@ -88,7 +88,7 @@ Game,Home,Away,Date,Time,Stadium
 099,Botafogo / RJ,Capivariano / SP,06/05/2015,22:00,Estádio Olímpico João Havelange / Rio de Janeiro
 100,Independente / PA,Goiás / GO,07/05/2015,19:30,Antônio Dias / Tucurui
 101,Moto Club / MA,Ponte Preta / SP,07/05/2015,19:30,Governador João Castelo / Sao Luis
-102,América / RN,Atlético / GO,12/05/2015,19:30,Arena das Dunas / Natal
+102,América / RN,Atlético Goianiense / GO,12/05/2015,19:30,Arena das Dunas / Natal
 103,Paysandu / PA,ABC / RN,12/05/2015,19:30,Leônidas Sodré de Castro / Belem
 104,Palmeiras / SP,Sampaio Corrêa / MA,12/05/2015,21:50,Allianz Parque / São Paulo
 105,Luverdense / MT,Bahia / BA,12/05/2015,21:50,Passo das Emas / Lucas do Rio Verde
@@ -104,7 +104,7 @@ Game,Home,Away,Date,Time,Stadium
 116,Ponte Preta / SP,Moto Club / MA,13/05/2015,19:30,Moisés Lucarelli / Campinas
 117,Vitória / BA,ASA / AL,19/05/2015,19:30,Manoel Barradas / Salvador
 119,ABC / RN,Paysandu / PA,19/05/2015,19:30,Maria Lamas Farache / Natal
-120,Atlético / GO,América / RN,20/05/2015,19:30,Serra Dourada / Goiânia
+120,Atlético Goianiense / GO,América / RN,20/05/2015,19:30,Serra Dourada / Goiânia
 121,Vasco da Gama / RJ,Cuiabá / MT,20/05/2015,22:00,São Januário / Rio de Janeiro
 122,Bahia / BA,Luverdense / MT,20/05/2015,22:00,Octávio Mangabeira / Salvador
 123,Ituano / SP,Goiás / GO,20/05/2015,19:30,Novelli Junior / Itu

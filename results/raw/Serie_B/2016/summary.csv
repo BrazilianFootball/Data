@@ -2,7 +2,7 @@ Game,Home,Away,Date,Time,Stadium
 001,Ceará / CE,Paysandu / PA,14/05/2016,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
 002,Bahia / BA,Avaí / SC,14/05/2016,21:00,Octávio Mangabeira / Salvador
 003,Sampaio Corrêa / MA,Vasco da Gama / RJ,14/05/2016,16:00,Governador João Castelo / Sao Luis
-004,Oeste / SP,Atlético / GO,13/05/2016,20:30,Sílvio Salles / Catanduva
+004,Oeste / SP,Atlético Goianiense / GO,13/05/2016,20:30,Sílvio Salles / Catanduva
 005,Vila Nova / GO,Red Bull Bragantino / SP,13/05/2016,19:15,Serra Dourada / Goiânia
 006,Luverdense / MT,Joinville / SC,14/05/2016,21:00,Passo das Emas / Lucas do Rio Verde
 007,Tupi / MG,Goiás / GO,13/05/2016,21:30,Mário Helênio / Juiz de Fora
@@ -15,11 +15,11 @@ Game,Home,Away,Date,Time,Stadium
 014,Red Bull Bragantino / SP,Luverdense / MT,17/05/2016,19:15,Nabi Abi Chedid / Bragança Paulista
 015,Goiás / GO,Londrina / PR,20/05/2016,20:30,Juscelino Kubitschek de Oliveira / Itumbiara
 016,Vasco da Gama / RJ,Tupi / MG,21/05/2016,16:00,São Januário / Rio de Janeiro
-017,Atlético / GO,Brasil / RS,20/05/2016,19:15,Serra Dourada / Goiânia
+017,Atlético Goianiense / GO,Brasil / RS,20/05/2016,19:15,Serra Dourada / Goiânia
 018,Joinville / SC,Criciúma / SC,20/05/2016,21:30,Arena Joinville / Joinville
 019,Paraná / PR,Bahia / BA,21/05/2016,16:30,Durival Britto e Silva / Curitiba
 020,Avaí / SC,Sampaio Corrêa / MA,21/05/2016,16:00,Aderbal Ramos da Silva / Florianópolis
-021,Ceará / CE,Atlético / GO,24/05/2016,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
+021,Ceará / CE,Atlético Goianiense / GO,24/05/2016,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
 022,Bahia / BA,Joinville / SC,25/05/2016,19:30,Octávio Mangabeira / Salvador
 023,Sampaio Corrêa / MA,Paraná / PR,24/05/2016,19:15,Governador João Castelo / Sao Luis
 024,Oeste / SP,CRB / AL,24/05/2016,19:15,José Liberatti / Osasco
@@ -35,7 +35,7 @@ Game,Home,Away,Date,Time,Stadium
 034,Red Bull Bragantino / SP,Tupi / MG,28/05/2016,21:00,Nabi Abi Chedid / Bragança Paulista
 035,Goiás / GO,Brasil / RS,27/05/2016,20:30,Juscelino Kubitschek de Oliveira / Itumbiara
 036,Vasco da Gama / RJ,Bahia / BA,28/05/2016,16:30,São Januário / Rio de Janeiro
-037,Atlético / GO,Vila Nova / GO,28/05/2016,16:00,Serra Dourada / Goiânia
+037,Atlético Goianiense / GO,Vila Nova / GO,28/05/2016,16:00,Serra Dourada / Goiânia
 038,Joinville / SC,Londrina / PR,28/05/2016,16:00,Arena Joinville / Joinville
 039,Paraná / PR,Oeste / SP,27/05/2016,20:30,Durival Britto e Silva / Curitiba
 040,Avaí / SC,Ceará / CE,28/05/2016,16:00,Aderbal Ramos da Silva / Florianópolis
@@ -44,7 +44,7 @@ Game,Home,Away,Date,Time,Stadium
 043,Sampaio Corrêa / MA,Red Bull Bragantino / SP,31/05/2016,19:15,Governador João Castelo / Sao Luis
 044,Oeste / SP,Vasco da Gama / RJ,31/05/2016,21:30,Arena Barueri / Barueri
 045,Vila Nova / GO,CRB / AL,31/05/2016,19:15,Serra Dourada / Goiânia
-046,Luverdense / MT,Atlético / GO,31/05/2016,21:30,Passo das Emas / Lucas do Rio Verde
+046,Luverdense / MT,Atlético Goianiense / GO,31/05/2016,21:30,Passo das Emas / Lucas do Rio Verde
 047,Tupi / MG,Joinville / SC,31/05/2016,21:30,Mário Helênio / Juiz de Fora
 048,Brasil / RS,Paysandu / PA,31/05/2016,19:15,Bento da Silva Freitas / Pelotas
 049,Londrina / PR,Paraná / PR,31/05/2016,19:15,Jacy Scaff / Londrina
@@ -55,7 +55,7 @@ Game,Home,Away,Date,Time,Stadium
 054,Oeste / SP,Criciúma / SC,04/06/2016,16:00,José Liberatti / Osasco
 055,Vila Nova / GO,Paraná / PR,03/06/2016,20:30,Serra Dourada / Goiânia
 056,Vasco da Gama / RJ,Goiás / GO,04/06/2016,16:30,São Januário / Rio de Janeiro
-057,Atlético / GO,Red Bull Bragantino / SP,04/06/2016,21:00,Serra Dourada / Goiânia
+057,Atlético Goianiense / GO,Red Bull Bragantino / SP,04/06/2016,21:00,Serra Dourada / Goiânia
 058,Brasil / RS,Luverdense / MT,03/06/2016,20:30,Bento da Silva Freitas / Pelotas
 059,Londrina / PR,Tupi / MG,04/06/2016,16:00,Jacy Scaff / Londrina
 060,Avaí / SC,CRB / AL,04/06/2016,21:00,Aderbal Ramos da Silva / Florianópolis
@@ -67,7 +67,7 @@ Game,Home,Away,Date,Time,Stadium
 066,Luverdense / MT,Vila Nova / GO,07/06/2016,21:30,Passo das Emas / Lucas do Rio Verde
 067,Tupi / MG,Oeste / SP,07/06/2016,19:15,Mário Helênio / Juiz de Fora
 068,Joinville / SC,Vasco da Gama / RJ,07/06/2016,21:30,Arena Joinville / Joinville
-069,Paraná / PR,Atlético / GO,07/06/2016,19:15,Durival Britto e Silva / Curitiba
+069,Paraná / PR,Atlético Goianiense / GO,07/06/2016,19:15,Durival Britto e Silva / Curitiba
 070,Criciúma / SC,Brasil / RS,07/06/2016,19:15,Heriberto Hulse / Criciuma
 071,Náutico / PE,Paraná / PR,11/06/2016,16:00,Arena Pernambuco / São Lourenço da Mata
 072,Bahia / BA,CRB / AL,10/06/2016,19:15,Roberto Santos  / Salvador
@@ -75,7 +75,7 @@ Game,Home,Away,Date,Time,Stadium
 074,Red Bull Bragantino / SP,Paysandu / PA,11/06/2016,21:00,Nabi Abi Chedid / Bragança Paulista
 075,Goiás / GO,Oeste / SP,10/06/2016,20:30,Serra Dourada / Goiânia
 076,Luverdense / MT,Ceará / CE,11/06/2016,21:00,Passo das Emas / Lucas do Rio Verde
-077,Atlético / GO,Vasco da Gama / RJ,11/06/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
+077,Atlético Goianiense / GO,Vasco da Gama / RJ,11/06/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
 078,Brasil / RS,Tupi / MG,11/06/2016,16:00,Bento da Silva Freitas / Pelotas
 079,Londrina / PR,Vila Nova / GO,11/06/2016,16:00,Jacy Scaff / Londrina
 080,Avaí / SC,Joinville / SC,11/06/2016,16:00,Aderbal Ramos da Silva / Florianópolis
@@ -86,7 +86,7 @@ Game,Home,Away,Date,Time,Stadium
 085,Vila Nova / GO,Sampaio Corrêa / MA,14/06/2016,19:15,Serra Dourada / Goiânia
 086,Vasco da Gama / RJ,Náutico / PE,14/06/2016,19:15,São Januário / Rio de Janeiro
 087,Tupi / MG,Luverdense / MT,14/06/2016,19:15,Mário Helênio / Juiz de Fora
-088,Joinville / SC,Atlético / GO,14/06/2016,19:15,Arena Joinville / Joinville
+088,Joinville / SC,Atlético Goianiense / GO,14/06/2016,19:15,Arena Joinville / Joinville
 089,Paraná / PR,Goiás / GO,14/06/2016,19:15,Durival Britto e Silva / Curitiba
 090,Criciúma / SC,Bahia / BA,14/06/2016,19:15,Heriberto Hulse / Criciuma
 091,Náutico / PE,Red Bull Bragantino / SP,18/06/2016,16:00,José do Rego Maciel / Recife
@@ -95,7 +95,7 @@ Game,Home,Away,Date,Time,Stadium
 094,Oeste / SP,Vila Nova / GO,18/06/2016,21:00,Arena Barueri / Barueri
 095,Goiás / GO,Avaí / SC,17/06/2016,21:30,Serra Dourada / Goiânia
 096,Vasco da Gama / RJ,Paysandu / PA,18/06/2016,16:30,São Januário / Rio de Janeiro
-097,Atlético / GO,CRB / AL,18/06/2016,16:00,Serra Dourada / Goiânia
+097,Atlético Goianiense / GO,CRB / AL,18/06/2016,16:00,Serra Dourada / Goiânia
 098,Joinville / SC,Ceará / CE,17/06/2016,19:15,Arena Joinville / Joinville
 099,Paraná / PR,Luverdense / MT,17/06/2016,21:00,Durival Britto e Silva / Curitiba
 100,Criciúma / SC,Tupi / MG,18/06/2016,16:00,Heriberto Hulse / Criciuma
@@ -108,10 +108,10 @@ Game,Home,Away,Date,Time,Stadium
 107,Tupi / MG,Bahia / BA,21/06/2016,19:15,Mário Helênio / Juiz de Fora
 108,Brasil / RS,Náutico / PE,21/06/2016,21:30,Francisco Stédile / Caxias do Sul
 109,Londrina / PR,Vasco da Gama / RJ,21/06/2016,19:15,Jacy Scaff / Londrina
-110,Avaí / SC,Atlético / GO,21/06/2016,19:15,Aderbal Ramos da Silva / Florianópolis
+110,Avaí / SC,Atlético Goianiense / GO,21/06/2016,19:15,Aderbal Ramos da Silva / Florianópolis
 111,Ceará / CE,Náutico / PE,25/06/2016,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
 112,CRB / AL,Vasco da Gama / RJ,25/06/2016,16:30,Rei Pelé / Maceió
-113,Paysandu / PA,Atlético / GO,24/06/2016,19:15,Leônidas Sobré de Castro / Belem
+113,Paysandu / PA,Atlético Goianiense / GO,24/06/2016,19:15,Leônidas Sobré de Castro / Belem
 114,Oeste / SP,Sampaio Corrêa / MA,25/06/2016,21:00,Arena Barueri / Barueri
 115,Vila Nova / GO,Goiás / GO,25/06/2016,16:00,Serra Dourada / Goiânia
 116,Luverdense / MT,Londrina / PR,24/06/2016,21:30,Passo das Emas / Lucas do Rio Verde
@@ -125,7 +125,7 @@ Game,Home,Away,Date,Time,Stadium
 124,Red Bull Bragantino / SP,Ceará / CE,28/06/2016,21:30,Nabi Abi Chedid / Bragança Paulista
 125,Goiás / GO,Paysandu / PA,28/06/2016,21:30,Serra Dourada / Goiânia
 126,Vasco da Gama / RJ,Paraná / PR,28/06/2016,20:30,São Januário / Rio de Janeiro
-127,Atlético / GO,Criciúma / SC,27/06/2016,20:00,Serra Dourada / Goiânia
+127,Atlético Goianiense / GO,Criciúma / SC,27/06/2016,20:00,Serra Dourada / Goiânia
 128,Joinville / SC,CRB / AL,28/06/2016,19:15,Arena Joinville / Joinville
 129,Londrina / PR,Brasil / RS,28/06/2016,19:15,Jacy Scaff / Londrina
 130,Avaí / SC,Vila Nova / GO,28/06/2016,19:15,Aderbal Ramos da Silva / Florianópolis
@@ -135,7 +135,7 @@ Game,Home,Away,Date,Time,Stadium
 134,Red Bull Bragantino / SP,Paraná / PR,02/07/2016,16:00,Nabi Abi Chedid / Bragança Paulista
 135,Vila Nova / GO,Tupi / MG,01/07/2016,20:30,Serra Dourada / Goiânia
 136,Luverdense / MT,Oeste / SP,02/07/2016,16:00,Passo das Emas / Lucas do Rio Verde
-137,Atlético / GO,Náutico / PE,02/07/2016,16:00,Serra Dourada / Goiânia
+137,Atlético Goianiense / GO,Náutico / PE,02/07/2016,16:00,Serra Dourada / Goiânia
 138,Brasil / RS,Joinville / SC,02/07/2016,16:00,Francisco Stédile / Caxias do Sul
 139,Londrina / PR,Criciúma / SC,01/07/2016,21:30,Jacy Scaff / Londrina
 140,Avaí / SC,Vasco da Gama / RJ,02/07/2016,16:30,Aderbal Ramos da Silva / Florianópolis
@@ -143,7 +143,7 @@ Game,Home,Away,Date,Time,Stadium
 142,Bahia / BA,Vila Nova / GO,05/07/2016,21:30,Octávio Mangabeira / Salvador
 143,Paysandu / PA,Londrina / PR,09/07/2016,21:00,Leônidas Sobré de Castro / Belem
 144,Oeste / SP,Red Bull Bragantino / SP,09/07/2016,16:00,José Liberatti / Osasco
-145,Goiás / GO,Atlético / GO,09/07/2016,16:00,Serra Dourada / Goiânia
+145,Goiás / GO,Atlético Goianiense / GO,09/07/2016,16:00,Serra Dourada / Goiânia
 146,Vasco da Gama / RJ,Brasil / RS,09/07/2016,18:30,São Januário / Rio de Janeiro
 147,Tupi / MG,Ceará / CE,08/07/2016,21:30,Mário Helênio / Juiz de Fora
 148,Joinville / SC,Sampaio Corrêa / MA,09/07/2016,16:00,Arena Joinville / Joinville
@@ -155,7 +155,7 @@ Game,Home,Away,Date,Time,Stadium
 154,Red Bull Bragantino / SP,Joinville / SC,16/07/2016,21:00,Nabi Abi Chedid / Bragança Paulista
 155,Goiás / GO,Náutico / PE,16/07/2016,16:30,Serra Dourada / Goiânia
 156,Luverdense / MT,Vasco da Gama / RJ,16/07/2016,18:30,Passo das Emas / Lucas do Rio Verde
-157,Atlético / GO,Londrina / PR,12/07/2016,19:15,Serra Dourada / Goiânia
+157,Atlético Goianiense / GO,Londrina / PR,12/07/2016,19:15,Serra Dourada / Goiânia
 158,Brasil / RS,Vila Nova / GO,16/07/2016,16:00,Bento da Silva Freitas / Pelotas
 159,Paraná / PR,Paysandu / PA,12/07/2016,21:30,Durival Britto e Silva / Curitiba
 160,Avaí / SC,Oeste / SP,15/07/2016,19:15,Aderbal Ramos da Silva / Florianópolis
@@ -165,7 +165,7 @@ Game,Home,Away,Date,Time,Stadium
 164,Oeste / SP,Brasil / RS,19/07/2016,19:15,Arena Barueri / Barueri
 165,Vila Nova / GO,Ceará / CE,23/07/2016,16:00,Onésio Brasileiro Alvarenga / Goiania
 166,Vasco da Gama / RJ,Red Bull Bragantino / SP,23/07/2016,16:30,São Januário / Rio de Janeiro
-167,Tupi / MG,Atlético / GO,23/07/2016,16:00,Mário Helênio / Juiz de Fora
+167,Tupi / MG,Atlético Goianiense / GO,23/07/2016,16:00,Mário Helênio / Juiz de Fora
 168,Joinville / SC,Goiás / GO,19/07/2016,21:00,Arena Joinville / Joinville
 169,Londrina / PR,Sampaio Corrêa / MA,23/07/2016,21:00,Jacy Scaff / Londrina
 170,Criciúma / SC,Paraná / PR,22/07/2016,19:15,Heriberto Hulse / Criciuma
@@ -175,12 +175,12 @@ Game,Home,Away,Date,Time,Stadium
 174,Red Bull Bragantino / SP,Bahia / BA,30/07/2016,16:30,Nabi Abi Chedid / Bragança Paulista
 175,Goiás / GO,Luverdense / MT,26/07/2016,19:15,Serra Dourada / Goiânia
 176,Vasco da Gama / RJ,Criciúma / SC,30/07/2016,21:00,São Januário / Rio de Janeiro
-177,Atlético / GO,Sampaio Corrêa / MA,31/07/2016,16:00,Serra Dourada / Goiânia
+177,Atlético Goianiense / GO,Sampaio Corrêa / MA,31/07/2016,16:00,Serra Dourada / Goiânia
 178,Joinville / SC,Oeste / SP,30/07/2016,16:00,Arena Joinville / Joinville
 179,Paraná / PR,Ceará / CE,30/07/2016,19:00,Durival Britto e Silva / Curitiba
 180,Avaí / SC,Londrina / PR,26/07/2016,21:30,Aderbal Ramos da Silva / Florianópolis
 181,Ceará / CE,Vasco da Gama / RJ,02/08/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
-182,Bahia / BA,Atlético / GO,16/08/2016,20:30,Octávio Mangabeira / Salvador
+182,Bahia / BA,Atlético Goianiense / GO,16/08/2016,20:30,Octávio Mangabeira / Salvador
 183,Sampaio Corrêa / MA,Goiás / GO,16/08/2016,20:30,Governador João Castelo / Sao Luis
 184,Oeste / SP,Náutico / PE,02/08/2016,21:30,Arena Barueri / Barueri
 185,Vila Nova / GO,Joinville / SC,02/08/2016,19:15,Onésio Brasileiro Alvarenga / Goiania
@@ -195,7 +195,7 @@ Game,Home,Away,Date,Time,Stadium
 194,Red Bull Bragantino / SP,Vila Nova / GO,19/08/2016,20:30,Nabi Abi Chedid / Bragança Paulista
 195,Goiás / GO,Tupi / MG,20/08/2016,21:00,Serra Dourada / Goiânia
 196,Vasco da Gama / RJ,Sampaio Corrêa / MA,20/08/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
-197,Atlético / GO,Oeste / SP,19/08/2016,19:15,Serra Dourada / Goiânia
+197,Atlético Goianiense / GO,Oeste / SP,19/08/2016,19:15,Serra Dourada / Goiânia
 198,Joinville / SC,Luverdense / MT,19/08/2016,20:30,Arena Joinville / Joinville
 199,Paraná / PR,Brasil / RS,19/08/2016,20:30,Durival Britto e Silva / Curitiba
 200,Avaí / SC,Bahia / BA,20/08/2016,19:30,Aderbal Ramos da Silva / Florianópolis
@@ -206,7 +206,7 @@ Game,Home,Away,Date,Time,Stadium
 205,Vila Nova / GO,Náutico / PE,27/08/2016,16:20,Onésio Brasileiro Alvarenga / Goiania
 206,Luverdense / MT,Red Bull Bragantino / SP,27/08/2016,21:00,Passo das Emas / Lucas do Rio Verde
 207,Tupi / MG,Vasco da Gama / RJ,27/08/2016,16:30,Mário Helênio / Juiz de Fora
-208,Brasil / RS,Atlético / GO,23/08/2016,20:30,Bento da Silva Freitas / Pelotas
+208,Brasil / RS,Atlético Goianiense / GO,23/08/2016,20:30,Bento da Silva Freitas / Pelotas
 209,Londrina / PR,Goiás / GO,23/08/2016,21:30,Jacy Scaff / Londrina
 210,Criciúma / SC,Joinville / SC,26/08/2016,20:30,Heriberto Hulse / Criciuma
 211,Náutico / PE,Londrina / PR,30/08/2016,20:30,Arena Pernambuco / São Lourenço da Mata
@@ -215,7 +215,7 @@ Game,Home,Away,Date,Time,Stadium
 214,Red Bull Bragantino / SP,Brasil / RS,30/08/2016,21:30,Nabi Abi Chedid / Bragança Paulista
 215,Goiás / GO,Criciúma / SC,30/08/2016,21:30,Serra Dourada / Goiânia
 216,Vasco da Gama / RJ,Vila Nova / GO,30/08/2016,20:30,São Januário / Rio de Janeiro
-217,Atlético / GO,Ceará / CE,29/08/2016,20:00,Serra Dourada / Goiânia
+217,Atlético Goianiense / GO,Ceará / CE,29/08/2016,20:00,Serra Dourada / Goiânia
 218,Joinville / SC,Bahia / BA,30/08/2016,19:15,Arena Joinville / Joinville
 219,Paraná / PR,Sampaio Corrêa / MA,30/08/2016,19:15,Durival Britto e Silva / Curitiba
 220,Avaí / SC,Luverdense / MT,30/08/2016,19:15,Aderbal Ramos da Silva / Florianópolis
@@ -223,7 +223,7 @@ Game,Home,Away,Date,Time,Stadium
 222,Bahia / BA,Vasco da Gama / RJ,03/09/2016,16:30,Octávio Mangabeira / Salvador
 223,Sampaio Corrêa / MA,Náutico / PE,03/09/2016,21:00,Governador João Castelo / Sao Luis
 224,Oeste / SP,Paraná / PR,03/09/2016,16:00,José Liberatti / Osasco
-225,Vila Nova / GO,Atlético / GO,03/09/2016,16:00,Serra Dourada / Goiânia
+225,Vila Nova / GO,Atlético Goianiense / GO,03/09/2016,16:00,Serra Dourada / Goiânia
 226,Luverdense / MT,Paysandu / PA,02/09/2016,21:30,Passo das Emas / Lucas do Rio Verde
 227,Tupi / MG,Red Bull Bragantino / SP,03/09/2016,16:00,Mário Helênio / Juiz de Fora
 228,Brasil / RS,Goiás / GO,02/09/2016,19:15,Bento da Silva Freitas / Pelotas
@@ -235,14 +235,14 @@ Game,Home,Away,Date,Time,Stadium
 234,Red Bull Bragantino / SP,Sampaio Corrêa / MA,06/09/2016,19:30,Nabi Abi Chedid / Bragança Paulista
 235,Goiás / GO,Ceará / CE,10/09/2016,18:30,Serra Dourada / Goiânia
 236,Vasco da Gama / RJ,Oeste / SP,10/09/2016,16:30,São Januário / Rio de Janeiro
-237,Atlético / GO,Luverdense / MT,06/09/2016,19:30,Serra Dourada / Goiânia
+237,Atlético Goianiense / GO,Luverdense / MT,06/09/2016,19:30,Serra Dourada / Goiânia
 238,Joinville / SC,Tupi / MG,09/09/2016,19:15,Arena Joinville / Joinville
 239,Paraná / PR,Londrina / PR,10/09/2016,16:00,Durival Britto e Silva / Curitiba
 240,Avaí / SC,Criciúma / SC,10/09/2016,16:00,Aderbal Ramos da Silva / Florianópolis
 241,Ceará / CE,Sampaio Corrêa / MA,13/09/2016,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 242,CRB / AL,Avaí / SC,13/09/2016,19:15,Rei Pelé / Maceió
 243,Paysandu / PA,Bahia / BA,13/09/2016,19:15,Olímpico do Pará / Belém
-244,Red Bull Bragantino / SP,Atlético / GO,13/09/2016,20:30,Nabi Abi Chedid / Bragança Paulista
+244,Red Bull Bragantino / SP,Atlético Goianiense / GO,13/09/2016,20:30,Nabi Abi Chedid / Bragança Paulista
 245,Goiás / GO,Vasco da Gama / RJ,13/09/2016,21:30,Serra Dourada / Goiânia
 246,Luverdense / MT,Brasil / RS,13/09/2016,21:30,Passo das Emas / Lucas do Rio Verde
 247,Tupi / MG,Londrina / PR,13/09/2016,19:15,Mário Helênio / Juiz de Fora
@@ -255,7 +255,7 @@ Game,Home,Away,Date,Time,Stadium
 254,Oeste / SP,Tupi / MG,17/09/2016,21:00,José Liberatti / Osasco
 255,Vila Nova / GO,Luverdense / MT,16/09/2016,20:30,Serra Dourada / Goiânia
 256,Vasco da Gama / RJ,Joinville / SC,16/09/2016,21:30,São Januário / Rio de Janeiro
-257,Atlético / GO,Paraná / PR,17/09/2016,16:00,Serra Dourada / Goiânia
+257,Atlético Goianiense / GO,Paraná / PR,17/09/2016,16:00,Serra Dourada / Goiânia
 258,Brasil / RS,Criciúma / SC,16/09/2016,19:15,Bento da Silva Freitas / Pelotas
 259,Londrina / PR,Ceará / CE,17/09/2016,16:30,Jacy Scaff / Londrina
 260,Avaí / SC,Red Bull Bragantino / SP,17/09/2016,16:00,Aderbal Ramos da Silva / Florianópolis
@@ -264,7 +264,7 @@ Game,Home,Away,Date,Time,Stadium
 263,Paysandu / PA,Red Bull Bragantino / SP,26/09/2016,20:00,Olímpico do Pará / Belém
 264,Oeste / SP,Goiás / GO,23/09/2016,21:30,Arena Barueri / Barueri
 265,Vila Nova / GO,Londrina / PR,24/09/2016,16:30,Serra Dourada / Goiânia
-266,Vasco da Gama / RJ,Atlético / GO,24/09/2016,16:30,São Januário / Rio de Janeiro
+266,Vasco da Gama / RJ,Atlético Goianiense / GO,24/09/2016,16:30,São Januário / Rio de Janeiro
 267,Tupi / MG,Brasil / RS,24/09/2016,18:30,Mário Helênio / Juiz de Fora
 268,Joinville / SC,Avaí / SC,23/09/2016,20:30,Arena Joinville / Joinville
 269,Paraná / PR,Náutico / PE,24/09/2016,16:20,Durival Britto e Silva / Curitiba
@@ -275,12 +275,12 @@ Game,Home,Away,Date,Time,Stadium
 274,Red Bull Bragantino / SP,CRB / AL,01/10/2016,16:00,Nabi Abi Chedid / Bragança Paulista
 275,Goiás / GO,Paraná / PR,29/09/2016,21:00,Serra Dourada / Goiânia
 276,Luverdense / MT,Tupi / MG,30/09/2016,20:30,Passo das Emas / Lucas do Rio Verde
-277,Atlético / GO,Joinville / SC,27/09/2016,19:15,Olímpico Pedro Ludovico / 
+277,Atlético Goianiense / GO,Joinville / SC,27/09/2016,19:15,Olímpico Pedro Ludovico / 
 278,Brasil / RS,Ceará / CE,27/09/2016,21:00,Bento da Silva Freitas / Pelotas
 279,Londrina / PR,Oeste / SP,01/10/2016,18:30,Jacy Scaff / Londrina
 280,Avaí / SC,Paysandu / PA,30/09/2016,21:30,Aderbal Ramos da Silva / Florianópolis
 281,Ceará / CE,Joinville / SC,04/10/2016,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
-282,CRB / AL,Atlético / GO,04/10/2016,20:30,Rei Pelé / Maceió
+282,CRB / AL,Atlético Goianiense / GO,04/10/2016,20:30,Rei Pelé / Maceió
 283,Paysandu / PA,Vasco da Gama / RJ,04/10/2016,21:30,Olímpico do Pará / Belém
 284,Red Bull Bragantino / SP,Náutico / PE,04/10/2016,19:15,Nabi Abi Chedid / Bragança Paulista
 285,Vila Nova / GO,Oeste / SP,04/10/2016,20:30,Olímpico Pedro Ludovico / 
@@ -295,7 +295,7 @@ Game,Home,Away,Date,Time,Stadium
 294,Oeste / SP,Ceará / CE,08/10/2016,16:30,Arena Barueri / Barueri
 295,Goiás / GO,Red Bull Bragantino / SP,07/10/2016,20:30,Serra Dourada / Goiânia
 296,Vasco da Gama / RJ,Londrina / PR,08/10/2016,18:30,Arena da Amazônia / Manaus
-297,Atlético / GO,Avaí / SC,08/10/2016,16:00,Olímpico Pedro Ludovico / 
+297,Atlético Goianiense / GO,Avaí / SC,08/10/2016,16:00,Olímpico Pedro Ludovico / 
 298,Joinville / SC,Paysandu / PA,08/10/2016,16:00,Arena Joinville / Joinville
 299,Paraná / PR,CRB / AL,08/10/2016,21:00,Durival Britto e Silva / Curitiba
 300,Criciúma / SC,Vila Nova / GO,07/10/2016,20:30,Heriberto Hulse / Criciuma
@@ -305,7 +305,7 @@ Game,Home,Away,Date,Time,Stadium
 304,Red Bull Bragantino / SP,Criciúma / SC,10/10/2016,20:00,Nabi Abi Chedid / Bragança Paulista
 305,Goiás / GO,Vila Nova / GO,15/10/2016,16:00,Serra Dourada / Goiânia
 306,Vasco da Gama / RJ,CRB / AL,15/10/2016,16:30,São Januário / Rio de Janeiro
-307,Atlético / GO,Paysandu / PA,14/10/2016,20:30,Olímpico Pedro Ludovico / 
+307,Atlético Goianiense / GO,Paysandu / PA,14/10/2016,20:30,Olímpico Pedro Ludovico / 
 308,Joinville / SC,Paraná / PR,15/10/2016,16:00,Arena Joinville / Joinville
 309,Londrina / PR,Luverdense / MT,15/10/2016,18:30,Jacy Scaff / Londrina
 310,Avaí / SC,Tupi / MG,15/10/2016,16:00,Aderbal Ramos da Silva / Florianópolis
@@ -318,8 +318,8 @@ Game,Home,Away,Date,Time,Stadium
 317,Tupi / MG,Sampaio Corrêa / MA,22/10/2016,17:00,Mário Helênio / Juiz de Fora
 318,Brasil / RS,Londrina / PR,18/10/2016,21:30,Bento da Silva Freitas / Pelotas
 319,Paraná / PR,Vasco da Gama / RJ,22/10/2016,16:30,Kleber José de Andrade (em obras) / Cariacica
-320,Criciúma / SC,Atlético / GO,22/10/2016,19:30,Heriberto Hulse / Criciuma
-321,Náutico / PE,Atlético / GO,28/10/2016,21:30,Arena Pernambuco / São Lourenço da Mata
+320,Criciúma / SC,Atlético Goianiense / GO,22/10/2016,19:30,Heriberto Hulse / Criciuma
+321,Náutico / PE,Atlético Goianiense / GO,28/10/2016,21:30,Arena Pernambuco / São Lourenço da Mata
 322,Bahia / BA,Ceará / CE,29/10/2016,17:00,Octávio Mangabeira / Salvador
 323,Paysandu / PA,Sampaio Corrêa / MA,29/10/2016,17:00,Olímpico do Pará / Belém
 324,Oeste / SP,Luverdense / MT,25/10/2016,19:15,Arena Barueri / Barueri
@@ -335,7 +335,7 @@ Game,Home,Away,Date,Time,Stadium
 334,Red Bull Bragantino / SP,Oeste / SP,05/11/2016,21:00,Nabi Abi Chedid / Bragança Paulista
 335,Vila Nova / GO,Bahia / BA,04/11/2016,21:30,Serra Dourada / Goiânia
 336,Luverdense / MT,Criciúma / SC,01/11/2016,21:30,Passo das Emas / Lucas do Rio Verde
-337,Atlético / GO,Goiás / GO,05/11/2016,17:00,Serra Dourada / Goiânia
+337,Atlético Goianiense / GO,Goiás / GO,05/11/2016,17:00,Serra Dourada / Goiânia
 338,Brasil / RS,Vasco da Gama / RJ,05/11/2016,16:30,Bento da Silva Freitas / Pelotas
 339,Londrina / PR,Paysandu / PA,01/11/2016,19:15,Jacy Scaff / Londrina
 340,Avaí / SC,Paraná / PR,05/11/2016,19:30,Aderbal Ramos da Silva / Florianópolis
@@ -347,7 +347,7 @@ Game,Home,Away,Date,Time,Stadium
 346,Vasco da Gama / RJ,Luverdense / MT,08/11/2016,21:30,São Januário / Rio de Janeiro
 347,Tupi / MG,CRB / AL,08/11/2016,19:15,Mário Helênio / Juiz de Fora
 348,Joinville / SC,Red Bull Bragantino / SP,08/11/2016,21:30,Arena Joinville / Joinville
-349,Londrina / PR,Atlético / GO,08/11/2016,21:30,Jacy Scaff / Londrina
+349,Londrina / PR,Atlético Goianiense / GO,08/11/2016,21:30,Jacy Scaff / Londrina
 350,Criciúma / SC,Ceará / CE,08/11/2016,19:15,Heriberto Hulse / Criciuma
 351,Ceará / CE,Vila Nova / GO,12/11/2016,17:30,Governador Plácido Aderaldo Castelo / Fortaleza
 352,CRB / AL,Paysandu / PA,11/11/2016,20:30,Rei Pelé / Maceió
@@ -355,13 +355,13 @@ Game,Home,Away,Date,Time,Stadium
 354,Red Bull Bragantino / SP,Vasco da Gama / RJ,12/11/2016,16:30,Nabi Abi Chedid / Bragança Paulista
 355,Goiás / GO,Joinville / SC,11/11/2016,20:30,Olímpico Pedro Ludovico / 
 356,Luverdense / MT,Bahia / BA,12/11/2016,19:30,Passo das Emas / Lucas do Rio Verde
-357,Atlético / GO,Tupi / MG,12/11/2016,19:30,Olímpico Pedro Ludovico / 
+357,Atlético Goianiense / GO,Tupi / MG,12/11/2016,19:30,Olímpico Pedro Ludovico / 
 358,Brasil / RS,Oeste / SP,12/11/2016,17:30,Bento da Silva Freitas / Pelotas
 359,Paraná / PR,Criciúma / SC,12/11/2016,17:30,Durival Britto e Silva / Curitiba
 360,Avaí / SC,Náutico / PE,12/11/2016,17:30,Aderbal Ramos da Silva / Florianópolis
 361,Ceará / CE,Paraná / PR,19/11/2016,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
 362,Bahia / BA,Red Bull Bragantino / SP,19/11/2016,17:30,Octávio Mangabeira / Salvador
-363,Sampaio Corrêa / MA,Atlético / GO,19/11/2016,17:30,Governador João Castelo / Sao Luis
+363,Sampaio Corrêa / MA,Atlético Goianiense / GO,19/11/2016,17:30,Governador João Castelo / Sao Luis
 364,Oeste / SP,Joinville / SC,18/11/2016,19:15,Arena Barueri / Barueri
 365,Vila Nova / GO,Paysandu / PA,19/11/2016,17:30,Onésio Brasileiro Alvarenga / Goiania
 366,Luverdense / MT,Goiás / GO,18/11/2016,21:30,Passo das Emas / Lucas do Rio Verde
@@ -375,7 +375,7 @@ Game,Home,Away,Date,Time,Stadium
 374,Red Bull Bragantino / SP,Londrina / PR,26/11/2016,17:30,Nabi Abi Chedid / Bragança Paulista
 375,Goiás / GO,Sampaio Corrêa / MA,22/11/2016,19:15,Olímpico Pedro Ludovico / 
 376,Vasco da Gama / RJ,Ceará / CE,26/11/2016,17:30,Jornalista Mário Filho / Rio de Janeiro
-377,Atlético / GO,Bahia / BA,26/11/2016,17:30,Olímpico Pedro Ludovico / 
+377,Atlético Goianiense / GO,Bahia / BA,26/11/2016,17:30,Olímpico Pedro Ludovico / 
 378,Joinville / SC,Vila Nova / GO,26/11/2016,17:30,Arena Joinville / Joinville
 379,Paraná / PR,Tupi / MG,25/11/2016,19:15,Durival Britto e Silva / Curitiba
 380,Avaí / SC,Brasil / RS,26/11/2016,17:30,Aderbal Ramos da Silva / Florianópolis

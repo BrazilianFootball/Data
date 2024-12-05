@@ -7,13 +7,13 @@ Game,Home,Away,Date,Time,Stadium
 006,Corinthians / SP,Atlético Mineiro / MG,14/04/2024,16:00,Arena Corinthians / Sao Paulo
 007,São Paulo / SP,Fortaleza / CE,13/04/2024,21:00,Cícero Pompeu de Toledo / Sao Paulo
 008,Athletico Paranaense / PR,Cuiabá / MT,14/04/2024,16:00,Ligga Arena / Curitiba
-009,Atlético / GO,Flamengo / RJ,14/04/2024,16:00,Serra Dourada / Goiania
+009,Atlético Goianiense / GO,Flamengo / RJ,14/04/2024,16:00,Serra Dourada / Goiania
 010,Criciúma / SC,Juventude / RS,13/04/2024,18:30,Heriberto Hulse / Criciuma
 011,Grêmio / RS,Athletico Paranaense / PR,17/04/2024,19:00,Arena do Grêmio / Porto Alegre
 012,Atlético Mineiro / MG,Criciúma / SC,17/04/2024,20:00,ARENA MRV / Belo Horizonte
 013,Bahia / BA,Fluminense / RJ,16/04/2024,21:30,Octávio Mangabeira / Salvador
 014,Flamengo / RJ,São Paulo / SP,17/04/2024,21:30,Jornalista Mário Filho / Rio de Janeiro
-015,Botafogo / RJ,Atlético / GO,18/04/2024,21:30,Nilton Santos / Rio de Janeiro
+015,Botafogo / RJ,Atlético Goianiense / GO,18/04/2024,21:30,Nilton Santos / Rio de Janeiro
 016,Palmeiras / SP,Internacional / RS,17/04/2024,20:00,Arena Barueri / Barueri
 017,Red Bull Bragantino / SP,Vasco da Gama / RJ,17/04/2024,19:00,Nabi Abi Chedid / Braganca Paulista
 018,Fortaleza / CE,Cruzeiro / MG,17/04/2024,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
@@ -26,9 +26,9 @@ Game,Home,Away,Date,Time,Stadium
 026,Palmeiras / SP,Flamengo / RJ,21/04/2024,16:00,Allianz Parque / Sao Paulo
 027,Red Bull Bragantino / SP,Corinthians / SP,20/04/2024,18:30,Nabi Abi Chedid / Braganca Paulista
 028,Athletico Paranaense / PR,Internacional / RS,21/04/2024,16:00,Ligga Arena / Curitiba
-029,Atlético / GO,São Paulo / SP,21/04/2024,18:30,Antônio Accioly / Goiania
+029,Atlético Goianiense / GO,São Paulo / SP,21/04/2024,18:30,Antônio Accioly / Goiania
 030,Criciúma / SC,Fortaleza / CE,24/07/2024,19:00,Heriberto Hulse / Criciuma
-031,Internacional / RS,Atlético / GO,28/04/2024,20:00,José Pinheiro Borda / Porto Alegre
+031,Internacional / RS,Atlético Goianiense / GO,28/04/2024,20:00,José Pinheiro Borda / Porto Alegre
 032,Cruzeiro / MG,Vitória / BA,28/04/2024,16:00,Magalhães Pinto / Belo Horizonte
 033,Bahia / BA,Grêmio / RS,27/04/2024,21:00,Octávio Mangabeira / Salvador
 034,Flamengo / RJ,Botafogo / RJ,28/04/2024,11:00,Jornalista Mário Filho / Rio de Janeiro
@@ -47,7 +47,7 @@ Game,Home,Away,Date,Time,Stadium
 047,Red Bull Bragantino / SP,Flamengo / RJ,04/05/2024,18:30,Nabi Abi Chedid / Braganca Paulista
 048,Athletico Paranaense / PR,Vasco da Gama / RJ,05/05/2024,16:00,Ligga Arena / Curitiba
 049,Cuiabá / MT,Palmeiras / SP,05/05/2024,18:30,Arena Pantanal / Cuiaba
-050,Juventude / RS,Atlético / GO,05/06/2024,19:00,Alfredo Jaconi / Caxias do Sul
+050,Juventude / RS,Atlético Goianiense / GO,05/06/2024,19:00,Alfredo Jaconi / Caxias do Sul
 051,Internacional / RS,Juventude / RS,14/08/2024,19:30,José Pinheiro Borda / Porto Alegre
 052,Atlético Mineiro / MG,Grêmio / RS,09/10/2024,19:30,ARENA MRV / Belo Horizonte
 053,Bahia / BA,Red Bull Bragantino / SP,12/05/2024,18:30,Octávio Mangabeira / Salvador
@@ -56,11 +56,11 @@ Game,Home,Away,Date,Time,Stadium
 056,Palmeiras / SP,Athletico Paranaense / PR,12/05/2024,16:00,Arena Barueri / Barueri
 057,São Paulo / SP,Fluminense / RJ,13/05/2024,20:00,Cícero Pompeu de Toledo / Sao Paulo
 058,Fortaleza / CE,Botafogo / RJ,12/05/2024,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
-059,Atlético / GO,Cruzeiro / MG,12/05/2024,16:00,Antônio Accioly / Goiania
+059,Atlético Goianiense / GO,Cruzeiro / MG,12/05/2024,16:00,Antônio Accioly / Goiania
 060,Criciúma / SC,Cuiabá / MT,09/06/2024,16:00,Heriberto Hulse / Criciuma
 061,Grêmio / RS,Red Bull Bragantino / SP,01/06/2024,16:00,Major Antônio Couto Pereira / Curitiba
 062,Atlético Mineiro / MG,Bahia / BA,02/06/2024,16:00,ARENA MRV / Belo Horizonte
-063,Vitória / BA,Atlético / GO,01/06/2024,16:00,Manoel Barradas / Salvador
+063,Vitória / BA,Atlético Goianiense / GO,01/06/2024,16:00,Manoel Barradas / Salvador
 064,Fluminense / RJ,Juventude / RS,01/06/2024,18:30,Jornalista Mário Filho / Rio de Janeiro
 065,Vasco da Gama / RJ,Flamengo / RJ,02/06/2024,16:00,Jornalista Mário Filho / Rio de Janeiro
 066,Corinthians / SP,Botafogo / RJ,01/06/2024,21:00,Arena Corinthians / Sao Paulo
@@ -76,7 +76,7 @@ Game,Home,Away,Date,Time,Stadium
 076,Palmeiras / SP,Vasco da Gama / RJ,13/06/2024,21:30,Allianz Parque / Sao Paulo
 077,Red Bull Bragantino / SP,Atlético Mineiro / MG,11/06/2024,21:30,Nabi Abi Chedid / Braganca Paulista
 078,Athletico Paranaense / PR,Criciúma / SC,13/06/2024,20:00,Ligga Arena / Curitiba
-079,Atlético / GO,Corinthians / SP,11/06/2024,19:00,Antônio Accioly / Goiania
+079,Atlético Goianiense / GO,Corinthians / SP,11/06/2024,19:00,Antônio Accioly / Goiania
 080,Juventude / RS,Vitória / BA,11/06/2024,19:00,Alfredo Jaconi / Caxias do Sul
 081,Grêmio / RS,Botafogo / RJ,16/06/2024,18:30,Kleber José de Andrade / Cariacica
 082,Atlético Mineiro / MG,Palmeiras / SP,17/06/2024,20:30,ARENA MRV / Belo Horizonte
@@ -354,3 +354,11 @@ Game,Home,Away,Date,Time,Stadium
 358,Athletico Paranaense / PR,Fluminense / RJ,01/12/2024,18:30,Ligga Arena / Curitiba
 359,Cuiabá / MT,Bahia / BA,30/11/2024,19:30,Arena Pantanal / Cuiaba
 360,Criciúma / SC,Corinthians / SP,30/11/2024,19:30,Heriberto Hulse / Criciuma
+361,Internacional / RS,Botafogo / RJ,04/12/2024,21:30,José Pinheiro Borda / Porto Alegre
+362,Cruzeiro / MG,Palmeiras / SP,04/12/2024,21:30,Magalhães Pinto / Belo Horizonte
+363,Vitória / BA,Grêmio / RS,04/12/2024,20:00,Manoel Barradas / Salvador
+365,Vasco da Gama / RJ,Atlético Mineiro / MG,04/12/2024,19:00,São Januário / Rio de Janeiro
+366,Corinthians / SP,Bahia / BA,03/12/2024,20:00,Arena Corinthians / Sao Paulo
+367,São Paulo / SP,Juventude / RS,04/12/2024,20:00,Cícero Pompeu de Toledo / Sao Paulo
+369,Atlético Goianiense / GO,Fortaleza / CE,04/12/2024,21:30,Antônio Accioly / Goiania
+370,Criciúma / SC,Flamengo / RJ,04/12/2024,20:00,Heriberto Hulse / Criciuma

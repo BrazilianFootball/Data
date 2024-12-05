@@ -21,7 +21,7 @@ Game,Home,Away,Date,Time,Stadium
 020,Vitória / ES,CSA / AL,06/02/2020,20:30,Salvador Venâncio da Costa / Vitoria
 021,Boavista / RJ,Chapecoense / SC,19/02/2020,19:15,Elcyr Resende de Mendonça / Saquarema
 022,Caucaia / CE,São José / RS,12/02/2020,16:00,Raimundo de Oliveira / Caucaia
-023,União de Rondonópolis / MT,Atlético / GO,06/02/2020,21:30,Luthero Lopes / Rondonopolis
+023,União de Rondonópolis / MT,Atlético Goianiense / GO,06/02/2020,21:30,Luthero Lopes / Rondonopolis
 024,Operário / MT,Santa Cruz / PE,05/02/2020,21:30,Arena Pantanal / Cuiaba
 025,Imperatriz / MA,Vitória / BA,11/02/2020,21:30,Frei Epifânio D´abadia / Imperatriz
 026,Lagarto / SE,Volta Redonda / RJ,19/02/2020,15:30,Estádio Estadual Gov Albano Franco / Simao Dias
@@ -55,7 +55,7 @@ Game,Home,Away,Date,Time,Stadium
 054,Santo André / SP,Goiás / GO,04/03/2020,19:15,Bruno José Daniel / Santo Andre
 055,Brasil / RS,Manaus / AM,04/03/2020,20:30,Bento da Silva Freitas / Pelotas
 056,Boa / MG,Cruzeiro / MG,04/03/2020,21:30,Dilzon Luís de Melo / Varginha
-057,Atlético / GO,Santa Cruz / PE,04/03/2020,21:30,Olímpico Pedro Ludovico / Goiania
+057,Atlético Goianiense / GO,Santa Cruz / PE,04/03/2020,21:30,Olímpico Pedro Ludovico / Goiania
 058,Vitória / BA,Lagarto / SE,05/03/2020,19:15,Manoel Barradas / Salvador
 059,Operário / PR,América / MG,05/03/2020,20:00,Germano Kruger / Ponta Grossa
 060,Vasco da Gama / RJ,ABC / RN,05/03/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
@@ -65,7 +65,7 @@ Game,Home,Away,Date,Time,Stadium
 064,Ceará / CE,Vitória / BA,12/03/2020,19:15,Governador Plácido Aderaldo Castelo / Fortaleza
 065,Ferroviária / SP,América / MG,11/03/2020,19:15,Ademar Pereira de Barros / Araraquara
 066,Cruzeiro / MG,CRB / AL,11/03/2020,21:30,Magalhães Pinto / Belo Horizonte
-067,Atlético / GO,São José / RS,11/03/2020,21:30,Olímpico Pedro Ludovico / Goiania
+067,Atlético Goianiense / GO,São José / RS,11/03/2020,21:30,Olímpico Pedro Ludovico / Goiania
 068,Vasco da Gama / RJ,Goiás / GO,12/03/2020,21:30,São Januário / Rio de Janeiro
 069,Ponte Preta / SP,Afogados / PE,12/03/2020,19:15,Moisés Lucarelli / Campinas
 070,Brasil / RS,Brusque / SC,12/03/2020,21:30,Bento da Silva Freitas / Pelotas
@@ -73,18 +73,18 @@ Game,Home,Away,Date,Time,Stadium
 072,CRB / AL,Cruzeiro / MG,26/08/2020,16:00,Rei Pelé / Maceio
 073,Vitória / BA,Ceará / CE,26/08/2020,21:30,Manoel Barradas / Salvador
 074,América / RN,Juventude / RS,26/08/2020,16:00,Arena das Dunas / Natal
-075,São José / RS,Atlético / GO,27/08/2020,21:30,Francisco Novelletto Neto / Porto Alegre
+075,São José / RS,Atlético Goianiense / GO,27/08/2020,21:30,Francisco Novelletto Neto / Porto Alegre
 076,Goiás / GO,Vasco da Gama / RJ,26/08/2020,21:30,Hailé Pinheiro / Goiania
 077,América / MG,Ferroviária / SP,25/08/2020,19:00,Raimundo Sampaio / Belo Horizonte
 078,Afogados / PE,Ponte Preta / SP,25/08/2020,16:00,Valdemar Viana de Araújo / Afogados da Ingazeira
 079,Brusque / SC,Brasil / RS,27/08/2020,19:00,Augusto Bauer / Brusque
 080,Fluminense / RJ,Figueirense / SC,25/08/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
-081,Fluminense / RJ,Atlético / GO,16/09/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
+081,Fluminense / RJ,Atlético Goianiense / GO,16/09/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
 082,Brusque / SC,Ceará / CE,16/09/2020,21:30,Augusto Bauer / Brusque
 083,Botafogo / RJ,Vasco da Gama / RJ,17/09/2020,19:00,Nilton Santos / Rio de Janeiro
 084,Ponte Preta / SP,América / MG,16/09/2020,19:00,Moisés Lucarelli / Campinas
 085,Juventude / RS,CRB / AL,17/09/2020,16:00,Alfredo Jaconi / Caxias do Sul
-086,Atlético / GO,Fluminense / RJ,24/09/2020,20:00,Olímpico Pedro Ludovico / Goiania
+086,Atlético Goianiense / GO,Fluminense / RJ,24/09/2020,20:00,Olímpico Pedro Ludovico / Goiania
 087,Ceará / CE,Brusque / SC,23/09/2020,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 088,Vasco da Gama / RJ,Botafogo / RJ,23/09/2020,21:30,São Januário / Rio de Janeiro
 089,América / MG,Ponte Preta / SP,22/09/2020,21:30,Raimundo Sampaio / Belo Horizonte
@@ -93,14 +93,14 @@ Game,Home,Away,Date,Time,Stadium
 092,São Paulo / SP,Fortaleza / CE,25/10/2020,20:30,Cícero Pompeu de Toledo / Sao Paulo
 093,Botafogo / RJ,Cuiabá / MT,27/10/2020,21:30,Nilton Santos / Rio de Janeiro
 094,Santos / SP,Ceará / CE,28/10/2020,16:00,Urbano Caldeira / Santos
-095,Atlético / GO,Internacional / RS,28/10/2020,19:00,Olímpico Pedro Ludovico / Goiania
+095,Atlético Goianiense / GO,Internacional / RS,28/10/2020,19:00,Olímpico Pedro Ludovico / Goiania
 096,Athletico Paranaense / PR,Flamengo / RJ,28/10/2020,21:30,Joaquim Américo Guimarães / Curitiba
 097,Corinthians / SP,América / MG,28/10/2020,21:30,Arena Corinthians / Sao Paulo
 098,Red Bull Bragantino / SP,Palmeiras / SP,29/10/2020,19:00,Nabi Abi Chedid / Braganca Paulista
 099,Grêmio / RS,Juventude / RS,29/10/2020,21:30,Arena do Grêmio / Porto Alegre
 100,Cuiabá / MT,Botafogo / RJ,03/11/2020,19:00,Arena Pantanal / Cuiaba
 101,Ceará / CE,Santos / SP,04/11/2020,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
-102,Internacional / RS,Atlético / GO,03/11/2020,21:30,José Pinheiro Borda / Porto Alegre
+102,Internacional / RS,Atlético Goianiense / GO,03/11/2020,21:30,José Pinheiro Borda / Porto Alegre
 103,Flamengo / RJ,Athletico Paranaense / PR,04/11/2020,21:30,Jornalista Mário Filho / Rio de Janeiro
 104,América / MG,Corinthians / SP,04/11/2020,21:30,Raimundo Sampaio / Belo Horizonte
 105,Palmeiras / SP,Red Bull Bragantino / SP,05/11/2020,19:00,Allianz Parque / Sao Paulo

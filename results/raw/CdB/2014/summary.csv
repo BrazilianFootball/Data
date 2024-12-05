@@ -7,7 +7,7 @@ Game,Home,Away,Date,Time,Stadium
 006,Sao Bernardo / SP,Paraná / PR,20/03/2014,19:30,Primeiro de Maio / 
 007,J. Malucelli / PR,Vitória / BA,19/03/2014,19:30,Estádio Janguito Malucelli / Curitiba
 008,Novo Hamburgo / RS,Joinville / SC,09/04/2014,19:30,Estádio do Vale / Novo Hamburgo
-009,Flamengo / PI,Atlético / GO,12/03/2014,20:30,Tibério Nunes / Floriano
+009,Flamengo / PI,Atlético Goianiense / GO,12/03/2014,20:30,Tibério Nunes / Floriano
 010,Desportiva / ES,ABC / RN,12/03/2014,20:30,Engenheiro Alencar de Araripe / Cariacica
 011,Mixto / MT,Santos / SP,02/04/2014,22:00,Arena Pantanal / Cuiabá
 012,Princesa do Solimões / AM,Brasiliense / DF,16/04/2014,21:30,Roberto Simonsen / Manaus
@@ -46,7 +46,7 @@ Game,Home,Away,Date,Time,Stadium
 046,Paraná / PR,Sao Bernardo / SP,10/04/2014,19:30,Durival Britto e Silva / Curitiba
 047,Vitória / BA,J. Malucelli / PR,24/04/2014,19:30,Governador Roberto Santos / Salvador
 048,Joinville / SC,Novo Hamburgo / RS,22/04/2014,19:30,Arena Joinville / Joinville
-049,Atlético / GO,Flamengo / PI,09/04/2014,20:30,Serra Dourada / Goiânia
+049,Atlético Goianiense / GO,Flamengo / PI,09/04/2014,20:30,Serra Dourada / Goiânia
 050,ABC / RN,Desportiva / ES,02/04/2014,20:30,Maria Lamas Farache / Natal
 051,Santos / SP,Mixto / MT,16/04/2014,22:00,Urbano Caldeira / Santos
 052,Brasiliense / DF,Princesa do Solimões / AM,23/04/2014,20:30,Elmo Serejo Farias / Taguatinga
@@ -80,7 +80,7 @@ Game,Home,Away,Date,Time,Stadium
 088,Londrina / PR,Grêmio Barueri / SP,01/05/2014,21:50,Municipal Jacy Scaff / Londrina
 089,Sampaio Corrêa / MA,Palmeiras / SP,07/05/2014,22:00,Estádio Governador João Castelo / São Luis
 090,ASA / AL,Avaí / SC,07/05/2014,19:30,Coaracy da Mata Fonseca / Arapiraca
-091,ABC / RN,Atlético / GO,07/05/2014,20:30,Maria Lamas Farache / Natal
+091,ABC / RN,Atlético Goianiense / GO,07/05/2014,20:30,Maria Lamas Farache / Natal
 092,América / RN,Náutico / PE,06/05/2014,21:50,Arena das Dunas / Natal
 093,Nacional / AM,Corinthians / SP,30/04/2014,22:00,Arena da Amazônia / Manaus
 094,América / MG,Bahia / BA,07/05/2014,22:00,Estádio Raimundo Sampaio / Belo Horizonte
@@ -94,7 +94,7 @@ Game,Home,Away,Date,Time,Stadium
 103,Grêmio Barueri / SP,Londrina / PR,08/05/2014,19:30,Estádio Municipal Barueri / Barueri
 104,Avaí / SC,ASA / AL,13/05/2014,20:30,Aderbal Ramos da Silva / Florianópolis
 105,Vasco da Gama / RJ,Treze / PB,07/05/2014,22:00,São Januário / Rio de Janeiro
-106,Atlético / GO,ABC / RN,14/05/2014,20:30,Serra Dourada / Goiânia
+106,Atlético Goianiense / GO,ABC / RN,14/05/2014,20:30,Serra Dourada / Goiânia
 107,Bahia / BA,América / MG,14/05/2014,19:30,Octávio Mangabeira / Salvador
 108,Figueirense / SC,Red Bull Bragantino / SP,22/07/2014,19:30,Estádio Orlando Scarpelli / Florianópolis
 109,Palmeiras / SP,Sampaio Corrêa / MA,14/05/2014,22:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo

@@ -7,7 +7,7 @@ Game,Home,Away,Date,Time,Stadium
 006,Azuriz / PR,Botafogo / SP,23/02/2022,19:00,Os Pioneiros / Pato Branco
 007,URT / MG,Avaí / SC,22/02/2022,19:00,Zama Maciel / Patos de Minas
 008,Ceilândia / DF,Londrina / PR,02/03/2022,15:30,Abadião / Ceilândia
-009,União de Rondonópolis / MT,Atlético / GO,03/03/2022,19:00,Luthero Lopes / Rondonopolis
+009,União de Rondonópolis / MT,Atlético Goianiense / GO,03/03/2022,19:00,Luthero Lopes / Rondonopolis
 010,Nova Venecia / ES,Ferroviário / CE,03/03/2022,15:30,Zenor Pedrosa Rocha / Nova Venecia
 011,Porto Velho / RO,Juventude / RS,02/03/2022,16:30,Aluizio Pinheiro Ferreira / Porto Velho
 012,Real Noroeste / ES,Operário / PR,02/03/2022,19:00,José Olimpio da Rocha / Aguia Branca
@@ -47,7 +47,7 @@ Game,Home,Away,Date,Time,Stadium
 046,Pouso Alegre / MG,Coritiba / PR,10/03/2022,21:30,Irmão Gino Maria Rossi / Pouso Alegre
 047,Avaí / SC,Ceilândia / DF,10/03/2022,21:30,Aderbal Ramos da Silva / Florianopolis
 048,Portuguesa / RJ,Sampaio Corrêa / MA,15/03/2022,16:00,Luso Brasileiro / Rio de Janeiro
-049,Atlético / GO,Nova Venecia / ES,15/03/2022,19:00,Antônio Accioly / Goiania
+049,Atlético Goianiense / GO,Nova Venecia / ES,15/03/2022,19:00,Antônio Accioly / Goiania
 050,Ceará / CE,Tuna Luso / PA,15/03/2022,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 051,Guarani / SP,Vila Nova / GO,15/03/2022,21:30,Brinco de Ouro da Princesa / Campinas
 052,ABC / RN,Altos / PI,16/03/2022,16:00,Maria Lamas Farache / Natal
@@ -72,7 +72,7 @@ Game,Home,Away,Date,Time,Stadium
 071,Tombense / MG,Ceará / CE,20/04/2022,21:30,Soares de Azevedo / Muriae
 072,Portuguesa / RJ,Corinthians / SP,20/04/2022,21:30,Jacy Scaff / Londrina
 073,Ceilândia / DF,Botafogo / RJ,20/04/2022,21:30,Estádio Nacional Mané Garrincha / Brasilia
-074,Atlético / GO,Cuiabá / MT,21/04/2022,21:30,Antônio Accioly / Goiania
+074,Atlético Goianiense / GO,Cuiabá / MT,21/04/2022,21:30,Antônio Accioly / Goiania
 075,Palmeiras / SP,Juazeirense / BA,30/04/2022,21:00,Arena Barueri / Barueri
 076,Altos / PI,Flamengo / RJ,01/05/2022,18:00,Governador Alberto Silva / Teresina
 077,América / MG,CSA / AL,10/05/2022,19:00,Raimundo Sampaio / Belo Horizonte
@@ -83,7 +83,7 @@ Game,Home,Away,Date,Time,Stadium
 082,Cruzeiro / MG,Remo / PA,12/05/2022,19:30,Raimundo Sampaio / Belo Horizonte
 083,Vila Nova / GO,Fluminense / RJ,11/05/2022,21:30,Serra Dourada / Goiania
 084,Corinthians / SP,Portuguesa / RJ,11/05/2022,21:30,Arena Corinthians / Sao Paulo
-085,Cuiabá / MT,Atlético / GO,11/05/2022,22:00,Arena Pantanal / Cuiaba
+085,Cuiabá / MT,Atlético Goianiense / GO,11/05/2022,22:00,Arena Pantanal / Cuiaba
 086,Vitória / BA,Fortaleza / CE,12/05/2022,19:00,Manoel Barradas / Salvador
 087,São Paulo / SP,Juventude / RS,12/05/2022,19:30,Arena Barueri / Barueri
 088,Botafogo / RJ,Ceilândia / DF,12/05/2022,21:30,Nilton Santos / Rio de Janeiro
@@ -94,7 +94,7 @@ Game,Home,Away,Date,Time,Stadium
 093,Corinthians / SP,Santos / SP,22/06/2022,21:30,Arena Corinthians / Sao Paulo
 094,São Paulo / SP,Palmeiras / SP,23/06/2022,20:00,Cícero Pompeu de Toledo / Sao Paulo
 095,Bahia / BA,Athletico Paranaense / PR,22/06/2022,19:30,Octávio Mangabeira / Salvador
-096,Atlético / GO,Goiás / GO,22/06/2022,19:00,Antônio Accioly / Goiania
+096,Atlético Goianiense / GO,Goiás / GO,22/06/2022,19:00,Antônio Accioly / Goiania
 097,Fortaleza / CE,Ceará / CE,22/06/2022,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
 098,Fluminense / RJ,Cruzeiro / MG,23/06/2022,19:00,Jornalista Mário Filho / Rio de Janeiro
 099,América / MG,Botafogo / RJ,30/06/2022,19:00,Raimundo Sampaio / Belo Horizonte
@@ -102,17 +102,17 @@ Game,Home,Away,Date,Time,Stadium
 101,Santos / SP,Corinthians / SP,13/07/2022,21:30,Urbano Caldeira / Santos
 102,Palmeiras / SP,São Paulo / SP,14/07/2022,20:00,Allianz Parque / Sao Paulo
 103,Athletico Paranaense / PR,Bahia / BA,12/07/2022,20:30,Joaquim Américo Guimarães / Curitiba
-104,Goiás / GO,Atlético / GO,13/07/2022,19:00,Hailé Pinheiro / Goiania
+104,Goiás / GO,Atlético Goianiense / GO,13/07/2022,19:00,Hailé Pinheiro / Goiania
 105,Ceará / CE,Fortaleza / CE,13/07/2022,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
 106,Cruzeiro / MG,Fluminense / RJ,12/07/2022,21:00,Magalhães Pinto / Belo Horizonte
 107,Botafogo / RJ,América / MG,14/07/2022,21:00,Nilton Santos / Rio de Janeiro
 108,Flamengo / RJ,Atlético Mineiro / MG,13/07/2022,21:30,Jornalista Mário Filho / Rio de Janeiro
-109,Atlético / GO,Corinthians / SP,27/07/2022,21:30,Antônio Accioly / Goiania
+109,Atlético Goianiense / GO,Corinthians / SP,27/07/2022,21:30,Antônio Accioly / Goiania
 110,Flamengo / RJ,Athletico Paranaense / PR,27/07/2022,21:30,Jornalista Mário Filho / Rio de Janeiro
 111,São Paulo / SP,América / MG,28/07/2022,20:00,Cícero Pompeu de Toledo / Sao Paulo
 112,Fortaleza / CE,Fluminense / RJ,28/07/2022,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
 113,Fluminense / RJ,Fortaleza / CE,17/08/2022,20:00,Jornalista Mário Filho / Rio de Janeiro
-114,Corinthians / SP,Atlético / GO,17/08/2022,21:30,Arena Corinthians / Sao Paulo
+114,Corinthians / SP,Atlético Goianiense / GO,17/08/2022,21:30,Arena Corinthians / Sao Paulo
 115,Athletico Paranaense / PR,Flamengo / RJ,17/08/2022,21:30,Joaquim Américo Guimarães / Curitiba
 116,América / MG,São Paulo / SP,18/08/2022,21:00,Raimundo Sampaio / Belo Horizonte
 117,Fluminense / RJ,Corinthians / SP,24/08/2022,19:30,Jornalista Mário Filho / Rio de Janeiro

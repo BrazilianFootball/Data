@@ -3,7 +3,7 @@ Game,Home,Away,Date,Time,Stadium
 004,Ceilândia / DF,Ceará / CE,03/04/2013,16:00,Mª de Lourdes Abadia / Ceilândia
 005,Rio Branco / AC,Internacional / RS,03/04/2013,22:00,Arena da Floresta / Rio Branco
 006,Guarani / CE,Santa Cruz / PE,03/04/2013,20:30,Mauro Castelo Branco Sampaio / Juazeiro do Norte
-007,Cametá / PA,Atlético / GO,10/04/2013,20:30,Orfelino Martins Valente / Cametá
+007,Cametá / PA,Atlético Goianiense / GO,10/04/2013,20:30,Orfelino Martins Valente / Cametá
 008,Veranópolis / RS,Santo André / SP,03/04/2013,20:30,Antônio David Farina / Veranópolis
 009,Vitória da Conquista / BA,Sport / PE,03/04/2013,22:00,Lomanto Júnior / Vitoria da Conquista
 010,Parnahyba / PI,ABC / RN,11/04/2013,20:30,Governador Alberto Silva / Teresina
@@ -81,7 +81,7 @@ Game,Home,Away,Date,Time,Stadium
 093,CRB / AL,Botafogo / RJ,02/05/2013,19:30,Rei Pelé / Maceió
 094,Arapongas / PR,Figueirense / SC,08/05/2013,19:30,José Chiappin / Arapongas
 095,Resende / RJ,Cruzeiro / MG,01/05/2013,21:50,Sylvio Raulino de Oliveira / Volta Redonda
-096,Cianorte / PR,Atlético / GO,01/05/2013,16:00,Albino Turbay / Cianorte
+096,Cianorte / PR,Atlético Goianiense / GO,01/05/2013,16:00,Albino Turbay / Cianorte
 097,América / RN,Athletico Paranaense / PR,09/05/2013,19:30,Manoel Dantas Barretto / Ceará-Mirim
 098,Naviraiense / MS,Paysandu / PA,08/05/2013,22:00,Antônio Augusto dos Santos / Naviraí
 099,Joinville / SC,Santos / SP,08/05/2013,22:00,Arena Joinville / Joinville
@@ -111,7 +111,7 @@ Game,Home,Away,Date,Time,Stadium
 126,Salgueiro / PE,Criciúma / SC,02/07/2013,19:30,Cornélio de Barros / Salgueiro
 127,Ponte Preta / SP,Nacional / AM,10/07/2013,19:30,Moisés Lucarelli / Campinas
 128,Botafogo / RJ,Figueirense / SC,03/07/2013,21:50,Estádio General Raulino de Oliveira / Volta Redonda
-129,Cruzeiro / MG,Atlético / GO,09/07/2013,21:50,Governador Magalhães Pinto / Belo Horizonte
+129,Cruzeiro / MG,Atlético Goianiense / GO,09/07/2013,21:50,Governador Magalhães Pinto / Belo Horizonte
 130,Paysandu / PA,Athletico Paranaense / PR,17/07/2013,19:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
 131,Santos / SP,CRAC / GO,10/07/2013,21:50,Urbano Caldeira / Santos
 132,Fortaleza / CE,Luverdense / MT,10/07/2013,19:00,Presidente Vargas / Fortaleza
@@ -121,7 +121,7 @@ Game,Home,Away,Date,Time,Stadium
 136,Criciúma / SC,Salgueiro / PE,17/07/2013,19:30,Estádio Heriberto Hulse / Criciúma
 137,Nacional / AM,Ponte Preta / SP,24/07/2013,21:30,Roberto Simonsen / Manaus
 138,Figueirense / SC,Botafogo / RJ,24/07/2013,21:50,Estádio Orlando Scarpelli / Florianópolis
-139,Atlético / GO,Cruzeiro / MG,17/07/2013,19:30,Serra Dourada / Goiânia
+139,Atlético Goianiense / GO,Cruzeiro / MG,17/07/2013,19:30,Serra Dourada / Goiânia
 140,Athletico Paranaense / PR,Paysandu / PA,24/07/2013,19:30,Durival Britto e Silva / Curitiba
 141,CRAC / GO,Santos / SP,24/07/2013,21:50,Genervino Evangelista da Fonseca / Catalão
 142,Luverdense / MT,Fortaleza / CE,18/07/2013,21:50,Municipal Passo das Emas / Lucas do R. Verde

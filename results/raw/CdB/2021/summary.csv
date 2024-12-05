@@ -24,7 +24,7 @@ Game,Home,Away,Date,Time,Stadium
 023,Nova Mutum / MT,Tombense / MG,17/03/2021,16:30,Valdir Doilho Wons / Nova Mutum
 024,Atlético / BA,Vila Nova / GO,17/03/2021,17:00,Antônio Carneiro / Alagoinhas
 025,Retrô / PE,Brusque / SC,17/03/2021,18:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
-026,Galvez / AC,Atlético / GO,17/03/2021,17:00,Arena Pantanal / Cuiaba
+026,Galvez / AC,Atlético Goianiense / GO,17/03/2021,17:00,Arena Pantanal / Cuiaba
 027,Caxias / RS,Fortaleza / CE,17/03/2021,20:00,Francisco Stédile / Caxias do Sul
 028,Rio Branco - VN / ES,ABC / RN,17/03/2021,15:30,Estádio Olimpio Perim / Venda Nova do Imigrante
 029,Guarany / CE,CSA / AL,17/03/2021,15:30,Plácido Aderaldo Castelo / Sobral
@@ -58,7 +58,7 @@ Game,Home,Away,Date,Time,Stadium
 057,América / RN,Cruzeiro / MG,14/04/2021,21:30,Arena das Dunas / Natal
 058,Avaí / SC,Cascavel / PR,15/04/2021,19:00,Aderbal Ramos da Silva / Florianopolis
 059,4 de Julho / PI,Cuiabá / MT,15/04/2021,19:00,Lindolfo Monteiro / Teresina
-060,Joinville / SC,Atlético / GO,15/04/2021,21:30,Arena Joinville / Joinville
+060,Joinville / SC,Atlético Goianiense / GO,15/04/2021,21:30,Arena Joinville / Joinville
 061,Cianorte / PR,Santos / SP,01/06/2021,19:00,Albino Turbay / Cianorte
 062,Vila Nova / GO,Bahia / BA,01/06/2021,16:30,Onésio Brasileiro Alvarenga / Goiania
 063,CRB / AL,Palmeiras / SP,03/06/2021,21:30,Rei Pelé / Maceio
@@ -69,7 +69,7 @@ Game,Home,Away,Date,Time,Stadium
 068,América / MG,Criciúma / SC,02/06/2021,21:30,Raimundo Sampaio / Belo Horizonte
 069,Avaí / SC,Athletico Paranaense / PR,03/06/2021,19:00,Aderbal Ramos da Silva / Florianopolis
 070,Remo / PA,Atlético Mineiro / MG,02/06/2021,19:00,Evandro Almeida / Belem
-071,Corinthians / SP,Atlético / GO,02/06/2021,21:30,Arena Corinthians / Sao Paulo
+071,Corinthians / SP,Atlético Goianiense / GO,02/06/2021,21:30,Arena Corinthians / Sao Paulo
 072,Vitória / BA,Internacional / RS,03/06/2021,19:00,Manoel Barradas / Salvador
 073,Cruzeiro / MG,Juazeirense / BA,03/06/2021,16:30,Magalhães Pinto / Belo Horizonte
 074,Chapecoense / SC,ABC / RN,02/06/2021,16:30,Índio Condá / Chapeco
@@ -85,7 +85,7 @@ Game,Home,Away,Date,Time,Stadium
 084,Criciúma / SC,América / MG,09/06/2021,21:30,Heriberto Hulse / Criciuma
 085,Athletico Paranaense / PR,Avaí / SC,09/06/2021,19:00,Joaquim Américo Guimarães / Curitiba
 086,Atlético Mineiro / MG,Remo / PA,10/06/2021,19:00,Magalhães Pinto / Belo Horizonte
-087,Atlético / GO,Corinthians / SP,09/06/2021,21:30,Antônio Accioly / Goiania
+087,Atlético Goianiense / GO,Corinthians / SP,09/06/2021,21:30,Antônio Accioly / Goiania
 088,Internacional / RS,Vitória / BA,10/06/2021,21:30,José Pinheiro Borda / Porto Alegre
 089,Juazeirense / BA,Cruzeiro / MG,09/06/2021,19:00,Adauto Moraes / Juazeiro
 090,ABC / RN,Chapecoense / SC,09/06/2021,16:30,Maria Lamas Farache / Natal
@@ -96,7 +96,7 @@ Game,Home,Away,Date,Time,Stadium
 095,Vitória / BA,Grêmio / RS,27/07/2021,21:30,Manoel Barradas / Salvador
 096,Fortaleza / CE,CRB / AL,29/07/2021,16:30,Governador Plácido Aderaldo Castelo / Fortaleza
 097,Flamengo / RJ,ABC / RN,29/07/2021,20:00,Jornalista Mário Filho / Rio de Janeiro
-098,Athletico Paranaense / PR,Atlético / GO,28/07/2021,16:30,Joaquim Américo Guimarães / Curitiba
+098,Athletico Paranaense / PR,Atlético Goianiense / GO,28/07/2021,16:30,Joaquim Américo Guimarães / Curitiba
 099,Atlético Mineiro / MG,Bahia / BA,28/07/2021,21:30,Magalhães Pinto / Belo Horizonte
 100,Santos / SP,Juazeirense / BA,28/07/2021,19:15,Urbano Caldeira / Santos
 101,Vasco da Gama / RJ,São Paulo / SP,04/08/2021,21:30,São Januário / Rio de Janeiro
@@ -104,7 +104,7 @@ Game,Home,Away,Date,Time,Stadium
 103,Grêmio / RS,Vitória / BA,03/08/2021,19:00,Arena do Grêmio / Porto Alegre
 104,CRB / AL,Fortaleza / CE,04/08/2021,16:30,Rei Pelé / Maceio
 105,ABC / RN,Flamengo / RJ,05/08/2021,21:30,Arena das Dunas / Natal
-106,Atlético / GO,Athletico Paranaense / PR,04/08/2021,19:15,Antônio Accioly / Goiania
+106,Atlético Goianiense / GO,Athletico Paranaense / PR,04/08/2021,19:15,Antônio Accioly / Goiania
 107,Bahia / BA,Atlético Mineiro / MG,04/08/2021,21:30,Alberto Oliveira / Feira de Santana
 108,Juazeirense / BA,Santos / SP,05/08/2021,19:15,Adauto Moraes / Juazeiro
 109,Athletico Paranaense / PR,Santos / SP,25/08/2021,19:00,Joaquim Américo Guimarães / Curitiba

@@ -5,12 +5,12 @@ Game,Home,Away,Date,Time,Stadium
 004,Ituano / SP,Ceará / CE,14/04/2023,21:30,Novelli Junior / Itu
 005,Mirassol / SP,Chapecoense / SC,15/04/2023,17:00,José Maria de Campos Maia / Mirassol
 006,Vitória / BA,Ponte Preta / SP,16/04/2023,18:00,Manoel Barradas / Salvador
-007,Sampaio Corrêa / MA,Atlético / GO,15/04/2023,17:00,Governador João Castelo / Sao Luis
+007,Sampaio Corrêa / MA,Atlético Goianiense / GO,15/04/2023,17:00,Governador João Castelo / Sao Luis
 008,Juventude / RS,Botafogo / SP,15/04/2023,18:15,Alfredo Jaconi / Caxias do Sul
 009,Londrina / PR,ABC / RN,16/04/2023,15:30,Jacy Scaff / Londrina
 010,CRB / AL,Sport / PE,05/07/2023,19:00,Rei Pelé / Maceio
 011,Ponte Preta / SP,Criciúma / SC,21/04/2023,21:30,Moisés Lucarelli / Campinas
-012,Atlético / GO,CRB / AL,21/04/2023,16:30,Antônio Accioly / Goiania
+012,Atlético Goianiense / GO,CRB / AL,21/04/2023,16:30,Antônio Accioly / Goiania
 013,Avaí / SC,Mirassol / SP,22/04/2023,16:00,Aderbal Ramos da Silva / Florianopolis
 014,Botafogo / SP,Sampaio Corrêa / MA,21/04/2023,19:00,Santa Cruz / Ribeirao Preto
 015,Novorizontino / SP,Juventude / RS,22/04/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
@@ -27,10 +27,10 @@ Game,Home,Away,Date,Time,Stadium
 026,Vitória / BA,Londrina / PR,28/04/2023,19:00,Manoel Barradas / Salvador
 027,Sampaio Corrêa / MA,Mirassol / SP,29/04/2023,16:00,Governador João Castelo / Sao Luis
 028,Chapecoense / SC,Ponte Preta / SP,29/04/2023,17:00,Índio Condá / Chapeco
-029,Tombense / MG,Atlético / GO,29/04/2023,18:15,Soares de Azevedo / Muriae
+029,Tombense / MG,Atlético Goianiense / GO,29/04/2023,18:15,Soares de Azevedo / Muriae
 030,ABC / RN,Ceará / CE,30/04/2023,18:00,Maria Lamas Farache / Natal
 031,Ponte Preta / SP,Botafogo / SP,02/05/2023,19:00,Moisés Lucarelli / Campinas
-032,Atlético / GO,Chapecoense / SC,02/05/2023,21:30,Antônio Accioly / Goiania
+032,Atlético Goianiense / GO,Chapecoense / SC,02/05/2023,21:30,Antônio Accioly / Goiania
 033,Avaí / SC,Vila Nova / GO,03/05/2023,21:15,Aderbal Ramos da Silva / Florianopolis
 034,Ituano / SP,ABC / RN,03/05/2023,19:00,Novelli Junior / Itu
 035,Mirassol / SP,Novorizontino / SP,03/05/2023,19:00,José Maria de Campos Maia / Mirassol
@@ -40,7 +40,7 @@ Game,Home,Away,Date,Time,Stadium
 039,Londrina / PR,Criciúma / SC,01/05/2023,16:00,Jacy Scaff / Londrina
 040,CRB / AL,Sampaio Corrêa / MA,02/05/2023,19:00,Rei Pelé / Maceio
 041,Ponte Preta / SP,Ceará / CE,07/05/2023,11:00,Moisés Lucarelli / Campinas
-042,Atlético / GO,Londrina / PR,08/05/2023,20:00,Antônio Accioly / Goiania
+042,Atlético Goianiense / GO,Londrina / PR,08/05/2023,20:00,Antônio Accioly / Goiania
 043,Criciúma / SC,Ituano / SP,06/05/2023,16:00,Heriberto Hulse / Criciuma
 044,Botafogo / SP,Vitória / BA,05/05/2023,21:30,Santa Cruz / Ribeirao Preto
 045,Mirassol / SP,Vila Nova / GO,06/05/2023,18:15,José Maria de Campos Maia / Mirassol
@@ -54,13 +54,13 @@ Game,Home,Away,Date,Time,Stadium
 053,Avaí / SC,Chapecoense / SC,12/05/2023,21:30,Aderbal Ramos da Silva / Florianopolis
 054,Ituano / SP,Sport / PE,14/05/2023,20:30,Novelli Junior / Itu
 055,Novorizontino / SP,CRB / AL,13/05/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
-056,Vitória / BA,Atlético / GO,14/05/2023,18:00,Manoel Barradas / Salvador
+056,Vitória / BA,Atlético Goianiense / GO,14/05/2023,18:00,Manoel Barradas / Salvador
 057,Ceará / CE,Tombense / MG,13/05/2023,18:15,Presidente Vargas / Fortaleza
 058,Juventude / RS,Mirassol / SP,13/05/2023,16:00,Alfredo Jaconi / Caxias do Sul
 059,Londrina / PR,Ponte Preta / SP,14/05/2023,15:30,Jacy Scaff / Londrina
 060,ABC / RN,Botafogo / SP,14/05/2023,18:00,Maria Lamas Farache / Natal
 061,Ponte Preta / SP,Guarani / SP,21/05/2023,18:00,Moisés Lucarelli / Campinas
-062,Atlético / GO,Avaí / SC,19/05/2023,21:30,Antônio Accioly / Goiania
+062,Atlético Goianiense / GO,Avaí / SC,19/05/2023,21:30,Antônio Accioly / Goiania
 063,Criciúma / SC,Ceará / CE,21/05/2023,15:30,Heriberto Hulse / Criciuma
 064,Ituano / SP,Novorizontino / SP,20/05/2023,17:00,Novelli Junior / Itu
 065,Mirassol / SP,Vitória / BA,19/05/2023,19:00,José Maria de Campos Maia / Mirassol
@@ -76,11 +76,11 @@ Game,Home,Away,Date,Time,Stadium
 075,Novorizontino / SP,Avaí / SC,23/05/2023,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
 076,Vitória / BA,CRB / AL,24/05/2023,19:00,Manoel Barradas / Salvador
 077,Sampaio Corrêa / MA,Ponte Preta / SP,24/05/2023,21:30,Governador João Castelo / Sao Luis
-078,Juventude / RS,Atlético / GO,24/05/2023,19:00,Alfredo Jaconi / Caxias do Sul
+078,Juventude / RS,Atlético Goianiense / GO,24/05/2023,19:00,Alfredo Jaconi / Caxias do Sul
 079,Londrina / PR,Ceará / CE,24/05/2023,19:00,Jacy Scaff / Londrina
 080,ABC / RN,Tombense / MG,23/05/2023,21:30,Maria Lamas Farache / Natal
 081,Ponte Preta / SP,Vila Nova / GO,28/05/2023,11:00,Moisés Lucarelli / Campinas
-082,Atlético / GO,Botafogo / SP,27/05/2023,18:00,Antônio Accioly / Goiania
+082,Atlético Goianiense / GO,Botafogo / SP,27/05/2023,18:00,Antônio Accioly / Goiania
 083,Avaí / SC,Vitória / BA,27/05/2023,17:30,Aderbal Ramos da Silva / Florianopolis
 084,Ituano / SP,Londrina / PR,27/05/2023,17:00,Novelli Junior / Itu
 085,Mirassol / SP,Criciúma / SC,28/05/2023,15:30,José Maria de Campos Maia / Mirassol
@@ -91,7 +91,7 @@ Game,Home,Away,Date,Time,Stadium
 090,CRB / AL,Juventude / RS,27/05/2023,17:00,Rei Pelé / Maceio
 091,Guarani / SP,CRB / AL,04/06/2023,15:30,Brinco de Ouro da Princesa / Campinas
 092,Vila Nova / GO,Sampaio Corrêa / MA,03/06/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
-093,Criciúma / SC,Atlético / GO,02/06/2023,21:30,Heriberto Hulse / Criciuma
+093,Criciúma / SC,Atlético Goianiense / GO,02/06/2023,21:30,Heriberto Hulse / Criciuma
 094,Botafogo / SP,Tombense / MG,02/06/2023,19:00,Santa Cruz / Ribeirao Preto
 095,Mirassol / SP,Ponte Preta / SP,03/06/2023,17:00,José Maria de Campos Maia / Mirassol
 096,Vitória / BA,Ituano / SP,02/06/2023,21:30,Manoel Barradas / Salvador
@@ -100,7 +100,7 @@ Game,Home,Away,Date,Time,Stadium
 099,Londrina / PR,Sport / PE,04/06/2023,18:00,Jacy Scaff / Londrina
 100,ABC / RN,Novorizontino / SP,03/06/2023,17:00,Maria Lamas Farache / Natal
 101,Ponte Preta / SP,ABC / RN,06/06/2023,19:00,Moisés Lucarelli / Campinas
-102,Atlético / GO,Ceará / CE,06/06/2023,21:30,Antônio Accioly / Goiania
+102,Atlético Goianiense / GO,Ceará / CE,06/06/2023,21:30,Antônio Accioly / Goiania
 103,Criciúma / SC,Juventude / RS,08/06/2023,16:00,Heriberto Hulse / Criciuma
 104,Botafogo / SP,Ituano / SP,06/06/2023,21:30,Santa Cruz / Ribeirao Preto
 105,Novorizontino / SP,Guarani / SP,07/06/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
@@ -112,7 +112,7 @@ Game,Home,Away,Date,Time,Stadium
 111,Ponte Preta / SP,Sport / PE,11/06/2023,11:00,Moisés Lucarelli / Campinas
 112,Vila Nova / GO,Guarani / SP,10/06/2023,16:00,Onésio Brasileiro Alvarenga / Goiania
 113,Avaí / SC,Botafogo / SP,11/06/2023,15:30,Aderbal Ramos da Silva / Florianopolis
-114,Ituano / SP,Atlético / GO,10/06/2023,17:00,Novelli Junior / Itu
+114,Ituano / SP,Atlético Goianiense / GO,10/06/2023,17:00,Novelli Junior / Itu
 115,Novorizontino / SP,Sampaio Corrêa / MA,10/06/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
 116,Vitória / BA,Criciúma / SC,11/06/2023,18:00,Manoel Barradas / Salvador
 117,Ceará / CE,CRB / AL,10/06/2023,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
@@ -120,7 +120,7 @@ Game,Home,Away,Date,Time,Stadium
 119,Londrina / PR,Mirassol / SP,11/06/2023,11:00,Jacy Scaff / Londrina
 120,ABC / RN,Chapecoense / SC,09/06/2023,21:30,Maria Lamas Farache / Natal
 121,Guarani / SP,Vitória / BA,25/06/2023,18:00,Brinco de Ouro da Princesa / Campinas
-122,Atlético / GO,Ponte Preta / SP,23/06/2023,19:00,Antônio Accioly / Goiania
+122,Atlético Goianiense / GO,Ponte Preta / SP,23/06/2023,19:00,Antônio Accioly / Goiania
 123,Avaí / SC,Londrina / PR,24/06/2023,16:00,Aderbal Ramos da Silva / Florianopolis
 124,Botafogo / SP,Vila Nova / GO,24/06/2023,11:00,Santa Cruz / Ribeirao Preto
 125,Mirassol / SP,ABC / RN,25/06/2023,11:00,José Maria de Campos Maia / Mirassol
@@ -138,9 +138,9 @@ Game,Home,Away,Date,Time,Stadium
 137,Ceará / CE,Avaí / SC,28/06/2023,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
 138,Chapecoense / SC,Sport / PE,27/06/2023,19:00,Índio Condá / Chapeco
 139,Londrina / PR,Juventude / RS,28/06/2023,21:30,Jacy Scaff / Londrina
-140,ABC / RN,Atlético / GO,28/06/2023,19:00,Maria Lamas Farache / Natal
+140,ABC / RN,Atlético Goianiense / GO,28/06/2023,19:00,Maria Lamas Farache / Natal
 141,Ponte Preta / SP,Novorizontino / SP,02/07/2023,20:30,Moisés Lucarelli / Campinas
-142,Atlético / GO,Vila Nova / GO,01/07/2023,16:00,Antônio Accioly / Goiania
+142,Atlético Goianiense / GO,Vila Nova / GO,01/07/2023,16:00,Antônio Accioly / Goiania
 143,Avaí / SC,ABC / RN,01/07/2023,17:00,Aderbal Ramos da Silva / Florianopolis
 144,Botafogo / SP,Guarani / SP,03/07/2023,20:15,Santa Cruz / Ribeirao Preto
 145,Mirassol / SP,Ituano / SP,03/07/2023,18:00,José Maria de Campos Maia / Mirassol
@@ -153,14 +153,14 @@ Game,Home,Away,Date,Time,Stadium
 152,Vila Nova / GO,Vitória / BA,10/07/2023,20:00,Onésio Brasileiro Alvarenga / Goiania
 153,Avaí / SC,Ponte Preta / SP,08/07/2023,17:00,Aderbal Ramos da Silva / Florianopolis
 154,Ituano / SP,Juventude / RS,08/07/2023,17:00,Novelli Junior / Itu
-155,Novorizontino / SP,Atlético / GO,07/07/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+155,Novorizontino / SP,Atlético Goianiense / GO,07/07/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
 156,Sport / PE,Mirassol / SP,09/07/2023,18:00,Adelmar da Costa Carvalho / Recife
 157,Ceará / CE,Botafogo / SP,07/07/2023,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 158,Chapecoense / SC,CRB / AL,09/07/2023,15:30,Índio Condá / Chapeco
 159,Tombense / MG,Sampaio Corrêa / MA,08/07/2023,18:00,Soares de Azevedo / Muriae
 160,ABC / RN,Criciúma / SC,08/07/2023,15:30,Maria Lamas Farache / Natal
 161,Ponte Preta / SP,Tombense / MG,15/07/2023,17:00,Moisés Lucarelli / Campinas
-162,Atlético / GO,Sport / PE,14/07/2023,21:30,Antônio Accioly / Goiania
+162,Atlético Goianiense / GO,Sport / PE,14/07/2023,21:30,Antônio Accioly / Goiania
 163,Criciúma / SC,Guarani / SP,13/07/2023,20:00,Heriberto Hulse / Criciuma
 164,Botafogo / SP,Chapecoense / SC,23/08/2023,21:30,Santa Cruz / Ribeirao Preto
 165,Mirassol / SP,Ceará / CE,16/07/2023,15:30,José Maria de Campos Maia / Mirassol
@@ -170,7 +170,7 @@ Game,Home,Away,Date,Time,Stadium
 169,Londrina / PR,Vila Nova / GO,15/07/2023,17:00,Jacy Scaff / Londrina
 170,CRB / AL,Avaí / SC,23/08/2023,19:00,Rei Pelé / Maceio
 171,Ponte Preta / SP,Juventude / RS,18/07/2023,21:30,Moisés Lucarelli / Campinas
-172,Atlético / GO,Mirassol / SP,19/07/2023,19:00,Antônio Accioly / Goiania
+172,Atlético Goianiense / GO,Mirassol / SP,19/07/2023,19:00,Antônio Accioly / Goiania
 173,Avaí / SC,Sampaio Corrêa / MA,19/07/2023,21:30,Aderbal Ramos da Silva / Florianopolis
 174,Botafogo / SP,Criciúma / SC,17/07/2023,20:00,Santa Cruz / Ribeirao Preto
 175,Novorizontino / SP,Londrina / PR,19/07/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
@@ -179,7 +179,7 @@ Game,Home,Away,Date,Time,Stadium
 178,Chapecoense / SC,Ituano / SP,18/07/2023,19:00,Índio Condá / Chapeco
 179,Tombense / MG,CRB / AL,18/07/2023,18:00,Soares de Azevedo / Muriae
 180,ABC / RN,Guarani / SP,19/07/2023,21:30,Arena das Dunas / Natal
-181,Guarani / SP,Atlético / GO,23/07/2023,11:00,Brinco de Ouro da Princesa / Campinas
+181,Guarani / SP,Atlético Goianiense / GO,23/07/2023,11:00,Brinco de Ouro da Princesa / Campinas
 182,Vila Nova / GO,ABC / RN,22/07/2023,17:00,Onésio Brasileiro Alvarenga / Goiania
 183,Criciúma / SC,Novorizontino / SP,22/07/2023,17:00,Heriberto Hulse / Criciuma
 184,Ituano / SP,Avaí / SC,22/07/2023,18:00,Novelli Junior / Itu
@@ -190,7 +190,7 @@ Game,Home,Away,Date,Time,Stadium
 189,Londrina / PR,Botafogo / SP,24/07/2023,19:00,Jacy Scaff / Londrina
 190,CRB / AL,Ponte Preta / SP,21/07/2023,19:00,Rei Pelé / Maceio
 191,Ponte Preta / SP,Vitória / BA,30/07/2023,18:00,Moisés Lucarelli / Campinas
-192,Atlético / GO,Sampaio Corrêa / MA,29/07/2023,18:00,Antônio Accioly / Goiania
+192,Atlético Goianiense / GO,Sampaio Corrêa / MA,29/07/2023,18:00,Antônio Accioly / Goiania
 193,Avaí / SC,Guarani / SP,29/07/2023,17:00,Aderbal Ramos da Silva / Florianopolis
 194,Botafogo / SP,Juventude / RS,29/07/2023,15:30,Francisco Palma Travassos / 
 195,Novorizontino / SP,Vila Nova / GO,30/07/2023,15:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
@@ -208,9 +208,9 @@ Game,Home,Away,Date,Time,Stadium
 207,Sampaio Corrêa / MA,Botafogo / SP,01/08/2023,19:00,Governador João Castelo / Sao Luis
 208,Juventude / RS,Novorizontino / SP,02/08/2023,21:30,Alfredo Jaconi / Caxias do Sul
 209,Londrina / PR,Chapecoense / SC,02/08/2023,21:30,Jacy Scaff / Londrina
-210,CRB / AL,Atlético / GO,01/08/2023,21:30,Rei Pelé / Maceio
+210,CRB / AL,Atlético Goianiense / GO,01/08/2023,21:30,Rei Pelé / Maceio
 211,Ponte Preta / SP,Chapecoense / SC,06/08/2023,15:30,Moisés Lucarelli / Campinas
-212,Atlético / GO,Tombense / MG,07/08/2023,20:00,Antônio Accioly / Goiania
+212,Atlético Goianiense / GO,Tombense / MG,07/08/2023,20:00,Antônio Accioly / Goiania
 213,Avaí / SC,Criciúma / SC,05/08/2023,15:30,Aderbal Ramos da Silva / Florianopolis
 214,Ituano / SP,Guarani / SP,05/08/2023,17:00,Novelli Junior / Itu
 215,Mirassol / SP,Sampaio Corrêa / MA,04/08/2023,21:30,José Maria de Campos Maia / Mirassol
@@ -226,7 +226,7 @@ Game,Home,Away,Date,Time,Stadium
 225,Novorizontino / SP,Mirassol / SP,11/08/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
 226,Vitória / BA,Ceará / CE,13/08/2023,18:00,Manoel Barradas / Salvador
 227,Sampaio Corrêa / MA,CRB / AL,12/08/2023,17:00,Governador João Castelo / Sao Luis
-228,Chapecoense / SC,Atlético / GO,13/08/2023,11:00,Índio Condá / Chapeco
+228,Chapecoense / SC,Atlético Goianiense / GO,13/08/2023,11:00,Índio Condá / Chapeco
 229,Tombense / MG,Sport / PE,11/08/2023,21:30,Soares de Azevedo / Muriae
 230,ABC / RN,Ituano / SP,14/08/2023,20:00,Maria Lamas Farache / Natal
 231,Guarani / SP,Sport / PE,18/08/2023,21:30,Brinco de Ouro da Princesa / Campinas
@@ -237,10 +237,10 @@ Game,Home,Away,Date,Time,Stadium
 236,Vitória / BA,Botafogo / SP,18/08/2023,19:00,Manoel Barradas / Salvador
 237,Ceará / CE,Ponte Preta / SP,20/08/2023,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
 238,Juventude / RS,Sampaio Corrêa / MA,19/08/2023,18:00,Alfredo Jaconi / Caxias do Sul
-239,Londrina / PR,Atlético / GO,17/08/2023,19:00,Jacy Scaff / Londrina
+239,Londrina / PR,Atlético Goianiense / GO,17/08/2023,19:00,Jacy Scaff / Londrina
 240,ABC / RN,CRB / AL,19/08/2023,17:00,Maria Lamas Farache / Natal
 241,Ponte Preta / SP,Londrina / PR,25/08/2023,19:00,Moisés Lucarelli / Campinas
-242,Atlético / GO,Vitória / BA,27/08/2023,18:00,Antônio Accioly / Goiania
+242,Atlético Goianiense / GO,Vitória / BA,27/08/2023,18:00,Antônio Accioly / Goiania
 243,Criciúma / SC,Vila Nova / GO,22/08/2023,21:30,Heriberto Hulse / Criciuma
 244,Botafogo / SP,ABC / RN,28/08/2023,20:00,Santa Cruz / Ribeirao Preto
 245,Mirassol / SP,Juventude / RS,22/08/2023,19:00,José Maria de Campos Maia / Mirassol
@@ -251,7 +251,7 @@ Game,Home,Away,Date,Time,Stadium
 250,CRB / AL,Novorizontino / SP,26/08/2023,18:00,Rei Pelé / Maceio
 251,Guarani / SP,Ponte Preta / SP,02/09/2023,18:00,Brinco de Ouro da Princesa / Campinas
 252,Vila Nova / GO,CRB / AL,03/09/2023,15:45,Onésio Brasileiro Alvarenga / Goiania
-253,Avaí / SC,Atlético / GO,02/09/2023,15:30,Aderbal Ramos da Silva / Florianopolis
+253,Avaí / SC,Atlético Goianiense / GO,02/09/2023,15:30,Aderbal Ramos da Silva / Florianopolis
 254,Botafogo / SP,Sport / PE,03/09/2023,18:00,Santa Cruz / Ribeirao Preto
 255,Novorizontino / SP,Ituano / SP,30/08/2023,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
 256,Vitória / BA,Mirassol / SP,01/09/2023,19:15,Manoel Barradas / Salvador
@@ -260,7 +260,7 @@ Game,Home,Away,Date,Time,Stadium
 259,Londrina / PR,Tombense / MG,01/09/2023,21:30,Jacy Scaff / Londrina
 260,ABC / RN,Sampaio Corrêa / MA,02/09/2023,17:00,Maria Lamas Farache / Natal
 261,Ponte Preta / SP,Sampaio Corrêa / MA,09/09/2023,17:00,Moisés Lucarelli / Campinas
-262,Atlético / GO,Juventude / RS,10/09/2023,15:45,Antônio Accioly / Goiania
+262,Atlético Goianiense / GO,Juventude / RS,10/09/2023,15:45,Antônio Accioly / Goiania
 263,Avaí / SC,Novorizontino / SP,11/09/2023,20:30,Aderbal Ramos da Silva / Florianopolis
 264,Ituano / SP,Vila Nova / GO,08/09/2023,18:00,Novelli Junior / Itu
 265,Mirassol / SP,Botafogo / SP,09/09/2023,20:30,José Maria de Campos Maia / Mirassol
@@ -272,7 +272,7 @@ Game,Home,Away,Date,Time,Stadium
 271,Guarani / SP,Tombense / MG,17/09/2023,15:45,Brinco de Ouro da Princesa / Campinas
 272,Vila Nova / GO,Ponte Preta / SP,15/09/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
 273,Criciúma / SC,Mirassol / SP,16/09/2023,15:30,Heriberto Hulse / Criciuma
-274,Botafogo / SP,Atlético / GO,16/09/2023,17:00,Santa Cruz / Ribeirao Preto
+274,Botafogo / SP,Atlético Goianiense / GO,16/09/2023,17:00,Santa Cruz / Ribeirao Preto
 275,Novorizontino / SP,Ceará / CE,18/09/2023,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
 276,Vitória / BA,Avaí / SC,17/09/2023,18:00,Manoel Barradas / Salvador
 277,Sampaio Corrêa / MA,Chapecoense / SC,16/09/2023,17:00,Governador João Castelo / Sao Luis
@@ -280,7 +280,7 @@ Game,Home,Away,Date,Time,Stadium
 279,Londrina / PR,Ituano / SP,14/09/2023,18:30,Jacy Scaff / Londrina
 280,ABC / RN,Sport / PE,15/09/2023,21:30,Maria Lamas Farache / Natal
 281,Ponte Preta / SP,Mirassol / SP,22/09/2023,19:00,Moisés Lucarelli / Campinas
-282,Atlético / GO,Criciúma / SC,22/09/2023,21:30,Antônio Accioly / Goiania
+282,Atlético Goianiense / GO,Criciúma / SC,22/09/2023,21:30,Antônio Accioly / Goiania
 283,Avaí / SC,Juventude / RS,25/09/2023,18:30,Aderbal Ramos da Silva / Florianopolis
 284,Ituano / SP,Vitória / BA,22/09/2023,21:30,Novelli Junior / Itu
 285,Novorizontino / SP,ABC / RN,25/09/2023,21:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
@@ -295,12 +295,12 @@ Game,Home,Away,Date,Time,Stadium
 294,Ituano / SP,Botafogo / SP,30/09/2023,17:00,Novelli Junior / Itu
 295,Mirassol / SP,CRB / AL,28/09/2023,19:00,José Maria de Campos Maia / Mirassol
 296,Vitória / BA,Tombense / MG,29/09/2023,21:30,Manoel Barradas / Salvador
-297,Ceará / CE,Atlético / GO,01/10/2023,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
+297,Ceará / CE,Atlético Goianiense / GO,01/10/2023,18:00,Governador Plácido Aderaldo Castelo / Fortaleza
 298,Juventude / RS,Criciúma / SC,30/09/2023,15:30,Alfredo Jaconi / Caxias do Sul
 299,Londrina / PR,Sampaio Corrêa / MA,28/09/2023,21:30,Jacy Scaff / Londrina
 300,ABC / RN,Ponte Preta / SP,30/09/2023,18:00,Maria Lamas Farache / Natal
 301,Guarani / SP,Vila Nova / GO,07/10/2023,18:00,Brinco de Ouro da Princesa / Campinas
-302,Atlético / GO,Ituano / SP,06/10/2023,21:30,Antônio Accioly / Goiania
+302,Atlético Goianiense / GO,Ituano / SP,06/10/2023,21:30,Antônio Accioly / Goiania
 303,Criciúma / SC,Vitória / BA,08/10/2023,18:00,Heriberto Hulse / Criciuma
 304,Botafogo / SP,Avaí / SC,07/10/2023,17:00,Santa Cruz / Ribeirao Preto
 305,Mirassol / SP,Londrina / PR,03/10/2023,19:30,José Maria de Campos Maia / Mirassol
@@ -309,7 +309,7 @@ Game,Home,Away,Date,Time,Stadium
 308,Chapecoense / SC,ABC / RN,05/10/2023,19:15,Índio Condá / Chapeco
 309,Tombense / MG,Juventude / RS,07/10/2023,15:30,Antônio Guimarães de Almeida / Tombos
 310,CRB / AL,Ceará / CE,06/10/2023,21:30,Rei Pelé / Maceio
-311,Ponte Preta / SP,Atlético / GO,15/10/2023,15:45,Moisés Lucarelli / Campinas
+311,Ponte Preta / SP,Atlético Goianiense / GO,15/10/2023,15:45,Moisés Lucarelli / Campinas
 312,Vila Nova / GO,Botafogo / SP,11/10/2023,21:30,Onésio Brasileiro Alvarenga / Goiania
 313,Criciúma / SC,Chapecoense / SC,13/10/2023,21:30,Heriberto Hulse / Criciuma
 314,Ituano / SP,CRB / AL,14/10/2023,17:00,Novelli Junior / Itu
@@ -320,7 +320,7 @@ Game,Home,Away,Date,Time,Stadium
 319,Londrina / PR,Avaí / SC,15/10/2023,18:30,Jacy Scaff / Londrina
 320,ABC / RN,Mirassol / SP,10/10/2023,21:30,Maria Lamas Farache / Natal
 321,Ponte Preta / SP,Ituano / SP,23/10/2023,20:00,Moisés Lucarelli / Campinas
-322,Atlético / GO,ABC / RN,19/10/2023,19:00,Antônio Accioly / Goiania
+322,Atlético Goianiense / GO,ABC / RN,19/10/2023,19:00,Antônio Accioly / Goiania
 323,Avaí / SC,Ceará / CE,22/10/2023,18:00,Aderbal Ramos da Silva / Florianopolis
 324,Botafogo / SP,Novorizontino / SP,21/10/2023,17:00,Santa Cruz / Ribeirao Preto
 325,Mirassol / SP,Guarani / SP,20/10/2023,21:30,José Maria de Campos Maia / Mirassol
@@ -330,7 +330,7 @@ Game,Home,Away,Date,Time,Stadium
 329,Tombense / MG,Vila Nova / GO,19/10/2023,19:00,Antônio Guimarães de Almeida / Tombos
 330,CRB / AL,Criciúma / SC,21/10/2023,17:00,Rei Pelé / Maceio
 331,Guarani / SP,Botafogo / SP,27/10/2023,21:30,Brinco de Ouro da Princesa / Campinas
-332,Vila Nova / GO,Atlético / GO,28/10/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
+332,Vila Nova / GO,Atlético Goianiense / GO,28/10/2023,19:00,Onésio Brasileiro Alvarenga / Goiania
 333,Criciúma / SC,Sampaio Corrêa / MA,28/10/2023,15:30,Heriberto Hulse / Criciuma
 334,Ituano / SP,Mirassol / SP,28/10/2023,15:30,Novelli Junior / Itu
 335,Novorizontino / SP,Ponte Preta / SP,27/10/2023,21:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
@@ -340,7 +340,7 @@ Game,Home,Away,Date,Time,Stadium
 339,Londrina / PR,CRB / AL,29/10/2023,18:30,Jacy Scaff / Londrina
 340,ABC / RN,Avaí / SC,26/10/2023,19:00,Maria Lamas Farache / Natal
 341,Ponte Preta / SP,Avaí / SC,04/11/2023,17:00,Moisés Lucarelli / Campinas
-342,Atlético / GO,Novorizontino / SP,01/11/2023,20:00,Antônio Accioly / Goiania
+342,Atlético Goianiense / GO,Novorizontino / SP,01/11/2023,20:00,Antônio Accioly / Goiania
 343,Criciúma / SC,ABC / RN,07/11/2023,21:30,Heriberto Hulse / Criciuma
 344,Botafogo / SP,Ceará / CE,04/11/2023,17:00,Santa Cruz / Ribeirao Preto
 345,Mirassol / SP,Sport / PE,03/11/2023,19:00,José Maria de Campos Maia / Mirassol
@@ -354,7 +354,7 @@ Game,Home,Away,Date,Time,Stadium
 353,Avaí / SC,CRB / AL,11/11/2023,17:00,Aderbal Ramos da Silva / Florianopolis
 354,Ituano / SP,Sampaio Corrêa / MA,11/11/2023,15:30,Novelli Junior / Itu
 355,Novorizontino / SP,Vitória / BA,12/11/2023,18:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
-356,Sport / PE,Atlético / GO,10/11/2023,21:30,Adelmar da Costa Carvalho / Recife
+356,Sport / PE,Atlético Goianiense / GO,10/11/2023,21:30,Adelmar da Costa Carvalho / Recife
 357,Ceará / CE,Mirassol / SP,12/11/2023,15:45,Presidente Vargas / Fortaleza
 358,Chapecoense / SC,Botafogo / SP,11/11/2023,17:00,Índio Condá / Chapeco
 359,Tombense / MG,Ponte Preta / SP,11/11/2023,18:00,Antônio Guimarães de Almeida / Tombos
@@ -363,14 +363,14 @@ Game,Home,Away,Date,Time,Stadium
 362,Vila Nova / GO,Ceará / CE,18/11/2023,17:00,Onésio Brasileiro Alvarenga / Goiania
 363,Criciúma / SC,Botafogo / SP,18/11/2023,17:00,Heriberto Hulse / Criciuma
 364,Ituano / SP,Chapecoense / SC,17/11/2023,19:00,Novelli Junior / Itu
-365,Mirassol / SP,Atlético / GO,18/11/2023,17:00,José Maria de Campos Maia / Mirassol
+365,Mirassol / SP,Atlético Goianiense / GO,18/11/2023,17:00,José Maria de Campos Maia / Mirassol
 366,Vitória / BA,Sport / PE,18/11/2023,17:00,Manoel Barradas / Salvador
 367,Sampaio Corrêa / MA,Avaí / SC,20/11/2023,20:00,Governador João Castelo / Sao Luis
 368,Juventude / RS,Ponte Preta / SP,18/11/2023,17:00,Alfredo Jaconi / Caxias do Sul
 369,Londrina / PR,Novorizontino / SP,17/11/2023,21:30,Jacy Scaff / Londrina
 370,CRB / AL,Tombense / MG,19/11/2023,18:00,Rei Pelé / Maceio
 371,Ponte Preta / SP,CRB / AL,25/11/2023,17:00,Moisés Lucarelli / Campinas
-372,Atlético / GO,Guarani / SP,25/11/2023,17:00,Antônio Accioly / Goiania
+372,Atlético Goianiense / GO,Guarani / SP,25/11/2023,17:00,Antônio Accioly / Goiania
 373,Avaí / SC,Ituano / SP,25/11/2023,17:00,Aderbal Ramos da Silva / Florianopolis
 374,Botafogo / SP,Londrina / PR,25/11/2023,17:00,Santa Cruz / Ribeirao Preto
 375,Novorizontino / SP,Criciúma / SC,25/11/2023,17:00,Dr. Jorge Ismael de Biasi / Novo Horizonte

@@ -27,7 +27,7 @@ Game,Home,Away,Date,Time,Stadium
 026,Agua Santa / SP,Jacuipense / BA,28/02/2024,20:30,Arena Barueri / Barueri
 027,São Luiz / RS,Ituano / SP,21/02/2024,20:30,19 de Outubro / Ijui
 028,Costa Rica / MS,América F.c. / RN,21/02/2024,20:30,Laerte Paes Coelho / Costa Rica
-029,União de Rondonópolis / MT,Atlético / GO,21/02/2024,21:30,Luthero Lopes / Rondonopolis
+029,União de Rondonópolis / MT,Atlético Goianiense / GO,21/02/2024,21:30,Luthero Lopes / Rondonopolis
 030,Real Brasília / DF,São Raimundo / RR,21/02/2024,15:30,Ciro Machado  / Brasilia
 031,Rio Branco / AC,CRB / AL,21/02/2024,21:30,Antonio Aquino Lopes / Rio Branco
 032,Athletic / MG,Volta Redonda / RJ,27/02/2024,19:15,Estádio Joaquim Portugal  / Sao Joao del Rei
@@ -53,7 +53,7 @@ Game,Home,Away,Date,Time,Stadium
 052,Sport / PE,Murici / AL,13/03/2024,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 053,Vasco da Gama / RJ,Agua Santa / SP,07/03/2024,20:00,São Januário / Rio de Janeiro
 054,América F.c. / RN,São Luiz / RS,13/03/2024,21:30,Arena das Dunas / Natal
-055,Real Brasília / DF,Atlético / GO,06/03/2024,20:00,Valmir Campelo Bezerra / Gama
+055,Real Brasília / DF,Atlético Goianiense / GO,06/03/2024,20:00,Valmir Campelo Bezerra / Gama
 056,CRB / AL,Athletic / MG,12/03/2024,19:00,Rei Pelé / Maceio
 057,Aguia de Maraba / PA,Capital / TO,14/03/2024,20:30,Zinho Oliveira / Maraba
 058,Brasiliense / DF,Criciúma / SC,14/03/2024,19:00,Elmo Serejo Farias / Brasilia
@@ -73,7 +73,7 @@ Game,Home,Away,Date,Time,Stadium
 072,Internacional / RS,Juventude / RS,10/07/2024,19:00,José Pinheiro Borda / Porto Alegre
 073,CRB / AL,Ceará / CE,02/05/2024,20:30,Rei Pelé / Maceio
 074,América F.c. / RN,Corinthians / SP,01/05/2024,20:00,Arena das Dunas / Natal
-075,Brusque / SC,Atlético / GO,01/05/2024,16:00,Arena Joinville / Joinville
+075,Brusque / SC,Atlético Goianiense / GO,01/05/2024,16:00,Arena Joinville / Joinville
 076,Atlético Mineiro / MG,Sport / PE,30/04/2024,21:30,ARENA MRV / Belo Horizonte
 077,Grêmio / RS,Operário / PR,14/07/2024,11:00,Francisco Stédile / Caxias do Sul
 078,Criciúma / SC,Bahia / BA,23/05/2024,19:00,Heriberto Hulse / Criciuma
@@ -89,7 +89,7 @@ Game,Home,Away,Date,Time,Stadium
 088,Juventude / RS,Internacional / RS,13/07/2024,16:00,Alfredo Jaconi / Caxias do Sul
 089,Ceará / CE,CRB / AL,23/05/2024,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 090,Corinthians / SP,América F.c. / RN,22/05/2024,20:00,Arena Corinthians / Sao Paulo
-091,Atlético / GO,Brusque / SC,22/05/2024,19:00,Antônio Accioly / Goiania
+091,Atlético Goianiense / GO,Brusque / SC,22/05/2024,19:00,Antônio Accioly / Goiania
 092,Sport / PE,Atlético Mineiro / MG,22/05/2024,20:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 093,Flamengo / RJ,Palmeiras / SP,31/07/2024,20:00,Jornalista Mário Filho / Rio de Janeiro
 094,Atlético Goianiense / GO,Vasco da Gama / RJ,31/07/2024,21:30,Antônio Accioly / Goiania

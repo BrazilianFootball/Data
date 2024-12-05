@@ -5,7 +5,7 @@ Game,Home,Away,Date,Time,Stadium
 004,Joinville / SC,Red Bull Bragantino / SP,25/05/2013,16:20,Arena Joinville / Joinville
 005,Icasa / CE,Sport / PE,25/05/2013,16:20,Mauro Castelo Branco Sampaio / Juaz.Norte
 006,ABC / RN,Paraná / PR,25/05/2013,21:00,Estádio José Américo de Almeida Filho / João Pessoa
-007,Palmeiras / SP,Atlético / GO,25/05/2013,16:20,Novelli Junior / Itu
+007,Palmeiras / SP,Atlético Goianiense / GO,25/05/2013,16:20,Novelli Junior / Itu
 008,São Caetano / SP,Ceará / CE,24/05/2013,19:30,Estádio Anacleto Campanella / São Caetano do Sul
 009,Guaratinguetá / SP,América / MG,25/05/2013,21:00,Dario R. Leite / Guaratinguetá
 010,Paysandu / PA,ASA / AL,24/05/2013,21:50,Arena Verde / Paragominas
@@ -16,11 +16,11 @@ Game,Home,Away,Date,Time,Stadium
 015,Ceará / CE,Paysandu / PA,28/05/2013,19:30,Presidente Vargas / Fortaleza
 016,América / RN,Icasa / CE,28/05/2013,19:30,Manoel Dantas Barretto / Ceará-Mirim
 017,Paraná / PR,São Caetano / SP,28/05/2013,15:00,Érton Coelho Queiroz / Curitiba
-018,Atlético / GO,Joinville / SC,28/05/2013,21:50,Serra Dourada / Goiânia
+018,Atlético Goianiense / GO,Joinville / SC,28/05/2013,21:50,Serra Dourada / Goiânia
 019,Red Bull Bragantino / SP,Boa / MG,28/05/2013,21:50,Nabi Abi Chedid / Bragança Paulista
 020,Sport / PE,ABC / RN,28/05/2013,19:30,Adelmar da Costa Carvalho / Recife
 021,Oeste / SP,Paraná / PR,31/05/2013,21:50,Estádio Municipal dos Amaros / Itápolis
-022,Boa / MG,Atlético / GO,01/06/2013,21:00,Dilzon Melo / Varginha
+022,Boa / MG,Atlético Goianiense / GO,01/06/2013,21:00,Dilzon Melo / Varginha
 023,Figueirense / SC,Sport / PE,31/05/2013,21:50,Estádio Orlando Scarpelli / Florianópolis
 024,Joinville / SC,ASA / AL,31/05/2013,19:30,Arena Joinville / Joinville
 025,Icasa / CE,Avaí / SC,31/05/2013,19:30,Mauro Castelo Branco Sampaio / Juaz.Norte
@@ -36,7 +36,7 @@ Game,Home,Away,Date,Time,Stadium
 035,Icasa / CE,América / MG,04/06/2013,21:50,Mauro Castelo Branco Sampaio / Juaz.Norte
 036,ABC / RN,Red Bull Bragantino / SP,04/06/2013,21:50,Maria Lamas Farache / Natal
 037,Palmeiras / SP,Avaí / SC,04/06/2013,19:30,Novelli Junior / Itu
-038,São Caetano / SP,Atlético / GO,04/06/2013,21:50,Estádio Anacleto Campanella / São Caetano do Sul
+038,São Caetano / SP,Atlético Goianiense / GO,04/06/2013,21:50,Estádio Anacleto Campanella / São Caetano do Sul
 039,Guaratinguetá / SP,Sport / PE,04/06/2013,21:50,Dario R. Leite / Guaratinguetá
 040,Paysandu / PA,Paraná / PR,04/06/2013,19:30,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
 041,ASA / AL,Icasa / CE,07/06/2013,19:30,Coaracy da Mata Fonseca / Arapiraca
@@ -46,7 +46,7 @@ Game,Home,Away,Date,Time,Stadium
 045,Ceará / CE,Boa / MG,08/06/2013,21:00,Horácio Domingos de Sousa / Horizonte
 046,América / RN,Guaratinguetá / SP,07/06/2013,21:50,Manoel Dantas Barretto / Ceará-Mirim
 047,Paraná / PR,Figueirense / SC,08/06/2013,16:20,Durival Britto e Silva / Curitiba
-048,Atlético / GO,Paysandu / PA,07/06/2013,19:30,Serra Dourada / Goiânia
+048,Atlético Goianiense / GO,Paysandu / PA,07/06/2013,19:30,Serra Dourada / Goiânia
 049,Red Bull Bragantino / SP,São Caetano / SP,08/06/2013,21:00,Nabi Abi Chedid / Bragança Paulista
 050,Sport / PE,Palmeiras / SP,08/06/2013,16:20,Adelmar da Costa Carvalho / Recife
 051,Oeste / SP,São Caetano / SP,11/06/2013,19:30,Estádio Municipal dos Amaros / Itápolis
@@ -56,7 +56,7 @@ Game,Home,Away,Date,Time,Stadium
 055,Ceará / CE,Figueirense / SC,11/06/2013,19:30,Horácio Domingos de Sousa / Horizonte
 056,América / RN,Palmeiras / SP,11/06/2013,21:50,Manoel Dantas Barretto / Ceará-Mirim
 057,Paraná / PR,ASA / AL,11/06/2013,21:50,Durival Britto e Silva / Curitiba
-058,Atlético / GO,Icasa / CE,11/06/2013,21:50,Serra Dourada / Goiânia
+058,Atlético Goianiense / GO,Icasa / CE,11/06/2013,21:50,Serra Dourada / Goiânia
 059,Guaratinguetá / SP,Joinville / SC,11/06/2013,19:30,Dario R. Leite / Guaratinguetá
 060,Sport / PE,Red Bull Bragantino / SP,11/06/2013,19:30,Adelmar da Costa Carvalho / Recife
 061,ASA / AL,Chapecoense / SC,05/07/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
@@ -64,7 +64,7 @@ Game,Home,Away,Date,Time,Stadium
 063,Figueirense / SC,Boa / MG,06/07/2013,21:00,Estádio Orlando Scarpelli / Florianópolis
 064,Joinville / SC,Sport / PE,06/07/2013,16:20,Arena Joinville / Joinville
 065,Icasa / CE,Ceará / CE,06/07/2013,21:00,Mauro Castelo Branco Sampaio / Juaz.Norte
-066,ABC / RN,Atlético / GO,06/07/2013,16:20,Maria Lamas Farache / Natal
+066,ABC / RN,Atlético Goianiense / GO,06/07/2013,16:20,Maria Lamas Farache / Natal
 067,Palmeiras / SP,Oeste / SP,06/07/2013,16:20,Paulo Constantino / P. Prudente/SP
 068,São Caetano / SP,Avaí / SC,06/07/2013,16:20,1º de Maio / São Bernardo do Campo
 069,Red Bull Bragantino / SP,América / RN,02/07/2013,21:00,Nabi Abi Chedid / Bragança Paulista
@@ -76,10 +76,10 @@ Game,Home,Away,Date,Time,Stadium
 075,Ceará / CE,ASA / AL,13/07/2013,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
 076,América / RN,Sport / PE,13/07/2013,16:20,Manoel Dantas Barretto / Ceará-Mirim
 077,Palmeiras / SP,ABC / RN,12/07/2013,21:00,Estádio Municipal Paulo Machado de Carvalho / São Paulo
-078,Atlético / GO,Figueirense / SC,12/07/2013,21:00,Serra Dourada / Goiânia
+078,Atlético Goianiense / GO,Figueirense / SC,12/07/2013,21:00,Serra Dourada / Goiânia
 079,Guaratinguetá / SP,Icasa / CE,13/07/2013,21:00,Dario R. Leite / Guaratinguetá
 080,Paysandu / PA,São Caetano / SP,09/07/2013,19:30,Leônidas Castro / Belém
-081,ASA / AL,Atlético / GO,20/07/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
+081,ASA / AL,Atlético Goianiense / GO,20/07/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
 082,Boa / MG,Paysandu / PA,20/07/2013,16:20,Dilzon Melo / Varginha
 083,Figueirense / SC,Palmeiras / SP,20/07/2013,16:20,Estádio Orlando Scarpelli / Florianópolis
 084,Chapecoense / SC,América / MG,20/08/2013,21:00,Regional Indio Condá / Chapecó
@@ -96,12 +96,12 @@ Game,Home,Away,Date,Time,Stadium
 095,Icasa / CE,Joinville / SC,23/07/2013,21:00,Mauro Castelo Branco Sampaio / Juaz.Norte
 096,ABC / RN,Paysandu / PA,27/07/2013,21:00,Maria Lamas Farache / Natal
 097,Paraná / PR,Ceará / CE,27/07/2013,16:20,Durival Britto e Silva / Curitiba
-098,Atlético / GO,América / RN,26/07/2013,21:00,Serra Dourada / Goiânia
+098,Atlético Goianiense / GO,América / RN,26/07/2013,21:00,Serra Dourada / Goiânia
 099,Guaratinguetá / SP,Palmeiras / SP,27/07/2013,16:20,Dario R. Leite / Guaratinguetá
 100,Sport / PE,Oeste / SP,26/07/2013,21:00,Adelmar da Costa Carvalho / Recife
 101,Oeste / SP,Guaratinguetá / SP,30/07/2013,19:30,Estádio Municipal dos Amaros / Itápolis
 102,América / MG,Sport / PE,30/07/2013,21:50,Estádio Raimundo Sampaio / Belo Horizonte
-103,Avaí / SC,Atlético / GO,30/07/2013,19:30,Aderbal Ramos da Silva / Florianópolis
+103,Avaí / SC,Atlético Goianiense / GO,30/07/2013,19:30,Aderbal Ramos da Silva / Florianópolis
 104,Joinville / SC,Boa / MG,30/07/2013,19:30,Arena Joinville / Joinville
 105,Ceará / CE,Chapecoense / SC,30/07/2013,19:30,Governador Plácido Castelo / Fortaleza
 106,América / RN,ASA / AL,30/07/2013,19:30,Manoel Dantas Barretto / Ceará-Mirim
@@ -116,13 +116,13 @@ Game,Home,Away,Date,Time,Stadium
 115,Icasa / CE,São Caetano / SP,03/08/2013,16:20,Mauro Castelo Branco Sampaio / Juaz.Norte
 116,América / RN,Boa / MG,02/08/2013,19:30,Manoel Dantas Barretto / Ceará-Mirim
 117,Palmeiras / SP,Red Bull Bragantino / SP,02/08/2013,19:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
-118,Atlético / GO,Paraná / PR,03/08/2013,21:00,Serra Dourada / Goiânia
+118,Atlético Goianiense / GO,Paraná / PR,03/08/2013,21:00,Serra Dourada / Goiânia
 119,Guaratinguetá / SP,ABC / RN,03/08/2013,21:00,Dario R. Leite / Guaratinguetá
 120,Sport / PE,Chapecoense / SC,03/08/2013,16:20,Adelmar da Costa Carvalho / Recife
 121,ASA / AL,Sport / PE,06/08/2013,19:30,Coaracy da Mata Fonseca / Arapiraca
 122,Boa / MG,Guaratinguetá / SP,06/08/2013,21:50,Dilzon Melo / Varginha
 123,Figueirense / SC,Icasa / CE,06/08/2013,19:30,Estádio Orlando Scarpelli / Florianópolis
-124,Chapecoense / SC,Atlético / GO,06/08/2013,19:30,Regional Indio Condá / Chapecó
+124,Chapecoense / SC,Atlético Goianiense / GO,06/08/2013,19:30,Regional Indio Condá / Chapecó
 125,Ceará / CE,América / RN,06/08/2013,19:30,Governador Plácido Castelo / Fortaleza
 126,ABC / RN,Oeste / SP,06/08/2013,21:50,Maria Lamas Farache / Natal
 127,Paraná / PR,Joinville / SC,06/08/2013,21:50,Durival Britto e Silva / Curitiba
@@ -133,7 +133,7 @@ Game,Home,Away,Date,Time,Stadium
 132,Boa / MG,Icasa / CE,09/08/2013,21:50,Dilzon Melo / Varginha
 133,Figueirense / SC,Avaí / SC,10/08/2013,16:20,Estádio Orlando Scarpelli / Florianópolis
 134,Chapecoense / SC,Guaratinguetá / SP,11/08/2013,16:00,Regional Indio Condá / Chapecó
-135,Ceará / CE,Atlético / GO,09/08/2013,19:30,Governador Plácido Castelo / Fortaleza
+135,Ceará / CE,Atlético Goianiense / GO,09/08/2013,19:30,Governador Plácido Castelo / Fortaleza
 136,América / RN,ABC / RN,10/08/2013,16:20,Manoel Dantas Barretto / Ceará-Mirim
 137,Palmeiras / SP,Paraná / PR,10/08/2013,16:20,Estádio Municipal Paulo Machado de Carvalho / São Paulo
 138,São Caetano / SP,Sport / PE,10/08/2013,16:20,Estádio Anacleto Campanella / São Caetano do Sul
@@ -146,7 +146,7 @@ Game,Home,Away,Date,Time,Stadium
 145,Icasa / CE,ABC / RN,13/08/2013,21:50,Mauro Castelo Branco Sampaio / Juaz.Norte
 146,América / RN,Chapecoense / SC,27/08/2013,21:00,Manoel Dantas Barretto / Ceará-Mirim
 147,Paraná / PR,Boa / MG,13/08/2013,19:30,Durival Britto e Silva / Curitiba
-148,Atlético / GO,Red Bull Bragantino / SP,13/08/2013,21:50,Serra Dourada / Goiânia
+148,Atlético Goianiense / GO,Red Bull Bragantino / SP,13/08/2013,21:50,Serra Dourada / Goiânia
 149,Guaratinguetá / SP,Figueirense / SC,14/08/2013,19:30,Dario R. Leite / Guaratinguetá
 150,Sport / PE,Ceará / CE,13/08/2013,19:30,Adelmar da Costa Carvalho / Recife
 151,Oeste / SP,Joinville / SC,16/08/2013,21:50,Estádio Municipal dos Amaros / Itápolis
@@ -158,7 +158,7 @@ Game,Home,Away,Date,Time,Stadium
 157,Palmeiras / SP,Paysandu / PA,17/08/2013,16:20,Estádio Municipal Paulo Machado de Carvalho / São Paulo
 158,São Caetano / SP,Boa / MG,16/08/2013,19:30,Estádio Anacleto Campanella / São Caetano do Sul
 159,Guaratinguetá / SP,ASA / AL,17/08/2013,21:00,Dario R. Leite / Guaratinguetá
-160,Sport / PE,Atlético / GO,16/08/2013,21:50,Adelmar da Costa Carvalho / Recife
+160,Sport / PE,Atlético Goianiense / GO,16/08/2013,21:50,Adelmar da Costa Carvalho / Recife
 161,ASA / AL,ABC / RN,20/08/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
 162,Boa / MG,Palmeiras / SP,24/08/2013,16:20,Dilzon Melo / Varginha
 163,Figueirense / SC,Oeste / SP,24/08/2013,21:00,Estádio Orlando Scarpelli / Florianópolis
@@ -166,7 +166,7 @@ Game,Home,Away,Date,Time,Stadium
 165,Ceará / CE,Guaratinguetá / SP,20/08/2013,19:30,Governador Plácido Castelo / Fortaleza
 166,América / RN,Avaí / SC,23/08/2013,21:00,Manoel Dantas Barretto / Ceará-Mirim
 167,Paraná / PR,Sport / PE,24/08/2013,16:20,Durival Britto e Silva / Curitiba
-168,Atlético / GO,América / MG,24/08/2013,16:20,Serra Dourada / Goiânia
+168,Atlético Goianiense / GO,América / MG,24/08/2013,16:20,Serra Dourada / Goiânia
 169,Red Bull Bragantino / SP,Chapecoense / SC,24/08/2013,16:20,Nabi Abi Chedid / Bragança Paulista
 170,Paysandu / PA,Icasa / CE,24/08/2013,21:00,Leônidas Castro / Belém
 171,ASA / AL,Figueirense / SC,27/08/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
@@ -176,7 +176,7 @@ Game,Home,Away,Date,Time,Stadium
 175,Ceará / CE,Palmeiras / SP,31/08/2013,21:00,Governador Plácido Castelo / Fortaleza
 176,América / RN,São Caetano / SP,31/08/2013,16:20,José Nazareno do Nascimento  / Goianinha
 177,Paraná / PR,Guaratinguetá / SP,31/08/2013,16:20,Durival Britto e Silva / Curitiba
-178,Atlético / GO,Oeste / SP,30/08/2013,21:00,Serra Dourada / Goiânia
+178,Atlético Goianiense / GO,Oeste / SP,30/08/2013,21:00,Serra Dourada / Goiânia
 179,Red Bull Bragantino / SP,Paysandu / PA,31/08/2013,16:20,Nabi Abi Chedid / Bragança Paulista
 180,Sport / PE,Boa / MG,31/08/2013,21:00,Adelmar da Costa Carvalho / Recife
 181,Oeste / SP,América / RN,03/09/2013,19:30,Estádio Municipal dos Amaros / Itápolis
@@ -187,7 +187,7 @@ Game,Home,Away,Date,Time,Stadium
 186,ABC / RN,América / MG,03/09/2013,21:50,Maria Lamas Farache / Natal
 187,Palmeiras / SP,Chapecoense / SC,03/09/2013,21:50,Estádio Municipal Paulo Machado de Carvalho / São Paulo
 188,São Caetano / SP,ASA / AL,03/09/2013,21:50,Estádio Anacleto Campanella / São Caetano do Sul
-189,Guaratinguetá / SP,Atlético / GO,03/09/2013,21:50,Dario R. Leite / Guaratinguetá
+189,Guaratinguetá / SP,Atlético Goianiense / GO,03/09/2013,21:50,Dario R. Leite / Guaratinguetá
 190,Paysandu / PA,Sport / PE,03/09/2013,21:50,Leônidas Castro / Belém
 191,ASA / AL,Paysandu / PA,06/09/2013,21:50,Coaracy da Mata Fonseca / Arapiraca
 192,América / MG,Guaratinguetá / SP,06/09/2013,21:50,Estádio Raimundo Sampaio / Belo Horizonte
@@ -196,13 +196,13 @@ Game,Home,Away,Date,Time,Stadium
 195,Ceará / CE,São Caetano / SP,06/09/2013,19:30,Presidente Vargas / Fortaleza
 196,América / RN,Figueirense / SC,06/09/2013,19:30,José Nazareno do Nascimento  / Goianinha
 197,Paraná / PR,ABC / RN,07/09/2013,21:00,Durival Britto e Silva / Curitiba
-198,Atlético / GO,Palmeiras / SP,07/09/2013,18:15,Estádio Juscelino Kubitschek / Itumbiara
+198,Atlético Goianiense / GO,Palmeiras / SP,07/09/2013,18:15,Estádio Juscelino Kubitschek / Itumbiara
 199,Red Bull Bragantino / SP,Joinville / SC,06/09/2013,21:50,Nabi Abi Chedid / Bragança Paulista
 200,Sport / PE,Icasa / CE,07/09/2013,21:00,Adelmar da Costa Carvalho / Recife
 201,Oeste / SP,Chapecoense / SC,10/09/2013,16:20,Estádio Municipal dos Amaros / Itápolis
 202,Boa / MG,Red Bull Bragantino / SP,09/09/2013,21:50,Dilzon Melo / Varginha
 203,Figueirense / SC,América / MG,09/09/2013,19:00,Estádio Orlando Scarpelli / Florianópolis
-204,Joinville / SC,Atlético / GO,10/09/2013,19:30,Arena Joinville / Joinville
+204,Joinville / SC,Atlético Goianiense / GO,10/09/2013,19:30,Arena Joinville / Joinville
 205,Icasa / CE,América / RN,10/09/2013,19:30,Mauro Castelo Branco Sampaio / Juaz.Norte
 206,ABC / RN,Sport / PE,10/09/2013,19:30,Maria Lamas Farache / Natal
 207,Palmeiras / SP,ASA / AL,10/09/2013,19:30,Estádio Municipal Paulo Machado de Carvalho / São Paulo
@@ -216,7 +216,7 @@ Game,Home,Away,Date,Time,Stadium
 215,Ceará / CE,ABC / RN,14/09/2013,16:20,Governador Plácido Castelo / Fortaleza
 216,América / RN,Paysandu / PA,14/09/2013,21:00,José Nazareno do Nascimento  / Goianinha
 217,Paraná / PR,Oeste / SP,13/09/2013,19:30,Durival Britto e Silva / Curitiba
-218,Atlético / GO,Boa / MG,13/09/2013,19:30,Serra Dourada / Goiânia
+218,Atlético Goianiense / GO,Boa / MG,13/09/2013,19:30,Serra Dourada / Goiânia
 219,Guaratinguetá / SP,Red Bull Bragantino / SP,14/09/2013,21:00,Dario R. Leite / Guaratinguetá
 220,Sport / PE,Figueirense / SC,14/09/2013,16:20,Adelmar da Costa Carvalho / Recife
 221,ASA / AL,Boa / MG,17/09/2013,21:50,Coaracy da Mata Fonseca / Arapiraca
@@ -226,7 +226,7 @@ Game,Home,Away,Date,Time,Stadium
 225,Ceará / CE,Oeste / SP,17/09/2013,19:30,Governador Plácido Castelo / Fortaleza
 226,América / RN,Joinville / SC,17/09/2013,21:50,José Nazareno do Nascimento  / Goianinha
 227,Paraná / PR,Paysandu / PA,17/09/2013,21:50,Durival Britto e Silva / Curitiba
-228,Atlético / GO,São Caetano / SP,17/09/2013,19:30,Serra Dourada / Goiânia
+228,Atlético Goianiense / GO,São Caetano / SP,17/09/2013,19:30,Serra Dourada / Goiânia
 229,Red Bull Bragantino / SP,ABC / RN,17/09/2013,21:50,Nabi Abi Chedid / Bragança Paulista
 230,Sport / PE,Guaratinguetá / SP,17/09/2013,19:30,Adelmar da Costa Carvalho / Recife
 231,Oeste / SP,América / MG,20/09/2013,19:30,Estádio Municipal dos Amaros / Itápolis
@@ -238,12 +238,12 @@ Game,Home,Away,Date,Time,Stadium
 237,Palmeiras / SP,Sport / PE,21/09/2013,16:20,Estádio Municipal Paulo Machado de Carvalho / São Paulo
 238,São Caetano / SP,Red Bull Bragantino / SP,20/09/2013,19:30,Estádio Anacleto Campanella / São Caetano do Sul
 239,Guaratinguetá / SP,América / RN,21/09/2013,21:00,Dario R. Leite / Guaratinguetá
-240,Paysandu / PA,Atlético / GO,21/09/2013,21:00,Leônidas Castro / Belém
+240,Paysandu / PA,Atlético Goianiense / GO,21/09/2013,21:00,Leônidas Castro / Belém
 241,ASA / AL,Paraná / PR,28/09/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
 242,América / MG,Avaí / SC,28/09/2013,16:20,Estádio Raimundo Sampaio / Belo Horizonte
 243,Figueirense / SC,Ceará / CE,24/09/2013,19:30,Estádio Orlando Scarpelli / Florianópolis
 244,Joinville / SC,Guaratinguetá / SP,27/09/2013,19:30,Arena Joinville / Joinville
-245,Icasa / CE,Atlético / GO,28/09/2013,16:20,Mauro Castelo Branco Sampaio / Juaz.Norte
+245,Icasa / CE,Atlético Goianiense / GO,28/09/2013,16:20,Mauro Castelo Branco Sampaio / Juaz.Norte
 246,ABC / RN,Boa / MG,28/09/2013,21:00,Maria Lamas Farache / Natal
 247,Palmeiras / SP,América / RN,28/09/2013,16:20,Estádio Municipal Paulo Machado de Carvalho / São Paulo
 248,São Caetano / SP,Oeste / SP,27/09/2013,19:30,Estádio Anacleto Campanella / São Caetano do Sul
@@ -256,12 +256,12 @@ Game,Home,Away,Date,Time,Stadium
 255,Ceará / CE,Icasa / CE,01/10/2013,19:30,Governador Plácido Castelo / Fortaleza
 256,América / RN,Red Bull Bragantino / SP,01/10/2013,21:50,José Nazareno do Nascimento  / Goianinha
 257,Paraná / PR,América / MG,01/10/2013,21:50,Durival Britto e Silva / Curitiba
-258,Atlético / GO,ABC / RN,01/10/2013,19:30,Serra Dourada / Goiânia
+258,Atlético Goianiense / GO,ABC / RN,01/10/2013,19:30,Serra Dourada / Goiânia
 259,Guaratinguetá / SP,Paysandu / PA,01/10/2013,19:30,Dario R. Leite / Guaratinguetá
 260,Sport / PE,Joinville / SC,01/10/2013,19:30,Adelmar da Costa Carvalho / Recife
 261,ASA / AL,Ceará / CE,05/10/2013,16:20,Coaracy da Mata Fonseca / Arapiraca
 262,Boa / MG,Oeste / SP,04/10/2013,19:30,Dilzon Melo / Varginha
-263,Figueirense / SC,Atlético / GO,05/10/2013,16:20,Estádio Orlando Scarpelli / Florianópolis
+263,Figueirense / SC,Atlético Goianiense / GO,05/10/2013,16:20,Estádio Orlando Scarpelli / Florianópolis
 264,Chapecoense / SC,Joinville / SC,05/10/2013,16:20,Regional Indio Condá / Chapecó
 265,Icasa / CE,Guaratinguetá / SP,04/10/2013,19:30,Mauro Castelo Branco Sampaio / Juaz.Norte
 266,ABC / RN,Palmeiras / SP,05/10/2013,16:20,Maria Lamas Farache / Natal
@@ -276,7 +276,7 @@ Game,Home,Away,Date,Time,Stadium
 275,Ceará / CE,Red Bull Bragantino / SP,08/10/2013,21:50,Governador Plácido Castelo / Fortaleza
 276,América / RN,Paraná / PR,08/10/2013,21:50,José Nazareno do Nascimento  / Goianinha
 277,Palmeiras / SP,Figueirense / SC,08/10/2013,19:30,Municipal Jacy Scaff / Londrina
-278,Atlético / GO,ASA / AL,08/10/2013,19:30,Serra Dourada / Goiânia
+278,Atlético Goianiense / GO,ASA / AL,08/10/2013,19:30,Serra Dourada / Goiânia
 279,Guaratinguetá / SP,São Caetano / SP,08/10/2013,19:30,Dario R. Leite / Guaratinguetá
 280,Paysandu / PA,Boa / MG,08/10/2013,21:50,Leônidas Castro / Belém
 281,Oeste / SP,Sport / PE,12/10/2013,16:20,Estádio Municipal dos Amaros / Itápolis
@@ -284,7 +284,7 @@ Game,Home,Away,Date,Time,Stadium
 283,Avaí / SC,Chapecoense / SC,12/10/2013,16:20,Aderbal Ramos da Silva / Florianópolis
 284,Joinville / SC,Icasa / CE,11/10/2013,19:30,Arena Joinville / Joinville
 285,Ceará / CE,Paraná / PR,12/10/2013,16:20,Governador Plácido Castelo / Fortaleza
-286,América / RN,Atlético / GO,12/10/2013,16:20,José Nazareno do Nascimento  / Goianinha
+286,América / RN,Atlético Goianiense / GO,12/10/2013,16:20,José Nazareno do Nascimento  / Goianinha
 287,Palmeiras / SP,Guaratinguetá / SP,11/10/2013,21:50,Municipal Jacy Scaff / Londrina
 288,São Caetano / SP,Figueirense / SC,12/10/2013,21:00,Estádio Anacleto Campanella / São Caetano do Sul
 289,Red Bull Bragantino / SP,ASA / AL,12/10/2013,21:00,Nabi Abi Chedid / Bragança Paulista
@@ -296,7 +296,7 @@ Game,Home,Away,Date,Time,Stadium
 295,Icasa / CE,Palmeiras / SP,15/10/2013,21:50,Mauro Castelo Branco Sampaio / Juaz.Norte
 296,ABC / RN,São Caetano / SP,15/10/2013,21:50,Maria Lamas Farache / Natal
 297,Paraná / PR,Red Bull Bragantino / SP,15/10/2013,21:50,Durival Britto e Silva / Curitiba
-298,Atlético / GO,Avaí / SC,29/10/2013,21:50,Serra Dourada / Goiânia
+298,Atlético Goianiense / GO,Avaí / SC,29/10/2013,21:50,Serra Dourada / Goiânia
 299,Guaratinguetá / SP,Oeste / SP,15/10/2013,19:30,Dario R. Leite / Guaratinguetá
 300,Sport / PE,América / MG,15/10/2013,19:30,Adelmar da Costa Carvalho / Recife
 301,ASA / AL,Oeste / SP,18/10/2013,19:30,Coaracy da Mata Fonseca / Arapiraca
@@ -305,7 +305,7 @@ Game,Home,Away,Date,Time,Stadium
 304,Chapecoense / SC,Sport / PE,19/10/2013,16:20,Regional Indio Condá / Chapecó
 305,Ceará / CE,América / MG,18/10/2013,21:50,Governador Plácido Castelo / Fortaleza
 306,ABC / RN,Guaratinguetá / SP,19/10/2013,16:20,Maria Lamas Farache / Natal
-307,Paraná / PR,Atlético / GO,22/10/2013,21:00,Durival Britto e Silva / Curitiba
+307,Paraná / PR,Atlético Goianiense / GO,22/10/2013,21:00,Durival Britto e Silva / Curitiba
 308,São Caetano / SP,Icasa / CE,19/10/2013,21:00,Estádio Anacleto Campanella / São Caetano do Sul
 309,Red Bull Bragantino / SP,Palmeiras / SP,19/10/2013,16:20,Nabi Abi Chedid / Bragança Paulista
 310,Paysandu / PA,Avaí / SC,18/10/2013,19:30,Leônidas Castro / Belém
@@ -316,7 +316,7 @@ Game,Home,Away,Date,Time,Stadium
 315,Icasa / CE,Figueirense / SC,25/10/2013,19:30,Mauro Castelo Branco Sampaio / Juaz.Norte
 316,América / RN,Ceará / CE,26/10/2013,16:20,José Nazareno do Nascimento  / Goianinha
 317,Palmeiras / SP,São Caetano / SP,26/10/2013,16:20,Estádio Municipal Paulo Machado de Carvalho / São Paulo
-318,Atlético / GO,Chapecoense / SC,25/10/2013,19:30,Serra Dourada / Goiânia
+318,Atlético Goianiense / GO,Chapecoense / SC,25/10/2013,19:30,Serra Dourada / Goiânia
 319,Guaratinguetá / SP,Boa / MG,26/10/2013,21:00,Dario R. Leite / Guaratinguetá
 320,Sport / PE,ASA / AL,26/10/2013,16:20,Arena Pernambuco / São Lourenço da Mata
 321,Oeste / SP,Red Bull Bragantino / SP,02/11/2013,21:00,Estádio Municipal dos Amaros / Itápolis
@@ -326,7 +326,7 @@ Game,Home,Away,Date,Time,Stadium
 325,Icasa / CE,Boa / MG,01/11/2013,21:00,Mauro Castelo Branco Sampaio / Juaz.Norte
 326,ABC / RN,América / RN,02/11/2013,17:20,Maria Lamas Farache / Natal
 327,Paraná / PR,Palmeiras / SP,02/11/2013,16:20,Durival Britto e Silva / Curitiba
-328,Atlético / GO,Ceará / CE,01/11/2013,21:50,Serra Dourada / Goiânia
+328,Atlético Goianiense / GO,Ceará / CE,01/11/2013,21:50,Serra Dourada / Goiânia
 329,Guaratinguetá / SP,Chapecoense / SC,02/11/2013,16:20,Dario R. Leite / Guaratinguetá
 330,Sport / PE,São Caetano / SP,02/11/2013,17:20,Adelmar da Costa Carvalho / Recife
 331,ASA / AL,Avaí / SC,08/11/2013,21:00,Coaracy da Mata Fonseca / Arapiraca
@@ -337,7 +337,7 @@ Game,Home,Away,Date,Time,Stadium
 336,ABC / RN,Icasa / CE,09/11/2013,17:20,Maria Lamas Farache / Natal
 337,Palmeiras / SP,Joinville / SC,09/11/2013,16:20,Estádio Municipal Paulo Machado de Carvalho / São Paulo
 338,São Caetano / SP,América / MG,05/11/2013,21:00,Estádio Anacleto Campanella / São Caetano do Sul
-339,Red Bull Bragantino / SP,Atlético / GO,08/11/2013,19:30,Nabi Abi Chedid / Bragança Paulista
+339,Red Bull Bragantino / SP,Atlético Goianiense / GO,08/11/2013,19:30,Nabi Abi Chedid / Bragança Paulista
 340,Paysandu / PA,Oeste / SP,09/11/2013,17:20,Leônidas Castro / Belém
 341,ASA / AL,Guaratinguetá / SP,12/11/2013,21:50,Coaracy da Mata Fonseca / Arapiraca
 342,Boa / MG,São Caetano / SP,12/11/2013,19:30,Dilzon Melo / Varginha
@@ -350,7 +350,7 @@ Game,Home,Away,Date,Time,Stadium
 349,Red Bull Bragantino / SP,Icasa / CE,12/11/2013,19:30,Nabi Abi Chedid / Bragança Paulista
 350,Paysandu / PA,Palmeiras / SP,12/11/2013,21:50,Estádio Estadual Jornalista Edgar Augusto Proença  / Belém
 351,Oeste / SP,Figueirense / SC,16/11/2013,21:00,Estádio Municipal dos Amaros / Itápolis
-352,América / MG,Atlético / GO,16/11/2013,17:20,Estádio Raimundo Sampaio / Belo Horizonte
+352,América / MG,Atlético Goianiense / GO,16/11/2013,17:20,Estádio Raimundo Sampaio / Belo Horizonte
 353,Avaí / SC,América / RN,16/11/2013,17:20,Aderbal Ramos da Silva / Florianópolis
 354,Chapecoense / SC,Red Bull Bragantino / SP,16/11/2013,16:20,Regional Indio Condá / Chapecó
 355,Icasa / CE,Paysandu / PA,15/11/2013,21:50,Mauro Castelo Branco Sampaio / Juaz.Norte
@@ -359,7 +359,7 @@ Game,Home,Away,Date,Time,Stadium
 358,São Caetano / SP,Joinville / SC,16/11/2013,21:00,Estádio Anacleto Campanella / São Caetano do Sul
 359,Guaratinguetá / SP,Ceará / CE,15/11/2013,17:00,Dario R. Leite / Guaratinguetá
 360,Sport / PE,Paraná / PR,16/11/2013,17:20,Adelmar da Costa Carvalho / Recife
-361,Oeste / SP,Atlético / GO,23/11/2013,17:20,Estádio Municipal dos Amaros / Itápolis
+361,Oeste / SP,Atlético Goianiense / GO,23/11/2013,17:20,Estádio Municipal dos Amaros / Itápolis
 362,Boa / MG,Sport / PE,23/11/2013,17:20,Dilzon Melo / Varginha
 363,Figueirense / SC,ASA / AL,22/11/2013,19:30,Estádio Orlando Scarpelli / Florianópolis
 364,Joinville / SC,América / MG,22/11/2013,21:50,Arena Joinville / Joinville
@@ -376,6 +376,6 @@ Game,Home,Away,Date,Time,Stadium
 375,Ceará / CE,Joinville / SC,30/11/2013,16:20,Governador Plácido Castelo / Fortaleza
 376,América / RN,Oeste / SP,30/11/2013,16:20,Eládio de Barros Carvalho / Recife
 377,Paraná / PR,Icasa / CE,30/11/2013,16:20,Durival Britto e Silva / Curitiba
-378,Atlético / GO,Guaratinguetá / SP,30/11/2013,16:20,Serra Dourada / Goiânia
+378,Atlético Goianiense / GO,Guaratinguetá / SP,30/11/2013,16:20,Serra Dourada / Goiânia
 379,Red Bull Bragantino / SP,Figueirense / SC,30/11/2013,16:20,Nabi Abi Chedid / Bragança Paulista
 380,Sport / PE,Paysandu / PA,30/11/2013,16:20,Adelmar da Costa Carvalho / Recife

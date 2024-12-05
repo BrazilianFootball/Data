@@ -4,7 +4,7 @@ Game,Home,Away,Date,Time,Stadium
 003,Palmeiras / SP,Vasco da Gama / RJ,14/05/2017,16:00,Parque Antártica / São Paulo
 004,Corinthians / SP,Chapecoense / SC,13/05/2017,19:00,Arena Corinthians / Sao Paulo
 005,Cruzeiro / MG,São Paulo / SP,14/05/2017,16:00,Magalhães Pinto  / Belo Horizonte
-006,Coritiba / PR,Atlético / GO,15/05/2017,20:00,Major Antônio Couto Pereira / Curitiba
+006,Coritiba / PR,Atlético Goianiense / GO,15/05/2017,20:00,Major Antônio Couto Pereira / Curitiba
 007,Grêmio / RS,Botafogo / RJ,14/05/2017,19:00,Arena do Grêmio / Porto Alegre
 008,Bahia / BA,Athletico Paranaense / PR,14/05/2017,16:00,Octávio Mangabeira / Salvador
 009,Ponte Preta / SP,Sport / PE,14/05/2017,16:00,Moisés Lucarelli / Campinas
@@ -17,7 +17,7 @@ Game,Home,Away,Date,Time,Stadium
 016,Athletico Paranaense / PR,Grêmio / RS,21/05/2017,16:00,Joaquim Américo Guimarães / Curitiba
 017,Sport / PE,Cruzeiro / MG,21/05/2017,19:00,Aldemar da Costa Carvalho / Recife
 018,Vitória / BA,Corinthians / SP,21/05/2017,16:00,Octávio Mangabeira / Salvador
-019,Atlético / GO,Flamengo / RJ,20/05/2017,19:00,Serra Dourada / Goiânia
+019,Atlético Goianiense / GO,Flamengo / RJ,20/05/2017,19:00,Serra Dourada / Goiânia
 020,Chapecoense / SC,Palmeiras / SP,20/05/2017,19:00,Índio Condá / Chapecó
 021,Botafogo / RJ,Bahia / BA,28/05/2017,19:00,Estádio Olímpico João Havelange / Rio de Janeiro
 022,Vasco da Gama / RJ,Fluminense / RJ,27/05/2017,16:00,São Januário / Rio de Janeiro
@@ -27,7 +27,7 @@ Game,Home,Away,Date,Time,Stadium
 026,Athletico Paranaense / PR,Flamengo / RJ,28/05/2017,16:00,Joaquim Américo Guimarães / Curitiba
 027,Sport / PE,Grêmio / RS,28/05/2017,18:00,Aldemar da Costa Carvalho / Recife
 028,Vitória / BA,Coritiba / PR,27/05/2017,21:00,Octávio Mangabeira / Salvador
-029,Atlético / GO,Corinthians / SP,28/05/2017,16:00,Serra Dourada / Goiânia
+029,Atlético Goianiense / GO,Corinthians / SP,28/05/2017,16:00,Serra Dourada / Goiânia
 030,Chapecoense / SC,Avaí / SC,29/05/2017,20:00,Índio Condá / Chapecó
 031,Fluminense / RJ,Vitória / BA,03/06/2017,18:00,Jornalista Mário Filho / Rio de Janeiro
 032,Flamengo / RJ,Botafogo / RJ,04/06/2017,11:00,Sylvio Raulino de Oliveira / Volta Redonda
@@ -36,7 +36,7 @@ Game,Home,Away,Date,Time,Stadium
 035,Cruzeiro / MG,Chapecoense / SC,04/06/2017,19:00,Magalhães Pinto / Belo Horizonte
 036,Coritiba / PR,Athletico Paranaense / PR,03/06/2017,16:00,Major Antônio Couto Pereira / Curitiba
 037,Grêmio / RS,Vasco da Gama / RJ,04/06/2017,16:00,Arena do Grêmio / Porto Alegre
-038,Bahia / BA,Atlético / GO,05/06/2017,20:00,Octávio Mangabeira / Salvador
+038,Bahia / BA,Atlético Goianiense / GO,05/06/2017,20:00,Octávio Mangabeira / Salvador
 039,Ponte Preta / SP,São Paulo / SP,04/06/2017,16:00,Moisés Lucarelli / Campinas
 040,Avaí / SC,Sport / PE,04/06/2017,11:00,Aderbal Ramos da Silva / Florianópolis
 041,Fluminense / RJ,Athletico Paranaense / PR,06/06/2017,20:00,Jornalista Mário Filho / Rio de Janeiro
@@ -47,13 +47,13 @@ Game,Home,Away,Date,Time,Stadium
 046,Coritiba / PR,Palmeiras / SP,07/06/2017,19:30,Major Antônio Couto Pereira / Curitiba
 047,Sport / PE,Flamengo / RJ,07/06/2017,21:45,Aldemar da Costa Carvalho / Recife
 048,Bahia / BA,Cruzeiro / MG,08/06/2017,21:00,Octávio Mangabeira / Salvador
-049,Atlético / GO,Ponte Preta / SP,08/06/2017,19:30,Olímpico Pedro Ludovico / 
+049,Atlético Goianiense / GO,Ponte Preta / SP,08/06/2017,19:30,Olímpico Pedro Ludovico / 
 050,Chapecoense / SC,Grêmio / RS,08/06/2017,20:00,Índio Condá / Chapecó
 051,Botafogo / RJ,Coritiba / PR,11/06/2017,11:00,Estádio Olímpico João Havelange / Rio de Janeiro
 052,Vasco da Gama / RJ,Sport / PE,10/06/2017,19:00,São Januário / Rio de Janeiro
 053,Palmeiras / SP,Fluminense / RJ,10/06/2017,16:00,Parque Antártica / São Paulo
 054,Corinthians / SP,São Paulo / SP,11/06/2017,16:00,Arena Corinthians / Sao Paulo
-055,Cruzeiro / MG,Atlético / GO,11/06/2017,18:30,Magalhães Pinto / Belo Horizonte
+055,Cruzeiro / MG,Atlético Goianiense / GO,11/06/2017,18:30,Magalhães Pinto / Belo Horizonte
 056,Athletico Paranaense / PR,Santos / SP,11/06/2017,19:00,Joaquim Américo Guimarães / Curitiba
 057,Grêmio / RS,Bahia / BA,12/06/2017,20:00,Arena do Grêmio / Porto Alegre
 058,Vitória / BA,Atlético Mineiro / MG,11/06/2017,16:00,Manoel Barradas / Salvador
@@ -67,7 +67,7 @@ Game,Home,Away,Date,Time,Stadium
 066,Coritiba / PR,Bahia / BA,15/06/2017,16:00,Major Antônio Couto Pereira / Curitiba
 067,Sport / PE,São Paulo / SP,14/06/2017,19:30,Aldemar da Costa Carvalho / Recife
 068,Vitória / BA,Botafogo / RJ,14/06/2017,19:30,Manoel Barradas / Salvador
-069,Atlético / GO,Avaí / SC,14/06/2017,19:30,Olímpico Pedro Ludovico / 
+069,Atlético Goianiense / GO,Avaí / SC,14/06/2017,19:30,Olímpico Pedro Ludovico / 
 070,Chapecoense / SC,Vasco da Gama / RJ,14/06/2017,21:45,Índio Condá / Chapecó
 071,Fluminense / RJ,Flamengo / RJ,18/06/2017,16:00,Jornalista Mário Filho / Rio de Janeiro
 072,Vasco da Gama / RJ,Avaí / SC,17/06/2017,19:00,São Januário / Rio de Janeiro
@@ -77,11 +77,11 @@ Game,Home,Away,Date,Time,Stadium
 076,Coritiba / PR,Corinthians / SP,18/06/2017,11:00,Major Antônio Couto Pereira / Curitiba
 077,Sport / PE,Vitória / BA,18/06/2017,19:00,Aldemar da Costa Carvalho / Recife
 078,Bahia / BA,Palmeiras / SP,18/06/2017,16:00,Octávio Mangabeira / Salvador
-079,Atlético / GO,Athletico Paranaense / PR,17/06/2017,16:00,Olímpico Pedro Ludovico / 
+079,Atlético Goianiense / GO,Athletico Paranaense / PR,17/06/2017,16:00,Olímpico Pedro Ludovico / 
 080,Chapecoense / SC,Botafogo / RJ,18/06/2017,16:00,Índio Condá / Chapecó
 081,Botafogo / RJ,Vasco da Gama / RJ,21/06/2017,21:00,Estádio Olímpico João Havelange / Rio de Janeiro
 082,Flamengo / RJ,Chapecoense / SC,22/06/2017,21:00,Luso Brasileiro / Rio de Janeiro
-083,Palmeiras / SP,Atlético / GO,21/06/2017,21:00,Parque Antártica / São Paulo
+083,Palmeiras / SP,Atlético Goianiense / GO,21/06/2017,21:00,Parque Antártica / São Paulo
 084,Corinthians / SP,Bahia / BA,22/06/2017,19:30,Arena Corinthians / Sao Paulo
 085,Atlético Mineiro / MG,Sport / PE,21/06/2017,21:45,Raimundo Sampaio / Belo Horizonte
 086,Athletico Paranaense / PR,São Paulo / SP,21/06/2017,21:45,Joaquim Américo Guimarães / Curitiba
@@ -90,7 +90,7 @@ Game,Home,Away,Date,Time,Stadium
 089,Ponte Preta / SP,Cruzeiro / MG,22/06/2017,19:30,Moisés Lucarelli / Campinas
 090,Avaí / SC,Fluminense / RJ,21/06/2017,21:45,Aderbal Ramos da Silva / Florianópolis
 091,Botafogo / RJ,Avaí / SC,26/06/2017,20:00,Estádio Olímpico João Havelange / Rio de Janeiro
-092,Vasco da Gama / RJ,Atlético / GO,25/06/2017,11:00,São Januário / Rio de Janeiro
+092,Vasco da Gama / RJ,Atlético Goianiense / GO,25/06/2017,11:00,São Januário / Rio de Janeiro
 093,Santos / SP,Sport / PE,24/06/2017,19:00,Urbano Caldeira / Santos
 094,São Paulo / SP,Fluminense / RJ,25/06/2017,16:00,Cícero Pompeu de Toledo / Sao Paulo
 095,Cruzeiro / MG,Coritiba / PR,25/06/2017,16:00,Magalhães Pinto / Belo Horizonte
@@ -107,7 +107,7 @@ Game,Home,Away,Date,Time,Stadium
 106,Coritiba / PR,Vasco da Gama / RJ,02/07/2017,19:00,Durival Britto E Silva / Curitiba
 107,Sport / PE,Athletico Paranaense / PR,02/07/2017,16:00,Aldemar da Costa Carvalho / Recife
 108,Vitória / BA,Bahia / BA,02/07/2017,16:00,Manoel Barradas / Salvador
-109,Atlético / GO,Santos / SP,01/07/2017,19:00,Olímpico Pedro Ludovico / 
+109,Atlético Goianiense / GO,Santos / SP,01/07/2017,19:00,Olímpico Pedro Ludovico / 
 110,Avaí / SC,Ponte Preta / SP,02/07/2017,19:00,Aderbal Ramos da Silva / Florianópolis
 111,Botafogo / RJ,Atlético Mineiro / MG,09/07/2017,19:00,Estádio Olímpico João Havelange / Rio de Janeiro
 112,Vasco da Gama / RJ,Flamengo / RJ,08/07/2017,18:00,São Januário / Rio de Janeiro
@@ -117,12 +117,12 @@ Game,Home,Away,Date,Time,Stadium
 116,Coritiba / PR,Sport / PE,10/07/2017,20:00,Major Antônio Couto Pereira / Curitiba
 117,Grêmio / RS,Avaí / SC,09/07/2017,16:00,Arena do Grêmio / Porto Alegre
 118,Bahia / BA,Fluminense / RJ,09/07/2017,16:00,Octávio Mangabeira / Salvador
-119,Atlético / GO,Vitória / BA,08/07/2017,16:00,Olímpico Pedro Ludovico / 
+119,Atlético Goianiense / GO,Vitória / BA,08/07/2017,16:00,Olímpico Pedro Ludovico / 
 120,Chapecoense / SC,Athletico Paranaense / PR,09/07/2017,11:00,Índio Condá / Chapecó
 121,Fluminense / RJ,Botafogo / RJ,12/07/2017,21:00,Jornalista Mário Filho / Rio de Janeiro
 122,Flamengo / RJ,Grêmio / RS,13/07/2017,19:30,Luso Brasileiro / Rio de Janeiro
 123,Palmeiras / SP,Corinthians / SP,12/07/2017,21:45,Parque Antártica / São Paulo
-124,São Paulo / SP,Atlético / GO,13/07/2017,19:30,Cícero Pompeu de Toledo / Sao Paulo
+124,São Paulo / SP,Atlético Goianiense / GO,13/07/2017,19:30,Cícero Pompeu de Toledo / Sao Paulo
 125,Atlético Mineiro / MG,Santos / SP,12/07/2017,19:30,Raimundo Sampaio / Belo Horizonte
 126,Athletico Paranaense / PR,Cruzeiro / MG,12/07/2017,21:45,Joaquim Américo Guimarães / Curitiba
 127,Sport / PE,Chapecoense / SC,13/07/2017,19:30,Arena Pernambuco / São Lourenço da Mata
@@ -137,7 +137,7 @@ Game,Home,Away,Date,Time,Stadium
 136,Coritiba / PR,Fluminense / RJ,16/07/2017,19:00,Major Antônio Couto Pereira / Curitiba
 137,Grêmio / RS,Ponte Preta / SP,16/07/2017,16:00,Arena do Grêmio / Porto Alegre
 138,Bahia / BA,Avaí / SC,16/07/2017,19:00,Roberto Santos / Salvador
-139,Atlético / GO,Atlético Mineiro / MG,16/07/2017,16:00,Olímpico Pedro Ludovico / 
+139,Atlético Goianiense / GO,Atlético Mineiro / MG,16/07/2017,16:00,Olímpico Pedro Ludovico / 
 140,Chapecoense / SC,São Paulo / SP,16/07/2017,16:00,Índio Condá / Chapecó
 141,Fluminense / RJ,Cruzeiro / MG,20/07/2017,19:30,Giulite Coutinho / Mesquita
 142,Flamengo / RJ,Palmeiras / SP,19/07/2017,21:45,Luso Brasileiro / Rio de Janeiro
@@ -145,7 +145,7 @@ Game,Home,Away,Date,Time,Stadium
 144,São Paulo / SP,Vasco da Gama / RJ,19/07/2017,21:45,Cícero Pompeu de Toledo / Sao Paulo
 145,Atlético Mineiro / MG,Bahia / BA,19/07/2017,21:45,Raimundo Sampaio / Belo Horizonte
 146,Athletico Paranaense / PR,Botafogo / RJ,20/07/2017,21:00,Joaquim Américo Guimarães / Curitiba
-147,Sport / PE,Atlético / GO,20/07/2017,20:00,Adelmar da Costa Carvalho / Recife
+147,Sport / PE,Atlético Goianiense / GO,20/07/2017,20:00,Adelmar da Costa Carvalho / Recife
 148,Vitória / BA,Grêmio / RS,19/07/2017,19:30,Manoel Barradas / Salvador
 149,Ponte Preta / SP,Coritiba / PR,19/07/2017,21:00,Moisés Lucarelli / Campinas
 150,Avaí / SC,Corinthians / SP,19/07/2017,21:00,Aderbal Ramos da Silva / Florianópolis
@@ -155,14 +155,14 @@ Game,Home,Away,Date,Time,Stadium
 154,Athletico Paranaense / PR,Ponte Preta / SP,23/07/2017,19:00,Joaquim Américo Guimarães / Curitiba
 155,Fluminense / RJ,Corinthians / SP,23/07/2017,16:00,Jornalista Mário Filho / Rio de Janeiro
 156,Sport / PE,Palmeiras / SP,23/07/2017,16:00,Pernambuco de Pernambuco / São Lourenço da Mata
-157,Atlético / GO,Botafogo / RJ,23/07/2017,19:00,Olímpico Pedro Ludovico / 
+157,Atlético Goianiense / GO,Botafogo / RJ,23/07/2017,19:00,Olímpico Pedro Ludovico / 
 158,Avaí / SC,Cruzeiro / MG,23/07/2017,16:00,Aderbal Ramos da Silva / Florianópolis
 159,Atlético Mineiro / MG,Vasco da Gama / RJ,23/07/2017,19:00,Raimundo Sampaio / Belo Horizonte
 160,São Paulo / SP,Grêmio / RS,24/07/2017,20:00,Cícero Pompeu de Toledo / Sao Paulo
 161,Botafogo / RJ,São Paulo / SP,29/07/2017,16:00,Estádio Olímpico João Havelange / Rio de Janeiro
 162,Palmeiras / SP,Avaí / SC,29/07/2017,19:00,Parque Antártica / São Paulo
 163,Cruzeiro / MG,Vitória / BA,30/07/2017,19:00,Magalhães Pinto / Belo Horizonte
-164,Chapecoense / SC,Atlético / GO,30/07/2017,11:00,Índio Condá / Chapecó
+164,Chapecoense / SC,Atlético Goianiense / GO,30/07/2017,11:00,Índio Condá / Chapecó
 165,Corinthians / SP,Flamengo / RJ,30/07/2017,16:00,Arena Corinthians / Sao Paulo
 166,Coritiba / PR,Atlético Mineiro / MG,30/07/2017,16:00,Major Antônio Couto Pereira / Curitiba
 167,Bahia / BA,Sport / PE,30/07/2017,16:00,Octávio Mangabeira / Salvador
@@ -175,7 +175,7 @@ Game,Home,Away,Date,Time,Stadium
 174,Vitória / BA,Ponte Preta / SP,02/08/2017,21:00,Manoel Barradas / Salvador
 175,Botafogo / RJ,Palmeiras / SP,02/08/2017,21:45,Estádio Olímpico João Havelange / Rio de Janeiro
 176,Santos / SP,Flamengo / RJ,02/08/2017,21:45,Paulo Machado de Carvalho / São Paulo
-177,Atlético / GO,Grêmio / RS,02/08/2017,21:45,Olímpico Pedro Ludovico / 
+177,Atlético Goianiense / GO,Grêmio / RS,02/08/2017,21:45,Olímpico Pedro Ludovico / 
 178,São Paulo / SP,Coritiba / PR,03/08/2017,19:30,Cícero Pompeu de Toledo / Sao Paulo
 179,Athletico Paranaense / PR,Avaí / SC,03/08/2017,19:30,Joaquim Américo Guimarães / Curitiba
 180,Vasco da Gama / RJ,Cruzeiro / MG,03/08/2017,20:00,Sylvio Raulino de Oliveira / Volta Redonda
@@ -188,8 +188,8 @@ Game,Home,Away,Date,Time,Stadium
 187,Bahia / BA,São Paulo / SP,06/08/2017,16:00,Octávio Mangabeira / Salvador
 188,Ponte Preta / SP,Vasco da Gama / RJ,06/08/2017,19:00,Moisés Lucarelli / Campinas
 189,Avaí / SC,Santos / SP,06/08/2017,19:00,Aderbal Ramos da Silva / Florianópolis
-190,Fluminense / RJ,Atlético / GO,05/08/2017,19:00,Jornalista Mário Filho / Rio de Janeiro
-191,Atlético / GO,Coritiba / PR,12/08/2017,16:00,Olímpico Pedro Ludovico / 
+190,Fluminense / RJ,Atlético Goianiense / GO,05/08/2017,19:00,Jornalista Mário Filho / Rio de Janeiro
+191,Atlético Goianiense / GO,Coritiba / PR,12/08/2017,16:00,Olímpico Pedro Ludovico / 
 192,Vitória / BA,Avaí / SC,12/08/2017,19:00,Manoel Barradas / Salvador
 193,São Paulo / SP,Cruzeiro / MG,13/08/2017,11:00,Cícero Pompeu de Toledo / Sao Paulo
 194,Vasco da Gama / RJ,Palmeiras / SP,13/08/2017,16:00,Sylvio Raulino de Oliveira / Volta Redonda
@@ -200,7 +200,7 @@ Game,Home,Away,Date,Time,Stadium
 199,Sport / PE,Ponte Preta / SP,13/08/2017,16:00,Adelmar da Costa Carvalho / Recife
 200,Chapecoense / SC,Corinthians / SP,23/08/2017,19:30,Índio Condá / Chapecó
 201,Corinthians / SP,Vitória / BA,19/08/2017,16:00,Arena Corinthians / Sao Paulo
-202,Flamengo / RJ,Atlético / GO,19/08/2017,19:00,Luso Brasileiro / Rio de Janeiro
+202,Flamengo / RJ,Atlético Goianiense / GO,19/08/2017,19:00,Luso Brasileiro / Rio de Janeiro
 203,Ponte Preta / SP,Botafogo / RJ,20/08/2017,16:00,Moisés Lucarelli / Campinas
 204,Cruzeiro / MG,Sport / PE,20/08/2017,16:00,Magalhães Pinto / Belo Horizonte
 205,Bahia / BA,Vasco da Gama / RJ,20/08/2017,16:00,Octávio Mangabeira / Salvador
@@ -210,7 +210,7 @@ Game,Home,Away,Date,Time,Stadium
 209,Coritiba / PR,Santos / SP,20/08/2017,19:00,Major Antônio Couto Pereira / Curitiba
 210,Fluminense / RJ,Atlético Mineiro / MG,21/08/2017,20:00,Jornalista Mário Filho / Rio de Janeiro
 211,Fluminense / RJ,Vasco da Gama / RJ,26/08/2017,16:00,Jornalista Mário Filho / Rio de Janeiro
-212,Corinthians / SP,Atlético / GO,26/08/2017,19:00,Arena Corinthians / Sao Paulo
+212,Corinthians / SP,Atlético Goianiense / GO,26/08/2017,19:00,Arena Corinthians / Sao Paulo
 213,Grêmio / RS,Sport / PE,02/09/2017,16:00,Arena do Grêmio / Porto Alegre
 214,Avaí / SC,Chapecoense / SC,27/08/2017,19:00,Aderbal Ramos da Silva / Florianópolis
 215,Flamengo / RJ,Athletico Paranaense / PR,27/08/2017,16:00,Luso Brasileiro / Rio de Janeiro
@@ -228,8 +228,8 @@ Game,Home,Away,Date,Time,Stadium
 227,Vitória / BA,Fluminense / RJ,10/09/2017,16:00,Manoel Barradas / Salvador
 228,Botafogo / RJ,Flamengo / RJ,10/09/2017,19:00,Estádio Olímpico João Havelange / Rio de Janeiro
 229,Chapecoense / SC,Cruzeiro / MG,10/09/2017,19:00,Índio Condá / Chapecó
-230,Atlético / GO,Bahia / BA,11/09/2017,20:00,Olímpico Pedro Ludovico / 
-231,Ponte Preta / SP,Atlético / GO,16/09/2017,21:00,Moisés Lucarelli / Campinas
+230,Atlético Goianiense / GO,Bahia / BA,11/09/2017,20:00,Olímpico Pedro Ludovico / 
+231,Ponte Preta / SP,Atlético Goianiense / GO,16/09/2017,21:00,Moisés Lucarelli / Campinas
 232,Botafogo / RJ,Santos / SP,16/09/2017,19:00,Estádio Olímpico João Havelange / Rio de Janeiro
 233,Palmeiras / SP,Coritiba / PR,18/09/2017,20:00,Paulo Machado de Carvalho / São Paulo
 234,Grêmio / RS,Chapecoense / SC,17/09/2017,16:00,Arena do Grêmio / Porto Alegre
@@ -244,7 +244,7 @@ Game,Home,Away,Date,Time,Stadium
 243,São Paulo / SP,Corinthians / SP,24/09/2017,11:00,Cícero Pompeu de Toledo / Sao Paulo
 244,Fluminense / RJ,Palmeiras / SP,24/09/2017,16:00,Jornalista Mário Filho / Rio de Janeiro
 245,Coritiba / PR,Botafogo / RJ,24/09/2017,16:00,Major Antônio Couto Pereira / Curitiba
-246,Atlético / GO,Cruzeiro / MG,24/09/2017,16:00,Olímpico Pedro Ludovico / 
+246,Atlético Goianiense / GO,Cruzeiro / MG,24/09/2017,16:00,Olímpico Pedro Ludovico / 
 247,Chapecoense / SC,Ponte Preta / SP,24/09/2017,16:00,Índio Condá / Chapecó
 248,Atlético Mineiro / MG,Vitória / BA,24/09/2017,19:00,Raimundo Sampaio / Belo Horizonte
 249,Bahia / BA,Grêmio / RS,24/09/2017,19:00,Octávio Mangabeira / Salvador
@@ -255,13 +255,13 @@ Game,Home,Away,Date,Time,Stadium
 254,Botafogo / RJ,Vitória / BA,01/10/2017,16:00,Estádio Olímpico João Havelange / Rio de Janeiro
 255,São Paulo / SP,Sport / PE,01/10/2017,16:00,Cícero Pompeu de Toledo / Sao Paulo
 256,Cruzeiro / MG,Corinthians / SP,01/10/2017,16:00,Magalhães Pinto / Belo Horizonte
-257,Avaí / SC,Atlético / GO,01/10/2017,16:00,Aderbal Ramos da Silva / Florianópolis
+257,Avaí / SC,Atlético Goianiense / GO,01/10/2017,16:00,Aderbal Ramos da Silva / Florianópolis
 258,Grêmio / RS,Fluminense / RJ,01/10/2017,16:00,Arena do Grêmio / Porto Alegre
 259,Athletico Paranaense / PR,Atlético Mineiro / MG,01/10/2017,19:00,Joaquim Américo Guimarães / Curitiba
 260,Ponte Preta / SP,Flamengo / RJ,02/10/2017,20:00,Moisés Lucarelli / Campinas
 261,Cruzeiro / MG,Ponte Preta / SP,07/10/2017,16:00,Magalhães Pinto / Belo Horizonte
 262,Botafogo / RJ,Chapecoense / SC,11/10/2017,19:30,Estádio Olímpico João Havelange / Rio de Janeiro
-263,Athletico Paranaense / PR,Atlético / GO,11/10/2017,19:30,Joaquim Américo Guimarães / Curitiba
+263,Athletico Paranaense / PR,Atlético Goianiense / GO,11/10/2017,19:30,Joaquim Américo Guimarães / Curitiba
 264,Corinthians / SP,Coritiba / PR,11/10/2017,21:00,Arena Corinthians / Sao Paulo
 265,Atlético Mineiro / MG,São Paulo / SP,11/10/2017,21:45,Raimundo Sampaio / Belo Horizonte
 266,Grêmio / RS,Cruzeiro / MG,11/10/2017,21:45,Arena do Grêmio / Porto Alegre
@@ -274,12 +274,12 @@ Game,Home,Away,Date,Time,Stadium
 273,São Paulo / SP,Athletico Paranaense / PR,14/10/2017,21:00,Paulo Machado de Carvalho / Sao Paulo
 274,Fluminense / RJ,Avaí / SC,15/10/2017,17:00,Jornalista Mário Filho / Rio de Janeiro
 275,Sport / PE,Atlético Mineiro / MG,15/10/2017,17:00,Adelmar da Costa Carvalho / Recife
-276,Atlético / GO,Palmeiras / SP,15/10/2017,17:00,Olímpico Pedro Ludovico / 
+276,Atlético Goianiense / GO,Palmeiras / SP,15/10/2017,17:00,Olímpico Pedro Ludovico / 
 277,Chapecoense / SC,Flamengo / RJ,15/10/2017,17:00,Índio Condá / Chapecó
 278,Coritiba / PR,Grêmio / RS,15/10/2017,19:00,Major Antônio Couto Pereira / Curitiba
 279,Bahia / BA,Corinthians / SP,15/10/2017,19:00,Octávio Mangabeira / Salvador
 280,Santos / SP,Vitória / BA,16/10/2017,20:00,Paulo Machado de Carvalho / São Paulo
-281,Atlético / GO,Vasco da Gama / RJ,18/10/2017,19:30,Serra Dourada / Goiânia
+281,Atlético Goianiense / GO,Vasco da Gama / RJ,18/10/2017,19:30,Serra Dourada / Goiânia
 282,Coritiba / PR,Cruzeiro / MG,18/10/2017,19:30,Major Antônio Couto Pereira / Curitiba
 283,Atlético Mineiro / MG,Chapecoense / SC,18/10/2017,21:00,Raimundo Sampaio / Belo Horizonte
 284,Corinthians / SP,Grêmio / RS,18/10/2017,21:45,Arena Corinthians / Sao Paulo
@@ -295,7 +295,7 @@ Game,Home,Away,Date,Time,Stadium
 294,Grêmio / RS,Palmeiras / SP,22/10/2017,17:00,Arena do Grêmio / Porto Alegre
 295,Vasco da Gama / RJ,Coritiba / PR,21/10/2017,17:00,Jornalista Mário Filho / Rio de Janeiro
 296,Bahia / BA,Vitória / BA,22/10/2017,17:00,Octávio Mangabeira / Salvador
-297,Santos / SP,Atlético / GO,22/10/2017,17:00,Urbano Caldeira / Santos
+297,Santos / SP,Atlético Goianiense / GO,22/10/2017,17:00,Urbano Caldeira / Santos
 298,Ponte Preta / SP,Avaí / SC,22/10/2017,19:00,Moisés Lucarelli / Campinas
 299,Chapecoense / SC,Fluminense / RJ,22/10/2017,19:00,Índio Condá / Chapecó
 300,Athletico Paranaense / PR,Sport / PE,22/10/2017,17:00,Joaquim Américo Guimarães / Curitiba
@@ -306,7 +306,7 @@ Game,Home,Away,Date,Time,Stadium
 305,Atlético Mineiro / MG,Botafogo / RJ,29/10/2017,17:00,Raimundo Sampaio / Belo Horizonte
 306,Ponte Preta / SP,Corinthians / SP,29/10/2017,17:00,Moisés Lucarelli / Campinas
 307,Sport / PE,Coritiba / PR,29/10/2017,18:00,Adelmar da Costa Carvalho / Recife
-308,Vitória / BA,Atlético / GO,29/10/2017,18:00,Manoel Barradas / Salvador
+308,Vitória / BA,Atlético Goianiense / GO,29/10/2017,18:00,Manoel Barradas / Salvador
 309,Avaí / SC,Grêmio / RS,29/10/2017,19:00,Aderbal Ramos da Silva / Florianópolis
 310,Palmeiras / SP,Cruzeiro / MG,30/10/2017,20:00,Parque Antártica / São Paulo
 311,Santos / SP,Atlético Mineiro / MG,04/11/2017,17:00,Urbano Caldeira / Santos
@@ -318,7 +318,7 @@ Game,Home,Away,Date,Time,Stadium
 317,Cruzeiro / MG,Athletico Paranaense / PR,05/11/2017,17:00,Magalhães Pinto / Belo Horizonte
 318,Bahia / BA,Ponte Preta / SP,05/11/2017,18:00,Octávio Mangabeira / Salvador
 319,Vasco da Gama / RJ,Vitória / BA,05/11/2017,19:00,Jornalista Mário Filho / Rio de Janeiro
-320,Atlético / GO,São Paulo / SP,04/11/2017,19:00,Serra Dourada / Goiânia
+320,Atlético Goianiense / GO,São Paulo / SP,04/11/2017,19:00,Serra Dourada / Goiânia
 321,Avaí / SC,Bahia / BA,08/11/2017,19:30,Aderbal Ramos da Silva / Florianópolis
 322,Ponte Preta / SP,Grêmio / RS,08/11/2017,19:30,Moisés Lucarelli / Campinas
 323,Sport / PE,Botafogo / RJ,08/11/2017,21:00,Adelmar da Costa Carvalho / Recife
@@ -327,13 +327,13 @@ Game,Home,Away,Date,Time,Stadium
 326,Santos / SP,Vasco da Gama / RJ,08/11/2017,21:45,Urbano Caldeira / Santos
 327,Vitória / BA,Palmeiras / SP,08/11/2017,21:45,Manoel Barradas / Salvador
 328,São Paulo / SP,Chapecoense / SC,09/11/2017,20:00,Paulo Machado de Carvalho / São Paulo
-329,Atlético Mineiro / MG,Atlético / GO,09/11/2017,20:00,Raimundo Sampaio / Belo Horizonte
+329,Atlético Mineiro / MG,Atlético Goianiense / GO,09/11/2017,20:00,Raimundo Sampaio / Belo Horizonte
 330,Fluminense / RJ,Coritiba / PR,09/11/2017,21:00,Jornalista Mário Filho / Rio de Janeiro
 331,Botafogo / RJ,Athletico Paranaense / PR,11/11/2017,17:00,Estádio Olímpico João Havelange / Rio de Janeiro
 332,Corinthians / SP,Avaí / SC,11/11/2017,19:00,Arena Corinthians / Sao Paulo
 333,Vasco da Gama / RJ,São Paulo / SP,12/11/2017,17:00,São Januário / Rio de Janeiro
 334,Palmeiras / SP,Flamengo / RJ,12/11/2017,17:00,Parque Antártica / Sao Paulo
-335,Atlético / GO,Sport / PE,12/11/2017,17:00,Olímpico Pedro Ludovico / 
+335,Atlético Goianiense / GO,Sport / PE,12/11/2017,17:00,Olímpico Pedro Ludovico / 
 336,Grêmio / RS,Vitória / BA,12/11/2017,17:00,Alfredo Jaconi / Caxias do Sul
 337,Bahia / BA,Atlético Mineiro / MG,12/11/2017,18:00,Octávio Mangabeira / Salvador
 338,Cruzeiro / MG,Fluminense / RJ,12/11/2017,19:00,Magalhães Pinto / Belo Horizonte
@@ -344,7 +344,7 @@ Game,Home,Away,Date,Time,Stadium
 343,Cruzeiro / MG,Avaí / SC,15/11/2017,19:30,Magalhães Pinto / Belo Horizonte
 344,Vasco da Gama / RJ,Atlético Mineiro / MG,15/11/2017,21:45,São Januário / Rio de Janeiro
 345,Corinthians / SP,Fluminense / RJ,15/11/2017,21:45,Arena Corinthians / Sao Paulo
-346,Botafogo / RJ,Atlético / GO,16/11/2017,20:00,Estádio Olímpico João Havelange / Rio de Janeiro
+346,Botafogo / RJ,Atlético Goianiense / GO,16/11/2017,20:00,Estádio Olímpico João Havelange / Rio de Janeiro
 347,Palmeiras / SP,Sport / PE,16/11/2017,20:00,Parque Antártica / Sao Paulo
 348,Chapecoense / SC,Vitória / BA,16/11/2017,20:00,Índio Condá / Chapecó
 349,Coritiba / PR,Flamengo / RJ,16/11/2017,21:00,Major Antônio Couto Pereira / Curitiba
@@ -353,14 +353,14 @@ Game,Home,Away,Date,Time,Stadium
 352,Flamengo / RJ,Corinthians / SP,19/11/2017,17:00,Luso Brasileiro / Rio de Janeiro
 353,São Paulo / SP,Botafogo / RJ,19/11/2017,17:00,Paulo Machado de Carvalho / Sao Paulo
 354,Vitória / BA,Cruzeiro / MG,19/11/2017,17:00,Manoel Barradas / Salvador
-355,Atlético / GO,Chapecoense / SC,19/11/2017,17:00,Olímpico Pedro Ludovico / 
+355,Atlético Goianiense / GO,Chapecoense / SC,19/11/2017,17:00,Olímpico Pedro Ludovico / 
 356,Sport / PE,Bahia / BA,19/11/2017,17:00,Adelmar da Costa Carvalho / Recife
 357,Atlético Mineiro / MG,Coritiba / PR,19/11/2017,19:00,Raimundo Sampaio / Belo Horizonte
 358,Santos / SP,Grêmio / RS,19/11/2017,19:00,Urbano Caldeira / Santos
 359,Athletico Paranaense / PR,Vasco da Gama / RJ,19/11/2017,19:00,Joaquim Américo Guimarães / Curitiba
 360,Avaí / SC,Palmeiras / SP,20/11/2017,20:00,Aderbal Ramos da Silva / Florianopolis
 361,Fluminense / RJ,Sport / PE,25/11/2017,17:00,Jornalista Mário Filho / Rio de Janeiro
-362,Grêmio / RS,Atlético / GO,26/11/2017,17:00,Arena do Grêmio / Porto Alegre
+362,Grêmio / RS,Atlético Goianiense / GO,26/11/2017,17:00,Arena do Grêmio / Porto Alegre
 363,Avaí / SC,Athletico Paranaense / PR,26/11/2017,17:00,Aderbal Ramos da Silva / Florianopolis
 364,Corinthians / SP,Atlético Mineiro / MG,26/11/2017,17:00,Arena Corinthians / Sao Paulo
 365,Cruzeiro / MG,Vasco da Gama / RJ,26/11/2017,17:00,Magalhães Pinto / Belo Horizonte
@@ -377,5 +377,5 @@ Game,Home,Away,Date,Time,Stadium
 376,Athletico Paranaense / PR,Palmeiras / SP,03/12/2017,17:00,Joaquim Américo Guimarães / Curitiba
 377,Sport / PE,Corinthians / SP,03/12/2017,17:00,Adelmar da Costa Carvalho / Recife
 378,Vitória / BA,Flamengo / RJ,03/12/2017,17:00,Manoel Barradas / Salvador
-379,Atlético / GO,Fluminense / RJ,03/12/2017,17:00,Olímpico Pedro Ludovico / 
+379,Atlético Goianiense / GO,Fluminense / RJ,03/12/2017,17:00,Olímpico Pedro Ludovico / 
 380,Chapecoense / SC,Coritiba / PR,03/12/2017,17:00,Índio Condá / Chapecó

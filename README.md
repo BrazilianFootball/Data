@@ -36,7 +36,7 @@ This repository is organized in three main folders:
 |  Serie A (2021) |    380   |     380     |
 |  Serie A (2022) |    380   |     380     |
 |  Serie A (2023) |    380   |     380     |
-|  Serie A (2024) |    360   |     355     |
+|  Serie A (2024) |    370   |     363     |
 |  Serie B (2013) |    380   |     380     |
 |  Serie B (2014) |    380   |     379     |
 |  Serie B (2015) |    380   |     380     |

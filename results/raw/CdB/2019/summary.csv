@@ -5,7 +5,7 @@ Game,Home,Away,Date,Time,Stadium
 004,Altos / PI,Santos / SP,06/02/2019,19:15,Governador Alberto Silva / Teresina
 005,Imperatriz / MA,Náutico / PE,12/02/2019,21:30,Frei Epifânio D´abadia / Imperatriz
 006,Brasiliense / DF,CRB / AL,13/02/2019,16:30,Elmo Serejo Farias / Brasilia
-007,Brusque / SC,Atlético / GO,13/02/2019,20:30,Augusto Bauer / Brusque
+007,Brusque / SC,Atlético Goianiense / GO,13/02/2019,20:30,Augusto Bauer / Brusque
 008,Central / PE,Ceará / CE,06/02/2019,22:15,Luíz José de Lacerda / Caruaru
 009,Bragantino / PA,ASA / AL,13/02/2019,16:30,São Benedito / Braganca
 010,São Raimundo / RR,América / MG,13/02/2019,21:30,Vila Olímpica Roberto Marinho / Boa Vista
@@ -46,7 +46,7 @@ Game,Home,Away,Date,Time,Stadium
 045,Serra / ES,Vasco da Gama / RJ,20/02/2019,21:30,Kleber José de Andrade / Cariacica
 046,Criciúma / SC,Oeste / SP,21/02/2019,19:15,Heriberto Hulse / Criciuma
 047,Goiás / GO,CRB / AL,21/02/2019,21:30,Hailé Pinheiro / Goiania
-048,Atlético / CE,Atlético / GO,26/02/2019,21:30,Presidente Vargas / Fortaleza
+048,Atlético / CE,Atlético Goianiense / GO,26/02/2019,21:30,Presidente Vargas / Fortaleza
 049,Bragantino / PA,Aparecidense / GO,10/04/2019,19:15,Olímpico do Pará / Belem
 050,Foz do Iguaçu / PR,Ceará / CE,27/02/2019,19:15,Estádio do Abc / Foz do Iguacu
 051,URT / MG,Vila Nova / GO,27/02/2019,21:30,Zama Maciel / Patos de Minas
@@ -66,7 +66,7 @@ Game,Home,Away,Date,Time,Stadium
 065,CRB / AL,Bahia / BA,02/04/2019,19:15,Rei Pelé / Maceio
 066,Luverdense / MT,Fluminense / RJ,03/04/2019,19:15,Passo das Emas / Lucas do Rio Verde
 067,ABC / RN,Santa Cruz / PE,03/04/2019,21:30,Maria Lamas Farache / Natal
-068,Atlético / GO,Santos / SP,04/04/2019,19:15,Antônio Accioly / Goiania
+068,Atlético Goianiense / GO,Santos / SP,04/04/2019,19:15,Antônio Accioly / Goiania
 069,Botafogo / RJ,Juventude / RS,04/04/2019,21:30,Nilton Santos / Rio de Janeiro
 070,Vila Nova / GO,Bragantino / PA,16/04/2019,20:00,Olímpico Pedro Ludovico / Goiania
 071,Londrina / PR,Botafogo / PB,03/04/2019,20:30,Jacy Scaff / Londrina
@@ -77,7 +77,7 @@ Game,Home,Away,Date,Time,Stadium
 076,Avaí / SC,Vasco da Gama / RJ,10/04/2019,21:30,Aderbal Ramos da Silva / Florianopolis
 077,Santa Cruz / PE,ABC / RN,10/04/2019,21:30,José do Rêgo Maciel / Recife
 078,Juventude / RS,Botafogo / RJ,11/04/2019,19:15,Alfredo Jaconi / Caxias do Sul
-079,Santos / SP,Atlético / GO,11/04/2019,21:30,Urbano Caldeira / Santos
+079,Santos / SP,Atlético Goianiense / GO,11/04/2019,21:30,Urbano Caldeira / Santos
 080,Bragantino / PA,Vila Nova / GO,20/04/2019,16:00,Olímpico do Pará / Belem
 081,Santos / SP,Vasco da Gama / RJ,17/04/2019,19:15,Urbano Caldeira / Santos
 082,Fluminense / RJ,Santa Cruz / PE,17/04/2019,21:30,Jornalista Mário Filho / Rio de Janeiro
