@@ -1,6 +1,8 @@
+Treating yellow cards: Couldn't parse event 25:00 2T3Caue Roberto Carvalho Sobradinho  in game between Sobradinho / DF and Botafogo / RJ
 Not found player whom score goal at 41' on game between Fast Clube / AM and CRB / AL in 2013's CdB
 Not found player whom score goal at 80' on game between Fast Clube / AM and CRB / AL in 2013's CdB
 Not found player whom score goal at 48' on game between Ipatinga / MG and Bangu / RJ in 2013's CdB
+Treating yellow cards: Couldn't parse event 09:00 1T9Laecio Lopes de Aquino Sobradinho  in game between Botafogo / RJ and Sobradinho / DF
 Can't find player 15 of Flamengo / RJ in 103 of 2013's CdB
 Can't find player 5 of Flamengo / RJ in 103 of 2013's CdB
 Can't change player 5 because he's already out of game 103 of 2013's CdB
@@ -14,8 +16,12 @@ Can't change player 11 because he's already out of game 103 of 2013's CdB
 Can't find player 16 of Flamengo / RJ in 103 of 2013's CdB
 Can't find player 7 of Flamengo / RJ in 103 of 2013's CdB
 Can't change player 7 because he's already out of game 103 of 2013's CdB
+Treating yellow cards: Couldn't parse event 18:00 2T10Joao Paulo Mior Atlético in game between Cruzeiro / MG and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 25:00 1T16Mahatma Gandhi Heberpio Mattos Pires Atlético in game between Atlético Goianiense / GO and Cruzeiro / MG
 Treating goals: Couldn't parse event 20:00 1T2NRMarcos Luis Rocha Aquino Atlético in game between Botafogo / RJ and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 26:00 1T27Luan Madson Gedeao de Paiva Atlético in game between Botafogo / RJ and Atlético Mineiro / MG
 Treating goals: Couldn't parse event 37:00 1T2NRMarcos Luis Rocha Aquino Atlético in game between Atlético Mineiro / MG and Botafogo / RJ
+Treating yellow cards: Couldn't parse event 32:00 1T7Joao Alves de Assis Silva Atlético in game between Atlético Mineiro / MG and Botafogo / RJ
 Treating red cards: Couldn't parse event +2:00 2T2Fernando Jose de Araujo França - Brasilia Bfc / DF in game between Brasília / DF and Sport / PE
 Can't change player 291798 because he's already out of game 080 of 2014's CdB
 Not found player 8 from Capivariano / SP on game 019 of 2015's CdB
@@ -98,21 +104,43 @@ Can't change player 10 because he's already out of game 049 of 2024's CdB
 Can't change player 756803 because he's already out of game 111 of 2024's CdB
 Can't change player 502230 because he's already out of game 112 of 2024's CdB
 Treating goals: Couldn't parse event 04:00 2T9NRDiego Tardelli Martins Atlético in game between Coritiba / PR and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 23:00 1T19Alecsandro Barbosa Felisbino Atlético in game between Coritiba / PR and Atlético Mineiro / MG
 Treating goals: Couldn't parse event +2 2T10NRRonaldo de Assis Moreira Atlético in game between Atlético Mineiro / MG and Grêmio / RS
+Treating yellow cards: Couldn't parse event 18:00 1T9Diego Tardelli Martins Atlético in game between Atlético Mineiro / MG and Grêmio / RS
 Can't change player 308149 because he's already out of game 020 of 2013's Serie_A
+Treating yellow cards: Couldn't parse event 18:00 1T2Marcos Luis Rocha Aquino Atlético in game between Atlético Mineiro / MG and São Paulo / SP
+Treating yellow cards: Couldn't parse event 31:00 1T3Leonardo Fabiano da Silva E Silva Atlético in game between Vasco da Gama / RJ and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 15:00 2T13Rafael Marques Pinto Atlético in game between Santos / SP and Atlético Mineiro / MG
 Treating goals: Couldn't parse event 11:00 1T88NRRosinei Adolfo Atlético in game between Atlético Mineiro / MG and Criciúma / SC
+Treating yellow cards: Couldn't parse event 36:00 1T36Jemerson de Jesus Nascimento Atlético in game between Atlético Mineiro / MG and Criciúma / SC
 Treating goals: Couldn't parse event 36:00 1T88NRRosinei Adolfo Atlético in game between Corinthians / SP and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 37:00 1T29Michel Macedo Rocha Machado Atlético in game between Corinthians / SP and Atlético Mineiro / MG
 Not found player  from Náutico / PE on game 087 of 2013's Serie_A
 Treating goals: Couldn't parse event 18:00 1T19PNAlecsandro Barbosa Felisbino Atlético in game between Cruzeiro / MG and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 12:00 1T20Richarlyson Barbosa Felisbino Atlético in game between Cruzeiro / MG and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event +01:00 2T19Alecsandro Barbosa Felisbino Atlético in game between Flamengo / RJ and Atlético Mineiro / MG
 Treating goals: Couldn't parse event +3 2T27NRLuan Madson Gedeao de Paiva Atlético in game between Atlético Mineiro / MG and Botafogo / RJ
+Treating yellow cards: Couldn't parse event 17:00 1T27Luan Madson Gedeao de Paiva Atlético in game between Atlético Mineiro / MG and Botafogo / RJ
+Treating yellow cards: Couldn't parse event 16:00 2T3Leonardo Fabiano da Silva E Silva Atlético in game between Náutico / PE and Atlético Mineiro / MG
 Treating goals: Couldn't parse event 18:00 1T3NRLeonardo Fabiano da Silva E Silva Atlético in game between Atlético Mineiro / MG and Bahia / BA
+Treating yellow cards: Couldn't parse event 16:00 2T2Marcos Luis Rocha Aquino Atlético in game between Atlético Mineiro / MG and Bahia / BA
+Treating yellow cards: Couldn't parse event 19:00 1T4Rever Humberto Alves de Araujo Atlético in game between Internacional / RS and Atlético Mineiro / MG
 Treating goals: Couldn't parse event 09:00 2T9NRDiego Tardelli Martins Atlético in game between Atlético Mineiro / MG and Portuguesa / SP
+Treating yellow cards: Couldn't parse event 42:00 1T4Rever Humberto Alves de Araujo Atlético in game between Atlético Mineiro / MG and Portuguesa / SP
+Treating yellow cards: Couldn't parse event 42:00 2T28Josue Anunciado de Oliveira Atlético in game between Goiás / GO and Atlético Mineiro / MG
 Treating goals: Couldn't parse event +2 1T10FTRonaldo de Assis Moreira Atlético in game between Atlético Mineiro / MG and Fluminense / RJ
+Treating yellow cards: Couldn't parse event 30:00 1T27Luan Madson Gedeao de Paiva Atlético in game between Atlético Mineiro / MG and Fluminense / RJ
 Treating goals: Couldn't parse event 40:00 2T25NRSosthenes Jose Santos Salles Atlético in game between Vitória / BA and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 40:00 1T10Ronaldo de Assis Moreira Atlético in game between Vitória / BA and Atlético Mineiro / MG
 Treating goals: Couldn't parse event 22:00 1T7NRJoao Alves de Assis Silva Atlético in game between Atlético Mineiro / MG and Coritiba / PR
+Treating yellow cards: Couldn't parse event 37:00 1T5Lucas Pierre Santos Oliveira Atlético in game between Atlético Mineiro / MG and Coritiba / PR
 Treating goals: Couldn't parse event 16:00 2T11NRLuiz Fernando Pereira da Silva Atlético in game between Grêmio / RS and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 01:00 1T7Joao Alves de Assis Silva Atlético in game between Grêmio / RS and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 15:00 2T5Lucas Pierre Santos Oliveira Atlético in game between São Paulo / SP and Atlético Mineiro / MG
 Treating goals: Couldn't parse event 02:00 1T11NRLuiz Fernando Pereira da Silva Atlético in game between Atlético Mineiro / MG and Vasco da Gama / RJ
+Treating yellow cards: Couldn't parse event +03:00 2T10Ronaldo de Assis Moreira Atlético in game between Atlético Mineiro / MG and Vasco da Gama / RJ
 Treating goals: Couldn't parse event 41:00 1T27NRLuan Madson Gedeao de Paiva Atlético in game between Criciúma / SC and Atlético Mineiro / MG
+Treating yellow cards: Couldn't parse event 09:00 1T3Leonardo Fabiano da Silva E Silva Atlético in game between Criciúma / SC and Atlético Mineiro / MG
 Can't find player 7 of Figueirense / SC in 019 of 2014's Serie_A
 Can't change player 7 because he's already out of game 019 of 2014's Serie_A
 Can't change player 166603 because he's already out of game 052 of 2014's Serie_A
@@ -346,6 +374,9 @@ Can't find player 27 of Atlético Mineiro / MG in 062 of 2019's Serie_A
 Can't change player 27 because he's already out of game 062 of 2019's Serie_A
 Not found player 21 from Atlético Mineiro / MG on game 062 of 2019's Serie_A
 Can't find player 38 of Botafogo / RJ in 302 of 2020's Serie_A
+"Treating yellow cards: Couldn't parse event 8
+ 2T
+                               4  in game between Palmeiras / SP and Ceará / CE"
 Can't find player 8 of Internacional / RS in 167 of 2023's Serie_A
 Can't find player 99 of Coritiba / PR in 248 of 2023's Serie_A
 Can't change player 339242 because he's already out of game 020 of 2024's Serie_A
@@ -355,7 +386,10 @@ Can't change player 526885 because he's already out of game 163 of 2024's Serie_
 Can't find player 23 of Vasco da Gama / RJ in 205 of 2024's Serie_A
 Can't change player 618867 because he's already out of game 242 of 2024's Serie_A
 Can't change player 703937 because he's already out of game 347 of 2024's Serie_A
+Treating yellow cards: Couldn't parse event 23:00 1T10Joao Paulo Mior Atlético in game between Palmeiras / SP and Atlético Goianiense / GO
 Treating goals: Couldn't parse event 09:00 2T5NRSandro Ferreira Andre Atlético in game between Atlético Goianiense / GO and Joinville / SC
+Treating yellow cards: Couldn't parse event 37:00 1T3Ednei Barbosa de Souza Atlético in game between Atlético Goianiense / GO and Joinville / SC
+Treating yellow cards: Couldn't parse event 21:00 1T8Ernandes Dias Luz Atlético in game between Boa / MG and Atlético Goianiense / GO
 Not found player whom score goal at 21' on game between Oeste / SP and Ceará / CE in 2013's Serie_B
 Not found player whom score goal at 31' on game between ABC / RN and Red Bull Bragantino / SP in 2013's Serie_B
 Treating goals: Couldn't parse event 07:00 2T3NREdnei Barbosa de Souza Atlético in game between São Caetano / SP and Atlético Goianiense / GO
@@ -363,18 +397,35 @@ Not found player whom score goal at 12' on game between Guaratinguetá / SP and 
 Not found player whom score goal at 68' on game between Guaratinguetá / SP and Sport / PE in 2013's Serie_B
 Not found player whom score goal at 56' on game between Paysandu / PA and Paraná / PR in 2013's Serie_B
 Treating goals: Couldn't parse event 20:00 1T9NRAnselmo Tadeu Silva do Nascimento Atlético in game between Atlético Goianiense / GO and Paysandu / PA
+Treating yellow cards: Couldn't parse event 25:00 1T7Carlos Robston Ludgero Junior Atlético in game between Atlético Goianiense / GO and Paysandu / PA
+Treating yellow cards: Couldn't parse event 40:00 1T3Artur Jesus Vieira Atlético in game between Atlético Goianiense / GO and Icasa / CE
 Treating goals: Couldn't parse event 25:00 2T17NRRicardo Jesus da Silva Atlético in game between ABC / RN and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 16:00 1T6Ernandes Dias Luz Atlético in game between ABC / RN and Atlético Goianiense / GO
 Treating goals: Couldn't parse event 30:00 1T10NRJoao Paulo Mior Atlético in game between Atlético Goianiense / GO and Figueirense / SC
+Treating yellow cards: Couldn't parse event 40:00 1T4Diego da Silva Giaretta Atlético in game between Atlético Goianiense / GO and Figueirense / SC
 Treating goals: Couldn't parse event 33:00 1T4NRDiego da Silva Giaretta Atlético in game between ASA / AL and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 28:00 1T8Marino da Silva Atlético in game between ASA / AL and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 08:00 2T2Rafael Cruz Ojer Atlético in game between Atlético Goianiense / GO and América / RN
+Treating yellow cards: Couldn't parse event 29:00 1T8Ernandes Dias Luz Atlético in game between Avaí / SC and Atlético Goianiense / GO
 Not found player whom score goal at 5' on game between Ceará / CE and Chapecoense / SC in 2013's Serie_B
+Treating yellow cards: Couldn't parse event 39:00 1T8Marino da Silva Atlético in game between Atlético Goianiense / GO and Paraná / PR
 Can't change player 165474 because he's already out of game 130 of 2013's Serie_B
 Treating goals: Couldn't parse event 14:00 1T4NRDiego da Silva Giaretta Atlético in game between Ceará / CE and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 43:00 1T6Ernandes Dias Luz Atlético in game between Ceará / CE and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 34:00 1T10Joao Paulo Mior Atlético in game between Atlético Goianiense / GO and Red Bull Bragantino / SP
 Treating goals: Couldn't parse event 08:00 2T11NRWesley Henrique Lima Silva E Silva Atlético in game between Sport / PE and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 43:00 1T2Rafael Cruz Ojer Atlético in game between Sport / PE and Atlético Goianiense / GO
 Treating goals: Couldn't parse event 05:00 1T11NRJorge de Moura Xavier Atlético in game between Atlético Goianiense / GO and América / MG
+Treating yellow cards: Couldn't parse event 23:00 2T7Marino da Silva Atlético in game between Atlético Goianiense / GO and América / MG
 Treating goals: Couldn't parse event 39:00 2T9NRRicardo Jesus da Silva Atlético in game between Atlético Goianiense / GO and Palmeiras / SP
+Treating yellow cards: Couldn't parse event 27:00 2T3Artur Jesus Vieira Atlético in game between Atlético Goianiense / GO and Palmeiras / SP
 Treating goals: Couldn't parse event 12:00 2T4NREdnei Barbosa de Souza Atlético in game between Joinville / SC and Atlético Goianiense / GO
+Treating yellow cards: Couldn't parse event 14:00 2T8Ernandes Dias Luz Atlético in game between Joinville / SC and Atlético Goianiense / GO
 Treating goals: Couldn't parse event 19:00 2T16NRJoao Paulo Mior Atlético in game between Atlético Goianiense / GO and Boa / MG
+Treating yellow cards: Couldn't parse event 41:00 1T3Artur Jesus Vieira Atlético in game between Atlético Goianiense / GO and Boa / MG
 Treating goals: Couldn't parse event 29:00 1T9NRRicardo Jesus da Silva Atlético in game between Atlético Goianiense / GO and São Caetano / SP
+Treating yellow cards: Couldn't parse event 05:00 2T11Junior Cesar Moreira da Cunha Atlético in game between Atlético Goianiense / GO and São Caetano / SP
+Treating yellow cards: Couldn't parse event 44:00 1T6Guilherme Oliveira Santos Atlético in game between Paysandu / PA and Atlético Goianiense / GO
 Can't find player 15 of Atlético Goianiense / GO in 348 of 2013's Serie_B
 Can't find player 8 of Atlético Goianiense / GO in 348 of 2013's Serie_B
 Can't change player 8 because he's already out of game 348 of 2013's Serie_B
@@ -389,6 +440,8 @@ Treating red cards: Couldn't parse event 43:00 2T2Jonas Jessue da Silva Junior -
 Not found player whom score goal at 67' on game between Oeste / SP and Ceará / CE in 2014's Serie_B
 Treating red cards: Couldn't parse event 16:00 2T2Mateus Lucena dos Santos - Atlético Clube Goianiense / GO in game between Sampaio Corrêa / MA and Atlético Goianiense / GO
 Treating red cards: Couldn't parse event +2:00 2T3Paulo Henrique Silva Rodrigues - Atlético Clube Goianiense / GO in game between Atlético Goianiense / GO and Santa Cruz / PE
+Treating yellow cards: Couldn't parse event 11:00 2T2Sheslon Lucas Lima Sant in game between Sampaio Corrêa / MA and Boa / MG
+Treating yellow cards: Couldn't parse event 43:00 1T6Sheslon Lucas Lima Sant in game between Ceará / CE and Boa / MG
 Can't change player 184176 because he's already out of game 098 of 2016's Serie_B
 Can't change player 387511 because he's already out of game 098 of 2016's Serie_B
 Can't change player 293164 because he's already out of game 098 of 2016's Serie_B
@@ -946,6 +999,7 @@ Can't change player 5 because he's already out of game 371 of 2024's Serie_B
 Can't find player 2 of Gremio Novorizontino - Saf in 371 of 2024's Serie_B
 Can't find player 33 of Gremio Novorizontino - Saf in 371 of 2024's Serie_B
 Can't change player 33 because he's already out of game 371 of 2024's Serie_B
+Not found player 18 from Duque de Caxias / RJ on game 057 of 2013's Serie_C
 Not found player  from Brasiliense / DF on game 095 of 2013's Serie_C
 Treating red cards: Couldn't parse event 4:00 2T19Cicero dos Santos - Agremiacao Sportiva Arapiraquense / AL in game between ASA / AL and Salgueiro / PE
 Can't change player 300238 because he's already out of game 019 of 2016's Serie_C
@@ -1294,6 +1348,7 @@ Can't change player 311670 because he's already out of game 080 of 2016's Serie_
 Can't change player 352015 because he's already out of game 080 of 2016's Serie_D
 Can't change player 135464 because he's already out of game 080 of 2016's Serie_D
 Can't change player 173392 because he's already out of game 080 of 2016's Serie_D
+Treating yellow cards: Couldn't parse event 18:00 2T2Rossales D in game between Serra Talhada / PE and Potiguar / RN
 Can't change player 306353 because he's already out of game 084 of 2016's Serie_D
 Can't change player 355718 because he's already out of game 084 of 2016's Serie_D
 Can't change player 404420 because he's already out of game 084 of 2016's Serie_D
@@ -1536,7 +1591,15 @@ Can't change player 361386 because he's already out of game 081 of 2018's Serie_
 Can't change player 175308 because he's already out of game 081 of 2018's Serie_D
 Treating yellow cards: Couldn't parse event +1:00 2T 3Luis Fernando Nascimento Macedo - Ferroviár io / CE in game between São José / RS and Ferroviário / CE
 Treating goals: Couldn't parse event 17:00 2T10NRKayan Mazuline Sant in game between Madureira / RJ and São Bento / SP
+Treating yellow cards: Couldn't parse event 07:00 2T10Kayan Mazuline Sant in game between Madureira / RJ and São Bento / SP
+Treating yellow cards: Couldn't parse event 17:00 1T10Kayan Mazuline Sant in game between São Bento / SP and Portuguesa / SP
+Treating yellow cards: Couldn't parse event 03:00 2T11Kayan Mazuline Sant in game between Bangu / RJ and São Bento / SP
+Treating yellow cards: Couldn't parse event +04:00 2T3Rafael Ricardo dos S Simo in game between Nova Iguaçu / RJ and Oeste / SP
+Treating yellow cards: Couldn't parse event 22:00 2T3Rafael Ricardo dos S Simo in game between Sao Bernardo / SP and Nova Iguaçu / RJ
+Treating yellow cards: Couldn't parse event 36:00 1T3Rafael Ricardo dos S Simo in game between Pérolas Negras / RJ and Nova Iguaçu / RJ
+Treating yellow cards: Couldn't parse event 37:00 2T3Rafael Ricardo dos S Simo in game between Cianorte / PR and Nova Iguaçu / RJ
 Treating goals: Couldn't parse event 05:00 1T10NRUllisses Alves Viana Cordino in game between Cordino / MA and Caucaia / CE
+Treating yellow cards: Couldn't parse event +02:00 2T4Moises Praxedes de Lima  in game between Cordino / MA and Caucaia / CE
 Can't find player 6 of São Jose Saf in 025 of 2024's Serie_D
 Can't find player 28 of São Jose Saf in 025 of 2024's Serie_D
 Can't change player 28 because he's already out of game 025 of 2024's Serie_D
@@ -2074,6 +2137,7 @@ Can't change player 11 because he's already out of game 463 of 2024's Serie_D
 Can't find player 21 of Leao do Vale - Cianorte Fu in 463 of 2024's Serie_D
 Can't find player 9 of Leao do Vale - Cianorte Fu in 463 of 2024's Serie_D
 Can't change player 9 because he's already out of game 463 of 2024's Serie_D
+Treating yellow cards: Couldn't parse event 43:00 1T7Pedro Henrique Roque dos Santos  in game between Treze / PB and ASA / AL
 Can't find player 17 of Maringa Sa in 477 of 2024's Serie_D
 Can't find player 10 of Maringa Sa in 477 of 2024's Serie_D
 Can't change player 10 because he's already out of game 477 of 2024's Serie_D
