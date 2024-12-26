@@ -377,7 +377,7 @@ def catch_yellow_cards(text):
     text = text[text.find("Cartões Amarelos") : text.find("Cartões Vermelhos")]
     text = text.replace("'", "")
     return re.findall(
-        "\+*\d+[:\d+]*\s*\dT\s*\d+\s*[a-zA-ZÀ-ÿ\-\. 0-9]+\/[A-Z]{2}", text
+        "\+*\d+[:\d+]*\s*\dT\s*\d+\s*[a-zA-ZÀ-ÿ\-\. 0-9]+(?:\/[A-Z]{2})?", text
     )
 
 
