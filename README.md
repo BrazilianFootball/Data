@@ -25,6 +25,7 @@ This repository is organized in three main folders:
 |Brazil Cup (2022)|    122   |     122     |
 |Brazil Cup (2023)|    122   |     122     |
 |Brazil Cup (2024)|    122   |     122     |
+|Brazil Cup (2025)|    36    |      14     |
 |  Serie A (2013) |    380   |     380     |
 |  Serie A (2014) |    380   |     380     |
 |  Serie A (2015) |    380   |     380     |
@@ -36,7 +37,7 @@ This repository is organized in three main folders:
 |  Serie A (2021) |    380   |     380     |
 |  Serie A (2022) |    380   |     380     |
 |  Serie A (2023) |    380   |     380     |
-|  Serie A (2024) |    370   |     363     |
+|  Serie A (2024) |    380   |     375     |
 |  Serie B (2013) |    380   |     380     |
 |  Serie B (2014) |    380   |     379     |
 |  Serie B (2015) |    380   |     380     |
@@ -73,7 +74,6 @@ This repository is organized in three main folders:
 |  Serie D (2022) |    510   |     510     |
 |  Serie D (2023) |    510   |     510     |
 |  Serie D (2024) |    510   |     508     |
-## Pre-Commit Setup
 
 This repository includes a pre-commit script that ensures code quality by running linting and formatting checks before committing changes.
 

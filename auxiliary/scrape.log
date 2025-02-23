@@ -864,3 +864,25 @@
 
 -------------------------------------------------------------------------------------
 
+2025-02-23 14:43:08 [Scraping] - Beginning docket scraping.
+2025-02-23 14:43:16 [Scraping] - Docket scraping complete.
+                                   [INFO] 14 dockets addeds.
+2025-02-23 14:43:16 [Extract]  - Beginning info extract.
+2025-02-23 14:43:16 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2025-02-23 14:43:16 [Lineups]  - Beginning lineups treatment.
+2025-02-23 14:43:16 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2025-02-23 14:44:47 [Scraping] - Beginning docket scraping.
+2025-02-23 14:44:58 [Scraping] - Docket scraping complete.
+                                   [INFO] 12 dockets addeds.
+2025-02-23 14:44:58 [Extract]  - Beginning info extract.
+2025-02-23 14:44:58 [Extract]  - Info extract complete.
+                                   [INFO] 5 games failed.
+2025-02-23 14:44:58 [Lineups]  - Beginning lineups treatment.
+2025-02-23 14:44:59 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
