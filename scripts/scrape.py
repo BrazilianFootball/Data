@@ -529,11 +529,15 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                                 if team == home:
                                     squads[game][changes_breaks - 1]["Home"][
                                         "Goals"
-                                    ].append((minute[0] - actual_minute, player))
+                                    ].append(
+                                        ((minute[0] - actual_minute, minute[1]), player)
+                                    )
                                 else:
                                     squads[game][changes_breaks - 1]["Away"][
                                         "Goals"
-                                    ].append((minute[0] - actual_minute, player))
+                                    ].append(
+                                        ((minute[0] - actual_minute, minute[1]), player)
+                                    )
 
                         for card in yellow_cards:
                             minute, player, team = card
@@ -548,11 +552,15 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                                 if team == home:
                                     squads[game][changes_breaks - 1]["Home"][
                                         "Cards"
-                                    ].append((minute[0] - actual_minute, player))
+                                    ].append(
+                                        ((minute[0] - actual_minute, minute[1]), player)
+                                    )
                                 else:
                                     squads[game][changes_breaks - 1]["Away"][
                                         "Cards"
-                                    ].append((minute[0] - actual_minute, player))
+                                    ].append(
+                                        ((minute[0] - actual_minute, minute[1]), player)
+                                    )
 
                         if i == len(changes) - 1:
                             squads[game][changes_breaks]["Time"] = 90 - time[0]
@@ -569,11 +577,11 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                                     if team == home:
                                         squads[game][changes_breaks]["Home"][
                                             "Goals"
-                                        ].append((90 - time[0], player))
+                                        ].append(((90 - time[0], time[1]), player))
                                     else:
                                         squads[game][changes_breaks]["Away"][
                                             "Goals"
-                                        ].append((90 - time[0], player))
+                                        ].append(((90 - time[0], time[1]), player))
 
                             for card in yellow_cards:
                                 minute, player, team = card
@@ -588,11 +596,11 @@ def catch_squads(competitions, min_year, max_year, cleaning=True):
                                     if team == home:
                                         squads[game][changes_breaks]["Home"][
                                             "Cards"
-                                        ].append((90 - time[0], player))
+                                        ].append(((90 - time[0], time[1]), player))
                                     else:
                                         squads[game][changes_breaks]["Away"][
                                             "Cards"
-                                        ].append((90 - time[0], player))
+                                        ].append(((90 - time[0], time[1]), player))
 
                     else:
                         if player_in != "":
