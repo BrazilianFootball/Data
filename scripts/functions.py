@@ -24,7 +24,7 @@ def treat_time(time_string):
 
     time = 0
     if "INT" in time_string:
-        return 45
+        return 45, True
     if "2T" in time_string:
         time += 45
     if "+" in time_string:
@@ -32,7 +32,7 @@ def treat_time(time_string):
     else:
         time += int(time_string[:2])
 
-    return time
+    return time, "+" in time_string
 
 
 def treat_club(club):
@@ -840,5 +840,5 @@ def treat_game_changes(changes, home, away):
 
     for i in range(len(changes)):
         changes[i] = treat_change(changes[i], home, away)
-    changes = sorted(changes, key=lambda x: x[1])
+    changes = sorted(changes, key=lambda x: x[1][0])
     return changes

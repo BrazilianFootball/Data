@@ -886,3 +886,78 @@
 
 -------------------------------------------------------------------------------------
 
+2025-03-04 11:25:32 [Scraping] - Beginning docket scraping.
+2025-03-04 11:26:32 [Scraping] - Docket scraping complete.
+                                   [INFO] 26 dockets addeds.
+2025-03-04 11:26:32 [Extract]  - Beginning info extract.
+2025-03-04 11:26:52 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:26:52 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:27:33 [Extract]  - Beginning info extract.
+2025-03-04 11:27:53 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:27:53 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:28:44 [Extract]  - Beginning info extract.
+2025-03-04 11:29:05 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:29:05 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:29:14 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2025-03-04 11:33:16 [Extract]  - Beginning info extract.
+2025-03-04 11:33:36 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:33:36 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:36:25 [Extract]  - Beginning info extract.
+2025-03-04 11:36:46 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:36:46 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:37:41 [Extract]  - Beginning info extract.
+2025-03-04 11:38:01 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:38:01 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:38:24 [Extract]  - Beginning info extract.
+2025-03-04 11:38:44 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:38:44 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:39:32 [Extract]  - Beginning info extract.
+2025-03-04 11:39:52 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:39:52 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:40:21 [Extract]  - Beginning info extract.
+2025-03-04 11:40:41 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:40:41 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:41:54 [Extract]  - Beginning info extract.
+2025-03-04 11:42:14 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:42:14 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:43:12 [Extract]  - Beginning info extract.
+2025-03-04 11:43:32 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:43:32 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:43:44 [Extract]  - Beginning info extract.
+2025-03-04 11:44:04 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:44:04 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:44:14 [Extract]  - Beginning info extract.
+2025-03-04 11:44:34 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:44:34 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:45:18 [Extract]  - Beginning info extract.
+2025-03-04 11:45:38 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:45:38 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:46:26 [Extract]  - Beginning info extract.
+2025-03-04 11:46:47 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:46:47 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:47:32 [Extract]  - Beginning info extract.
+2025-03-04 11:47:52 [Extract]  - Info extract complete.
+                                   [INFO] 7 games failed.
+2025-03-04 11:47:52 [Lineups]  - Beginning lineups treatment.
+2025-03-04 11:48:02 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
