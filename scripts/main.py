@@ -202,7 +202,7 @@ if __name__ == "__main__":
         data.append(
             {
                 "Competition": competition,
-                "Real games": int(sorted(games.keys())[-1]),
+                "Total games": int(sorted(games.keys())[-1]),
                 "Scraped games": len(games),
             }
         )
