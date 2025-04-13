@@ -11,7 +11,7 @@ This repository is organized in three main folders:
 
 ## Total games
 
-|   Competition   |Real games|Scraped games|
+|   Competition   |Total games|Scraped games|
 |-----------------|----------|-------------|
 |Brazil Cup (2013)|    172   |     156     |
 |Brazil Cup (2014)|    172   |     159     |
