@@ -977,3 +977,14 @@
 
 -------------------------------------------------------------------------------------
 
+2025-04-13 18:24:06 [Scraping] - Beginning docket scraping.
+2025-04-13 18:24:23 [Scraping] - Docket scraping complete.
+                                   [INFO] 65 dockets addeds.
+2025-04-13 18:24:23 [Extract]  - Beginning info extract.
+2025-04-13 18:24:23 [Extract]  - Info extract complete.
+                                   [INFO] 1 game failed.
+2025-04-13 18:24:23 [Lineups]  - Beginning lineups treatment.
+2025-04-13 18:24:23 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
