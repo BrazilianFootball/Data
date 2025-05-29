@@ -12,7 +12,79 @@ Game,Home,Away,Date,Time,Stadium
 011,Athletico Paranaense / PR,Criciúma / SC,10/04/2025,19:00,Ligga Arena / Curitiba
 012,Vila Nova / GO,Paysandu / PA,12/04/2025,18:00,Serra Dourada / Goiania
 013,Cuiabá / MT,Avaí / SC,10/04/2025,21:30,Arena Pantanal / Cuiaba
+014,Remo / PA,América / MG,13/04/2025,16:00,Olímpico do Pará / Belem
 015,Chapecoense / SC,Coritiba / PR,12/04/2025,16:00,Índio Condá / Chapeco
 016,Operário / PR,Goiás / GO,12/04/2025,20:00,Germano Kruger / Ponta Grossa
 017,Amazonas / AM,Ferroviária / SP,12/04/2025,19:00,Arena da Amazônia / Manaus
+018,Athletic / MG,CRB / AL,13/04/2025,16:00,Raimundo Sampaio / Belo Horizonte
 019,Gremio Novorizontino - / SP,Volta Redonda / RJ,12/04/2025,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+020,Botafogo / SP,Atlético Goianiense / GO,13/04/2025,19:00,Santa Cruz / Ribeirao Preto
+021,Coritiba / PR,Gremio Novorizontino - / SP,16/04/2025,21:00,Major Antônio Couto Pereira / Curitiba
+022,Goiás / GO,Vila Nova / GO,17/04/2025,19:00,Hailé Pinheiro / Goiania
+023,Cuiabá / MT,Athletico Paranaense / PR,15/04/2025,19:00,Arena Pantanal / Cuiaba
+024,Paysandu / PA,Chapecoense / SC,16/04/2025,20:00,Olímpico do Pará / Belem
+025,Avaí / SC,Operário / PR,16/04/2025,20:00,Aderbal Ramos da Silva / Florianopolis
+026,Criciúma / SC,Athletic / MG,17/04/2025,20:00,Heriberto Hulse / Criciuma
+027,CRB / AL,Volta Redonda / RJ,17/04/2025,20:00,Rei Pelé / Maceio
+028,América / MG,Amazonas / AM,17/04/2025,21:35,Raimundo Sampaio / Belo Horizonte
+029,Ferroviária / SP,Atlético Goianiense / GO,17/04/2025,21:00,Ademar Pereira de Barros / Araraquara
+030,Botafogo / SP,Remo / PA,17/04/2025,20:00,Santa Cruz / Ribeirao Preto
+031,Athletico Paranaense / PR,CRB / AL,20/04/2025,19:00,Ligga Arena / Curitiba
+032,Vila Nova / GO,Botafogo / SP,20/04/2025,16:00,Onésio Brasileiro Alvarenga / Goiania
+033,Atlético Goianiense / GO,Cuiabá / MT,22/04/2025,19:30,Antônio Accioly / Goiania
+034,Remo / PA,Coritiba / PR,21/04/2025,21:30,Olímpico do Pará / Belem
+035,Chapecoense / SC,Athletic / MG,20/04/2025,18:00,Índio Condá / Chapeco
+036,Operário / PR,Paysandu / PA,19/04/2025,16:00,Germano Kruger / Ponta Grossa
+037,Amazonas / AM,Avaí / SC,21/04/2025,18:00,Arena da Amazônia / Manaus
+038,América / MG,Goiás / GO,20/04/2025,20:00,Raimundo Sampaio / Belo Horizonte
+039,Gremio Novorizontino - / SP,Criciúma / SC,21/04/2025,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+040,Volta Redonda / RJ,Ferroviária / SP,22/04/2025,20:00,Sylvio Raulino de Oliveira / Volta Redonda
+041,Coritiba / PR,Operário / PR,26/04/2025,16:00,Major Antônio Couto Pereira / Curitiba
+042,Vila Nova / GO,Chapecoense / SC,25/04/2025,21:00,Onésio Brasileiro Alvarenga / Goiania
+043,Cuiabá / MT,Ferroviária / SP,27/04/2025,19:00,Arena Pantanal / Cuiaba
+044,Paysandu / PA,CRB / AL,27/04/2025,17:00,Olímpico do Pará / Belem
+045,Avaí / SC,América / MG,26/04/2025,20:00,Aderbal Ramos da Silva / Florianopolis
+046,Criciúma / SC,Remo / PA,25/04/2025,19:00,Heriberto Hulse / Criciuma
+047,Amazonas / AM,Atlético Goianiense / GO,27/04/2025,16:30,Carlos Zamith / Manaus
+048,Athletic / MG,Volta Redonda / RJ,27/04/2025,16:00,Raimundo Sampaio / Belo Horizonte
+049,Gremio Novorizontino - / SP,Athletico Paranaense / PR,24/04/2025,21:35,Dr. Jorge Ismael de Biasi / Novo Horizonte
+050,Botafogo / SP,Goiás / GO,28/04/2025,19:30,Santa Cruz / Ribeirao Preto
+051,Athletico Paranaense / PR,Botafogo / SP,04/05/2025,18:30,Ligga Arena / Curitiba
+052,Goiás / GO,Avaí / SC,05/05/2025,19:00,Hailé Pinheiro / Goiania
+053,Atlético Goianiense / GO,Gremio Novorizontino - / SP,04/05/2025,16:00,Antônio Accioly / Goiania
+054,Remo / PA,Amazonas / AM,03/05/2025,16:00,Olímpico do Pará / Belem
+055,Chapecoense / SC,Criciúma / SC,04/05/2025,18:30,Índio Condá / Chapeco
+056,Operário / PR,América / MG,04/05/2025,20:30,Germano Kruger / Ponta Grossa
+057,CRB / AL,Cuiabá / MT,06/05/2025,19:30,Rei Pelé / Maceio
+058,Athletic / MG,Vila Nova / GO,06/05/2025,21:30,Raimundo Sampaio / Belo Horizonte
+059,Ferroviária / SP,Coritiba / PR,02/05/2025,21:35,Ademar Pereira de Barros / Araraquara
+060,Volta Redonda / RJ,Paysandu / PA,03/05/2025,20:30,Sylvio Raulino de Oliveira / Volta Redonda
+061,Athletico Paranaense / PR,Chapecoense / SC,08/05/2025,21:35,Ligga Arena / Curitiba
+062,Goiás / GO,Coritiba / PR,10/05/2025,18:30,Hailé Pinheiro / Goiania
+063,Cuiabá / MT,Operário / PR,11/05/2025,18:30,Arena Pantanal / Cuiaba
+064,Remo / PA,Vila Nova / GO,14/05/2025,19:00,Olímpico do Pará / Belem
+065,Avaí / SC,Atlético Goianiense / GO,10/05/2025,16:00,Aderbal Ramos da Silva / Florianopolis
+066,Criciúma / SC,Volta Redonda / RJ,11/05/2025,16:00,Heriberto Hulse / Criciuma
+067,Amazonas / AM,CRB / AL,12/05/2025,21:00,Carlos Zamith / Manaus
+068,América / MG,Paysandu / PA,14/05/2025,19:30,Raimundo Sampaio / Belo Horizonte
+069,Gremio Novorizontino - / SP,Ferroviária / SP,11/05/2025,18:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+070,Botafogo / SP,Athletic / MG,12/05/2025,19:00,Santa Cruz / Ribeirao Preto
+071,Coritiba / PR,América / MG,19/05/2025,21:35,Major Antônio Couto Pereira / Curitiba
+072,Vila Nova / GO,Athletico Paranaense / PR,17/05/2025,18:30,Onésio Brasileiro Alvarenga / Goiania
+073,Atlético Goianiense / GO,Remo / PA,18/05/2025,16:00,Antônio Accioly / Goiania
+074,Paysandu / PA,Goiás / GO,18/05/2025,18:30,Olímpico do Pará / Belem
+075,Chapecoense / SC,Cuiabá / MT,16/05/2025,19:00,Índio Condá / Chapeco
+076,Operário / PR,Botafogo / SP,17/05/2025,16:00,Major Antônio Couto Pereira / Curitiba
+077,CRB / AL,Criciúma / SC,18/05/2025,16:00,Rei Pelé / Maceio
+078,Athletic / MG,Gremio Novorizontino - / SP,17/05/2025,20:30,Raimundo Sampaio / Belo Horizonte
+080,Volta Redonda / RJ,Amazonas / AM,19/05/2025,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+081,Athletico Paranaense / PR,Athletic / MG,24/05/2025,16:00,Ligga Arena / Curitiba
+082,Goiás / GO,Ferroviária / SP,23/05/2025,21:35,Hailé Pinheiro / Goiania
+083,Cuiabá / MT,Vila Nova / GO,26/05/2025,21:00,Arena Pantanal / Cuiaba
+084,Remo / PA,Volta Redonda / RJ,24/05/2025,18:00,Olímpico do Pará / Belem
+085,Avaí / SC,Chapecoense / SC,24/05/2025,18:30,Aderbal Ramos da Silva / Florianopolis
+086,Criciúma / SC,Coritiba / PR,26/05/2025,19:00,Heriberto Hulse / Criciuma
+087,Amazonas / AM,Operário / PR,25/05/2025,18:30,Carlos Zamith / Manaus
+088,América / MG,Atlético Goianiense / GO,27/05/2025,19:30,Raimundo Sampaio / Belo Horizonte
+089,Gremio Novorizontino - / SP,Paysandu / PA,25/05/2025,16:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+090,Botafogo / SP,CRB / AL,26/05/2025,20:00,Santa Cruz / Ribeirao Preto

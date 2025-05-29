@@ -988,3 +988,14 @@
 
 -------------------------------------------------------------------------------------
 
+2025-05-28 22:14:50 [Scraping] - Beginning docket scraping.
+2025-05-28 22:16:27 [Scraping] - Docket scraping complete.
+                                   [INFO] 438 dockets addeds.
+2025-05-28 22:16:27 [Extract]  - Beginning info extract.
+2025-05-28 22:16:28 [Extract]  - Info extract complete.
+                                   [INFO] 5 games failed.
+2025-05-28 22:16:28 [Lineups]  - Beginning lineups treatment.
+2025-05-28 22:16:28 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+

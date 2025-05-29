@@ -1,5 +1,70 @@
 Game,Home,Away,Date,Time,Stadium
+001,Retrô / PE,Tombense / MG,13/04/2025,16:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+002,Itabaiana / SE,Náutico / PE,13/04/2025,16:00,Etelvino Mendonça / Itabaiana
+003,Guarani / SP,Maringa / PR,13/04/2025,16:00,Brinco de Ouro da Princesa / Campinas
 004,Ituano / SP,Brusque / SC,12/04/2025,16:00,Novelli Junior / Itu
+005,Sao Bernardo / SP,ABC / RN,13/04/2025,16:00,1º de Maio / Sao Bernardo do Campo
+006,Londrina / PR,Ypiranga / RS,14/04/2025,20:00,Vitorino Gonçalves Dias / Londrina
+007,Caxias / RS,Floresta / CE,13/04/2025,16:00,Francisco Stédile / Caxias do Sul
 008,Figueirense / SC,Ponte Preta / SP,12/04/2025,16:00,Orlando Scarpelli / Florianopolis
 009,CSA / AL,Anápolis / GO,12/04/2025,16:00,Rei Pelé / Maceio
 010,Botafogo Pb / PB,Confiança / SE,12/04/2025,16:00,José Américo de Almeida Filho / Joao Pessoa
+011,Náutico / PE,Botafogo Pb / PB,19/04/2025,17:00,Eládio de Barros Carvalho / Recife
+012,Ponte Preta / SP,Retrô / PE,19/04/2025,17:00,Moisés Lucarelli / Campinas
+013,Confiança / SE,Caxias / RS,20/04/2025,16:30,Lourival Baptista / Aracaju
+014,Tombense / MG,Figueirense / SC,21/04/2025,19:30,Antônio Guimarães de Almeida / Tombos
+015,Anápolis / GO,Ituano / SP,19/04/2025,19:30,Jonas Ferreira Duarte / Anapolis
+016,Maringa / PR,Sao Bernardo / SP,20/04/2025,19:00,Willie Davids / Maringa
+017,Ypiranga / RS,Itabaiana / SE,19/04/2025,19:30,Colosso da Lagoa / Erechim
+018,Brusque / SC,Guarani / SP,20/04/2025,19:00,Augusto Bauer / Brusque
+019,Floresta / CE,Londrina / PR,20/04/2025,16:30,Horácio Domingos de Sousa / Horizonte
+020,ABC / RN,CSA / AL,21/04/2025,19:30,Maria Lamas Farache / Natal
+021,Retrô / PE,Figueirense / SC,26/04/2025,19:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+022,Itabaiana / SE,Sao Bernardo / SP,27/04/2025,16:30,Etelvino Mendonça / Itabaiana
+023,Confiança / SE,Ponte Preta / SP,26/04/2025,17:00,Lourival Baptista / Aracaju
+024,Ituano / SP,Tombense / MG,27/04/2025,16:30,Novelli Junior / Itu
+025,Anápolis / GO,Floresta / CE,28/04/2025,19:30,Jonas Ferreira Duarte / Anapolis
+026,Londrina / PR,Maringa / PR,26/04/2025,17:00,Vitorino Gonçalves Dias / Londrina
+027,Caxias / RS,Guarani / SP,28/04/2025,19:30,Francisco Stédile / Caxias do Sul
+028,Brusque / SC,Ypiranga / RS,27/04/2025,19:00,Augusto Bauer / Brusque
+029,CSA / AL,Náutico / PE,26/04/2025,19:30,Rei Pelé / Maceio
+030,Botafogo Pb / PB,ABC / RN,27/04/2025,19:00,José Américo de Almeida Filho / Joao Pessoa
+031,Náutico / PE,Brusque / SC,04/05/2025,19:00,Eládio de Barros Carvalho / Recife
+032,Ponte Preta / SP,Anápolis / GO,03/05/2025,19:30,Moisés Lucarelli / Campinas
+033,Guarani / SP,Botafogo Pb / PB,04/05/2025,19:00,Brinco de Ouro da Princesa / Campinas
+034,Tombense / MG,Itabaiana / SE,03/05/2025,19:30,Antônio Guimarães de Almeida / Tombos
+035,Sao Bernardo / SP,Londrina / PR,05/05/2025,19:30,1º de Maio / Sao Bernardo do Campo
+036,Maringa / PR,Confiança / SE,03/05/2025,17:00,Willie Davids / Maringa
+037,Ypiranga / RS,CSA / AL,04/05/2025,16:30,Colosso da Lagoa / Erechim
+038,Figueirense / SC,Caxias / RS,05/05/2025,19:30,Orlando Scarpelli / Florianopolis
+039,Floresta / CE,Retrô / PE,04/05/2025,16:30,Horácio Domingos de Sousa / Horizonte
+040,ABC / RN,Ituano / SP,03/05/2025,17:00,Maria Lamas Farache / Natal
+041,Náutico / PE,Confiança / SE,10/05/2025,17:00,Eládio de Barros Carvalho / Recife
+042,Itabaiana / SE,Figueirense / SC,12/05/2025,19:30,Etelvino Mendonça / Itabaiana
+043,Guarani / SP,Sao Bernardo / SP,10/05/2025,17:00,Brinco de Ouro da Princesa / Campinas
+044,Ituano / SP,Ponte Preta / SP,12/05/2025,19:30,Novelli Junior / Itu
+045,Anápolis / GO,Ypiranga / RS,10/05/2025,19:30,Jonas Ferreira Duarte / Anapolis
+047,Caxias / RS,Retrô / PE,11/05/2025,16:30,Francisco Stédile / Caxias do Sul
+048,Brusque / SC,ABC / RN,10/05/2025,19:30,Augusto Bauer / Brusque
+049,CSA / AL,Maringa / PR,11/05/2025,19:00,Rei Pelé / Maceio
+050,Botafogo Pb / PB,Floresta / CE,11/05/2025,16:30,José Américo de Almeida Filho / Joao Pessoa
+051,Retrô / PE,Itabaiana / SE,18/05/2025,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+052,Ponte Preta / SP,Brusque / SC,17/05/2025,19:30,Moisés Lucarelli / Campinas
+053,Confiança / SE,Londrina / PR,19/05/2025,19:30,Lourival Baptista / Aracaju
+054,Tombense / MG,CSA / AL,17/05/2025,17:00,Antônio Guimarães de Almeida / Tombos
+055,Sao Bernardo / SP,Caxias / RS,18/05/2025,16:30,1º de Maio / Sao Bernardo do Campo
+056,Maringa / PR,Botafogo Pb / PB,18/05/2025,16:30,Willie Davids / Maringa
+057,Ypiranga / RS,Náutico / PE,17/05/2025,19:30,Colosso da Lagoa / Erechim
+058,Figueirense / SC,Ituano / SP,18/05/2025,19:00,Orlando Scarpelli / Florianopolis
+059,Floresta / CE,Guarani / SP,17/05/2025,17:00,Horácio Domingos de Sousa / Horizonte
+060,ABC / RN,Anápolis / GO,19/05/2025,19:30,Arena das Dunas / Natal
+061,Náutico / PE,Ponte Preta / SP,24/05/2025,17:00,Eládio de Barros Carvalho / Recife
+062,Itabaiana / SE,Caxias / RS,24/05/2025,19:30,Etelvino Mendonça / Itabaiana
+063,Guarani / SP,Figueirense / SC,26/05/2025,19:30,Brinco de Ouro da Princesa / Campinas
+064,Ituano / SP,Floresta / CE,25/05/2025,16:30,Novelli Junior / Itu
+065,Anápolis / GO,Maringa / PR,25/05/2025,19:00,Jonas Ferreira Duarte / Anapolis
+066,Londrina / PR,ABC / RN,24/05/2025,19:30,Vitorino Gonçalves Dias / Londrina
+067,Ypiranga / RS,Tombense / MG,25/05/2025,16:30,Colosso da Lagoa / Erechim
+068,Brusque / SC,Sao Bernardo / SP,26/05/2025,19:30,Augusto Bauer / Brusque
+069,CSA / AL,Confiança / SE,24/05/2025,17:00,Rei Pelé / Maceio
+070,Botafogo Pb / PB,Retrô / PE,25/05/2025,15:00,José Américo de Almeida Filho / Joao Pessoa
