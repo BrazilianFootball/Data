@@ -19,6 +19,7 @@ Game,Home,Away,Date,Time,Stadium
 018,Fortaleza / CE,Cruzeiro / MG,17/04/2024,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
 019,Cuiabá / MT,Vitória / BA,05/06/2024,20:00,Arena Pantanal / Cuiaba
 020,Juventude / RS,Corinthians / SP,17/04/2024,20:00,Alfredo Jaconi / Caxias do Sul
+021,Grêmio / RS,Cuiabá Saf / MT,20/04/2024,18:30,Arena do Grêmio / Porto Alegre
 022,Atlético Mineiro / MG,Cruzeiro / MG,20/04/2024,21:00,ARENA MRV / Belo Horizonte
 023,Vitória / BA,Bahia / BA,21/04/2024,16:00,Manoel Barradas / Salvador
 024,Fluminense / RJ,Vasco da Gama / RJ,20/04/2024,16:00,Jornalista Mário Filho / Rio de Janeiro
@@ -223,6 +224,7 @@ Game,Home,Away,Date,Time,Stadium
 223,Vitória / BA,Cruzeiro / MG,19/08/2024,20:00,Manoel Barradas / Salvador
 224,Fluminense / RJ,Corinthians / SP,17/08/2024,21:00,Jornalista Mário Filho / Rio de Janeiro
 225,Botafogo / RJ,Flamengo / RJ,18/08/2024,18:30,Nilton Santos / Rio de Janeiro
+226,Palmeiras / SP,São Paulo / SP,18/08/2024,16:00,Allianz Parque / Sao Paulo
 227,Red Bull Bragantino / SP,Fortaleza / CE,17/08/2024,18:30,Nabi Abi Chedid / Braganca Paulista
 228,Athletico Paranaense / PR,Juventude / RS,18/08/2024,18:30,Ligga Arena / Curitiba
 229,Atlético Goianiense / GO,Internacional / RS,18/08/2024,16:00,Antônio Accioly / Goiania
@@ -260,6 +262,7 @@ Game,Home,Away,Date,Time,Stadium
 261,Grêmio / RS,Flamengo / RJ,22/09/2024,18:30,Arena do Grêmio / Porto Alegre
 262,Atlético Mineiro / MG,Red Bull Bragantino / SP,22/09/2024,16:00,ARENA MRV / Belo Horizonte
 263,Vitória / BA,Juventude / RS,21/09/2024,16:00,Manoel Barradas / Salvador
+264,Fluminense / RJ,Botafogo / RJ,21/09/2024,18:30,Jornalista Mário Filho / Rio de Janeiro
 265,Vasco da Gama / RJ,Palmeiras / SP,22/09/2024,16:00,Estádio Nacional Mané Garrincha / Brasilia
 266,Corinthians / SP,Atlético Goianiense / GO,21/09/2024,16:00,Arena Corinthians / Sao Paulo
 267,São Paulo / SP,Internacional / RS,22/09/2024,18:30,Cícero Pompeu de Toledo / Sao Paulo
@@ -282,6 +285,7 @@ Game,Home,Away,Date,Time,Stadium
 284,Fluminense / RJ,Cruzeiro / MG,03/10/2024,21:30,Jornalista Mário Filho / Rio de Janeiro
 285,Vasco da Gama / RJ,Juventude / RS,05/10/2024,21:00,São Januário / Rio de Janeiro
 286,Corinthians / SP,Internacional / RS,05/10/2024,19:00,Arena Corinthians / Sao Paulo
+287,Red Bull Bragantino / SP,Palmeiras / SP,05/10/2024,16:30,Nabi Abi Chedid / Braganca Paulista
 288,Athletico Paranaense / PR,Botafogo / RJ,05/10/2024,16:30,Ligga Arena / Curitiba
 289,Cuiabá / MT,São Paulo / SP,05/10/2024,19:00,Arena Pantanal / Cuiaba
 290,Criciúma / SC,Atlético Goianiense / GO,03/10/2024,19:00,Heriberto Hulse / Criciuma
@@ -314,6 +318,7 @@ Game,Home,Away,Date,Time,Stadium
 317,Red Bull Bragantino / SP,Cuiabá / MT,02/11/2024,16:00,Nabi Abi Chedid / Braganca Paulista
 318,Athletico Paranaense / PR,Vitória / BA,02/11/2024,18:30,Ligga Arena / Curitiba
 319,Atlético Goianiense / GO,Atlético Mineiro / MG,06/11/2024,21:00,Antônio Accioly / Goiania
+320,Juventude / RS,Fortaleza / CE,02/11/2024,18:30,Alfredo Jaconi / Caxias do Sul
 321,Internacional / RS,Fluminense / RJ,08/11/2024,19:00,José Pinheiro Borda / Porto Alegre
 322,Cruzeiro / MG,Criciúma / SC,09/11/2024,19:00,Magalhães Pinto / Belo Horizonte
 323,Vitória / BA,Corinthians / SP,09/11/2024,16:30,Manoel Barradas / Salvador

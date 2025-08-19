@@ -190,3 +190,296 @@ Game,Home,Away,Date,Time,Stadium
 190,Azuriz / PR,Guarany / RS,25/05/2025,15:00,Os Pioneiros / Pato Branco
 191,Brasil / RS,Marcílio Dias / SC,25/05/2025,16:00,Bento da Silva Freitas / Pelotas
 192,Barra / SC,São José / RS,24/05/2025,18:00,Arena Barra FC / Itajai
+193,Trem / AP,Manauara / AM,01/06/2025,16:00,Estádio Milton de Souza Correa / Macapa
+194,Tuna Luso / PA,Sampaio / RR,01/06/2025,15:00,Francisco Vasques / Belem
+195,Humaitá / AC,Aguia de Maraba / PA,01/06/2025,20:00,Arena da Floresta / Rio Branco
+196,Manaus / AM,Independência / AC,31/05/2025,16:30,Ismael Benigno / Manaus
+197,Iguatu / CE,Maranhão / MA,30/05/2025,19:00,Antônio Moreno de Melo / Iguatu
+198,Imperatriz / MA,Maracana / CE,31/05/2025,19:30,Frei Epifânio D´abadia / Imperatriz
+199,Parnahyba / PI,Tocantinópolis / TO,01/06/2025,16:00,Pedro Alelaf / Parnaiba
+200,Sampaio Corrêa / MA,Altos / PI,31/05/2025,16:00,Governador João Castelo / Sao Luis
+201,Horizonte / CE,Santa Cruz de Natal / RN,01/06/2025,16:00,Horácio Domingos de Sousa / Horizonte
+202,Santa Cruz / PE,Ferroviário / CE,01/06/2025,17:00,José do Rêgo Maciel / Recife
+203,Treze / PB,Central / PE,31/05/2025,16:00,Ernani Sátyro / Campina Grande
+204,América F.c. / RN,Sousa / PB,01/06/2025,16:30,Arena das Dunas / Natal
+205,Penedense / AL,Jequié / BA,01/06/2025,16:00,Estádio Doutor Alfredo Leahy / Penedo
+206,União Atlético Clube / TO,ASA / AL,31/05/2025,17:00,Leôncio Miranda / Araguaina
+207,Lagarto F.c. / SE,Juazeirense / BA,31/05/2025,15:00,Paulo Barreto de Menezes / Lagarto
+208,Barcelona de Ilhéus / BA,Sergipe / SE,01/06/2025,16:00,Mário Pessoa / Ilheus
+209,Capital / DF,Goiania / GO,01/06/2025,15:30,Jk Paranoá / Brasilia
+210,Gazin Porto Velho / RO,Ceilândia / DF,31/05/2025,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+211,Mixto / MT,Goianesia / GO,31/05/2025,18:00,Eurico Gaspar Dutra / Cuiaba
+212,Aparecidense / GO,Luverdense / MT,31/05/2025,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+213,Porto Vitória / ES,Boavista / RJ,31/05/2025,17:00,Kleber José de Andrade / Cariacica
+214,Pouso Alegre / MG,Rio Branco A. C. / ES,31/05/2025,17:00,Irmão Gino Maria Rossi / Pouso Alegre
+215,Agua Santa / SP,Marica / RJ,31/05/2025,19:00,José Batista Pereira Fernandes / Diadema
+216,Nova Iguaçu / RJ,Portuguesa / SP,31/05/2025,15:00,Jânio Moraes / Nova Iguacu
+217,Monte Azul / SP,Uberlândia / MG,31/05/2025,15:00,Otacília Patrício Arroyo / Monte Azul Paulista
+218,Operário / MS,Inter de Limeira / SP,31/05/2025,16:00,Jacques da Luz / Campo Grande
+219,Leão do Vale - Cianorte / PR,Goiatuba / GO,31/05/2025,19:00,Albino Turbay / Cianorte
+220,Itabirito / MG,Cascavel / PR,31/05/2025,15:30,Castor Cifuentes / Nova Lima
+221,Marcílio Dias / SC,São Luiz / RS,02/06/2025,20:00,Hercílio Luz / Itajai
+222,Guarany / RS,Barra / SC,01/06/2025,16:00,Antônio Magalhães Russel / Bage
+223,Joinville / SC,Brasil / RS,01/06/2025,16:00,Arena Joinville / Joinville
+224,São José / RS,Azuriz / PR,31/05/2025,18:00,Francisco Novelletto Neto / Porto Alegre
+225,Manauara / AM,Trem / AP,07/06/2025,16:00,Ismael Benigno / Manaus
+226,Sampaio / RR,Tuna Luso / PA,07/06/2025,18:00,Flamarion Vasconcelos / Boa Vista
+227,Aguia de Maraba / PA,Humaitá / AC,07/06/2025,17:00,Zinho Oliveira / Maraba
+228,Independência / AC,Manaus / AM,07/06/2025,18:00,Arena da Floresta / Rio Branco
+229,Maranhão / MA,Iguatu / CE,08/06/2025,16:00,Governador João Castelo / Sao Luis
+230,Maracana / CE,Imperatriz / MA,08/06/2025,16:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+231,Tocantinópolis / TO,Parnahyba / PI,07/06/2025,16:00,João Ribeiro / Tocantinopolis
+232,Altos / PI,Sampaio Corrêa / MA,11/06/2025,19:00,Lindolfo Monteiro / Teresina
+233,Santa Cruz de Natal / RN,Horizonte / CE,07/06/2025,15:00,José Nazareno do Nascimento / Goianinha
+234,Ferroviário / CE,Santa Cruz / PE,08/06/2025,17:30,Presidente Vargas / Fortaleza
+235,Central / PE,Treze / PB,08/06/2025,16:00,Luíz José de Lacerda / Caruaru
+236,Sousa / PB,América F.c. / RN,11/06/2025,16:00,Antônio Mariz / Sousa
+237,Jequié / BA,Penedense / AL,08/06/2025,16:00,Waldomiro Borges / Jequie
+238,ASA / AL,União Atlético Clube / TO,07/06/2025,17:00,Coaracy da Mata Fonseca / Arapiraca
+239,Juazeirense / BA,Lagarto F.c. / SE,11/06/2025,19:00,Adauto Moraes / Juazeiro
+240,Sergipe / SE,Barcelona de Ilhéus / BA,08/06/2025,17:00,Lourival Baptista / Aracaju
+241,Goiania / GO,Capital / DF,07/06/2025,16:00,Olímpico Pedro Ludovico / Goiania
+242,Ceilândia / DF,Gazin Porto Velho / RO,07/06/2025,16:00,Abadião / Ceilândia
+243,Goianesia / GO,Mixto / MT,08/06/2025,16:00,Waldeir José de Oliveira / Goianesia
+244,Luverdense / MT,Aparecidense / GO,07/06/2025,18:00,Passo das Emas / Lucas do Rio Verde
+245,Boavista / RJ,Porto Vitória / ES,07/06/2025,16:00,Elcyr Resende de Mendonça / Saquarema
+246,Rio Branco A. C. / ES,Pouso Alegre / MG,04/06/2025,20:00,Kleber José de Andrade / Cariacica
+247,Marica / RJ,Agua Santa / SP,07/06/2025,16:00,Estádio Municipal João Saldanha / Marica
+248,Portuguesa / SP,Nova Iguaçu / RJ,07/06/2025,17:00,Oswaldo Teixeira Duarte / Sao Paulo
+249,Uberlândia / MG,Monte Azul / SP,07/06/2025,17:00,Parque do Sabiá / Uberlandia
+250,Inter de Limeira / SP,Operário / MS,07/06/2025,16:00,Major José Levy Sobrinho / Limeira
+251,Goiatuba / GO,Leão do Vale - Cianorte / PR,07/06/2025,17:00,Divino Garcia Rosa / Goiatuba
+252,Cascavel / PR,Itabirito / MG,07/06/2025,15:30,Arnaldo Busatto / Cascavel
+253,São Luiz / RS,Marcílio Dias / SC,07/06/2025,16:00,19 de Outubro / Ijui
+254,Barra / SC,Guarany / RS,21/06/2025,16:00,Arena Barra FC / Itajai
+255,Brasil / RS,Joinville / SC,08/06/2025,16:00,Bento da Silva Freitas / Pelotas
+256,Azuriz / PR,São José / RS,08/06/2025,15:00,Os Pioneiros / Pato Branco
+257,Humaitá / AC,Manauara / AM,15/06/2025,20:00,Arena da Floresta / Rio Branco
+258,Tuna Luso / PA,Independência / AC,15/06/2025,15:00,Francisco Vasques / Belem
+259,Trem / AP,Aguia de Maraba / PA,14/06/2025,16:00,Estádio Milton de Souza Correa / Macapa
+260,Manaus / AM,Sampaio / RR,15/06/2025,16:30,Ismael Benigno / Manaus
+261,Parnahyba / PI,Maranhão / MA,15/06/2025,16:00,Pedro Alelaf / Parnaiba
+262,Imperatriz / MA,Altos / PI,14/06/2025,19:30,Frei Epifânio D´abadia / Imperatriz
+263,Iguatu / CE,Tocantinópolis / TO,13/06/2025,19:00,Antônio Moreno de Melo / Iguatu
+264,Sampaio Corrêa / MA,Maracana / CE,14/06/2025,16:00,Governador João Castelo / Sao Luis
+265,Treze / PB,Santa Cruz de Natal / RN,19/06/2025,15:00,Ernani Sátyro / Campina Grande
+266,Santa Cruz / PE,Sousa / PB,15/06/2025,17:00,José do Rêgo Maciel / Recife
+267,Horizonte / CE,Central / PE,15/06/2025,16:00,Horácio Domingos de Sousa / Horizonte
+268,América F.c. / RN,Ferroviário / CE,16/06/2025,20:00,Arena das Dunas / Natal
+269,Lagarto F.c. / SE,Jequié / BA,16/06/2025,19:30,Paulo Barreto de Menezes / Lagarto
+270,União Atlético Clube / TO,Sergipe / SE,14/06/2025,17:00,Leôncio Miranda / Araguaina
+271,Penedense / AL,Juazeirense / BA,15/06/2025,16:00,Estádio Doutor Alfredo Leahy / Penedo
+272,Barcelona de Ilhéus / BA,ASA / AL,15/06/2025,16:00,Mário Pessoa / Ilheus
+273,Mixto / MT,Goiania / GO,14/06/2025,18:00,Eurico Gaspar Dutra / Cuiaba
+274,Gazin Porto Velho / RO,Luverdense / MT,14/06/2025,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+275,Capital / DF,Goianesia / GO,15/06/2025,15:30,Jk Paranoá / Brasilia
+276,Aparecidense / GO,Ceilândia / DF,14/06/2025,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+277,Agua Santa / SP,Boavista / RJ,14/06/2025,16:00,José Batista Pereira Fernandes / Diadema
+278,Pouso Alegre / MG,Portuguesa / SP,14/06/2025,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+279,Porto Vitória / ES,Marica / RJ,14/06/2025,17:00,Kleber José de Andrade / Cariacica
+280,Nova Iguaçu / RJ,Rio Branco A. C. / ES,14/06/2025,15:00,Jânio Moraes / Nova Iguacu
+281,Leão do Vale - Cianorte / PR,Uberlândia / MG,14/06/2025,15:00,Albino Turbay / Cianorte
+282,Operário / MS,Cascavel / PR,14/06/2025,16:00,Jacques da Luz / Campo Grande
+283,Monte Azul / SP,Goiatuba / GO,21/06/2025,15:00,Otacília Patrício Arroyo / Monte Azul Paulista
+284,Itabirito / MG,Inter de Limeira / SP,15/06/2025,15:30,Castor Cifuentes / Nova Lima
+285,Joinville / SC,São Luiz / RS,14/06/2025,16:00,Arena Joinville / Joinville
+286,Guarany / RS,Azuriz / PR,15/06/2025,15:00,Antônio Magalhães Russel / Bage
+287,Marcílio Dias / SC,Brasil / RS,14/06/2025,18:00,Hercílio Luz / Itajai
+288,São José / RS,Barra / SC,14/06/2025,18:00,Francisco Novelletto Neto / Porto Alegre
+289,Manauara / AM,Manaus / AM,28/06/2025,16:00,Ismael Benigno / Manaus
+290,Tuna Luso / PA,Aguia de Maraba / PA,29/06/2025,15:00,Francisco Vasques / Belem
+291,Independência / AC,Trem / AP,29/06/2025,20:30,Arena da Floresta / Rio Branco
+292,Sampaio / RR,Humaitá / AC,28/06/2025,18:00,Flamarion Vasconcelos / Boa Vista
+293,Maranhão / MA,Sampaio Corrêa / MA,28/06/2025,16:00,Governador João Castelo / Sao Luis
+294,Imperatriz / MA,Tocantinópolis / TO,28/06/2025,19:30,Frei Epifânio D´abadia / Imperatriz
+295,Altos / PI,Iguatu / CE,28/06/2025,17:00,Lindolfo Monteiro / Teresina
+296,Maracana / CE,Parnahyba / PI,29/06/2025,16:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+297,Santa Cruz de Natal / RN,América F.c. / RN,28/06/2025,15:00,José Nazareno do Nascimento / Goianinha
+298,Santa Cruz / PE,Central / PE,29/06/2025,17:00,José do Rêgo Maciel / Recife
+299,Sousa / PB,Horizonte / CE,29/06/2025,19:00,Antônio Mariz / Sousa
+300,Ferroviário / CE,Treze / PB,28/06/2025,17:30,Presidente Vargas / Fortaleza
+301,Jequié / BA,Barcelona de Ilhéus / BA,29/06/2025,16:00,Waldomiro Borges / Jequie
+302,União Atlético Clube / TO,Juazeirense / BA,28/06/2025,17:00,Leôncio Miranda / Araguaina
+303,Sergipe / SE,Penedense / AL,28/06/2025,16:00,Lourival Baptista / Aracaju
+304,ASA / AL,Lagarto F.c. / SE,28/06/2025,17:00,Coaracy da Mata Fonseca / Arapiraca
+305,Goiania / GO,Aparecidense / GO,29/06/2025,16:00,Olímpico Pedro Ludovico / Goiania
+306,Gazin Porto Velho / RO,Goianesia / GO,28/06/2025,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+307,Luverdense / MT,Capital / DF,28/06/2025,18:00,Passo das Emas / Lucas do Rio Verde
+308,Ceilândia / DF,Mixto / MT,28/06/2025,16:00,Abadião / Ceilândia
+309,Boavista / RJ,Nova Iguaçu / RJ,28/06/2025,16:00,Elcyr Resende de Mendonça / Saquarema
+310,Pouso Alegre / MG,Marica / RJ,28/06/2025,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+311,Portuguesa / SP,Porto Vitória / ES,28/06/2025,17:00,Oswaldo Teixeira Duarte / Sao Paulo
+312,Rio Branco A. C. / ES,Agua Santa / SP,28/06/2025,17:00,Kleber José de Andrade / Cariacica
+313,Uberlândia / MG,Itabirito / MG,28/06/2025,17:00,Parque do Sabiá / Uberlandia
+314,Operário / MS,Goiatuba / GO,28/06/2025,16:00,Jacques da Luz / Campo Grande
+315,Cascavel / PR,Monte Azul / SP,28/06/2025,15:30,Arnaldo Busatto / Cascavel
+316,Inter de Limeira / SP,Leão do Vale - Cianorte / PR,27/06/2025,19:00,Major José Levy Sobrinho / Limeira
+317,São Luiz / RS,São José / RS,30/06/2025,19:00,19 de Outubro / Ijui
+318,Guarany / RS,Brasil / RS,29/06/2025,15:00,Antônio Magalhães Russel / Bage
+319,Azuriz / PR,Marcílio Dias / SC,29/06/2025,15:00,Os Pioneiros / Pato Branco
+320,Barra / SC,Joinville / SC,30/06/2025,19:00,Arena Barra FC / Itajai
+321,Aguia de Maraba / PA,Manauara / AM,05/07/2025,17:00,Zinho Oliveira / Maraba
+322,Manaus / AM,Tuna Luso / PA,06/07/2025,17:30,Carlos Zamith / Manaus
+323,Sampaio / RR,Independência / AC,05/07/2025,18:00,Flamarion Vasconcelos / Boa Vista
+324,Humaitá / AC,Trem / AP,06/07/2025,20:00,Arena da Floresta / Rio Branco
+325,Tocantinópolis / TO,Maranhão / MA,05/07/2025,16:00,João Ribeiro / Tocantinopolis
+326,Sampaio Corrêa / MA,Imperatriz / MA,05/07/2025,16:00,Governador João Castelo / Sao Luis
+327,Maracana / CE,Altos / PI,06/07/2025,16:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+328,Parnahyba / PI,Iguatu / CE,06/07/2025,16:00,Pedro Alelaf / Parnaiba
+329,Central / PE,Santa Cruz de Natal / RN,06/07/2025,16:00,Luíz José de Lacerda / Caruaru
+330,América F.c. / RN,Santa Cruz / PE,06/07/2025,16:30,Arena das Dunas / Natal
+331,Ferroviário / CE,Sousa / PB,05/07/2025,17:30,Presidente Vargas / Fortaleza
+332,Treze / PB,Horizonte / CE,07/07/2025,20:00,Ernani Sátyro / Campina Grande
+333,Juazeirense / BA,Jequié / BA,05/07/2025,16:00,Adauto Moraes / Juazeiro
+334,Barcelona de Ilhéus / BA,União Atlético Clube / TO,06/07/2025,16:00,Mário Pessoa / Ilheus
+335,ASA / AL,Sergipe / SE,05/07/2025,17:00,Coaracy da Mata Fonseca / Arapiraca
+336,Lagarto F.c. / SE,Penedense / AL,06/07/2025,16:00,Etelvino Mendonça / Itabaiana
+337,Goianesia / GO,Goiania / GO,05/07/2025,16:00,Waldeir José de Oliveira / Goianesia
+338,Aparecidense / GO,Gazin Porto Velho / RO,05/07/2025,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+339,Ceilândia / DF,Luverdense / MT,05/07/2025,16:00,Abadião / Ceilândia
+340,Mixto / MT,Capital / DF,05/07/2025,18:00,Eurico Gaspar Dutra / Cuiaba
+341,Marica / RJ,Boavista / RJ,05/07/2025,16:00,Estádio Municipal João Saldanha / Marica
+342,Nova Iguaçu / RJ,Pouso Alegre / MG,05/07/2025,15:00,Jânio Moraes / Nova Iguacu
+343,Rio Branco A. C. / ES,Portuguesa / SP,05/07/2025,17:00,Kleber José de Andrade / Cariacica
+344,Agua Santa / SP,Porto Vitória / ES,05/07/2025,16:00,José Batista Pereira Fernandes / Diadema
+345,Goiatuba / GO,Uberlândia / MG,05/07/2025,17:00,Divino Garcia Rosa / Goiatuba
+346,Itabirito / MG,Operário / MS,06/07/2025,15:30,Castor Cifuentes / Nova Lima
+347,Inter de Limeira / SP,Cascavel / PR,05/07/2025,16:00,Major José Levy Sobrinho / Limeira
+348,Leão do Vale - Cianorte / PR,Monte Azul / SP,05/07/2025,15:00,Albino Turbay / Cianorte
+349,Brasil / RS,São Luiz / RS,06/07/2025,15:00,Bento da Silva Freitas / Pelotas
+350,São José / RS,Guarany / RS,05/07/2025,18:00,Francisco Novelletto Neto / Porto Alegre
+351,Barra / SC,Azuriz / PR,05/07/2025,16:00,Arena Barra FC / Itajai
+352,Joinville / SC,Marcílio Dias / SC,06/07/2025,16:00,Arena Joinville / Joinville
+353,Tuna Luso / PA,Manauara / AM,13/07/2025,15:00,Francisco Vasques / Belem
+354,Manaus / AM,Aguia de Maraba / PA,13/07/2025,17:30,Carlos Zamith / Manaus
+355,Independência / AC,Humaitá / AC,12/07/2025,19:00,Arena da Floresta / Rio Branco
+356,Trem / AP,Sampaio / RR,12/07/2025,16:00,Augusto Antunes / Santana
+357,Imperatriz / MA,Maranhão / MA,12/07/2025,19:30,Frei Epifânio D´abadia / Imperatriz
+358,Sampaio Corrêa / MA,Tocantinópolis / TO,12/07/2025,16:00,Governador João Castelo / Sao Luis
+359,Altos / PI,Parnahyba / PI,12/07/2025,16:00,Lindolfo Monteiro / Teresina
+360,Iguatu / CE,Maracana / CE,12/07/2025,17:00,Antônio Moreno de Melo / Iguatu
+361,Santa Cruz / PE,Santa Cruz de Natal / RN,13/07/2025,17:00,José do Rêgo Maciel / Recife
+362,América F.c. / RN,Central / PE,13/07/2025,19:00,Arena das Dunas / Natal
+363,Sousa / PB,Treze / PB,12/07/2025,16:30,Antônio Mariz / Sousa
+364,Horizonte / CE,Ferroviário / CE,13/07/2025,16:00,Horácio Domingos de Sousa / Horizonte
+365,União Atlético Clube / TO,Jequié / BA,12/07/2025,17:00,Leôncio Miranda / Araguaina
+366,Barcelona de Ilhéus / BA,Juazeirense / BA,13/07/2025,16:00,Mário Pessoa / Ilheus
+367,Sergipe / SE,Lagarto F.c. / SE,12/07/2025,17:00,Lourival Baptista / Aracaju
+368,Penedense / AL,ASA / AL,13/07/2025,16:00,Estádio Doutor Alfredo Leahy / Penedo
+369,Gazin Porto Velho / RO,Goiania / GO,12/07/2025,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+370,Aparecidense / GO,Goianesia / GO,12/07/2025,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+371,Luverdense / MT,Mixto / MT,12/07/2025,18:00,Passo das Emas / Lucas do Rio Verde
+372,Capital / DF,Ceilândia / DF,13/07/2025,15:30,Jk Paranoá / Brasilia
+373,Pouso Alegre / MG,Boavista / RJ,12/07/2025,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+374,Nova Iguaçu / RJ,Marica / RJ,12/07/2025,15:00,Jânio Moraes / Nova Iguacu
+375,Portuguesa / SP,Agua Santa / SP,12/07/2025,17:00,Oswaldo Teixeira Duarte / Sao Paulo
+376,Porto Vitória / ES,Rio Branco A. C. / ES,12/07/2025,17:00,Kleber José de Andrade / Cariacica
+377,Operário / MS,Uberlândia / MG,12/07/2025,16:00,Jacques da Luz / Campo Grande
+378,Itabirito / MG,Goiatuba / GO,12/07/2025,15:30,Castor Cifuentes / Nova Lima
+379,Cascavel / PR,Leão do Vale - Cianorte / PR,12/07/2025,15:30,Arnaldo Busatto / Cascavel
+380,Monte Azul / SP,Inter de Limeira / SP,12/07/2025,15:00,Otacília Patrício Arroyo / Monte Azul Paulista
+381,Guarany / RS,São Luiz / RS,13/07/2025,15:00,Antônio Magalhães Russel / Bage
+382,São José / RS,Brasil / RS,13/07/2025,18:00,Francisco Novelletto Neto / Porto Alegre
+383,Azuriz / PR,Joinville / SC,13/07/2025,15:00,Os Pioneiros / Pato Branco
+384,Marcílio Dias / SC,Barra / SC,14/07/2025,20:00,Hercílio Luz / Itajai
+385,Manauara / AM,Sampaio / RR,19/07/2025,16:00,Ismael Benigno / Manaus
+386,Trem / AP,Tuna Luso / PA,19/07/2025,16:00,Augusto Antunes / Santana
+387,Aguia de Maraba / PA,Independência / AC,19/07/2025,17:00,Zinho Oliveira / Maraba
+388,Humaitá / AC,Manaus / AM,20/07/2025,20:00,Arena da Floresta / Rio Branco
+389,Maranhão / MA,Maracana / CE,19/07/2025,16:00,Governador João Castelo / Sao Luis
+390,Iguatu / CE,Imperatriz / MA,19/07/2025,16:00,Antônio Moreno de Melo / Iguatu
+391,Tocantinópolis / TO,Altos / PI,19/07/2025,16:00,João Ribeiro / Tocantinopolis
+392,Parnahyba / PI,Sampaio Corrêa / MA,20/07/2025,16:00,Pedro Alelaf / Parnaiba
+393,Santa Cruz de Natal / RN,Ferroviário / CE,19/07/2025,15:00,José Nazareno do Nascimento / Goianinha
+394,Horizonte / CE,Santa Cruz / PE,20/07/2025,16:00,Horácio Domingos de Sousa / Horizonte
+395,Central / PE,Sousa / PB,20/07/2025,16:00,Luíz José de Lacerda / Caruaru
+396,Treze / PB,América F.c. / RN,20/07/2025,16:00,Ernani Sátyro / Campina Grande
+397,Jequié / BA,ASA / AL,20/07/2025,16:00,Waldomiro Borges / Jequie
+398,Penedense / AL,União Atlético Clube / TO,20/07/2025,16:00,Estádio Doutor Alfredo Leahy / Penedo
+399,Juazeirense / BA,Sergipe / SE,20/07/2025,16:00,Adauto Moraes / Juazeiro
+400,Lagarto F.c. / SE,Barcelona de Ilhéus / BA,19/07/2025,17:00,Paulo Barreto de Menezes / Lagarto
+401,Goiania / GO,Ceilândia / DF,20/07/2025,16:00,Olímpico Pedro Ludovico / Goiania
+402,Capital / DF,Gazin Porto Velho / RO,20/07/2025,15:30,Jk Paranoá / Brasilia
+403,Goianesia / GO,Luverdense / MT,19/07/2025,16:00,Waldeir José de Oliveira / Goianesia
+404,Mixto / MT,Aparecidense / GO,19/07/2025,18:00,Eurico Gaspar Dutra / Cuiaba
+405,Boavista / RJ,Rio Branco A. C. / ES,19/07/2025,16:00,Elcyr Resende de Mendonça / Saquarema
+406,Porto Vitória / ES,Pouso Alegre / MG,19/07/2025,17:00,Kleber José de Andrade / Cariacica
+407,Marica / RJ,Portuguesa / SP,19/07/2025,16:00,Estádio Municipal João Saldanha / Marica
+408,Agua Santa / SP,Nova Iguaçu / RJ,19/07/2025,16:00,José Batista Pereira Fernandes / Diadema
+409,Uberlândia / MG,Inter de Limeira / SP,19/07/2025,17:00,Parque do Sabiá / Uberlandia
+410,Monte Azul / SP,Operário / MS,19/07/2025,15:00,Otacília Patrício Arroyo / Monte Azul Paulista
+411,Goiatuba / GO,Cascavel / PR,19/07/2025,17:00,Divino Garcia Rosa / Goiatuba
+412,Leão do Vale - Cianorte / PR,Itabirito / MG,19/07/2025,15:00,Albino Turbay / Cianorte
+413,São Luiz / RS,Barra / SC,19/07/2025,16:00,19 de Outubro / Ijui
+414,Marcílio Dias / SC,Guarany / RS,20/07/2025,16:00,Hercílio Luz / Itajai
+415,Brasil / RS,Azuriz / PR,20/07/2025,15:00,Bento da Silva Freitas / Pelotas
+416,Joinville / SC,São José / RS,20/07/2025,16:00,Arena Joinville / Joinville
+417,Independência / AC,Manauara / AM,27/07/2025,17:00,Arena da Floresta / Rio Branco
+418,Tuna Luso / PA,Humaitá / AC,27/07/2025,17:00,- A Definir / 
+419,Sampaio / RR,Aguia de Maraba / PA,27/07/2025,17:00,Flamarion Vasconcelos / Boa Vista
+420,Manaus / AM,Trem / AP,27/07/2025,17:00,Carlos Zamith / Manaus
+421,Altos / PI,Maranhão / MA,26/07/2025,16:00,Lindolfo Monteiro / Teresina
+422,Imperatriz / MA,Parnahyba / PI,26/07/2025,16:00,Frei Epifânio D´abadia / Imperatriz
+423,Maracana / CE,Tocantinópolis / TO,26/07/2025,16:00,Estádio Municipal Prefeito Almir Dutra / Maracanau
+424,Sampaio Corrêa / MA,Iguatu / CE,26/07/2025,16:00,Governador João Castelo / Sao Luis
+425,Sousa / PB,Santa Cruz de Natal / RN,27/07/2025,16:00,Antônio Mariz / Sousa
+426,Santa Cruz / PE,Treze / PB,27/07/2025,16:00,Arena Pernambuco / 
+427,Ferroviário / CE,Central / PE,27/07/2025,16:00,Presidente Vargas / Fortaleza
+428,América F.c. / RN,Horizonte / CE,27/07/2025,16:00,Arena das Dunas / Natal
+429,Sergipe / SE,Jequié / BA,27/07/2025,16:00,Lourival Baptista / Aracaju
+430,União Atlético Clube / TO,Lagarto F.c. / SE,27/07/2025,16:00,Leôncio Miranda / Araguaina
+431,ASA / AL,Juazeirense / BA,27/07/2025,16:00,Coaracy da Mata Fonseca / Arapiraca
+432,Barcelona de Ilhéus / BA,Penedense / AL,27/07/2025,16:00,Mário Pessoa / Ilheus
+433,Luverdense / MT,Goiania / GO,26/07/2025,17:00,Passo das Emas / Lucas do Rio Verde
+434,Gazin Porto Velho / RO,Mixto / MT,26/07/2025,17:00,Aluizio Pinheiro Ferreira / Porto Velho
+435,Ceilândia / DF,Goianesia / GO,26/07/2025,17:00,Abadião / Ceilândia
+436,Aparecidense / GO,Capital / DF,26/07/2025,17:00,Anibal Batista de Toledo / Aparecida de Goiania
+437,Portuguesa / SP,Boavista / RJ,26/07/2025,16:00,Oswaldo Teixeira Duarte / Sao Paulo
+438,Pouso Alegre / MG,Agua Santa / SP,26/07/2025,16:00,Irmão Gino Maria Rossi / Pouso Alegre
+439,Rio Branco A. C. / ES,Marica / RJ,26/07/2025,16:00,Kleber José de Andrade / Cariacica
+440,Nova Iguaçu / RJ,Porto Vitória / ES,26/07/2025,16:00,Jânio Moraes / Nova Iguacu
+441,Cascavel / PR,Uberlândia / MG,26/07/2025,16:00,Arnaldo Busatto / Cascavel
+442,Operário / MS,Leão do Vale - Cianorte / PR,26/07/2025,16:00,Jacques da Luz / Campo Grande
+443,Inter de Limeira / SP,Goiatuba / GO,26/07/2025,16:00,Major José Levy Sobrinho / Limeira
+444,Itabirito / MG,Monte Azul / SP,26/07/2025,16:00,Castor Cifuentes / Nova Lima
+445,Azuriz / PR,São Luiz / RS,27/07/2025,16:00,Os Pioneiros / Pato Branco
+446,Guarany / RS,Joinville / SC,27/07/2025,16:00,Antônio Magalhães Russel / Bage
+447,Barra / SC,Brasil / RS,27/07/2025,16:00,Arena Barra FC / Itajai
+448,São José / RS,Marcílio Dias / SC,27/07/2025,16:00,Francisco Novelletto Neto / Porto Alegre
+449,Maranhão / MA,Tuna Luso / PA,02/08/2025,16:00,Governador João Castelo / Sao Luis
+450,Manaus / AM,Imperatriz / MA,03/08/2025,17:00,Carlos Zamith / Manaus
+451,Independência / AC,Altos / PI,03/08/2025,19:00,Arena da Floresta / Rio Branco
+452,Sampaio Corrêa / MA,Manauara / AM,04/08/2025,19:30,Governador João Castelo / Sao Luis
+453,Juazeirense / BA,América F.c. / RN,03/08/2025,16:00,Adauto Moraes / Juazeiro
+454,Central / PE,Lagarto F.c. / SE,03/08/2025,16:00,Luíz José de Lacerda / Caruaru
+455,Ferroviário / CE,ASA / AL,02/08/2025,17:00,Presidente Vargas / Fortaleza
+456,Sergipe / SE,Santa Cruz / PE,03/08/2025,17:00,Lourival Baptista / Aracaju
+457,Marica / RJ,Aparecidense / GO,02/08/2025,16:00,Estádio Municipal João Saldanha / Marica
+458,Luverdense / MT,Rio Branco A. C. / ES,02/08/2025,19:00,Passo das Emas / Lucas do Rio Verde
+459,Mixto / MT,Portuguesa / SP,02/08/2025,18:00,Eurico Gaspar Dutra / Cuiaba
+460,Agua Santa / SP,Ceilândia / DF,02/08/2025,16:00,José Batista Pereira Fernandes / Diadema
+461,Marcílio Dias / SC,Inter de Limeira / SP,03/08/2025,19:00,Hercílio Luz / Itajai
+462,Goiatuba / GO,São José / RS,02/08/2025,15:30,Divino Garcia Rosa / Goiatuba
+463,Cascavel / PR,Barra / SC,02/08/2025,16:00,Arnaldo Busatto / Cascavel
+464,Joinville / SC,Leão do Vale - Cianorte / PR,03/08/2025,16:00,Arena Joinville / Joinville
+466,Imperatriz / MA,Manaus / AM,09/08/2025,19:30,Frei Epifânio D´abadia / Imperatriz
+467,Altos / PI,Independência / AC,09/08/2025,17:00,Lindolfo Monteiro / Teresina
+468,Manauara / AM,Sampaio Corrêa / MA,09/08/2025,16:00,Ismael Benigno / Manaus
+469,América F.c. / RN,Juazeirense / BA,10/08/2025,16:00,Arena das Dunas / Natal
+470,Lagarto F.c. / SE,Central / PE,10/08/2025,16:00,Paulo Barreto de Menezes / Lagarto
+471,ASA / AL,Ferroviário / CE,09/08/2025,17:00,Coaracy da Mata Fonseca / Arapiraca
+472,Santa Cruz / PE,Sergipe / SE,09/08/2025,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+473,Aparecidense / GO,Marica / RJ,09/08/2025,16:00,Anibal Batista de Toledo / Aparecida de Goiania
+474,Rio Branco A. C. / ES,Luverdense / MT,09/08/2025,17:00,Kleber José de Andrade / Cariacica
+475,Portuguesa / SP,Mixto / MT,09/08/2025,16:00,Oswaldo Teixeira Duarte / Sao Paulo
+476,Ceilândia / DF,Agua Santa / SP,09/08/2025,16:00,Mª de Lourdes Abadia / Ceilândia
+477,Inter de Limeira / SP,Marcílio Dias / SC,09/08/2025,16:00,Major José Levy Sobrinho / Limeira
+478,São José / RS,Goiatuba / GO,09/08/2025,18:00,Francisco Novelletto Neto / Porto Alegre
+479,Barra / SC,Cascavel / PR,09/08/2025,16:00,Arena Barra FC / Itajai
+480,Leão do Vale - Cianorte / PR,Joinville / SC,10/08/2025,15:00,Albino Turbay / Cianorte
+481,Maranhão / MA,Central / PE,16/08/2025,16:00,Governador João Castelo / Sao Luis
+482,Imperatriz / MA,América F.c. / RN,17/08/2025,16:00,Frei Epifânio D´abadia / Imperatriz
+484,Manauara / AM,ASA / AL,16/08/2025,16:00,Ismael Benigno / Manaus
+485,Goiatuba / GO,Aparecidense / GO,17/08/2025,16:00,Divino Garcia Rosa / Goiatuba
+487,Leão do Vale - Cianorte / PR,Mixto / MT,17/08/2025,16:30,Albino Turbay / Cianorte
+488,Ceilândia / DF,Barra / SC,16/08/2025,16:00,Mª de Lourdes Abadia / Ceilândia

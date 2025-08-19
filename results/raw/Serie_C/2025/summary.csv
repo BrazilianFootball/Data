@@ -68,3 +68,102 @@ Game,Home,Away,Date,Time,Stadium
 068,Brusque / SC,Sao Bernardo / SP,26/05/2025,19:30,Augusto Bauer / Brusque
 069,CSA / AL,Confiança / SE,24/05/2025,17:00,Rei Pelé / Maceio
 070,Botafogo Pb / PB,Retrô / PE,25/05/2025,15:00,José Américo de Almeida Filho / Joao Pessoa
+071,Retrô / PE,Guarani / SP,31/05/2025,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+072,Ponte Preta / SP,Ypiranga / RS,02/06/2025,19:30,Moisés Lucarelli / Campinas
+073,Confiança / SE,Brusque / SC,01/06/2025,16:30,Lourival Baptista / Aracaju
+074,Tombense / MG,Anápolis / GO,01/06/2025,16:30,Antônio Guimarães de Almeida / Tombos
+075,Sao Bernardo / SP,CSA / AL,02/06/2025,19:30,1º de Maio / Sao Bernardo do Campo
+076,Maringa / PR,Ituano / SP,01/06/2025,19:00,Willie Davids / Maringa
+077,Caxias / RS,Londrina / PR,31/05/2025,19:30,Francisco Stédile / Caxias do Sul
+078,Figueirense / SC,Botafogo Pb / PB,01/06/2025,19:00,Orlando Scarpelli / Florianopolis
+079,Floresta / CE,Itabaiana / SE,31/05/2025,19:30,Horácio Domingos de Sousa / Horizonte
+080,ABC / RN,Náutico / PE,31/05/2025,17:00,Maria Lamas Farache / Natal
+081,Náutico / PE,Maringa / PR,16/06/2025,19:30,Eládio de Barros Carvalho / Recife
+082,Ponte Preta / SP,ABC / RN,14/06/2025,17:00,Moisés Lucarelli / Campinas
+083,Guarani / SP,Itabaiana / SE,15/06/2025,19:00,Brinco de Ouro da Princesa / Campinas
+084,Ituano / SP,Sao Bernardo / SP,14/06/2025,17:00,Novelli Junior / Itu
+085,Anápolis / GO,Retrô / PE,14/06/2025,19:30,Jonas Ferreira Duarte / Anapolis
+086,Londrina / PR,Figueirense / SC,15/06/2025,16:30,Vitorino Gonçalves Dias / Londrina
+087,Ypiranga / RS,Confiança / SE,15/06/2025,19:00,Colosso da Lagoa / Erechim
+088,Brusque / SC,Tombense / MG,15/06/2025,16:30,Augusto Bauer / Brusque
+089,CSA / AL,Floresta / CE,16/06/2025,19:30,Rei Pelé / Maceio
+090,Botafogo Pb / PB,Caxias / RS,14/06/2025,19:30,José Américo de Almeida Filho / Joao Pessoa
+091,Retrô / PE,Londrina / PR,28/06/2025,17:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+092,Itabaiana / SE,Botafogo Pb / PB,30/06/2025,19:30,Etelvino Mendonça / Itabaiana
+093,Guarani / SP,CSA / AL,28/06/2025,17:00,Brinco de Ouro da Princesa / Campinas
+094,Tombense / MG,Náutico / PE,29/06/2025,19:00,Antônio Guimarães de Almeida / Tombos
+095,Sao Bernardo / SP,Anápolis / GO,28/06/2025,19:30,1º de Maio / Sao Bernardo do Campo
+096,Maringa / PR,Ponte Preta / SP,28/06/2025,19:30,Willie Davids / Maringa
+097,Caxias / RS,Ituano / SP,29/06/2025,19:00,Francisco Stédile / Caxias do Sul
+098,Figueirense / SC,Confiança / SE,29/06/2025,16:30,Orlando Scarpelli / Florianopolis
+099,Floresta / CE,Brusque / SC,30/06/2025,16:00,Horácio Domingos de Sousa / Horizonte
+100,ABC / RN,Ypiranga / RS,29/06/2025,16:30,Maria Lamas Farache / Natal
+101,Náutico / PE,Floresta / CE,05/07/2025,17:00,Eládio de Barros Carvalho / Recife
+102,Ponte Preta / SP,Tombense / MG,07/07/2025,19:30,Moisés Lucarelli / Campinas
+103,Confiança / SE,ABC / RN,05/07/2025,19:30,Lourival Baptista / Aracaju
+104,Ituano / SP,Retrô / PE,05/07/2025,17:00,Novelli Junior / Itu
+105,Anápolis / GO,Itabaiana / SE,06/07/2025,16:30,Jonas Ferreira Duarte / Anapolis
+106,Londrina / PR,Guarani / SP,06/07/2025,16:30,Vitorino Gonçalves Dias / Londrina
+107,Ypiranga / RS,Maringa / PR,06/07/2025,19:00,Colosso da Lagoa / Erechim
+108,Brusque / SC,Figueirense / SC,06/07/2025,19:00,Augusto Bauer / Brusque
+109,CSA / AL,Caxias / RS,05/07/2025,19:30,Rei Pelé / Maceio
+110,Botafogo Pb / PB,Sao Bernardo / SP,07/07/2025,19:30,José Américo de Almeida Filho / Joao Pessoa
+111,Retrô / PE,CSA / AL,14/07/2025,19:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+113,Guarani / SP,Ituano / SP,13/07/2025,16:30,Brinco de Ouro da Princesa / Campinas
+114,Tombense / MG,ABC / RN,12/07/2025,19:30,Antônio Guimarães de Almeida / Tombos
+115,Sao Bernardo / SP,Ponte Preta / SP,12/07/2025,17:00,1º de Maio / Sao Bernardo do Campo
+116,Maringa / PR,Brusque / SC,14/07/2025,19:30,Willie Davids / Maringa
+117,Caxias / RS,Anápolis / GO,13/07/2025,19:00,Francisco Stédile / Caxias do Sul
+118,Figueirense / SC,Náutico / PE,13/07/2025,19:00,Orlando Scarpelli / Florianopolis
+119,Floresta / CE,Ypiranga / RS,12/07/2025,19:30,Horácio Domingos de Sousa / Horizonte
+120,Botafogo Pb / PB,Londrina / PR,13/07/2025,16:30,José Américo de Almeida Filho / Joao Pessoa
+121,Náutico / PE,Caxias / RS,21/07/2025,19:30,Eládio de Barros Carvalho / Recife
+122,Ponte Preta / SP,Floresta / CE,19/07/2025,19:30,Moisés Lucarelli / Campinas
+123,Confiança / SE,Tombense / MG,20/07/2025,16:30,Lourival Baptista / Aracaju
+124,Ituano / SP,Botafogo Pb / PB,19/07/2025,17:00,Novelli Junior / Itu
+125,Anápolis / GO,Guarani / SP,21/07/2025,19:30,Jonas Ferreira Duarte / Anapolis
+126,Londrina / PR,Itabaiana / SE,19/07/2025,19:30,Vitorino Gonçalves Dias / Londrina
+127,Ypiranga / RS,Sao Bernardo / SP,20/07/2025,19:00,Colosso da Lagoa / Erechim
+128,Brusque / SC,Retrô / PE,20/07/2025,19:00,Augusto Bauer / Brusque
+129,CSA / AL,Figueirense / SC,20/07/2025,16:30,Rei Pelé / Maceio
+130,ABC / RN,Maringa / PR,19/07/2025,17:00,Arena das Dunas / Natal
+131,Retrô / PE,Ypiranga / RS,26/07/2025,19:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+132,Itabaiana / SE,Ituano / SP,27/07/2025,16:30,Etelvino Mendonça / Itabaiana
+133,Guarani / SP,Náutico / PE,26/07/2025,17:00,Brinco de Ouro da Princesa / Campinas
+134,Tombense / MG,Maringa / PR,28/07/2025,19:30,Antônio Guimarães de Almeida / Tombos
+135,Sao Bernardo / SP,Confiança / SE,27/07/2025,19:00,1º de Maio / Sao Bernardo do Campo
+136,Londrina / PR,CSA / AL,26/07/2025,19:30,Vitorino Gonçalves Dias / Londrina
+137,Caxias / RS,Ponte Preta / SP,27/07/2025,16:30,Francisco Stédile / Caxias do Sul
+138,Figueirense / SC,Anápolis / GO,27/07/2025,16:30,Orlando Scarpelli / Florianopolis
+139,Floresta / CE,ABC / RN,26/07/2025,17:00,Horácio Domingos de Sousa / Horizonte
+140,Botafogo Pb / PB,Brusque / SC,28/07/2025,19:30,José Américo de Almeida Filho / Joao Pessoa
+141,Náutico / PE,Retrô / PE,03/08/2025,19:00,Eládio de Barros Carvalho / Recife
+142,Ponte Preta / SP,Guarani / SP,02/08/2025,17:00,Moisés Lucarelli / Campinas
+143,Confiança / SE,Anápolis / GO,04/08/2025,19:30,Lourival Baptista / Aracaju
+144,Ituano / SP,Londrina / PR,04/08/2025,19:30,Novelli Junior / Itu
+145,Sao Bernardo / SP,Tombense / MG,03/08/2025,16:30,1º de Maio / Sao Bernardo do Campo
+146,Maringa / PR,Floresta / CE,03/08/2025,16:30,Willie Davids / Maringa
+147,Ypiranga / RS,Caxias / RS,03/08/2025,19:00,Colosso da Lagoa / Erechim
+148,Brusque / SC,Itabaiana / SE,04/08/2025,16:00,Augusto Bauer / Brusque
+149,CSA / AL,Botafogo Pb / PB,02/08/2025,17:00,Rei Pelé / Maceio
+150,ABC / RN,Figueirense / SC,02/08/2025,19:30,Maria Lamas Farache / Natal
+151,Retrô / PE,Sao Bernardo / SP,10/08/2025,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+152,Itabaiana / SE,CSA / AL,11/08/2025,19:30,Etelvino Mendonça / Itabaiana
+153,Guarani / SP,Ypiranga / RS,09/08/2025,19:30,Brinco de Ouro da Princesa / Campinas
+154,Ituano / SP,Confiança / SE,09/08/2025,19:30,Novelli Junior / Itu
+155,Anápolis / GO,Brusque / SC,10/08/2025,16:30,Jonas Ferreira Duarte / Anapolis
+156,Londrina / PR,Náutico / PE,10/08/2025,11:00,Vitorino Gonçalves Dias / Londrina
+157,Caxias / RS,ABC / RN,09/08/2025,17:00,Francisco Stédile / Caxias do Sul
+158,Figueirense / SC,Maringa / PR,11/08/2025,19:30,Orlando Scarpelli / Florianopolis
+159,Floresta / CE,Tombense / MG,10/08/2025,16:30,Horácio Domingos de Sousa / Horizonte
+160,Botafogo Pb / PB,Ponte Preta / SP,09/08/2025,17:00,José Américo de Almeida Filho / Joao Pessoa
+161,Náutico / PE,Anápolis / GO,17/08/2025,19:00,Eládio de Barros Carvalho / Recife
+162,Ponte Preta / SP,Itabaiana / SE,16/08/2025,17:00,Moisés Lucarelli / Campinas
+163,Confiança / SE,Floresta / CE,17/08/2025,19:00,Lourival Baptista / Aracaju
+164,Tombense / MG,Caxias / RS,18/08/2025,19:30,Antônio Guimarães de Almeida / Tombos
+165,Sao Bernardo / SP,Figueirense / SC,17/08/2025,16:30,1º de Maio / Sao Bernardo do Campo
+166,Maringa / PR,Retrô / PE,16/08/2025,17:00,Willie Davids / Maringa
+167,Ypiranga / RS,Botafogo Pb / PB,18/08/2025,19:30,Colosso da Lagoa / Erechim
+168,Brusque / SC,Londrina / PR,17/08/2025,16:30,Augusto Bauer / Brusque
+169,CSA / AL,Ituano / SP,16/08/2025,19:30,Rei Pelé / Maceio
+170,ABC / RN,Guarani / SP,16/08/2025,19:30,Maria Lamas Farache / Natal
