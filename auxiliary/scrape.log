@@ -1070,3 +1070,14 @@
 
 -------------------------------------------------------------------------------------
 
+2025-08-18 23:53:25 [Scraping] - Beginning docket scraping.
+2025-08-18 23:55:28 [Scraping] - Docket scraping complete.
+                                   [INFO] 3 dockets addeds.
+2025-08-18 23:55:28 [Extract]  - Beginning info extract.
+2025-08-18 23:56:17 [Extract]  - Info extract complete.
+                                   [INFO] 11 games failed.
+2025-08-18 23:56:17 [Lineups]  - Beginning lineups treatment.
+2025-08-18 23:56:39 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+

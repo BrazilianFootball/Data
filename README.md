@@ -15,16 +15,16 @@ This repository is organized in three main folders:
 
 |   Competition   |Total games|Scraped games|
 |-----------------|-----------|-------------|
-|Brazil Cup (2024)|    122    |     122     |
-|Brazil Cup (2025)|    107    |     107     |
-|  Serie A (2024) |    380    |     380     |
-|  Serie A (2025) |    200    |     187     |
-|  Serie B (2024) |    380    |     379     |
-|  Serie B (2025) |    220    |     214     |
-|  Serie C (2024) |    216    |     216     |
-|  Serie C (2025) |    170    |     168     |
-|  Serie D (2024) |    510    |     508     |
-|  Serie D (2025) |    488    |     484     |
+|Brazil Cup (2013)|    172    |     156     |
+|Brazil Cup (2014)|    172    |     159     |
+|Brazil Cup (2015)|    172    |     158     |
+|Brazil Cup (2016)|    170    |     162     |
+|Brazil Cup (2017)|    120    |     120     |
+|Brazil Cup (2018)|    120    |     120     |
+|Brazil Cup (2019)|    120    |     120     |
+|Brazil Cup (2020)|    120    |     120     |
+|Brazil Cup (2021)|    122    |     122     |
+|Brazil Cup (2022)|    122    |     122     |
 |Brazil Cup (2023)|    122    |     122     |
 |Brazil Cup (2024)|    122    |     122     |
 |Brazil Cup (2025)|    107    |     107     |
@@ -39,8 +39,8 @@ This repository is organized in three main folders:
 |  Serie A (2021) |    380    |     380     |
 |  Serie A (2022) |    380    |     380     |
 |  Serie A (2023) |    380    |     380     |
-|  Serie A (2024) |    380    |     375     |
-|  Serie A (2025) |    200    |     185     |
+|  Serie A (2024) |    380    |     380     |
+|  Serie A (2025) |    200    |     188     |
 |  Serie B (2013) |    380    |     380     |
 |  Serie B (2014) |    380    |     379     |
 |  Serie B (2015) |    380    |     380     |
@@ -53,7 +53,7 @@ This repository is organized in three main folders:
 |  Serie B (2022) |    380    |     380     |
 |  Serie B (2023) |    380    |     380     |
 |  Serie B (2024) |    380    |     379     |
-|  Serie B (2025) |    220    |     214     |
+|  Serie B (2025) |    220    |     215     |
 |  Serie C (2013) |    220    |     213     |
 |  Serie C (2014) |    194    |     194     |
 |  Serie C (2015) |    194    |     194     |
@@ -79,7 +79,7 @@ This repository is organized in three main folders:
 |  Serie D (2022) |    510    |     510     |
 |  Serie D (2023) |    510    |     510     |
 |  Serie D (2024) |    510    |     508     |
-|  Serie D (2025) |    488    |     484     |
+|  Serie D (2025) |    488    |     485     |
 
 Follow these steps to configure the pre-commit hook via command line:
 

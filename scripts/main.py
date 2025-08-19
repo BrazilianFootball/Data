@@ -22,7 +22,7 @@ if __name__ == "__main__":
         ("Serie_D", "542"),
     ]
 
-    if now.strftime("%d") == "04":
+    if now.strftime("%d") == "18":
         for file in glob("./processed/*.json"):
             os.remove(file)
         min_year = 2013
