@@ -27,7 +27,7 @@ This repository is organized in three main folders:
 |Brazil Cup (2022)|    122    |     122     |
 |Brazil Cup (2023)|    122    |     122     |
 |Brazil Cup (2024)|    122    |     122     |
-|Brazil Cup (2025)|    107    |     107     |
+|Brazil Cup (2025)|    116    |     115     |
 |  Serie A (2013) |    380    |     380     |
 |  Serie A (2014) |    380    |     380     |
 |  Serie A (2015) |    380    |     380     |
@@ -40,7 +40,7 @@ This repository is organized in three main folders:
 |  Serie A (2022) |    380    |     380     |
 |  Serie A (2023) |    380    |     380     |
 |  Serie A (2024) |    380    |     380     |
-|  Serie A (2025) |    200    |     188     |
+|  Serie A (2025) |    310    |     307     |
 |  Serie B (2013) |    380    |     380     |
 |  Serie B (2014) |    380    |     379     |
 |  Serie B (2015) |    380    |     380     |
@@ -53,7 +53,7 @@ This repository is organized in three main folders:
 |  Serie B (2022) |    380    |     380     |
 |  Serie B (2023) |    380    |     380     |
 |  Serie B (2024) |    380    |     379     |
-|  Serie B (2025) |    220    |     215     |
+|  Serie B (2025) |    349    |     344     |
 |  Serie C (2013) |    220    |     213     |
 |  Serie C (2014) |    194    |     194     |
 |  Serie C (2015) |    194    |     194     |
@@ -66,7 +66,7 @@ This repository is organized in three main folders:
 |  Serie C (2022) |    216    |     216     |
 |  Serie C (2023) |    216    |     216     |
 |  Serie C (2024) |    216    |     216     |
-|  Serie C (2025) |    170    |     168     |
+|  Serie C (2025) |    216    |     214     |
 |  Serie D (2013) |    190    |     190     |
 |  Serie D (2014) |    200    |     195     |
 |  Serie D (2015) |    190    |     190     |
@@ -79,7 +79,7 @@ This repository is organized in three main folders:
 |  Serie D (2022) |    510    |     510     |
 |  Serie D (2023) |    510    |     510     |
 |  Serie D (2024) |    510    |     508     |
-|  Serie D (2025) |    488    |     485     |
+|  Serie D (2025) |    510    |     507     |
 
 Follow these steps to configure the pre-commit hook via command line:
 

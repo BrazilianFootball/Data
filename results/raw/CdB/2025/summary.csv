@@ -64,7 +64,7 @@ Game,Home,Away,Date,Time,Stadium
 063,Paysandu / PA,Bahia / BA,30/04/2025,21:30,Olímpico do Pará / Belem
 064,Botafogo / RJ,Capital / DF,30/04/2025,19:00,Nilton Santos / Rio de Janeiro
 065,Internacional / RS,Maracana / CE,29/04/2025,19:00,José Pinheiro Borda / Porto Alegre
-066,Retrô / PE,Fortaleza Ec / CE,29/04/2025,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+066,Retrô / PE,Fortaleza / CE,29/04/2025,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 067,Brusque / SC,Athletico Paranaense / PR,01/05/2025,16:00,Arena Joinville / Joinville
 068,Ceará / CE,Palmeiras / SP,30/04/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
 069,Maringa / PR,Atlético Mineiro / MG,29/04/2025,19:30,Willie Davids / Maringa
@@ -80,7 +80,7 @@ Game,Home,Away,Date,Time,Stadium
 079,Bahia / BA,Paysandu / PA,21/05/2025,19:30,Octávio Mangabeira / Salvador
 080,Capital / DF,Botafogo / RJ,22/05/2025,21:30,Estádio Nacional Mané Garrincha / Brasilia
 081,Maracana / CE,Internacional / RS,22/05/2025,19:00,Orlando Scarpelli / Florianopolis
-082,Fortaleza Ec / CE,Retrô / PE,21/05/2025,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+082,Fortaleza / CE,Retrô / PE,21/05/2025,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
 083,Athletico Paranaense / PR,Brusque / SC,20/05/2025,19:30,Ligga Arena / Curitiba
 084,Palmeiras / SP,Ceará / CE,22/05/2025,19:30,Allianz Parque / Sao Paulo
 085,Atlético Mineiro / MG,Maringa / PR,21/05/2025,21:30,ARENA MRV / Belo Horizonte
@@ -106,3 +106,11 @@ Game,Home,Away,Date,Time,Stadium
 105,CRB / AL,Cruzeiro / MG,07/08/2025,21:00,Rei Pelé / Maceio
 106,Vasco da Gama / RJ,CSA / AL,07/08/2025,20:00,São Januário / Rio de Janeiro
 107,Palmeiras / SP,Corinthians / SP,06/08/2025,21:30,Allianz Parque / Sao Paulo
+109,Atlético Mineiro / MG,Cruzeiro / MG,27/08/2025,19:30,ARENA MRV / Belo Horizonte
+110,Athletico Paranaense / PR,Corinthians / SP,27/08/2025,21:30,Ligga Arena / Curitiba
+111,Vasco da Gama / RJ,Botafogo / RJ,27/08/2025,21:30,São Januário / Rio de Janeiro
+112,Bahia / BA,Fluminense / RJ,28/08/2025,19:30,Octávio Mangabeira / Salvador
+113,Cruzeiro / MG,Atlético Mineiro / MG,11/09/2025,19:30,Magalhães Pinto / Belo Horizonte
+114,Corinthians / SP,Athletico Paranaense / PR,10/09/2025,21:30,Arena Corinthians / Sao Paulo
+115,Botafogo / RJ,Vasco da Gama / RJ,11/09/2025,21:30,Nilton Santos / Rio de Janeiro
+116,Fluminense / RJ,Bahia / BA,10/09/2025,19:00,Jornalista Mário Filho / Rio de Janeiro

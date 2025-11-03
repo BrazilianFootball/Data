@@ -163,6 +163,9 @@ def treat_club(club):
     club = club.replace("Cse / AL", "CSE / AL")
     club = club.replace("Ca Patrocinense / MG", "Atlético Patrocinense / MG")
     club = club.replace("Atlético / GO", "Atlético Goianiense / GO")
+    club = club.replace("Fortaleza Ec / CE", "Fortaleza / CE")
+    club = club.replace("CORINTHIANS / SP", "Corinthians / SP")
+    club = club = club.replace("Sport Recife / PE", "Sport / PE")
 
     return club
 

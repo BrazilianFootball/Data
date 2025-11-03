@@ -167,3 +167,49 @@ Game,Home,Away,Date,Time,Stadium
 168,Brusque / SC,Londrina / PR,17/08/2025,16:30,Augusto Bauer / Brusque
 169,CSA / AL,Ituano / SP,16/08/2025,19:30,Rei Pelé / Maceio
 170,ABC / RN,Guarani / SP,16/08/2025,19:30,Maria Lamas Farache / Natal
+171,Retrô / PE,ABC / RN,24/08/2025,19:00,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
+172,Itabaiana / SE,Maringa / PR,24/08/2025,16:30,Etelvino Mendonça / Itabaiana
+173,Guarani / SP,Confiança / SE,25/08/2025,19:30,Brinco de Ouro da Princesa / Campinas
+174,Ituano / SP,Ypiranga / RS,23/08/2025,17:00,Novelli Junior / Itu
+175,Sao Bernardo / SP,Náutico / PE,24/08/2025,19:00,1º de Maio / Sao Bernardo do Campo
+176,Londrina / PR,Anápolis / GO,24/08/2025,16:30,Vitorino Gonçalves Dias / Londrina
+177,Caxias / RS,Brusque / SC,23/08/2025,17:00,Francisco Stédile / Caxias do Sul
+178,Figueirense / SC,Floresta / CE,23/08/2025,19:30,Orlando Scarpelli / Florianopolis
+179,CSA / AL,Ponte Preta / SP,25/08/2025,19:30,Rei Pelé / Maceio
+180,Botafogo Pb / PB,Tombense / MG,24/08/2025,19:00,José Américo de Almeida Filho / Joao Pessoa
+181,Náutico / PE,Ituano / SP,30/08/2025,17:00,Eládio de Barros Carvalho / Recife
+182,Ponte Preta / SP,Londrina / PR,30/08/2025,17:00,Moisés Lucarelli / Campinas
+183,Confiança / SE,Retrô / PE,30/08/2025,17:00,Lourival Baptista / Aracaju
+184,Tombense / MG,Guarani / SP,30/08/2025,17:00,Antônio Guimarães de Almeida / Tombos
+185,Anápolis / GO,Botafogo Pb / PB,30/08/2025,17:00,Jonas Ferreira Duarte / Anapolis
+186,Maringa / PR,Caxias / RS,30/08/2025,17:00,Willie Davids / Maringa
+187,Ypiranga / RS,Figueirense / SC,30/08/2025,17:00,Colosso da Lagoa / Erechim
+188,Brusque / SC,CSA / AL,30/08/2025,17:00,Augusto Bauer / Brusque
+189,Floresta / CE,Sao Bernardo / SP,30/08/2025,17:00,Horácio Domingos de Sousa / Horizonte
+190,ABC / RN,Itabaiana / SE,30/08/2025,17:00,Maria Lamas Farache / Natal
+191,Floresta / CE,Caxias / RS,07/09/2025,16:30,Horácio Domingos de Sousa / Horizonte
+192,Sao Bernardo / SP,Londrina / PR,06/09/2025,19:30,1º de Maio / Sao Bernardo do Campo
+193,Guarani / SP,Ponte Preta / SP,06/09/2025,17:00,Brinco de Ouro da Princesa / Campinas
+194,Brusque / SC,Náutico / PE,07/09/2025,19:00,Augusto Bauer / Brusque
+195,Caxias / RS,Sao Bernardo / SP,13/09/2025,19:30,Francisco Stédile / Caxias do Sul
+196,Londrina / PR,Floresta / CE,14/09/2025,16:30,Vitorino Gonçalves Dias / Londrina
+197,Ponte Preta / SP,Brusque / SC,14/09/2025,19:00,Moisés Lucarelli / Campinas
+198,Náutico / PE,Guarani / SP,13/09/2025,17:00,Eládio de Barros Carvalho / Recife
+199,Londrina / PR,Caxias / RS,20/09/2025,19:30,Vitorino Gonçalves Dias / Londrina
+200,Floresta / CE,Sao Bernardo / SP,21/09/2025,16:30,Horácio Domingos de Sousa / Horizonte
+201,Náutico / PE,Ponte Preta / SP,20/09/2025,17:00,Eládio de Barros Carvalho / Recife
+202,Guarani / SP,Brusque / SC,21/09/2025,19:00,Brinco de Ouro da Princesa / Campinas
+203,Caxias / RS,Londrina / PR,28/09/2025,19:00,Francisco Stédile / Caxias do Sul
+204,Sao Bernardo / SP,Floresta / CE,28/09/2025,16:30,1º de Maio / Sao Bernardo do Campo
+205,Ponte Preta / SP,Náutico / PE,27/09/2025,17:00,Moisés Lucarelli / Campinas
+206,Brusque / SC,Guarani / SP,27/09/2025,19:30,Augusto Bauer / Brusque
+207,Sao Bernardo / SP,Caxias / RS,05/10/2025,19:00,1º de Maio / Sao Bernardo do Campo
+208,Floresta / CE,Londrina / PR,05/10/2025,16:30,Horácio Domingos de Sousa / Horizonte
+209,Brusque / SC,Ponte Preta / SP,04/10/2025,19:30,Augusto Bauer / Brusque
+210,Guarani / SP,Náutico / PE,04/10/2025,17:00,Brinco de Ouro da Princesa / Campinas
+211,Caxias / RS,Floresta / CE,11/10/2025,17:00,Francisco Stédile / Caxias do Sul
+212,Londrina / PR,Sao Bernardo / SP,11/10/2025,17:00,Vitorino Gonçalves Dias / Londrina
+213,Ponte Preta / SP,Guarani / SP,11/10/2025,17:00,Moisés Lucarelli / Campinas
+214,Náutico / PE,Brusque / SC,11/10/2025,17:00,Eládio de Barros Carvalho / Recife
+215,Londrina / PR,Ponte Preta / SP,18/10/2025,17:00,Vitorino Gonçalves Dias / Londrina
+216,Ponte Preta / SP,Londrina / PR,25/10/2025,17:00,Moisés Lucarelli / Campinas

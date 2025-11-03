@@ -13,7 +13,7 @@ Game,Home,Away,Date,Time,Stadium
 012,Botafogo / RJ,Juventude / RS,05/04/2025,21:00,Nilton Santos / Rio de Janeiro
 013,Corinthians / SP,Vasco da Gama / RJ,05/04/2025,18:30,Arena Corinthians / Sao Paulo
 014,Santos / SP,Bahia / BA,06/04/2025,20:30,Urbano Caldeira / Santos
-015,Mirassol / SP,Fortaleza Ec / CE,06/04/2025,18:30,José Maria de Campos Maia / Mirassol
+015,Mirassol / SP,Fortaleza / CE,06/04/2025,18:30,José Maria de Campos Maia / Mirassol
 016,Atlético Mineiro / MG,São Paulo / SP,06/04/2025,16:00,Magalhães Pinto / Belo Horizonte
 017,Internacional / RS,Cruzeiro / MG,06/04/2025,18:30,José Pinheiro Borda / Porto Alegre
 018,Vitória / BA,Flamengo / RJ,06/04/2025,18:30,Manoel Barradas / Salvador
@@ -27,7 +27,7 @@ Game,Home,Away,Date,Time,Stadium
 026,Atlético Mineiro / MG,Vitória / BA,13/04/2025,20:30,Magalhães Pinto / Belo Horizonte
 027,Grêmio / RS,Flamengo / RJ,13/04/2025,17:30,Arena do Grêmio / Porto Alegre
 028,Bahia / BA,Mirassol / SP,13/04/2025,16:00,Octávio Mangabeira / Salvador
-029,Fortaleza Ec / CE,Internacional / RS,13/04/2025,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
+029,Fortaleza / CE,Internacional / RS,13/04/2025,20:00,Governador Plácido Aderaldo Castelo / Fortaleza
 030,Juventude / RS,Ceará / CE,12/04/2025,16:00,Alfredo Jaconi / Caxias do Sul
 031,Flamengo / RJ,Juventude / RS,16/04/2025,21:30,Jornalista Mário Filho / Rio de Janeiro
 032,Botafogo / RJ,São Paulo / SP,16/04/2025,18:30,Nilton Santos / Rio de Janeiro
@@ -36,7 +36,7 @@ Game,Home,Away,Date,Time,Stadium
 035,Mirassol / SP,Grêmio / RS,16/04/2025,19:00,José Maria de Campos Maia / Mirassol
 036,Cruzeiro / MG,Bahia / BA,17/04/2025,21:30,Magalhães Pinto / Belo Horizonte
 037,Internacional / RS,Palmeiras / SP,16/04/2025,19:30,José Pinheiro Borda / Porto Alegre
-038,Vitória / BA,Fortaleza Ec / CE,16/04/2025,21:30,Manoel Barradas / Salvador
+038,Vitória / BA,Fortaleza / CE,16/04/2025,21:30,Manoel Barradas / Salvador
 039,Ceará / CE,Vasco da Gama / RJ,15/04/2025,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
 040,Sport / PE,Red Bull Bragantino / SP,16/04/2025,19:00,Adelmar da Costa Carvalho / Recife
 041,Fluminense / RJ,Vitória / BA,20/04/2025,18:30,Jornalista Mário Filho / Rio de Janeiro
@@ -47,7 +47,7 @@ Game,Home,Away,Date,Time,Stadium
 046,Atlético Mineiro / MG,Botafogo / RJ,20/04/2025,16:00,Magalhães Pinto / Belo Horizonte
 047,Grêmio / RS,Internacional / RS,19/04/2025,21:00,Arena do Grêmio / Porto Alegre
 048,Bahia / BA,Ceará / CE,21/04/2025,20:00,Octávio Mangabeira / Salvador
-049,Fortaleza Ec / CE,Palmeiras / SP,20/04/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+049,Fortaleza / CE,Palmeiras / SP,20/04/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
 050,Juventude / RS,Mirassol / SP,20/04/2025,11:00,Alfredo Jaconi / Caxias do Sul
 051,Flamengo / RJ,Corinthians / SP,27/04/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
 052,Botafogo / RJ,Fluminense / RJ,26/04/2025,21:00,Nilton Santos / Rio de Janeiro
@@ -58,11 +58,11 @@ Game,Home,Away,Date,Time,Stadium
 057,Internacional / RS,Juventude / RS,26/04/2025,16:00,José Pinheiro Borda / Porto Alegre
 058,Vitória / BA,Grêmio / RS,27/04/2025,18:30,Manoel Barradas / Salvador
 059,Ceará / CE,São Paulo / SP,26/04/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
-060,Sport / PE,Fortaleza Ec / CE,26/04/2025,20:00,Adelmar da Costa Carvalho / Recife
+060,Sport / PE,Fortaleza / CE,26/04/2025,20:00,Adelmar da Costa Carvalho / Recife
 061,Fluminense / RJ,Sport / PE,03/05/2025,18:30,Jornalista Mário Filho / Rio de Janeiro
 062,Vasco da Gama / RJ,Palmeiras / SP,04/05/2025,16:00,Estádio Nacional Mané Garrincha / Brasilia
 063,Corinthians / SP,Internacional / RS,03/05/2025,18:30,Arena Corinthians / Sao Paulo
-064,São Paulo / SP,Fortaleza Ec / CE,02/05/2025,21:30,Cícero Pompeu de Toledo / Sao Paulo
+064,São Paulo / SP,Fortaleza / CE,02/05/2025,21:30,Cícero Pompeu de Toledo / Sao Paulo
 065,Red Bull Bragantino / SP,Mirassol / SP,05/05/2025,19:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
 066,Cruzeiro / MG,Flamengo / RJ,04/05/2025,18:30,Magalhães Pinto / Belo Horizonte
 067,Grêmio / RS,Santos / SP,04/05/2025,16:00,Arena do Grêmio / Porto Alegre
@@ -77,10 +77,10 @@ Game,Home,Away,Date,Time,Stadium
 076,Atlético Mineiro / MG,Fluminense / RJ,11/05/2025,17:30,ARENA MRV / Belo Horizonte
 077,Grêmio / RS,Red Bull Bragantino / SP,10/05/2025,18:30,Arena do Grêmio / Porto Alegre
 078,Vitória / BA,Vasco da Gama / RJ,10/05/2025,18:30,Manoel Barradas / Salvador
-079,Fortaleza Ec / CE,Juventude / RS,10/05/2025,16:00,Presidente Vargas / Fortaleza
+079,Fortaleza / CE,Juventude / RS,10/05/2025,16:00,Presidente Vargas / Fortaleza
 080,Sport / PE,Cruzeiro / MG,11/05/2025,16:00,Adelmar da Costa Carvalho / Recife
 081,Flamengo / RJ,Botafogo / RJ,18/05/2025,18:30,Jornalista Mário Filho / Rio de Janeiro
-082,Vasco da Gama / RJ,Fortaleza Ec / CE,17/05/2025,18:30,São Januário / Rio de Janeiro
+082,Vasco da Gama / RJ,Fortaleza / CE,17/05/2025,18:30,São Januário / Rio de Janeiro
 083,Corinthians / SP,Santos / SP,18/05/2025,16:00,Arena Corinthians / Sao Paulo
 084,São Paulo / SP,Grêmio / RS,17/05/2025,21:00,Cícero Pompeu de Toledo / Sao Paulo
 085,Red Bull Bragantino / SP,Palmeiras / SP,18/05/2025,18:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
@@ -97,11 +97,11 @@ Game,Home,Away,Date,Time,Stadium
 096,Atlético Mineiro / MG,Corinthians / SP,24/05/2025,21:00,ARENA MRV / Belo Horizonte
 097,Grêmio / RS,Bahia / BA,25/05/2025,11:00,Arena do Grêmio / Porto Alegre
 098,Vitória / BA,Santos / SP,25/05/2025,18:30,Manoel Barradas / Salvador
-099,Fortaleza Ec / CE,Cruzeiro / MG,25/05/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+099,Fortaleza / CE,Cruzeiro / MG,25/05/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
 100,Sport / PE,Internacional / RS,25/05/2025,16:00,Adelmar da Costa Carvalho / Recife
-101,Flamengo / RJ,Fortaleza Ec / CE,01/06/2025,18:30,Jornalista Mário Filho / Rio de Janeiro
+101,Flamengo / RJ,Fortaleza / CE,01/06/2025,18:30,Jornalista Mário Filho / Rio de Janeiro
 102,Vasco da Gama / RJ,Red Bull Bragantino / SP,31/05/2025,21:00,São Januário / Rio de Janeiro
-103,CORINTHIANS / SP,Vitória / BA,01/06/2025,18:30,Arena Corinthians / Sao Paulo
+103,Corinthians / SP,Vitória / BA,01/06/2025,18:30,Arena Corinthians / Sao Paulo
 104,Santos / SP,Botafogo / RJ,01/06/2025,16:00,Urbano Caldeira / Santos
 105,Mirassol / SP,Sport / PE,01/06/2025,11:00,José Maria de Campos Maia / Mirassol
 106,Cruzeiro / MG,Palmeiras / SP,01/06/2025,19:30,Magalhães Pinto / Belo Horizonte
@@ -109,27 +109,34 @@ Game,Home,Away,Date,Time,Stadium
 108,Bahia / BA,São Paulo / SP,31/05/2025,18:30,Octávio Mangabeira / Salvador
 109,Ceará / CE,Atlético Mineiro / MG,01/06/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
 110,Juventude / RS,Grêmio / RS,01/06/2025,16:00,Alfredo Jaconi / Caxias do Sul
+111,Fluminense / RJ,Ceará / CE,29/10/2025,19:00,Jornalista Mário Filho / Rio de Janeiro
+112,Botafogo / RJ,Mirassol / SP,17/09/2025,19:30,Nilton Santos / Rio de Janeiro
+113,Palmeiras / SP,Juventude / RS,11/10/2025,19:00,Allianz Parque / Sao Paulo
 114,São Paulo / SP,Vasco da Gama / RJ,12/06/2025,21:30,Cícero Pompeu de Toledo / Sao Paulo
 115,Red Bull Bragantino / SP,Bahia / BA,12/06/2025,19:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
 116,Atlético Mineiro / MG,Internacional / RS,12/06/2025,21:30,ARENA MRV / Belo Horizonte
 117,Grêmio / RS,Corinthians / SP,12/06/2025,20:00,Arena do Grêmio / Porto Alegre
 118,Vitória / BA,Cruzeiro / MG,12/06/2025,19:00,Manoel Barradas / Salvador
-119,Fortaleza Ec / CE,Santos / SP,12/06/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+119,Fortaleza / CE,Santos / SP,12/06/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
 121,Flamengo / RJ,São Paulo / SP,12/07/2025,16:30,Jornalista Mário Filho / Rio de Janeiro
 122,Vasco da Gama / RJ,Botafogo / RJ,12/07/2025,18:30,Estádio Nacional Mané Garrincha / Brasilia
 123,Corinthians / SP,Red Bull Bragantino / SP,13/07/2025,19:00,Arena Corinthians / Sao Paulo
+125,Mirassol / SP,Fluminense / RJ,08/10/2025,21:00,José Maria de Campos Maia / Mirassol
 126,Cruzeiro / MG,Grêmio / RS,13/07/2025,20:30,Magalhães Pinto / Belo Horizonte
 127,Internacional / RS,Vitória / BA,12/07/2025,16:30,José Pinheiro Borda / Porto Alegre
 128,Bahia / BA,Atlético Mineiro / MG,12/07/2025,21:00,Octávio Mangabeira / Salvador
-129,Fortaleza Ec / CE,Ceará / CE,13/07/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+129,Fortaleza / CE,Ceará / CE,13/07/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
 130,Juventude / RS,Sport / PE,14/07/2025,20:00,Alfredo Jaconi / Caxias do Sul
 131,Fluminense / RJ,Cruzeiro / MG,17/07/2025,19:30,Jornalista Mário Filho / Rio de Janeiro
 132,Botafogo / RJ,Vitória / BA,16/07/2025,21:30,Nilton Santos / Rio de Janeiro
 133,Palmeiras / SP,Mirassol / SP,16/07/2025,19:00,Allianz Parque / Sao Paulo
 134,Santos / SP,Flamengo / RJ,16/07/2025,20:00,Urbano Caldeira / Santos
 135,Red Bull Bragantino / SP,São Paulo / SP,16/07/2025,21:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
-137,Grêmio / RS,Fortaleza Ec / CE,29/07/2025,20:30,Arena do Grêmio / Porto Alegre
+136,Atlético Mineiro / MG,Sport / PE,08/10/2025,19:00,ARENA MRV / Belo Horizonte
+137,Grêmio / RS,Fortaleza / CE,29/07/2025,20:30,Arena do Grêmio / Porto Alegre
+138,Bahia / BA,Internacional / RS,22/10/2025,19:00,Octávio Mangabeira / Salvador
 139,Ceará / CE,Corinthians / SP,16/07/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+140,Juventude / RS,Vasco da Gama / RJ,20/08/2025,19:00,Alfredo Jaconi / Caxias do Sul
 141,Flamengo / RJ,Fluminense / RJ,20/07/2025,19:30,Jornalista Mário Filho / Rio de Janeiro
 142,Vasco da Gama / RJ,Grêmio / RS,19/07/2025,17:30,São Januário / Rio de Janeiro
 143,Palmeiras / SP,Atlético Mineiro / MG,20/07/2025,17:30,Allianz Parque / Sao Paulo
@@ -138,12 +145,14 @@ Game,Home,Away,Date,Time,Stadium
 146,Cruzeiro / MG,Juventude / RS,20/07/2025,16:00,Magalhães Pinto / Belo Horizonte
 147,Internacional / RS,Ceará / CE,20/07/2025,11:00,José Pinheiro Borda / Porto Alegre
 148,Vitória / BA,Red Bull Bragantino / SP,20/07/2025,16:00,Manoel Barradas / Salvador
-149,Fortaleza Ec / CE,Bahia / BA,19/07/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+149,Fortaleza / CE,Bahia / BA,19/07/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
 150,Sport / PE,Botafogo / RJ,20/07/2025,17:30,Adelmar da Costa Carvalho / Recife
 151,Fluminense / RJ,Palmeiras / SP,23/07/2025,19:00,Jornalista Mário Filho / Rio de Janeiro
+152,Vasco da Gama / RJ,Bahia / BA,24/09/2025,19:30,São Januário / Rio de Janeiro
 153,Corinthians / SP,Cruzeiro / MG,23/07/2025,19:30,Arena Corinthians / Sao Paulo
 154,Santos / SP,Internacional / RS,23/07/2025,21:30,Urbano Caldeira / Santos
 155,Red Bull Bragantino / SP,Flamengo / RJ,23/07/2025,21:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+157,Grêmio / RS,Botafogo / RJ,24/09/2025,19:30,Arena do Grêmio / Porto Alegre
 158,Vitória / BA,Sport / PE,23/07/2025,21:30,Manoel Barradas / Salvador
 159,Ceará / CE,Mirassol / SP,23/07/2025,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
 160,Juventude / RS,São Paulo / SP,24/07/2025,19:00,Alfredo Jaconi / Caxias do Sul
@@ -155,11 +164,11 @@ Game,Home,Away,Date,Time,Stadium
 166,Cruzeiro / MG,Ceará / CE,27/07/2025,16:00,Magalhães Pinto / Belo Horizonte
 167,Internacional / RS,Vasco da Gama / RJ,27/07/2025,18:30,José Pinheiro Borda / Porto Alegre
 168,Bahia / BA,Juventude / RS,27/07/2025,18:30,Octávio Mangabeira / Salvador
-169,Fortaleza Ec / CE,Red Bull Bragantino / SP,26/07/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+169,Fortaleza / CE,Red Bull Bragantino / SP,26/07/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
 170,Sport / PE,Santos / SP,26/07/2025,18:30,Adelmar da Costa Carvalho / Recife
 171,Fluminense / RJ,Grêmio / RS,02/08/2025,21:00,Jornalista Mário Filho / Rio de Janeiro
 172,Botafogo / RJ,Cruzeiro / MG,03/08/2025,16:00,Nilton Santos / Rio de Janeiro
-173,Corinthians / SP,Fortaleza Ec / CE,03/08/2025,16:00,Arena Corinthians / Sao Paulo
+173,Corinthians / SP,Fortaleza / CE,03/08/2025,16:00,Arena Corinthians / Sao Paulo
 174,Santos / SP,Juventude / RS,04/08/2025,20:00,Cícero Pompeu de Toledo / Sao Paulo
 175,Mirassol / SP,Vasco da Gama / RJ,02/08/2025,18:30,José Maria de Campos Maia / Mirassol
 176,Atlético Mineiro / MG,Red Bull Bragantino / SP,03/08/2025,18:30,ARENA MRV / Belo Horizonte
@@ -175,9 +184,9 @@ Game,Home,Away,Date,Time,Stadium
 186,Cruzeiro / MG,Santos / SP,10/08/2025,18:30,Magalhães Pinto / Belo Horizonte
 187,Grêmio / RS,Sport / PE,10/08/2025,20:30,Arena do Grêmio / Porto Alegre
 188,Bahia / BA,Fluminense / RJ,09/08/2025,21:00,Octávio Mangabeira / Salvador
-189,Fortaleza Ec / CE,Botafogo / RJ,09/08/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+189,Fortaleza / CE,Botafogo / RJ,09/08/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
 190,Juventude / RS,Corinthians / SP,11/08/2025,20:00,Alfredo Jaconi / Caxias do Sul
-191,Fluminense / RJ,Fortaleza Ec / CE,16/08/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
+191,Fluminense / RJ,Fortaleza / CE,16/08/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
 192,Botafogo / RJ,Palmeiras / SP,17/08/2025,20:30,Nilton Santos / Rio de Janeiro
 193,Corinthians / SP,Bahia / BA,16/08/2025,21:00,Arena Corinthians / Sao Paulo
 194,Santos / SP,Vasco da Gama / RJ,17/08/2025,16:00,Cícero Pompeu de Toledo / Sao Paulo
@@ -187,3 +196,113 @@ Game,Home,Away,Date,Time,Stadium
 198,Vitória / BA,Juventude / RS,16/08/2025,18:30,Manoel Barradas / Salvador
 199,Ceará / CE,Red Bull Bragantino / SP,16/08/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
 200,Sport / PE,São Paulo / SP,16/08/2025,18:30,Adelmar da Costa Carvalho / Recife
+201,Flamengo / RJ,Vitória / BA,25/08/2025,21:00,Jornalista Mário Filho / Rio de Janeiro
+202,Vasco da Gama / RJ,Corinthians / SP,24/08/2025,16:00,São Januário / Rio de Janeiro
+203,Palmeiras / SP,Sport / PE,25/08/2025,19:00,Allianz Parque / Sao Paulo
+204,São Paulo / SP,Atlético Mineiro / MG,24/08/2025,20:30,Cícero Pompeu de Toledo / Sao Paulo
+205,Red Bull Bragantino / SP,Fluminense / RJ,23/08/2025,16:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+206,Cruzeiro / MG,Internacional / RS,23/08/2025,18:30,Magalhães Pinto / Belo Horizonte
+207,Grêmio / RS,Ceará / CE,23/08/2025,21:00,Arena do Grêmio / Porto Alegre
+208,Bahia / BA,Santos / SP,24/08/2025,16:00,Octávio Mangabeira / Salvador
+209,Fortaleza / CE,Mirassol / SP,24/08/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+210,Juventude / RS,Botafogo / RJ,24/08/2025,18:30,Alfredo Jaconi / Caxias do Sul
+211,Flamengo / RJ,Grêmio / RS,31/08/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
+212,Botafogo / RJ,Red Bull Bragantino / SP,30/08/2025,18:30,Nilton Santos / Rio de Janeiro
+213,Corinthians / SP,Palmeiras / SP,31/08/2025,18:30,Arena Corinthians / Sao Paulo
+214,Santos / SP,Fluminense / RJ,31/08/2025,16:00,Urbano Caldeira / Santos
+215,Mirassol / SP,Bahia / BA,31/08/2025,18:30,José Maria de Campos Maia / Mirassol
+216,Cruzeiro / MG,São Paulo / SP,30/08/2025,21:00,Magalhães Pinto / Belo Horizonte
+217,Internacional / RS,Fortaleza / CE,31/08/2025,20:30,José Pinheiro Borda / Porto Alegre
+218,Vitória / BA,Atlético Mineiro / MG,31/08/2025,18:30,Manoel Barradas / Salvador
+219,Ceará / CE,Juventude / RS,30/08/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+220,Sport / PE,Vasco da Gama / RJ,31/08/2025,20:30,Adelmar da Costa Carvalho / Recife
+221,Fluminense / RJ,Corinthians / SP,13/09/2025,21:00,Jornalista Mário Filho / Rio de Janeiro
+222,Vasco da Gama / RJ,Ceará / CE,14/09/2025,20:30,São Januário / Rio de Janeiro
+223,Palmeiras / SP,Internacional / RS,13/09/2025,18:30,Allianz Parque / Sao Paulo
+224,São Paulo / SP,Botafogo / RJ,14/09/2025,17:30,Cícero Pompeu de Toledo / Sao Paulo
+225,Red Bull Bragantino / SP,Sport / PE,14/09/2025,11:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+226,Atlético Mineiro / MG,Santos / SP,14/09/2025,16:00,ARENA MRV / Belo Horizonte
+227,Grêmio / RS,Mirassol / SP,13/09/2025,16:00,Arena do Grêmio / Porto Alegre
+228,Bahia / BA,Cruzeiro / MG,15/09/2025,20:00,Octávio Mangabeira / Salvador
+229,Fortaleza / CE,Vitória / BA,13/09/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+230,Juventude / RS,Flamengo / RJ,14/09/2025,16:00,Alfredo Jaconi / Caxias do Sul
+231,Flamengo / RJ,Vasco da Gama / RJ,21/09/2025,17:30,Jornalista Mário Filho / Rio de Janeiro
+232,Botafogo / RJ,Atlético Mineiro / MG,20/09/2025,18:30,Nilton Santos / Rio de Janeiro
+233,Palmeiras / SP,Fortaleza / CE,20/09/2025,21:00,Allianz Parque / Sao Paulo
+234,Santos / SP,São Paulo / SP,21/09/2025,20:30,Urbano Caldeira / Santos
+235,Mirassol / SP,Juventude / RS,21/09/2025,16:00,José Maria de Campos Maia / Mirassol
+236,Cruzeiro / MG,Red Bull Bragantino / SP,21/09/2025,20:30,Magalhães Pinto / Belo Horizonte
+237,Internacional / RS,Grêmio / RS,21/09/2025,17:30,José Pinheiro Borda / Porto Alegre
+238,Vitória / BA,Fluminense / RJ,20/09/2025,16:00,Manoel Barradas / Salvador
+239,Ceará / CE,Bahia / BA,20/09/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+240,Sport / PE,Corinthians / SP,21/09/2025,17:30,Adelmar da Costa Carvalho / Recife
+241,Fluminense / RJ,Botafogo / RJ,28/09/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
+242,Vasco da Gama / RJ,Cruzeiro / MG,27/09/2025,18:30,São Januário / Rio de Janeiro
+243,Corinthians / SP,Flamengo / RJ,28/09/2025,20:30,Arena Corinthians / Sao Paulo
+244,São Paulo / SP,Ceará / CE,29/09/2025,20:00,Cícero Pompeu de Toledo / Sao Paulo
+245,Red Bull Bragantino / SP,Santos / SP,28/09/2025,18:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+246,Atlético Mineiro / MG,Mirassol / SP,27/09/2025,21:00,ARENA MRV / Belo Horizonte
+247,Grêmio / RS,Vitória / BA,28/09/2025,11:00,Arena do Grêmio / Porto Alegre
+248,Bahia / BA,Palmeiras / SP,28/09/2025,16:00,Octávio Mangabeira / Salvador
+249,Fortaleza / CE,Sport / PE,27/09/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+250,Juventude / RS,Internacional / RS,27/09/2025,18:30,Alfredo Jaconi / Caxias do Sul
+251,Flamengo / RJ,Cruzeiro / MG,02/10/2025,20:30,Jornalista Mário Filho / Rio de Janeiro
+252,Botafogo / RJ,Bahia / BA,01/10/2025,21:30,Nilton Santos / Rio de Janeiro
+253,Palmeiras / SP,Vasco da Gama / RJ,01/10/2025,19:00,Allianz Parque / Sao Paulo
+254,Santos / SP,Grêmio / RS,01/10/2025,21:30,Urbano Caldeira / Santos
+255,Mirassol / SP,Red Bull Bragantino / SP,01/10/2025,19:00,José Maria de Campos Maia / Mirassol
+256,Atlético Mineiro / MG,Juventude / RS,30/09/2025,21:30,ARENA MRV / Belo Horizonte
+257,Internacional / RS,Corinthians / SP,01/10/2025,19:30,José Pinheiro Borda / Porto Alegre
+258,Vitória / BA,Ceará / CE,02/10/2025,19:00,Manoel Barradas / Salvador
+259,Fortaleza / CE,São Paulo / SP,02/10/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+260,Sport / PE,Fluminense / RJ,01/10/2025,19:00,Adelmar da Costa Carvalho / Recife
+261,Fluminense / RJ,Atlético Mineiro / MG,04/10/2025,18:30,Jornalista Mário Filho / Rio de Janeiro
+262,Vasco da Gama / RJ,Vitória / BA,05/10/2025,16:00,São Januário / Rio de Janeiro
+263,Corinthians / SP,Mirassol / SP,04/10/2025,21:00,Arena Corinthians / Sao Paulo
+264,São Paulo / SP,Palmeiras / SP,05/10/2025,16:00,Cícero Pompeu de Toledo / Sao Paulo
+265,Red Bull Bragantino / SP,Grêmio / RS,04/10/2025,18:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+266,Cruzeiro / MG,Sport / PE,05/10/2025,20:30,Magalhães Pinto / Belo Horizonte
+267,Internacional / RS,Botafogo / RJ,04/10/2025,18:30,José Pinheiro Borda / Porto Alegre
+268,Bahia / BA,Flamengo / RJ,05/10/2025,18:30,Octávio Mangabeira / Salvador
+269,Ceará / CE,Santos / SP,05/10/2025,20:30,Governador Plácido Aderaldo Castelo / Fortaleza
+270,Juventude / RS,Fortaleza / CE,05/10/2025,18:30,Alfredo Jaconi / Caxias do Sul
+271,Fluminense / RJ,Juventude / RS,16/10/2025,21:30,Jornalista Mário Filho / Rio de Janeiro
+272,Botafogo / RJ,Flamengo / RJ,15/10/2025,19:30,Nilton Santos / Rio de Janeiro
+273,Palmeiras / SP,Red Bull Bragantino / SP,15/10/2025,19:00,Allianz Parque / Sao Paulo
+274,Santos / SP,Corinthians / SP,15/10/2025,21:30,Urbano Caldeira / Santos
+275,Mirassol / SP,Internacional / RS,15/10/2025,20:00,José Maria de Campos Maia / Mirassol
+276,Atlético Mineiro / MG,Cruzeiro / MG,15/10/2025,21:30,ARENA MRV / Belo Horizonte
+277,Grêmio / RS,São Paulo / SP,16/10/2025,19:00,Arena do Grêmio / Porto Alegre
+278,Vitória / BA,Bahia / BA,16/10/2025,21:30,Manoel Barradas / Salvador
+279,Fortaleza / CE,Vasco da Gama / RJ,15/10/2025,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+280,Sport / PE,Ceará / CE,15/10/2025,20:00,Adelmar da Costa Carvalho / Recife
+281,Flamengo / RJ,Palmeiras / SP,19/10/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
+282,Vasco da Gama / RJ,Fluminense / RJ,20/10/2025,19:30,Jornalista Mário Filho / Rio de Janeiro
+283,Corinthians / SP,Atlético Mineiro / MG,18/10/2025,18:30,Arena Corinthians / Sao Paulo
+284,Santos / SP,Vitória / BA,20/10/2025,21:30,Urbano Caldeira / Santos
+285,Mirassol / SP,São Paulo / SP,19/10/2025,18:30,José Maria de Campos Maia / Mirassol
+286,Cruzeiro / MG,Fortaleza / CE,18/10/2025,21:00,Magalhães Pinto / Belo Horizonte
+287,Internacional / RS,Sport / PE,19/10/2025,18:30,José Pinheiro Borda / Porto Alegre
+288,Bahia / BA,Grêmio / RS,19/10/2025,20:30,Octávio Mangabeira / Salvador
+289,Ceará / CE,Botafogo / RJ,19/10/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+290,Juventude / RS,Red Bull Bragantino / SP,20/10/2025,19:00,Alfredo Jaconi / Caxias do Sul
+291,Fluminense / RJ,Internacional / RS,25/10/2025,17:30,Jornalista Mário Filho / Rio de Janeiro
+292,Botafogo / RJ,Santos / SP,26/10/2025,16:00,Nilton Santos / Rio de Janeiro
+293,Palmeiras / SP,Cruzeiro / MG,26/10/2025,20:30,Allianz Parque / Sao Paulo
+294,São Paulo / SP,Bahia / BA,25/10/2025,21:30,Cícero Pompeu de Toledo / Sao Paulo
+295,Red Bull Bragantino / SP,Vasco da Gama / RJ,26/10/2025,18:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+296,Atlético Mineiro / MG,Ceará / CE,25/10/2025,16:00,ARENA MRV / Belo Horizonte
+297,Grêmio / RS,Juventude / RS,26/10/2025,16:00,Arena do Grêmio / Porto Alegre
+298,Vitória / BA,Corinthians / SP,25/10/2025,16:00,Manoel Barradas / Salvador
+299,Fortaleza / CE,Flamengo / RJ,25/10/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+300,Sport / PE,Mirassol / SP,25/10/2025,18:30,Adelmar da Costa Carvalho / Recife
+301,Flamengo / RJ,Sport / PE,01/11/2025,21:00,Jornalista Mário Filho / Rio de Janeiro
+302,Vasco da Gama / RJ,São Paulo / SP,02/11/2025,20:30,São Januário / Rio de Janeiro
+303,Corinthians / SP,Grêmio / RS,02/11/2025,16:00,Arena Corinthians / Sao Paulo
+304,Santos / SP,Fortaleza / CE,01/11/2025,16:00,Urbano Caldeira / Santos
+305,Mirassol / SP,Botafogo / RJ,01/11/2025,18:00,José Maria de Campos Maia / Mirassol
+306,Cruzeiro / MG,Vitória / BA,01/11/2025,16:00,Magalhães Pinto / Belo Horizonte
+307,Internacional / RS,Atlético Mineiro / MG,02/11/2025,18:30,José Pinheiro Borda / Porto Alegre
+308,Bahia / BA,Red Bull Bragantino / SP,02/11/2025,16:00,Octávio Mangabeira / Salvador
+309,Ceará / CE,Fluminense / RJ,02/11/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+310,Juventude / RS,Palmeiras / SP,02/11/2025,18:30,Alfredo Jaconi / Caxias do Sul

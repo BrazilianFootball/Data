@@ -210,7 +210,136 @@ Game,Home,Away,Date,Time,Stadium
 213,Atlético Goianiense / GO,Ferroviária / SP,17/08/2025,18:30,Antônio Accioly / Goiania
 214,Remo / PA,Botafogo / SP,16/08/2025,16:00,Olímpico do Pará / Belem
 215,Chapecoense / SC,Paysandu / PA,17/08/2025,16:00,Índio Condá / Chapeco
+216,Operário / PR,Avaí / SC,19/08/2025,19:30,Germano Kruger / Ponta Grossa
 217,Amazonas / AM,América / MG,15/08/2025,20:00,Carlos Zamith / Manaus
 218,Athletic / MG,Criciúma / SC,18/08/2025,21:00,Estádio Joaquim Portugal  / Sao Joao del Rei
 219,Gremio Novorizontino - / SP,Coritiba / PR,14/08/2025,21:35,Dr. Jorge Ismael de Biasi / Novo Horizonte
 220,Volta Redonda / RJ,CRB / AL,18/08/2025,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+221,Coritiba / PR,Remo / PA,23/08/2025,16:00,Major Antônio Couto Pereira / Curitiba
+222,Goiás / GO,América / MG,23/08/2025,18:00,Hailé Pinheiro / Goiania
+223,Cuiabá / MT,Atlético Goianiense / GO,24/08/2025,20:30,Arena Pantanal / Cuiaba
+224,Paysandu / PA,Operário / PR,24/08/2025,16:00,Leônidas Sobré de Castro / Belem
+225,Avaí / SC,Amazonas / AM,25/08/2025,21:30,Aderbal Ramos da Silva / Florianopolis
+226,Criciúma / SC,Gremio Novorizontino - / SP,22/08/2025,21:35,Heriberto Hulse / Criciuma
+227,CRB / AL,Athletico Paranaense / PR,23/08/2025,20:30,Rei Pelé / Maceio
+228,Athletic / MG,Chapecoense / SC,22/08/2025,19:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+229,Ferroviária / SP,Volta Redonda / RJ,24/08/2025,18:30,Ademar Pereira de Barros / Araraquara
+230,Botafogo / SP,Vila Nova / GO,25/08/2025,19:00,Santa Cruz / Ribeirao Preto
+231,Athletico Paranaense / PR,Gremio Novorizontino - / SP,30/08/2025,20:30,Ligga Arena / Curitiba
+232,Goiás / GO,Botafogo / SP,30/08/2025,18:30,Hailé Pinheiro / Goiania
+233,Atlético Goianiense / GO,Amazonas / AM,31/08/2025,16:00,Antônio Accioly / Goiania
+234,Remo / PA,Criciúma / SC,28/08/2025,21:35,Olímpico do Pará / Belem
+235,Chapecoense / SC,Vila Nova / GO,01/09/2025,19:00,Índio Condá / Chapeco
+236,Operário / PR,Coritiba / PR,29/08/2025,19:00,Germano Kruger / Ponta Grossa
+237,CRB / AL,Paysandu / PA,30/08/2025,16:00,Rei Pelé / Maceio
+238,América / MG,Avaí / SC,02/09/2025,19:30,Raimundo Sampaio / Belo Horizonte
+239,Ferroviária / SP,Cuiabá / MT,01/09/2025,21:30,Ademar Pereira de Barros / Araraquara
+240,Volta Redonda / RJ,Athletic / MG,31/08/2025,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+241,Coritiba / PR,Ferroviária / SP,05/09/2025,21:30,Major Antônio Couto Pereira / Curitiba
+242,Vila Nova / GO,Athletic / MG,08/09/2025,21:30,Onésio Brasileiro Alvarenga / Goiania
+243,Cuiabá / MT,CRB / AL,08/09/2025,20:00,Arena Pantanal / Cuiaba
+244,Paysandu / PA,Volta Redonda / RJ,05/09/2025,19:00,Olímpico do Pará / Belem
+245,Avaí / SC,Goiás / GO,07/09/2025,20:30,Aderbal Ramos da Silva / Florianopolis
+246,Criciúma / SC,Chapecoense / SC,07/09/2025,16:00,Heriberto Hulse / Criciuma
+247,Amazonas / AM,Remo / PA,05/09/2025,17:00,Carlos Zamith / Manaus
+248,América / MG,Operário / PR,07/09/2025,18:30,Raimundo Sampaio / Belo Horizonte
+249,Gremio Novorizontino - / SP,Atlético Goianiense / GO,08/09/2025,19:30,Dr. Jorge Ismael de Biasi / Novo Horizonte
+250,Botafogo / SP,Athletico Paranaense / PR,06/09/2025,16:00,Santa Cruz / Ribeirao Preto
+251,Coritiba / PR,Goiás / GO,12/09/2025,21:30,Major Antônio Couto Pereira / Curitiba
+252,Vila Nova / GO,Remo / PA,13/09/2025,18:30,Onésio Brasileiro Alvarenga / Goiania
+253,Atlético Goianiense / GO,Avaí / SC,16/09/2025,19:30,Antônio Accioly / Goiania
+254,Paysandu / PA,América / MG,13/09/2025,16:00,Olímpico do Pará / Belem
+255,Chapecoense / SC,Athletico Paranaense / PR,16/09/2025,21:35,Índio Condá / Chapeco
+256,Operário / PR,Cuiabá / MT,14/09/2025,16:00,Germano Kruger / Ponta Grossa
+257,CRB / AL,Amazonas / AM,15/09/2025,21:30,Rei Pelé / Maceio
+258,Athletic / MG,Botafogo / SP,14/09/2025,18:30,Estádio Joaquim Portugal  / Sao Joao del Rei
+259,Ferroviária / SP,Gremio Novorizontino - / SP,15/09/2025,19:00,Ademar Pereira de Barros / Araraquara
+260,Volta Redonda / RJ,Criciúma / SC,12/09/2025,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+261,Athletico Paranaense / PR,Vila Nova / GO,21/09/2025,19:00,Estádio Mario Celso Petraglia / Curitiba
+262,Goiás / GO,Paysandu / PA,20/09/2025,16:00,Hailé Pinheiro / Goiania
+263,Cuiabá / MT,Chapecoense / SC,21/09/2025,20:30,Arena Pantanal / Cuiaba
+264,Remo / PA,Atlético Goianiense / GO,20/09/2025,20:30,Evandro Almeida / Belem
+265,Avaí / SC,Ferroviária / SP,20/09/2025,18:30,Aderbal Ramos da Silva / Florianopolis
+266,Criciúma / SC,CRB / AL,21/09/2025,16:00,Heriberto Hulse / Criciuma
+267,Amazonas / AM,Volta Redonda / RJ,20/09/2025,18:30,Carlos Zamith / Manaus
+268,América / MG,Coritiba / PR,21/09/2025,16:00,Raimundo Sampaio / Belo Horizonte
+269,Gremio Novorizontino - / SP,Athletic / MG,19/09/2025,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+270,Botafogo / SP,Operário / PR,18/09/2025,19:00,Santa Cruz / Ribeirao Preto
+271,Coritiba / PR,Criciúma / SC,25/09/2025,19:00,Major Antônio Couto Pereira / Curitiba
+272,Vila Nova / GO,Cuiabá / MT,24/09/2025,19:00,Onésio Brasileiro Alvarenga / Goiania
+273,Atlético Goianiense / GO,América / MG,25/09/2025,21:30,Antônio Accioly / Goiania
+274,Paysandu / PA,Gremio Novorizontino - / SP,23/09/2025,19:30,Leônidas Sobré de Castro / Belem
+275,Chapecoense / SC,Avaí / SC,25/09/2025,21:35,Índio Condá / Chapeco
+276,Operário / PR,Amazonas / AM,24/09/2025,20:00,Germano Kruger / Ponta Grossa
+277,CRB / AL,Botafogo / SP,24/09/2025,19:00,Rei Pelé / Maceio
+278,Athletic / MG,Athletico Paranaense / PR,24/09/2025,19:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+279,Ferroviária / SP,Goiás / GO,23/09/2025,21:35,Ademar Pereira de Barros / Araraquara
+280,Volta Redonda / RJ,Remo / PA,24/09/2025,21:30,Sylvio Raulino de Oliveira / Volta Redonda
+281,Athletico Paranaense / PR,Operário / PR,27/09/2025,20:30,Estádio Mario Celso Petraglia / Curitiba
+282,Goiás / GO,Atlético Goianiense / GO,30/09/2025,21:35,Hailé Pinheiro / Goiania
+283,Cuiabá / MT,Athletic / MG,28/09/2025,20:30,Arena Pantanal / Cuiaba
+284,Remo / PA,CRB / AL,28/09/2025,18:00,Olímpico do Pará / Belem
+285,Avaí / SC,Coritiba / PR,29/09/2025,19:30,Aderbal Ramos da Silva / Florianopolis
+286,Criciúma / SC,Paysandu / PA,28/09/2025,16:00,Heriberto Hulse / Criciuma
+287,Amazonas / AM,Chapecoense / SC,29/09/2025,16:00,Carlos Zamith / Manaus
+288,América / MG,Volta Redonda / RJ,29/09/2025,19:00,Raimundo Sampaio / Belo Horizonte
+289,Gremio Novorizontino - / SP,Vila Nova / GO,28/09/2025,16:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+290,Botafogo / SP,Ferroviária / SP,28/09/2025,18:30,Santa Cruz / Ribeirao Preto
+291,Coritiba / PR,Botafogo / SP,03/10/2025,21:30,Major Antônio Couto Pereira / Curitiba
+292,Vila Nova / GO,Criciúma / SC,02/10/2025,21:30,Onésio Brasileiro Alvarenga / Goiania
+293,Atlético Goianiense / GO,Athletico Paranaense / PR,05/10/2025,20:30,Antônio Accioly / Goiania
+294,Paysandu / PA,Cuiabá / MT,02/10/2025,19:00,Leônidas Sobré de Castro / Belem
+295,Chapecoense / SC,Gremio Novorizontino - / SP,04/10/2025,16:00,Índio Condá / Chapeco
+296,Operário / PR,Remo / PA,05/10/2025,16:00,Germano Kruger / Ponta Grossa
+297,CRB / AL,Avaí / SC,03/10/2025,21:35,Rei Pelé / Maceio
+298,Athletic / MG,Amazonas / AM,03/10/2025,19:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+299,Ferroviária / SP,América / MG,04/10/2025,20:30,Ademar Pereira de Barros / Araraquara
+300,Volta Redonda / RJ,Goiás / GO,04/10/2025,18:30,Sylvio Raulino de Oliveira / Volta Redonda
+301,Coritiba / PR,Atlético Goianiense / GO,09/10/2025,19:30,Major Antônio Couto Pereira / Curitiba
+302,Goiás / GO,CRB / AL,07/10/2025,21:30,Hailé Pinheiro / Goiania
+303,Cuiabá / MT,Gremio Novorizontino - / SP,08/10/2025,19:00,Arena Pantanal / Cuiaba
+304,Remo / PA,Athletico Paranaense / PR,09/10/2025,21:35,Evandro Almeida / Belem
+305,Avaí / SC,Volta Redonda / RJ,08/10/2025,21:00,Aderbal Ramos da Silva / Florianopolis
+306,Operário / PR,Athletic / MG,08/10/2025,19:00,Germano Kruger / Ponta Grossa
+307,Amazonas / AM,Criciúma / SC,07/10/2025,20:00,Carlos Zamith / Manaus
+308,América / MG,Vila Nova / GO,08/10/2025,21:30,Raimundo Sampaio / Belo Horizonte
+309,Ferroviária / SP,Chapecoense / SC,09/10/2025,19:00,Ademar Pereira de Barros / Araraquara
+310,Botafogo / SP,Paysandu / PA,07/10/2025,21:35,Santa Cruz / Ribeirao Preto
+311,Athletico Paranaense / PR,Avaí / SC,14/10/2025,21:30,Estádio Mario Celso Petraglia / Curitiba
+312,Vila Nova / GO,Amazonas / AM,12/10/2025,18:30,Onésio Brasileiro Alvarenga / Goiania
+313,Cuiabá / MT,Coritiba / PR,12/10/2025,20:30,Arena Pantanal / Cuiaba
+314,Paysandu / PA,Remo / PA,14/10/2025,19:30,Olímpico do Pará / Belem
+315,Chapecoense / SC,Botafogo / SP,14/10/2025,19:30,Índio Condá / Chapeco
+316,Criciúma / SC,América / MG,12/10/2025,18:30,Heriberto Hulse / Criciuma
+317,CRB / AL,Ferroviária / SP,13/10/2025,21:30,Rei Pelé / Maceio
+318,Athletic / MG,Goiás / GO,11/10/2025,16:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+319,Gremio Novorizontino - / SP,Operário / PR,12/10/2025,16:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+320,Volta Redonda / RJ,Atlético Goianiense / GO,13/10/2025,19:00,Sylvio Raulino de Oliveira / Volta Redonda
+321,Coritiba / PR,Athletico Paranaense / PR,19/10/2025,18:30,Major Antônio Couto Pereira / Curitiba
+322,Goiás / GO,Chapecoense / SC,19/10/2025,20:30,Hailé Pinheiro / Goiania
+323,Atlético Goianiense / GO,Vila Nova / GO,18/10/2025,16:00,Antônio Accioly / Goiania
+324,Remo / PA,Athletic / MG,18/10/2025,20:30,Evandro Almeida / Belem
+325,Avaí / SC,Criciúma / SC,19/10/2025,16:00,Aderbal Ramos da Silva / Florianopolis
+326,Operário / PR,Volta Redonda / RJ,19/10/2025,16:00,Germano Kruger / Ponta Grossa
+327,Amazonas / AM,Gremio Novorizontino - / SP,17/10/2025,20:00,Carlos Zamith / Manaus
+328,América / MG,CRB / AL,18/10/2025,18:30,Raimundo Sampaio / Belo Horizonte
+329,Ferroviária / SP,Paysandu / PA,20/10/2025,19:30,Ademar Pereira de Barros / Araraquara
+330,Botafogo / SP,Cuiabá / MT,19/10/2025,18:30,Santa Cruz / Ribeirao Preto
+331,Athletico Paranaense / PR,Amazonas / AM,27/10/2025,21:30,Estádio Mario Celso Petraglia / Curitiba
+332,Vila Nova / GO,Ferroviária / SP,26/10/2025,18:30,Onésio Brasileiro Alvarenga / Goiania
+333,Cuiabá / MT,Remo / PA,24/10/2025,21:35,Arena Pantanal / Cuiaba
+334,Paysandu / PA,Avaí / SC,25/10/2025,18:30,Leônidas Sobré de Castro / Belem
+335,Chapecoense / SC,Operário / PR,27/10/2025,19:00,Índio Condá / Chapeco
+336,Criciúma / SC,Goiás / GO,25/10/2025,20:30,Heriberto Hulse / Criciuma
+337,CRB / AL,Atlético Goianiense / GO,26/10/2025,16:00,Rei Pelé / Maceio
+338,Athletic / MG,América / MG,25/10/2025,16:00,Estádio Joaquim Portugal  / Sao Joao del Rei
+339,Gremio Novorizontino - / SP,Botafogo / SP,24/10/2025,19:00,Dr. Jorge Ismael de Biasi / Novo Horizonte
+340,Volta Redonda / RJ,Coritiba / PR,25/10/2025,16:00,Sylvio Raulino de Oliveira / Volta Redonda
+341,Coritiba / PR,CRB / AL,31/10/2025,19:00,Major Antônio Couto Pereira / Curitiba
+342,Goiás / GO,Athletico Paranaense / PR,01/11/2025,16:00,Hailé Pinheiro / Goiania
+343,Atlético Goianiense / GO,Paysandu / PA,31/10/2025,19:00,Antônio Accioly / Goiania
+344,Remo / PA,Chapecoense / SC,02/11/2025,18:30,Evandro Almeida / Belem
+345,Avaí / SC,Athletic / MG,01/11/2025,18:30,Aderbal Ramos da Silva / Florianopolis
+346,Operário / PR,Vila Nova / GO,02/11/2025,20:30,Germano Kruger / Ponta Grossa
+347,Amazonas / AM,Cuiabá / MT,02/11/2025,16:00,Carlos Zamith / Manaus
+349,Ferroviária / SP,Criciúma / SC,31/10/2025,21:35,Ademar Pereira de Barros / Araraquara
