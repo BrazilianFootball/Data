@@ -40,7 +40,7 @@ This repository is organized in three main folders:
 |  Serie A (2022) |    380    |     380     |
 |  Serie A (2023) |    380    |     380     |
 |  Serie A (2024) |    380    |     380     |
-|  Serie A (2025) |    310    |     307     |
+|  Serie A (2025) |    330    |     327     |
 |  Serie B (2013) |    380    |     380     |
 |  Serie B (2014) |    380    |     379     |
 |  Serie B (2015) |    380    |     380     |
@@ -53,7 +53,7 @@ This repository is organized in three main folders:
 |  Serie B (2022) |    380    |     380     |
 |  Serie B (2023) |    380    |     380     |
 |  Serie B (2024) |    380    |     379     |
-|  Serie B (2025) |    349    |     344     |
+|  Serie B (2025) |    359    |     353     |
 |  Serie C (2013) |    220    |     213     |
 |  Serie C (2014) |    194    |     194     |
 |  Serie C (2015) |    194    |     194     |
