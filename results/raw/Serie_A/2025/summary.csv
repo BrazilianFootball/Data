@@ -118,9 +118,11 @@ Game,Home,Away,Date,Time,Stadium
 117,Grêmio / RS,Corinthians / SP,12/06/2025,20:00,Arena do Grêmio / Porto Alegre
 118,Vitória / BA,Cruzeiro / MG,12/06/2025,19:00,Manoel Barradas / Salvador
 119,Fortaleza / CE,Santos / SP,12/06/2025,19:30,Governador Plácido Aderaldo Castelo / Fortaleza
+120,Sport / PE,Flamengo / RJ,15/11/2025,18:30,Arena Pernambuco Governador Carlos Wilson Campos / São Lourenço da Mata
 121,Flamengo / RJ,São Paulo / SP,12/07/2025,16:30,Jornalista Mário Filho / Rio de Janeiro
 122,Vasco da Gama / RJ,Botafogo / RJ,12/07/2025,18:30,Estádio Nacional Mané Garrincha / Brasilia
 123,Corinthians / SP,Red Bull Bragantino / SP,13/07/2025,19:00,Arena Corinthians / Sao Paulo
+124,Santos / SP,Palmeiras / SP,15/11/2025,21:00,Urbano Caldeira / Santos
 125,Mirassol / SP,Fluminense / RJ,08/10/2025,21:00,José Maria de Campos Maia / Mirassol
 126,Cruzeiro / MG,Grêmio / RS,13/07/2025,20:30,Magalhães Pinto / Belo Horizonte
 127,Internacional / RS,Vitória / BA,12/07/2025,16:30,José Pinheiro Borda / Porto Alegre
@@ -152,6 +154,7 @@ Game,Home,Away,Date,Time,Stadium
 153,Corinthians / SP,Cruzeiro / MG,23/07/2025,19:30,Arena Corinthians / Sao Paulo
 154,Santos / SP,Internacional / RS,23/07/2025,21:30,Urbano Caldeira / Santos
 155,Red Bull Bragantino / SP,Flamengo / RJ,23/07/2025,21:30,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+156,Atlético Mineiro / MG,Fortaleza / CE,12/11/2025,20:30,ARENA MRV / Belo Horizonte
 157,Grêmio / RS,Botafogo / RJ,24/09/2025,19:30,Arena do Grêmio / Porto Alegre
 158,Vitória / BA,Sport / PE,23/07/2025,21:30,Manoel Barradas / Salvador
 159,Ceará / CE,Mirassol / SP,23/07/2025,19:00,Governador Plácido Aderaldo Castelo / Fortaleza

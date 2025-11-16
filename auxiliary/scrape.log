@@ -1262,3 +1262,14 @@
 
 -------------------------------------------------------------------------------------
 
+2025-11-16 13:12:25 [Scraping] - Beginning docket scraping.
+2025-11-16 13:12:32 [Scraping] - Docket scraping complete.
+                                   [INFO] 11 dockets addeds.
+2025-11-16 13:12:32 [Extract]  - Beginning info extract.
+2025-11-16 13:12:33 [Extract]  - Info extract complete.
+                                   [INFO] 5 games failed.
+2025-11-16 13:12:33 [Lineups]  - Beginning lineups treatment.
+2025-11-16 13:12:33 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
