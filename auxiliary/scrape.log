@@ -1273,3 +1273,57 @@
 
 -------------------------------------------------------------------------------------
 
+2025-11-20 12:20:08 [Scraping] - Beginning docket scraping.
+2025-11-20 12:20:51 [Scraping] - Beginning docket scraping.
+2025-11-20 12:20:57 [Scraping] - Docket scraping complete.
+                                   [INFO] 9 dockets addeds.
+2025-11-20 12:20:57 [Extract]  - Beginning info extract.
+2025-11-20 12:20:58 [Extract]  - Info extract complete.
+                                   [INFO] 5 games failed.
+2025-11-20 12:20:58 [Lineups]  - Beginning lineups treatment.
+2025-11-20 12:20:59 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2025-11-20 12:24:29 [Scraping] - Beginning docket scraping.
+2025-11-20 12:25:04 [Scraping] - Beginning docket scraping.
+2025-11-20 12:25:20 [Scraping] - Docket scraping complete.
+                                   [INFO] 2 dockets addeds.
+2025-11-20 12:25:20 [Extract]  - Beginning info extract.
+2025-11-20 12:25:21 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2025-11-20 12:25:21 [Lineups]  - Beginning lineups treatment.
+2025-11-20 12:25:21 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2025-11-20 12:26:35 [Scraping] - Beginning docket scraping.
+2025-11-20 12:26:48 [Scraping] - Docket scraping complete.
+                                   [INFO] Already up to date.
+2025-11-20 12:26:48 [Extract]  - Beginning info extract.
+2025-11-20 12:26:48 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2025-11-20 12:26:48 [Lineups]  - Beginning lineups treatment.
+2025-11-20 12:26:48 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2025-11-20 12:26:56 [Extract]  - Beginning info extract.
+2025-11-20 12:26:56 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2025-11-20 12:26:56 [Lineups]  - Beginning lineups treatment.
+2025-11-20 12:26:56 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+
+2025-11-20 12:27:46 [Scraping] - Beginning docket scraping.
+2025-11-20 12:28:02 [Scraping] - Docket scraping complete.
+                                   [INFO] 2 dockets addeds.
+2025-11-20 12:28:02 [Extract]  - Beginning info extract.
+2025-11-20 12:28:02 [Extract]  - Info extract complete.
+                                   [INFO] Sucess!
+2025-11-20 12:28:02 [Lineups]  - Beginning lineups treatment.
+2025-11-20 12:28:03 [Lineups]  - Lineups complete.
+
+-------------------------------------------------------------------------------------
+

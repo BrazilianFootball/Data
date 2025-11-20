@@ -69,7 +69,7 @@ def extract_games(competition, cod, year, files):
     game = 0
     while True:
         game += 1
-        if count_end == 10:
+        if count_end == 40:
             break
         try:
             name = f"./raw/{competition}/{year}/PDFs/{str(game).zfill(3)}.pdf"
@@ -217,7 +217,7 @@ def extract(competitions, min_year, max_year, cleaning=True):
 
                     continue
 
-                if count_end == 10:
+                if count_end == 40:
                     break
                 f_club, f_result, f_players, f_goals, f_changes = (
                     False,
