@@ -331,7 +331,51 @@ Game,Home,Away,Date,Time,Stadium
 330,Sport / PE,Atlético Mineiro / MG,08/11/2025,16:00,Adelmar da Costa Carvalho / Recife
 331,Fluminense / RJ,Flamengo / RJ,19/11/2025,21:30,Jornalista Mário Filho / Rio de Janeiro
 332,Botafogo / RJ,Sport / PE,18/11/2025,20:30,Nilton Santos / Rio de Janeiro
+333,Corinthians / SP,São Paulo / SP,20/11/2025,19:30,Arena Corinthians / Sao Paulo
 334,Santos / SP,Mirassol / SP,19/11/2025,21:30,Urbano Caldeira / Santos
+335,Red Bull Bragantino / SP,Vitória / BA,03/12/2025,19:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+336,Atlético Mineiro / MG,Palmeiras / SP,03/12/2025,21:30,ARENA MRV / Belo Horizonte
 337,Grêmio / RS,Vasco da Gama / RJ,19/11/2025,21:30,Arena do Grêmio / Porto Alegre
+338,Bahia / BA,Fortaleza / CE,20/11/2025,18:00,Octávio Mangabeira / Salvador
+339,Ceará / CE,Internacional / RS,20/11/2025,21:30,Governador Plácido Aderaldo Castelo / Fortaleza
+340,Juventude / RS,Cruzeiro / MG,20/11/2025,16:00,Alfredo Jaconi / Caxias do Sul
+341,Flamengo / RJ,Red Bull Bragantino / SP,22/11/2025,21:30,Jornalista Mário Filho / Rio de Janeiro
+342,Botafogo / RJ,Grêmio / RS,22/11/2025,19:30,Nilton Santos / Rio de Janeiro
+343,Palmeiras / SP,Fluminense / RJ,22/11/2025,21:30,Allianz Parque / Sao Paulo
+344,São Paulo / SP,Juventude / RS,23/11/2025,16:00,Urbano Caldeira / Santos
+345,Mirassol / SP,Ceará / CE,24/11/2025,19:00,José Maria de Campos Maia / Mirassol
+346,Cruzeiro / MG,Corinthians / SP,23/11/2025,20:30,Magalhães Pinto / Belo Horizonte
+347,Internacional / RS,Santos / SP,24/11/2025,21:00,José Pinheiro Borda / Porto Alegre
+348,Bahia / BA,Vasco da Gama / RJ,23/11/2025,16:00,Octávio Mangabeira / Salvador
+349,Fortaleza / CE,Atlético Mineiro / MG,30/11/2025,18:30,Governador Plácido Aderaldo Castelo / Fortaleza
+350,Sport / PE,Vitória / BA,23/11/2025,18:30,Adelmar da Costa Carvalho / Recife
+351,Fluminense / RJ,São Paulo / SP,27/11/2025,20:30,Jornalista Mário Filho / Rio de Janeiro
+352,Vasco da Gama / RJ,Internacional / RS,28/11/2025,19:30,São Januário / Rio de Janeiro
+353,Corinthians / SP,Botafogo / RJ,30/11/2025,16:00,Arena Corinthians / Sao Paulo
+354,Santos / SP,Sport / PE,28/11/2025,21:30,Urbano Caldeira / Santos
+355,Red Bull Bragantino / SP,Fortaleza / CE,26/11/2025,19:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+356,Atlético Mineiro / MG,Flamengo / RJ,25/11/2025,21:30,ARENA MRV / Belo Horizonte
+357,Grêmio / RS,Palmeiras / SP,25/11/2025,21:30,Arena do Grêmio / Porto Alegre
+358,Vitória / BA,Mirassol / SP,29/11/2025,16:00,Manoel Barradas / Salvador
+359,Ceará / CE,Cruzeiro / MG,29/11/2025,21:00,Governador Plácido Aderaldo Castelo / Fortaleza
+360,Juventude / RS,Bahia / BA,28/11/2025,19:00,Alfredo Jaconi / Caxias do Sul
+361,Flamengo / RJ,Ceará / CE,03/12/2025,21:30,Jornalista Mário Filho / Rio de Janeiro
+362,Vasco da Gama / RJ,Mirassol / SP,02/12/2025,19:00,São Januário / Rio de Janeiro
 363,Palmeiras / SP,Vitória / BA,19/11/2025,19:30,Allianz Parque / Sao Paulo
+364,São Paulo / SP,Internacional / RS,03/12/2025,20:00,Urbano Caldeira / Santos
 365,Red Bull Bragantino / SP,Atlético Mineiro / MG,16/11/2025,19:00,Estádio Municipal Cícero de Souza Marques / Braganca Paulista
+366,Cruzeiro / MG,Botafogo / RJ,04/12/2025,19:30,Magalhães Pinto / Belo Horizonte
+367,Grêmio / RS,Fluminense / RJ,02/12/2025,21:30,Arena do Grêmio / Porto Alegre
+368,Bahia / BA,Sport / PE,03/12/2025,20:00,Octávio Mangabeira / Salvador
+369,Fortaleza / CE,Corinthians / SP,03/12/2025,19:00,Governador Plácido Aderaldo Castelo / Fortaleza
+370,Juventude / RS,Santos / SP,03/12/2025,19:30,Alfredo Jaconi / Caxias do Sul
+371,Fluminense / RJ,Bahia / BA,07/12/2025,16:00,Jornalista Mário Filho / Rio de Janeiro
+372,Botafogo / RJ,Fortaleza / CE,07/12/2025,16:00,Nilton Santos / Rio de Janeiro
+373,Corinthians / SP,Juventude / RS,07/12/2025,16:00,Arena Corinthians / Sao Paulo
+374,Santos / SP,Cruzeiro / MG,07/12/2025,16:00,Urbano Caldeira / Santos
+375,Mirassol / SP,Flamengo / RJ,06/12/2025,18:30,José Maria de Campos Maia / Mirassol
+376,Atlético Mineiro / MG,Vasco da Gama / RJ,07/12/2025,16:00,ARENA MRV / Belo Horizonte
+377,Internacional / RS,Red Bull Bragantino / SP,07/12/2025,16:00,José Pinheiro Borda / Porto Alegre
+378,Vitória / BA,São Paulo / SP,07/12/2025,16:00,Manoel Barradas / Salvador
+379,Ceará / CE,Palmeiras / SP,07/12/2025,16:00,Governador Plácido Aderaldo Castelo / Fortaleza
+380,Sport / PE,Grêmio / RS,07/12/2025,16:00,Adelmar da Costa Carvalho / Recife
